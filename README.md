@@ -1,11 +1,20 @@
 # Deid
 
 
-# Models
+## Models
  
 1. LLaMA
    
    Convert model weights to HF format (HuggingFace): convert_llama_weights_to_hf.py
+
+   非专业版本：
+   ```python
+   # Load model directly
+    from transformers import AutoTokenizer, AutoModelForCausalLM
+
+    tokenizer = AutoTokenizer.from_pretrained("openlm-research/open_llama_7b_v2")
+    model = AutoModelForCausalLM.from_pretrained("openlm-research/open_llama_7b_v2")
+    ```
 
 2. LLaMA2
    (**meta-llama/Llama-2-7b**)
@@ -34,3 +43,23 @@
     model = AutoModelForSeq2SeqLM.from_pretrained("google/flan-t5-base")
     ```
 
+## Dataset
+
+### Original Dataset
+**testing-PHI-Gold-fixed ** folerr contains xml files
+
+### Finetune
+1. sentences_nornal.csv
+2. sentences_random.csv
+
+extracted from testing-PHI-Gold-fixed folder
+
+Total number of occurrences of the word 'he' in sentences_he_she.csv: 3456
+
+Total number of occurrences of the word 'she' in sentences_he_she.csv: 2237
+
+- Diiference
+
+replaced with some wired/rare names 
+
+Replaced with 300 normal names

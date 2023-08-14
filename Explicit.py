@@ -13,7 +13,7 @@ from tqdm import tqdm
 input_directory = './testing-PHI-Gold-fixed'
 model = "tiiuae/falcon-7b"
 
-model_name_part = model.split("/")[-1].split("-")[-1]
+model_name_part = model.split("/")[-1]
 output_path = "./rewrite_{}_explicit".format(model_name_part)
 
 

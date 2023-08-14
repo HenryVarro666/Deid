@@ -3,6 +3,8 @@
 
 ## Models
  
+LLaMA系列建议本地加载模型
+
 1. LLaMA
    
    Convert model weights to HF format (HuggingFace): convert_llama_weights_to_hf.py

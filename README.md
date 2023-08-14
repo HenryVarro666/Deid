@@ -78,12 +78,15 @@ Replaced with 300 normal names
 # Load falcon-7b model
 #
 input_directory = './testing-PHI-Gold-fixed'
-# model = "tiiuae/falcon-7b"
-model = "google/flan-t5-base"
+model = "tiiuae/falcon-7b"
+# model = "google/flan-t5-base"
 model_name_part = model.split("/")[-1]
 output_path = "./rewrite_{}_implicit".format(model_name_part)
 # 修改以上model和input_directory
 ```
+**flan-t5是AutoModelForSeq2SeqLM**
+**falcon-7b是AutoModelForCausalLM**
+
 ### Local Models
 ```python
 # Load Local model

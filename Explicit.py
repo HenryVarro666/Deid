@@ -17,7 +17,16 @@ model = "tiiuae/falcon-7b"
 model_name_part = model.split("/")[-1]
 output_path = "./rewrite_{}_implicit".format(model_name_part)
 
-# 
+#
+# # Load Local model
+# #
+# input_directory = './testing-PHI-Gold-fixed'
+
+# model = "llama2-7b"
+
+# model_name_part = model
+# output_path = "./rewrite_{}_implicit".format(model_name_part)
+# # 
 # 修改以上model和input_directory
 
 

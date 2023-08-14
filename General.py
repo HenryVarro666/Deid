@@ -1,6 +1,5 @@
 import os
-#os.environ["CUDA_VISIBLE_DEVICES"] = "3,4,7"
-# os.environ["CUDA_VISIBLE_DEVICES"] = "3"
+import torch
 
 from bs4 import BeautifulSoup
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM

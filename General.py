@@ -12,7 +12,6 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 #
 input_directory = './testing-PHI-Gold-fixed'
 model = "tiiuae/falcon-7b"
-# model = "google/flan-t5-base"
 model_name_part = model.split("/")[-1]
 output_path = "./rewrite_{}_implicit".format(model_name_part)
 # 修改以上model和input_directory

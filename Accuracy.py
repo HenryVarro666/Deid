@@ -9,14 +9,14 @@ def words_in_string(word_list, a_string):
     return set(word_list).intersection(a_string.split())
 
 
+#
+#
+original_directory = './testing-PHI-Gold-fixed'
+rewrite_directory = './rewrite_flan-t5-base_implicit'
+#
+#
 
-# original_directory = './testing-PHI-Gold-fixed'
 
-# rewrite_directory = './rewrite_falcon_explicit'
-
-
-original_directory = './testfolder'
-rewrite_directory = './testoutput'
 
 
 list_of_files_to_check = []
@@ -137,13 +137,13 @@ for i in range(len(list_of_files_to_check)):
     for word in words_in_string(ids, a_string):
         ids_count += 1
 
-    # print("Names remaining: ", names_count)
-    # print("Professions remaining: ", professions_count)
-    # print("Locations remaining: ", locations_count)
-    # print("Ages remaining: ", ages_count)
-    # print("Dates remaining: ", dates_count)
-    # print("Contacts remaining: ", contacts_count)
-    # print("Ids remaining: ", ids_count)
+    print("Names remaining: ", names_count)
+    print("Professions remaining: ", professions_count)
+    print("Locations remaining: ", locations_count)
+    print("Ages remaining: ", ages_count)
+    print("Dates remaining: ", dates_count)
+    print("Contacts remaining: ", contacts_count)
+    print("Ids remaining: ", ids_count)
 
     sum = names_count + professions_count + locations_count + ages_count +  dates_count + contacts_count + ids_count
     total_length = len(names) + len(professions) + len(locations) + len(ages) + len(dates) + len(contacts) + len(ids)

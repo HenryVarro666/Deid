@@ -36,7 +36,9 @@ LLaMA系列建议本地加载模型
    (**google/flan-t5-base**) 
    
    **There are multiple versions for flan-t5 models.**
+
    **flan-t5是AutoModelForSeq2SeqLM**
+   
    **falcon-7b是AutoModelForCausalLM**
 
    ```python
@@ -85,6 +87,7 @@ output_path = "./rewrite_{}_implicit".format(model_name_part)
 # 修改以上model和input_directory
 ```
 **flan-t5是AutoModelForSeq2SeqLM**
+
 **falcon-7b是AutoModelForCausalLM**
 
 ### Local Models

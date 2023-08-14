@@ -36,6 +36,8 @@ LLaMA系列建议本地加载模型
    (**google/flan-t5-base**) 
    
    **There are multiple versions for flan-t5 models.**
+   **flan-t5是AutoModelForSeq2SeqLM**
+   **falcon-7b是AutoModelForCausalLM**
 
    ```python
    # Load model directly
@@ -44,6 +46,8 @@ LLaMA系列建议本地加载模型
     tokenizer = AutoTokenizer.from_pretrained("google/flan-t5-base")
     model = AutoModelForSeq2SeqLM.from_pretrained("google/flan-t5-base")
     ```
+
+
 
 ## Dataset
 

@@ -1,0 +1,6 @@
+einops
+transformers
+torch
+tqdm
+bs4
+statistics

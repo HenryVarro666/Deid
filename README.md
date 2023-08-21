@@ -162,3 +162,24 @@ for filename in tqdm(sorted(os.listdir(source_dir))):
                       pattern = r'\b{}\b'.format(r)
                       text = re.sub(pattern, '[redacted]', text)
 ```
+## Experiment
+### Experiment1
+```python
+pipeline = transformers.pipeline(
+    "text-generation",
+    model=model,
+    tokenizer=tokenizer,
+    torch_dtype=torch.bfloat16,
+    trust_remote_code=True,
+    device_map="auto",
+)
+```
+
+### Experiment2
+```python
+# Load model directly
+from transformers import AutoTokenizer, AutoModelForCausalLM
+
+tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-hf")
+model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-7b-hf")
+```

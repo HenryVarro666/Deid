@@ -8,8 +8,7 @@ from tqdm import tqdm
 
 
 # input_directory = './testing-PHI-Gold-fixed'
-# # model = "tiiuae/falcon-7b"
-# model = "google/flan-t5-base"
+# model = "tiiuae/falcon-7b"
 # model_name_part = model.split("/")[-1]
 # output_path = "./rewrite_{}_explicit2".format(model_name_part)
 

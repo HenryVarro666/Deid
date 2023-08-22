@@ -23,6 +23,13 @@ LLaMA系列建议本地加载模型
 
     Convert model weights to HF format (HuggingFace): convert_llama_weights_to_hf.py
 
+    ```python
+    # Load model directly
+    from transformers import AutoTokenizer, AutoModelForCausalLM
+
+    tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-hf")
+    model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-7b-hf")
+    ```
 3. Falcon-7b
    (**tiiuae/falcon-7b**)
 

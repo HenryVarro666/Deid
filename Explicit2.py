@@ -11,7 +11,8 @@ from tqdm import tqdm
 #
 input_directory = './testing-PHI-Gold-fixed'
 # model = "tiiuae/falcon-7b"
-model = "google/flan-t5-base"
+# model = "google/flan-t5-base"
+model = "meta-llama/Llama-2-7b-hf"
 model_name_part = model.split("/")[-1]
 output_path = "./rewrite_{}_explicit".format(model_name_part)
 # 修改以上model和input_directory
@@ -37,15 +38,7 @@ if not os.path.exists(rewrite_path):
     os.makedirs(rewrite_path)
 
 tokenizer = AutoTokenizer.from_pretrained(model)
-# pipeline = transformers.pipeline(
-#     "text-generation",
-#     model=model,
-#     tokenizer=tokenizer,
-#     torch_dtype=torch.bfloat16,
-#     trust_remote_code=True,
-#     device_map="auto",
-# )
-model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-7b-hf")
+model = AutoModelForCausalLM.from_pretrained(model)
 
 list_of_text_contents = []
 list_of_files = []

@@ -7,20 +7,20 @@ import time
 from tqdm import tqdm
 
 
-input_directory = './testing-PHI-Gold-fixed'
-# model = "tiiuae/falcon-7b"
-model = "google/flan-t5-base"
-model_name_part = model.split("/")[-1]
-output_path = "./rewrite_{}_explicit2".format(model_name_part)
-
-
-
-
 # input_directory = './testing-PHI-Gold-fixed'
-# # model = "LLaMA1_7B"
-# model = "LLaMA2_7B"
-# model_name_part = model
+# # model = "tiiuae/falcon-7b"
+# model = "google/flan-t5-base"
+# model_name_part = model.split("/")[-1]
 # output_path = "./rewrite_{}_explicit2".format(model_name_part)
+
+
+
+
+input_directory = './testing-PHI-Gold-fixed'
+model = "LLaMA1_7B"
+# model = "LLaMA2_7B"
+model_name_part = model
+output_path = "./rewrite_{}_explicit2".format(model_name_part)
 
 Explicit_prompt= "Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: \n"
 

@@ -7,24 +7,22 @@ import time
 from tqdm import tqdm
 
 
-# Load falcon-7b model
-#
 input_directory = './testing-PHI-Gold-fixed'
 # model = "tiiuae/falcon-7b"
-# model = "google/flan-t5-base"
-model = "meta-llama/Llama-2-7b-hf"
+model = "google/flan-t5-base"
 model_name_part = model.split("/")[-1]
-output_path = "./rewrite_{}_explicit".format(model_name_part)
+output_path = "./rewrite_{}_explicit2".format(model_name_part)
 
 
-# # Load Local model
-# #
+
+
 # input_directory = './testing-PHI-Gold-fixed'
-# model = "LLaMA1_7B"
+# # model = "LLaMA1_7B"
+# model = "LLaMA2_7B"
 # model_name_part = model
-# output_path = "./rewrite_{}_explicit".format(model_name_part)
+# output_path = "./rewrite_{}_explicit2".format(model_name_part)
 
-
+Explicit_prompt= "Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: \n"
 
 rewrite_path = output_path
 directory = input_directory
@@ -52,7 +50,7 @@ for filename in os.listdir(directory):
             list_of_text_contents.append(text_content)
 
 for i in tqdm(range(len(list_of_text_contents)), desc="Processing files"):
-    prompt = "Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: \n" + list_of_text_contents[i]
+    prompt = Explicit_prompt + list_of_text_contents[i]
 
     # Run the model
     output = model.generate(prompt)

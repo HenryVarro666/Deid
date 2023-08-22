@@ -8,8 +8,9 @@ from tqdm  import tqdm
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
 
-#
+
 input_directory = './testing-PHI-Gold-fixed'
+# model = "tiiuae/falcon-7b"
 model = "google/flan-t5-base"
 model_name_part = model.split("/")[-1]
 output_path = "./rewrite_{}_general2".format(model_name_part)
@@ -17,21 +18,13 @@ output_path = "./rewrite_{}_general2".format(model_name_part)
 
 
 
-# input_directory = './testing-PHI-Gold-fixed'
-# model = "LLaMA1_7B"
-# # model = "LLaMA2_7B"
-# model_name_part = model
-# output_path = "./rewrite_{}_genral2".format(model_name_part)
-
-
-
 
 class QAMT0:
     model_path = model
-    
+
     def __init__(self):
         self.tokenizer = T5Tokenizer.from_pretrained(self.model_path)
-        self.model = T5ForConditionalGeneration.from_pretrained(self.model_path).to("cuda")
+        self.model = T5ForConditionalGeneration.from_pretrained(self.model_path,trust_remote_code=True).to("cuda")
         # self.model = AutoModelForSeq2SeqLM.from_pretrained(self.model_path,trust_remote_code=True).to("cuda")
 
     def extract(self, text:str, question:str, iterate:bool=False) -> []:

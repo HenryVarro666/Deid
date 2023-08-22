@@ -10,20 +10,19 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 
 #
 input_directory = './testing-PHI-Gold-fixed'
-
 model = "tiiuae/falcon-7b"
 # model = "google/flan-t5-base"
-# model = "meta-llama/Llama-2-7b-hf"
 model_name_part = model.split("/")[-1]
-output_path = "./rewrite_{}_general".format(model_name_part)
+output_path = "./rewrite_{}_general2".format(model_name_part)
 
 
 
 
 # input_directory = './testing-PHI-Gold-fixed'
 # model = "LLaMA1_7B"
+# # model = "LLaMA2_7B"
 # model_name_part = model
-# output_path = "./rewrite_{}_genral".format(model_name_part)
+# output_path = "./rewrite_{}_genral2".format(model_name_part)
 
 
 

@@ -4,3 +4,4 @@ torch
 tqdm
 bs4
 statistics
+sentencepiece

@@ -14,8 +14,8 @@ from tqdm import tqdm
 # output_path = "./rewrite_{}_implicit2".format(model_name_part)
 
 input_directory = './testing-PHI-Gold-fixed'
-model = "LLaMA1_7B"
-# model = "LLaMA2_7B"
+# model = "LLaMA1_7B"
+model = "LLaMA2_7B"
 model_name_part = model
 output_path = "./rewrite_{}_implicit2".format(model_name_part)
 

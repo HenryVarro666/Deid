@@ -32,7 +32,7 @@ if not os.path.exists(rewrite_path):
 
 
 tokenizer = AutoTokenizer.from_pretrained(model)
-model = AutoModelForCausalLM.from_pretrained(model)
+model = AutoModelForCausalLM.from_pretrained(model,trust_remote_code=True).to("cuda")
 
 
 
@@ -56,19 +56,15 @@ for filename in os.listdir(directory):
 
 for i in tqdm(range(len(list_of_text_contents)), desc="Processing files"):
     prompt = Implicit_prompt + list_of_text_contents[i]  
-    # inputs = tokenizer.encode(prompt, return_tensors='pt', truncation=True, max_length=2048)
+    inputs = tokenizer.encode(prompt, return_tensors='pt', truncation=True, max_length=2048)
 
     # Run the model
-    output = model.generate(prompt)
-    # for seq in sequences:
-    #     print(f"Result: {seq['generated_text']}")
-
-    # rewrite_finding = tokenizer.decode(seq[0], skip_special_tokens=True)
-    output = model.generate(prompt)
+    output = model.generate(inputs)
+    rewrite_finding = tokenizer.decode(output[0], skip_special_tokens=True)
     rewrite_file = os.path.join(rewrite_path, list_of_files[i] + "_anonymized.txt")
 
     with open(rewrite_file, "w") as f:
-        f.write(output)
+        f.write(rewrite_finding)
 
     # print("-----------第" + str(i + 1) + "个\n-----------")
     # # print("-----------My prompt " + "\n-----------")

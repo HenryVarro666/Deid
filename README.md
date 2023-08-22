@@ -188,6 +188,7 @@ model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-7b-hf")
 
 model = "meta-llama/Llama-2-7b-hf"
 
+https://huggingface.co/meta-llama/Llama-2-7b-hf
 
 This one does not work.
 

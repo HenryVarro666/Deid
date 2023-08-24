@@ -232,7 +232,7 @@ print(tokenizer.batch_decode(outputs, skip_special_tokens=True))
 |-|-|-|-|-|
 |explicit|0.605|NA|0.612|0.612|
 |implicit|0.603|NA|0.609|0.609|
-|genral|0.597|0.737|0.597|0.597|
+|general|0.597|0.737|0.597|0.597|
 
 **注意：**
 

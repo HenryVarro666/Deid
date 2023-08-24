@@ -224,3 +224,19 @@ inputs = tokenizer("A step by step recipe to make bolognese pasta:", return_tens
 outputs = model.generate(**inputs)
 print(tokenizer.batch_decode(outputs, skip_special_tokens=True))
 ```
+
+---
+# Result Table
+
+||Falcon-7B|Flan-t5-base|LLaMA1_7B|LLaMA2_7B|
+|-|-|-|-|-|
+|explicit|0.605|NA|0.612|0.612|
+|implicit|0.603|NA|0.609|0.609|
+|genral|0.597|0.737|0.597|0.597|
+
+**注意：**
+
+Flan-t5-base在explicit和implicit表现不佳
+
+# To Do
+LLaMA模型需要进行验证 -0824

@@ -1,0 +1,322 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2068-02-04
+
+ASSOCIATED ARTHRITIS SPECIALISTS CENTER            Quijano, Baylee
+                                              2-03-68
+ 
+ 
+ 
+Identification:  Patient is a 53-year old markedly obese female 
+complaining of bilateral weight knee pain.  She denies any morning 
+stiffness, any jelling phenomena.  She has had no trauma or effusions in 
+the knee.  She had noted on x-ray many years ago that she had had a 
+chipped bone in the right knee and some mild osteoarthritis but it has 
+bothered her only intermittently until this year.  Last year she did go 
+to Briggs Stratton and dropped to 270 lb. at which point her knees felt 
+better, but currently she is back up to over 300 lb. and at her height 
+of 5 ft. 1 in., she is in pain.  She has not visited a physician.  She 
+has no internist who currently checks on her general medical health, but 
+she does report that the occasional Advil she takes does produce some 
+dyspepsia.  She has no history of gout, no history of psoriasis, no 
+history of pseudogout or any rash, alopecia, headaches, shoulder or hip 
+discomfort.  She does not complain of back pain but does have difficult 
+walking 50 yards because of the knee pain.
+ 
+Allergies:  None.
+ 
+Medications:  Occasional Advil.
+ 
+Past Surgical History:  Cholecystectomy 2064.  Two c-sections.
+ 
+Past Medical History:  Negative for hypertension, diabetes, cancer, 
+stroke, tuberculosis, hepatitis, asthma, heart disease.
+ 
+Family History:  Mother is alive and well with no medical problems.  
+Father is alive and well with no medical problems.  She has 12 siblings.  
+One sibling died of pneumonia at a young age.  Another sibling has 
+asthma.
+ 
+Physical Examination;  She is a markedly obese female, no apparent 
+distress.  She is 5 ft. 1 in. and weighs 304 lb.  Examination of joints:  
+No evidence of active synovitis or pain in her DIPs, PIPs, MCPs, wrists, 
+elbows, shoulders.  Bilateral hips are limited in internal external 
+rotation but not because of pain-- due to obesity, bilateral knees have 
+crepitus, but no warmth or swelling.  There is some pain at extremes of 
+flexion on the left of 110 degrees.  Ankles and toes within normal 
+limits.  Please note above in the clinical history that she does not 
+complain of back pain but does have difficult walking 50 yards because 
+of the knee pain.  The blood pressure could not be taken secondary to 
+the fact that the large blood pressure 
+cuff did not fit around her right arm. 
+ 
+Impression:  
+ 
+1.   Probable bilateral osteoarthritis.  I will obtain plain films and 
+     have prescribed Disalcid 3 gm. a day p.r.n.   GI and renal side 
+     effects explained.
+                                              2-03-68
+ 
+ 
+ 
+2.   We discussed seriously the need for weight loss.  She will be 
+     referred to the nutritionist to get on a weight loss program.  She 
+     will seriously entertain a weight loss program.  Patient will 
+     return in a few months unless she has any further problems.
+ 
+3.   I have referred her to an Internal Medicine doctor for health maintenance since 
+     she does not have one as yet.
+ 
+ 
+ 
+ 
+_________________________
+Ada R. Kruger, M.D.
+ 
+FK:SK:3696
+DD:2-03-68
+DT:2-05-68
+DV:2-03-68
+
+
+
+
+
+"""
+
+import re
+from collections import defaultdict
+from datetime import datetime
+import pprint
+import unicodedata
+from unicodata import normalize
+import json
+import sys
+import traceback
+
+
+
+
+def get_all_texts(path):
+    with open(path, "r", encoding="utf8") as textfile:
+        return textfile.read()
+
+
+
+
+def extract_clinical_data(clinical_text, docid):
+    docid = docid.strip().strip()[:2]
+    text = extract_patient_information(clinical_text, docid)
+    text = extract_problems(text, docid)
+    text = extract_diagnosis(text, docid)
+    text = extract_proposal(text, docid)
+    return text
+
+
+
+def extract_problems(text, docid):
+    """
+    :param clinical_text string:
+    :param docid string:
+    :return: text
+    """
+    text = text.replace("\\n","\n")
+    text = text.strip("\t ")
+    text = text.replace("\r\n","\n")
+    return text
+
+
+def extract_diagnosis(text, docid):
+    """
+    :param clinical_text string:
+    :param docid string:
+    :return: text
+    """
+
+    # find a diagnosis
+    diags = [d.strip() for d in text]
+
+    # filter out diagnoses that we know can never be a diagnosis (eg: 
+    # "dizziness" is not a diagnosis)
+    diags = [(e,d,0) for e,d,i in diags if not i]
+
+    # remove redundant diagnoses (eg: if the diagnosis is "back pain"
+    # we only want to keep the diagnosis, not the redundant "back"
+    if len(diags) > 1:
+        for i, j in zip(diags[:-1], diags[1:]):
+            if i[0] == j[0]:
+                diags[i[1]] = None
+
+    # get rid of diagnose that are not valid diagnosis
+    diagnoses = []
+    for e, d, i in diags:
+        if i == 0:
+            diagnoses.append((e,d))
+
+    # add new diagnoses
+    for i, d, i in diags:
+        if not d:
+            # skip
+            pass
+        elif " " == i and not diagnoses:
+            diagnoses.append((i, d))
+        elif " "!= i and diagnoses:
+            diagnoses += [(d, d)]
+
+
+
+def extract_proposal(text, docid):
+    """
+    :param clinical_text string:
+    :param docid string:
+    :return: text
+    """
+    proposals = [d.strip(r"'\"\n;") for d in text]
+
+    # filter out proposals that can never be a proposition (eg: 
+    # "back pain" is not a proposal)
+    proposals = [(e,d,0) for e,d,i in proposals if not i]
+
+    for i, j in zip(proposals, proposals[1:]):
+        if "Proposal" not in i and "Proposal" not in j:
+            i[:] = None
+
+    return proposals
+
+
+def extract_clinical_data_to_dicts(clinical_text, docid):
+    """
+    :param clinical_text string:
+    :param docid string:
+    :return: dict
+    """
+    clinical_text = remove_clinical_text_stuff(clinical_text, docid, False)
+    clinical_text = get_clinical_text_stuff(clinical_text)
+    diags = []
+    diags = get_all_diagnoses(diags, clinical_text, docid)
+    proposals = get_all_proposals(diags, clinical_text, docid)
+
+    clinical_dict = defaultdict(dict)
+    clinical_dict[docid] = {
+        "Proposals": proposals,
+        "Patient": diags,
+    }
+
+    return clinical_dict
+
+
+def get_all_diagnoses(diags, clinical_text, docid):
+    """
+    :param diags:
+    :param clinical_text:
+    :param docid:
+    :return: list
+    """
+    diags = [d.strip("'\"\n;") for d in diags]
+    diags = [d.strip(r"'\"\n;") for d in diags]
+    # filter out redundant diagnoses (eg: if the diagnosis is "back pain"
+    # we only want to keep the diagnosis, not the redundant "back"
+    if len(diags) > 1:
+        for i, j in zip(diags[:-1], diags[1:]):
+            if " " in i and not (j[0][1].strip("'\"
+            diags[0,j,j in (
+            diags:
+                j
+                j in diagnoses.stripping. 
+                diags[j:
+                j
+                diags[1]
+    diags:
+            diags[1]
+ 
+ 
+           
+ 
+            diagnostic tests.
+                
+            
+           
+            CORPORNOR PAT
+            
+            diags:
+
+
+             Diag
+diagnostic.
+            diagnostic tests
+           
+
+
+                            1
+            - 0
+           
+
+            diagnostics.
+
+                 diagnostic
+            tests
+
+
+            diagnostics
+
+            
+diagnostics
+di
+
+
+                 s.
+di 1 1
+           
+           
+20
+
+
+            di. 
+            diagnostic.
+diagnostics s.
+di. 
+diagnostics diagnostic di di.
+12 di 
+diagn and di. 1
+diagnostics
+Diagnostic.
+Diagnostic. Di, 3. di.
+
+1
+di 1 Diagnostic  Di.
+1
+1 Diagnostic and Di
+Di,  di.
+Di 0 di
+
+ 4 di.
+Di.
+di
+  Di
+A. 1 3 2. 2 di.  1 Di (di
+
+  di.  Di
+ 0. 15
+1.
+  Di 20 33
+
+[1, Di
+T: 29 s
+[15
+The
+with, Di,
+date s
+The Di and 
+date di 2
+date di. 2. This.
+M.
+M, as a. The date, the date date, date date: and a, the : 122 date date  year in the day ( 123. 2. (1A ( 211 and the: A
+A, A (1 (MA CAL IN PRE SURIC
+(2  and the (0:
+
+ An, An, a (M14
+
+:3: 4352 year:336, 712: of (60938 and 11 (2 and: a-, and a (1 and a 18
+2 and a (d in a [1.. : 0 [19788 ( 11 ( a,  (  a, but a in the, the. (15 year. 10.  in the 9 of a of  and, a and  and the a, and :  (1,, and  and  and a.  and an  and  a, the [.  and the 1. 8 a    and a  1, but the 3 in  ( : MIG I S CIS,. A CO-,1. Anistic.  in.22 and an 13 An An Anse An An Anistic An Anidient with the, 1. 1 and. 12. 1 and one to 1, 2 in the and an  and and : An: 1 and 5 in... 8 to the 1 -1  and the,.  in a  a, a,  in the  (3, it, and, in the 10 and.,.  in anistic. -  in [,  in  a.  in a  and "1 and (..   a.  in a and  the [  and " the [:. it,  it: it.,  it a  in it  (-1: the in [ ( ( ( :..  in  [ - an, An An An: An: in: the- it: - [ and it (,  [. [ [:, (:, ( [ in: : and ( [- in a [ [ - [: [: -: at the and a (- and in: [ at the, ( in a (  or. or. at the or a of the in a - a in [ and the and in: or, and and in a,,  a a in [  a ( ( in a [ in the ( and and- the " in a. 1, (  and a  (, - in a in her, and.. (, -  and-,  in (  in the - in an in a. and in in [  a (, the a, the and. the- [, - -  in. in  to ( a- in. in,, in (, and- in a in the- a, a and  in " in the,, at a at "  and,  (. in,. in the or and in a in the in in and, in a.  " and her "  and and  and.  " in the and in [ [ [ in the in a-  and a in a  or and a, and in or., in a in  c in.   and  a and  in,   a and a ( and a in.. in  a.. c and a..., in a. of al and of a in the a  in a c and a (  a ( (  the [ [ the   a.  and -   an -   a w (. and a-. [ a, [ (- a and [ ( the a  the  the: a ( a. [ a a [ and a a a, a, a a [ a a a a- a  a a C c a- c a- a and " [ a or c and- a- a [ [- B (  and- and and- [ w a- ( a  "  an "- [ a " a in a n ad ( the and ( an cl [ " of a a and " a [  ( a a [ a [  a a  [ n c " ( C and  and, and  c ( and, and,, [ [ [ and, [ and the n and [ and ( a "- w, and, an " of of ( a  of of a- a of of  of  and an  a [  a - an an. or w  no a a and or and a ( " and a or and w, a or "2, a  [2 a ( a and a of a of a a a. an a. a " an a n an a n and a ( " "  " an and (. and and and a- c and and- and [ and c and a, a ( a and " and [ a and a and and an " a a a and and but ( an and a (, and " a and the a " and  a " a, a a a " a an w a c w a and " a of a of of a of a of a a a of a a and,. but. " a- a a. the and an a, the. a her " w and an a and and a or " a a, w a a. a " an a and a a c or an c a a a a. a a c " a and a and a, a.  a a a a  w a a, an- a a and an and. ad or ( and a ( ad of a and the "nd of the of the and or a ( and ( a ch ad. a of w a a a and an and of- a a and " a to a a a a a [ to a to a  and a ( a an a ( an a a a to a an to a to. to a and a of d a, a of ad w. n a p w or, ( and a " ad w ad or a of a w w in h,, a c and ( a of a of the and a of a of " an and a ", of a. a of a a and a a- a of a a m of a a an of a a

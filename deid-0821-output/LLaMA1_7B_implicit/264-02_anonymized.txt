@@ -1,0 +1,417 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2089-03-28
+
+                     RHINELAND EMERGENCY DEPT VISIT
+
+ 
+
+PIERRE,EDEN   241-52-56-3                      VISIT DATE: 03/28/89
+
+The patient was interviewed and examined by myself with the 
+
+resident on 3/28/89.  Please see resident's note for full details.
+
+HISTORY OF PRESENTING COMPLAINT:  The patient is a female with 
+
+history of coronary artery disease, AICD, and cardiomyopathy who 
+
+comes in today with chest pain, onset iffy while she is walking, 
+
+substernal right anterior chest.  Went to sleep, had some shortness 
+
+of breath, no diaphoresis, nausea or dizziness.  Similar to this 
+
+pain in the past was her myocardial infarction.  She has chronic 
+
+risk factors of hypercholesterolemia, apparent menopausal, 
+
+echocardiogram on 9/87, 10 to 15% global hypokinesis.  
+
+Catheterization is left main disease, 50% ostial disease.           
+
+REVIEW OF SYSTEMS:  As in history of present illness but no recent 
+
+upper respiratory infection symptoms or orthopnea, or exercise 
+
+intolerance.    
+
+PAST MEDICAL HISTORY:  As above.  Surgery procedure:  ASAD 
+
+placement.   
+
+MEDICATIONS:  See nurses notes for details. 
+
+ALLERGIES:  See nurses notes for details. 
+
+SOCIAL HISTORY AND FAMILY HISTORY:  No tobacco or ETOH.  Lives with 
+
+family, accompanied by a friend tonight.  Family history:  
+
+Diabetes.  
+
+PHYSICAL EXAMINATION:  Alert and awake, pleasant female in no 
+
+apparent distress.  Agree with resident's documentation including 
+
+normal pulse, blood pressure 120/86, 02 sat 98%.  Clear lungs.  
+
+Heart is regular rate and rhythm.  Abdomen is soft.  Neuro:  Alert 
+
+and oriented x3.  No obvious cranial, or motor or sensory deficit.  
+
+LABORATORY EVALUATION:  Given her history of coronary artery 
+
+disease and her symptoms an electrocardiogram was unchanged.  
+
+Hematocrit is 37.  BUN and creatinine 19 and 1.  Liver function 
+
+tests are within normal limits.  CK 127, troponin .01.  
+
+Electrocardiogram, rhythm is paced, unchanged from priors.  Chest 
+
+x-ray is mild congestive heart failure compared to prior 
+
+examinations.    
+
+THERAPY RENDERED/COURSE IN ED:  Aspirin was given and she is chest 
+
+pain free currently.  Case was discussed with Guzmans Hospital 
+
+Cardiology.  Will try for an exercise tolerance test later on in 
+
+the afternoon.  Care was discussed with Dr. Rhodes.
+
+FINAL DIAGNOSIS:  Chest pain, rule out acute coronary syndrome.  
+
+DISPOSITION (including condition upon discharge):  Patient 
+
+currently in stable condition.  
+
+___________________________________                    ZP289/32887 
+
+FLORENCE F. CASEY, M.D.     FC44                      D:03/28/89 
+
+                                                       T:03/28/89 
+
+Dictated by:  FLORENCE F. CASEY, M.D.     FC44 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+*/
+
+package com.cloudera.csd.worm.common.io.record;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.io.LongWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapred.FileSplit;
+import org.apache.hadoop.mapred.InputSplit;
+import org.apache.hadoop.mapred.JobConf;
+import org.apache.hadoop.mapred.RecordReader;
+import org.apache.hadoop.mapred.Reporter;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import com.cloudera.csd.worm.common.io.util.FilePathUtils;
+import com.cloudera.csd.worm.common.io.util.PathFilter;
+import com.cloudera.csd.worm.common.io.util.PathUtil;
+
+/**
+ * A Hadoop record reader that reads from a Hadoop file system. 
+ */ 
+public class HadoopFileReader<KEYIN,VALUEIN,KEYOUT,VALUEOUT extends RecordBase> implements RecordReader<KEYIN,VALUEIN> {
+  
+  private static Logger logger = LoggerFactory
+     .getLogger(HadoopFileReader.class);
+  
+  private static final long serialVersionUID = 1L;
+  
+  private Configuration conf;
+  private JobConf jobConf = new JobConf();
+  private InputSplit[] splits;
+  private RecordReader<KEYIN,VALUEIN> recordReader;
+  private RecordWriter<KEYOUT,VALUEOUT> recordWriter;
+  private BufferedReader reader;
+  private RecordReader<KEYIN,VALUEIN> recordReader;
+  private RecordWriter<KEYOUT,VALUEOUT> recordWriter;
+  
+  /**
+   * Constructor.
+   *
+   * @param splits the input splits
+   * @param reader the BufferedReader to read from
+   * @param recordWriter the record writer
+   * @param reporter the reporter
+   */
+  public HadoopFileReader(InputSplit[] splits, BufferedReader reader, 
+      RecordWriter recordWriter,
+      RecordWritingReporter reporter) {
+    this.reader = reader;
+    this.recordWriter = recordWriter;
+    this.conf = recordWriter.getConf();
+    this.splits = splits;
+    this.reporter = reporter;
+  }
+  
+  public void initialize(InputSplit split, 
+      org.apache.hadoop.mapred.RecordReader<LongWritable,Text> recordReader) throws IOException, InterruptedException {
+    if (split instanceof FileSplit) {
+      JobConf jobConf2 = (JobConf) ((FileSplit)split).getJobContext().getConfiguration();
+      jobConf.setConf(jobConf2.getConf());
+    }
+      
+    PathFilter pathFilter = PathUtil.newPathFilter();
+    Path path; 
+    if (!pathFilter.isPathIncluded(getPath(split.getPath()))) { 
+      throw new IOException(pathFilter.toString());
+    }
+    this.recordReader = recordReader;
+    this.recordWriter.initialize(split, recordReader);        
+  }
+
+  private String getPath(String path) {
+    if (PathUtil.isLocalPath(path)) {
+      String pathToUse = PathUtil.toCanonicalPath(PathToUse.getAbsolutePath(path));
+      return pathToUse;
+    } else {
+      return path;
+    }
+  }
+  
+  public KEYIN getCurrentKey() {
+    return null;
+  }
+  
+  public RecordReader<KEYIN,VALUEIN> getCurrentRecordReader() {
+    return recordReader;
+  }
+  
+  @Override
+  public ValueIN next() throws IOException,
+      InterruptedException {
+    try {
+      // read the key and the value
+      return valueInFromCurrentRecordReader();
+    } catch (InterruptedException e) {
+      throw e;
+    } catch (Exception e) {
+      throw new IOException("Unable to read value from record", e);
+    }
+  }
+
+  private void recordKeyReadsAndPositions(Text key, LongWritable position) {
+    LongWritable readKey = recordWriter.getCurrentKey();
+    if (null!= recordWriter.getCurrentPos()) {
+      LongWritable currentPos = recordWriter.getCurrentPos();
+      if (null == position) {
+        position = new LongWritable(currentPos.get());
+      }
+      
+      if (readKey.length() > key.length()) {
+        if (reporter.getStatus().getPhase() == RecordWritingReporter.Phase.INPUT) {
+          reporter.incrCounter("mapkey", key.getLength(), null);
+          reporter.incrCounter("mapkeyreads", 1);
+        }
+        reporter.incrCounter("mappos", key.getLength(), position);
+        reporter.incrCounter("mapkeyreads", key.getLength(), position);
+      }
+      
+    }
+  }
+
+  private ValueIN nextValue() throws InterruptedException {
+    Text key = reader.readLine();
+    if (key!= null) {
+      key.setLength(null);
+      key.readLine();
+      reporter.setStatus.getPhase();
+      RecordReader<KEYIN,TEXT>
+      recordReader.readLine();
+      recordWriter.getCurrentPositions();
+
+      key.setCurrentPositions();
+        reporter.getStatus
+      READ.
+      key.set
+
+      RECEPT.
+      READ, 
+
+
+      KEYIN 
+      POS
+
+      RECERT.   CAR.
+
+     
+
+
+RECEPT.
+           
+      IN
+      IN
+       
+
+        REC.
+           
+
+
+      REP.
+       
+            IN
+           
+
+
+            C.
+REP IN RE
+
+R.
+                   RE.
+
+
+
+
+RECE
+
+
+
+           
+
+
+RE
+RE
+
+
+P RE
+RE.            MEDIC
+           
+
+
+            RE:
+            C RE 
+                RE 1
+P.            C.
+
+
+P.
+1
+
+RE:
+
+RE:
+RE 
+RE.
+
+            RE
+R
+
+RE
+
+
+P. RE
+RE RE 
+RE: 
+RE
+P RE.
+P
+RE            R.
+
+Re 19
+
+20952
+R 
+19
+RE
+RE
+Re 
+
+ 
+
+RE:
+RE
+RE
+RE
+114
+ 8
+R
+
+                
+RE   
+R
+
+R
+RE:
+
+R
+  19
+1
+RE
+
+
+
+
+
+
+
+DATE
+date:
+
+1
+20 and 0.
+and.
+ 
+
+
+date
+
+The 
+
+DATE
+
+1:
+
+
+
+The:
+date.
+
+
+1732 9
+189.1 3
+The ( 1.
+12
+ARE
+
+1 (MA (229
+  828:
+111, AVERS,R, ABS
+
+11
+90
+87979
+8979 and:2, 1
+M
+A and the date: date
+24.29,11. 9 and a: .
+(9.
+1/2
+
+
+99
+
+The
+
+CROP
+: A: R. 0007,090 (date and the and a:12
+0919.00 (conistic Anient Date,  11999 An7
+700009 and,00, a (19 10 (80 and and the181988,0128,9.8. An800089/67999, 9999: 00 and a (C IN RTA RTS RIST RENTA1281.11. Anistr,111,10 An An An Anistristic An An800000,060,00 in a-8, 1800 and and the00027,9-1-2. An.0,1-6 (8 Anight Anient,28 and9 Ancer 8 Anistic,1 (7 (2 and, a, 8 a and.191.0.0,0,01019,9 for the with the ( and a (9 8 for 8,410 a,  in the, a-6 and and in a in a88 (9 [9 [8 and 8 [1 ( [1 and and with the: [ and:. An and.: and: : : : 9-19 [:2:295 Anist An An An An An Anist An An0-6 [010 [1 and: An: An An An: an ( an. [: an and an and 1 [9: [9 [1- [201 by:  and and [ and [- and:.,:1-1 and  and and- an.:. - to: to [ of [ and of the [ and an,.-1 by,, An Anient by ( (,.  anistic in anism and- [. [10 and- to a., with a and and for1120 for the for the for a-1 for-9-0 in-  with for the and for for with to and with to on and with [ with and and and a0. and with- a, and and and in and and and for and with with and (1- 01 of20 [00 and and  (1 and and  and and in a with a (1 in. and and and and-1- in and.- and (-  [0 and and and with with. with and a- RE A B RO B and RCI RO RECE R and A RO R A- a-1 a ( for and for and [ and and of  and of and,., and in, ( and- for.  with. on r,  (0.: 0.-  and. A C (, and -1 and by  and -0 ( and of. and  of and 1 and and with. on and and in and with the with and and for. of the and ( of of the of the. [ a of  and for [ and  of of of the of of and of a of of of  of of  a in [ for and and for for ( and for for for for and for for for: for for for for and: for for for.: for for for a for for:: C and for ( or of  for ( of  and of of of  of C of:1 of of: of  of- of of for of of: of- of [ of.-C- C and  [ C. [. for and for,   - - of and of  1  ( C and. (-  (   ( and ( and  [-   for for the. of of of of of of of  and and [ and and and and of- and ( and on. and and and (- and/ and-1 C..  (1 and and and. C of 2 w. [[ (. of or of  and of and. [- W0.0 and on and ( and and to a. [0 and-1 (0 and0 and- A1 and and w and, a and for [ for ( for. and and and or and of and of of and. and- and. and and w. or. or and and and. and or and-0 of 1 and of and of of and and of and. or. and. and. ( and (. and and or and. and-0 C or- and, ( and ( in and C. and and ( and or.. [ ( of. of of of of of-0/ of. A and- [ of  and and and of a of of of of of of of and of. of  and of,. or  and. and and.- ( C and and of of of. of of of, of of of and of of and and A and ( and of and a and and and and and and and and and, and., and a or and a a and, 	 or a in or and and in. and and, 2 and or A and 0 and and and an and ( A- a and. a-  of an of of and of of the of and of the and ( and- C, and, A, -. C and- and C C1- 10.-0-0 or and or c a c w w and-1 0 and of of of of  of of and and and or of. or and of [ or0  or- of [ A- H 9/  C-1  [  and and and and and  a or a- [ of of- of of of of of- [ of of of of of A of C. [, and, (00 in or-0 and-

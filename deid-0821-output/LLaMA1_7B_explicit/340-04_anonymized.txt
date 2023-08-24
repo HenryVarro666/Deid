@@ -1,0 +1,762 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2078-06-22
+
+                                                       Patient Name: XIA,JEAN  [ 58269151(PROMPTCARE) ] 
+
+                                                         Date of Visit: 06/22/2078
+
+
+
+
+
+Reason for Visit
+
+pt was cleaning ear, now has pain mainly in left. worse over past three days.
+
+ 
+
+reports now taking atenolol (50 mg which she just took half an hour ago) and losartan,  Reports stopped amilodipine and hctz.  she had leg cramps, but is not clear which of these caused that.  reports feels bp is high because she forgot to take med.
+
+
+
+
+
+Review of Systems
+
+Constitutional: No fever, chills, fatigue, nightsweats, insomnia, change in weight
+
+ENT/Mouth: No rhinitis, epistaxis, sinus pain, change in hearing, tinnitus, discharge from ears,  oral lesions, problems chewing, dental pain, sore throat
+
+Cardiovascular: no chest pain, pressure, palpitation, PND, orthopnea, dyspnea on exertion, pedal edema, nocturia, claudication, 
+
+Respiratory: no cough, sputum, dyspnea, pleuritic pain, wheeze, loud snoring, hemoptysis
+
+
+
+
+
+Allergies
+
+      CLONIDINE    - Sleepiness, 
+
+      Codeine    - Rash, 
+
+      LISINOPRIL    - cough, 
+
+      Ibuprofen    - cramps, 
+
+      AMLODIPINE    - cramps, 
+
+
+
+Problems
+
+      Diabetes
+
+      HX kidney stones
+
+      Perimenopausal sx
+
+      Hypertension
+
+      Colonic adenoma 11/11/76
+
+
+
+Medications
+
+      Lipitor (ATORVASTATIN)   20 MG (20MG TABLET take 1) PO QD , please cancel previous script for 10 mg of lipitor thanks you, dr osburn
+
+      Glucotrol Xl (GLIPIZIDE Xl)   5 MG     take qd Tablet(s) PO QD 
+
+      PIROXICAM   20 MG (20MG CAPSULE take 1) PO QD 
+
+      Glucophage (METFORMIN)   1000 MG    take bid bid PO BID 
+
+      Cozaar (LOSARTAN)   100 MG PO QD 
+
+      ATENOLOL   100 MG (100MG TABLET take 1) PO QD 
+
+      Cortisporin Otic Suspension   4 DROP AS QID 
+
+
+
+Vital Signs
+
+      BLOOD PRESSURE   210/118 
+
+      PULSE   80 
+
+      TEMPERATURE   97.3 F
+
+      WEIGHT   160 lb
+
+
+
+Physical Exam
+
+
+
+Gen: Well appearing in NAD, WD, WN 
+
+ENT-Sclera were white, fundi disc sharp, conjunctiva clear, tympanic membranes normal, ear canal AS somewhat red. The oropharynx was pink without exudate. The neck was supple with out adenopathy. 
+
+LUNG- clear bilaterally, without rhonci, wheeze or rales, Normal excursion was noted. 
+
+Cor- heart rate was normal, rhythm was regular. No murmurs, gallops or rubs were detected 
+
+Extremities: no clubbing cyanosis or edema. 
+
+Skin- no abnormal lesions noted.
+
+
+
+
+
+
+
+Impression
+
+Ear- benign exam but symptomatic - try cortisporun otic
+
+ 
+
+HTN- very high, no sign of end organ injury at this moment- will increase atenolol to 100, and have her rtc for recheck.  It would be helpful to know whether cramps came from hctz or amilodipine.
+
+
+
+______________________________
+
+Charles Craig Max Zavaleta, M.D.
+
+
+
+Date of Care: 6/28/2018 
+
+
+Charles Craig Max Zavaleta, M.D.
+
+
+
+Record Date: 6/28/18
+
+
+
+
+
+Record Date: 6/29/18 
+
+
+
+
+
+Record Date: 7/5/18 
+
+
+
+
+
+Record Date: 7/8/18 
+
+
+
+
+
+
+
+Record Date: 8/2/18 
+
+
+
+
+
+
+Record Date: 8/2/2020 
+
+
+
+
+
+Record Date: 8/2/2021 
+
+
+
+
+
+Record Date: 10/5/2023.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+Record Date: 2/20/2025 
+
+Record Date: 10/25/1998.  
+
+Record Date: 2/20/2020.  
+
+Record Date: 6/17/2022. 
+
+Record Date: 4/19/2020. 
+
+Record Date: 5/17/2027. 
+
+Record Date: 3/29/2022 
+
+Record Date: 3/22/2024. 
+
+Record Date: 3/28/2028. 
+
+Record Date: 2/20/2026. 
+
+Record Date: 10/25/1998.  
+ 
+Record Date: 6/28/2018.  
+ 
+Record Date: 6/27/2019.  
+Record Date: 9/24/2024. 
+
+Record Date: 4/24/2027. 
+
+Record Date: 1/4/2020.  
+
+Record Date: 3/21/2021. 
+ 
+Record Date: 7/25/2028.  
+
+Record Date: 5/25/2024. 
+
+Record Date: 2/21/2025. 
+
+Record Date: 7/23/2028. 
+
+Record Date: 2/21/2017. 
+
+Record Date: 9/25/2026. 
+
+Record Date: 10/26/2026.
+
+Record Date: 9/25/2026. 
+
+Record Date: 12/26/82026.
+
+Record Date: 2026.   2526 and 2026.
+Record Date: Date: 20
+
+
+Record Date:2026/2026/26/26. 
+Date: 26.
+Date: 66/Date:
+Date: 20200
+20.
+Date: and Date 2025/20200 2001202024 202024/2020/19/2020200210.
+10 or date. 00531000 
+200002002134 and 0324 233, 400 and 3002 names, 0 names, and a 0 names: 3012001 1 00020,102,00 names 
+
+indic, 5 and the names with the name, 6:, a... and a patient names and a patient and... the and 1.
+
+or the...
+or. 
+
+and
+and the patient names. 4. 2 or 1 or names, names, names, or...
+[... or names, names and names,  and a, or, or the patient or the names, 
+The [are and are, and the last, a or... and 3, 10.
+
+
+name, [12 and: (1,  and remove, and the doctor, and: the 1:
+
+(daily, a…100, and the "...:
+
+[…
+10:
+...
+
+(17 are, 0,... 1 or 1...
+name the:...the... the 
+and the, and the, but and 
+and or, and a, but, 6, or...
+make, 1 or the and the or:
+and... and… are…
+
+...1, or a
+
+
+... and the, the and of the and a, the... and... and [1 are are, or, or, or the, 1, 2, [[ 1, the, and... [...and, and... 1, (
+1, 1., 0 and, and, and, [and, a and, [are, and, and, and, and 0 of (
+and, and, (any "and in the......and and the and the... an... (... 1 (... and... (le: 3 " 4 (
+in... 6-le-  and  of the
+[ or by or...  or or ( 1, the, and and, (
+., and. an, of the and...
+and, and,,, an, the and, an, or, 5, an (le, an, an, (an, An, and the and-2 (2- and, (and an [le and the and of, an, and, an, the and of the, anise- an, an (and, an, [an and an of, (An An
+, an, and (le and, and, anine 1, the, An An 0, an, 1, an an " and [  ( an, [ (le, an "0:
+-and of "An An:  of: and-4: 0-an-d and: An [1 ( an:...: an (: :  and and- an an: [ an an and an [ an an or an with ( an: [ an or an: - an- [1- [ an in- ( an and ( ( an an (. of " of the or and (. An ( in, an and, (, or an, and, an, and [ [ ( [ or an [ (1 and [, [ an and [ and an an [ an " are an (, [ ( an and,.,,  an an, " an an or- an,, " or, or or  or, an of of the of,, an - an an or and or and " An  and an or,, and ( and " of the or of,, an an an and an, ( or, an an-  and or an,, (, (, or  in, An An An or an an an an - - "  and (- of the of ( of ( of  an [, [ and an -, and,, an, (, or, -  an and- [ and, or or-1 or  and-1 (  an, ( an and (- or, ( an or of,, or,, or or,, (,,, and, an- ( an,,, (, or, 0 or, of,, 0 an0 of an, (,, 2, an, (, ( of,  of the of, of of, C, of an of, ( and an, and, ( and., and, and- and, an, [0 and, or0 an, - - an, ( and- (, ( and of and and and an, an or an- (  and - or  and (, and, and- or " ( an an and, [ an,,  ( or - ( or- are- and, and (,, and, - and an of ( or [ c and, an and [ c or,, ( and and and, ( and of: [ of and or and a, and ( ( and ( or or and ( " or a- or a or c c a ( C and  and and ( - and ( ( C and ( and, or  [,  or of of or of of, of ( of and [ of and of ( and., and,,, and and and, and,,  of, and or,,,  and or (, ( and ( and, [0 0 or, (, and,, c.  and ( and and or,,,,  or,  and and and or  ( and,, of  of  of, of, and ( and  or, (, ( or ( (, ( and and ( ( and of and or and (  or and  in ( ( and  and in ( C or,,, ( and [ and 0 or,, or, ( c -, and or c, or and and or and, and and, and and, and. and or (, or and, and and or (  and, or or  t w t, ( and, and,,, ( and [, (, and. or w (,,,,, and,,  or,,, and ( and,,, [,,, w (, and, a,,  a  (  a (, ( [,  w c ( (  is, w, a ( ( and ( C in, C,,,, ,,, w in (, ( C, and, and in ( C in a t.  in or  or t ad m c  [ (  [ m and m and m or t [ [ n  w, ( [ C  and (0 and [  and [ ( m [, m M M m and [ a  m or or  or or or  M0, a ( a  or a [ C or and or,, and or c,,,, a and  c and. and M , and M m,  and  c M a (, or or ( and/ 1- a  (,  m or m and,, M ( and,, m or or,.,  ( m  or  m m  or ( and  M,,  M and _, C  M  M- M or  m, and, M, M ( M  C, m  (  M  [.

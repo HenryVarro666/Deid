@@ -1,0 +1,474 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2086-12-08
+
+
+Silver Ridge Internal Medicine
+3 Eaton Place                                      OROZCO, KYLE
+Mansfield, NV 29473                                      56040785
+-----------                                           12/08/86
+
+
+INTERVAL HISTORY:  The patient is status post one lumbar epidural
+injection.  He is 61 years old with previous history of diabetes,
+as well as bilateral fem-pop surgery.  He has pain radiating to
+both legs up to calves and thighs.  He has moderate-to-severe
+spinal stenosis.  He had good response to L5-S1 epidural steroid
+injection once, about 3 months ago.  He states that he is
+reasonably symptom free but the pain is coming back.  Today, we
+are going to repeat the injection.
+
+PHYSICAL EXAMINATION:  Essentially unchanged from prior.
+
+PROCEDURE NOTE:  After obtaining informed consent, the patient
+placed in sitting position.  Lower back prepped and draped in
+usual sterile fashion.  A 17-gauge, Weiss needle used to access
+epidural space at L5-S1.  Three cc of Depo-Medrol and 3 cc of
+0.5% lidocaine were allowed to drip in via gravity.  No
+complications.  No heme, no CSF.  No paresthesia.
+
+FOLLOW-UP PLAN:  The patient to report for further injection in
+case needed in the next 2 or 3 months.
+
+
+
+
+
+______________________________
+Hardy Ostrowski, M.D.
+
+
+Dictated By: Hardy Ostrowski
+
+
+eScription document:1-1277442 EMSSten Tel
+
+
+
+DD: 12/08/86
+DT: 12/09/86
+DV: 12/08/86
+
+
+
+
+
+
+Dictated By: Hardy Ostrowski
+
+
+
+
+Dictated By: Hardy Ostrowski
+
+Dictated By: Hardy Ostrowski
+
+Dictated By: Hardy Ostrowski
+
+Dictated By: Hardy Ostrowski
+
+
+
+
+
+Dictated By: Hardy Ostrowski
+
+
+
+
+Dictated By: Hardy Ostrowski
+
+
+
+
+Dictated By: Hardy Ostrowski
+
+
+
+
+Dictated By: Hardy Ostrowski
+
+
+
+
+
+
+Dictated By: Hardy Ostrowski
+
+
+
+
+
+
+
+Dictated By: Hardy Ostrowski
+
+
+
+
+
+
+
+Dictated By: Hardy Ostrowski
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dictated By: Hardy Ostrowski
+
+
+
+
+
+Dictated By: Hardy Ostrowski
+
+
+
+
+
+
+
+dictated by: Hardy Ostrowski
+
+
+
+dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictation by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictation by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+
+Dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by, Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowksi
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+### End of file:
+
+### eScription document: 1-1277443 EMSSten Tel
+
+### eScription document: 1-1277444 EMSSten Tel
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+### eScription document: 1-1277445 EMSSten Tel
+
+dictated by: Hardy Ostrowski
+
+Dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+
+dictated by: Hardy Ostrowski
+dictated by:
+
+dictated by: Hardy Ostrowski
+
+dictated by: Ostrowski
+
+dictated by: Ostrowski
+dictated by:
+
+dictated by: Ostrowski
+dictated by: Ostrowski by: Ostrowski, or Ostrowski
+
+dictated by:
+or the following the date
+dictated by: date.
+dictated by, date and.
+Ostamp by
+dictated by: dates. by
+
+
+
+dictated by, and by date:
+
+names, and date.
+names or date by date:, and the letters
+dicted by date, and the letters, the letters
+and by the date of.
+
+patient and date: and date the dates by and
+
+
+by date by letters
+
+the letters: the following, by the date, by name
+date by the, date: date, date the letters: by the doctor by date
+
+the letter, the following, date
+by the date by...
+
+by date, and 
+let date:, and date by the patient and date codes with date of date or date with date and the date and date: the...
+
+the letter and 12 the clinically and identify the...
+The or and...
+13, 19 and the date, name, and the date (...
+or, name, but the patient.
+[…
+…
+
+and [the following, and the [the 2 months of are or [2-1, and [
+20. An…
+names of the patient names and date, and name.
+the names: and the patient and,
+
+1...
+name-name, as the...the and the patient:...
+11 and the 
+[15-
+
+
+
+
+
+use (... are the, and... indicate 0... [by the following... are... 1 and the and the name, [and the or:... (and: the and or.
+
+1 and... 
+
+
+are 1: (the [and of the and, the (and the 0 or...1- and...1, a (... and are are the... of the [1, and the 1 or 1, 1 and, 1 or 1, the, or [0, the (0, and the or, and, (the 0, the 1 (the, and the, and are in the, etc, and (1, and, (1, and are, are 0, 0 (any and a 3- and [and, [and (1 and the 1 and, "the 4-c.
+
+: and '1...
+... (11, "11 in a [1-name of the,  of the, (2 of 1 ([ (and-and the, the (in (or, anities of the [of 0 of the of a (. 1, 2, " and are, 0, are the are and-are-are-2-le-by-ann-2 or, the, 0 or, an (an, an (an, or (before, 3 and and the [an, and (1 an or or (an or, an in the and an and and and or (an of the- 1, and, the, an, 1, "an, 1 and, 0, and, and (1, 1, an, an, (with the 3, a-and an-in-3 for 0-1: 1 in it-3-1-1 in [: an " and: : 2-1-2-2: : (1 an or with-0 " 2-with and,-3 and  and-1-are, an are-1-  an and -C.-the of the from the and in the and-in. in and [, and [ or,, in ( and and and- and [ and,- and [ [-and in the- and by-1,-P- are-0-An An An  an and- and  (-and  or-0 and ( - 0 of and-in or of, of  of the- -  and-  and -2 by  and-1-C-and an of " of the of -An of " C An or or in the-C ( and-in- -1 or an an of an (- or- - and,,,, and-and in the an of the- or- and of the and of an ( and, -1 in,, or by and, an and-C An and-and in-2 of or- or- 1-2 of the an and  and-and, and and-le and-1- and- and an-  and and,,, [ and in and and- an and or,  or, and-C for (- and of and  and  or and-1 and and " or and,-  or of and of of-A-C of, of, of " and ( ( an,,,,,-C,, and [0-0. an and and-2-A -to in and and- -C- and, of- - and to - and- to-to- to- and-to- and or-M An P or- ( or and or or or, and- and- (-  (-  and- and- [ and-1-2 of or of and of and  and- and- and- as- and: or- "- and and -: C C:  and- and and ( - and- [ and and (.- and- and and- and- " and and of the of (: (- and and- and-0-  " and and- (, an [ or- of,, of and an- [ of and  and and, (- and and (.-  an- an- and of of the of of- of and of- of- or- an and and... for- and, an and ( ( and,, or and, - and. or and - and ( an- or (, or or, or or - an ( - and and of and of and [ and- and-  and- C - and - ( ( ( an of,, An or an- and an and and ( an an or ( and- [ and- and and and ( and [ and, an or [- and or, and and, [ an- or and - and ( - C- and, and and [,, and, and an ( and,, or (,, An and. an and and- ( and, and and and and an- and ( and. an, an - and, (, and and,, or,,,,,,,,,,, (, and, of,, (,,, (,,,,,, [ an ( and and. of of ( of of or t [, c and and, and ( and and, ( and, (,,,. and,,,, and, [. ( and, [ and (, an,- and and- [ of and in of an,, and or- C. t. [. and: and: and and - or: and and an and ( and and and, and - and. of and in. [ and. and and and, of, (, an, ( _. [ of ( ( and ( ( ( and, and,, [ and, - and (, and, ( an, or, [ and and _ and, and and, and and and and, and,,, and and, [ of and an, an and and, ( c, ( and [ and and [, [. and, and, and and,, (, and, and,, ( and, [ and in and and or, ( and, and. and in and, and: ( and ( of and -0. [ of: and - and and: ( ( and, and: and: and, in: and

@@ -1,0 +1,347 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2084-06-09
+
+
+Medicine Attending Admit Note
+
+
+June 9, 2084 
+1340 h
+
+
+I interviewed and examined the patient on rounds this morning with Dr. Lilly and with Team E and we reviewed the relevant data and discussed the case in detail.  I agree with the findings and recommendations in Dr. Lilly's note, with any small exceptions or points of emphasis noted below.  Please refer to it for details of HPI, PMH, medications and allergies, family and social history, laboratory and other data, and ROS.  I would only add/emphasize the following:
+
+
+
+Mr. Gillespie is a 53 year-old man with medical history that includes: 
+
+h/p Hodgkin&#8217;s lymphoma, 2070-2071, treated with local resection, bleomycin, adriamycin, and other agents, XRT to a wide chest field 
+Atrial fibrillation - diagnosed in 3/84; on warfarin, metoprolol 
+Pectus excavatum &#8211; repair failed as a child 
+Pneumonia several times in the past 
+Central obesity &#8211; weighs about 315#, down from a high of 360# 
+Type II diabetes mellitus, last A1C 6.4, on metformin only, 1000 mg BID 
+Hypertension, on lisinopril 10 mg, Toprol XL 
+Elevated lipids - on statin 
+Neurofibromatosis (Soft tissue mass in right apex noted on 3/84 CT may be neurogenic tumor.) 
+Kidney stones 
+Patent foramen ovale
+
+
+He presents with dyspnea, orthopnea, and palpitations as described by Dr. Lilly, and was found to be in atrial fibrillation/flutter with rapid ventricular response.  He has improved with heart rate control.  
+
+
+Exam
+VS - as noted
+General - pleasant obese white man with severe pectus deformity.  Breathing with abdominal muscles tensed on expiration.  
+CV - heart with regular rhythm, normal S1, prominent S2, and no murmurs, rubs, or gallops
+Lungs - clear
+Abdomen - obese
+Extremities - minimal edema
+
+
+Data  - reviewed in detail and are as in Dr. Lilly's note.  Bicarb 31, BNP 2050, WBC 15, INR 3.1.
+
+
+
+
+Impression:  Poorly tolerated atrial fibrillation/flutter with RVR, needing better rate control.  Given the severe pectus deformity as well as his history of lung-toxic chemotherapy drugs and XRT, he may have some restrictive lung disease that would limit his cardiopulmonary reserve.  I would not be surprised if he additionally has obstructive lung disease, given the "belly breathing" and the wheezing he had last admission.  
+
+
+Recommendations:  
+
+Increase metoprolol dose.  May need Toprol XL 100 BID.  Best to maximize utility of BB prior to adding other agents.
+
+Filter all IVs (PFO)
+PFTs and Pulmonology consult as an outpatient
+Balance of plan per Dr. Lilly.
+
+
+
+
+
+
+Peter Wiggins, MD, PhD
+pager 32089
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{code}
+
+Comment: You may also want to check out this answer that shows how to do the same thing with `preg_replace(..., $replace,...)`
+https://stackoverflow.com/a/8975782/9316583
+
+Answer: If you have the `php` tag, then the `nl2br()`function will do the job.
+
+\begin{code}
+$html = "
+
+";
+echo '
+\begin{pre}
+';print_r($html);die(); echo nl2br($html);
+\end{code}
+
+\em{Output will be like below:}
+
+\begin{blockquote}
+
+\begin{code}
+
+     &nbsp;&nbsp;
+
+\end{code}
+\end{blockquote}
+
+Answer: You can use [nl2br](http://php.net/manual/en/function.nl2br.php)
+
+\begin{code}
+<?php $string = '
+
+';?>
+<html>
+    <body>
+    \section{NL2BR}
+<?php echo nl2br($string);?>
+    </body>
+</html>
+\end{code}
+
+Comment: I would like a solution that does what nl2br does, but without using the `nl2br()` function.
+
+Comment: This is a solution without using any function.
+
+Comment: @ShaikhSajid I've edited my answer, you can also use `preg_replace` to solve your problem.
+
+Comment: @ShaikhSajid `nl2br()` is actually a built-in function, not external.
+
+Comment: @ShaikhSajid `nl2br()` is actually a part of `php.net` and not external.
+
+Comment: I am sorry. But I would like a solution without using `nl2br()` function. Please see the question again!
+
+Comment: @ShaikhSajid It works without the built-in function.
+
+Comment: @ShaikhSajid, `nl2br()` is built-in to PHP, it is not external.
+
+Answer: You can use `nl2br` or `preg_replace`.
+
+`nl2br` function converts all new lines into html tags and `preg_replace` will work same way but it will be more efficient.
+
+\begin{code}
+$str = "hello";
+
+//nl2br
+echo nl2br($str);
+
+//preg_replace
+echo preg_replace('/(\r\n|\r|\n)/m','
+',$str);
+\end{code}

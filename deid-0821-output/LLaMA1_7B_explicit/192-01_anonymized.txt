@@ -1,0 +1,238 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2086-05-25
+
+                     FCH EMERGENCY DEPT VISIT
+ 
+TANNER,YUL M.   099-04-65-0                VISIT DATE: 05/25/86
+I saw this patient May 25 with the SAR and the attending from the 
+Short-stay Unit. 
+PRESENTING COMPLAINT:  Polyuria, fatigue. 
+HISTORY OF PRESENTING COMPLAINT:  This 50 year old man was referred 
+in by Dr. Locke covering for Dr. Tirado for polyuria and fatigue. 
+His last recorded fasting blood sugar was 185.  He has come week 
+from a trip for one week and he did follow his diet, but had 
+continued increasing polyuria, polydipsia, blurring of vision and 
+weakness. 
+PAST MEDICAL HISTORY:  Renal insufficiency and "incipient type II 
+diabetes" for which he had been following a strict diet. 
+PHYSICAL EXAMINATION:  Unremarkable except for a chronic 
+strabismus. 
+LABORATORY EVALUATION:  Laboratory studies included a blood glucose 
+of 709, an anion gap of 23 and elevated beta hydroxybutyrate. 
+THERAPY RENDERED/COURSE IN ED:  He was begun on intravenous fluids 
+and intravenous insulin, and arrangements were made to go to a 
+step-down unit on an insulin drip. 
+FINAL DIAGNOSIS:  New onset diabetes. 
+DISPOSITION (including condition upon discharge):  Admitted to 
+hospital, condition satisfactory. 
+___________________________________                    HU019/45662 
+MAX URIARTE, M.D.       MU11                          D:05/25/86 
+                                                       T:05/25/86 
+Dictated by:  MAX URIARTE, M.D.       MU11 
+
+
+
+
+                        PHARMACY PRESCRIPTION
+                             METHYLPHENIDATE ER, 25MG/TAB, 120
+                             PRESCRIPTION DATE: 2086-05-25
+                             PRESCRIPTION NO:  349641258410470
+                             PRESCRIBING PHARMACIST: 
+                            PRESCRIPTION FEE: 132.616
+
+
+
+                        RX DISPENSED
+                         METHYLPHENIDATE ER, 25MG/TAB, 120
+                         DISPENSED DATE: 2086-05-25
+                         RX NO: 349641258232410
+                         DRUG NAME:  METHYLPHENIDATE ER
+                         STRENGTH:  ER, 0.5 mg/1/4 in
+                         QTY:          1
+                         DOSE:         20
+                         ACTIVITY:    15
+                         UNITS OF SOLID: 18
+                         UNITS OF LIQUID: 30
+                         RX FEE: 100.443
+                         UNIT OF MEASURE:  1
+                         FEE: 1.0444
+                         FORMULARY: 25
+                         AGE: 25.325
+                         GENDER:  F
+
+                         AMOUNT: 18
+                         QTY: 1
+                         PRESCRIBING DOCTOR:
+                             DRUG DISPENSED TO:  YUL M. TANNER
+                                            ADDRESS:       65-04-099
+                         PRESCRIPTION DATE: 2086-05-15
+                        DRUG DISPENSED:
+                             METHYLPHENIDATE ER, 25MG/TAB, 140
+                             DISPENSED DATE: 2086-04-19
+                             RX NO: 349641257439630
+                             DRUG NAME:  METHYLPHENIDATE ER
+                             DISCONTINUATION DATE:
+                             REFILL DATE:
+                             DISPENSE DATE:
+                             ACTIVITY:    13
+                             UNITS OF SOLID: 28
+                             UNITS OF LIQUID: 54
+                             AMOUNT: 17.25
+                             RX FEE: 100.065
+                             RX FEE: 50
+                             AMOUNT: 0.06
+                             AMOUNT: 20
+                         DRUG PRESCRIBED TO: 
+                             MEDICATION NAME:  METHYLPHENIDATE ER
+                             PHARMACIST: 
+
+
+
+
+                        DRUG REFUSAL
+                             METHYLPHENIDATE ER, 25MG/TAB, 120
+                             REFILL REFUSED BY PHARMACIST: DRUG NOT PRESCRIBED
+
+
+
+                        METHYLPHENIDATE ER, 25MG/TAB, 120
+                             REFILL BY PHARMACIST: 
+                             REFILL DATE: 2086-05-31
+                             PHARMACIST:
+                                    METHOD OF REFILL: 
+                                    REFILL REASON: 
+                             RX NO: 349641257439630
+
+
+                        METHYLPHENIDATE ER, 25MG/TAB, 120
+                             REFILL BY PHARMACIST: 
+                             REFILL DATE: 2086-06-02
+                             PHARMACIST:
+                                    METHOD OF REFILL: 
+                                    REFILL REASON: 
+                             RX NO: 349641257439630
+
+
+                        METHYLPHENIDATE ER, 25MG/TAB, 120
+                             REFILL BY PHARMACIST: 
+                             REFILL DATE: 2086-06-16
+                             PHARMACIST:
+                                    METHOD OF REFILL: 
+                                    REFILL REASON: 
+                             RX NO: 349641257439630
+
+
+                        METHYLPHENIDATE ER, 25MG/TAB, 120
+                             REFILL BY PHARMACIST: 
+                             REFILL DATE: 2086-06-30
+                             PHARMACIST:
+                                    METHOD OF REFILL: 
+                                    REFILL REASON: 
+                             RX NO: 349641257439630
+
+
+
+                        METHYLPHENIDATE ER, 25MG/TAB, 120
+                             PRESCRIPTION DISCONTINUED: REASON:  
+
+
+                        METHYLPHENIDATE ER, 25MG/TAB, 120
+                             STOCK REFUSED BY PHARMACIST: DRUG NOT PRESCRIBED
+
+                        METHYLPHENIDATE ER, 25MG/TAB, 120
+                             STOCK REFUSED BY PHARMACIST: 
+                             STOCK REFUSED BY PHARMACIST:  
+
+
+                        METHYLPHENIDATE ER, 25MG/TAB, 120
+                             STOCK REFUSED BY PHARMACIST: 
+                             MEDICATION: 
+                             STOCK REFUSED BY PHARMACIST: 
+                             Rx Fee: 
+                             STOCK REFUSED BY PHARMACIST: 
+                             STOCK REFUSED BY PHARMACIST: 
+                             STOCK REFUSED BY PHARMACIST: 
+                             STOCK REFUSED BY PHARMACIST: 
+                                             MEDICATION: 
+                         and the first name
+                         MATCHING name and first name. 
+                             MATCHING name 
+                             name, 
+                 names
+
+
+                 names
+names.
+\n
+
+\n names, names.
+
+
+
+
+and
+names,
+names of dates
+of
+
+
+
+of dates of dates and names, dates
+
+dates of dates of names
+
+names
+
+
+
+\names,
+
+names.
+
+names.
+names.
+and dots of dates of dates, and
+names,
+letters of names, names, dates,
+names of names
+names.
+of dates.
+and
+Dates of names and names, 
+and dates of names.
+names, or names, please the names, do the patient names.
+letters of and the names.
+
+names: names of 2, dotted names
+date names, 
+and dates of names.
+names and date names and names, names. 
+patient names
+names. names and names, names and names of the names, names and name (d names of names.
+(d names (names and names of the... 
+or, names of names of a letter (
+
+names.
+The, names, or names of the date, names, but the patient or names, or names and names and names, names and the patient, or the... or names of the, and are... or the or and the, and oration of names and the date.
+
+
+10, name, the names
+
+
+[123. 9 and the names: 2 and name of the patient: names of the, you (d, the: and the…
+...
+and or [the patient.
+... or...[... are  are and are or are: 1: and 2.
+(the [... (the, or, and the 1, or orary...orized:
+(0, the, the (15 are (
+1, 1 of the: and the, a (1 or, “1:  are 4 and are and are the... the names.
+..., and the,
+( 1, and, 4 or and (1, the, and, and and, and, but, 1, and...and, 
+, 
+. 1, as, 1 (and, or 4, and, and, as, 5, or, 4 and the (5, and are, 1 and of the " and, (: the and and: and "with and 
+anize and (2 with... " [11 “and "1-2 and " 20 [0 [4 3 are, an of the name and of the or or or or, an [5 of the, the, or [and, and... an of 1 [of the and, and. and of a (1, and,
+and, and an and and have a or a are (ann would-5 or, or and- and the, Anoc, 1 (an, an (an, 0, or and, or an, an, an, the, an, an or, and, an, but an, of that, or and, of the, an of a and the (ann, [le, and, an, " (A, and and and, an, an (the-the, an, an, an-1, an-an,1-  and-2: (1: "2 and: An: (:-an-re-1: :: and ": and-1 and: an: 1: and [an- or- an (an: an (with: " an or: an:
+ an 0 an or-1 are an  an-an " and-1-1, of the of " of the by an from the by the and, [and or: an ( and-and and, and- ( [ and [[ and- ( and or [ [ an and- and an- an an, or  " in- ( and-  an, an,  in " An or, ( an- an  an-  of  of an ( of ( of an of an " an or of ( and,- and or - an and and, and - an " of “ of [ of  of  " and an- 0. or ( an, in an or  an an and of the, an- -0 ", or,  - " or  and,  - - an of an of or of an of or an an or - and ( (,: : or and in (- or and - or or or of  ( or in and of 10 of,  or and, or  and- An C or and and and- [ of, and, by, and or ( or an and  or (,  or, ( [, or of and or, of an of or of  of 0 of an or of an and, an an-1 an of  or or, of  of the of [ of  of  and of the ( and,  [0 (1 an, (2, and, and,  an and and 0 10 [ 0,  ( and and an - and  of  [2-2 and-2 and and ( [ and and ( and and ( or " and  -( and an ( or  and or  and  [ or  and 1 [ and  and, 1 (1 of and  or of an of and and  and 2 or and c t [ and or or-0 :  and: and  and  and  and - and- and [1 and and : 1- and and  and-1 C- an of or " and and and or and and and - and and  and or or  or,  and of the of  of and of  or- [  for, and and for and  and (  and, 1 for ( of for of  of and of- for, and 0 for for or and and - for and ( and- ( and and, [  or and or or or  and-  or and - and and and ( and and, and- and  and:  ( of- of  of  and of and, or  and and  and,  and,  (,  and of and and  an   or [ an- and - and and  an-  - ( C, or- and or  and,1 and -3- or.- [ and and and and and and- [,  an [ and ( ( and ( and and. and  ( or and, and- and, in and - and,,,  and and  [ and, and, and- and, and [, and and, (, and and, [ (, (  and  (,1, or,, , and (,  and,  [ and, C, of -1- (-3, [,, and w,, P, ( and ( [,,,, or  [, , C, (, ( W (, [,  (, or,,,, ( A,  or of - and C P C  C M P  P and [  [ C,  and  and and ( and [ and, A, (1 and  ( and ( C (  and  (,  and  [1 and and ( (  IN  and A C and ( D,, ( P ( and, [  ( and  and,,. ( and and ( and and C,  and, IN and  C  A, P  or, 0,, and,,,, M, M,,  ( IN,,, and, ( 1,  (, [ ( P, and and, and and ( ( ( 1 and [  C, [,  ( F,,  for and  M, [ M,,, A,,, M, (,

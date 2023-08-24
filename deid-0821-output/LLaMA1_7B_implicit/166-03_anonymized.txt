@@ -1,0 +1,164 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2095-12-02
+
+SECTIONS OF THIS NOTE WERE CREATED WITH A 'COPY AND PASTE' ACTION.  THESE SECTIONS MAY NOT HAVE COPIED COMPLETELY.  PLEASE USE CAUTION WHEN RENDERING CLINICAL JUDGMENT BASED ON THE INFORMATION IN THIS NOTE.
+
+
+
+SDU JAR Admission Note
+
+
+Patient: Meyer, Oscar
+MRN: 2771447
+Admission Date:  12/2/2095
+JAR: Dr. Patricia Whittaker
+Attending: Dr. Jolley
+Source: Patient, records
+                                                                              
+ID/CC: 64yoM with type II DM and HL p/w exertional SSCP, found to have lateral precordial/apical STDs
+
+
+HPI:
+Oscar Meyer is a 64yoM with type II DM and HL who has been having exertional, non-radiating, SSCP with activities such as shoveling snow and taking out the trash over the past several months, increasing in frequency.  He endorses 6 episodes over the last week, the most recent yesterday morning when he was shoveling.  The pain always resolves after 4-5 min of rest and deep breathing.  He denies n/v, palps, LH, and SOB but does have diaphoresis at times.  He presented to the SCH ED for evaluation today.
+
+
+OSH course: The patient was hypertensive (max BP 200/89); he received Lopressor 5 mg IV x 2, resulting in BP 170/90; an additional 5-mg dose resulted in BP 160/87 (later, 146/79 just prior to transfer).  EKG showed small 0.5-1 mm STDs in V4-6.  Initial TnI was 1.00 (CK/MB wnl).  He received ASA 325, Nitropaste 1/2&#8221; (despite the fact that he takes Viagra at home), A heparin gtt was started (with bolus), and the patient was transferred to WPH in anticipation of cardiac cath.
+
+
+Past Medical/Surgical History
+
+Diabetes mellitus type 2: gets yearly eye checks and was recently told he needs laser surgery.  HbA1c 11.0 at SCH today. 
+HL: Not on meds 
+Actinic keratosis : , right hand 
+Squamous cell carcinoma in situ : and , dorsum, left hand, CE&amp;D 
+Hypertrophic callus : , right fifth metatarsal, painful,pared 
+Prostate CA: dx July 2095, primary treatment radiation therapy 42 fragments. 
+Anxiety: occasional panic attacks 
+H/o positive : 2064, s/p INH x 3-6 mo at that time 
+H/o Barrett&#8217;s esophagus and GERD
+
+
+Home meds: 
+1. Alprazolam (Xanax)  0.25 MG as directed prn anxiety
+  2. Glipizide  5 MG 
+  3. Metformin  500 MG 
+  4. Pimecrolimus (Elidel) 1%  TOP 
+  5. Sildenafil (Viagra)  50 MG   prn (last dose 11/29 p.m.)
+  6. Zolpidem Tartrate (Ambien)  5-10 mg QHS
+  7. Maalox prn heartburn 
+
+
+Allergies/adverse drug reactions: NKDA
+
+
+FH: Father had a stroke at 80 and died of ?another stroke at age 83.  Mother died of colon CA at 76.  Twin sister A&amp;W.
+
+
+SH: Lives with wife; no children.  Works in programming at Audiovox.  Formerly at BrightPoint.
+Cigs: 1 ppd x 20 yr; quit at age 38.
+EtOH: About 1 beer/wk.
+Illicits: Denies
+
+
+ROS
+Negative except as per HPI.  Denies BRBPR/melena, dysuria/hematuria, HA.
+
+
+Exam: 
+VS: Temp 97.8F TA  HR 66 (SR) BP 175/98   RR 18 O2sat 98% 2L NC
+Gen: Pleasant man, lying in bed in NAD.
+HEENT: NCAT.  Oral MMs moist, w/o lesions.  OP clear, w/o exudate.
+Neck: No JVD.  Carotid upstrokes 2+ w/o bruits.
+CV: no MRG.
+Lungs: CTAB.
+Abd: Soft, NTND, +BS.
+Ext: WWP; no edema.  DPs/PTs 2+ bilaterally.
+Neuro: AOx3; normal affect and tone.  Grossly nonfocal.
+
+
+Data: 
+Plasma Sodium                    141                       (135-145)      
+Plasma Potassium                 2.8              L        (3.4-4.8)      
+Plasma Chloride                  104                       (100-108)      
+Plasma Carbon Dioxide            25.6                      (23.0-31.9)   
+Calcium                          9.0                       (8.5-10.5)     mg/dl
+Phosphorus                       3.9                       (2.6-4.5)      mg/dl
+Magnesium                        1.6                       (1.4-2.0)      meq/L
+Plasma Urea Nitrogen             16                        (8-25)         mg/dl
+Plasma Creatinine                1.1                       (0.6-1.5)      mg/dl
+Plasma Glucose                   308              H        (70-110)       mg/dl
+
+
+TOTAL PROTEIN, SERUM             6.7                       (6.4-8.3)      G/DL
+ALBUMIN                          4.1                       (3.4-4.8)      G/DL
+AST/SGOT                         21                        (6-40)         U/L
+PHOS                         74                        (27-110)       U/L
+/SGPT                         26                        (10-40)        U/L
+TOTAL BILIRUBIN                  0.3                       (0.3-1.2)      MG/DL
+
+
+FASTING (LIPIP)                 NONFASTING       *
+CHOLESTEROL, SERUM               220              H        (140-200)      MG/DL
+TRIGLYCERIDE                     247              H        (&lt; 150)        MG/DL
+CHOLESTEROL                  37               L        (&gt;40)          MG/DL
+CHOLESTEROL                  134              H        (&lt;130)         MG/DL
+
+
+1st set biomarkers (SCH): CK 156, MB 3.8, TnI 1&#224;0.93 (Tns &lt; 3 hr apart)
+
+
+2nd set biomarkers (WPH):
+Creatine Kinase Isoenzymes       5.4                       (0.0-6.9)      ng/ml
+Isoenzymes Index             5.4              H        (0.0-3.5)      %
+Troponin-T                       0.38             H        (0.00-0.09)    ng/ml
+Creatine Kinase                  100                       (60-400)       U/L
+
+
+U/A (SCH): glucose present, but otherwise neg
+
+
+WBC                              8.6                       (4.5-11.0)     
+Hct                              37.0             L        (41.0-53.0)    %
+HGB                              12.9             L        (13.5-17.5)    gm/dl  
+Plt                              350                       (150-350)      
+MCV                              86                        (80-100)       fl
+
+RDW                              12.6                      (11.5-14.5)    %
+
+PT                               13.2                      (10.3-13.2)    sec
+PT-INR                           1.2
+APTT                             56.0             H        (22.1-34.0)    sec
+
+
+EKG (floor arrival): NSR at 69 bpm.  QT~440 ms; QTc~470 ms.  0.5-1 mm STDs in V4-6 and TWF in aVF.
+
+
+CXR (SCH): No acute cardiopulmonary abnormality.
+     
+Assessment:
+64yoM with multiple cardiac risk factors p/w NSTEMI.
+
+Ischemia: Plan for cath in a.m.  ASA, Lipitor, Lopressor, captopril, heparin gtt; tolerate up ACEI/B-blocker as tolerated.  Note that patient takes Viagra and therefore should ideally not have nitrates for CP, although he did tolerate Nitropaste at SCH; note that last dose of Viagra was Thursday, 11/29.  Serial EKGs and telemetry.  Will defer initiation of Integrilin until cath lab, as there is no clear benefit to starting now.  Need to check fasting lipids. 
+Prolonged QTc: Etiology unclear, and no prior EKGs for comparison.  Will replete lytes for goal Mg=2, K=4. 
+Pump: No ssx of CHF.  Will obtain post-cath TTE to assess for WMAs. 
+DM: Holding orals while in house.  IVF with D5 while npo; cover FSBGs with RISS.  Will give Mucomyst and IVF for nephroprotection with cath. 
+Ppx: Heparin.
+
+
+
+
+
+
+Patricia Whittaker, M.D.
+PGY-2, Internal Medicine 
+#63765
+
+
+
+210703. A
+It
+DAY IN CH. The 40
+FI: 7112510142129 IN IN IN SO M AN RE C MA ST AF M AF SO RE PAS A IN P DO IN P SI IN F AD IN F SO P S DI S C RE CH C ST RE CH RE IN M ST. P S IN M IN S P ST C S RE S CH SI M H RE SO F SO F RE M P SI P C DO A F C F C IN RE SI CO RE SI W IN F ST M F A S IN FI A RE M IN F RE P SO IN IN P SI S C IN. C DO F RET IN SO RE CO A S M DO RE P SI C SO DI S IN. P AF C AF. SO DO S IN F IN SE P SI F RE S CON IN. S IN F S RE S.. IN FO RE IN SO IN SO,. 20: An. 1220. An date → Date An34. Anist: S P IN RE SO RE IN S P RE F CON P IN P RE RE IN CON F SI IN SO FO F RE S. RE G S A IN A A AN DO DI A DI S CH AN S P CH IN A IN F SU A IN AN INING AN M AN S M RE DI RE IN ST AN S AN IN S AN S CH AN S HE CO A S CH IN RE CO AN. AN CO M DI AN S DI AN IN AN IN AN CH DA AN RE AN SO CO CO AN S EN M A RE AN CO RE SO S P IN RE AF AF SO RE IN SO AN S AN W AN S CO DI AN IN A CO FO AN A RE CH AN AN RE AN IN AN A. An An.  An  and a AN IN S DA SI RE IN SI AN SOL IN. An, the An An. CIN IN SO. An. An :  in  and an and and in:,  C and  An An An An Anist in:  in an: An An An and: An in An An:  An An-S IN DI EX I are in a and An An An An and An An An are are in are An AN SU IN A S MA P S IN F AN SO AN F IN, P AN IN IN P S IN SU IN S M. S IN P S FOR and and and An  SO CH S IN AN S AN EX I IN S IN S IN. An  C An An and for. Ex and An An An Anise C IN AN I SO I SO P SU P RE SI SO S AN SO EX-S-0 EX IN S CH S EX AN SU S PO and An An An. An An Anist An An An 00. An An and In and-PA. IN S IN SE-S SE-SE SE S O-S IN M- IN SE S F EX SI SO S CH SE F S P IN SE S CH S IN F IN F and  and-PA and  in-P SO SO EX..  and  or in and ( in -1 at-P and- PIN-M-SE P IN HE-S-S- P IN P and-M in at-d and by and at with for and-  and in in in and. P-M in-P &- P-0 I-. in. in- -MA S and- P. P-  and- M with - and-. P,. a and -  C.  and  and-P in- -M (-MA in, P-M-f - and and-S-in.- P- - -M-in-in- -P and and for for for and and C for C-M C I-N,. In-C-  - in in in.- - - C-R and and C - and- e-P S in-R-in in - in in- in in in in-C in C and in in-c-  in-n in-N-c-S-N and. - c-N or-c and-C in (- C-C-c-PA-P in-B-c-P-C I- -M IN-c and C and, P in and-O-N IN- and in- N S-M-C- M IN C MA MA M IN S-O-S and Ex T. and- and- C- N M or M- H and for (- - S S T in P in C for N C L R and- R M. for m m- C.- - S- and and C and N in C- and C and.- R C. I and C IN C C H- C Ex IN- Ex - H IN H M C IN IN C IN IN MO and and I S C M C. S Ex.. Ex I and I Ex C and C C C- C... ~ C/ C I M-/ M- H C- E- CA- IN- C- A I A A A CA- C C S C in C M C M-/ I- S- I C- I ( and and A A- A A H- and C- and/- (,-A (-C-C C- H. C and.- I and ~, H P. and-. C ( H and- in C,. H C/ and C H M. I C- C../  and.  H- and and C- C.- H and and C/ ( / - H, and-  and and- C C C.- C T F- M and- for M- C of ( of of of of and C of I and // C H/  I- of C/ of C C of -  of M and C- and 1 ( and- C A A A A A C ( C A - in a C A A A, A H (.- m C- C and C- A C- M and M of and  C  C C C12 C C and- M E C E- A A A E C C C C C C C C C ( of C C C C C C C/ C- C C- C C- C [- C- M C-1- C-1 T- and C C- C E ( and (- M -. C R ( ( F C in in and of C of M-

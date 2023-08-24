@@ -1,0 +1,244 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2093-04-28
+
+                     BMC EMERGENCY DEPT VISIT
+
+ 
+
+NANCY-JASMINE,NIKKOLAS   693-31-18-1                VISIT DATE: 04/28/93
+
+The patient was seen, interviewed and examined by myself as well as 
+
+Dr. Judd whose note I have reviewed, and whose findings I have 
+
+confirmed. 
+
+HISTORY OF PRESENTING COMPLAINT:  This patient is a 68 year-old 
+
+male who presents with slurred speech.  The patient has a history 
+
+of a prior cerebrovascular accident with residual right sided 
+
+deficit.  One day prior to arrival, the patient was found to have 
+
+increasing slurring of speech and he was found to increasing 
+
+weakness over his baseline on the right side.  The patient arrives 
+
+without acute complaints except for difficulty speaking.  He denies 
+
+any headache.  He also does complain of some throat pain. 
+
+REVIEW OF SYSTEMS:  Review of systems is as per the written note.  
+
+The patient denies fevers, chills, chest pain, shortness of breath 
+
+or dysphagia.  
+
+PAST MEDICAL HISTORY:  The patient's past medical history is 
+
+significant for hypertension, diabetes mellitus, cerebrovascular 
+
+accident and otherwise as per the written note.
+
+MEDICATIONS:  The patient's medications include Tylenol, aspirin, 
+
+Avenida, Glucophage, Zoloft, hydrochlorothiazide, metoprolol and 
+
+otherwise as per the written note.
+
+ALLERGIES:  The patient has no known drug allergies. 
+
+SOCIAL HISTORY AND FAMILY HISTORY:  The patient's social history 
+
+and family history are as per the written note and are significant 
+
+for past tobacco use and no alcohol use.  He lives with family and 
+
+goes to a day care facility.
+
+PHYSICAL EXAMINATION:  GENERAL:  The patient is a well nourished 
+
+male in no acute distress.  VITAL SIGNS:  Temperature 97, pulse 62, 
+
+respiratory rate 16, blood pressure 163/96, oxygen saturation 100% 
+
+on room air.  NECK:  Supple with full range of motion.  No nuchal 
+
+rigidity.  LUNGS:  Clear to auscultation bilaterally with good air 
+
+movement.  CARDIAC:  Regular with ectopy.  No murmur is 
+
+auscultated.  NEUROLOGIC:  Alert, oriented x 3, dysarthric.  Finger 
+
+to nose is within normal limits bilaterally.  There is 5/5 motor 
+
+strength throughout the left upper extremity and left lower 
+
+extremity.  The right upper extremity and right lower extremity 
+
+there is 3/5 motor strength throughout all motor groups tested.  
+
+The patient is able to follow all commands.  His ability to 
+
+understand appears to be completely intact.  
+
+Further details of the patient's physical examination are as per 
+
+the written note.
+
+LABORATORY EVALUATION:  Laboratory studies are significant for a 
+
+glucose of 195, BUN of 14, creatinine of 1.2, bicarbonate of 26, CK 
+
+of 68, toxicology screen which is negative, troponin of 0.04, white 
+
+count of 7.4, hematocrit of 42.0, platelets of 327 and a urinalysis 
+
+that is pending.  A head CT is also pending.
+
+THERAPY RENDERED/COURSE IN ED:  The patient was interviewed and 
+
+examined in the emergency department.  His past medical records 
+
+were reviewed.  The patient has new neurologic findings on top of 
+
+an old cerebrovascular accident.   
+
+CONSULTATIONS (including PCP):  The neurology service was therefore 
+
+consulted and a head CT was ordered.  The patient will be admitted 
+
+to the neurology service for further work up and he will likely 
+
+also undergo an MRI/MRA.
+
+FINAL DIAGNOSIS:  Cerebrovascular accident.
+
+DISPOSITION (including condition upon discharge):  The patient is 
+
+admitted to the neurology service in satisfactory condition.
+
+___________________________________                    KM855/90247 
+
+ALISHA VIOLA, M.D.       AV51                        D:04/28/93 
+
+                                                       T:04/28/93 
+
+Dictated by:  ALISHA VIOLA, M.D.       AV51 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+""")
+
+        self.assertEqual(out[0][0], '')
+        self.assertEqual(out[0][1], '')
+        self.assertEqual(out[0][2], '')
+        self.assertEqual(out[0][3], '')
+        self.assertEqual(out[0][4], 'NANCY-JASMINE\n')
+        self.assertEqual(out[0][6], 'NIKKOLAS')
+        self.assertEqual(out[0][8], '693-31-18-1')
+        self.assertEqual(out[0][11], 'VISIT DATE: 04/28/93')
+        self.assertEqual(out[0][12], 'BMC EMERGENCY DEPT VISIT')
+        self.assertEqual(out[0][14], 'REVIEW OF SYSTEMS: ')
+        self.assertEqual(out[0][14], 'N/A')
+        self.assertEqual(out[0][16], 'N/A')
+        self.assertEqual(out[0][18], 'N/A')
+        self.assertEqual(out[0][21], 'PEDIATRICS')
+        self.assertEqual(out[0][23], 'NIKKOLAS')
+        self.assertEqual(out[0][25], '693-31-18-1')
+        self.assertEqual(out[0][27], 'VISIT DATE: 04/28/93')
+        self.assertEqual(out[0][28], 'BMC EMERGENCY DEPT VISIT')
+        self.assertEqual(out[0][30], 'REVIEW OF SYSTEMS:')
+        self.assertEqual(out[0][30], 'N/A')
+        self.assertEqual(out[0][32], 'N/A')
+        self.assertEqual(out[0][34], 'N/A')
+        self.assertEqual(out[0][36], 'N/A')
+        self.assertEqual(out[0][38], 'PEDIATRICS')
+        self.assertEqual(out[0][40], 'NIKKOLAS')
+        self.assertEqual(out[0][42], '693-31-18-1')
+        self.assertEqual(out[0][44], 'VISIT DATE: 04/28/93')
+        self.assertEqual(out[0][46], 'BMC EMERGENCY DEPT VISIT')
+        self.assertEqual(out[0][48], 'REVIEW OF SYSTEMS:')
+        self.assertEqual(out[0][48], 'N/A')
+        self.assertEqual(out[0][50], 'N/A')
+        self.assertEqual(out[0][52], 'N/A')
+        self.assertEqual(out[0][54], 'PEDIATRICS')
+        self.assertEqual(out[0][56], 'NIKKOLAS')
+        self.assertEqual(out[0][58], '693-31-18-1')
+        self.assertEqual(out[0][60], 'VISIT DATE: 04/28/93')
+        self.assertEqual(out[0][62], 'BMC EMERGENCY DEPT VISIT')
+        self.assertEqual(out[0][64] 
+        names are
+        in the following fields.
+        in the following text fields: 
+        fields
+        field
+        text fields
+        fields
+        text text
+        text.
+        text text fields, text fields
+        text fields
+        text fields
+        text fields,
+        fields text fields
+        field
+        fields.
+        text fields. The field
+        fields.   fields. 
+\text text fields and text fields
+        text fields, text field lines of text, text fields, text fields text fields or text field numbers and text text fields, fields.
+text fields, 
+text fields 
+
+text, and fields, and text fields
+
+
+
+text.
+fields.
+
+and text, text fields
+fields,text 
+and text fields 
+
+
+text fields text fields
+names,text fields. 
+text lines text. 
+text, text fields text text
+1
+
+text of text, and text and text fields.
+text, text, text and text text, text fields 
+text, a text fields of interest, the patient text lines text with the patient, text line of text
+
+
+
+12... the date, and the patient text, text of a, or the patient text lines 4 or text, text
+or, or text, and text, and the names, name, and and the text, but,
+names.
+...
+The text, text, and the words...
+or the date the date, but and, and the [
+(and the [12 and 6...
+[112, names, names.
+of the patient, and the following the following patient names, names of: (patient:
+use and the names below, and:1:
+... orally: 10 patient-2 are orise the...
+17 (1, the 11 orifically indicate 
+(1:
+[are [(le and remove, the names, the or (and and (and, the 20, or and: (are-
+
+andise:
+
+(... and " and: and the or (the and are are the...the and [1 are and… 11, and the... 1, 2... (and (2 and and, 1, 5, or, and, 0 and, and, or and (and, and, the (3 (1 and, and the.
+(and, the, as  and, are, 12 of, and, and include the, are the 1 and, 1 of the 4 of the and and 12 (and, a. (1 and the-1-1-an " and "10: 0. [are...2-1 are... 20, the 4 of the- 3 by (or 1- 1, the (con, [[[, anities, 6 "pat and (.  (, and and and are-the, and, orise, are the 5 of the-are are of the, an 1 1 (1 2 and 6-con-d and the, 1 of a (an, an, and, a " 1, [ 2, an  or ( and, 1, and or of  of "  and the, an and " and an and, an,  and, and, (an, the, a, an, an, and (1, 7, an, 4, 2, an, an, 4 an of the and " of the-2-0 [2-3:: and-1 in the 1 an (-an-an-[:: an: and: an-le and- or: [ an with:: an and or " an ( an are an are-an in are-1 in-  ".-d an of an an of. [. or and,. and,, and-1 [in. an [ or in the [ (  [ and, ( ( or  or [ (  and (  an-2- ( are an an-  an- [ an - and in  or,, and or an-  an in an, by the or an  of [ of the -  (  and and and- and ( in the,, and and [, an of the of " of the ( of  of the [- and, and and or are- and, -0, or of - or or an-  or or and- an an  in - an  and  and- or of - of  and of  and and  and  and  and : or - in the and in-  in and- -  of a and 2 of or -2 - an-2 of the- and  and and of  and of [ and, as, or,  and-M. - or-  or, an,, or or or an or-0 0 of 0 of an-0-  ( and and- an as and an or of an of the  of an of the of and of " of the and of the-c, and [ or  and or  and, to  to  ,,  to, to  to, an-  and,  and an-  and- and [  and an and- to and ( and- an- and-, an ( and and an ( and and, " an-  or  ( and-  and in an  of the - of  " and of ( of  of "0 of and and  ( and-  m and and  (- ( and- (- of the of :  and: and and- and c- - and in to- c-  an- “ and and or of the " - and " (- or-0 ( and- - ( to or or of ( of ( of our of of or- of -  and- and- and, and and, and or  "  to " of ( of the of of  of of the of of  to to to to to  to 2 0-  to, to, and,  and and  and  and  in  to or (  and,  "- and and to- " and  of ( and of ( of the or  c- and ( C-  and and and and- - or n,  an, or or and and  (  (-  and (  or-  and, and  c,  and, and ( ( and and,. as, and ( and. ( n. and ( and, and, or, and and,  a and, n and an and and  - and or and by or, and an in,. and- al,,  and- and, and and, and, ( ( and to and to,, and ( (, and, of of and of of ( of to of B and,, and (,  ( and- and and and a ( of of - to- and w to- and and and (,,, to,,, and,,, and or of and are (,,, and. as in and, to, and, and, ( and, and  and of and of the of  [ and [  and to- and -- and to-  as and [ and- and and and and [ and (, and and (- and ( [ and, to ( and and,, and (, and and to " and " and (, and ( and. [- and ( and, and and and ( and (, ( [ and ( ( and, , [ and, and, and,,, and and and as, and ( and of of the of of and  of  and and,, to,  and or and and, and and to of, and to of  of  of  of, and to and and, and  w,, and or and, and,, and and of of of of w of, of and of and of and and, and and and and, and- to and of,, of of

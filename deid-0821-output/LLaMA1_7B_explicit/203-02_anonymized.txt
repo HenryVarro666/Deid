@@ -1,0 +1,245 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2089-06-27
+
+
+
+                          OFFICE NOTE
+                                
+George, Rickey
+MR #113-14-14
+06/27/2089
+
+COMPREHENSIVE EXAM. 
+
+PERSONAL DATA AND OVERALL HEALTH:  Now 63, despite his multiple
+medical problems, he continues to spend spring in West Virginia and remain
+reasonably active.  Wife very helpful in cooking appropriate
+meals and helping with day to day issues.  
+
+ONGOING MANAGEMENT/MULTIPLE MEDICAL PROBLEMS:
+    1.    Health maintenance.  Eye exam. Continue to recommend annual
+    exams with Dr. Ortiz.  Influenza vaccine advised, Winter 89.
+    PSA sent.  
+    2.    Preventative counseling.  Continues to swim in a pool, no
+    alcohol, no cigarettes.  Advised regular skin checks.
+    Avoidance of sun.  Rectal exam neg.  Smoking status: none
+    smoker.  Stool guaiac test: home with stool guaiac cards.  
+
+PROBLEMS:
+    1.    CAD.  He continues to do quite well with no evidence of
+    current symptoms of angina.  He is s/p CABG and most
+    recently s/p stent distal LCX 10/87.  
+    2.    CHF.  He has severe ischemic cardiomyopathy with chronic
+    CHF.  His most recent echocardiogram 4/88, showed a severe
+    depressed LV systolic function with estimated EF of 30% with
+    global hypokinesis and antero-apical akinesis with moderate
+    LV enlargement and mild concentric LVH with left atrial
+    enlargement, dilated aortic root, mild AI and trace MR. 
+    despite this, since getting on a stable dose of Lasix and
+    Carvedilol, which was added during his hospitalization for
+    CHF in 10/87, he has done well and currently denies symptoms
+    of orthopnea, PND or edema.  
+    3.    S/P AICD.  He is s/p recent admission to MCH, 6/17 through
+    6/19/89 for replacement of his cardiac defibrillator.  He
+    did well without complication and he continues to follow up
+    Dr. Cook on a regular basis.  He has had no VT, VF, which
+    has been symptomatic or which has caused triggering of his
+    AICD.  
+    4.    S/P DDD pacemaker for sick sinus syndrome, 7/83.  Continues
+    to do well, again, with close monitoring by Dr. Cook. 
+    5.    Hypertension.  Blood pressure is excellent on current
+    regimen and will continue same.  
+
+George, Rickey
+MR #113-14-14                 -2-            June 27, 2089
+
+    6.    Diabetes mellitus.  He continues on oral agents, watching
+    his diet and exercising as much as he is able.  He does not
+    monitor sugars often but he reports when he does have them
+    done, sugars are typically fasting 100-150 and no symptoms
+    of hypoglycemia.  Will check HBA1C and urine for micro
+    albumin today.  
+    7.    Cerebral vascular disease.  He is s/p cerebellar CVA, 7/80
+    with mild residual dysarthria and right sided weakness but
+    has had no new neurologic events. His most recent carotid
+    artery duplex study was from 5/88, showed a 60-80% stenosis
+    of the RICA but I don't actually hear a bruit on his exam
+    today.  He continues on Coumadin anticoagulation.  
+    8.    Hypercholesterolemia.  His most recent lipid profile is
+    quite improved with Lipitor with a total cholesterol down to
+    136, triglycerides 313, HDL 25, LDL 48 on 6/11/89.
+    Unfortunately, since his HDL remains low, which is
+    suboptimal, but he has not tolerated Niacin in the past. 
+    9.    Peripheral vascular disease. He continues to have bilateral
+    femoral bruits and diminished peripheral pulses but because
+    of his limited walking ability, he currently has no symptoms
+    of claudication. 
+    10.   Osteoarthritis. He is s/p left TKR by Dr. Robles last year
+    and is now doing quite well.  Notably, he would require
+    antibiotic prophylaxis for procedures.  
+
+REVIEW OF SYSTEMS:  He denies chest pain, shortness of breath,
+abdominal pain. He continues to have a rectal fistula.  Last
+year, had a negative Barium enema study and several years ago a
+sigmoidoscopy because of guaiac positive stool but this is
+presumably secondary to the rectal fistula, which intermittently
+bleeds.  He has had no recent edema in his legs. His left knee is
+doing quite well and he is working to strengthen the thigh
+muscles. He has nocturia one time per night. He has stable
+impotence, some decreased interest as well as some decreased
+ability to have erections, though he can still have a partial
+erection. Generalized decreased energy level.  
+
+PHYSICAL EXAM:  Blood pressure:  136/60, pulse: 60 and regular. 
+Weight: 181. General: amazingly well appearing.  Skin: no
+suspicious lesions.  HEENT: oropharynx edentulous, no lesions. 
+Lungs: clear to A&P.  COR:  carotids 2+, no bruits appreciated by
+my exam.  JVP flat. Thyroid: no thyromegaly. Nodes: no
+adenopathy.  COR:  s/p median sternotomy scar.  Pacer left upper
+chest wall. AICD with fresh Steri strips in place. No evidence 
+George, Rickey 
+MR #113-14-14                 -3-            June 27, 2089
+
+of erythema.  Left upper abdomen.  S1, S2, 2/6, HSM,  apex no S3,
+or diastolic murmur appreciated.  Abdomen: positive bowel sounds,
+soft non tender, no HSM or masses.  Rectal: mildly diffusely
+enlarged prostate without nodules, no rectal masses. Stool brown,
+guaiac negative.  Extremities:  scar over the left knee, no
+peripheral edema.  
+
+DISPOSITION:  Follow up with Opal Fierro.  Flu shot in the
+winter, sooner PRN. 
+
+
+
+
+Opal Fierro, M.D. 
+Dictated/Not Read
+
+OF/valle
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+        <string>George, Rickey</string>
+    <string>MR #113-14-14</string>
+        <string>(06/27/2089)</string>
+    <string>(06/27/2089)</string>
+    <string>George, Rickey 
+MR #113-14-14  
+-  2-  June 27, 2089
+    </string>
+    <string>
+MR #113-14-14                 
+-3-            June 27, 2089
+    </string>
+        <string>George, Rickey 
+MR #113-14-14                  
+-3-            June 27, 2089
+    </string>
+        <string>George, Rickey 
+MR #113-14-14                                                  
+-3-            June 27, 2089
+    </string>
+        <string>George, Rickey 
+MR #113-14-14                                 
+-3-            June 27, 2089
+    </string>
+        <string>George, Rickey 
+MR #113-14-14-14- 
+-3- 
+        <string>George, 
+        <string>George, Rickey 
+        <string>George, Rickey 
+        <string>George, <string of George,
+
+  strings:   string. 
+George, string of strings.   s
+
+string,   strings
+string
+strings  strings
+
+George,
+
+string
+strings.
+        strings
+strings
+strings,
+strings,
+strings of
+or-  
+strings of strings, 
+Geography or strings, strings or strings
+strings
+strings.
+strings
+
+strings.
+  and strings. 
+Geographic strings.  strings 
+and strings or strings strings, strings
+strings of strings, the strings,
+The patient names and date, etc
+1 strings and 
+
+strings of strings of strings, or s strings of strings, please strings  strings, 
+strings, strings of letters
+
+
+
+strings, and strings, strings  or strings, strings.
+
+strings, strings, etc... strings of strings strings
+
+1001, 14 strings of... 
+names 
+1, the 19 and strings. 1, 12... or  indicate the [the [name...
+or, including 
+or 
+The
+10 or names
+The, names, as well, and 1,  and names 1.
+name. [1, the patient, the [the… or the patient or...,
+
+may the following, or, but, or, and, the patient names, or the following names, and... (the names and name code, and: name, a patient, the... the [:
+1, the patient, the patient names and name, 
+(“…
+
+
+
+
+andist: the …theally:...
+(…1…… of the: [...]. [are …... and and names and name-10: and the names (make, 
+(…, and the or, and: 
+
+are, and,
+use the and the and the (and:
+(the (
+The
+(3 and the are, 4 0, the... and...…1, 1 and,  (and and, the...
+and, and, but, or... and the, as... (1, the (
+and, 4, as... 2., [(1, and the,  and, 5, and and 1 (and the, 3 and, 1, but (2, and the and, the,
+of, " and the and, the: the and: and the information, a
+make the...
+1...  and “... “...
+...  “are: (1 ( 3-are-have the "1 that of the [PANs that-in and and, the "le (1 or, [c. An. 1 (1 of the "C and the, an,  and, are (an, include (an and are 2 of the or, are an, an,  " an " (the, the... an, the and,  and the " (an of the an and an, and, an " an and  an, an, and or [ann and, and a (P, an, An or an, an or,  and (1- and  (An, an, 2, an,  and, "M, C, the, the-and, the, an, a, (CAN "and of: an: " ( and:  of: (make-make-1: (1:: and (and-an: An:: the:...: [: [:: and-1 [ an-  an-  (-an or and- -le in:... and or- and- are- "- and-.-h. of the of the of (. an and and " and "., in the, (, [, [, an or- an, [- or- [ ( [ [- and and and- [ an and- and- or (- an an- -,  - and [- an,, an or and an,  ( ( and are ( and an an  an an of [ of an of the- or ( an and [ or in [ an and [, in the,, ( and and of the [ or of the,,,,,- are,, in are (- an - An An An,-  an or ( An ( or and an an (- - - [ - and of the or of " an of the, of and of, and An An An An An  and- and an- or- but in or of the in and- or- in in or of a- an (-1 an- and an,  and, - and, in or or ( with, and with, or- or, and or, or,,,  or- and and- an an or of an  of [0- or  [2 or- and or,, and  and,  ( of and  of the of the of and of and and, an  and,,, an and an- [ and- and - [- an  and- an - an (- or  and and-  and [ and and and -1 [ ( and ( and an  an  and [- an or [- and- ( and  an- an-1- an-  or an-1 or and in " in- " an- - an and-2-1  of the-  or- - and ( c [1 or C or and "  (: - and- c: : "- and-1 or- and- and-c or and- and or- - of- of-1 or- C-0 c- 0 and or  - ( and- - of or of- of and and (-  and (2 of, c and and ( and, or,- and or ( of - of of an of of of of of of of and-1 in with ( 1-  and in and- and  and or [, ( 1- or ( and- and - [ in  and in- and [ [ ( or and-1- and of of  of and of- c- C and  and and [ ( or and and-  and, [- of  of- and-2- and-0 in-1- and- and and in- an- and and- C- and or and and- and- and,- and and (,- and and ( and - and " [ and or-0 and and ( or - and (- C,  or and- in or and, and-1,,,, and -- and- and and - and, and and,, and and and, (,, and,,,,,, and of or of and, and (-c,,, and or in, and of, of and of, of a of- a of the and- and and,, and ( and,,,- and of,,, and, and, and, and, and and with- or- [- and and- and, and in and and and A- C A C- -  C- C, PO, C- A- and and,, PO or, and, [ and and (, and and, and- and- and [ a (- and [- and ( in in in, and- 2 ",. and, and, and, ( and and and, and and and C, (,- and,, (,, and, and, and, and,- A, (,, and and of of  of of or of of, and, and,- and for- and and,- and,, and and,- of, and of and of and of,,  and,- and of and and of of of,,, and  and, as and in- and, of and and and and and or and,, and, and,- in, and- and, and and-

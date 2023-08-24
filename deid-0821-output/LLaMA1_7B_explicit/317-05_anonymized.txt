@@ -1,0 +1,255 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2079-08-04
+
+EDVISIT^75322175^HENDRICKS, HANNAH^08/04/79^FAULKNER, GABRIAL
+
+CHIEF COMPLAINT:  Lower extremity cellulitis.
+
+HISTORY OF PRESENT ILLNESS:  This is a 53-year-old diabetic
+
+vasculopathic with a history of multiple lower extremity arterial
+
+bypass who comes in today with bilateral lower extremity
+
+cellulitis, has diagnosed by her PCP.  She was recently treated
+
+at an outside hospital for bilateral lower extremity cellulitis,
+
+had a 2-day hospital stay, and was discharged home on Keflex. 
+
+She felt that she did have some improvement but over the past 48
+
+hours has had worsening erythema in lower extremities.  She has
+
+also been having some emesis, myalgias and fatigue, but has not
+
+had any hematemesis, abdominal pain, constipation, diarrhea, or
+
+other symptomatology.  She has also not noticed any urinary
+
+symptoms of frequency.
+
+PAST MEDICAL HISTORY:  Peripheral vascular disease, hypertension,
+
+hyperlipidemia, and diabetes.
+
+PAST SURGICAL HISTORY:  Amputation to the left second, third and
+
+fifth toes, bilateral fem-pop bypasses right in 2061, left in
+
+2066 and anterior tibial bypass graft in 05/2078.
+
+SOCIAL HISTORY:  The patient works as a Senior Manager of Broadcasting and denies
+
+tobacco, alcohol, or drugs.
+
+PHYSICAL EXAMINATION:  Blood pressure 146/66, pulse 98,
+
+respiratory rate 20, temperature 101.2, and O2 saturation 99% on
+
+room air.  General:  This is a well-appearing woman in no
+
+apparent distress.  Respiratory:  Clear to auscultation
+
+bilaterally, no rales, rhonchi, or wheezes.  Cardiovascular: 
+
+Regular rate and rhythm, no murmurs, rubs, or gallops.  GI:  The
+
+abdomen is soft.  The patient does have insulin pump in place,
+
+but has no erythema or fluctuance over the pump.  Skin is warm,
+
+dry, and intact with the exception of the left lower extremity,
+
+which is erythematous, warm and slightly swollen compared to the
+
+right lower extremity.  This erythema stops at the ankle and does
+
+not extend up above the knee.  The patient also has an open
+
+chronic nonhealing wound on the plantar surface of her left foot
+
+as well.  There is no erythema surrounding this wound Neurologic:
+
+ Awake, alert, and oriented x3 except for some decreased
+
+sensation in her left foot, which is chronic.
+
+EMERGENCY DEPARTMENT COURSE:  The patient was seen and evaluated
+
+by me and the resident.  I confirm that I have seen and evaluated
+
+the patient, reviewed the resident's documentation on the
+
+patient's chart, and discussed the evaluation, plan of care, and
+
+disposition with the patient as well as the resident.
+
+The patient had a CBC and metabolic panel.  CBC showed white
+
+count of 14 with shift.  LFTs were within normal limits.  X-ray
+
+of her left foot showed no osteomyelitis seen on x-ray and x-ray
+
+of her tib-fib continued to show no osteomyelitis.  Given the
+
+erythema and swelling, I was concerned about a cellulitis in this
+
+vasculopathic who was also diabetic and so we gave her a 1 g of
+
+vancomycin (especially given the fact that she has failed
+
+outpatient therapy with oral antibiotics) and we are admitting
+
+her to the Medicine Service for cellulitis.  The patient's
+
+erythema and swelling does not extend to her foot and would be
+
+extremely atypical for a DVT.  We also notified the Internal Medicine resident of the patient's admission to Medicine as she is
+
+followed closely by Surgery and this notification was
+
+made at 8:30 p.m.
+
+Given the fact that she does not have osteomyelitis at this point
+
+we have not discussed the PICC line and given the fact that she
+
+does not have any ____ abnormalities, I did not believe that she
+
+needs pressors or aggressive hydration and we are starting her on
+
+maintenance fluids, antibiotics, and admitting her to the
+
+hospital.
+
+DIAGNOSIS:  Left lower extremity cellulitis.
+
+CONDITION:  Stable.
+
+DISPOSITION:  Admit to hospital.
+
+______________________________
+
+FAULKNER, GABRIAL MD
+
+D: 08/05/79
+
+T: 08/05/79
+
+Dictated By: FAULKNER, GABRIAL
+
+eScription document:7-11192535 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+        """, 2)
+        self.assertEqual(repr(doc), repr(doc2))
+
+
+def test_dict2json_simple_dict():
+    doc = OrderedDict([('name', 'fred'), ('address', 'a street'), ('city', 'c'), ('state','s')])
+    doc2 = '{"name":"fred","address":"a street","city":"c","state":"s"}'
+    self.assertEqual("".join(doc2), "\"name\":\"fred\",\"address\":\"a street\",\"city\":\"c\",\"state\":\"s\"")
+    doc3 = '{"name": "fred"}'
+    self.assertEqual("".join(doc3), "\"name\": \"fred\"")
+    doc4 = '{"name": "fred", "address": "a street"}"'
+    self.assertEqual("".join(doc4), "\"name\": \"fred\",\"address\": \"a street\"}")
+    doc5 = '{"address": "c", "name": "fred"}'
+    self.assertEqual("".join(doc5), "\"address\": \"c\",\"name\": \"fred\"")
+    doc6 = '{ "name":"fred", "address":"a street", "city":"c", "state":"s"}'
+    self.assertEqual("".join(doc6), "\"name\":\"fred\",\"address\":\"a street\",\"city\":\"c\",\"state\":\"s\")
+    doc7 = '{"address":"c", "name":"fred", "city":"s", "state":"c"}'
+    self.assertEqual("".join(doc7), "\"address\":\"c\",\"name\":\"fred\",\"city\":\"s\",\"state\":\"c\")
+    doc8 = '{"address": "c", "name": "fred", "city": "s", "state": "c"}'
+    self.assertEqual("".join(doc8), "\"address\": \"c\",\"name\": \"fred\",\"city\": \"s\",\"state\": \"c\")
+    doc9 = '{"name": "fred", "address": "c", "city": "s", "state": "c"}'
+    self.assertEqual("".join(doc9), "\"name\":\"fred\",\"address\":\"c\",\"city\":\"s\",\"state\":\"c\")
+    doc10 = '{"name": "fred", "address": "c", "city": "s", "state": "c"}'
+    self.assertEqual(doc10, doc9)
+    self.assertEqual("".join(doc10), "\"name\":\"fred\",\"address\":\"c\",\"city\":\"s\",\"state\":\"c\")
+    doc11 = doc9.copy()
+    self.assertEqual(doc11, doc9)
+    doc12 = OrderedDict(doc11.items())
+    self.assertEqual("".join(doc12), "\"name\":\"fred\",\"address\":\"c\",\"city\":\"s\",\"state\":\"c\""
+    doc13 = OrderedDict((("name", "fred")).items())
+    self.assertEqual("".join(doc13), "name", "address", "city", "state")
+    doc14 = OrderedDict(doc14 items.
+    names and addresses
+    addresses, dates) 
+    addresses,
+    dates
+    addresses.
+    addresses, dates,
+    dates
+
+    addresses, addresses,
+    addresses, addresses, dates,
+    addresses.
+    addresses
+    addresses, addresses,
+    addresses, dates, address. addresses, or addresses.
+    addresses.
+    dates or dates
+    addresses, addresses, addresses, addresses.
+    dates. 
+addresses, or addresses,
+    dates, address.
+    addresses
+addresses, addresses, addresses, addresses. addresses
+    addresses, addresses.
+The addresses. dates.
+Addresses, and addresses
+The names. Dates, addresses, and addresses.
+
+addresses.
+addresses of 12 addresses.
+
+addresses, 
+names or address, date of dates addresses. addresses, addresses names, names.addresses, or names. addresses, dates of addresses and names. 
+names. addresses and dates names, or names addresses
+addresses names address, address names.
+name address of names.
+names addresses names addresses, names. addresses, addresses, addresses, addresses addresses. The names and addresses of addresses, but, and addresses, addresses and names and dates and addresses, addresses, addresses, and identify 5
+names, addresses, addresses, names, addresses of address, address or the name of the names, addresses, names, and names. addresses, 
+...
+and, names and names, and addresses and or the names of names, but, addresses orations, and the... the date or the patient-name...
+name and, as the following names and the: 1: the patient and your patient-specific names, the, names, the patient, the patient names of data:, the...1, 4: the…: 1:
+(the [are of [
+: 1:...: the “are: or and the name: and:
+(and or, do the names, the (d, and the, and 3 (and, 1, or (...
+“ (10 or and 
+The and the…
+...and, and the... include the, and… 20 andine, the, (…, "and,  and [,
+. and, and, orat,...,..., (and, as, (... or [..., or, and a, and, an and, as, or, [1 (1, 1 and, (1 ( and, and and, and, "1, and, or, an, and the... (and, and you [, the 1 ([1-pat (d...with [1. anities, “… “... (le...
+19,1. [0 are "1-0-1 of a of a (1 of " by, or, and a (le (names, and. [[.,, the [. of (anat of the  and, and, and, are (1 and, 0, an- an (anat-are (an, or orities, 1, the, an, the, 10, anine, a and [an of the, and and, and, anities, and, 3 or or an, and and, and and, anine-1 of the, an,, 0, an, an, and, and, 1, an, 1, (the of, 2 and, An and, and, and, a in, An An An An An Anich “ an, and, an "and, an and “1-le and an and-1, “:: 2-9, (:... in-1- and (:: anine, anine:: (:: ( or and-le-an- or an-le-1-an are or-1-2 ( " [ an and " of the of an. of the- an by,, or, (, in,, and ( (- [ or ( ( ( and ( An- [an-an and [ and [ (, or, -0,-an-an- are an by an by  and, an by,  by or an, ( and by [  and or, in or of  and of them of - and and an or or in or ( and and by,, by,,,, of a of a by of “, by " of  by, by ( are and (,, in by- by or-  and or, of  or or and-0 or or  (,,, and or and, or of  of the of the " [ or, [,  an ( and. ( [-an 1 or and or, and or by and of and and, and  or ( or and an-0-0 an- and of the and, or-0. and, ( or in, and and,,,, in and of, and,. and, and ( and for and, of,, -0 or for- and for an-1 and or-1 for and,, and for,, for the of the of of of, of, of  of a ( by of and (-c and,, and-and an-and-, an-h in an in by,,-1-1,  an,  and - of ( -  and- an-1 an ( by- an- to- and and,- an- - or- in " in or an an or  or or [- or- " and or - ( h and- in h- or or and and, of- or of by, and - c, by- and and- or and- and of the and by and and an and- or anity and by and or- and and- and-- to and- of- of a- with of - and ( and - and  and-1- or, and and or of, or of or or of of, of or- of or in,- and and,,,- and- to  or and, ( of and of and of of or of or -2 of- or- - and. in,-  an, or and (, h (, to or to and in and- and and and- or, and- and,- and, - of and, of  and and of  of and and, [ (, or- to, and and and or and,- and or of, and, to. to and h. to- or,, and or or ( and and, and to or, to and or- and and  to, and [ and and- and and,- and, - (,, or and and or, and and or ( ( and- in and,,- or or (-,, or, (, ( and  and- and h- ( and, h  and,, and,,,,,,,.,,, and, and, in and, (, ( and,,,, (,,, of, to, to of, and,,, and, h- on.- and in-,, and- and, and, and (, and and, and and,- and-h [ h- and, and and, and, or or- (  ( [- - and- is h and and- and and and, and and and and- or ( and to and, ( and and and and to [ to- and ( [ or- and, and, [. ( or. and, and, ( and ( ( and- and or- (, and and,, h as ( and,,, and as and, or, and ( and to,- h,, (- and- h  and  and- and- on -- and,-- (- and- and, and ( and, and- and- and, is to,, and, and, and (  and on, or and or,- or and ( ( and- (, (- and and in  (  and,-- (- and- and,, [- and, and and,- in- or,

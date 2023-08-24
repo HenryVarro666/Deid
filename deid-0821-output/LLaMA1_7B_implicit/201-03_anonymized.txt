@@ -1,0 +1,293 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2082-10-22
+
+
+	CARDIOLOGY
+	
+
+	GRIFFIN NURSING CENTER
+	
+
+
+	Reason for visit:
+    
+
+
+	Interval History:
+   Mr. Xayavong is a 61-year-old gentleman with history of CAD, anterior STEMI 2077, stents x 2 to LAD, four stents since then, last 2080, diabetes, CHF, unknown EF with EF of 25%, and hypertension currently under pre cardiac transplant evaluation. In 5/82 he had BiV ICD placement as well as left heart catheterization, which showed multivessel disease higher risk for CABG. 
+   He was hospitalised in 6/82 after he presented with ~3 days of nonspecific symptoms of fatigue, nausea, and poor sleep. He was in Afib at that point of time and had elevated NT- proBNP.  His medications were adjusted. He was discharged from the hospital class III stage C to D
+   He denies chest pain, shortness of breath, PND, orthopnea, palpitations, or syncope. No ICD discharges reported. He denies any lightheadedness or dizziness He does note a queasy sensation in the stomach on and off. 
+
+
+	
+
+
+	Past medical history:
+   CAD, history of STEMI in 2077, eight stents including LAD, at least x 2, BiV ICD placement , last cath at OCH showed multivessel disease, BiV ICD, DDD St. Jude, 05/13/2081, CHF, diabetes, hypertension, former smoker.
+
+	
+
+	Changes to Allergies
+	
+NKA: No Known Allergies - reaction: [reviewed]
+
+
+	Family history:
+   Significant for heart disease in both mother's and father's side, but no early CAD in the first-degree relatives, hypertension and hyperlipidemia in both sides.
+
+
+	Social history:
+   He is a retired purchasing agent, quit smoking a few years ago, had smoked one pack per day.  He has used no alcohol or illicit drug use, a very supportive family.
+
+
+	Review of systems:
+   Negative, otherwise as stated above
+
+Physical examination:
+	
+-BMI:   
+-Pulse: 66  
+-weight: 221  lbs.
+-Neuro:   Grossly intact.
+-Extremities:   No edema, 1+ pulses bilaterally.
+-Abdomen:   Soft without hepatosplenomegaly, bruits
+-Cardiac:   Apical impulse laterally displaced, RRR, S1/S2, 2+ MR murmur, 1+ TR ateral PMI.
+-Chest:   Clear to auscultation.
+-Neck:   JVP is approximately 8 cm.  His neck is supple without thyromegaly.  Carotids are brisk without bruits.
+-Heent:   Normocephalic.  Atraumatic.  Clear oral cavity.  Midline thyroid.
+-Skin:   No rashes, anicteric
+-General:   He is a well-appearing gentleman in no acute distress.
+-BP: 82/50  
+
+
+	EKG:
+   V-paced rhythm @66bpm, Left axis Deviation, QTc-517.
+
+Selected recent labs:
+	 Pending
+	
+
+
+	Impression:
+   61 year old man with Stage C New York Heart Association class III heart failure.
+   Patient is scheduled for a right heart cath in 11/82.
+ His NTproBNP is high, but since he is medically optimized we cannot further titrate his therapies.
+		Medication List
+		
+
+				CONFIRMED
+
+		- ACETYLSALICYLIC ACID (ASPIRIN)  81 PO QAM
+
+		- Aldactone  12.5 MG PO daily
+
+		- esomeprazole  40 MG PO daily
+
+		- Fish oil  000mg 1200mg po
+
+		- glipizide  20 MG PO BID BEFORE BREAKFAST AND BEFORE SUPPER
+
+		- Lasix  40 MG PO daily
+
+		- lisinopril  5mg po daily
+
+		- Toprol XL  12.5 MG PO daily
+
+		- warfarin  5 MG PO QPM
+
+			------------------------------------------------------------
+
+				REMOVED
+
+		- Omega3  1200 MG PO BID
+
+
+	
+	
+
+	
+Crystal Perez, MD
+
+	
+Quintin D. Quesada, MD pager #15657
+
+	
+Signed electronically by  Crystal Perez, MD; Quintin D. Quesada, MD
+Document Status: Final
+
+
+
+
+
+*/
+
+//@formatter:on
+
+import org.hl7.fhir.dstu3.model.Enumerations;
+import org.hl7.fhir.instance.model.api.IBase;
+import org.hl7.fhir.instance.model.api.IBaseResource;
+import org.hl7.fhir.rest.api.server.RequestDetails;
+
+import ca.uhn.fhir.model.api.Include;
+import ca.uhn.fhir.rest.api.server.RequestDetails.IncludeParam;
+import ca.uhn.fhir.rest.api.server.RequestDetails.SearchStyleEnum;
+import ca.uhn.fhir.rest.api.server.IBundleProvider;
+import ca.uhn.fhir.rest.server.exceptions.InvalidRequestException;
+import ca.uhn.fhir.util.ElementUtil;
+
+public class FhirResourceProvider extends FhirBaseProvider {
+	private final static String MIME_TYPE = "text/fhir+xml";
+
+
+
+/*
+	@search(queryName="SearchBundle", fullText?:true, max="5", size: "5", sort: "lastUpdated", descending: true)
+	public IBundleProvider search(SearchStyleEnum theSearchStyleEnum, @SearchParam("foo") StringParam theFoo, @SearchParam("bar") StringParam theBar) {
+		return new BundleProvider<SearchResultsDstu3>("myBundle"){
+			private static final long serialVersionUID = 0L;
+
+			private IIdType id;
+        // private Bundle nextLink;
+
+        //private BundleEntry searchResult;
+        // private BundleEntry searchResult;
+
+        private final ISearchResult<Bundle.Entry> entry = new ISearchResult<Bundle.Entry>() {
+                private ISearchResult<Bundle.Entry> myDelegate;
+
+
+            @Override
+            public ISearchResult<Bundle.Entry> getDelegate() {
+                return myDelegate;
+            }
+
+            public ISearchResult<Bundle.Entry> setDelegate(ISearchResult<Bundle.Entry> theDelegate) {
+                myDelegate = theDelegate;
+                return this;
+            }
+        };
+
+        @Override
+        protected ISearchResult<Bundle.Entry> getSearchResult() {
+            return entry;
+        }
+
+		@Override
+		protected IBundleProvider getNextLink(Bundle.Entry next, RequestDetails theRequest.getRequestDetails()) {
+			Bundle.Link nextLink = next.getLink();
+			if (nextLink.getRelation() == RelationshipTypeEnum.SEARCH.getCode() && next.getIdElement().hasUrl()) {
+				String baseUrl = theRequest.getResourceName() + "/" + next.getIdElement().getIdPart() + "/";
+				if (nextLink.getUrl()!= null) {
+					if (Enumerations.SearchStyleEnum.INCLUDE!= theSearchStyleEnum) {
+						baseUrl = theRequest.getResourceName() + "/" + next.getIdElement().getIdPart() + "/" + baseUrl;
+					}
+					baseUrl = nextLink.getNextLink();
+					if (nextLink.getNext()!= null && nextLink.getNext().getType().equals(IBaseResource.class)) {
+						ElementUtil.parseUrl(baseUrl);
+					}
+				}
+				return new BundleProvider(baseUrl);
+			}
+			return null;
+		}
+
+
+
+		@Override
+		protected IBundleProvider createResourceBundle(Bundle theBundle) {
+			return theBundle;
+		}
+		
+		@Override
+		protected Bundle getInitialBundle(Bundle theBundle) {
+			IIdType id = theBundle.getEntries().get(0).getIdElement().toUnqualifiedVersionless();
+			return theBundle.build(id, theBundle.getType(), theBundle.getId(), theBundle.getRevIncludedResource(id, theBundle.getType(), theBundle.getId(), theBundle.getType(), theBundle.getLinkId(), theBundle.getLinkId(), theBundle.code()
+
+           
+
+                Bundle.getLinkedInformat.  
+                theBundle.getLink
+               
+                get 
+			 	 
+               
+                The patient	
+	
+ 
+                The patient.
+                get Link
+                Link 	 
+                Code
+                Link.  
+                
+                Link.
+
+                	Link
+
+
+		
+               
+	code
+	 	20-
+            
+              .  
+code-
+	code 
+    code 
+               	Code.
+	 	code 	
+	code  
+
+	code 
+
+
+	code 	code 
+	code.
+	code 	code-code  code 3 months- code
+	code 	code.
+code 	code
+code	code 	code	code,	code 	code 3.code-code
+	code
+code	code 	code
+
+	code 	code
+
+
+	code 24
+A 		
+
+	  
+		A
+A
+15	202
+	
+
+	 5 13
+	, 
+, _
+
+A
+
+
+
+
+
+A and 
+	and 	 
+date 	day 40 and 
+	 and 0,
+.
+	 8 524-date 124. The 2. 9.
+. 2. 8.
+
+1800,328. 91. In:
+:
+:  and date and a and [a day: (4 year 080 date 3 (
+	 	A.
+ 1, A, a (0 	. (1 7 199:	:  MIG.
+,, the: 	:
+. 11 0. 5:
+	: : 1 year  [old, 86050 3 year: 2 8- 9. A in :   [A and: [20.9,  -1,0 year, 0 and, and . a (a.  2,, a - An (C   (1.1 with 1. An, a, 5 year with the [ 20, 3210 with, 0, and (years, an, the, 31., and 1 with (10.,.  and the  and the. 20 0/20-9. ., a and 1, A and a chronist An, and the and 1 An for the An, 30, and, 7 2 andness, [2 (21 An 10 (1, 1 in 1 An An, 1100, [3 a old. 0 with 0 9000-1 10- 8.1, and a and [3. 7,  year,10 in,8 2,,1,2-0 with  and, 2. 2,5. for 1, 6 and, 82101. 7 8-2 3 a in ( 0 (1 (  a a, - 0 with,  ( - 0 10- 7  8.9 8  in,  (c-a,  and, :  a: : An.. R. [: An-2. Anist, ( Cine: a-1. An (in  in a for an in the (, the and [,.,. 0.	 [. [.0, [ 2  [:,.  - [, (  (:..0.  [,   [ c for -c [.. :. : :.1., in..  [ [0.,  and and,. C, [:  [1 and- 0 and. [3. [  in M [ in -.. 1.  for a   for  was.  in    was  was. -  [..  for.  for  and  for [ for  for with. for (- and for  and, and for for, for for for  for a for.  for and  for,  for  old..   -, and    ,.   and  on and and-  as -. on, 0 2 and with and to 2 and, --5 and  [ and,. C, - -2 -,  (, –. of- - - to. - 0 -  (   and-,, and-1 to, in (2 with. on, -, with and- old,- M or. -..-1   - -00-. or  -, 0 0.  - and. and  and - and in 1  . 0, wne-cl. C C- and and and C (, 1-. - - an.- an. cl, * L (.  - :-0, -: and in.  of a of a and (::. C and- C. and. C C –- a  C.- -c and-2-0 [: C-. to: C and - L.	---0  of of - - of  A C-1 C- a-0 ( 1 - a- : - L0-2 L ( (0: L l [ old:  ( C - C1 [ of:- of an of of [- of- L of-0-1, [ ( [. and-	- [ of, a of of,1 of of -1 L- L C-. L. L-1. a L,. 0 0-0 of,,  C. -  and..0 0- a-0 -1 a- a 0,0, and 0 and.0 L. - a-0 and-1. C-0 - [- and, and ( ( C, c c. [ C,. C c C- C.. L.	 -,	. L-1 L. L  M  C, L. and. L, - and -  [1,  C- and.. C and C. C w-1, and ( and [  of ( of [ of of of, of [ c C0 c C.	. and,. (  C. 0-, C of and (,  of. C c c.  and -.-10. of and  -11 and  of of0 of. C 0 C-1. 1 c and- of c. C of- C a c of C1 of of.  C of of C of a. of1 of. C- 0- C1-1 c1 C. 1 a 0-. and 	0 of a of 0	 of-0 of c of  of  of a of H1 and H and and of C and-	 and (.0, C0 (1 ( C0  C		 ( A.		0. C and,.-,.  of 0.0 1 of. Cndc (, a for-A-  of of of for of c, of for of of.  C. for. C, for, 1.  -0. -1 C  C.  C - N. B  c, c0- c. -0 of and of- of

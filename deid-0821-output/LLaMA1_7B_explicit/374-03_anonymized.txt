@@ -1,0 +1,146 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2133-01-22
+
+
+Wise, Willa
+Internal Medicine Associates, Suite 7
+Bayne-Jones Army Community Hospital, 0th Floor , Noom 038
+Hayti, DE, 36349-2179
+
+		RE: NORMA  MCKEE
+01/22/2133
+Admission Note
+IMA COnsult note Covering for Dr Robert Xenakis
+CC 57yo with multiple medical, psychiatric problems  admitted with recurrent SBO and acute renal failure
+
+HPI Pt has Hx TAB/BSO, appendectomy and cholecystectomy 7/2125. She  was admitted 8/2130 with SBO, treated conservatively with NG suction.  She has chronic constipation. 5 days ago she awoke with nausea, developed vomiting, and has been unable to keep liquids down. She has severe depression, agorophobia, and did not want to come in to the hospital She states she had small bowel movement 2-3 days ago. She has had difficulty passing urine, with a very small amount urine output yesterdat. She had a few episodes of near syncope when changing from sitting to standing, but no syncope/ LOC/ falls.
+
+PMHx- surgery as above
+
+
+Problems:
+Chest pain
+Depression followed by Dr Kopp psychiatry
+Glucose intolerance
+Headache
+Hematochezia
+Hiatal hernia
+Hyperlipidemia
+Hypertension
+Seizure disorder
+Small bowel obstruction Hx
+Umbilical hernia
+Easy bruisability
+Sciatica
+Sleep apnea
+Family history risk factors
+Diabetes mellitus
+Iron deficiency anemia
+Obesity
+Acne
+
+Medications:
+vitamin d 400 units po daily
+tetracycline 500mg po daily
+Nizoral cream 2% top daily-bid rub gently into affected area once to twice daily
+lisinopril 30 mg po daily
+Prilosec 20mg po daily
+potassium chloride 20meq po daily
+hydrochlorothiazide 12.5 mg po daily
+free text medications HEAD GEAR model # rsp1007930
+MiraLax 1 pkt daily or prn
+simvastatin 20mg po qpm
+Klonopin 0.5mg po bid
+Celexa 40mg po daily
+mirtazapine 30mg po at bedtime
+Seroquel po 1600  mg daily
+Tegretol 200mg po 7 TABLETS PER DAY
+CPAP mask Respironics Comfort Select - medium
+
+Family history:
+Father with CAD, diabetes, and hypertension.  Sister with hypertension, diabetes, and hyperlipidemia.  Brother with hypertension and obesity.
+
+Social history:
+No tobacco.  No alcohol.  See depression issues above. Largely homebound.
+
+Physical Exam:
+Blood pressure: 100/60
+Pulse: 110
+Respiratory rate: 14
+Temperature: 97.7
+O2 sat 95% 2 liters
+General appearance:Ill appearing
+Skin: facial acne
+HEENT: NG tube in place. mucous membranes dry
+Neck: no adenopathy
+Chest: Clear
+Cor: S4, no murmur
+Abdomen: Obese.Distended
+Extrem: There is 1+ edema.  
+
+Selected Recent Labs: 01/22/33 Plasma Sodium 135, 01/22/33 Plasma Potassium 3.7, 01/22/33 Plasma Chloride 78 L, 01/22/33 Plasma Carbon Dioxide 44.0 H, 01/22/33 Transaminase-SGPT 30, 01/22/33 Transaminase-SGOT 30, 01/22/33 Alkaline Phosphatase 104 H, 01/22/33 Total Bilirubin 0.7, 01/22/33 Direct Bilirubin 0.3, 12/14/14 5'-Nucleotidase 8, 01/22/33 Total Protein 7.5, 01/22/33 Albumin 3.8, 01/22/33 Globulin 3.7, 03/07/31 Creatine Kinase 104, 01/21/33 Creatine Kinase Isoenzymes NEGATIVE, 01/21/33 Troponin-I NEGATIVE, 01/22/33 Plasma Urea Nitrogen 67 H, 01/22/33 Calcium 9.7, 01/22/33 Plasma Creatinine 5.8 H, 01/22/33 Plasma Glucose 200 H, 01/22/33 Lipase 11 L, 01/22/33 Phosphorus 6.7 H, 01/22/33 WBC 5.5, 01/22/33 HCT 36.4, 01/22/33 PLT 342, 01/21/33 UA-Turbidity Clear, 01/21/33 UA-Glucose NEGATIVE, 01/21/33 Bili 2+, 01/21/33 UA-Ketones Trace, 01/21/33 UA-Specific Gravity &gt;1.030, 01/21/33 UA-Occult Blood NEGATIVE, 01/21/33 UA-pH 5.0, 01/21/33 UA-Albumin 2+, 01/21/33 Urobilinogen NEGATIVE, 01/21/33 UA-Nitrite NEGATIVE, 01/21/33 UA-WBC Screen NEGATIVE, 01/21/33 Hyaline Cast None, 01/21/33 Granular Cast 0-2, 01/21/33 UA-SED-RBC 3-5, 01/21/33 UA-SED-WBC 0-2, 01/21/33 UA-SED-Bacteria Many, 01/21/33 Squamous Cells Moderate, 01/21/33 Tubular Cells Few
+
+
+
+Abdominal CT Renal no hydronephrosis/renal masses.
+Dilated loops of bowel/ no masses/ consistent with SBO
+
+Assessment and plan:
+Patient with recurrent SBO. Unfortunately she has had vomiting X 4-5 days, and now has acute renal failure, most likely due to hypotension, dehydration and ATN
+
+Her psychiatric problem is significant. 
+Hold HCTZ/ ACE
+IV hydration. Renal consult.
+NG suction for SBO.
+Dr Xenakis back tomorrow.
+
+Willa Wise, MD pager #58824
+
+Signed electronically by  Willa Wise, MD
+Document Status: Final
+
+
+
+Record date: 2133-01-22
+
+
+
+
+RE: NORMA  MCCLENNAN
+01/22/2133
+Admission Note
+BCH Suite 7 7/F, 038, 8th Floor, 36349-2179, 111, Bayne, Suite 7, HC, 12, Hayti, 201, 21, 57, 21, 25, 895, Deal, 27, 745, Gross, 143, 85, 106, 102, 06, 36, 60, 76, 57, 88, 63, 35, 70, 91, 40, 31, 95, 28, 21, 40, 83, 64, 13, 18, 53, 40, 28, 10, 45, 53, 37 77,
+68, 37
+
+
+
+43, 6530 (37, 53, 29, 10, 20, 432
+10, 29
+7, 44, 837, 37 and 39, 478, 9, 37, 36, 3, 3, 636, 3, 2, 2, and 3, 97, 7, 7. 2, 47,84, and 30,35, 1,41, 3, 3, 3, 1, 3, 1, 1, 1, 1, 3, or 4.
+
+1
+4, 3, 1, and a 4, 10 characters, 2, 1, 1, 3 and 1 patient name 
+and name 1... 8. The name, or name.
+
+
+
+
+245...1 or a, and 4 or (2, 8 or, as well, and 1, 1, and 3.
+, and name-2, 15, 12, and 1 or and the [1, and the 123 (4 or 10,13, as 13:, 8,10 and 
+pat, your:
+
+...andize:
+
+names: words: and the “…theise the …, “make (1 [d and include (1 or...
+le, the 1... [[ 4, orary, 1 4 are (1 (the names,
+[make or (1, 1 and the 1 (... (and: or the or, " 3 or, and 1-
+and, the…and.
+… 1, 1...
+(...…... 1, and, the: and: 
+
+.
+and “1 (2, the and, or, 1, and, a,
+[1 and, [, the, and, the and, the, the, and, and the are, etc. and and or, and, and, and, and, 0, include, and and, and, a and (1,1 and, 5, and, 1... wiff (2, [1. the (1 (2: 1 " 2: (and “1 1 [ [ are " 3  are, 3 of 1 of an ( or or or, by, the, 1 and, the, or [and, [1, the, 1 of a, the (. 1 and, and, an, an, an, 0 and an are the- are-1 and, an, an, or, an, [1 an, and- an an, 1 an, 1, an, an of a and, or ( an, and the, an 0, W in the, 2 and, (1,, 0 and,, (1 (an, and, and an, and and,  and, ( and- ( and, W 1  and, (le, and, "in, (1,1,: of the, an 2 of an: an 4 of the:: ( an in an:: an- an [1-and and: an:::: and- an " (: an,, an or and or: ( an or or: : an: or: an [ (, [ an [an ( an [1,,. [ and of the and of the of and or.  an  in [,, and or [ [ an and and  - [, [ [ (,- or [ and or by  (, - - an [ in, an  an ( in in, and an an  and, and and and an ( an, -- are in ( are, or an of " ( of the of ( and of an,- or, in,  by ( and and or,, of  ( ( and of " of, or- (,- and ( or,  or ( and-  or- and or of an  an or in, or- or or an and an, in,,, or or an and- with of of the  of their of ( -,, or,  - and and.-  in ( in- or or,  and an-  in or in an " or- 0, an and or of,- m,,,  of  for of, and, or and or,,, or ( and and, and,,- or and, or, of an m of. or of,0, ( an -  of and ( and ( and and an,, and and,, of and of of,- of of an,,-  and and,  and, and (,  and and and, and- and an with and and in- and an 1-1-h in -  and  and with ( W with W-,  with-1  and-  ( or or- an  ", and  m  - and m or or [ and or ( C ( for, C or- and,  and,   or, c of or and of 1 (0 (-  and,  and c: ( and (- to ( ( - and- and (: or c (: and: to or-1 or (- and and c and ( " C of or an of and and. and- ( and,, or and and and, and, an  of of, of,  of and of, and,  with with  C,, or and in or in, and - of a of  of of  of  of  of or and- and  w, W and - C, and and, W and, w- W in and, or,, in w and -  and- or ( and- C  W C W,  and of and of of ( ( of and  W to, - to to to and to  to - and or or ( and and and c12 2- and  and [ and. W  and and c- w and and  and  and and  and and ( ( and t and, (, and and and. and t a or and and W  and, and an and m and, ( W.. P- an and - W or or, and, W, and and, and and or,, and and, W or w and and w, and  and and,, W, W of m.  ( W and, and  w, and w. ,.,. [,. W (  and of. m m,, and and.  ( w ( w,. m and and m, (,, and m,,.., n (, [,, t and, and t ( and, and ( or t and and.  or t.  I-1 ( w and to I to I W I M and of M and to m to and to M to to and, m ( and t ( to and- W - and, ( and ( I (  I, t. and, t 1 and m and m w,,, w and and m and- M - -, or ( m, and m and m-  and- t and m and, and ( ( m and and, m m,,,,  and- and, m and- and ( and (, and and and M or, and and m,,,4, m and,, m and, m ( m and and, and,. or, and and m, M 1 and m (1 and-m M and and and- ( and and M and m, m 0.

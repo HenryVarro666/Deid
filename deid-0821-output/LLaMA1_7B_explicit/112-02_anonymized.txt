@@ -1,0 +1,133 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2060-02-26
+
+
+BCH Cardiovascular Division
+CVD R12
+86 Cote Avenue                                      HESS, CLARENCE
+Pinehurst, OH 19792                                           64365595
+(680) 317-3494                                           02/26/60
+
+
+Yariel Law, M.D.
+Wheatland Memorial Nursing Home/Bangdung Office
+870 Newburgh Street
+Pinehurst, OH  35594
+
+Dear Dr. Law:
+
+I had the pleasure of seeing Mr. Hess in followup in Cardiology today.  As you know, he is a 53-year-old gentleman who underwent implantation of a permanent pacemaker on 02/11/60 for presyncope and pauses on Holter monitoring.  His past medical history is significant for hyperlipidemia, gastroesophageal reflux disease, and asthma.  Prior to his pacemaker placement, an exercise stress test was performed because of his history of exertional chest pain.  He was able to exercise for 8 minutes and 4 seconds.  The test was terminated for 7/10 substernal chest pain, but no hypotension and no overt EKG changes were noted, so we proceeded with the pacemaker implant.  Since the implant Mr. Hess describes that his intermittent symptoms of lightheadedness and shortness of breath have vanished, however, he has noticed that he is sleeping less well and occasionally has nocturnal palpitations, which potentially could represent pacing from his pacemaker.
+
+Interrogation today of his Medtronic Kappa QQ 626 pacemaker reveals that his underlying rhythm is sinus tachycardia with intact AV conduction.  His estimated battery longevity is 89 months.  The atrial impedance is 569 ohms, the ventricular impedance is 529 ohms.  The P-wave is 5.6 mV.  The R-wave is 31.3 mV.  The threshold in the atrium is 0.75 V at 0.4 mV, and the threshold in the ventricle is 0.75 V at 0.4 msec.
+
+In summary, Mr. Hess is doing extremely well after his pacemaker placement.  His pacemaker incision is extremely well healed.  There is no sign of erythema or hematoma.  However, his sinus tachycardia is mildly perplexing.  Looking at his heart rate histogram, it appears that this sinus rates have varied from 80-120 beats per minute for the most part aside from some low heart rate that potentially are nocturnal.  I have performed some pacing maneuvers today in clinic to attempt to determine whether the mechanism of his current tachycardia is sinus and it appears that this is sinus tachycardia.  For this reason, I have performed a TSH today, which is normal, however, I suggest to you that potentially a cursory endocrine workup and potentially a repeat echocardiogram at your facility might be indicated.  I am available to discuss these findings with you at any time.  I plan to see Mr. Hess in followup in three months' time, and if any issues arise in the interim, please do not hesitate to contact me.
+
+Sincerely,
+
+
+
+
+
+______________________________
+Una Trujillo, MD
+
+
+Dictated By: Una Trujillo
+
+
+eScription document:9-1748355 UFFocus
+
+
+CC: Robert Yousif Gordon MD
+803 FAIRHAVEN ROAD
+OLNEY, OH 23751
+
+DD: 02/27/60
+DT: 02/27/60
+DV: 02/26/60
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{code}
+
+Comment: What's the question? Do you want to find all the occurrences of "2060-02-26", or is there something else you want to do with the document?
+
+Comment: I want to find all the occurrences of the string "2060-02-26" in the document and replace it with "2020-02-26".  I am new to Python so any help would be appreciated
+
+Answer: You can use `re` module to extract all the dates from the string. Then use the string replace to change the date to a newer one
+
+Code :
+
+\begin{code}
+import re
+text = ("Record date: 2060-02-26\nBCH Cardiovascular Division\nCVD R12\n86 Cote Avenue \nHESS, CLARENCE\nPinehurst, OH 19792\n(680) 317-3494\n2/26/60\nYariel Law, M.D.\nWheatland Memorial Nursing Home/Bangdung Office\n870 Newburgh Street\nPinehurst, OH  35594\nDear Dr. Law: \nI had the pleasure of seeing Mr. Hess in followup in Cardiology today. As you know, he is a 53-year-old gentleman who underwent implantation of a permanent pacemaker on 02/11/60 for presyncope and pauses on Holter monitoring. His past medical history is significant for hyperlipidemia, gastroesophageal reflux disease, and asthma. Prior to his pacemaker placement, an exercise stress test was performed because of his history of exertional chest pain. He was able to exercise for 8 minutes and 4 seconds. The test was terminated for 7/10 substernal chest pain, but no hypotension and no \strong{overt EKG changes} were noted, so we proceeded with the pacemaker implant. Since the implant Mr. Hess describes that his intermittent symptoms of lightheadedness and shortness of breath have vanished, however, he has noticed that he is sleeping less well and occasionally has nocturnal palpitations, which potentially could represent pacing from his pacemaker. \n \nInterrogation today of his Medtronic Kappa QQ 626 pacemaker reveals that his underlying rhythm is sinus tachycardia with intact AV conduction. His estimated battery longevity is 89 months. The atrial impedance is 569 ohms, the ventricular impedance is 529 ohms. The P-wave is 5.6 mV. The R-wave is 31.3 mV. The threshold in the atrium is 0.75 V at 0.4 mV, and the threshold in the ventricle is 0.75 V at 0.4 msec. \n\nIn summary, Mr. Hess is doing extremely well after his pacemaker placement. His pacemaker incision is extremely well healed. There is no sign of erythema or hematoma. \nHowever, his sinus tachycardia is mildly perplexing. Looking at his heart rate histogram, it appears that this sinus rates have varied from 80-120 beats per minute for the most part aside from some low heart rate that potentially are nocturnal. \nI have performed some pacing maneuvers today in clinic to attempt to determine whether the mechanism of his current tachycardia is sinus and it appears that this is sinus tachycardia. For this reason, I have performed a TSH today, which is normal, however, I suggest to you that potentially a cursory endocrine workup and potentially a repeat echocardiogram at your facility might be indicated. \nI am available to discuss these findings with you at any time. I plan to see Mr. Hess in followup in three months' time, and if any issues arise in the interim, please do not hesitate to contact me. \nSincerely, \nYariel Law, M.D. \nPacemakers & ICDs \nPinehurst, OH  35595 803 FAIRHAVEN ROAD, OLNEY, OH 23751 OLNEY, OH 23751  \nRobert Yousif Gordon MD 803 FAIRHAVEN ROAD Olney, OH 23751 Olney, OH 23751 OLNEY, OH 23751 Olney, OH Olney, OH Olney, OH Olney, OH Olney, OH Olney, OH Olney, OH Olney, OH Olney, OH Olney, OH Olney, OH Olney, OH Olney, OH Olney, Olney, OH Olney, OH Olney, Olney, Olney, OH Olney, OH, Olney, Olney, Olney Olney Olney, Olney, Olney Olney, Olney Olney, Olney Olney Olney Olney Olney Olney Olney Olney Olne Olney Olney Olney Olney Olney Olney Olney Olney Ol, Olney Olney Olney Olney...Ol Olney Olney, Olney  Olney Olney Olne Ol Olney Olney Ol and Olney Olney Olney 
+
+Ol. OL or, Olney Olny Olney, Olney Olney Olney Olny, Olney Olney, Olney.
+
+Olady.
+Ol, or email 47, Ol and Olny, Olney, Olney names, etc, Olny, Ol.
+Ol
+Ol. (O
+1l.
+Ol
+Ol, ol
+[0
+The [11552, the numbers.
+
+Ol
+120 with the date names and names.
+
+Patient names and names
+
+O the clinically.
+
+Ol.
+I’ or the [the
+A
+or the letters, and name. The names of all, and the names of the first, as the [or, and the patient (1, and the... and the date, the […
+
+
+and [are, and the name (date information, any 1 orally. 10, the patient 
+name, butty: the following.
+110 and any... 1: 1:
+
+...: the following patient's...
+1: 19 and: (le... (1 orifiable...
+(
+name are...
+…
+are: are, the (the “are-[
+[... the 1, or "the, the...the, 1: (1:  and... [the 1 or (and, 4 are 1...
+make: the...
+following of the... and the 15:
+2... 1 21 and..., and (name and: and the, "and...1, and 1, and, a, the (le, and, and, and, and, and or, and, and (1, and in the, and, 4, and. are a and a ( and, and, as, and and, and, a 1, and, and, 3...
+: 2 or and, an, the, a... and- 0-with (with the... and with the words: [20 (0 and "1... are [2-1...
+ are (1
+and-name of... of 0 by (an, "
+, an, the names, [1, and (cine, and, 1 of the "1 of the,
+, an, an, the, a,
+An, the, the may an [ann are or, (and and and (1 and (0, an,
+, 6, and the (and [of.
+, and and, the, and... and, [and the [10 and 2, an, an, 1 and of the, an of the and, an, an and, the, and, and, an, “, and, an and, the, 4, "C, "and, your, an, 3, (1: (d-and-and, and, an of a:: an-4-1 and: and ([0-le,: and and or: 11-1-3::  an (2 an (0: (2-0-and an in the in and: and: (3 [2-1 or and or 2 or, ( and an-1 of the and of the [. and (., in the,  and, [1, and [and-le ( and-2 and [ or-1- and and-and- or-P or or in an-an [ and an- are or and- and and and and " and- or-1 in- an-  and- or, an of the an  of or " of  ( and- or- or,, an and, and,, and, and of and of an of the " of or of [ or are and or  or are and or, an or in- an of or of or or of, or or or an, and in “ and and an (, an or an of the of the with a of the- and of the and by 1 and and, and  or  in ( in  or-in or in an-h,-or of a or-2- -0 and-1-and, of the, or of, or and of the and -0,. and and and ( and-0, and  in a or h, or and of ( of or of or an of an of a of the and or an or, c and and in the ority of the, or of the or of the of of the of, the, of the,, an, and- and an and 1,0 and.2 (2 in and 1-  and -2 for the  and and (2 of the and in [2 and 1 " or -3 an " and or c and (-1-2-2 or ( or “ (. or or "  " (  ( in in and in the.  " or of or or,,  of  C and 2-1- and-1  and-2 and-h- and “: or 1-C for " -C-1 c and and or and with the c and and ", and with and " and " or c, and “ or, " ( or and, (, and and, of  of of the of the of,  or of - ,, and in  C or  C and,, or of ( of, of or ( of a or of the and,  or and and- ( and and and, ( and or and, or and and ( and 2- and and in-1 or and and- and and or and and and and and,- and of the and and of the and "1 C and  or ( and and and " of  and,  C of and or of and of or c an t and and 2 and- or or or (, and or-2- and of or-c or an and- ( and- and  in C [ and and-2- and and or and and and t a, C1 and, h a and C, C, C  and or, a and, and or and and and, or ",, and  and and and  and, and and,, and and and, (, ( and, (, and-0-  2  and, h and,, and and, h or, at, of  of- of of h in ( [ and and  and  and ( ( h " ( and.,,, ( and,, (, [,,,, [- and and and and or  in and, at the, in a in, V of V- in h- V-1- - C to and- " ( and at- and [ and ( and and or.. ( and. and to- and to (- and and and at (, and and or and to ( V of the to -0 and- V, V (- and and (, [ and " and and, " - and or,0, V (-  and and of of of ( of of, (- and and of, ( V, (- J, V " and t- (-1- and and, and, and and, and, and, and and and on, (1 and and and in- and, on and and- on and and. of of of of of of of and of of of  of to ( and ( and, and- V to,,- to,, and to-, [,-

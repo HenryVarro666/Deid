@@ -1,0 +1,924 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2093-04-30
+
+
+
+Reason for Visit
+
+Here for CHF/Angina/BP/DM check, no chest pains.  Taking meds without problems.  Breathing still is fine and no ankle swelling.  
+
+
+
+Medications
+
+      FUROSEMIDE   20MG,  1   PO QD
+
+      Asa (ACETYLSALICYLIC Acid)   325MG TABLET take 1 Tablet(s) PO QD ,  Take as directed 
+
+      ATENOLOL   100MG TABLET take 1 Tablet(s) PO QD ,  Take as directed 
+
+      LISINOPRIL   20MG TABLET take 1 Tablet(s) PO QD 
+
+      Zocor (SIMVASTATIN)   10MG TABLET take 1 Tablet(s) PO QHS 
+
+      Imdur (ISOSORBIDE MONONIT.(SR))   30MG TABLET CR 24HR take 1 Tablet(s) PO QD 
+
+      Cardura (DOXAZOSIN)   4MG TABLET  PO QD 
+
+
+
+Allergies
+
+      Sulfa    - Unknown
+
+
+
+Problems
+
+      Angina    : STABLE
+
+      Diabetes mellitus
+
+      Elevated cholesterol
+
+      Hypertension
+
+      Hearing impairment    : HEARING aids
+
+      S/P urolithiasis
+
+      S/P Squamous cell cancer    : metastatic to L axilla
+
+Dr. Jessup Med onc, Dr. Enright XRT
+
+      Benign prostatic hypertrophy    : urinary retenetion
+
+      Visual impairment    : Diplopia due to 6th nn palsy, 2091
+
+
+
+Vital Signs
+
+      BLOOD PRESSURE   130/60 
+
+      PULSE   68 
+
+      WEIGHT   184 lb
+
+
+
+Exam
+
+NAD
+
+Lungs: Clear
+
+Cor: RRR
+
+Ext: no edema/lesions
+
+
+
+Assessment and Plan
+
+1. CHF/Angina/HTN - Good control but BP could be a bit better, increase lisinopril to 40mg qd.  Cont. low Na diet.  Check BUN/Cr/lytes/BNP.
+
+2. DM - No changes, cont. low fat diet.  
+
+3. Squam cell skin ca  - Stable.  Cont f/u c Dr. Jeffries.
+
+4. BPH - Stable.
+
+
+
+                       Follow -up in 2 months.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+  
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Lung fields  : Clear
+
+      Abdomen, flanks: soft
+
+      Chest: clear
+
+      Extremities: Clear
+
+      Abdomen, flanks: clear
+
+ 
+ 
+
+
+
+
+
+    2093-09-15 - 2093-09-16 - 2093-09-21 - 2093-09-19 - 2093-09-20 - 2093-09-22  
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                  Patient Information
+
+      Name:       Patient Name
+                        DOB:
+
+                  Date    Last Visit     Current Problem:
+
+        Last Visit    Current Problem   Current Visit
+        2016-01-01
+       2017-12-01
+        2018-02-01
+        2019-03-01
+
+            History   History    History   History    History
+
+        2016-02-01    2016    2016-03-01    2016    2016-05-01 2016-06-01  
+                    2016-07-01    2016    2017-01-01    2017-03-01    2017-05-01  
+                    2017-06-01    2017    2017-08-01    2018-01-01    2018-03-01  
+                    2018-04-01    2018    2018-06-01    2018-08-01    2019-02-01  
+                    2019-03-01    2019    2019-06-01    2019-08-01    2019-11-01  
+                    2020-02-01    2020    2020-04-01    2020-06-01    2020-08-01  
+                    2020-10-01
+
+          2016-02-01   2016    2016    2017   2018   2019
+
+          2016-03-01     2017    2018    2019   2016
+
+          2016-05-01     2017    2018    2019    2016
+
+          2016-06-01    2017    2018    2019    2016
+
+          2016-07-01     2017    2018    2019    2016
+
+          2016-06-01    2017    2018    2019    2016
+          2016-06-01    2016
+
+          2016,   2016
+                2016
+
+              words.
+
+
+
+          2016
+
+          2016
+
+
+          216-
+          2016
+          20 words and 16
+           words.
+
+          16-names.16 words
+
+
+
+
+
+          16
+
+
+            words 
+
+          2016 words or words.
+169
+
+
+
+
+words,16 words,15
+1
+
+words, 16
+words 6 words and words1
+1 words1 words for words
+15 words,
+1.
+16 words
+words
+
+6 words, etc
+1 words words
+words,
+1 words 100 words
+words, 1 words and s words
+words words, 65 words. The words, words words and the word, and
+words words.
+words and words
+words
+words, 1, words,  words. 1 word names
+words and words 65 words. 
+
+
+
+words 5 words and the words and the words, words
+words, names.
+words words
+words and words or [15 and words, words, 10, words names, words, words and the words.  names.
+...11, words...
+words, and words.
+
+
+may be a 4 days are 4
+The or [… and name, 15, 125 or names, 1... (11. 
+and:
+
+1: patientized 1: 
+use names in order: names, a: “:
+
+[…: 1…... (
+
+d 0, and are:… 3...11, “[... 
+are:
+
+[1: the (le: (the, the following the... (d or “ (the and the, the (and 0, the and: 1-1 or a (and and (and (11- and 1 are the 111... and... … and [1 and (1 (... and... and,, and and the (1, and the (pat in, and the, and and or,,, the,  and, as, and,
+, as the, the (use, or, "can, are 1 and, and are, are a, (and, and are in  and...,  and the of the, [(1, you and the and... the:... 1 and:  (anize (pat: 1. an. and and 0 and and 3 [2 [0 inoc (can of the-and the... and or and,, " by " and,  or... and, [patine, 0 and and of the (1 or,,. (, Anise, and, an, an are and and- are are are a- are-take are, and (1, an or, ( an and ( an, and or (  and 1 and. An An. and and,  or. An or the, an, a, an,  or or, an and an an an -  an, or and An An An and, an, and and,, an, [ an, and, an, An and or  and and and, and: An,  and an... and... An, 3. an  - and: an ( or,:  - 1. or: :  and- ( [1 [: : [: " : : : An An and  - " or: an-an in ( -an:: An An an::  are and : are an an... an are [ are ( an and an-and an an of... and of the... and " an and,. [, ( and,  or and or,  an, [ An [ are or ( [ (, ( ( and: [ [ ( are, an [ are are an are are or,  ( An An An An An and an  an or and  an an ( an-  are or of, - [ of, [ of, an or or of and of, an or and and  and ( and, an - an of,, and of of of [ of of of,, ( and ( ( an an an,  an and ( and of  and of ( or and,  ",  ( An An and and (  an [-, of and of of of of of of of of and,  and, an an and,  and ( and,  and,  and (  and or  or  or [  or and an an- An C an, an  an, and,,  of the of  and an, and, and,,  - and an,, an, an or or of an of an or,  or, -, and and ( or,  an or ( C and are,  of  and of or of of  of an of of an of an of an of,, or and and  an  [ an  an...  an [ ,,  An An An  -  an, an  an an and of  and  ( (,  and (,  (  - and,  and ( - - - and  or - an an (  (  or (   an  in  or and (  or an and ( and  and [ or or of  of  - and  or [  (  [ and  (  ( :  [ [ :,  -  c: C An C (  or  or [:  and  and  " S P and  and of   C  (  ( -     or  (  [ - or  of  or  of , or of   and  An An or,, or (  and  as and  or  of of and of  of  of  of  of,  of a (  and an  as and  an  ( and , , ,, and, ( or  or  in  and, (, as  (  C - or - C of - of and or of as and ( as, - - [ and as ( ( an of and  of, an of an and  and an an an as an and (, and ( and  and or  (,, an of,  an, (, [, an  an c and - [. and an c,, and  an and of  (, (, or, C an ( C P An and an an (  and C,  and - and an c t or an and,,  and as., As (, ( ( and,,, ( an,, and,,,, ( An, An (. - An, ( An,, C,, C As (  As  C.  As X F As C C F X As C F As As As As ( ( (, ( P C C P, As C and,, As As. (  F ( [. [ C and  [ C C  C ( An P C F X As As F P As As P C  As As  P As - P An C C C X P As ( C ( A F C C As  As ( P - X X C F P P An As P As An As An T ( As F A F M A C As As As ( C A C B, C X, ( An As,  X ( As C As  F Cl As As A As C F, P C ( F ( ( M ( A C M F A P Cl C A ( P ( F C M M M C As A F M A A C C F ( B As F C A C F ( Cl Cl C As B P Cl C Cl S C C As C ( Cl M ( A F ( M As B P C C A C As C C As C C C B F M M A C W B A C V.

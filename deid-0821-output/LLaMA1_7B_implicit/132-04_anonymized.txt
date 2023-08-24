@@ -1,0 +1,241 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2078-03-17
+
+
+
+Patient Name: JORGENSON,VIVIANLEE [ 47190847(JMH) ] Date of Visit: 03/17/2078
+
+
+CC: Syncope, Afib
+
+
+HPI: 
+71 year old lady with a history of A fib was seen in clinic today for complaints of DOE and increased wt. She was found to be in mild to moderate CHF and an increase in her torsemide dose was recommended. On her way to a blood draw, while in the elevator, she had syncope and hit her head. The fall was witnessed by her daughter. There was no prodrome, no nausea, no incontinence with the fall. The pt does not have any seizure or hypoglycemia history. She notes an 8 lb wt gain over 2-3 weeks and denies dietary indiscretions. She takes her medications faithfully which include an escalating dose of torsemide in over the last several months. She's been hospitalized twice for CHF - once in 2075 and again in 11/77.
+
+
+The pt was brought to the ED. In the ED the patient had a head CT was done which did not reveal any acute pathology.
+
+
+PMH:Cardiomyopathy : Nonischemic,   6/19/74 cath no significant coronary disease, 11/26/77 EF 20% with and global hypokinesis 
+Coronary artery disease : 6/19/74 cath: RCA 30%
+Thyroid cancer : Papillary nodule Ca, 2071, a/p thyroidectomy
+Diabetes:  Had been on glyburide, currently diet controlled, 11/25 A1c 6.3
+Hypothyroidism: 11/25:  1.4 normal
+Elevated cholesterol:  11/26: LDL of 36 and an HDL of 26
+Hypertension 
+Atrial fibrillation on Coumadin
+Non sustained ventricular tachycardia 
+
+
+Medications
+Ambien (ZOLPIDEM TARTRATE) 5 MG (5MG TABLET take 1) PO QHS PRN 
+Asa (ACETYLSALICYLIC ACID) 81 MG (81MG TABLET take 1) PO QD 
+Celexa (CITALOPRAM) 20MG TABLET take 1 Tablet(s) PO QD 
+Coreg (CARVEDILOL) 12.5 MG (12.5MG TABLET take 1) PO BID 
+Coumadin (WARFARIN SODIUM) 1 MG (2.5MG TABLET take 1) PO QPM 
+Digoxin 0.0612 MG (125MCG TABLET take 1) PO QD 
+Lipitor (ATORVASTATIN) 20 MG (20MG TABLET take 1) PO QD 
+Lisinopril 40 MG PO QD 
+Potassium CHLORIDE SLOW REL. (KCL SLOW RELEASE) 20 MEQ (20MEQ TAB PRT SR take 1) PO BID 
+Synthroid (LEVOTHYROXINE SODIUM) 150MCG TABLET PO variable 
+Torsemide 200 MG (20MG TABLET take 1) PO QD 
+
+
+
+
+
+Allergies
+NKA 
+  
+FH:  Mom had MI, age 50
+
+
+SH: 
+  Lives with husband (Blacksmith, recently had CABG) and has 4 grown children.
+
+Health-Related Behaviors
+Alcohol-social only
+Tobacco-prior use, 60 ppy, quit 2067Drug use-no illicit drugs 
+
+
+PE: 
+T 98, BP 100/65, HR 131, RR 18, 96%RA
+GEN: NAD
+HEENT: PERRL, EOMI, mm moist
+CV: irreg irreg, no murmurs appreciated. JVP 15 cm
+LUNG: Rales in bases bilaterally
+ABD: soft, non-tender, non-distended
+EXT: no c/c/e
+Neuro: A&amp;Ox3, moves all extremiteis.
+
+
+CXR: enlarged heart. Minimal pulmonary infiltrate
+EKG: A fib, no ischemic changes, poor RWP. Unchanged from previous.
+
+
+Labs
+ResultsDate/Time         NA             K              CL             CO2            03/17/2078 [1]    139            4.6            103            28             03/17/2078        139            4.2            102            26             Date/Time         BUN            CRE            EGFR           GLU            03/17/2078 [2]    50 (*)         1.73 (*)       29 [3]         110            03/17/2078        50 (*)         1.66 (*#)      30 [4]         106            Date/Time         ANION          03/17/2078 [5]    8              03/17/2078        11             Date/Time         CA             MG             TBILI          TP             03/17/2078 [6]    9.7                           3.0 (*)        6.9            03/17/2078        9.7            2.2            2.9 (*)        7.0            Date/Time         ALB            GLOB           LIPS           03/17/2078 [7]    4.0            2.9            62 (*)[8]      03/17/2078        4.0            3.0                           Date/Time         ALT/SGPT       AST/SGOT       ALKP           TBILI          03/17/2078 [9]    8              24             106            3.0 (*)        03/17/2078        8 (#)          22             106            2.9 (*)        Date/Time         CK             CK-MB          TROP-I         03/17/2078 [10]   56             2.1            SEE DETAIL[11] Date/Time         TSH            03/17/2078        4.091          Date/Time         WBC            RBC            HGB            HCT            03/17/2078 [12]   5.68 (#)       4.67           15.2           45.8           Date/Time         MCV            MCH            MCHC           PLT            03/17/2078 [13]   98.2 (*#)      32.6 (*#)      33.1           136 (*)        Date/Time         RDW            03/17/2078 [14]   14.6 (*)       Date/Time         %POLY-A        %LYMPH-A       %MONO-A        %EOS-A         03/17/2078 [15]   76.4 (*)       15.4 (*)       6.6            1.3            Date/Time         %BASO-A        03/17/2078 [16]   0.3            Date/Time         ANEUT-A        ALYMP-A        AMONO-A        AEOS-A         03/17/2078 [17]   4.34           .88            0.37           0.07           Date/Time         ABASO-A        03/17/2078 [18]   0.02           Date/Time         HYPO           MACRO          03/17/2078 [19]   +              +              Date/Time         PT             PT-INR         PTT            03/17/2078 [20]   24.1 (*)       2.1 (*)        39.2 (*)                             A/P: 71 year old lady with syncope of unclear eitiology with CHF/Afib. Ddx includes cardiac arrhythmia, hypovolemia, vaso-vagal. Neurologic causes less likely from history.
+
+#CV - i. Low suspicion ACS- Rule out with serial CE
+- Continue asa, statin#CV - p. Decompensated CHF- Diuresis with IV lasix. Consider lasix drip if inadequate response.
+- Daily wt. Strict I/O.- Cont. digoxin- Will start amiodarone 400 bid- Discuss possible role of AICD with patient and family.#CV - r. - Telemetry#AFR - acute on chronic - likely from poor forward flow- reduce lisinopril- urine electrolytes, eos.
+#Psych
+- continue celexa
+#Endocrine
+- continue home thyroid regimen
+#FEN
+- low sodium, 2L fluid restricted diet#CODE: Full
+
+
+
+
+
+
+
+
+____________________________________
+Xavier B. Nix, M.D., Ph.D.
+
+
+
+
+
+Ps
+
+
+
+
+#Sod 0
+
+
+
+
+
+
+
+
+F 200,3
+
+
+
+
+
+
+Fever
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2720
+
+
+
+
+
+
+
+
+201
+
+
+
+
+1
+1
+
+
+
+
+
+
+
+
+
+
+1
+M
+
+Jane, 
+
+
+40,3
+
+ 1
+450. 0 0, 1 1
+
+
+3:1.1 20. 
+
+
+
+
+
+
+1
+
+
+
+1
+V
+0
+
+15.
+
+
+1
+V, and the patient. 910 201. 200
+
+15, 
+
+
+
+
+
+,JAN 
+
+JO
+
+A
+V 
+25
+ V
+200
+
+1894917, 209
+
+16
+
+A: 199
+
+ 403.
+A 20, 192
+date and a week and 7, 3,112010801011 and 5.
+
+[ 3 and be, as the... 21 and the: 0A 28:
+The 201158144,A. The:A,A.FRO FRO IN FRE M
+A
+
+ALE MIG
+time.
+0 of last,110100424701201.
+A -a, [41
+[280 Anife
+A
+year: 0. 19 and for a: 20 and a of 1,10
+2-1-to the
+a in 10...A.......per and the...perous Anine, the 0 Anci, a, to a (1088's's for the 8 Anist with her [5392 for 34 a to the for 8 a. for...with, 10 of 1 to a. to to make and 2 to a and the1,599-986089/last.9/1.20 by a8,28. Anific BAN MAN TO RE IN AL CH last over-f in a in a and a "0 An Anific a 2000000000 An An188878 An18 or a ( 71 Anistic Anistic 3 Anient anist- 7 in  for this 1 for a with the an for the or and a by the08 An to be  to an to be to to  an for a. Anni. anification. Anific 0000. 1 in an for it for c a cine an for the for the a of the. 9 to a (an. 1 and. 4. a and and a in a or, 8 a or, the... and and an. an and.7 and. 8 an for the and [a-in (t for a and a for her:. :  in:.. a. in a for a for (an [1. 0 to the and 0.1-1 An Anine in the. -  a: 2 and a-to An Anist 1-211111 and in  in- 1 in the and by  by a  an ( [ c by in coc-p ( an h c c c mine for the for a in the for [ and of a to and to c an-2 [- [ to to- to for for- and. An An An An and-0 to an-an. an to c to the a to  a cm k-1 a 2 and 0 and-1-6 and [2 a- and.-2-t 1- C C. A and. A.  A  and  an and ( or.-ch-1 or w and. a-1 of. a of of. by..010/1  in an1 and a. a 1.. 1. ( and - -0-c./0 ". -1-2 and-0 0,  (.  and or for with for and in a.. c " c-c- A- and, 1-t (  (-2 c-1. or c and-1 or-1-C-c, a to-C a and of her. by (  ( to c to.. to cine. a and or.0 or or a.  and-... - C-0 a  C a-1 T, c. C and,  (.. of c of of of of the c by of and a and and and a C c. A of and of a of of  of and or. and. c-0. C C-2 and and and c or or C C C- 00. and-c-  c by cine-. (-10- C011 C and and c: C and and and ( A and [.. A C C C C C.1 C C and c a-c C C C C F F H C C C C C-C I and C C C H 1  C C H0 c-C and H- C- and A T A R-C C C M C T H C-  I-2 C-C- C0-12 cm- 1-12 C C C0 C. and. C and. A C C C C- C C of (-2 C (1 C C C112 [1 (2-11-1 C22 c to10-C.2 0 C 3 C  2-  c0 C  2 and a1- C-1 C0 c C0 C C0- C C. and or  and and  and01. C- and-2-1.4-00 C C.1 or C and1 ( or and or and- C. ( and. M.- MC M. 2- M M. M. of C  and- and M -2 c-1.- C-2-2- M2 m  and m c and 0- and- C,-1 and c-c,1 and. and c m (- M M C c c. M C M C C C- and C (2 c M C and and m - of m. C C C C c-1 -1- C21 1 C2 m M M M- M C M C C C C c ( c ( C C. 1 C C  M C,- C (  of of and of of. of M c cm, M- and (1  C C C1 C1 C- M  M M M M and m m c. MC MC C c C ( F C- C c of A C of of of ( of,- M M and  and. to  M M M  M  (1 ( 1. M M M (. M A. C, ( C.-1. M C1 C M C A C C C C C C C.  C A A C CA and A- C  A  M A As  c00 M A1 C- C- A M c A M M M- M of ( M M1 M C C M As M M M C M  M- M C and M C A-2 M

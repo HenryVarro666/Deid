@@ -1,0 +1,380 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2154-11-14
+
+
+Department of Orthopedic Surgery
+42 Wood St                                        OLIVE, XAVIER
+Sydney, WV 65157                                      26690002
+--------------                                           11/14/54
+
+
+Michael Ulrey, M.D.
+45 Wood St
+Sydney, WV  65157
+
+RE:  Xavier Olive
+
+Dear Michael,
+
+Mr. Xavier Olive presents for evaluation, thanks for your
+referral.  As you recall he is a 71-year-old gentleman who is
+status post angioplasty on the left for high-grade stenotic
+lesions of the distal superficial femoral artery and the
+popliteal artery on the left.  The patient presents now for
+further evaluation of his "claudication symptoms".
+
+The patient states he has bilateral lower extremity symptoms,
+there are about equivalent in nature.  He has very minimal low
+back pain.  He states it seems to be getting worse and seems to
+be associated with some abnormal gait.  He states on a bad day
+its about a 9/10 and even on a good day sometimes it can be as
+high as 8-9/10.  The episodes are almost daily and are brought on
+by things like walking.  He can walk less than one block at which
+point he has lateral calf burning and at times notes some slow
+shuffling and occasionally falling.  When he is having severe
+symptoms he notes his legs to be weak.  He denies any bowel or
+bladder abnormalities of late, but has a historic of a chronic
+UTI secondary to his benign prostatic hypertrophy.  He has very
+little back pain associated with his symptomatology.  He has had
+no physical therapy to date and no spinal injections.  He
+describes his general health as poor, but when specially asked he
+states it is because he his 71 and has a history of hypertension.
+ Years ago he stated he was in excellent health.  His weight is
+steady at 200 with no significant weight gain or loss.  He
+doesn't smoke and drinks socially.  Quit smoking 33 years ago. 
+He does not think he will ever be pain free.
+
+Review of Systems:  Reveals that he is a diet controlled diabetic
+and he has been for the past couple of years.  He has difficulty
+with sleep.  He has a balance problem and also has benign
+prostatic hypertrophy leading to chronic urinary tract infection,
+for this he takes Cardura.  He has a history of high blood
+pressure.  Denies any other cardiovascular abnormality.  No
+respiratory malfunction.  He has had surgery for something "in
+his colon" he has also had a bypass surgery.  He is on Plavix and
+aspirin.
+
+Physical Examination:  Shows that he is solid built, healthy
+appearing male.  He is able to toe and heel walk but on the left
+side his T band seems to be slightly weak.  Single toe raises
+show that the right leg is stronger than the left leg.  He has no
+tenderness to his PSIS and he has no Waddell signs.  He has
+negative Trendelenburg bilaterally.  Forward flexion allows him
+to get to the patella.  Extension is pain free and passive
+hyperextension does not reproduce the symptoms.
+
+Motor testing is normal in his lower extremities.  Sensory is
+symmetric.  He has negative straight leg raises.  He has no
+palpable pulses.  He is hairless in his lower extremities.  He
+had no clonus or Babinski and a negative Hoffman's suggesting
+that he is not myelopathic despite his "balance abnormality".
+
+He is on multiple meds for his hypertension, for his diabetes,
+and for his gastroesophageal reflux.
+
+Personal review of his plain films and a CAT scan indicating
+with, show decent residual lumbar lordosis with a stent noted in
+his iliac artery on the right.  CT scan shows lumbosacral facet
+hypertrophy.
+
+At this point, impression is of spinal stenosis and degenerative
+disk disease.  I have asked him to obtain an MRI and return to
+see me after that.
+
+Thanks for the referral.
+
+
+
+
+
+______________________________
+Stephen Nichols, M.D.
+
+
+Dictated By: Stephen Nichols
+
+
+eScription document:6-0190274 EFFocus
+
+
+
+DD: 11/14/54
+DT: 11/14/54
+DV: 11/14/54
+
+
+
+Record date: 2154-11-14
+
+
+Department of Orthopedic Surgery
+42 Wood St                                          MICHAEL ULRey, MD.
+Sydney, WV 65157                                     52190002
+--------------                                         11/14/54
+
+
+RE:  Xavier Olive
+
+Dear Michael,
+
+Mr. Xavier Olive presents for evaluation, thanks for your
+referral.  As you recall he is a 71-year-old gentleman who is
+status post angioplasty on the left for high-grade stenotic
+lesions of the distal superficial femoral artery and the
+popliteal artery on the left.  The patient presents now for
+further evaluation of his "claudication symptoms".
+
+The patient states he has bilateral lower extremity symptoms,
+there are about equivalent in nature.  He has very minimal low
+back pain.  He states it seems to be getting worse and seems to
+be associated with some abnormal gait.  He states on a bad day
+its about a 9/10 and even on a good day sometimes it can be as
+high as 8-9/10.  The episodes are almost daily and are brought on
+by things like walking.  He can walk less than one block at which
+point he has lateral calf burning and at times notes some slow
+shuffling and occasionally falling. When he is having severe
+symptoms he notes his legs to be weak.  He denies any bowel or
+bladder abnormalities of late, but has a historic of a chronic
+UTI secondary to his benign prostatic hypertrophy.  He has very
+little back pain associated with his symptomatology.  He has had
+no physical therapy to date and no spinal injections.  He
+describes his general health as poor, but when specially asked he
+states it is because he his 71 and has a history of hypertension.
+ Years ago he stated he was in excellent health.  His weight is
+steady at 200 with no significant weight gain or loss.  He
+doesn't smoke and drinks socially. Quit smoking 33 years ago. 
+
+Review of Systems:  Reveals that he is a diet controlled diabetic
+and he has been for the past couple of years. He has difficulty
+with sleep.  He has a balance problem and also has benign
+prostatic hypertrophy leading to chronic urinary tract infection,
+for this he takes Cardura.  He has a history of high blood
+pressure.   No respiratory malfunction.  He has had surgery for
+something "in his colon" he has also had a bypass surgery.  He is
+on Plavix and aspirin.
+
+Physical Examination:  Shows that he is solid built, healthy
+appearing male.  He is able to toe and heel walk but on the left
+side his T band seems to be slightly weak.  Single toe raises
+show that the right leg is stronger than the left leg.  He has
+no tenderness to his PSIS and he has no Waddell signs.  He has
+negative Trendelenburg bilaterally.  Forward flexion allows him
+to get to the patella.  Extension is pain free and passive
+hyperextension does not reproduce the symptoms.  He has normal
+mobility in his hips, knees, patella,
+
+Motor testing is normal in his lower extremities.  Sensory is
+symmetric.  He has negative straight leg raises.  He has no
+pulses.  He is hairless in his lower extremities.  He had no
+clonus or Babinski and a negative Hoffman's suggesting that he is
+myelopathic despite his "balance abnormality" despite "imbalance abnormality".
+
+
+Personal review of his plain films and CAT scan indicating with, show that he is "he is "myelopathic despite 
+
+He is not "balance abnormality despite "imbalance abnormality and despite "he is "myelopathic "balance abnormality.
+
+
+
+
+
+
+"imbalanced.
+
+
+
+
+
+
+"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The
+
+
+"
+patient
+
+
+
+
+
+
+
+
+
+
+
+
+The patient
+
+or patient information
+
+
+
+
+
+
+The doctor's, The Doctor names
+The letter, please
+
+
+
+
+
+
+patients, which patient names or the patient
+
+
+
+
+
+
+The names
+[name
+
+
+The
+
+names, names and dates. Doctors of the word: 
+1, patient names
+Patient names, and 
+The names
+are... or
+or of a single or the patient date, or the
+and the patient identification... (date and the names or, and the letter names and [
+
+
+name, and name. 2.
+
+The [1.
+
+[the patient. This or indicate the [are and name of...or, and the 1.
+the 90, a patient:
+[d, names, but:, the patient, name, as 20:
+andize and, you, the following words and a:, the words: the...
+... (110 orize-specifically are, 10... and are: of the: are and, 1 or are [ 1 and are: 
+(the names: or and, and the, and " and, 2, the...... [
+(and, but orise, the... and:
+(0: [1: and the……...
+have the (
+(1... of the name names in [1 and the and and, the or, and, (
+ and, or 0, and (
+[, or, and, the and [[[[[,
+, the,
+
+1, and (...,, the, an, 3 or (11, and, [ and, are a...
+and, the, [[and [and the, you of 1... and,...:, (... and... 1: the [the, the:... and-d: "1: “: an and:1, a 1 are are, a are are (are-1 of an  or and-the " or, [inine and or (le, the, [names,, 1 of the and of the [, and (,, and, an, and, and an, and are in " are a are a or an would "c ( and and, the, the and-the, (ann, an, an, and (the, (an and and, and, and, an [2 (1 0, [2 [in the or or, a, and an, an and- or or, an or and and or " in the or or and,, and, [, an, (the,,  the, a, an, an, an,,, the and or or,,, ( and of your, an of a-1 "1 of:-11-1-1- 00: and an and (: ( and and “in in [: and " or (: an- or- and- -2-1 ( an  "- an are- and- or in a-1, or-1 are " and and " ( and of and an of [. " ( and,, " or by or or [. [ in or-C An An C- or- [ and [ or and- or- in ( or an,- an in the- or ( are are [ an or, are, or,,,,, An An and,,  or, in, an, or of or are "- an  of of the or, and or or an-an or, and and an,,- or- " of the of " of " of the- an, and, are or in (, in an- or ( an an or- in of the or in and or or or ( or, an in, [ or- an an, and and of  of, of (- of an, ( and. or-  and ( and " in  and -0  in the for and ( in or of or or, or in and, and or and-  and in and, an-1-an of the or of or ( for, in- and- and or or or, or,,,, of or of,, of a or and and and of our-1 and of " ( or and,, and, and-the of an of an of,- of the of the of the of the and, an, [C, an- and, ( for, and, an and for an- and-0-3-1- for the- and for and (, for- ( of the- or- and- "- or in,- an or- or or " or - or,- ( [ or or or and - or- or " or- or in [- - and-- of an- or of the of of a of of-2 and c-0 and c or ( and (.- and, (- and of our and or- our and and-1 in in and and in (- or in- and "-c and- " and of our of  and “ of  or in- or and, and,- and, ( and of, of the of or or of of of, and in of, or and, and and, and, and and, ( in, and, of or of of and of and of of of of and,- and-1  (- c- and and and and  and-  and,,  and or and and, to and and and,, and in- c as and ", " and- of or ( of  of of or of the (- and " and and and and or- and or or or- and of  of and or- and- an and and and that, and or, and and that and, that and, and, ( that, and or, that that (- and and- and, and and, and and, and,, to, a for,,, and, and. (, or, ( and an, and or,, a- and and and in and in or, and in in and,,, and and,. and ( (. and, and [.,,,,, of ( in, on, a or on and and and and. ( for,. and, and and and of the for and, or- a on- and an and- in and "-g, and,, ", as,, and,, on,,,, he and (,- on and- and,, and, or (, and to a in ( and to or and a o and- and and- (- and o- and- and " and- ( and for an an ( and- and an o, and a in and and,, and a,, a, and " and and and- ", a on a and " ( and, and ", as and and or and ( and or, and on, and and and on (, ( and or and, and as, and and or,. and ", [ ( and, and ( and and a " in and in and and " and and. and and and and " on, and,, and, and in o,. in, and and, on and, ( and and and and and and,,, o ( and and ( and ",, in,- or ( and and. and- and and and,,, and and, on- a (

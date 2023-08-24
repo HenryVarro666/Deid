@@ -1,0 +1,303 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2098-12-10
+
+
+
+	059-57-26
+
+	Emery, Donn
+
+
+
+December 10, 2098  Endocrine/Diabetes
+
+
+
+Present Illness:  
+
+Asked to see this 89 year old patient of Drs. Pina and Keefe, admitted with an acute exacerbation of congestive heart failure in the context of severe aortic stenosis and less attention to diet at the time of his wife's death last week. He is approaching probable AVR and ? CABG. 
+
+
+
+He has had diabetes since age 50. He was treated with diet initially, then chlorpropamide (100 mg bid at the time of admission) to which metformin (1000 mg bid at the time of admission) was added. His recent A1c was 6.5 %. He denies hypoglycemia and does not have hyponatremia. His creatinine is 1.5. He has never used insulin until this admission, when his oral agents were stopped and Lantus begun.
+
+Retinopathy:	Reports that he does have retinopathy, but lost vision OD to macular degeneration. He is followed by Dr. Valentine and Dr. Wilkes, and reports that he has had laser treatment by Dr. Valentine.
+
+Nephropathy:	BUN/Cr 42/1.5 
+
+Neuropathy:	Decreased sensation in feet and hands. Notes that he has had flat feet all of his life and does not recall any acute painful episode in L foot.
+
+Cardiac:	above
+
+Vascular:	No claudication
+
+
+
+Pre-op evaluation has included colonoscopy and EGD because of guaiac positive stool. An incidental bladder mass is suspected on the basis of pelvic CT and ? cystoscopy is also planned.
+
+
+
+Past Medical History:  
+
+Surgery:	Lymphoma - treated with surgery and radiation therapy in 2077 or so
+
+	TURP
+
+	Tonsillectomy
+
+Medical:	Hypertension
+
+	Anemia
+
+	Asbestosis
+
+	Pulmonary nodule
+
+	Pulmonary fibrosis
+
+	GERD
+
+	Nephrolithiasis
+
+	Depression
+
+Allergies:	?? Sulfa - he thinks that he has had sulfa since the time he was labeled with an allergy to it but cannot recall details.	
+
+
+
+Family History:  
+
+MGF had diabetes.
+
+
+
+Social History: 
+
+His wife died last week of Alzheimer's Disease, several months following a fall.
+
+He is a Financial Senior Manager. After the successful treatment of his lymphoma at about age 68, he went back to school to study sociology.
+
+
+
+Review of Systems: above
+
+Review of systems is otherwise negative.
+
+
+
+Physical Exam:	
+
+Delightful elderly man in no distress.
+
+BP:   148/59		P:   64, regular
+
+Wt:   165 by history, down from maximum of 235		Ht: 5' 10     by his estimate, down from 6' 1.5   
+
+HEENT:	Anicteric. 
+
+Fundi:	Not examined
+
+Carotids:	2+,= with softly transmitted murmur
+
+Chest:	cleat\retinopathy
+
+Heart:	Normal S1; single S2..  No gallops.  3/6 systolic ejection murmur
+
+Abdomen:	No hepatosplenomegaly. No masses. No tenderness. No palpable AAA. 
+
+Extremities:	1+ ankle edema. Pop 1-2+ R, 1+ L. No pedal pulses.  R foot has small plantar arch, but L has no arch and bony prominence in the location of plantar arch; there is also some deformity of the  L ankle.            
+
+Neurological:	AJ absent. 
+
+
+
+Impressions and Plan:	
+
+  	89 year old man with aortic stenosis, coronary artery disease, congestive heart failure and longstanding type 2 diabetes.
+
+  	His average control has apparently been good on the combination of chlorpropamide and metformin, although we cannot be sure of that in view of his anemia and the fact that he was not testing his glucose at home.
+
+  	Metformin is relatively contraindicated since his GRF is certainly diminished with creatinine 1.5 at age 89. 
+
+  	Lantus does not appear to be the right insulin for him. Would D/C it in favor of NPH 15 U in AM (watch carefully today since there is persistent Lantus effect). Check QID BS but cover with scale only before  breakfast and supper. I have not addressed the issue of long term insulin use with him, although it would be my first choice. Even at his age, I suspect that he would have no difficulty mastering it given his relatively youthful mind. Other alternatives would be sulfonylureas (if forced to use one, would choose glimepiride) and glitinides, for example repaglinide.
+
+
+
+Thanks. Will follow. 
+
+
+
+				Daniel M. Arce, M.D., Ph.D.
+
+
+
+
+
+      
+
+
+
+*/
+
+#define _CRT_SEC_C // For S_IRWXC(32)
+
+int main(int argc, char* argv[])
+{
+
+	const char* str = "Asked to see this 89 year old patient of Drs. Pina and Keefe, admitted with an acute exacerbation of congestive heart failure in the context of severe aortic stenosis and less attention to diet at the time of his wife's death last week. He is approaching probable AVR and? CABG. 
+	He has had diabetes since age 50. He was treated with diet initially, then chlorpropamide (100 mg bid at the time of admission) to which metformin (1000 mg bid at the time of admission) was added. His recent A1c was 6.5 %. He denies hypoglycemia and does not have hyponatremia. His creatinine is 1.5. He has never used insulin until this admission, when his oral agents were stopped and Lantus begun.
+	Retinopathy:	Reports that he does have retinopathy, but lost vision OD to macular degeneration. He is followed by Dr. Valentine and Dr. Wilkes, and reports that he has had laser treatment by Dr. Valentine.
+	Nephropathy:	BUN/Cr 42/1.5
+	Neuropathy:	Decreased sensation in feet and hands. Notes that he has had flat feet all of his life and does not recall any acute painful episode in L foot.
+	Cardiac:	above
+	Vascular:	No claudication
+	
+	Past Medical History:  
+	Surgery:	Lymphoma - treated with surgery and radiation therapy in 2077 or so
+	Medical:	Hypertension
+		Asbestosis
+		Pulmonary nodule
+		Pulmonary fibrosis
+		GERD
+		Nephrolithiasis
+		Depression
+		Allergies:	?? Sulfa - he thinks that he has had sulfa since the time he was labeled with an allergy to it but cannot recall details.
+	
+	Family History:  
+	MGF had diabetes.
+	
+	Review of Systems: above
+	Review of systems is otherwise negative.
+	
+	Physical Exam:	
+	Delightful elderly man in no distress.
+	BP:   148/59		P:   64, regular
+	Wt:   165 by history, down from maximum of 235		Ht: 5' 10     by his estimate, down from 6' 1.5   
+	HEENT:	Anicteric. 
+	Fundi:	Not examined 
+	Carotids:	2+,= with softly transmitted murmur
+	Chest:	cleat\retinopathy
+	Heart:	Normal S1; single S2..  No gallops.  3/6 systolic ejection murmur	
+	Abdomen:	No hepatosplenomegaly. No masses. No tenderness. No palpable AAA. 
+	Extremities:	1+ ankle edema. Pop 1-2+ R, 1+ L. No pedal pulses.  R foot has small plantar arch, but L has some edema, some edema and some deformity of the L ankle.   no edema. 
+	Abdomen:	No hepatosplenomegaly. No masses. No tenderness. No palpable AAA.
+
+
+  	89 year old man with aortic stenosis, coronaire sclerosis, congestive heart failure and longstanding type 2 diabetes
+
+  	diabetic nephropathy: 
+
+
+	 
+  	 
+  	 
+	 
+  
+  	
+	  
+   
+  
+	  	
+	
+
+ 
+ 
+	 
+
+  	
+
+	   
+	
+	
+
+		
+
+
+		
+  
+	
+	
+
+		
+
+		20	
+
+	 		 	 
+
+	
+
+
+
+
+
+1
+2 		 
+	 
+
+
+diab-2 
+	20
+
+
+
+  20-202-5 
+	
+
+
+
+
+1-
+
+
+
+
+
+
+Diab 
+di-di	1-di
+2
+2-3-2
+
+00-2	2-di and - 3, diab 1-0-di	
+
+1-2 di 1-2
+April 2	2 Di
+3.
+di	2	 1 2
+
+5.
+
+	201.
+
+2002
+
+20
+
+3	2
+2 5
+2: 	20
+ 6
+	2
+
+
+
+1.
+2
+3.
+M, 200
+
+of 	110
+
+A: 4	3
+
+
+The 3:020
+of of 12, who for 2 weeks.
+20,0. 30 20.
+of the month. 25. 9.
+1 and  and your [and:
+and: date:2:10: year, a month, 0. M and: 3, : 	2
+ of the →12111/0	 	3: 1, : year, 0 and:  [2, 2:	A, 8.1: 2/1-de.1: take,, 322 96. 18. a and the, 70 of " of a (1 of a medical, 20 of [2 of a (2,2, the [1,, [a, of a 08, December. A in: 0.2, the...  in : 90, 0 for a year of year/1/1 and 3,  for the [inian and, a to a of a in a of divert. 8 of a of a of a : (  and:  of 10, 30/0/9/0 and a8 An and a and a ( 2 a and in a a, →, : 0: 0 and,1 (8-2 An: An. An,0.0 An. An of a a, a, 0, 0 - a, a. A and. An a (old for (00 year, old, the 0  and [1 and. in the-1 and of a of a of a of the.  of a of 0. Anne for a, 1 and the ( an. An An An-years-gine ( year, 1 and,9, 8.  and (-a, -1. a,. 8,8 (18, an of a of  and. -a (0 of a and, last [ [ of [ of the of a of a-6 of  of c of the of the of ( of the. of c of a of [ of a of  of a, of a of a: ( a of the ( of a of the. of the of  of a of the of the: [ of a of,: of a of of a of a of the of of of of a of the of- and of  of a.: -  [:,. of [ of a of the,- of of of the of: of: of: of of the of  " of of: of: of:- of a of a of of of of a of a of a of- an- a in of  and of of the of an of of- [ of  of [ - of a of: a of- a of the of of of - - of a of of- of of and of of of a of of of of of of of- of of of of of of of of of of. of of of of " of of and of the of (- " of " and of a,, of of of of and of of of of of a of of of of of of of of of/ of of of of of of of of last of of of of of a of last of. of of of of of of of of of of of of of of of of of of of- of of of- of of of and of of of of of of of- of of c of of of- of a of of "-  of of of of of, of of of of - of of ( of of of of- c of of of of of of of of of- a and,-c, a and of of and, and of of and and,- year, week a (.- he in of a of of of g of of of of of of of of of of of of of of - of of. of of and of:, of and of of a of of of of of of of of of of of of of of and of c " c-  of a of g of. L of of of of of of of-: of of (: of of of a of of of of: of : of and of of: of of. of C of of of- of of of  of: of and of of of of of of of of of of of of of of of of C of of of of of of of of " of of of in and of of of of and of of of of of of of of of of of of of of B of of of of of a of of of of of of c: of of, of of of of of of of of of: of of of of of of of of a of of of of of of C C of of B C of. ( C of of of and of of of of of of of of c of [ C of a of of of of. of of of of of of of of of and of of of - of of of of of of of of of of of a - a or and...- a and of of of of of di of of  of of of of of. of of of of,. of of of of of of. of of of of of of of of of of of of of of of of a of " of of of of of ( of of of of of of of of and of of of of of  of of. and of - of ( of. of of, of ( and, and of of, of and  and V, V,  V. [ of of of.. of of of of of of of [ of of [ of of of, of of of of V of of V of V of of of V,  of of of and of. of of of of V of of V of of. of V of V. of ( of of of [ of or of d of. of of of of of V ( of and of V of  V of of  of of, of of to of of  of and and and   of and. and  and /. V /,. 	- (-  [	 and. (. (1 / / - or of of of and ( of of of and   V and of and and ( (.  V.  a: and  V ( w and and. V V.  w. of c and  and of ( of of V of of of  and to of of and of of of of of of of of, and. V. V.. and V and and V of V V. c V V V. C of V C. V of V C " of V V and  V, of and of of. of of of of V of of V and. and and

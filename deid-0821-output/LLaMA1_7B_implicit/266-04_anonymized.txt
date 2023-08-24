@@ -1,0 +1,416 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2069-01-13
+
+
+
+
+
+
+
+
+
+
+CHIEF COMPLAINT:  F/U  BH
+
+
+
+HISTORY OF PRESENT ILLNESS: feeling well except slight cold; getting daily exercise and still not smoking (2 years)
+
+
+
+f/u type 2 DM and CAD
+
+we discussed the elevation in last HbA1c and need to improve control; possible need for insulin future
+
+not yet measuriong home glucose: given instructions a prescriptions today to do this
+
+
+
+No cp/SOB/DOE/Orthop
+
+we reviewed meds and above list is correct; adherent; no adverse effects
+
+doing dailt foot exams
+
+
+
+
+
+
+
+
+
+PAST MEDICAL HISTORY: Entered By:frye  On:03/13/2066 
+
+Endocrine disorders:  type II, non-insulin dependent diabetes mellitus.
+
+
+
+
+
+
+
+
+
+
+
+REVIEW OF SYSTEMS: Const: no fever, 
+
+Const: no weight change, 
+
+CV: no chest pain, 
+
+CV: no palpitations, 
+
+Resp: no shortness of breath, 
+
+Resp: no cough, 
+
+Resp: no wheezing, 
+
+GI: no vomiting, 
+
+GI: no  constipation, 
+
+GI: no diarrhea, 
+
+GU: no frequent urination, 
+
+Neuro: no headaches and 
+
+Skin: no rash 
+
+
+
+
+
+VITAL SIGNS: 
+
+Date/Time: 01/13/2069  10:03 AM  - rosenberg
+Respiration: 18 breaths/min 
+
+Pulse 1: 78 bpm 
+
+Blood Pressure 1: 110 / 70 mmHg 
+
+Weight: 196.00 lbs.
+
+
+
+
+
+
+
+EXAMINATION: 
+
+
+
+[Constitution]  - well nourished and developed.  
+
+[Eyes]  - conjunctivae clear, pupils equal, no discharge
+
+[Neck] - supple no lymphadenopathy or thyromegaly. 
+
+[CV] - regular rate no murmurs, rubs or gallops, no heave; carotid pulses normal, no extremities edema.
+
+[Respiratory] - clear, breath sounds bilaterally, no accessory muscle use.  
+
+[GI] - abdomen soft, no hepatosplenomegaly, no abnormal masses or hernias.  
+
+[Skin]- no significant rashes or other lesions.  
+
+[Musc/Skel] - normal tone, no edema; feet without lesions; decreased VS to ankles bilat
+
+[Neuro] - 5/5 gross motor strength, grossly normal coordination and gait
+
+[Psych] - alert and oriented for age, normal mood and affect
+
+
+
+
+
+
+
+IMPRESSION: excellent regimen for DM and CAD but increased HBA1c a concern and we discussed diet/exercise for 15 minutes
+
+will check HbA1c again today
+
+
+
+
+
+ALLERGIES: 
+
+No Known Drug Allergies 04/17/2067 rosenberg
+
+
+
+
+MEDICATIONS: 
+
+lancets for gluc monitoring   BID for 3 mo : 01/13/2069 - 03/30/2074 ACT : rosenberg
+   Script:  Amt: QS  Refill: 3 Date: 01/13/2069 : rosenberg
+
+
+one-touch basic glucose test strips BID for 3 mo : 01/13/2069 - 03/30/2074 ACT : rosenberg
+   Script:  Amt: QS  Refill: 3 Date: 01/13/2069 : rosenberg
+
+
+GLUCOPHAGE 850MG One PO bid : 06/17/2068 - 09/22/2069 ACT : rosenberg
+   Script:  Amt: 60  Refill: 1 Date: 06/10/2069 : rosenberg
+
+
+ZESTRIL 10MG PO qd : 03/25/2068 - 03/30/2074 ACT : rosenberg
+   Script:  Amt: 30  Refill: 3 Date: 01/13/2074 : rosenberg
+
+
+toprol xl 50MG one po qd : 09/25/2067 - 03/30/2074 ACT : um
+
+   Script:  Amt: 30  Refill: 3 Date: 03/11/2074 : um
+
+
+
+LIPITOR 10MG One PO qd : 05/10/2066 - 10/03/2073 ACT : emmons
+
+   Script:  Amt: 90  Refill: 1 Date: 04/05/2073 : emmons
+
+
+
+ASPIRIN 325MG PO qd : 03/02/2065 - 03/30/2074 ACT : rosenberg
+
+
+multivitamin 1 po qd : 03/02/2065 - 03/30/2074 ACT : rosenberg
+
+
+
+
+
+
+IMMUNIZATIONS: 
+
+INF2 11/24/2068
+
+Infl 11/25/2065
+
+Pneu 11/25/2065
+
+
+
+PROBLEMS - CARE PLANS: 
+
+Problem: a. Adult symptom(s)
+
+Code: 250.00 Diabetes Mellitus, Uncomplicated
+
+Careplan: 
+
+as above, RTC 3 mo
+
+
+
+
+
+
+THIS IS A COPY PRODUCED FOR THE LMR. THE ORGINAL IS STORED ON THE BRIGHTPOINT SERVER AT COLUMBIA KINGWOOD MEDICAL CENTER AND IN PRINT IN THE PATIENT'S CKMC PAPER RECORD.
+
+
+
+
+
+
+
+
+
+
+
+2210200827001200008072830400009022086228628502000080750903000095090903003500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{code}
+
+My code so far:
+
+\begin{code}
+import csv
+import re
+import string
+
+with open('Clinical Data.csv') as fIn:
+    reader = csv.reader(fIn)
+
+    fOut = open('output.csv', 'w')
+    writer = csv.writer(fOut)
+
+    header = ['date', 'hbA1c']
+    header = [re.sub(r"\([^\)]*\)\s*", "", i) for i in header]
+    header = [i.lower() for i in header]
+    header = header[:100]
+    writer.writerow(header)
+
+    for row in reader:
+        hba1c = re.sub(r"\([^\)]*\)\s*", "", row[8])
+        hba1c = re.sub("\s", "", hba1c)
+        #print row
+
+        print hba1c
+
+        hba1c = hba1c.lower()
+        writer.writerow([hba1c])
+\end{code}
+
+Comment: I am trying to use the hba1c column and write that into a new column called 'hba1c_new'. I've tried using.str.lower().
+
+Comment: I don't see anything related to the `str.lower()` method in the code you've provided.
+
+Answer: Try this:
+
+\begin{code}
+import csv
+import re
+import string
+
+data = '''
+date,10/12/2021,11/12/2021
+113604231,49
+1136042431,38
+113604232,28
+1136042231,25
+1136041123,9
+1136004123,6
+1136041031,6
+1136040103,8
+118703231,82
+118703153,48
+11870323231,45
+11870329230342606,264
+'''',6654,44,1876,4
+\
+
+HB10
+
+
+116516
+
+
+
+
+
+
+
+
+\n/1
+
+
+
+186,6,6,6,6
+
+
+
+
+110,25
+
+
+3
+6
+
+6.0,6.
+
+
+
+
+
+
+
+10
+
+
+
+
+65,6, 56,6
+
+
+1,6,6
+1,6,6, 6
+
+6,0
+1,6,6,6 6,6,
+1,1,6
+6,6, 6, 1,6,66 and 6 month,6,6
+6, 
+
+1, 1, 
+665, 6,6
+6, 1,6,
+6, 6, 6, 2,  10,2
+
+
+
+6,2
+6
+  2001995
+
+7,60 2,2
+
+
+A 3
+
+
+
+ 5
+
+
+[ FULLY
+141, 1:12: 
+[204
+11 day:
+ 4 (
+
+
+
+
+
+
+F 5
+
+ 
+
+10,
+ 11 5, with the date date, 
+11, a date.
+
+
+
+A. AGE CH 20, as:2. The and a:  and 16: A in a year. 7:  date today.  14:1: 38 MINE CHIF RO SIF, BIG MIN SIOR SIRE: FROS:12, CHED RE CH RE CH:
+
+ ( B:23 (
+: a [11, a: 2 and anine and [
+F.
+22 and a1282199: (5: 1, 0. 20:1020:16 19.
+ Anient 11 [9 (Fier: 80: FINE A M, Anine: Anient An: An (a 1 2 ince [a Anine, Anient (F An Anicular An CENTS of 0 and.8. a. sinal. 3 BIA and, a and B: CINS. FINE CH B. F and: 0 and [68 [5. An93. An A An An An An An An Anific An Ciff 20 A Cine An Anical Anient A CINE CH RO CH and: Anine Anine Anine Anine Anine Anine An An An An An Anicity Ania An Anni 9 infer, 2, 2 sian  sine a a 0, 210 -1 Anina,  An Anient An CINE CH Anine in An Anine An An (1 and andian An Anian.0 ( an in [ A An for A An Anien Ania Anical An An An An An An Anine (1 An, Anine An An and Anine Anine ( An CINE AN CO C and andial An and Anient An. Anian,  oristic for, 8 and (09 B, 0, 00758 An An Anine Anine An, 1 An An An C and An, C1 An Anine ( An Anine An An: An: An An An An C An, a: C [2 Anine An An An An. An An Anine An An An [ An An An An An: An An An Anic An: An An An Anine An C1 An An. and  [ An Anic:  An An. C. (, [ C An  C An C An An An [1, C (: cine [ C1: C and ( and C to C C. C C An [1 C and cine  and [ in ( C C to C C C c c,  to in C C C C C C Cine cine. C C and ( cm c and C C: C, C C C for C C C in2 C H C C cite and C C - c c C C B: C C B C C CA CA C C C C, C C C and C C C C - C S C C C C C C C C C [ C and -  -2 [ H C C C B -  B C and B C B B, B. B C and, B- C c C C. C C C C C C C C C c - C C for, for C C for, C C C - H M C M C - C C. C B C B C C B C C B H B. Cine C. C C C S C C C C C, C C C and, C and C ( - B, - and. C C B and - B C B B.  H C. C. C and B and.  C C. C. C H A.  - C C - C C S C B and C and B C to C to H An C H H C - P  S for S - C A for for - S C to for.  B B H H H and., B,  C, C H C C - H C - C C H and S C C in - C in ( in. C in  S [ H ( - [  -  C  to C to B for for, B B [ B B, [ C B S: [ H C B: S - C C - B: B - B S H A C S and S H and  H S I [  ( A S. S  A S. C. - and C- and [ H, A C, G [ [  -  H C or - S H. [ [ [ C ( [ - [ [ -  -  - and  and ( [  for  for, for for. , to for ,  H S  (  [ G and - and and [ -  to [ ( -  S. [,  [ S - S C and (  C ( [ ( I S  S  [   , C - H H and  - S and and  D (    S I. I -  ( C  [ S  and [  [ and  -  C -  S P. and H H  ~ [ -  B  -  and  C  and [  -  and   (  ( and C [ and to and to  to G H - - and  B and - and  " and  and ( and H Ex - and or [ and ~ and ( [ and and  ( [ - [ G ( G and [ [ [ C [ and: [ C. C [ [ S B and  [ [ B [ [ and [ [ [ [ and  - [ C C and and -  [  - B S ( [ [ - V M [ F  and [[ [ C and  B [ [ [ [ C and S M V B [  C [  V I F C M N A  -  V S B and  Ex  I  [  [ [: [    and  [ C  V  C  D S  [ G: M  C V - C   [ [ C of N  V P C O P  S  C of of [  of  C V and (   V C [ [ C  Ex  V  V and: [ C ( C G - of of  - of  G   N C D I V V Vt C C - I and [  for ( [ -  C [ -  V C C  V A C I V C [ C V A Ex C [ Ex ( [ V ( H  M A : A V [ T  C V [  [ I - Res H   - [ I (  and  C  D C - C:

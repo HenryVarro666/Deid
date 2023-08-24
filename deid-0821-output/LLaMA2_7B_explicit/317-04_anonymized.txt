@@ -1,0 +1,376 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2078-09-26
+
+
+Date 09/26/2078                                 Surgery ADMISSION NOTE
+ 
+
+
+PATIENT: Hendricks, Hannah
+
+MRN: 75322175
+
+Attending: Shea
+
+
+
+CC: L foot pain
+
+
+
+HPI:  52 y/o F with Hx of HTN, hyperlipidemia, PVD, s/p R fem-pop bypass and L fem-DP bypass, both in 2066.  She was doing well until April 2078, when she presented with a non-healing ulcer and gangrene in her L third toe and subsequently underwent a redo L fem-anterior tibial bypass using R basilic and cephalic veins on 5/3/78.  On 6/11/78 she had graft scanning, which indicated a widely patent left leg graft and ankle-brachial indices at that time were normal bilaterally.  However, she presented on 9/17/78 c/o L foot pain.  On physical exam, she was noted to have a very small pinhole ulcer over the plantar aspect of her left great toe.  She now presents with increasing pain, &#8220;32&#8221; on scale 0-10 that is constant in nature, with occasional sharp spikes in intensity.  She also confirms loss of sensation and motor strength in the L foot, but there is no paresthesia.  She denies CP, SOB, N/V, flank pain, or any urinary Sx and has no history of cardiac disease.
+
+
+PMH: 
+
+- diabetes type 1 since age 10
+
+- PVD
+
+- HTN
+
+- hyperlipidemia
+
+
+
+
+PSH:
+
+- L fem-anterior tibial bypass - 5/3/78
+
+
+- Right fem-pop bypass - 2066
+
+- Left fem-DP bypass &#8211; 2066 
+
+
+
+MEDS: 
+
+- Atenolol 25mg PO QD 
+
+- Valsartan 160mg PO BID
+
+- ASA 325mg PO QD 
+
+- Oxycodone 5-10mg PO Q3H PRN pain
+
+- Vitamin C 500mg PO BID
+
+- Folic Acid 1mg PO BID
+
+- Colace 100mg PO BID
+
+- Neurontin 300mg PO TID
+
+
+
+ALL: Percocet - nausea  
+
+FH: Brother died of heart attack at 48, father had MI x3; no one else in the family has had either DM type I or PVD
+
+
+
+SH:
+
+Lives in Morehead, WI with her partner. Smoked for 3 years in her early 20's, but there is no recent EtOH/TOB/IVDU.  Works as a Senior Manager of Broadcasting.
+
+
+
+PHYSICAL EXAMINATION:
+
+VITALS  97.8           74        136/48      
+18       95%RA    FSglucose 74      
+
+General &#8211;  NAD, well appearing
+
+Pulmonary &#8211; clear to auscultation bilaterally, with no crackles or wheezes appreciated
+
+Cardiac &#8211; regular rate and rhythm; S1 and S2 normal; no murmurs, rubs or gallops; 
+
+Abdomen &#8211; soft, non-distended; non-tender without rebound and guarding
+
+Extremity &#8211; Warm bilaterally; well-healed bypass incisions bilaterally; L foot erythematous, mildly edematous; no clubbing, cyanosis; ulcer on the L big toe and a small dermal hematoma on the L 5th toe; tissue loss of tip of 2nd and 3rd toes, tip of 3rd toe with blackened, necrotic tissue, no drainage
+
+
+
+Pulses:                                    Fem        Pop         DP                                           PT
+
+R                                             2+           2+           2+                                           2+
+
+L                                             2+           2+           non-dopplerable  non- dopplerable
+
+
+
+Neurology &#8211; CN II-XII grossly intact, 5/5 motor strength and normal sensation bilaterally including L foot
+
+Mental status &#8211; alert and oriented x 3
+
+--
+
+LABORATORIES: 
+
+Chem 7, CBC, coags, clot ordered
+
+UA negative
+
+--
+
+EKG: Sinus; rate ~75; normal intervals; normal R wave progression; T wave inversion in V1; no ST segment changes; overall comparable to previous EKG
+
+--
+
+RADIOLOGICAL STUDIES:
+
+CXR 09/26/2078: (Prelim) Lung fields clear, no effusions
+
+
+
+09/26/78
+
+Type:  Arterial Ultrasound Tests
+
+The following are the velocities in cm/s, proximal to distal:
+
+COMMON FEMORAL             200
+
+PROXIMAL ANASTOMOSIS       307
+
+PROXIMAL GRAFT             84
+
+PROXIMAL GRAFT             211
+
+PROXIMAL GRAFT             318
+
+PROXIMAL-MID               94
+
+MID THIGH                  26
+
+DISTAL THIGH               13
+
+PROX TO DISTAL ANASTOMOSIS 5
+
+DISTAL ANASTOMOSIS         40
+
+Brachial pressure=152 / Right ankle=141 abi=0.92 / Left ankle=30 (anterior tibial) abi=0.19
+
+
+
+Date:  09/17/78
+
+Type:  Venous Ultrasound Tests
+
+There is no evidence of thrombosis in either the right or left common femoral, superficial femoral and popliteal veins. There is no gross evidence of deep vein thrombosis in the left calf.
+
+
+
+Date:  06/11/78
+
+Type:  Arterial Ultrasound Tests
+
+right brachial pressure 168 mmHg   left brachial pressure  169 mmhg
+
+right dp                154 mmhg   left dp                 143 mmHg
+
+right pt                156 mmHg   left pt                 151 mmHg 
+
+
+Patent arterial bypass graft with no evidence of hemodynamically significant stenosis.
+
+                
+
+ASSESSMENT AND PLAN:
+
+52 y/o F with Hx of diabetes type I and PVD, s/p several bypasses, presenting with worsening L foot pain of two weeks duration.  On physical exam, L foot is exquisitely tender and while it is warm to touch, it is erythematous and there is an ulcer on the plantar surface of the big toe.  In addition, ABIs from today show L ankle ABI of 0.19.  The etiology of her pain is an occlusion of the L fem-anterior tibial bypass vs. diabetic neuropathy, however, she has been taking neurontin without relief and the diabetic neuropathy is less likely.
+
+
+
+- oxycodone for pain control, continue neurontin
+
+- continue home atenolol, ASA, Valsartan
+
+- NPO from midnight, pepcid
+
+- check chem7, CBC, coags
+
+- has an insulin pump
+
+- angiography vs. angioplasty tomorrow
+
+
+
+_____________
+
+Hayden Shepherd
+
+MANAMANA IV
+
+01722
+
+
+
+Patient seen and examined. Agree with medical student note above. Briefly, 52yF with DM I, HTN, hyperlipidemia s/p bilateral revascularization procedures for PVD presents with complaints of left foot pain limiting walking to several feet as well as with small ulcers on her toes. ABIs are very diminished on the left and graft scan shows elevated velocities at proximal anastomosis. She is admitted in anticipation of angiography in am. 
+
+N: Cont oxycodone, neurontin
+
+CV: Cont home meds
+
+Resp: F/u final CXR read
+
+GI: Diabetic diet; NPO after MN
+
+GU: D5 &#189; NS @ 100 after MN; foley to be placed at 6AM
+
+Heme: SQH 
+
+ID: No issues
+
+Endo: Patient has insulin pump and knows to adjust this when she is NPO 
+
+Other: Consent for angiogram in chart
+
+Discussed with Dr. Weller, vascular chief resident, who agrees with assessment and plan. 
+
+
+
+______________
+
+Kathryn Brewer, MD
+
+PGY 2
+
+Pg 68283
+
+
+
+
+
+
+Record date: 2078-09-25
+
+
+Date 09/25/2078                                 SURGERY ANGIOGRAHY
+
+
+PATIENT: HENDRICKS, HANNAH (039416)
+
+ATTENDING: SHEA, JOAN
+
+
+CC:
+
+L foot pain; L ankle dysesthesias
+
+
+
+HPI:  52 year old F with DM, HTN, hyperlipidemia and history of bilateral femoro-popliteal bypasses for PVD.  She was doing well until April 2078, when she presented with a non-healing ulcer and gangrene in her L third toe and subsequently underwent a redo L fem-anterior tibial bypass using R basilic and cephalic veins on 5/3/78.  On 6/11/78 she had graft scanning, which indicated a widely patent left leg graft and ankle-brachial indices at that time were normal bilaterally.  However, she presented on 9/16/79 c/o L foot pain and has L toe pain and dysesthesia.  She also has a small pinpoint ulcer on the plantar aspect of her L greater toe and there is a small dermal hematoma over the L great toe.  She denies paresthesias, CP, SOB, or any urinary Sx and has no history of cardiac disease.  Her medical regimen is atenolol 25mg, Valsartan 160mg, and ASA 81mg daily.
+
+
+Medications: 
+
+- atenolol 25mg PO QD
+
+- valsartan 160mg PO BID
+
+- ASA 81mg PO QD
+
+- oxycodone 5-10mg PO Q3H PRN pain
+
+- VITAMIN C 500mg PO BID
+
+- folic acid 1mg PO BID
+
+- COLACE 100mg PO BID
+
+- neurotin 300mg PO TID
+
+She is a nonsmoker with a 30 pack year history and is currently employed as a Sr. Manager of Broadcasting in Morehead, WI.  She was diagnosed with type I DM at age 10.  There is no significant family history of DM type I, PVD, or coronary artery disease.  Her brother died of a sudden heart attack at age 48 while her father had 3 MI's.  She has no other medical problems.
+
+
+
+PMH: 
+
+- DM type 1 since age 10
+
+- PVD
+
+- HTN
+
+- hyperlipidemia
+
+
+
+SH:
+
+She lives in Morehead, WI with her partner.  She smoked for 3 years in her early 20's, but there is no recent EtOH/TOB/IVDU.  She works as a Senior Manager of Broadcasting.
+
+
+
+PHYSICAL EXAMINATION:
+
+VITALS:  97/54                 87/49     141/66      74
+
+Vital Capacity:  100%
+
+BP:
+
+149/83 (R)
+
+150/80 (L)
+
+RR: Normal
+
+HEENT: Nose clear; no sinus tenderness; no conjunctivitis; no visual deficits; normal extraocular movements; no otalgia or otorrhea; no cervical lymphadenopathy 
+
+Chest: WNL
+
+CARDIO:
+
+Heart S1 and S2 normal; no murmurs, rubs or gallops;  
+
+Extremity: Warm bilaterally; well-healed bypass incisions bilaterally; L foot erythematous, mildly edematous; L great toe with a small hematoma and ulcer; no clubbing, cyanosis, edema, or drainage; R foot, R great toe, R second toe, R third toe and R fourth toe normal; 
+
+Neurology: L foot normal 
+
+Mental status: alert and oriented
+
+---
+
+LABORATORY DATA: 
+
+Chem 7, CBC, CMP, clot ordered
+
+UA, urine dip stick negative 
+
+BNP: 25 pg/mL (N)
+
+--
+
+EKG: Preliminary, no ST elevation or depression or left axis deviation. 
+
+--
+
+RADIOLOGY: 
+
+CXR
+
+CXR 09/25/2078: (Prelim) Lung fields are clear; no effusions 
+
+--
+
+Vascular Ultrasound Tests 
+
+There is no evidence of thrombosis in the left popliteal artery, the right common femoral artery or the right fem-anterior tibial artery.  There is no gross evidence of DVT in the left common femoral artery.  The graft in the left leg appears grossly patent and there are no evidence of hemodynamically significant thrombus.
+
+
+--
+
+ASSESSMENT AND PLAN:
+
+This is a 52-year-old female with DM type I, HTN, hyperlipidemia and history of bilateral femoro-popliteal bypasses for PVD.  She was doing well until four months ago, when she presented with a non-healing ulcer and gangrene in her L third toe and subsequently underwent a redo L fem-anterior tibial bypass using R basilic and cephalic veins on 5/3/78.  She has had several episodes of foot pain in the past few months, but her last visit was four months ago when she was doing well.  Her last visit was on 9/25/2078, when I reviewed the graft scan, which indicated a patent left leg graft, and ankle-brachial indices at that time were normal bilaterally.  However, she presented on 9/16/79 c/o L foot pain.  She also has a small pinpoint ulcer on the plantar surface of her L greater toe and there is a small dermal hematoma over the L great toe.  She denied paresthesias, CP, SOB, or any urinary Sx.  She had been on atenolol 25mg, Valsartan 160mg and ASA 81mg daily and was also taking neurontin 300mg PO TID.  Her BP is 150/80 mmHg.
+
+
+I believe that her

@@ -1,0 +1,437 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2102-12-01
+ID: The patient is a 74 yr old woman with multiple medical problems, who comes in after recent 5 month hospitalization for followup and to review recent course of events.
+
+
+
+HPI:  I had last seen her in 5/02 at which time her DM was being treated with Lantus 10 units, and Glucotrol XL 10 mg bid.  Her Lipitor had been held as had her Actos due to elevated LFT's, and her Depakote had been discontinued by her neurologist.  Her LFT's had come down from her hospitalization in March but were still elevated at AST 87 and ALT 124.  Liver biopsy was being considered by Dr. Yamasaki, her gastroenterologist.  She also had been recently hospitalized at San Rafael for syncope with history of partial seizure disorder vs TIA with history of transient episodes of right arm numbness and weakness dating to 2098 but with no seizures in 3 yrs.
+
+
+
+In July O2 she had several episodes of syncope, one of which occured in her neurologist's office.    She was apparently hypotensive and initially refused to go to the ED, but later her family brought her to the ED at San Rafael.  She was found to be bacteremic with MRSA and was treated with IV vancomycin.   Endovascular sources were found to be negative as source, as was a knee tap, and no source was ever identified.  She was transferred to GCH in August.   She had severe back pain and two bone biopsies were negative for osteomyelitis in the spine.  She was also found to have a 50% compression fracture of T4 and this was treated at GCH with a T4 vertebroplasty in September 10.  She also was worked up for mets to spine but only benign hemangiomas were found.
+
+
+
+She was discharged to rehab in mid September.  She required at least two more admissions from rehab to San Rafael over the next two months.  She apparently had severe gastroparesis and was unable to eat, requiring portacath for TPN around October 10.  She had then gone back to rehab again but was readmitted with DVT of the left Subclavian vein around the site of the Portacath.  She was started on Coumadin and was back in rehab for another few weeks.  The arm swelling quickly resolved. There was also reportedly a TIA which occured after an MRI scan with right facial droop and slurred speech at SRH.  She was finally discharged to home on November 21st.
+
+
+
+MEDS:  Coumadin 7.5 mg qd,  Norvasc 10 mg qd, Isordil 20 mg tid, Neurontin 300 mg po bid, Plavix 75 mg po qd, Prilosec 20 mg qd, Folic aid 1 mg qd, Synthroid 50 mcg qd, Labetolol 200 mg bid, Glipizide 2.5 mg po qd, Albuterol inhaler prn, erytab 250 bid, Ultram 50 mg q 6hrs prn, MVI, Vitamin B12 1000. Rhinocort Aqua, Nitrostat prn,  Was d'cd from Reglan, taking Donperdon?
+
+
+
+PE:  WDWN BF NAD  Wt 135 lbs  BP 100/64
+
+
+
+Heent:  throat clear,  EOMI. Perrl.
+
+Neck:  supple without adenopathy or thyromegaly.
+
+Cor:  RRR, no m's.
+
+Lungs; clear.
+
+Abdomen;  soft, nontender no HSM.
+
+Extr;  no edema.
+
+
+
+A/P:  74 yr old woman with multiple medical problems, s/p 5 month hospitalization.
+
+
+
+1)  Diabetes.  Throughout her hospitalization she lost a lot of weight down from 160's to 170's last spring to current level of 135 lbs.  Insulin was stopped and just recently Glipizide 2.5 mg added on.  Recent Hg A1C obtained after this visit on 12/04/02 was 6.0.  Bun /Cr was 11/0.9.  glucose 196.  Cholesterol 225/68/135.  LFT's were not done and need to be done, will be ordered next lab draw.  If normalized then will add back Lipitor.  History of gastroparesis, on new med has replaced Reglan, doing better.
+
+
+
+2)  Hypertension.  Doing well on Norvasc 10, Labetolol 200 bid and Isordil 20 tid.
+
+
+
+3)  S/p recent upper extremity DVT, on coumadin.  Per Dr. Herbert Paris's note of 12/02, she needs 3 months of anticoag, and then 1mg/day until the portacath discontinued.  With history 2 prior DVT's will need to discuss whether she should be on long term therapy.  She is now getting FS INR's thru the VNA, but will be transitioned to Internal Medicine, with access thru the portacath, or continued FS's.  INR has been in good range with 7.5 mg coumadin.
+
+
+
+4)  S/P  compression fracture of T4, s/p vertebroplasty with successful resolution of the pain.  Has other compression fractures but not interested in further procedures at this time.
+
+
+
+5)  History of hypothyroidism.  Had recent labs at SRH on  12/04/02 with TSH of 1.3 and Free T4 of  0.9.  
+
+
+
+6)  History of anemia, requiring Procrit and ? transfusions during her hospitalizations, with normal hct of 41.1 on  12/04/02.
+
+
+
+7)  Neuro;  History of partial seizures, TIA's.  Followed by Dr. Gary Keyes.    History of silent cerebellar brain infarction on MRI.    History of moderate intracranial carotid stenosis, with recent ? TIA left hemisphere, ? repeat carotid noninvasives per Dr. Keyes vs CT angiogram.  On Plavix and coumadin.  Per Dr. Keyes coumadin alone would be enough for stroke prophylaxis, and he would defer to Dr. Barry as to whether to continue Plavix.
+
+
+
+8)  History of elevated LFT's.  May have been medication related, due to Lipitor, Actos, Depakote.  Now off all meds, need redo as above, and consideration if normal of retrial of  statin.
+
+
+
+
+
+9)  Ophthalmology.  History of recent TIA, no history of retinal hemorrhaging, no visual complaints.
+
+
+
+
+10)  G.I.;  History of diabetes, gastroparesis, s/p T4 vertebroplasty.  Currently on Glipizide and Prilosec.  History of recent DVT of the left subclavian vein, and history of 2 prior DVT's.  Currently on Coumadin 7.5 mg po daily.  INR's have been in good range of 4.5 to 6.2
+
+
+
+
+11)  History of severe back pain, history of multiple vertebral bodies and bone mets of T3, T4, T5, and T6 which were all treated.  History of recent bone biopsies of spine which were negative.  History of recent left subclavian DVT.  
+
+
+
+
+12)  S/P left subclavian DVT on 11/21/02.  Catheter was left in place.  No DVT recurrence noted on 12/03, 12/04, 12/10, 12/16.  PEI 12/04.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+information
+identify 
+
+
+The patient information
+
+
+
+
+information
+
+or information
+
+
+
+
+
+
+
+information, etc.
+
+information
+
+
+
+
+
+patient and other names, 
+
+information names of the
+of information,
+15, etc.
+
+
+
+
+
+
+
+
+
+
+A.
+information 
+
+
+information names
+
+
+names.
+1. 
+
+and the patient,
+patient names,
+The... the patient, or patient of the doctor of the patient of...
+
+15...
+(or or any... of [1, and remove, as, 12 and and the [and, and the following and
+, and or, etc.
+
+the patient, and a patient or are, orally
+
+... or [12 and, the day
+
+or, change the patient name.
+
+(patients, and:,
+
+... the name, the...
+:...
+10: the: and the 
+[:
+le and the [:
+1:
+(0 orify the patient are 
+(...[...
+are... and a…
+: and or the... or are or, or the and names of the and 
+and:, the (the and a 1 and or, and 1, but: the or,
+and, 
+(... of the:
+follow: and and a...and, as (the... 10 and the are,... …, but 0 and the and and [ and, or, and are, are, 1, 
+... and,, (...and, 0, or, as, 2 and or, 1, and, 1. 3, 1, 1, and (and and 1, an, are the, and, and are in the. and, [and of the, and, ((
+ in a (
+in-and, 1 with the (...1... and and: and " … and: and and [are are (are-2 (2 or are are, are a "1-with or or ([ and, ( 1, and, the or and, and (cl. of “. [. (( and  and,,. 1,  and, and (1, 2 are the or are or, and (an,, a-1 and or and, a and, "1. and, (and, and and (an and  and,  (an of that, an 1, or, [an, an, and, "pat, an or an or or, An or, in the (le in it, [and " (, an, (An,, and of the and,,  and (and (and, and,
+, "an, an an " an:: an:: and: :: [1 [0 "1::1::-2 and and: and: an- (: the [C in:: and: -an: and an and and with with " and-with:: an " an and " are or [ are  are an  an in a-1- (. of the " of the or ( an and and " with [ and in and and or, and [ ( in, and " an [ in  and [ [ or ( [ and and an by and or and,  and or are  or and, are are are - and in ( [ but and an  and,, and- and are of [ of the,  of, are of - - an and and or and an- or and and, " "  and,,,, of and of ( of the an of  of ( and and  and and are,  "0, in " ( of the an  of  in or or and in - and and  with, an with, and " with, of the in of of  with of and of the and and (,,  in or or- and,-  in and and  and  in and  or  in or in- ( or " [  in " or- and- " and and in- and and and of, and or in and. (, in " and or ( ( and- and and- in for  by, or but or ( for and  and, or for for and and  " and, or ( and and and,,, " and of ( and and of of the of of and-  and " and, in for, and and and with and with ( for and in- and  for with the [ for,  for in for in for [ with for, with, for and  and or or for ( for- but  for " with  for and " for with an in with with and for with or with in ( for  and or in or " and [ or and ( and and (  with and or and or in and ( and or of of  and- H C and ( ( and or and with and or-c [ and and-  and ( c or " and in and and and or ( ( in and or " to in in " and or "  and- or of or " and and and and and " H- or and and or or- or or,  of the of and or of " of  or and or,, and ( or.  ( and,, ( and ( H H- of of of the of of or of of and t of or  and " or, H or and to  m and- in and and and  and in  to and in or in " to and- and and- (, and or to or " " and with or (- with of and and of ( and C ( or and and H- and and and and and and or- and  and of  of ( ( (- and and ( and and- or H and and or, " and and and- H ( and, and and ( and or and- and- and, with, and,, and ( H ( and and H- and and with and and, H., and and,, and (  for ( or and and or in, and ( and and and, to and ( and, ( or, and and and to and and and, M ( and with,, or and or and of and and and and. and but ( ( and for, or- H and, but and  and C of  a in  ( C C B and and B and C and and h C and c- and and in, (  of,, and, and and ( and ( and and ( ( but but (, ( and and or,, of ( in, or in and on and with and or ( and or C, C (,, with of of,,- or, and -,, and, and and ( and and and - ( or ( and ( C and and " and, L in and- and ( and,, but and or and and, (- or,, and and or, and, and,,,,  and m,  and,, and and or,- and to, and and- in, of of, and  and and, and (, to, m, M, m- or and and,,,,, ( and and and and and, and, and and and and, ( of, c,, and or,,, or and or or m m, of m M m of of, of M or and of of of and of and c in,,, ( a

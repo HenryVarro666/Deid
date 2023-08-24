@@ -1,0 +1,125 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2099-07-17
+
+                     KEKELA EMERGENCY DEPT VISIT
+ 
+LEON,MAURICE   436-34-21-1                 VISIT DATE: 07/17/99
+Patient seen on 7/17/99 by myself and the medical resident at 4:30 
+p.m. 
+PRESENTING COMPLAINT:  Chest wall pain. 
+HISTORY OF PRESENTING COMPLAINT:  The patient is a 44 year old male 
+complaining of chest wall pain, constant, times 24 hours.  The 
+patient states the pain is worse with respirations and movement. 
+The patient claims similar episode in past, and was told had a 
+"pulled muscle". 
+REVIEW OF SYSTEMS:  Patient denies trauma, denies nausea and 
+vomiting, diaphoresis and shortness of breath. 
+PAST MEDICAL HISTORY:  Positive for hypertension and asthma. 
+MEDICATIONS:  Procardia, Albuterol, Accolate. 
+ALLERGIES:  None. 
+PHYSICAL EXAMINATION:  A well developed, well nourished male lying 
+on stretcher, communicative and in no apparent distress.  Temp 
+98.3, heart rate 112, blood pressure 133/86, pulse ox 95% on room 
+air.  HEENT - normocephalic, atraumatic.  Heart - regular rate and 
+rhythm without murmurs, rubs or gallops.  Lungs clear without 
+wheezing.  Abdomen soft, non-tender, positive bowel sounds. 
+Extremities without clubbing, cyanosis or edema.  Chest wall - 
+positive reproducible pain on palpation which improved when 
+palpation stopped. 
+FINAL DIAGNOSIS:  Chest wall pain, probable costochondritis. 
+DISPOSITION (including condition upon discharge):  Plan - discharge 
+with nonsteroidal anti-inflammatories which patient has taken and 
+tolerated in the past.  Discharged in stable condition. 
+___________________________________                    HP506/6486 
+WINIFRED MANNING, M.D.  WM26                               D:07/17/99 
+                                                       T:07/17/99 
+Dictated by:  WINIFRED MANNING, M.D.  WM26 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+"""
+
+
+class Test(unittest.TestCase):
+
+    def setUp(self):
+        pass
+
+    def tearDown(self):
+        pass
+
+    def test_parse_text(self):
+        test_case = TestParse()
+        self.assertTrue(hasattr(test_case, "parse_text"))
+
+        text = """
+Record date: 2012-01-16
+
+Patient seen on 2012-01-16 by myself and the medical resident at 5:30 
+p.m. 
+PRESENTING COMPLAINT:  Fever.
+HISTORY OF PRESENTING COMPLAINT:  The patient is a 38 year old 
+male with a history of recurrent abdominal pain. The pain is 
+constant, dull, and severe to the extent that the patient can 
+not tolerate a full bladder. 
+REVIEW OF SYSTEMS:  Patient is febrile to 102.2 degrees Fahrenheit, 
+has tachycardia of up to 110 bpm, but no other symptoms.
+PRECEDING HISTORY:  Patient has been treated for a ruptured ovarian 
+cyst on 2011-12-09 and has been admitted to the hospital on 2011-12-25 
+for an abdomental pain flare-up. Patient was discharged on 2011-12-28 
+on an antibiotic regimen for an abdominal infection. 
+PAST MEDICATIONS:  The patient takes no medications. 
+PHYSICAL EXAMINATION:  A well developed, well nourished female lying 
+on the examination table, communicative and in no apparent distress. 
+Temp 99.2, heart rate 119, blood pressure 158/80, pulse ox 92% on 
+room air. 
+HEENT:  Normocephalic without signs of trauma. Heart - regular rate 
+and rhythm without murmurs, rubs or gallops. Lungs clear without 
+wheezing. Abdomen soft and non-tender. Extremities without clubbing, 
+cyanosis or edema. Chest wall - positive reproducible pain on 
+palpation which improved when palpation stopped. 
+LABORATORY:  White blood cell count normal.
+FINAL DIAGNOSIS:  Fever, recurrent abdominal pain. Admit to 
+hospital for pain management.
+DISPOSITION (including condition upon discharge):  Plan - 
+admit to the hospital for pain management. Discharged in 
+stable condition.
+-----------------------------------
+WINIFRED MANNING, M.D.
+WM065
+                                                D:1/16/12 
+T:1/16/12
+"""
+
+        test_case = TestParse(text="")
+        self.assertFalse("test_parse_text" not in vars(test_case))
+
+
+#----------------------------------------------------------------------
+# TESTS:
+#----------------------------------------------------------------------
+    def test1(self):
+        self.assertTrue("parse" in vars(Parser()))
+    def test2(self):
+        test_case = TestParse(text="")
+        self.assertFalse("test_parse_text" not in vars(test_case))
+#        self.assertFalse("test1" not in vars(test_case))
+#        self.assertFalse("test2" not in vars(test_case))
+#        print vars(test_case)
+    def test3(self):
+        test_case = TestParse(text="")
+        self.assertEqual(test_case.parse_text("test_test1"), "")
+    def test4(self):
+        test_case = TestParse(text="")
+        self.assertEqual(test_case.parse_text("test2"), "")
+
+#----------------------------------------------------------------------
+# TESTS:
+#----------------------------------------------------------------------
+if __name__ == "__main__":
+    unittest.main()

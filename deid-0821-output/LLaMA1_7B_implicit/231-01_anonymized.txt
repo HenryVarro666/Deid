@@ -1,0 +1,269 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2094-08-11
+
+CARDIOLOGY
+
+COQUILLE VALLEY HOSPITAL
+
+
+
+Reason for visit:
+
+   Evaluation for cardiac catheterization with Dr. Irvin Vitale. 
+
+
+
+Interval History:
+
+   Multiple risk factors for CAD including DM, HTN, CRI. Now with complaints of exertional dyspnea and fatigue. Progressed and she was evaluated by Bonnie Eaves. 
+
+
+
+8/25 Bruce protocol was postive at 9 minutes, 64% PMHR. Complaints of dyspnea. EKG with borderline changes. Nuclear images with moderate sized defect of anteroapical zone with partial reperfusion. Some scar. Mild LV dysfunction with EF 45-50% and apical dyskinesis. 
+
+
+
+Arranged for elective cardiac catheterization with Dr Vitale. 
+
+
+
+Past medical history:
+
+   CVA of left PCA territory 2093. No residual. Rx with ASA, folate, niaspan
+
+IDDM diagnosed 30 yrs ago
+
+CRI with creat baseline 3.7 (followed by Orlando Ernst) and recent eval by Dr Ratliff for transplant. +proteinuria with nephrotic syndrome. Donor kidney lined up.
+
+HTN
+
+High cholesterol
+
+Diabetic retinopathy
+
+Anemia
+
+
+
+Medications: Toprol 25 QD
+
+Diovan 160 QD
+
+Norvasc 10 QD
+
+Lasix 80 QD
+
+Plavix 75 QD
+
+ASA 81 QD
+
+MVI
+
+Insulin pump
+
+Vytorin QD
+
+
+
+Family history:
+
+   Mom A&W in her 60's with HTN. Dad A&W. 
+
+
+
+Social history:
+
+   Works as Patternmaker at IMN. 
+
+volunteer firefighter. Single and lives with her parents. 
+
+Never smoked. No ETOH. 
+
+
+
+Review of systems:
+
+   no peripheral edema currently (but had it in the past). No fever, chills, sweating. Problems with gastroparesis and is planning to have a gastric pacemaker inserted (has been having delayed spikes in insulin). 
+
+
+
+Physical examination:
+
+-BP: 150/100  L  154-90 R
+
+-Pulse: 70  
+
+-resp. rate: 16  
+
+-weight: 153  
+
+-BMI:   
+
+-General appearance:   No acute distress.
+
+-Skin:   No rashes, anicteric.
+
+-Heent:   Unremarkable
+
+-Neck:   Carotids 2+ without bruits. JVP no jugular venous distention
+
+-Chest:   Clear to auscultation and percussion.
+
+-Cardiac:   Left ventricular impulse discrete and nondisplaced. Regular rate and rhythm, normal S1 and S2, with no S3 or S4. There were no murmurs, clicks or rubs.
+
+-Abdomen:   Normal bowel sounds, soft and nontender, with no hepatosplenomegaly or masses appreciated.
+
+-Extremities:   No cyanosis, clubbing or edema. 2+ femoral pulses without bruits. 2+ pedal pulses.
+
+-Neuro:   A&O x3, CN 2-12 grossly intact. Reflexes 2+ and symmetric x 4 extremities. Toes B downgoing.
+
+
+
+EKG:
+
+
+
+			
+
+
+
+Selected recent labs:
+
+ 8/4/94: 
+
+WBC 7.1, Crit 35.2, Plts 274. 
+
+INR 0.9. Na 139, K 4.3, Creat 3.4. 
+
+AST/ALT 39-30. 
+
+
+
+Assessment and plan:
+
+   40 y.o. with multiple risk factors for CAD. HTN, high chol, IDDM. Now with progressive angina and a positive ETT. Plan for cath. She will probably end up on dialysis given severe renal failure. Pretreated with musomyst. 
+
+
+
+Give bicarb in holding room. 
+
+
+
+Impression:
+
+   Further plan per Dr Vitale and Dr Rollins. 
+
+Follow up with Dr Bonnie Eaves. 
+
+
+
+
+
+Frances Travis Potts NP
+
+23119
+
+
+
+Signed electronically by   Frances T Potts NP  on  Aug 11, 2094     
+
+
+
+
+
+*/
+			
+			//$this->pdf->SetFont('Arial', 'I');
+			$this->pdf->SetXY(10, 0);
+			$this->pdf->Write(4.22, 'Reason for visit:');
+			$this->pdf->Write(2.0, '<span id="reason" class="text-red">Cardiac catheterization with Dr. Irvin Vitale.  </span>');
+
+			$this->pdf->SetXY(17, 10);
+			$this->pdf->Write(3.98, 'Interval history:');
+			$this->pdf->Write(5, '<span id="history" class="text-red">Multiple risk factors for CAD including DM, HTN, CRI. </span>');
+			$this->pdf->writeHTMLCell($w = 14, $h = 6, $leftMargin = 18, $topMargin = 6, $rightMargin = 18, $bottomMargin = 6, $align = 'C', $fill = false, $link = false, $border = false, $frame = true, $printBackground = false, $cellFormat = 'A21');
+			$this->pdf->SetXY(83, 10);
+			$this->pdf->Write(3.87, '<span id="history" class="text-red">Evaluation for cardiac catheterization with Dr. Irvin Vitale. </span>');
+			$this->pdf->writeHTMLCell($w = 14, $h = 6, $leftMargin = 18, $topMargin = 6, $rightMargin = 18, $bottomMargin = 6, $align = 'C', $fill = false, $link = false, $border = false, $frame = true, $printBackground = false, $cellFormat = 'A21');
+			$this->pdf->writeHTMLCell($w = 795, $h = 1041, $leftMargin = 18, $topMargin = 6, $rightMargin = 18, $bottomMargin = 6, $align = 'C', $fill = false, $link = false, $border = false, $frame = true, $printBackground = false, $cellFormat = 'A21');
+			$this->pdf->writeHTMLCell($w = 9, $h = 14, $leftMargin = 18, $topMargin = 6, $rightMargin = 18, $bottomMargin = 6, $align = 'C', $fill = false, $link = false, $border = false, $frame = true, $printBackground = false, $cellFormat = 'A21');
+			$this->pdf->writeHTMLCell($w = 22, $h = 56, $leftMargin = 18, $topMargin = 6, $rightMargin = 18, $bottomMargin = 6, $align = 'C', $fill = false, $link = false, $border = false, $frame = true, $printBackground = false, $cellFormat = 'A21');
+			$this->pdf->writeHTMLCell($w = 401, $h = 1068, $leftMargin = 18, $topMargin = 6, $rightMargin = 18, $bottomMargin = 6, $align = 'C', $fill = false, $link = false, $border = false, $frame = true, $printBackground = false, $cellFormat = 'A21');
+			$this->pdf->writeHTMLCell($w = 786, $h = 1080, $leftMargin = 18, $topMargin = 6, $rightMargin = 18, $bottomMargin = 6, $align = 'C', $fill = false, $link = false, $border = false, $frame = true, $printBackground = false, $cellFormat = 'A21');
+			$this->pdf->writeHTMLCell($w = 206, $h = 1517, $leftMargin = 18, $topMargin = 16, $rightMargin = 18, $bottomMargin = 6, $align = 'center' Arial, Bold
+				<br />
+						<br /> 			<br /> 						 																	 												
+																																							2014
+
+		   							
+                	  	 	A   							
+                	
+
+
+		
+
+
+
+		
+						    							
+
+
+  					   		   
+
+
+CAR
+
+
+CAR 	
+
+
+2124
+        sympt 1 123
+20203 2 3
+20
+
+01124.  1
+
+100 1
+ 31
+1
+2004
+
+
+1300.
+for 3004
+
+
+
+
+12013 14
+April
+A1255:
+20
+A26
+ 1
+12130
+
+A 51
+ 611214, 5 9
+  0
+1
+ 1.
+   12 35
+20
+    and 4 14
+
+2 years
+2 months,  12 5. 8
+    0
+Nov,   4
+
+2 years.  and 15,2: 1: 101424,   2, December.
+ 29 1 2. 0 REVERIAL, REVERAL S
+AL PRESS 3
+1: PRIRE:A 
+A for: CENTIVE:  45 2917:268 (5 ( 1:  , a year: 10.12 and 8, 201. 1,1, A  (a: a :18 C 00 Anime  Anine (C
+C.  An: A:  Anine:  A ( 1  (2,  C, ,. Anine and 1, Anni. A. Anient. An,   An. 5. An An Cinal and: a  Anduct  (3 andline andine -  and: C.  and 1,1.  and  a cinal and the 11/4/21.8 An A Al. 5 An Ance  Anese. An Alist:A RE B IN, An An Anification. Anive An. 1 Anification  Anni Anient, 11 and  forne. Ancerive.  Anni in.  An.2 and. 0  An. Anific  and (al, a, 11, 8. 6 and a.3 A  a. A, Cine. 1. An, C. An An (Al (8 An Anine Anine. A An An.  Anite,  for,2 Anine,  for. Anient for,, a Cien. and for., for and for  and..1 and the and cinal ( and and 0,  (00-  Cine and a and. ( An An ( ( in. Anist An. C,.. An An ( a and. An C An:  An, a,  Alness and C Al, An:. An An. C - Anine: Al. Anine in An, An. An Anine An An An An An An C An, C C An: C An. Anine. [0 C in an. [ : C An An ( C in, [:, a ( ( ( for  for (1  An [ in : An,: (1. A ( and for: [ [ in: Aline and cine 0 in c.  for and in for.. [. [ A for the. for with C ( for: (: Al for and [ C for and C for C.: Alline and and.1 C2 c2, c c in.. C in. H C for ( C. and. A C Al. AL C for. C - for and for, and in C for. (. ( of,. and for. and. and. with for with,. for., [ and. and-... and. - [1 ( C for. for for and for, for -, and, (.. and for of, and in, with or and for and and - and and and [. in in C. (..... (.. -,. -1..., [, ( - C. in,... ( with and and (12001.. or for with. and (,.. and  in in a.,. for and and. 1 - -.10 for for, -. for. L -.- -, [ -,.. C of - of.. and. of of L of. L. Al C and of C of  of of a and of c - of C C. S C C... (. ( C C.. - C... E ( and (.. of (:.:. C (, Ex. B: for: for. ( -:..  of (...: (. - C ( N:-.  A. N:: (. F - L- C- (. L ( C: B., - C. C L E B. I ( C- B I A., C and- B - CL C. C A, B E A - ( N C ( C - C [ I -. [-.- F,, and - and. C, F and. and, B C. [. (. C. and. ( C. L L A C. - ( - A A N. C A - C ( and -. - N N, A and. N. A E and C F N. A ( N A C M C and L and- N and.. ( A,.. N. I. A. C ( A... and and. and. A (...... B A. (.. N and,. and and and.  (. C.. - - C (.. and ( C.,. L. L. -. A... -.,. C and,. A,... C.. ( M (. A. A, C A... - -../ - A with C. C and... C [. F/ and N. [. F. A. (, M. - and..,, E M C..... (. C. ( F ( F - -. B, A1/ C.. F. B. B.  (. C and.. F. C. B... A C. A. B. M. A. of. A C of ( of - of. C. C/  C- I. F A I B1.. A c. I and. I. P. F ( M  C A- C. A of B. P of of a of of of. of of C A and A  C ( A C A with. ( A  B C  (  A A.  I C (.  A - T - A C B F C A. F A, F I ( c. T (. 0. 1. 2 B- B C.  F,  C. C. I:  C11- B C: ( C.  C B (:, (. F B F,.. A. N.. B,. A.,,. B, B.  B

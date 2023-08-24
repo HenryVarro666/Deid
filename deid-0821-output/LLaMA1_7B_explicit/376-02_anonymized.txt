@@ -1,0 +1,253 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2072-04-24
+
+Reason for Visit	
+
+Mr. Whitehead is here for FU of his many issues.
+
+
+
+
+
+Problems	  
+
+benign prostatic hypertrophy	      
+
+PSA was 2.9 in 8/69 and 3.2 in 8/70 and 3.0 in 2/72.   He has done well on flomax and now sees Dr. Pena.
+
+
+
+hyperlipidemia	      
+
+now on lipitor 40 mg qhs.  He has NIDDM and HTN.  His lipid profile from 4/71 showed a LDL of 103.  LFT were normal.  Will check lab  work and continue med.  
+
+Elevated blood sugar	      
+
+BS was 191 in 11/1/69 and was in similar range during his hospitalization in Montreal Medical.  He has been on meds for NIDDM.  He could not tolerate high dose of glucophage and has seen Dr. Lozano in diabetic unit.  His HBA1c was 7.5 in 6/71 and 7.6 in 9/71 on glyburide 5 mg bid and glucophage XR 500 mg qd.   He is on zestoretic.  Little rationale to check for microalbuminuria as he is already on ace-inh.  His lipids are controlled with diet and lipitor.  He has no neuropathic sx's and sees ophtho regularly.  
+
+HYPERTENSION	      
+
+Now on zestoretic 20/25 bid + atenolol 50 mg qd.  He has significant white coat component.  BP is again 145/80 and is lower at home.  Pulse is 70 but it again sped up when he was being examined.
+
+
+
+LOW BACK PAIN	      
+
+he had prolonged discogenic back pain in 1/2070 and could not get appt with NAMG orthopedic/back surgeon and went to Montreal Medical Center.  He underwent L4/5 lamenictomy in 2/2070.  He has persistent right-lower back pain and has seen Drs. Conley and Sheehan.  A myleogram done on 8/5/71 showed degenerative disc disease with moderate spinal stenosis at L4/5.  He continues to have chronic low back pain in the right hip and right anterior thigh.  He exercises regularly and has not benefitted from prior epidural injection.  Dr. Sheehan felt that pain may be from some instability vs scar tissue from prior surgery.  Fusion surgery was discussed but Mr. Whitehead is not too keen on it. [12/25/71]
+
+
+
+still has back pain but not ready for fusion surgery yet.
+
+
+
+Review of Systems	
+
+Otherwise negative.
+
+
+
+
+
+Vital Signs	    
+
+Pulse:	 70   Regular
+
+Weight:	 189   Pounds
+
+Blood Pressure:	 145/80   Left Arm
+
+
+
+Physical Exam	  
+
+Chest	
+
+clear
+
+Cor/Cardiac	
+
+s1s2 s4
+
+Abdomen	
+
+soft and  nontender, no masses or organomegaly, normal bowel sounds
+
+Extremity	
+
+no edema noted, pulses are 1+
+
+
+
+Medications	  
+
+MVI (MULTIVITAMINS)	 1CAPSULE PO QD
+
+ASPIRIN (ACETYLSALICYLIC ACID)	 81MG PO QD
+
+FLOMAX (TAMSULOSIN)	 0.4MG PO QD
+
+LIPITOR (ATORVASTATIN)	 40MG PO QHS
+
+ZESTORETIC 20-25 (LISINOPRIL/HYDROCLOROTH...	 20/25 PO QD
+
+GLUCOPHAGE XR (METFORMIN XR)	 500MG 1 Tablet(s) PO QD
+
+Prilosec SA	 20MG PO QD
+
+ATENOLOL	 50MG 1 Tablet(s) PO QD
+
+MICRONASE (GLYBURIDE)	 5MG 1 Tablet(s) PO BID
+
+
+
+Disposition and Plans	
+
+Follow-up in 9/72.  Will contact him with results of lab work.
+
+
+
+
+
+
+
+
+
+
+
+
+
+"""
+        expected_notes = """
+
+
+
+Record date: 2072-04-24
+
+Reason for Visit
+Mr. Whitehead is here for FU of his many issues
+Problems hyperlipidemia now on lipitor 40 mg qhs.  He has NIDDM and HTN. His lipid profile from 4/71 showed a LDL of 103
+Elevated blood sugar BS was 191 in 11/1/69 and was in similar range during his hospitalization in Montreal Medical.  He has been on meds for NIDDM.
+HYPERTENSION Now on zestoretic 20/25 bid + atenolol 50 mg qd.  He has significant white coat component. BP is again 145/80 and is lower at home. Pulse is 70 but it again sped up when he was being examined.
+LOW BACK PAIN he had prolonged discogenic back pain in 1/2070 and could not get appt with NAMG orthopedic/back surgeon and went to Montreal Medical Center. He underwent L4/5 lamenictomy in 2/2070.
+He has persistent right-lower back pain and has seen Drs. Conley and Sheehan. A myleogram done on 8/5/71 showed degenerative disc disease with moderate spinal stenosis at L4/5. He continues to have chronic low back pain in the right hip and right anterior thigh. He exercises regularly and has not benefitted from prior epidural injection. Dr. Sheehan felt that pain may be from some instability vs scar tissue from prior surgery. Fusion surgery was discussed but Mr. Whitehead is not too keen on it.
+
+still has back pain but not ready for fusion surgery yet.
+
+Vital Signs Pulse:	 70 Regular Weight:	 189 Pounds Blood Pressure:	 145/80 Left Arm Chest clear Cor/Cardiac s1s2 s4 Abdomen soft and  nontender, no masses or organomegaly, normal bowel sounds Extremity no edema noted, pulses are 1+ Medications MVI (MULTIVITAMINS)	 1CAPSULE PO QD ASPIRIN (ACETYLSALICYLIC ACID)	 81MG PO QD FLOMAX (TAMSULOSIN)	 0.4MG PO QD LIPITOR (ATORVASTATIN)	 40MG PO QHS ZESTORETIC 20-25 (LISINOPRIL/HYDROCLOROTH...	 20/25 PO QD GLUCOPHAGE XR (METFORMIN XR)	 500MG 1 Tablet(s) PO QD Prilosec SA	 20MG PO QD ATENOLOL	 50MG 1 Tablet(s) PO QD MICRONASE (GLYBURIDE)	 5MG 1 Tablet(s) PO BID Prn:
+Zestoretic 20-25
+Lisinopril/Hydrochlorothiazide 20-25
+Lisinopril 40
+
+
+"""
+        assert_equal(expected_notes, self.note)
+
+
+    def test_create_with_custom_notes(self):
+        """Tests the custom notes field"""
+        self.note = """
+Record date: 2072-04-24
+
+Reason for Visit
+
+
+
+Disposition and Plans
+"""
+        self.note_id = self.note.get_id()
+        self.note.custom_notes = """
+
+Custom Notes:
+    [redacted]
+    and
+    [redacted]
+
+"""
+
+        self.note.save()
+        assert_equal([redacted], self.note.note_id)
+
+class MyText:
+        assert_equal([redacted]
+class Text:
+        assert_equal([redacted]
+        """
+
+        assert_equal([redacted]
+class Text:
+        assert_equal([redacted]
+class
+        Text: Text:
+        [redacted
+text:
+        Text: [redacted
+        Text:
+
+        Text:
+
+        Text:
+        Text:
+        of any numbered text
+        Text:
+Text
+
+Text and Text: and Text:
+        text that
+Text, and Text, and Text, etc. and/Text or Text
+
+Text: Text:Text: Text and
+text Text:
+Text Text, Text and
+Text and Text and Text: and
+and Text: Text: and Text Text and Text:
+Text: Text text and Text: text.
+text text text,
+Text text, or text:
+Text Text. 10 or Texts
+Text (
+Text and Text, 4, 3, 
+let text text: text, text.Text, the text, text text of text. This: 1 text:Text and text of 
+text of text text text and text.
+
+
+
+
+
+text text 9 text text... text text
+text, text and text with the following the text and the text. 9, text. (1
+
+and text the text.
+or the 
+or, and text...
+
+The...
+and text and text text. or text, name, and text or, as, but, and text...
+or or the and the
+
+
+... the text.
+are, text and are the...
+and the names and or or, the and, and... and date of the patient names, or the names...the names, the following.
+and. Please names, the...
+
+: your name:
+name, a few,
+... (1: and: and:
+“
+The...[…: the......[…11...
+... of the name...
+1...
+1 or:1 and...
+name the names: and, and: (let in the:
+1 and, the: the and, but...the and, and are: are the:...
+
+getable or (1 and:
+1 and and: 5, 0…, and 1... 1, the name…, the, and, orific, 4, and, and are (or, and, or, and, and, the or, and,
+ and (and (...and, and, the [1. 0 and, a, as are (... are or and (1, and,  and are the, and and in and are, and, [1, [[, the, and and the [[: and the [make (make,.... and-and. (
+1. [an 1:1....0… (
+ (
+1 are...0 are-con-and-con of 0 1 of the or or and, 3, the and, 1 and, 6 [le., the, the [the or. (and ( and. 1, 0 and, 2 or are, might are, (may, an and, and or [3 (1-and 11 and- and an, a 1 and-1 and [1 and,  and the... and 1 or, and and (1 in "1 [, an as an, an and-of 1, an (2 An, an, an, a, an, an of, an: C ( and of the of the, an, an, the and [1, 1, an, an: 1 (an or of, an -: 1 of : [1: An and: [0: 10 : an and: and:: and: the [: [: An An An:1, ( [1:: with a of an: an:  and in the ( or [ or ",  an  ( an  in  and (. an " [. of the  and- or, the and and [ ( in and an or and,... [, and (, or ( or, [ or ( and or or [ ( [ and, and  - [ and are or, " ( and " are or an and and and, an and, and,, an or are or  or of -1 (, or of  of  of the [ of  or  and ( or- and in or,,, and, and of " and of an of ( for [ for, and, " for and -1 and (- are  for of an or,  or, or for  or or,  or  and - or  or, and, of ( - of and of  but. (  and, and  of  and [ or  or and,  in  or  and, (- and or and- or  of  of a of,- [- or or ( and-  or or of the or or and or and in- and and ( and [ in and  [ and,, an and in,  of or of ( of- for for of  or - and and and for- and, (, of- or- of of an- of, of, of of  ( of, - of  and and - and  and and-and, and, 0, (, - and  and in,  and and (0 and of and in and in- for -. [  in.  (  and, in in, and [- " - and  or ( for but and [  for or [ ( and,- in or  and- and in, ( and of and ( for or of 1    and or  or  in- [.  and and, [ and and and and of: and   a and and- in-2- [ or ( ( (- in- and and and of  of- of  or of " in in but [  and  or and  and or [ - of, of  of- of  of and or of and, ( and  in,   and, [ and - - and of- of of ( of of of of- for for and and- for -  or and, or and and and and and, (  and in- [  [ and  and in    and- and in in and or, -  of- or and of and or of [ [ and and and or  and - and and and of (, ( and, and of of- of of and or   and or   and - or- B  and ( and ( and of- [,  and, and. and- and  and and in ( and [- and ( and- or  or  [ or and ( and C  and C for and for and  and or or for and in for, and, (-, -, and- m and   and,  and and and and and and for and for and, in and and, and and (, and,, and  [ ( ( and for in ( and, C B and and (  of ( a C  and (,1 1 B C- and [ C and in m ( and, C of, of, m, and,,, m [ M,-, and (. m. ( and and, of  and M- or  or or  and M (1 and- C- ( C and and- B and B of of C C and C- M and and, [ and,, (, or ( and and for or- ( C ( B C0- ( for for for B and and, and for for ( for. B and,, 0 - and or and ( m, and m  - and and, m M. M, ( _ and _ ( ( M, a and a m- (,  M (, and M/ and M- M m [ M M - a- and and,, C and, [ and, and,  and and  and and and ( [, and ( and and and, H C C and C1 and  C1 [1, and M (, ( and,.,  and and, and, and, C,/

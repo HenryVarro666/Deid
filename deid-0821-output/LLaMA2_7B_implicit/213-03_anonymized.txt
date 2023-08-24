@@ -1,0 +1,520 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2065-10-12
+
+                     GOH EMERGENCY DEPT VISIT
+
+ 
+
+WAGNER,LONNIE   097-87-37-2
+
+This patient was seen with the resident.  The past medical history, 
+
+social history, family history, review of systems, medications and 
+
+allergies were reviewed and confirmed.  I interviewed and examined 
+
+the patient myself.
+
+PRESENTING COMPLAINT:  This is a 72-year-old male who presents with 
+
+weakness. 
+
+REVIEW OF SYSTEMS:  His review of systems is essentially negative 
+
+other than some difficulty with ambulation secondary to weakness. 
+
+He has had no fever, chills, cough or dysuria.  No diarrhea.  No 
+
+blood per rectum.  He just complains of loss of strength globally.  
+
+No visual changes.  No headache.  No other complaints.
+
+PAST MEDICAL HISTORY:  He has a history of myelodysplastic 
+
+syndrome, history of CVA, diabetes, hypertension, 
+
+hypercholesterolemia, low EF, and CAD.  He had a history of anemia 
+
+with apparently an MI in the setting of the anemia.  
+
+MEDICATIONS:  He takes aspirin, metformin, lisinopril, Plavix, 
+
+Lasix, Colace, Nexium, hydroxyurea.
+
+ALLERGIES:  He has no allergies.
+
+SOCIAL HISTORY AND FAMILY HISTORY:  He is a former smoker.  He 
+
+lives with his family.  He has a family history of CAD. 
+
+PHYSICAL EXAMINATION:  VITAL SIGNS:  He is afebrile.  Heart rate 
+
+71, blood pressure 90/40, respiratory rate 16, oxygen saturation 
+
+99% on room air.  GENERAL:  He is awake, alert, oriented, in no 
+
+acute distress.  HEENT:  Normocephalic, atraumatic.  Pupils are 
+
+equal, round, and reactive to light.  Extraocular movements are 
+
+full.  Oropharynx is clear.  Mucous membranes are moist.  He is 
+
+slightly pale.  NECK:  Supple.  There is 7 cm JVP.  CHEST:  With 
+
+crackles at the left base, otherwise clear.  CARDIOVASCULAR: 
+
+Regular rate and rhythm with no murmur, rub or gallop.  ABDOMEN:  
+
+Soft and nontender.  SKIN:  Warm and dry.  EXTREMITIES:  Without 
+
+clubbing, cyanosis or edema.  NEUROLOGIC:  Alert and oriented.  
+
+Cranial nerves II-XII are intact.  There are no motor or sensory 
+
+deficits.  Gait is slightly unsteady.  No dysmetria.  No pronator 
+
+drift.  Reflexes are normal.
+
+LABORATORY EVALUATION:  His white count is 105.7, increased from 45 
+
+on the 12th of September and 50 on August 1.  His hematocrit is 21, 
+
+which is decreased from 26.6 on August 1 and 24 on 9/12.  BUN is 45 
+
+and creatinine is 2.3, up from 31 and 1.1.  CK is 16, troponin is 
+
+0.02, and INR is 1.3.  Electrocardiogram is normal sinus rhythm 
+
+without any change from previous EKG.  Chest x-ray is unremarkable 
+
+for infiltrate or effusion.  
+
+FINAL DIAGNOSIS:  Symptomatic worsening of myelodysplastic syndrome 
+
+on hydroxyurea. 
+
+DISPOSITION (including condition upon discharge):  He is admitted 
+
+for possible transfusion and Hematology/Oncology consultation.  He 
+
+is stable at the time of his admission.
+
+___________________________________                    GF977/84271 
+
+LARRY INOUE, M.D.  LI12                            D:10/12/65 
+
+                                                       T:10/13/65 
+
+Dictated by:  LARRY INOUE, M.D.  LI12 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+*/
+
+
+
+
+
+
+
+
+
+#include "../include/my_header.h"
+#include "../include/my_config.h"
+#include "../include/my_decimal.h"
+#include "../include/my_dir.h"
+#include "../include/my_file.h"
+#include "../include/my_global.h"
+#include "../include/my_misc.h"
+#include "../include/my_proc_lib.h"
+#include "../include/my_regex.h"
+#include "../include/my_string.h"
+#include "../include/my_types.h"
+#include "../include/my_variables.h"
+#include "../include/my_xio.h"
+#include "../include/my_xio_file.h"
+#include "../include/mysql/compress.h"
+#include "../include/mysql/compress_file.h"
+#include "../include/mysql/compress_file_io.h"
+#include "../include/mysql/compress_file_util.h"
+#include "../include/mysql/compress_types.h"
+#include "../include/mysql/io/file_io.h"
+#include "../include/mysql/my_atomic.h"
+#include "file_io.h"
+
+#if defined(__WIN__) || defined(_WIN32) || defined(WIN32)
+#include <direct.h>
+#endif /* WIN32 */
+
+
+
+#define MAX_PATH	256
+
+
+
+static myf(int, my_err(const char *,...)) _my_file_error(const char *msg,...);
+
+
+
+#ifndef WINDOWS_NT
+
+/* The my_open_mode values are not really defined in my_global.h.
+*/
+
+static const char * const my_file_access[] = {
+    "READ",
+    "READ",
+    "READ",
+    "READ",
+    "WRITE",
+    "WRITE",
+    "WRITE",
+    "WRITE",
+    "WRITE",
+    "READ",
+    "READ"
+};
+
+
+static const int my_file_access_len = sizeof my_file_access / sizeof my_file_access[0];
+
+
+
+
+const char *my_mode2string(int mode)
+{
+  return (mode & 0x100)? (mode & 0x200)?
+     "RDWR" : "WRONLY" :
+    (mode & 0x200)? "RDONLY" : (mode & 0x40)? "RDONLY" : "RDONLY";
+}
+
+
+
+/*
+  This is a very ugly hack.
+*/
+
+static myf_r(int, my_fclose, FILE*)
+{
+  if (file!= NULL)
+  {
+    my_fclose(file, 1);
+    file = NULL;
+  }
+  return 0;
+}
+
+
+
+/*
+  This is a very ugly hack for the windows platform
+*/
+
+static myf(int, my_fopen, const char *, char *, int)
+{
+  char *name = NULL;
+  int  mode;
+
+  if (file!= NULL)
+    my_fclose(file, 0);
+
+  mode = fopen_mode(my_global.read_only, &mode);
+
+  if (name == NULL)
+  {
+    name = (char *)my_malloc(strlen(file) + 1, MYF(MY_WME));
+    if (name == NULL)
+      goto end;
+  }
+
+  name = strdup(file);
+  if (name == NULL)
+    goto end;
+
+  name[strlen(file)] = 0;
+
+  file = fopen(name, fopen_mode(mode, NULL));
+  my_free(name);
+
+  name = NULL;
+
+end:
+  my_free(name);
+
+  return 0;
+}
+
+
+
+static myf(int, my_open_mode, const char *, int, int)
+{
+  int  mode = 0;
+
+  if (my_mode2string(mode)!= my_access_mode())
+    my_error("%s:%d: wrong access mode: %s expected %s",
+              __FILE__, __LINE__, my_mode2string(mode),
+              my_access_mode());
+
+  if (!(mode & 0x200) &&!(mode & 0x100))
+  {
+    my_error("%s:%d: invalid mode: %s", __FILE__, __LINE__, mode2string(mode));
+    return -1;
+  }
+
+  return mode;
+} // my_open_mode
+
+
+
+static my_off_t my_open_file(const char *path, int mode)
+{
+  int error;
+
+  my_errno = 0;
+
+#if defined(_WIN32) || defined(WIN32)
+  /* Open the file using the Win32 fopen() function. */
+  error = fopen_s(&file, path, mode);
+
+  if (error!= 0)
+  {
+    /* The Win32 error code can be found in error.  */
+    my_errno = error;
+    my_error("%s:%d: %s", __FILE__, __LINE__, path);
+    goto err;
+  }
+
+#else /*!WINDOWS_NT */
+
+  /* Open the file with the Unix "open" function.  */
+  file = fopen(path, mode);
+
+  if (file == NULL && errno == ENOENT)
+  {
+    /* The Unix error code can be found in errno.  */
+    my_errno = errno;
+    my_error("%s:%d: %s", __FILE__, __LINE__, path);
+    goto err;
+  }
+
+
+#endif /*!WINDOWS_NT */
+
+  my_errno = 0;
+
+  return 0;
+
+
+err:
+  my_fclose(file, 1);
+  file = NULL;
+  return 0;
+}
+
+
+
+static my_off_t my_stat(const char *path, myf_r(struct stat*, int,
+                                                   const char *))
+{
+  int  error;
+
+  if (my_path[0] == '\0')
+    return -1;
+
+  errno = 0;
+  file = NULL;
+  error = stat_file();
+
+  if (error == 0)
+  {
+    if (my_errno == 0)
+      return my_stat_file();
+    else
+      my_error("%s:%d: %s", __FILE__, __LINE__, path);
+  }
+
+#ifdef HAVE_STATFS
+  if (my_mode == MODE_XFS)
+    return fstatfs_file();
+#endif
+  else
+    return file_stat_file();
+
+  return -1;
+} // my_stat
+
+
+
+static my_errno_t my_errno_file(void)
+{
+#if defined(__WIN__) || defined(_WIN32) || defined(WIN32)
+
+  return _my_errno;
+
+#else
+  return errno;
+#endif
+}
+
+
+
+
+static my_off_t my_seek(myf_r(int, my_lseek, int, int, int),
+                         const char *, myf_r(long *, int))
+{
+  long error, result = result;
+
+  error = lseek_file();
+
+  if (error == 0)
+    return my_lseek_file(result, error);
+
+  my_errno_file();
+
+  return -1;
+} // my_lseek
+
+
+
+
+static void my_unlink(const char *path)
+{
+#ifndef WINDOWS_NT
+  if (errno == EACCES)
+    my_error("%s:%d: %s", __FILE__, __LINE__, path);
+#endif
+} // my_unlink
+
+
+
+static const char *my_path_separator = ":";
+
+
+
+static my_off_t my_path_append(char *path, const char *append)
+{
+  int len;
+  int error;
+
+  if (append == NULL || append[0] == '\0')
+    return -1;
+
+
+#ifdef _WIN32
+
+#ifdef UNICODE
+//  error = GetFullPathNameW(NULL, 0, path, 0);
+
+  len = wcslen(path);
+  len++;
+  if (append[len - 1]!= 0)
+    return -1;
+
+  error = GetFullPathNameW(path, len, append, 0);
+  if (error == 0)
+    return len;
+
+//  error = error!= 0? GetLastError() : ERROR_SUCCESS;
+
+#else
+
+//  error = GetFullPathNameA(NULL, 0, path, 0);
+
+  len = strlen(path);
+  len++;
+  if (append[len - 1]!= 0)
+    return -1;
+
+  error = GetFullPathNameA(path, len, append, 0);
+  if (error == 0)
+    return len;
+
+//  error = error!= 0? GetLastError() : ERROR_SUCCESS;
+
+#endif // UNICODE
+
+#else
+
+  /* The error code can be found in error */
+  len = strnlen(path, PATH_LENGTH);
+  len++;
+  if (append[len - 1]!= 0)
+    return -1;
+
+  error = append_path(path, append);
+  if (error == 0)
+    return len;
+
+#endif // _WIN32
+
+  my_errno_file();
+  return -1;
+} // my_path_append
+
+
+#else /* UNIX */
+
+
+
+static const char *my_path_separator = "/";
+
+
+
+/*
+  This is a very ugly hack.
+*/
+
+static myf(struct dirent **, my_readdir, int, int, int, int)
+{
+  int  error;
+  char  path[PATH_LENGTH + 1];
+  struct dirent *entry;
+
+  if (dir!= NULL)
+    my_fclose(dir, 1);
+
+  dir = (struct dirent *)my_malloc(PATH_LENGTH + 1, MYF(MY_WME));
+  if (dir == NULL)
+    return NULL;
+
+  if((error = my_open(dirname, O_RDONLY|O_NONBLOCK|O_DIRECTORY)) < 0)
+  {
+    my_error("%s:%d: %s", __FILE__, __LINE__, dirname);
+    return NULL;
+  }
+  my_errno = 0;
+
+  entry = NULL;
+  while((entry = my_readdir(dir) >= 0))
+  {
+    int error;
+    int len;
+
+    strncpy(path, dirname, sizeof(path) - 2);
+    len = strlen(path);
+
+    /* We have to remove the separator from the end of the
+    ** dirname. */
+    memmove(path, path + 1, len - 1);
+    len--;
+
+    len++;
+
+    /* If we're at the end of the file, then append the separator
+    ** to the end of the path. */
+    if(len >= PATH_LENGTH)
+      len--;
+    else
+      error = my_path_append(path, my_path_separator);
+
+    if (error == 0)
+    {
+      /*
+        We have a path which is a directory and is

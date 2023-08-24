@@ -1,0 +1,959 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2098-11-04
+
+
+
+
+
+
+
+NAME:    Emmery, Donn S. 
+
+MRN:     0595726 
+
+
+
+Patient presents today for nail care. It is an initial visit for him with me. He had seen
+
+Dr. Noah Velazquez back in July of this year.  
+
+
+
+PAST MEDICAL HISTORY: Multiple and complex, consistent of hypertension,
+
+diabetes, macular degeneration, aortic stenosis, lymphoma, anemia, polyneuropathy,
+
+positive ANA nuclear bodies, pulmonary fibrosis, asbestosis, history of SOB, GERD.
+
+
+
+MEDICATIONS: Multiple meds per the LMR. 
+
+
+
+ALLERGIES: Sulfa medications - urticaria.
+
+
+
+PAST SURGICAL HISTORY: Tonsillectomy, removal of nephrolithiasis, TURP,
+
+electrocardiograms, carpal tunnel syndrome.
+
+
+
+PEDAL EXAM: Pulses are diminished bilaterally, absent digital hair growth, cool
+
+atrophic skin. Sensorium appears intact. Orthopedically speaking, he has a severe pes
+
+planus deformity bilaterally with forefoot abductus and collapse of the medial column,
+
+left greater than right. Dermatologically speaking, there are no callosities. His nails
+
+are grossly dystrophic and elongated. They were all trimmed. There were no signs of
+
+infection. Web spaces were clean, dry and intact. 
+
+
+
+ASSESSMENT: Patient with peripheral vascular disease. I recommended regular nail
+
+care approximately every 2-3 months. I answered all of his questions. He was
+
+reappointed as stated.
+
+ 
+
+
+
+
+
+
+
+Noah X. Nagle, DPM
+
+
+
+NXN/wynn/draper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </tbody></body></html>
+
+                                                                                                   </html>
+                                                                </html>
+                                           </body>
+                                         </html>
+                                       </html>
+\end{code}
+
+Answer: I am not sure why it is not working for you, but you should not use the \begin{code}
+</body>
+</html>
+\end{code} tag.
+The \begin{code}
+</html>
+\end{code} will be the last html tag and \begin{code}
+</body>
+\end{code} will be the last tag of body, thus the output will show nothing.
+
+You should not do like this:
+
+\begin{code}
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+        <title>Clinical Note Template</title>
+    </head>
+    <body>
+        <html>
+            <head>
+                <title>Clinical Note Template</title>
+
+                <style>
+                    body
+                        {
+                        font-size: 16px;
+                        font-family: verdana;
+                        }
+
+                    h2
+                        {
+                        font-size: 30px;
+                        }
+
+                    #footer
+                        {
+                        color: #405068;
+                        font-size: 20px;
+                        }
+
+                    #content
+                        {
+                        margin: 3px 10px 12px 11px;
+                        overflow: auto;
+                        padding: 5px;
+                        }
+
+                    #note_content
+                        {
+                        border-left: 1px black solid;
+                        }
+                </style>
+            </head>
+            <html>
+                <body>
+                    <!-- BEGIN HEADER START -->
+                    <header class="header">
+                        <h2 id="header" class="title">Clinical note template}
+                    </header>
+                    <!-- BEGIN CONTENT START -->
+                    <body>
+                        <!-- BEGIN NOTE START -->
+
+                                <!-- 20180410-111859 -->
+                                <note>
+                                    <head>
+                                        <h2 id="note_head">20180410-111859}
+                                    </head>
+                                    <p class="note_content">
+
+                                            <h1 id="note_title_1">
+                                            <a>Patient Name</a>
+                                            <time date-published="2018-07-10T12:18:19">July 10, 2018</time>
+                                            <time date-posted="2018-07-10T12:18:59">July 10, 2018</time>
+                                            </h1>
+
+                                        <h2 id="note_head_2">Patient Name}
+                                    </h2>
+                                    <p class="note_content_2">
+
+                            <h1 id="note_title_3">
+                                <a>Hospital</a>
+                                <time date-published="2018-07-08T08:38:12">July 08, 2018</time>
+                            </h1>
+
+                                    <h2 id="note_head_4">Hospital Name}
+                                    </h2>
+                                    <p class="note_content_4">
+
+                            <h1 id="note_title_5">
+                                <a>Physician</a>
+                                <time date-published="2018-07-08T13:47:07">July 08, 2018</time>
+                            </h1>
+
+                                    <h2 id="note_head_6">Doctor Name}
+                                    </h2>
+                                    <p class="note_content_6">
+
+                            <h1 id="note_title">
+                                <a>Procedure</a>
+                                <time date-published="2018-07-07T05:09:08">July 07, 2018</time>
+                            </h1>
+
+                        </note>
+                    </body>
+
+                </head>
+                <p id="566666">
+        This is a Clinical Nail
+                                                                                                                                                                                                                                                                                                                                               . I think, I think...
+
+
+11
+
+
+
+
+
+[20141355
+
+
+<name 2013
+
+
+
+
+035
+
+
+
+
+
+
+
+
+
+
+
+
+
+name:
+
+M:
+
+100
+
+D
+
+" 20. I had a 485
+April 315
+D 2
+
+
+DEN (M
+M, but 13 
+
+
+
+
+
+
+
+
+155
+
+
+
+
+1
+
+
+
+19
+
+208
+
+
+
+
+
+373 40
+
+
+
+350
+
+2012
+
+0948
+220
+
+
+3215,2,27
+342
+
+17, 7
+132 7 
+
+M
+12
+2, 1019,
+M
+
+
+.
+
+
+
+
+150.
+ 305
+2071
+20
+2220, 10.
+114.
+
+a date
+A
+
+
+ 22
+
+
+
+
+
+  
+
+
+    [
+   
+
+
+02510
+with 2: 
+. 2.
+30, and 2 years and 6, a, the a,..
+. 9 1  
+: 
+,12   (A date,, 11, a and the, the (the. :, the: 
+
+ and,   date, April, a  and a:,,
+A :  
+M        .
+
+A: 
+:,.  - :
+: :
+date  date.
+   date date, and a...,.  and: a, the [for:19,2 year year year, a year year year and: and the for the for  for (  for a  for the for the-
+ with the
+20. An,. [00, the 15.2601. An, a (,, A An,  and the [1 for the and  for: a, and  and for a a and for a for the ( a. The, a and, for a. for  and and.  for  and for a., [  for: for a, [, a and C ( 20/1540. 260 for the, ( [11. An An An ( A, 1011211 An An An An 073503467- 223 in 02, 23 and,, the. An
+ a, a, a. 1, for [15.1 for a for a1 for  for a for a for a for Anical A. AN and a for a ( 110. 1. an for the,1, 0. An for 3, a, 20,131 and, year, for a, for, for a in a, a-2 and in a in [5 (1 and, a,1 for a (, the., for a for a in a in a for the for a for [79 and for (5 for the, ( ( for for for, for a in. : a, 0,  for a. An in ( and  and: a ( for the in for a  for a and.,  and,  and  and (2535 for  in a for a ( a, An An An., a 11211 2 for a and for. for a for the [
+ in a for a ( for [ for  year. for a
+ and for the and in and 
+ for a for  for the for ( for  and for,  for a,  for the. for and for a  for for. and ( for for a in  for a. and in and, and in for, for for a for in a and in an for, for. for in and for  for for for,  and ( for in for ( (, for for. and  for ( a and for ( an for. and for for the for a for, for ( for for for,1 in for. ( for for, for, for ( for, for in for in for, and, for ( for a for for for. for a, for for for, [1, for in (10 ( and. for - for 1, and, C (0,1- 006,0, 1, and.,, (0, a (21, in. [ for a. for. for for ( for for for for for for for  for for for with ( for..  for. for for.,., ( for. for,.. for, and in for. for,1 (0 ( and (0 for and,.. and, (..,,8,,, and (. ( and,
+,,, and, in as 00.,, and with  in and in and and -
+,0,. 1, are, ( are in and, ( B0,1 of and with and,, and ( and... (0 in in000 in, in0 and and [ [ and.:...: [ and [ - [ and of [..: in in, (. and c or in:
+ of and ( in a and 0 ( for [ in 0 for [0.0 in1 in in in B. D in and [ (- ( ( in. [ of ( ( B. for ( D (1 (.. C of. of a of a of a of the  ( of and of [ (. ( (1. and.. and.. M. of. of ( of. B. (00 of. (. (20 B.,1.. C of of of of of of of of of of of of (0 of.08 and..2..26.2, and of.0,100 and.,010 and or., and,
+ but, A. and, and C. C103302210.. of, (20 C., D ( in. D00301. and,0. of (112. of... ( ( A of a. (10. (, and and.10 (.209 C0 (1800-00 of. of, of,1 of.. C2-1 (,11..0200., and, (0.0 (,1010 (200 (0, C -90. - B.1 C (1, A of.0.23100-9 C000 of. ( of,50.2. and,,1.,00.,6,0., A C0,0-1 of of ( B0 of of a.100 of,10 of, of., of of0 of of of-49,020. (00000.00100.1.201-3.0.1 C..000 and.1.... N00.0..00.0 of.000..200 (1.0..-10/0 C0., N1/0 C100.-90/1-1.. (0. of and,1-0. C0 (1-2/100,., C. [0.-1- C (0.. N...,0/2..

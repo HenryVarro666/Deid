@@ -1,0 +1,620 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2089-08-24
+
+
+
+
+
+NAME:     Curtis, Om
+
+MRN:      7682941
+
+
+
+He is feeling quite fine today.  He has no specific problems to being to my
+
+attention.  He says that he is having no problems with chest pains whatsoever and
+
+that includes with exertion.  His breathing has been fine as well.  No shortness of
+
+breath.  Otherwise he denies any abdominal pains, joint pains, bowel or bladder
+
+difficulties.  The remainder of the review of systems is negative in detail.  
+
+
+
+PHYSICAL EXAM:  On exam, he looks well.  Skin is clear.  HEENT - PERRLA. 
+
+EOMI.  TMs and throat clear.  Neck supple.  No thyromegaly.  No
+
+lymphadenopathy.  Lungs are clear.  Heart is regular rate and rhythm.  No
+
+murmurs, gallops or rubs.  Abdomen is soft and nontender.  No masses.  No HSM. 
+
+Extremities with no edema.  Neurologically fully intact.
+
+
+
+ASSESSMENT AND PLAN:  
+
+
+
+(1)  Angina/hypertension/hyperlipidemia.  He is doing quite well and very stable. 
+
+     Since his cholesterol was in such great shape just a few months ago, no need
+
+     to recheck here today. 
+
+
+
+(2)  Bladder stone.  He had this dealt with by Dr. Gomes of Urology.
+
+
+
+(3)  Diabetes mellitus.  Very stable.  Check glycosylated hemoglobin.  He is up to
+
+     date on his eye exams.  Follow-up with me in three months.
+
+
+
+William V. Geiger, M.D.
+
+
+
+WVG/xin/quilici
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+    \begin{center}
+    <hr size =11 width =400 />
+    <table width ="100%" align="Left" valign="Middle"> 
+      <tr>
+        <td align="Center"> \textbf{Patient Name: }
+          </td>
+        </tr>
+    </table>
+    <table width="100%" border="0" align="Left">    <tr>    \textbf{}    </td> 
+      </tr> 
+    </table> 
+   </body>
+
+   </html>
+
+   <?php
+     $content = file_get_contents("file.html");
+     echo $content;
+  ?>
+\end{code}
+
+Comment: I don't understand why someone downvote this question?
+
+Answer: The problem here is, you can't send HTML email through `mail()`. You have to convert the HTML to plain text or use a library like [Swiftmailer](http://swiftmailer.org/).
+
+See the [PHP manual page](http://www.php.net/manual/en/function.mail.php).
+
+Comment: The link is for `mail()`
+
+Comment: Thanks, i am using swiftmailer for send mail.
+
+Comment: i am sending mail from codeigniter framework. and i need to show the html content.
+
+Answer: You can try this:
+
+\begin{code}
+function mail_send($to,$subject,$body){
+    $headers = "MIME-Version: 1.0\r\n";
+    //$headers.= "Content-type: text/html; charset=iso-8859-1\r\n";
+    $headers.= "From: yourname@yourdomain.com\r\n";
+    $headers.= "Reply-to: yourname@yourdomain.com\r\n";
+    $headers.= "Return-path: yourname@yourdomain.com\r\n";
+    mail($to,$subject,$body,$headers);
+}
+\end{code}
+
+Comment: i am already using your code. but its not working and mail not send to the receiver.
+
+Comment: i am using codeigniter framework. its not sending the mail. i already used your code and tried but nothing.
+
+Comment: You need to change the $headers variable. I have edited the answer. Let me know if its working for you.
+
+Comment: Thanks. i am using swiftmailer for send mail.
+
+Comment: You may be using swiftmailer for sending, But you are doing it wrong. Swiftmailer will not allow you to send an html email. See my answer for more details.
+
+Answer: I am using this code for send mail:
+
+\begin{code}
+function mail_send($to,$subject,$body){
+$headers = "MIME-Version: 1.0\r\n";
+//$headers.= "Content-type: text/html; charset=iso-8859-1\r\n";
+$headers.= "From: yourname@yourdomain.com\r\n";
+//$headers.= "Reply-to: yourname@yourdomain.com\r\n";
+$headers.= "Return-path: yourname@yourdomain.com\r\n";
+mail($to,$subject,$body,$headers);
+}
+\end{code}
+
+Answer: If your using a framework like Codeigniter you can use the following:
+
+\begin{code}
+$this->load->helper('text');
+$this->load->library('mail');
+$this->set_mail_from();
+$this->load->library('swiftmailer');
+
+$this->load->database();
+$this->load->helper('form');
+$this->load->helper('url');
+$this->load->helper('date');
+
+if($this->input->post('submit')){
+$message = array('from' => $this->settings->get('email'),'to' => '','subject' => 'Your email Subject');
+$body = array('name' => 'firstname.lastname','phone' => '0987654321','email' => 'email@example.com','message' => 'Your email Message',
+'time' => date('Y/n/j h:i:s A'));
+
+$this->load->library('captcha');
+$data = array();
+$captcha_response = $this->captcha->generate();
+if ($captcha_response === false) return false;
+$this->captcha->create($captcha_response, $this->config('captcha_img'), 'image/jpeg');
+$data_captcha = $this->captcha->get_data($captcha_response);
+
+$this->mail->from($this->config('from_email'));
+$this->mail->to($this->input->post('to'));
+$this->mail->subject($message['subject']);
+$this->mail->message($message['from'], $message['to'], $message['subject'], $message, $message['time'], $data_captcha);
+
+$this->mail->send();
+\end{code}
+
+Answer: i am using this code for sending mail.

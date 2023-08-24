@@ -1,0 +1,848 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2065-10-12
+
+                     GOH EMERGENCY DEPT VISIT
+
+ 
+
+WAGNER,LONNIE   097-87-37-2
+
+This patient was seen with the resident.  The past medical history, 
+
+social history, family history, review of systems, medications and 
+
+allergies were reviewed and confirmed.  I interviewed and examined 
+
+the patient myself.
+
+PRESENTING COMPLAINT:  This is a 72-year-old male who presents with 
+
+weakness. 
+
+REVIEW OF SYSTEMS:  His review of systems is essentially negative 
+
+other than some difficulty with ambulation secondary to weakness. 
+
+He has had no fever, chills, cough or dysuria.  No diarrhea.  No 
+
+blood per rectum.  He just complains of loss of strength globally.  
+
+No visual changes.  No headache.  No other complaints.
+
+PAST MEDICAL HISTORY:  He has a history of myelodysplastic 
+
+syndrome, history of CVA, diabetes, hypertension, 
+
+hypercholesterolemia, low EF, and CAD.  He had a history of anemia 
+
+with apparently an MI in the setting of the anemia.  
+
+MEDICATIONS:  He takes aspirin, metformin, lisinopril, Plavix, 
+
+Lasix, Colace, Nexium, hydroxyurea.
+
+ALLERGIES:  He has no allergies.
+
+SOCIAL HISTORY AND FAMILY HISTORY:  He is a former smoker.  He 
+
+lives with his family.  He has a family history of CAD. 
+
+PHYSICAL EXAMINATION:  VITAL SIGNS:  He is afebrile.  Heart rate 
+
+71, blood pressure 90/40, respiratory rate 16, oxygen saturation 
+
+99% on room air.  GENERAL:  He is awake, alert, oriented, in no 
+
+acute distress.  HEENT:  Normocephalic, atraumatic.  Pupils are 
+
+equal, round, and reactive to light.  Extraocular movements are 
+
+full.  Oropharynx is clear.  Mucous membranes are moist.  He is 
+
+slightly pale.  NECK:  Supple.  There is 7 cm JVP.  CHEST:  With 
+
+crackles at the left base, otherwise clear.  CARDIOVASCULAR: 
+
+Regular rate and rhythm with no murmur, rub or gallop.  ABDOMEN:  
+
+Soft and nontender.  SKIN:  Warm and dry.  EXTREMITIES:  Without 
+
+clubbing, cyanosis or edema.  NEUROLOGIC:  Alert and oriented.  
+
+Cranial nerves II-XII are intact.  There are no motor or sensory 
+
+deficits.  Gait is slightly unsteady.  No dysmetria.  No pronator 
+
+drift.  Reflexes are normal.
+
+LABORATORY EVALUATION:  His white count is 105.7, increased from 45 
+
+on the 12th of September and 50 on August 1.  His hematocrit is 21, 
+
+which is decreased from 26.6 on August 1 and 24 on 9/12.  BUN is 45 
+
+and creatinine is 2.3, up from 31 and 1.1.  CK is 16, troponin is 
+
+0.02, and INR is 1.3.  Electrocardiogram is normal sinus rhythm 
+
+without any change from previous EKG.  Chest x-ray is unremarkable 
+
+for infiltrate or effusion.  
+
+FINAL DIAGNOSIS:  Symptomatic worsening of myelodysplastic syndrome 
+
+on hydroxyurea. 
+
+DISPOSITION (including condition upon discharge):  He is admitted 
+
+for possible transfusion and Hematology/Oncology consultation.  He 
+
+is stable at the time of his admission.
+
+___________________________________                    GF977/84271 
+
+LARRY INOUE, M.D.  LI12                            D:10/12/65 
+
+                                                       T:10/13/65 
+
+Dictated by:  LARRY INOUE, M.D.  LI12 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+                               /24
+
+24:42:04,168 INFO  [org.springframework.web.servlet.DispatcherServlet] (default task-1) Servlet.service() for servlet DispatcherServlet threw exception: org.springframework.web.servlet.DispatcherServlet$NoSuchRequestHandlingMethodException: No handler method configured for path: /WEB-INF/jsp/record.jsp
+    at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:410) [spring-webmvc-3.1.2.RELEASE.jar:3.1.2.RELEASE]
+    at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:936) [spring-webmvc-3.1.2.RELEASE.jar:3.1.2.RELEASE]
+    at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:827) [spring-webmvc-3.1.2.RELEASE.jar:3.1.2.RELEASE]
+    at javax.servlet.http.HttpServlet.service(HttpServlet.java:617) [servlet-api-2.5.jar:na]
+    at javax.servlet.http.HttpServlet.service(HttpServlet.java:717) [servlet-api-2.5.jar:na]
+    at com.google.apphosting.utils.threadpool.ExpandablePoolExecutorService$PoolExecutorThread.run(ExpandablePoolExecutorService.java:408) [appengine-runtime-1.8.6.jar:1.8.6]
+    Caused by: org.springframework.web.servlet.DispatcherServlet$NoSuchRequestHandlingMethodException: No handler method configured for path: /WEB-INF/jsp/record.jsp
+    at org.springframework.web.servlet.DispatcherServlet.getHandlerInternal(DispatcherServlet.java:850) [spring-webmvc-3.1.2.RELEASE.jar:3.1.2.RELEASE]
+    at org.springframework.web.servlet.DispatcherServlet.getHandlerInternal(DispatcherServlet.java:809) [spring-webmvc-3.1.2.RELEASE.jar:3.1.2.RELEASE]
+    at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:774) [spring-webmvc-3.1.2.RELEASE.jar:3.1.2.RELEASE]
+    at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:717) [spring-webmvc-3.1.2.RELEASE.jar:3.1.2.RELEASE]
+    at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:936) [spring-webmvc-3.1.2.RELEASE.jar:3.1.2.RELEASE]
+   ... 5 common frames omitted
+**********************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GO:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+1212, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+  
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+ 
+
+
+
+and was
+
+
+and 
+
+
+  and 411
+
+The
+
+The patient
+
+
+
+The following
+
+
+
+
+
+
+1
+
+
+
+18 0 and 1 and  and the patient, and  were 11. 
+
+
+11
+11 date, 9.  and 2, 2
+1. 1  and date.
+
+and:
+1 year: 65 year and a month 2097 10
+The 9
+
+
+ MA: MUR (A
+ 9411 19:MA: MA (CRO, CRA:   :
+
+200925, and a 8:
+197,1, a date and the, and a...and date, aime, a year: 1, and the: a and patient medical and the patient (the clin and the patient...the patient and... 
+RO DI
+MA and MICE
+0 and patient and a 37 and, 09 and [de: a [ARO DI and  and the [[  and and and, and the,  and 16 and,19 and (and and, were are are and, the and 321-le and a and patient and 59 01.0.2.109 patient. 68.199928-2009-4 Anient A M WI W WI WIC WRA WRA, 19,3 WIS WIS RO W WIR RE W RO W W W W W WRE W W WRI Wococ WRE WIC and record and, WEM and a, and, and (and of and and, 0, and, an, w, and. The. and and W W W. and, the. patient and A an. Anni in the patient. 1. WIG RE AN W W W W W. an, old-w,  and W. An W W W W W. W. W W W W W W W W and a patient in the and the [an 1 and a with a.  with the and a. C W. 0 and 9, 20, 3 or (with and, and and: W W: a W and an and: a and our [30 a- an M1 -  M ( A MA. An W MA RO:
+. An:. An W1 W W1,  W W W W W MA W W AN IN AN AN RE: C. An and an and: an, a-  an  [  [ a  [1 and [1:  [ and an.  the and in a,  and the and [ and and. An W with [ and, and and and, the and  and, an w. an ( and. with and with with an WEN and W IR with and and W an and and and and..  for. A. [. W1 W1 W01 W and [0 with [0.10 in0 and and with and-c-0 W W W W W W and on-W W and with a Wine, of and.. and and Wients (. W and W.. and and and and and. and- -1 and the ( the [ and-Wine with a- Wight and and a ( a ( w and. [ of an with [ of a or and,-W.-W, and-W, and [ and C. and the and and and ( and and and, and and an and-C a-RE W- and- and wine-0- and and and ( and,, [1 W-W with-W with. W W. and W. and,. and, or [. with with the with the and-1-R in and in. w with with an. and and W of. of a and and with the- and-c and-W. W with w and. W W. and, with the with the with the- the W W1-1. and the. 1-1 C C. the- C. W1-1-1-W and -1-W with W and-W and and W Wine -.,.  Wine of the-W and-W and-  and and W.-0- and the W C-1 (- the- W (-B - -1 W-W- W W W W W. ( W1-1 W W1. W W W W W W W W W W W W W-W, w W. W with the c and  as - W ( and  and-1 and - W and w,  and (. 0 and.... and (. [. and and  in or and and with.- and and and and, and. ( and. and ( and..-[- and. (- N ( W.- H0. V H [ C.  with H. [..1, (0, and and and-2 and H2 and.. [1 as and and and and  and [ as and to and to w. W1- and and and ( and and with the to  ( 0 ( 2 2 and C and C.0. and the..1  or (2 ( 11 or. and..	. [.- [. and-.. or... (-...  ( [  (.. and-. (. [ C- . [1 (  C... 2 [. 	 [   W (  [-  [ with [[ ( and [. of  [  with. and and   and  and.. on  on. ( 2-1 on and.,.  and,- and. C-  and  and, ( and m, ( [ [ [ ( [ and w -2.-4 to. to (.-1  a- - ( ( -1 (  and  and- [- [-- -  an and - (- on and-  C (  (. ( ( and and ( and (.-1-  a and - and and [-, and the with the or. [ and or and or..  w. w. [.   A- [[ and [ al [. and [.  ( and to ( and and ( - [[ and (. and-4. [00 and-1 (1 [,. to- and and and.  and [ a and an [ an an [ [ [ to [ ( [ [ on [ [0 ( and and [  and [  and to to to or1233 [ to- and ( and [-0-

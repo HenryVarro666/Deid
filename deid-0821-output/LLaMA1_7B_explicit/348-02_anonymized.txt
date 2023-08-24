@@ -1,0 +1,238 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2068-06-01
+
+
+
+Chief Complaint
+
+1.  She increased the lisinopril to 20mg.  she is tolerating it well.  No dizziness, no side effects.  BP at home is excellent.  
+
+2.  She is interested in starting an antioxidant, her friend used it and felt better. 
+
+3.  Skin lesions:  left side of the face, left forearm.
+
+
+
+Problems
+
+      Hypertension
+
+      Insomnia
+
+      H/O cerebrovascular accident
+
+      borderline aodm
+
+      Basal cell carcinoma
+
+
+
+Medications
+
+      Vioxx (ROFECOXIB)    25MG TABLET take 1 Tablet(s) PO QD 
+
+      Lotrisone Cream (BETAMETHASONE And Clotri...    APPLY CREAM TOP BID 
+
+      Asa (ACETYLSALICYLIC Acid)    325MG TABLET take 1 Tablet(s) PO QD 
+
+      Allegra (FEXOFENADINE Hcl)    60MG CAPSULE take 1 Tablet(s) PO BID PRN  
+
+      Lipitor (ATORVASTATIN)    10MG TABLET take 1 Tablet(s) PO QD 
+
+      ATENOLOL   100MG TABLET take 1 Tablet(s) PO BID , take 1/2 in morning and 1 in evening
+
+      Flonase (FLUTICASONE Nasal Spray)    1-2 SPRAY NAS QD 
+
+      Prilosec (OMEPRAZOLE)    20MG CAPSULE CR take 1 Capsule(s) PO QHS 
+
+      Dyazide  (TRIAMTERENE 37.5 Mg/hctz 25 Mg)    1 CAPSULE PO QD 
+
+      Albuterol Inhaler    2 PUFF INH Q4-6H PRN .cough , use with chamber
+
+      Singulair (MONTELUKAST)    10MG TABLET take 1 Tablet(s) PO QHS 
+
+      Plavix (CLOPIDOGREL)    75 MG PO QD 
+
+      Pulmicort (BUDESONIDE Oral Inhaler)    4 PUFF INH BID 
+
+      Robitussin Ac (GUAIFENESIN Ac)    5 ML TO 10 ML PO Q4H PRN .cough , UL5104263
+
+      Celexa (CITALOPRAM)    20MG TABLET take 1 Tablet(s) PO QD 
+
+      LISINOPRIL   20MG TABLET take 1 PO QD 
+
+
+
+Allergies
+
+      Sulfa    - Unknown
+
+      Penicillins    - Unknown
+
+
+
+Social History
+
+       Married.  Her husband has Alzheimer's.  He has gotten a little more 'mellow'
+
+non-smoker.  
+
+Six children and six grandchildren. 
+
+Her daughter with her 2 year old twins, and other daughter, Judd, are living with her.
+
+No alcohol in 30 years.  Prior alcohol dependence.
+
+
+
+Review of Systems
+
+ROS-no chest pain, shortness of breath, no cough.  Mood is good.  Sleep is good.
+
+
+
+Vital Signs
+
+      BLOOD PRESSURE   114/64
+
+
+
+Exam
+
+  Chest-clear to P and A
+
+Cor-S1S2 normal no murmers, rubs or gallops
+
+Abd-soft, nontender, no hepatosplenomegaly
+
+Ext-no edema
+
+Skin-raised, erythematous lesion near left angle of the jaw, raised verrucous lestion on left calf.
+
+
+
+
+
+Disposition and Plans
+
+ 1. BP is under excellent control.  Continue atenolol, dyzide, lisinopril. f/u with me in 3 months, sooner for any problems.
+
+2.  Asthma-under good control. 
+
+3.  Skin lesions:  she will f/u with Dr. Kim.
+
+______________________________
+
+Othel  Vidal, M.D.
+
+
+
+
+______________________________
+
+April 21, 2068:  I have just had a conversation with Dr. Vidal.  She says she has not had any skin lesions for the last 2 weeks.  She also mentioned the fact that she has been very happy since she started the Atorvastatin (Lipitor).  Her cholesterol levels have been going down since she started taking it.
+
+______________________________
+
+Othel Vidal, MD
+
+
+
+
+
+
+______________________________
+
+May 17, 2068:   Patient's BLOOD PRESSURE IS GOOD.  Patient's weight is now 155.  She has no complaints.  Patient will take her blood pressure medication.  She has a followup appointment with Dr. Vidal  in 5 months.
+
+Othel Vidal, M.D.
+______________________________
+
+
+
+
+
+
+______________________________
+
+June 2, 2068:    Patient has been seen for her annual physical.  She is doing well.   Her blood pressure is good.  Her cholesterol is still good.  No medicines were changed.  She has no complaints.  Her mood, and appetite are good.  She is doing well, she will see Dr. Vidal again in 5 months.
+
+______________________________
+
+
+
+
+
+
+______________________________
+
+June 27, 2068:   She was in today for her follow up appointment with Dr. Vidal.  She has been doing well.  Her blood pressure is good. Her cholesterol is still good. She is taking Atorvastatin (Lipitor), Lisinpri (prinivil), Atenolol (Tenormin).  She had no complaints and no other medications were changed. I will see her again in 5 months, or sooner for any problems.
+
+______________________________
+
+Othel Vidal, M.D.
+
+
+
+
+
+
+
+______________________________
+
+July 20, 2068:   I saw patient today for her follow up appointment.  She had a great day at her daughter's graduation yesterday.  Her mood was great. She is doing well, her blood pressure is good.  Her cholesterol levels are still good.  She is taking atenolol, lipitor, lisinopril, and her mood, appetite and weight are still good.  I will see her again in 5 month, or sooner for any problems.
+
+______________________________
+
+Othel Vidal, MD
+
+
+
+
+
+
+
+______________________________
+
+August 28, 2068:   I saw the patient yesterday for her follow up appointment.  She had a good time at her granddaughter's wedding.  Her weight and appetite are good.  She is doing well. She is taking atenolol, lipitor, lisinopril.  Her blood pressure is good, her cholesterol levels are good.  She had no complaints and no other medications were changed. I will see her again for her follow up appointment in 5 months.
+
+______________________________
+
+Othel Vidal, M.D.
+
+
+
+
+
+
+
+______________________________
+
+September 28,  2068:   I saw the patient for her follow up appointment.  Her weight, appetite and mood are good, no complaints.  She had a good day at her granddaughter's birthday.  She is taking atenolol, lipitor, lisinopril.  Her cholesterol levels are good.  Her blood pressure, weight and mood are good.  She has no complaints and no other medication changes.  I will see her again in 5 months, or sooner for any problems.
+
+______________________________
+
+Othel Vidal, M.D.
+______________________________
+
+September 28, 2068:   I saw the patient for her follow up appointment.  Her weight, appetite, mood, and blood pressure are good.  She had no complaints.  She had no medication changes.  I will see her again in 5 months,  or sooner for any problems.
+
+
+______________________________
+
+
+______________________________
+
+______________________________
+
+______________________________
+ 
+
+______________________________
+  
+______________________________
+
+________________________

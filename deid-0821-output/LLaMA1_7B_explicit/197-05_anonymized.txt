@@ -1,0 +1,792 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2098-12-23
+
+
+
+
+
+  
+
+
+
+Vascular Surgery Consult- Kinder
+
+DATE: 12/23/2098
+
+ATTENDING: Quiring
+
+PT:  Emery, Donn
+
+MR#: 0595726
+
+Presentation:  Bilateral lower extremity ulceration
+
+HPI:  This is a 89yo female s/p CABG, AVR 8 days ago who presents with bilateral ulceration for the past six month. He also c/o bilateral intermittent claudication of calf and thighs with claudication distance of one block. He denies any trauma or ulceration. 
+
+Risk Factors
+
+1.	Hypertension 
+
+2.	Hypercholesterolemia
+
+3.	Ex-heavy smoker
+
+4.	NIDDM
+
+5.	CAD
+
+
+
+PMHx:  
+
+1.	As above
+
+2.	GERD
+
+3.	TURP
+
+4.	Nephrolithiasis
+
+5.	Macular degeneration
+
+6.	Pulmonary fibrosis
+
+7.	Pulmonary nodule
+
+8.	Depression
+
+9.	Polyneuropathy
+
+
+
+  Medications:
+
+1.	Aspirin 81 mg qd
+
+2.	Atenolol 50 mg bid 
+
+3.	Chlropropamiden 100 mg bid
+
+4.	Cozaar 50 mg bid
+
+5.	Metformin 1000 mg bid
+
+6.	Hytrin 30 mg qd
+
+7.	Lasix 20 mg qd
+
+8.	Mevacor 10 mg qhs
+
+9.	Loratadine 10 mg qd
+
+10.	Glucosamine
+
+11.	Mulitvitamins
+
+12.	Soma/Ultram prn
+
+
+
+Allergies: Sulfa(causes rash)
+
+Social History: Recently widowed, lives with daughter, former heavy tobacco use/no ETOH, formerly worked as a Finance manager, with frequent exposure to occupational hazards, including asbestos
+
+
+
+VS:  T=99.2, PR=82,  BP=110/54, RR=19, 96% (RA)
+
+PE: HEENT: NC/AT, PERRL, nonicteric.  
+
+Neck:  	supple, NT, full ROM, 2+ carotids w/o bruits, no LAD. JVP 7cm
+
+Lungs:  CTAB; no crackles, no wheezes
+
+Cardio:  RRR; normal S1, S2, no murmurs or crackes
+
+Abd:  	Soft, non-tender 
+
+PV:  	
+
+Ext: Pulses:  Brachial      Radial       Femoral        Popliteal        PT        DP
+
+Right:            2+              2+            2+   		1+	       0	       0		
+
+Left:	        2+		2+             2+		1+                0	       0
+
+Bilateral  heel ulcerations approx 5x4 on right and 4x4 on left covered with eschar. Bilateral +3 edema extending to mid calf. Chronic ischemic changes
+
+LENIs:
+
+DOPPLER SIGNAL                       PULSES
+
+        DP          PT               AbdAorta Femoral Auscultation POP DP  PT
+
+ Left:  weak        weak                      1                    0   0   0
+
+ Right: weak        weak                      1                    0   0   0
+
+
+
+BP RArm:  80/50LArm:  81/49
+
+
+
+LOCATION    Right    Left              RRatio   LRatio  RPVR    LPVR
+
+ THIGH      70       60                0.86     0.74
+
+ CALF       60       55                0.74     0.68
+
+ ANKLE      50       30                0.62     0.37
+
+
+
+BP P Exercise:
+
+MWT  minutes  seconds   RATE:  MPH Grade: 10%
+
+
+
+SYMPTOMS:
+
+deferred- ulcers
+
+
+
+FINDINGS
+
+
+
+Ankle-brachial indices, segmental systolic pressures, and pulse volume
+
+recordings are obtained at rest.
+
+
+
+RIGHT:  ABI is .62.  Waveforms and pressures demonstrate SFA, popliteal,
+
+and/or tibial vessel disease.  Perfusion is poor to the digit level.
+
+
+
+LEFT:  ABI is .37.  Waveforms and pressures demonstrate iliac, SFA, popliteal,
+
+and/or tibial vessel disease.  Perfusion is poor to the ankle, TM, and digit
+
+levels.
+
+
+
+Of note, multiple attempts were made to obtain toe pressures, however, this
+
+proved to be technically impossible due to patient's constant twitching.
+
+
+
+IMPRESSIONS:
+
+1. RIGHT SFA, POPLITEAL AND/OR TIBIAL VESSEL DISEASE, WITH MODERATE ABI
+
+REDUCTION, AND POOR DIGITAL PERFUSION
+
+2. LEFT ILIAC, SFA, POPLITEAL AND/OR TIBIAL VESSEL DISEASE, WITH SEVERE ABI
+
+REDUCTION, AND POOR PERFUSION TO THE ANKLE, TM, AND TOE LEVELS
+
+3. TECHNICALLY UNABLE TO OBTAIN TOE PRESSURES
+
+
+
+
+
+A/P:  This is a 85yo male s/p AVR, CABG with chronic pressure ulcerations at his soles bilaterally secondary to proximal disease. Recommend foot elevation when at rest, heel protection, specially-fitted shoes. 
+
+Will D/W Dr. Quiring  for endovascular intervention.
+
+
+
+
+
+
+
+________________
+
+Vicki Oneil, M.D
+
+Vascular Junior
+
+#90148
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+______________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+______________________________________
+
+______________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+______________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+______________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+______________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+______________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+______________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+______________________________________
+
+
+
+
+
+
+
+
+
+______________________________________
+
+
+
+
+
+
+
+
+______________________________________
+
+
+
+
+
+
+
+
+______________________________________
+
+
+
+
+
+
+
+
+______________________________________
+
+
+
+
+
+
+
+
+______________________________________
+
+
+
+
+
+
+
+
+
+
+______________________________________
+
+
+
+
+
+
+
+
+______________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+______________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+______________________________________
+
+
+
+
+
+
+
+
+______________________________________
+
+
+
+
+
+
+
+
+
+______________________________________
+
+
+
+##
+
+
+
+##
+
+
+______________________
+
+
+##
+
+______________________
+
+______________________
+
+______________________
+
+______________________
+
+_____________________
+
+
+
+______________________
+
+
+__________________
+
+___________________
+
+
+__________________
+
+
+__________________
+
+___________________
+____________________
+
+
+
+__________________
+
+_____________________
+______________________
+___________________
+________________, _____
+_________________
+_________________________________
+_________________ and
+__________________, etc.
+
+................ and the letter
+________________________, the letters, or __________
+____________
+
+
+_____________
+________
+or_____
+_____________________________
+_________________________
+
+_________names, or surning _
+________________, __________________s, _____
+
+
+_________________ _____
+
+
+
+_____________offer.
+
+_____________________
+The letter of
+_
+_ or ___ surns...
+________ words
+
+name ______ names of _ names. 2, 
+\
+
+
+
+
+
+
+identify the patient _or _name
+
+_________ name and the patient name
+
+The name, name of the patient, patient and patient name
+pat with names, and the patient's name or names of the names, names, name and a patient, and patient
+
+are patient, a patient names, or 19 months
+
+[ 20
+and the name, names
+
+
+
+
+
+[and, and [and the [, as the name, and name,
+
+The, and
+
+
+or, or... are (or of or [are, or [, and 3 and 2...
+pat names and name-the...
+... and [d, and [11 and the names. the 1
+112
+name... and the...patient names, the patient (“
+: and: 0...
+(
+
+
+...
+1, or: 17 (... are (  indicate, the... (are 2 and are... [the names are the [and, and the or of the (and of 1...,
+: the... [...
+
+... “are-pat- 2 or the 0, [... and the... 1, include the...
+1 (... 1 and, or, and, and, as the… and the 2, but, the and, [..., [,
+, and, and of, the (and or, [,  [
+, the, [and, and. (d (...,, 1 and are the, and, ( (and, a, and, and are, [, ( and and and, 0 and,  or,, the, the::  and, [
+:... and-1 "
+ names...:  and “...... (an 0 [2 [3-are- - are a and- are,  ( 1, or, [ (and  and 3 0. anise, and, ( and of the of " of the and, the or, 1, the (2 0 and-  are ( and would or, an might and and, [an,  or by, ( " and ( an, an,,, anise in (, an, an,  and, an - an, or,  ( an and, and an, or - an or,,  or, 1, an,, and a, an, ( and, an ( an, an, 2, 1, 1, An,
+, an " [1,, 0 "0, an,,, “: : : an,: and: An ": : an [: - (: : an and: ": ( an: -: (:: ( (: - (: An: [ with:- (- an or an: - an " (- ( "- ( or (- or - ( (- (, an... an of the ( of ( of an ( (.  and in [ [ [ and an [,, [ or, and [ and, ( and:  are [ - ( [ [,-  ( ( [ are - [- are, - an an- an " (, an ( -  and- [ an and,- [, or are, are an or, are, and-  of or  or,, or  or an,,,, ( or-, ( ( and or an of  and, - or of -  and,,. An, an-  or, (- and an- -  of -  An- or- an-,- and  [ and and of ( of or of - :  and and, (,  ( and an and:, An: an or-  or and- an- -  or- or- or- - An An An and- An An C and an,  and an and or or, and, - An or and and ( -, and  ( and and [- an  an of or or - (, or- or-0 (, An,  an- and- A, and and, an are,,  of an of,  of [ of ( and of an- and an,, and and -1, and,  and- an, ( An An, an- an- an- and - An An- - -  ( - and ( [ An (  an- or [ -  C P. An C ( and ( and and- an  an ( an ( - [ An An C and and- or ( or and- " (- (-  and -  or - " V and- or "2 of " and 2- C, C -  and V and and and [ - [ [: ( - : V:  and  ( ( " and and in (- or-1 - C- and and  " in- or-1 of " ( [1 or  V in and ( and or and ( or or  and, of  or ( V or and ( and or and (1 or- C, V- and  and V  and and  and and of of  of  and and of ( V  V,  C  - V.  V I- and V or  C V or,  I V and V V,  V and, - or (,  ( or and,  ( V and or V  of of of  of C ( V ( ( V V  V, and  [ and and C, V 1 and or ad 0  V  ( V C ( ( V, or and  V/ and V and, or,  and and or or and  and,  and and  and  (, C, ( and V V,, [1 (1, V, and (  and (  V V, V and  V and or, V, and,  and,  and or,, ( (,,,  C, C, (, and,,,, C ( (  [ ,,, V C, C ,,,,  - (  - V C P/  and  (, - and and V-  V M V, (, ( and -  ( C C and, C, C, and and ( C ( V C- (,,, C and,, -  - (  M N- N [ and, - C and  C M- I ( C and ( V C [ ( and [ - ( C C, N, C V C V, and and, C, M A [  C " [, [,  C - C and, 2, V,, -,,, [ ( and, ( . V C and. V- (, and _,- C  " V and ( ( (  " - (,,,, - and,  and, ( to, ( to to and, C and, - C - B  T A, and and and,  A- N V A T,  V  and, and,  M (/ M ( ( I and [. C C and V - (, C- C, T, B, and C-

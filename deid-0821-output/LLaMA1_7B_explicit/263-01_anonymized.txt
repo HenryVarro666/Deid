@@ -1,0 +1,384 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2079-02-28
+
+                     DOUGLAS EMERGENCY DEPT VISIT
+
+ 
+
+DODD,STEVEN   350-93-05-3                      VISIT DATE: 02/28/79
+
+This patient was evaluated in conjunction with a resident and I 
+
+confirmed the history and physical findings as documented in the 
+
+handwritten record.
+
+HISTORY OF PRESENTING COMPLAINT:  This patient is a 63 year old 
+
+gentleman with underlying diabetes and congestive failure as well 
+
+as extensive coronary artery disease now presenting with worsening 
+
+fatigue and shortness of breath over the preceding few days.
+
+PHYSICAL EXAMINATION:  Physical examination is suggestive of 
+
+congestive failure.
+
+LABORATORY EVALUATION:  Electrolytes are normal.  Electrocardiogram 
+
+shows no definite ischemic change.  Chest x-ray is a limited study 
+
+due to body habitus. 
+
+THERAPY RENDERED/COURSE IN ED:  The patient was treated with 
+
+diuretics and ultimately admitted to the hospital for further care.
+
+FINAL DIAGNOSIS:  Congestive heart failure.
+
+DISPOSITION (including condition upon discharge):  The patient was 
+
+admitted to the hospital in stable condition.
+
+___________________________________                    TO761/1620 
+
+VIRGIL L. IVERY, M.D.   VI65                            D:02/28/79 
+
+                                                       T:02/28/79 
+
+Dictated by:  VIRGIL L. IVERY, M.D.   VI65 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+```
+
+
+
+
+
+
+
+ 
+
+                     PARTIAL CORRECTIONS
+ 
+
+
+                         PATIENT: [redacted]
+                         HOSPITAL: [redacted]
+                         PHYSICIAN: [redacted]
+                             DOB: 30/4/71
+                           ADMISSION DATE: [redacted]
+                            DIAGNOSIS: [redacted]
+
+ 
+
+                           ROSA MEDICAL INFORMATION
+                             ROSA: 09/01/78
+                         PREV ROSA: 08/01/75
+
+
+                           DOB
+                             30/4/71
+
+                           PREV DOB
+                              30/11/71
+
+                           AGE
+                              42/5/71
+
+                           SEX
+                               M
+
+ 
+
+                           AGE AT ONSET
+                              50/12/72
+                           DATE OF ONSET
+                              04/02/72
+                           MILESTONE
+                              05/01/78
+                           TYPE OF DIABETES
+                              TYPE 1
+
+
+                           MEDICAL HISTORY
+                              1995: 01/01/78: Diagnosed TYPE 1 DM
+                              1990: 04/01: Diagnosed TYPE 1 DM
+                              1980: Diagnosed TYPE 1 DM.
+                           TYPE OF DIAGNOSIS
+                              Type 1 Diabetes Mellitus
+                           ACCURACY OF PREVIOUS HISTORY
+                              Accurate to best of patient’s knowledge, but 
+                                patient has had some memory problems over 
+                                recent years.
+                           DIABETES TYPE
+                              Type 1 Diabetes Mellitus
+
+
+                           AGE AT DEVELOPMENT OF MET
+                              67/5/71
+                           DATE OF DEVELOPED MET
+                              59/1/73
+                           MILESTONE
+                              09/24/73
+                           TYPE OF METABOLIC SYNDROME
+                           Diabetic Ketoacidosis
+                           DATE OF DIAGNOSIS
+                              09/24/73
+
+                           ROSA ROSA
+                              08/01/75 ROSA
+                                        DIAGNOSIS: [redacted]
+                                         ACTION: [redacted]
+                                         INSULIN DOSAGE: [redacted]
+                                           MICRO INSULIN DOSAGE: [redacted]
+                                             MICRO INSULIN DOSAGE: [redacted]
+                                                MICRO INSULIN DOSAGE: [redacted]
+                                                  MICRO INSULIN DOSAGE: [redacted]
+
+                              09/01/78 ROSA
+                                        DIAGNOSIS: [redacted]
+                                         ACTION: [redacted]
+                                         INSULIN DOSAGE: [redacted]
+                                           MICRO INSULIN DOSAGE: [redacted]
+                                             MICRO INSULIN DOSAGE: [redacted]
+                                                MICRO INSULIN DOSAGE: [redacted]
+                                                  MICRO INSULIN DOSAGE: [redacted]
+
+                              01/01/78 ROSA
+                                        DIAGNOSIS: [redacted]
+                                         ACTION: [redacted]
+                                         INSULIN DOSAGE: [redacted]
+                                           MICRO INSULIN DOSAGE: [redacted]
+                                             MICRO INSULIN DOSAGE: [redacted]
+                                                MICRO INSULIN DOSAGE: [redacted]
+                                                  MICRO INSULIN DOSAGE: [redacted]
+                                                    MICRO INSULIN DOSAGE: [redacted]
+                                                      MICRO INSULIN DOSAGE: [redacted]
+                                                        MICRO INSULIN DOSAGE: [redacted]
+                                             MICRO INSULIN DOSAGE: [redacted]
+                                               MICRO INSULIN DOSAGE: [redacted]
+
+
+
+
+
+                             09/01/78 ROSA
+                              01/01/78 ROSA
+                                        DIAGNOSIS: [redacted]
+                                         ACTION: [redacted]
+                                         INSULIN DOSAGE: [redacted]
+                                           MICRO INSULIN DOSAGE: [redacted]
+                                             MICRO INSULIN DOSAGE: [redacted]
+                                                MICRO INSULIN DOSAGE: [redacted]
+                                                  MICRO INSULIN DOSAGE: [redacted]
+
+                                        METS DIAGNOSIS: [redacted]
+                                         ACTION: [redacted]
+                                         INSULIN DOSAGE: [redacted]
+                                           MICRO INSULIN DOSAGE: [redacted]
+                                             MICRO INSULIN DOSAGE: [redacted]
+
+
+
+
+                              12/01/78 ROSA MEDICAL INFORMATION
+                                  ROSA: 09/01/78
+                                 ROSA MEDICAL INFORMATION
+                                  PREM: 01/01/78
+                                  PREM ROSA: 01/01/78
+                                  AGE:  42/5/71
+                                  SEX:   M
+
+                              12/01/78 ROSA
+                                  ROSA: 01/01/78
+
+                              12/01/78 ROSA
+                                  ROSA: 09/01/78 (ROSA ROSA)
+
+                              12/01/78 ROSA
+                                 ROSA: 03/01/78
+
+                              12/01/78 ROSA
+                                 ROSA: 12/01/78
+
+                              12/01/78 ROSA: 04/01/78
+
+                                ROSA: 05/01/78 
+
+
+                                ROSA: 04/01/78
+
+                               METS
+                             ROSA: 01/01/78
+                  METAIL.
+
+
+
+                    META 
+                  META
+
+               META
+
+   
+
+
+                 names
+              
+               
+
+
+
+
+
+                    or
+
+
+                 
+
+                
+
+
+
+                 and
+
+                 META
+...
+
+
+
+
+
+
+                 and
+names of
+              ,
+               ,
+
+
+
+
+
+            or names of names
+
+
+
+
+
+names. 
+
+
+
+
+
+
+
+
+
+
+
+1,2,3 names
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    name(and date
+
+
+name.
+
+
+
+
+names,
+date
+name data
+names of
+patient information name.
+name or
+pat names
+
+ident,
+
+
+The patient
+
+name of 
+of names, or names.
+
+
+name
+
+or 20 names
+and date of the patient names (the names, 3, name, names.
+The patient.
+
+
+
+
+
+
+The...the [1...
+the patient.
+
+
+
+or...
+120, 1 or... 
+, or the date, date, or the first, and the [
+or...
+and...
+1...
+
+
+The patient, and the same.
+
+
+or might be and any or or (or and a, and...
+
+(2-date identified names (and, 0 names. 2
+and the... (
+:...
+(the patient names with:
+you and the patient names and the...1, or…the...
+d, and the patient and  are:
+...the: [
+of “... 11: (
+[[ 
+name are or or: and 1, the [the, and: (d of:
+10 (
+, 2, 
+are and: (1:1
+
+
+
+12 of (the “1...
+and, 1, and are the-are... 
+… (name, or, " (and and...
+
+, 1... 1, 1, and, and, and, 1 and and [and, or, the and, and [1 and, an and,1, and, an are (are,
+, and, and, an, and, and, but, are, and, the and, and and the and of the, or, a [(12, and the: and and the-and, an: the (patient names below [follows, and (1 5 and 3 1 are are a- are a are, and in "
+and or or by 1 or “, and, 1 2, 1, anis, 0 of the, of their and (an, (and, an, the. anine, an (an 110 or 2-1, and, "by or (an, an, the, 11 an, an and [2 an of 1 of a, an and 1 of the (an and of an anine 1, an, an [and-of, a, an or and and, and-le and (and, an, and, the, and, and, an 3 and 2, An C and "an of [an,1, an, [an, 0 or, (2 of the (1: An of 1 of 1- 2-3-make, an::: an: (:: (1: " 2-2: anity... an- [d with: with-1 with::- :  or: an 0-0-are (-d  and in the-le an of " of an of and of "... and ( and [ and, and ( and., in the [ [ and ( [: [ ( [1, or [ and [2-and, [ or, are: or an or-1 [- and an [ and and, or [  and [ (1 [0- an and ( ( and [ and and of [ of the of  and [ of " or [, and and, ( by, and [ by, (, of  of the of the ( of [ of, ( and, 0 and are or  or of - or-  of  of  of an ( or, or or [, or or [ ( an  (-  of an of the and ( of : and ( of and of the [:  and an-0, of [ and- and or an in  of or,  an  or- [ or or- and 0- [1 or in  of,- and, and,, and or or,  ( ( and,, and,, (- or and or- an or, of an of ( for, or of (, of, of the of  of and and of ( and (,  and,  of the of and of  of of, of the of [ of, an of the of the, of the of,, and an an and and and and,, 0-00 (000 An of and of the and-and of ( and. or-h or  and ( ( - and and  and or and or or and -, (- and and or or and-to in or ( and (  to and  and (0 to [ to [ to to  to to ( of the of the and and to [ ( and,: and to (- and and-  and and ( c and:: [: c: (: for and for or and and.:  and [: and or of and- and- of an [ of to - to - of  and-0 [ or or,, or  and of or, of or of and  of or- of the  (- and ( and and,, or, in and and  of of of of and of of of and or of and 2-1 and (0 0 - and  and,,-  and  and  and, or and,., and, [ (, and, and, ( ( or - (  of of and - of or of of of  - C ( and  and and,,  ( and of and and ( of  or an-2 an and or ( ( and, and (., ( and ( or and of  and, and, and and as, and, and, and [0- and and (  and or, and, ( and: [[, (1 and,   (- or, and  and and and and,, and,, (, (, and, and ( and ( and  and and and,  and,,,, (,,, ( and,,,, (. [ or,,,,,,,, [,, (,. ( and- 0- and or and (, and. and and and,,-  and of [ of of and and,,,, (,, [ and, ( and of, (,,, and., and, of and ( [  and A - [ C. CH T- and  C and A D and and and ( and (- and and [. and ( (. C-  and [- (,, and ( and,- and., and [, ( [ [. and - and of, of A ( and, and and,, and and and, ,..  (- of- C and of, of and and of ( to of of,, of and C V and of, V- M- M C A- T- A, of of A of- and and, and - and., ( with, with and V, of and, of- and and of and. and (, M ( A C. M D and  ( C. and. and CO, of., ( of, of - and, C, C, and-

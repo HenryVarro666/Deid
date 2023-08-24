@@ -1,0 +1,360 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2076-07-20
+
+                                                       Patient Name: QUIJANO,BAYLEE [ MRN: 85362514MARY ]                                                         Date of Visit: 07/20/2076Chief Complaint	
+
+Ms. Quijano is a 61 yo morbidly obese woman with CAD, OA, and CHF who is in for follow-up of these problems.  
+
+
+
+History of Present Illness	
+
+She is working every day and feels much better than she did last year.  She has had multiple admissions in the past for CHF and for ischemia.  Recent echo shows septal and apical hypokinesis.  
+
+
+
+She has had no chest pain.  She does not complain of SOB.  She does cough, but this is because of the air conditioning and postnasal drip, she believes.  
+
+
+
+She also complains of severe knee pain, with the right worse than the left.  She can walk a little, but standing is very painful.  
+
+
+
+In addition, she complains of some food intolerance.  She has a hard time eating breakfast because she gets abdominal cramps.  After eating orange juice, she gets terrible cramping and has to run to the bathroom to have a bowel movement.  She has changed her milk to lactaid, which she says helps.  Certain types of salad dressing also cause this reaction.  
+
+
+
+Problems	  
+
+MORBID OBESITY	      
+
+KNEE OA	      
+
+ANSERINE BURSITIS, BILAT	      
+
+S/P 2 C-SECTIONS	      
+
+HTN	      
+
+CAD	      
+
+CHF	      
+
+ASTHMA	      
+
+
+
+Medications	  
+
+VENTOLIN	 2PUFFS INH QID
+
+AZMACORT	 4PUFFS INH BID
+
+ECASA	 1  PO QD
+
+ATROVENT	 2PUFFS INH QID
+
+TNG 0.4 MG	    SL 
+
+SEREVENT	 2PUFFS INH BID
+
+FLOVENT	 220MCG INH BID
+
+COZAAR	 100MG PO QD
+
+LOPRESSOR	 25MG PO TID
+
+LASIX	 60MG PO BID
+
+ZANTAC	 150MG PO BID
+
+NORVASC	 10MG PO QD
+
+ISOSORBIDE DINITRATE	 20MG 1 Tablet(s) PO TID
+
+
+
+Allergies	  
+
+LISINOPRIL	 COUGH
+
+
+
+Social History	
+
+Employment:  Works in commercial diving.  
+
+Marital/Relationship:  She is married.  Her husband is retired. She has 3 children, and 3 grandchildren, and 2 great grand children!  Recently went down to Mississippi to celebrate her father's 81st birthday.  They drove down in a van because she is afraid of flying.  
+
+
+
+
+
+Family History	
+
+Father:  Alive, and very healthy.  
+
+Mother:  Mother died at age 80 in Apr, 2075, of MI.  
+
+Siblings:  She has 12 siblings--she is the oldest.  None of them have weight problem.  Her two daughters have obesity.  Her grandson is also overweight at 12 years old.  
+
+
+
+Habits	
+
+Tobacco:  Never.  
+
+EtOH:  None
+
+Drugs:  None
+
+Seatbelts:  Yes
+
+Domestic violence: None
+
+Sleep:  She tends to sleep a little less than before.  She is tired during the day.  No daytime somnolence.  She wakes herself up with snoring.  
+
+Exercise:  None.  
+
+Emotional history:  No depression.  
+
+Diet:  She is not really on a regimen.  She admits to lots of snacking.  
+
+
+
+Review of Systems	
+
+No headaches, lightheadedness, vision changes.  No chest pain, SOB, DOE, palpitations.  No  abdominal pain, nausea, vomiting, constipation, diarrhea.  No change in bowel habits, BPBPR, melena. No dysuria, dypareunia.  No numbness, tingling, weakness, myalgias. No fever, chills, change in appetite, weight loss. Remainder of systems reviewed and negative.
+
+
+
+
+
+Vital Signs	  
+
+Blood Pressure:	 178/80   
+
+Pulse:	 88   
+
+Height:	 62   Inches
+
+Weight:	 332   Pounds
+
+
+
+Physical Exam	
+
+General Appearance: Morbidly obese, very pleasant woman in no acute distress.  HEENT:  Normocephalic, atraumatic.  PERRLA, EOMI.  Neck:  No thyromegaly.  No JVD, carotid bruits, lymphadenopathy.  Neck is supple with full ROM.  Chest:  Clear to P and A.  No wheezes, rales, rhonchi.  Cardiac:  Normal S1, S2, no murmurs, rubs, or gallops. Breasts:  Symmetric, no masses, tenderness or nipple discharge.  Abdomen:  Normal bowel sounds, no HSM or tenderness.  Extremities: Crepitance in both knees.  4+ pretibial edema.   
+
+
+
+Assessment	
+
+1.  Hypertension:
+
+
+
+Increased lasix to 80 mg po bid.  Increased lopressor to 50 mg po bid (she hadn't been taking this).  RTC one month to see me for f/u.  
+
+
+
+2.  Hypercholesterolemia:
+
+
+
+For some reason, she had stopped taking her zocor.  I restarted her on lipitor 20 mg po qd, given her very high dLDL on 5/26/76--171.  Checked AST today.  She will come in tomorrow for fasting cholesterol levels.  
+
+
+
+3.  Obesity:
+
+
+
+She is making no progress in this area, and in fact is getting worse.  Her daughter had the gastric bypass operation and has lost 100 lbs.  She is receptive to the idea of going for a consultation.  She had gone to Weight Clinic before for the liquid diet, but she could no longer afford to go.  
+
+
+
+Plan:  
+
+Referral to Dr. Bobby Davison.
+
+Checked TSH
+
+
+
+4.  Polyuria, polydypsia:
+
+
+
+She has had one random BS of 170, and another of 136.  We will have her come back for a FBS tomorrow.  Also checked Cre, K.  
+
+
+
+
+
+
+
+
+
+______________________________                              
+
+
+
+Xanthopoulos, Kelly Willie, M.D.
+
+
+
+Date: 2076-07-21 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Patient:  BAYLEE QUIJANO
+
+
+
+Problem:   
+
+Patient complaining of 3 weeks of intermittent left sided neck pain that radiates to the left shoulder.  She says the pain gets worse with neck rotation and flexion, and that she also has some tenderness over the left side of her neck.  She says she is having trouble sleeping due to the pain, and she also complains of headaches that come on after she has the neck pain.  She says she was able to work until this, but she can't work any more.  She is 35 yo, married, and works as a commercial diver.  Her husband is retired and has no history of any problems.  She is the oldest of 12 siblings.  She has 3 children.  
+
+
+
+
+
+
+
+
+Hx of interest:
+
+
+
+
+
+
+
+
+
+
+
+Exam:
+
+Chest:  No abnormalities
+
+
+
+
+
+
+Neck:  No tenderness or lymph node enlargement
+
+
+Head:  No abnormalities
+
+
+
+Back:  No abnormalities
+
+
+
+Abdo:  No abnormalities
+
+
+Except for the acronyms
+
+
+
+
+
+Abdo:
+
+
+
+Abdo
+
+Explan:  The abdo:
+
+
+
+
+The
+
+
+Abbreast
+Except: The abruptive
+Abbre: 
+
+
+Abbreviate
+Abbr,Abbre abreviates
+Absolute
+Abbre,
+Abbre Abbreviate:Abbre Abbre
+
+
+Abbre: Abbre
+Abbre Abbre,Abbre:
+The word: abbre, abbr, abre
+abbre.
+abreAbbre Abbre
+Abbre
+Abbre Abbre, abbre Abbre Abbre abbreviate abbre Abbre Abbre abre abbre, abre
+Abbre. Abbre abre: abre.
+
+abbre Abbre abbre abre, abre abrupt, abuse of abre abre abre abbre, abbre abre.  abbre abbre.
+Abbre abre abre abre abbre and breach.
+or abbre, ab[120 abuse of abbre, ab, abbre abbre abbre abbre abby and abbre names and names: abre ab... the abre ab.
+Ab (or abbre of abre abre ab. 
+18 or 2, 2 ab.
+
+ab...
+
+and and ab, but, and the name, and ab..., [..., ab, and the patient and the ab, abnorm... 450 or are the and the 25 and/
+(
+1, or...
+[...
+dreams and any, names of the names and names... and 10:... the: 111:
+
+...
+
+
+use,...:, a…, and the 50, the...the are the (the…
+are are... of [the:... are, the... are... are, and [... are: 20 (
+[the, or: (
+The (1 orific,  or, or... (
+
+(and and the...
+and... and be, 1 of the…
+... (the 1 and are... (… are [
+1,... ... 4, and the, and the [, and, [1, 6. An, and,...
+(..., and, and and,  or, a and, the (make, 8, or......,, the 1, 
+are, and, the, the, 0, and, and and, and the, and, and... and, or the, the and the, and, [1 and (c... and: [andize and... with the words (...11 (cause...... and "1... (1-are-
+1 are are,…… an, 1 of the…, the or... 0... and the....
+,...,..., the,
+, 0 of [. ( and,  (an. and, and, an ( are ( an (are of the ( are or, or, [An and or "an and an "1 an, an, an, an and,  and, " ( an, an, and the, an and, the an or [ an or, 0, and, or of, an an (an or, an, an of the [ an and, but, an, an, an, an, an, An, and, an and ( an, an, an, the, an, an and an, an ( an, an: an, an,  and of the an " an: [: an [: ( and an- [ " ( [-1, " an " an: an and and " ( an and- an “ an an- ( [- or " [- an or "- and or...  an [-an-an or ( [ or- an, and ( or ( [, of the of the and of "., an (, an,, and, An, [, but and,,... and,, and [ and [ [ [ ( [, [ [ and [, ( in the ( and, " an of an, and are " [, and an- an, ( an, an " and an " in-  of " ( and of, of an of an, of them  but,, and, an an- in, and or (,- and " - of " of the of the,, an of, [0 or in in,,, for,, and of or for,, of the- An An- and ( an ( and and or,  "- - of, and of, of the and of  and ( ( and [ an- and  ( and,, ( in the- and ( [ in- an "- and ( and-1- or  ( or ( (- An An or (- an, (, an of, and, or and, (, and  and and [ and. or, and (, or, and,  or or or of a of 0 (, (00 and - ( for and  for ( an and and, an of  of  of  of of and, of an ( ( and of the and,,,. and,. (, and- C and-0 (00 0,0 of  (0- and. ( and ( of [ of the [ of the [  - C- and, or (- ( C and- or- or- C ( and or ( and ( or or C or or and C An An C A or  of or and and  B-  ( of ( of ( of and of of ( and of and and [- [ and c- C.,, and ", ( it and " B it and c ( or [- - ( or or, ( or and ( and ( B or c of a m- ( [ or “ is c or c  " ( or- [ or-. - ( of  of or or of.  [ and- or- B and and, B, or of  B and ( B ( B of, of  of ( of of of 1 so ( B. - or -  ( and  C B and B and, a- and, [0  and [. and of B [ B or ( B and [ and and, C or B - A of - of C of B of B.  C C or,  B ( and B. B in, [ and, or C of (  ( B and- and and, or. or C and in ( and and and B B or and, or and is, and ( C, ( and, and and, or B ( and, B [ ( a and, B and ( B and and, and B in,, in. ( or ( and in, ( and in, ( and, and and. and  B, and and and and and and (, or and, (,, -,,  B, or and B.,, [, B-  in (, B in in and [, [ C and  and,  of  [ of [ of B of of of [ of of B of of w of and ( C, (, (, (,, and.  C- ( [ or C [ in-t and- or, and and and C or. and and ( in " of c and of " and. ( N M. and C B C M A and, C, ( C. M. A M and and C and, [ C ( ( A - and or C in - and. or and C C C C ( E C and ( ( ( D. C and ( B. and ( A (, and, and and - is " as,, B of of. and or to- A- and, and or and, and to, to,, to M and (, M T C M ( M M B, C and,,,, and of and in and of of of of ( of, C of of and of and and- and- C or ( or and and C C and and B C M. of of, [ and of [.  M or or,, and, a and, C and M and,,

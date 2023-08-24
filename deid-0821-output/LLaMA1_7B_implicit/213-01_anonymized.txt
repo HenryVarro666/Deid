@@ -1,0 +1,401 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2065-07-29
+
+                     GREEN EMERGENCY DEPT VISIT
+
+ 
+
+WAGNER,LONNIE   097-87-37-2                  VISIT DATE: 07/29/65
+
+The patient was interviewed and examined by me and Dr. Chase.  
+
+Please see the note for full details.
+
+HISTORY OF PRESENTING COMPLAINT:  This patient is a very pleasant 
+
+gentleman accompanied by his wife who gives most of the history 
+
+complaining of bleeding in the right groin.  He is status post 
+
+catheterization and stent approximately two weeks.  He was recently 
+
+discharged from rehabilitation and at home his wife found the right 
+
+groin to be soaked in blood.  The patient's wife also noticed some 
+
+swelling at the site.  He has had no fevers and no chills.  He has 
+
+recently been diagnosed with myelodysplastic syndrome with white 
+
+counts in the 30's.
+
+REVIEW OF SYSTEMS:  Review of systems is notable for bleeding only. 
+
+He denies any abdominal pain.  He denies any fever or chills.  No 
+
+neurologic complaints.  No distal neurovascular complaints either.
+
+PAST MEDICAL HISTORY:  The patient's past medical history is 
+
+notable for diabetes, hypertension as well as cerebrovascular 
+
+accident, gastrointestinal bleed and myelodysplasia.  Surgeries and 
+
+procedures are as above.
+
+MEDICATIONS:  The patient's medications include Plavix and aspirin.
+
+ALLERGIES:  The patient has no allergies. 
+
+SOCIAL HISTORY AND FAMILY HISTORY:  No current tobacco or ethyl 
+
+alcohol.  He lives at home with his wife.  He has VNA services 
+
+although they are not coming tomorrow.
+
+PHYSICAL EXAMINATION:  I agree with the physical examination as 
+
+documented.  GENERAL:  The patient is an awake, alert, pleasant 
+
+male in no apparent distress.  VITAL SIGNS:  Temperature 96, pulse 
+
+56, respiratory rate 20, blood pressure 97/49, oxygen saturation 
+
+96%.  EXTREMITIES:  The right groin shows a slightly tender area 
+
+with a little bit of ooze but dried blood.  No active bleeding 
+
+right now.  Distally he has popliteal pulses.  He has bilateral 
+
+dopplerable dorsalis pedis and posterior tibial pulses.  He has 
+
+full range of motion and denies any numbness.  
+
+LABORATORY EVALUATION:  Basic laboratory studies here show a 
+
+hematocrit of 28 and a white count of 43.  His white count is up 
+
+from a baseline of about 33.  His baseline hematocrit is 30.  His 
+
+platelets are 291.  His right groin ultrasound is negative for 
+
+pseudoaneurysm or AV fistula.
+
+THERAPY RENDERED/COURSE IN ED:  The patient is being sent home.  We 
+
+are arranging VNA to follow up tomorrow.
+
+CONSULTATIONS (including PCP):  The patient's primary care 
+
+physician was called for coverage for Dr. Duong.
+
+FINAL DIAGNOSIS:  Bleeding right groin after catheterization, 
+
+resolved.
+
+DISPOSITION (including condition upon discharge):  The patient was 
+
+discharged in stable condition.
+
+___________________________________                    NU604/29497 
+
+AMANDA A. VAUGHT, M.D.     AV55                      D:07/29/65 
+
+                                                       T:07/29/65 
+
+Dictated by:  AMANDA A. VAUGHT, M.D.     AV55 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+
+
+
+*/
+
+
+
+
+
+// *********************************************************
+// ***  A test file to test the code.
+public final class Test {
+
+  private static void doTest(final String pathName) throws Exception {
+    final File file = new File(pathName);
+    // final String pathName = "/home/brian/test/test_code_15_2011_07_29.xml";
+    final String pathName = "./test" + File.separator + "test_code_15_2011_07_29.xml";
+    System.err.println("PathName: " + pathName);
+    final String xml = new String(FileUtils.readFileToByteArray(file));
+    System.err.println("Original file: " + file);
+    System.err.println("Original XML: " + xml);
+
+    final Document doc = XMLUtils.createDocumentFromString(xml, "UTF-8", 0);
+    final Element xmlRoot = doc.getDocumentElement();
+    System.err.println("Original root: " + xmlRoot);
+
+    final List<Node> nodes = xmlRoot.getChildNodes();
+    assert(nodes.size() == 2);
+
+    // This is the code that we're writing
+    // The root of the XML is a "note"
+    for (final Node node : nodes) {
+      if ("note".equalsIgnoreCase(node.getNodeName())) {
+        //System.out.println(node.toStringTree());
+
+        final NodeList nodes1 = node.getChildNodes();
+        assert(nodes1.size() == 1);
+
+        // This is the note
+        for (final Node node1 : nodes1) {
+          if ("history".equalsIgnoreCase(node1.getNodeName())) {
+            //System.out.println(node1.toStringTree());
+
+            final NodeList nodes2 = node1.getChildNodes();
+            assert(nodes2.size() == 1);
+
+            // This is the history
+            for (final Node node2 : nodes2) {
+              if ("patient".equalsIgnoreCase(node2.getNodeName())) {
+                //System.out.println(node2.toStringTree());
+
+                final NodeList nodes3 = node2.getChildNodes();
+                assert(nodes3.size() == 4);
+
+                // This is the patient information
+                for (final Node node3 : nodes3) {
+                  if ("hist_present" == node3.getNodeName()) {
+                    //System.out.println(node3.toStringTree());
+
+                    final NodeList nodes4 = node3.getChildNodes();
+                    assert(nodes4.size() == 2);
+
+                    // This is the current presenting problem, bleeding
+                    for (final Node node4 : nodes4) {
+                      if ("hist_presenting_problem" == node4.getNodeName()
+                          || (node4.getNodeName().equals("hist_presenting_problem"
+                          + "2") && "bleeding".equals(node4.getTextContent()))) {
+                        //System.out.println(node4.toStringTree());
+
+                        final NodeList nodes5 = node4.getChildNodes();
+                        assert(nodes5.size() == 3);
+                        // This is the current presenting problem, bleeding,
+                        for (final Node node5 : nodes5) {
+                          if ("hist_presenting_problem_detail"
+                              == node5.getNodeName()
+                              || (node5.getNodeName()
+                             .equals("hist_presenting_problem_detail2"
+                              + "2") && "right" == node5.getTextContent()
+                              && node5.getChildNodes().size() == 1)) {
+                            //System.out.println(node5.toStringTree());
+
+                            final NodeList nodes6 = node5.getChildNodes();
+                            assert(nodes6.size() == 1);
+                            // This is the problem, bleeding right side
+                            for (final Node node6 : nodes6) {
+                              if ("hist_presenting_problem_detail2"
+                                  == node6.getNodeName() || "right"
+                                  == node6.getTextContent()) {
+                                assert(node6.getTextContent().equals("bleeding right side"));
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  // ***************
+  // *******************************
+  // ************************************************
+  // ****************
+
+  // ******************************
+  // ***********
+  // ****
+
+  public static void main(String[] args) throws Exception
+  System.out.println("*****************"
+
+  System.out.println("******************"
+
+  System.out.println("*****************"
+  System.out.println("**************************
+  System.out.println("***********************************
+  System.out.println("****************"
+  System.out.println("**********************System.
+  System.out.print
+  *
+  System.out.out. *****************
+  System.out.out.out. 
+ 1
+  System. 122 
+\n.
+ 12
+ 00 System.
+  System.out.out.
+ 1
+
+
+ 
+  *System.out. 
+                
+ 13 
+System.OUT
+
+
+* 0.out.
+
+
+12
+1
+System 0.out
+
+  
+System
+
+System
+
+System
+
+System.1.
+
+
+
+.out. 12
+1 System
+12
+
+System 13
+
+ 3
+11
+System.
+
+2
+
+1.
+System.  1 2
+1
+
+
+ System, 8
+11.
+System
+System:
+2. 1
+
+
+2.
+
+The 1 4, 3 
+System                
+201. 8/2
+
+1
+0 8
+
+
+
+15
+
+1
+The patient
+1
+ 25
+System
+ 19
+  
+MISOL
+The
+
+The 180
+1120
+01
+
+
+
+  
+
+1
+
+
+1
+
+
+
+
+
+the.
+The
+the date:
+ 5.
+A
+
+
+  
+
+
+
+19
+
+
+
+1.
+
+  date
+
+
+
+
+ 
+12.
+
+A,and the month, and the Monday.
+It
+   4
+
+12
+  00: The: PRA MENT ( 48
+  220
+: 3:1
+: 
+   
+
+  
+                : 
+
+   99663010
+892411430189
+12817230:2:
+
+
+The:
+The: 3.
+1
+
+
+
+C SOL
+1855
+
+12:4:
+
+38:1952.5: 9:11, a: An.1999, an date, the Anisters, M16 An An CSA date,15968000110 and,0 and thely.
+11011 and a "90. 9100 and a and [85 and time,0-209,8-1250125 and the [75 and the and the and in the patient in the avert andist and the andian and 4. Anist,15819617 in the 9-12101051-001000020 in the and 20-31 a119911 and the:5. and the anition, the and the and (MAIS,9 A POL DIIS17. 93 and patientian,0 (d (c (the. the. 9 a. the.9 6 and the [7 and (6 and the and the and, AN and ancer with anistic in a-25. 2 and 2 and a by the, the a the.0 the and an and 0, 4885. an and a and "15 and: 10.. 7,. wiche: a. 8-19 in the: an [55: the. An AN CH AN CIS and " an:0 and [  and 00: [3:::  anese [9-0: 17:1 [1-2 [9 [:1 [: and in an in a: [ by the by a [ an an a by the [0 in  in a,  of. of a..  an [1  anist anized in a on a on the 1 :2:: AN A.,. : 1-1 [ine the.0 [2 and our  and: a 20010 [0-03 and1201110213. 1 [0-  and [ to a- an to a [ anized and a, and and [ to [- a [1 a and and and, and in-1-6 and11-0.00000 an and 000 2 and- a- anized  and the an and the the and and and. with the in C. and [0 and and and ( CH with and asism withness and in with as and with with in a " and an " and and and-2 and an and the a the and the the in  in a-1 with a with and a-1 and the and cient and (  [1 (1 (. and [1 c and  and [ and. and -. wanger and c. a and-1-t w and. a0 and-1 and. an: the c of a of ( of the,  and of the. and of the on ( prior  of  of and for for  of a for for  and and ( wager and (2 w0 and the and and and  and 0-1 and "-1 (  mient and and 1 and and :  and and [ and _: (1-0 and and [ and- and and in:: and to  and,-: to (1 [ in:: and ( and: and: and: 3-C: [. and in and cines of " to in and  and (1 1 and-1 "1 ( CH and (1 "1 and: [01 and and 11 and and-  and and-1 ( and and and and (0 and: 01 (11. "0.  and [3 and-1. 0. and, and. 1 and and and (1 [1 and in: and, and -1 (1 [40 and ([[.  as a " and and and [ [1 (10 ( and a and as... on ( and. and and (  in (. and and 1 and and and [ and [1  and... C2 and [ and (0 ( and a " or ( and  and a (1 1 901102 and ( and and.-  in and-[1-c " in1 or "1 and (1 and an and and a " an but  and [ and and " [ and as and and and and RE and but11 and [0010 and- and- and c ( in a-0 and and a and a and [ " and " to [1 and ( and an ( and on  and and and and and t and " [. and or and ( and. and c but- but but and and and. - and an and- a and t. and c  an "- and " and and " to a and " wine and- and- of " of of the " of "1 and-12 and of and (1-0 ( and " and and a and and and2 1 "2 and to and and cated to in to as in with " an ( and and and " if a in, "0 in an " and and and and and -4 and in or in ( and in a to an in- and "2 "1 and or a and " and and ". in a and an and to an-to to an "2 of an120 and "23240.0 but ( in an-2 and a-22 and-19 to an210 and and and to and and (0 " to the and " and "1 or and to " and and [-2-4 and- and and " in an in and and to and and or

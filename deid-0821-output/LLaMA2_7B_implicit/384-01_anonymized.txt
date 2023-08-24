@@ -1,0 +1,351 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2082-06-29
+
+                     CKMC EMERGENCY DEPT VISIT
+ 
+UHRICH,KARSON   456-30-26-8                 VISIT DATE: 06/29/82
+The patient was seen and evaluated with the medical intern, I agree 
+with the medical intern's note. 
+PRESENTING COMPLAINT:  The patient is a 65-year-old female with a 
+history of hypertension, hypercholesterolemia, depression, H 
+pylori, gastric reflux with increasing back pain and epigastric 
+pain. 
+HISTORY OF PRESENTING COMPLAINT:  She says over the last couple of 
+days it is unrelieved with food but not exacerbated by food.  She 
+occasionally has a pressure in her epigastrium, no radiation to her 
+neck, chest, no shortness of breath, no palpitations, no 
+diaphoresis, no vomiting, no hematochezia, or melena but she has 
+had increased frequency of her BM to three or four a day.  No 
+dysuria or urgency.  She describes the pain as constant. 
+PAST MEDICAL HISTORY:  Hypertension, hypercholesterolemia, GERD. 
+MEDICATIONS:  Tetracycline, Prilosec, Ativan, atenolol, Zestril. 
+ALLERGIES:  Aspirin which causes upset stomach. 
+SOCIAL HISTORY AND FAMILY HISTORY:  Nonsmoker. 
+PHYSICAL EXAMINATION:  Temperature 98.1, pulse 92, respiratory rate 
+16, blood pressure 196/84.  Skin:  Warm and dry.  She is 
+well-developed, well-nourished female in no distress.  Pupils are 
+equal, round, reactive light.  Extraocular movements are full. 
+Sinuses nontender.  Oropharynx clear.  Nasopharynx clear.  Neck: 
+Supple, full range of motion.  There is no JVD.  Heart:  Regular 
+rate and rhythm without murmur.  Abdomen is soft.  Lungs are clear. 
+Extremities:  There is no clubbing, cyanosis, or edema.  Rectal 
+exam is nontender with brown, trace guaiac positive stool. 
+Neurologic exam is nonfocal. 
+LABORATORY EVALUATION:  Patient had a white count of 7.5, 
+hemoglobin of 14, platelet count of 259.  Electrolytes are normal. 
+Amylase and lipase are 71 and 204 respectively.  H pylori IgA is 
+positive from previous studies.  CK is 72, troponin is 0.  Chest 
+x-ray is reviewed with Radiologist and is normal.  EKG shows normal 
+sinus rhythm with some T wave flattening in the inferior lateral 
+leads. 
+THERAPY RENDERED/COURSE IN ED:  Patient was seen, given aspirin, 
+Lopressor, and nitroglycerin.  If her pain doesn't resolve with and 
+a GI cocktail she will be admitted to the Observation Unit.  Because 
+ of the concern that her pain goes to her back, she has a CT scan 
+to rule out aortic dissection which is reviewed with the 
+Radiologist and is negative. 
+FINAL DIAGNOSIS:  Atypical chest pain, perhaps consistent with 
+angina. 
+DISPOSITION (including condition upon discharge):  Condition at 
+this time is stable. 
+___________________________________                    DM972/9882 
+URIEL NIX, M.D.     UN49                    D:06/29/82 
+                                                       T:06/29/82 
+Dictated by:  URIEL NIX, M.D.     UN49 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+### <a name="240-a"></a> 240 A
+### <a name="240-c"></a> 240 C
+### <a name="240-d"></a> 240 D
+### <a name="240-e"></a> 240 E
+### <a name="240-f"></a> 240 F
+### <a name="240-g"></a> 240 G
+### <a name="240-h"></a> 240 h
+
+
+
+Record date: 2082-06-29
+
+                       EMPLOYMENT AND INDEPENDENT CONTRACTOR
+ 
+UHRICH,KARSON   456-30-26-8                 VISIT DATE: 06/29/82
+I certify that the above information is true and complete to the 
+best of my knowledge and I agree with the medical intern's note. 
+I will be in touch if there are changes to the above information 
+or any problems. 
+
+                  KARSON UHRICH                   SIGNATURE OF RECORD SUBJECT
+                                                       DATE: 06/29/82
+
+
+
+Record date: 2082-06-29
+
+                          EMERGENCY DEPARTMENT DIRECTIONS
+ 
+UHRICH,KARSON   456-30-26-8                 VISIT DATE: 06/29/82
+Patient is to be seen again by her internist and follow up with 
+cardiology.  If her pain doesn't go away with the meds, she is to 
+have more labs drawn and be admitted. 
+
+                      KARSON UHRICH
+                                   PHYSICIAN ORDER
+                                   SIGNATURE OF ATTENDING PHYSICIAN
+                                   DATE:06/29/82
+
+
+
+Record date: 2082-06-29
+
+                          DISCHARGE INSTRUCTIONS
+ 
+UHRICH,KARSON   456-30-26-8                 VISIT DATE: 06/29/82
+1.  Patient is to be seen again by her internist and follow up 
+with cardiology.
+2.  If pain does not go away with meds, have more labs drawn and 
+be admitted to the hospital. 
+3.  Take aspirin as prescribed by physician and be seen for 
+follow-up.
+4.  If patient is having any difficulty with any of the 
+medications, contact the prescribing physician. 
+
+                      KARSON UHRICH
+                                   PHYSICIAN ORDER
+                                   SIGNATURE OF ATTENDING PHYSICIAN
+                                   DATE:06/29/82
+                                   
+                              REGISTRATION NUMBER: DM972/9882
+
+
+
+
+### Comments (300 chars)
+
+This record was created using the UMLS MEDDRA (MEDical DIagnosis REcords Architecture)
+
+### <a name="241-a"></a> 241 A
+### <a name="241-c"></a> 241 C
+### <a name="241-d"></a> 241 D
+### <a name="241-e"></a> 241 E
+### <a name="241-f"></a> 241 F
+### <a name="241-g"></a> 241 G
+### <a name="241-h"></a> 241 h
+### <a name="241-l"></a> 241 l
+### <a name="241-m"></a> 241 m
+
+
+
+Record date: 2082-06-29
+
+                    HOSPITAL DISCHARGE RECORD
+ 
+UHRICH,KARSON   456-30-26-8                 VISIT DATE: 06/29/82
+HOSPITAL:   CENTRAL CITY HOSPITAL 
+DIAGNOSIS:  ANGINA, PESSIMISM                
+LENGTH OF STAY: 1 DAY
+
+                      KARSON UHRICH
+                                   PHYSICIAN ORDER
+                                   SIGNATURE OF ATTENDING PHYSICIAN
+                                   DATE:06/29/82
+
+
+
+Record date: 2082-06-29
+
+                          DISCHARGE RECORD
+ 
+UHRICH,KARSON   456-30-26-8                 VISIT DATE: 06/29/82
+This is a discharge summary for Karson Uhrich.  This record was 
+created using MEDDRA (MEDical DIagnosis REcords Architecture). 
+
+                      KARSON UHRICH
+                                   PHYSICIAN ORDER
+                                   SIGNATURE OF ATTENDING PHYSICIAN
+                                   DATE:06/29/82
+
+
+
+
+### Comments (300 chars)
+
+This record was created using the UMLS MEDDRA (MEDical DIagnosis REcords Architecture)
+
+### <a name="241-a"></a> 241 A
+### <a name="241-c"></a> 241 C
+### <a name="241-d"></a> 241 D
+### <a name="241-e"></a> 241 E
+### <a name="241-f"></a> 241 F
+### <a name="241-g"></a> 241 G
+### <a name="241-h"></a> 241 h
+### <a name="241-l"></a> 241 l
+### <a name="241-m"></a> 241 m
+
+
+
+Record date: 2082-06-29
+
+                     ADMITTING HISTORY
+ 
+UHRICH,KARSON   456-30-26-8                 VISIT DATE: 06/29/82
+This is a discharge summary for Karson Uhrich.  This record was 
+created using MEDDRA (MEDical DIagnosis REcords Architecture). 
+
+                      KARSON UHRICH
+                                   PHYSICIAN ORDER
+                                   SIGNATURE OF ATTENDING PHYSICIAN
+                                   DATE:06/29/82
+
+
+
+
+### Comments (300 chars)
+
+This record was created using the UMLS MEDDRA (MEDical DIagnosis REcords Architecture)
+
+### <a name="242-a"></a> 242 A
+
+
+
+Record date: 2082-06-29
+
+                        PATIENT REGISTRATION SUMMARY
+ 
+UHRICH,KARSON   456-30-26-8                 VISIT DATE: 06/29/82
+This is a hospital visit summary for Karson Uhrich, which was 
+created using the UMLS MEDDRA (MEDical DIagnosis REcords 
+Architecture) and is a standardized set of codes that are 
+internationally recognized as a vocabulary for medical 
+disease. 
+
+                      KARSON UHRICH
+                                   SIGNATURE OF ATTENDING 
+PHYSICIAN
+                                   DATE: 06/29/82
+
+
+
+
+#### <a name="242-c"></a> 242 C
+
+
+
+Record date: 2082-06-29
+
+                        PATIENT REGISTRATION SUMMARY
+ 
+UHRICH,KARSON   456-30-26-8                 VISIT DATE: 06/29/82
+This is a hospital visit summary for Karson Uhrich, which was 
+created using the UMLS MEDDRA (MEDical DIagnosis REcords 
+Architecture) and is a standardized set of codes that are 
+internationally recognized as a vocabulary for medical 
+disease. 
+
+                      KARSON UHRICH
+                                   SIGNATURE OF ATTENDING 
+PHYSICIAN
+                                   DATE: 06/29/82
+
+
+
+Record date: 2082-06-29
+
+                       PRESCRIPTION RECORDS
+ 
+UHRICH,KARSON   456-30-26-8                 VISIT DATE: 06/29/82
+The information in this section has been created using MEDICAL 
+DIAGNOSIS RECORDS ARCHITECTURE. 
+
+                      KARSON UHRICH
+                                   SIGNATURE OF ATTENDING 
+PHYSICIAN
+                                   DATE: 06/29/82
+
+
+
+Record date: 2082-06-29
+
+                       ADMINISTRATION RECORDS
+ 
+UHRICH,KARSON   456-30-26-8                 VISIT DATE: 06/29/82
+The information in this section has been created using MEDICAL 
+DIAGNOSIS RECORDS ARCHITECTURE. 
+
+                      KARSON UHRICH
+                                   SIGNATURE OF ATTENDING 
+PHYSICIAN
+                                   DATE: 06/29/82
+
+
+
+Record date: 2082-06-29
+
+                      MEDICAL TESTS
+ 
+UHRICH,KARSON   456-30-26-8                 VISIT DATE: 06/29/82
+Test Name:   LIPID PUFA Ratios                   Procedure:   Blood
+
+
+Test Results: 1616.0
+
+                      KARSON UHRICH
+                                   SIGNATURE OF ATTENDING 
+PHYSICIAN
+                                   DATE: 06/29/82
+
+
+
+
+
+
+
+
+
+
+
+Record date: 2082-06-29
+
+                        PATIENT REGISTRATION SUMMARY
+ 
+UHRICH,KARSON   456-30-26-8                 VISIT DATE: 06/29/82
+This is a hospital visit summary for Karson Uhrich, which was 
+created using the UMLS MEDDRA (MEDical DIagnosis REcords 
+Architecture) and is a standardized set of codes that are 
+internationally recognized as a vocabulary for medical 
+disease. 
+
+                      KARSON UHRICH
+                                   SIGNATURE OF ATTENDING 
+PHYSICIAN
+                                   DATE: 06/29/82
+
+
+
+Record date: 2082-06-29
+
+                        PRESCRIPTION RECORDS
+ 
+UHRICH,KARSON   456-30-26-8                 VISIT DATE: 06/29/82
+The information in this section has been created using MEDICAL 
+DIAGNOSIS RECORDS ARCHITECTURE. 
+
+                      KARSON UHRICH
+                                   SIGNATURE OF ATTENDING 
+PHYSICIAN
+                                   DATE: 06/29/82
+
+
+
+Record date: 2082-06-29
+
+                       ADMINISTRATION RECORDS
+ 
+UHRICH,KARSON   456-30-26-8                 VISIT DATE: 06/29/82
+The information in this section has been created using MEDICAL 
+DIAGNOSIS RE

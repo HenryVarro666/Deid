@@ -1,0 +1,557 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2074-12-21
+
+EDVISIT^98044905^WARE, VINCENT^12/21/74^VILLA, SCOTT
+
+CHIEF COMPLAINT:  Dyspnea on exertion.
+
+HISTORY OF PRESENT ILLNESS:  Mr. Ware is a 67-year-old man with
+
+a history of diabetes and myelodysplastic syndrome, status post
+
+stem cell transplant who presents to the Emergency Department
+
+with a 2 to 3 week history of increasing exertional dyspnea.  The
+
+patient denies chest pain, palpitations, or syncope but does
+
+complain of bilateral lower extremity edema times several weeks. 
+
+The patient has been worked up for the symptoms as an outpatient
+
+and placed on Lasix for the past 2 weeks and had an
+
+echocardiogram today, which was remarkable for atrial
+
+fibrillation.  The patient was sent to the Emergency Department
+
+for further evaluation.  Please see the written record for
+
+further details.
+
+PAST MEDICAL HISTORY:  Insulin-dependent diabetes,
+
+myelodysplastic syndrome, status post stem cell transplant.
+
+PAST SURGICAL HISTORY:  Basal cell resection.
+
+SOCIAL HISTORY:  The patient denies smoking, alcohol, or illicit
+
+drug use.
+
+MEDICATIONS:  Lasix, vitamin D, Lantus, and acyclovir.
+
+ALLERGIES:  No known drug allergies.
+
+PHYSICAL EXAMINATION:  I have examined the patient and agree with
+
+the physical as documented.  Of note, the patient is awake and
+
+alert, in no acute distress.  Vitals:  Temperature is 96.9, pulse
+
+is 100 to 128, respiratory rate of 18, blood pressure is 118/70,
+
+and oxygen saturation is 96%.  Lungs:  Clear bilaterally with no
+
+rales, rhonchi, or wheezing.  Cardiovascular exam:  Irregularly
+
+irregular rhythm.  Normal S1 and S2.  No murmurs.  Abdomen:  Soft
+
+with no tenderness, guarding, or rebound.  Extremity exam:  The
+
+patient has bilateral lower extremity 2+ pitting edema, left
+
+greater than right.  No calf tenderness.
+
+MEDICAL DECISION MAKING AND EMERGENCY DEPARTMENT COURSE:  Mr.
+
+Ware is a 67-year-old man with diabetes and a 2-week history of
+
+increasing dyspnea on exertion.  His chest x-ray did not
+
+demonstrate pulmonary edema, but was significant for bilateral
+
+pleural effusions.  The patient's EKG demonstrated a flutter with
+
+a ventricular rate of 121 with inferolateral T-wave inversions. 
+
+The patient was given IV and p.o. Cardizem with control of the
+
+ventricular rate.  At the time of this dictation, the patient's
+
+laboratory data are not available.  The plan is to admit the
+
+patient to the hospital for further management.
+
+PRIMARY DIAGNOSIS:  New onset AFib.
+
+DISPOSITION:  Admission.
+
+CONDITION UPON ADMISSION:  Good.
+
+______________________________
+
+VILLA, SCOTT M.D.
+
+D: 12/21/74
+
+T: 12/21/74
+
+Dictated By: VILLA, SCOTT
+
+eScription document:7-5753770 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+Record date: 2075-02-23
+
+EDVISIT^98599904^WILLIAMS, JAMES^23/23/23^BURTON, JULIA
+
+CHIEF COMPLAINT:  Abdominal discomfort
+
+HISTORY OF PRESENT ILLNESS:  Mr. Williams is a 23 year old
+
+male who presented to the Emergency Department with complaint of
+
+abdominal pain and vomiting for the past 24 hours.  The patient is
+
+a known case of ulcerative colitis for 5 years with no recent
+
+changes in medication, including steroids.
+
+Past medical and social history is non-contributory.
+
+PAST MEDICAL HISTORY:  Ulcerative Colitis
+
+PAST SURGICAL HISTORY:  None
+
+SOCIAL HISTORY:  Denies smoking, alcohol, or illicit drug use.
+
+MEDICATIONS:  Prednisone, 60 mg daily.  Azulfidine 3x daily.
+
+ALLERGIES:  No known drug or food allergies.
+
+PHYSICAL EXAMINATION:  Performed a complete physical
+
+examination including a pelvic examination.  Mr. Williams' vital
+
+signs are: blood pressure 80/50, pulse is 36 with regular
+
+rhythm, respiratory rate is 22 per minute, and oxygen saturation
+
+is 98%.  General appearance is unremarkable.  Lungs are clear to
+
+the left chest wall.  Abdomen is soft, nontender with no
+
+palpable masses.  Extremities are non-tender.  Mr. Williams has
+
+moderate to severe abdominal distention with mild tenderness to
+
+the left upper quadrant.  The remainder of the physical exam is
+
+normal.
+
+MEDICAL DECISION MAKING AND EMERGENCY DEPARTMENT COURSE:  Given
+
+Mr. Williams' complaints and abdominal findings, he is
+
+admitted to the hospital for further management.
+
+PRIMARY DIAGNOSIS:  Unspecified GI Bleeding
+
+DISPOSITION:  Admission
+
+CONDITION UPON ADMISSION:  Good
+
+----------------------------------------------------------------
+
+VILLA, SCOTT M.D.
+
+D: 02/23/23
+
+T: 02/23/23
+
+Dictated By: VILLA, SCOTT
+
+eScription document:8-13075687 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+Record date: 2077-03-23
+
+EDVISIT^61326103^MARTIN, MATTHEW^23/23/77^BURNS, SARA
+
+CHIEF COMPLAINT:  Abdominal discomfort
+
+HISTORY OF PRESENT ILLNESS:  Mr. Martin is a 22 year old
+
+male with a past medical history of Crohn disease.  The patient is
+
+complaining of abdominal pain with associated nausea.  The patient
+
+denies any past or recent changes in medications, including
+
+steroids.
+
+PAST MEDICAL HISTORY:  Crohn Disease
+
+PAST SURGICAL HISTORY:  None
+
+SOCIAL HISTORY:  None, Denies smoking, alcohol, or illicit
+
+drug use.
+
+MEDICATIONS:  Prednisone, 30 mg daily.
+
+ALLERGIES:  None
+
+PHYSICAL EXAMINATION:  The patient's vital signs: blood pressure
+
+118/70, pulse is 88 with regular rhythm, respiratory rate is 16,
+
+and oxygen saturation is 92%.  General appearance is unremarkable
+
+except for the abdominal findings, which are moderate to severe
+
+abdominal distention and tenderness to the left upper quadrant.
+
+The remainder of the exam is non-contributory.
+
+MEDICAL DECISION MAKING AND EMERGENCY DEPARTMENT COURSE:  Given
+
+this history along with the abdominal exam, he is admitted to the
+
+hospital for further management.
+
+PRIMARY DIAGNOSIS:  Acute Abdominal Pain
+
+DISPOSITION:  Admission
+
+CONDITION UPON ADMISSION:  Stable
+
+----------------------------------------------------------------
+
+VILLA
+
+Record date: 2077-10-01
+
+EDVISIT^61326103^MARTIN, MATTHEW^23/23/77^BURNS, SARA
+
+CHIEF COMPLAINT:  Abdominal discomfort
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 22 year old male with
+
+a past medical history of Crohn disease.  The patient is
+
+complaining of abdominal pain with associated nausea.  The patient
+
+denies any past or recent changes in medications, including
+
+steroids.  prednisone, 30 mg/day steroid 30 mg/day of 50 mg/55
+
+
+medication/day/4
+
+
+
+*
+
+*
+
+
+* 
+
+
+
+
+
+1
+1 
+
+
+
+*
+
+
+
+
+\n
+
+\
+
+\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*
+
+
+
+
+
+
+
+
+
+
+
+*
+
+
+* 
+
+
+
+
+
+
+**
+
+1
+
+
+
+
+
+
+
+
+
+*
+
+
+
+V
+
+
+
+
+
+
+
+
+
+
+
+V
+
+
+
+
+
+
+
+
+
+
+
+
+*
+
+
+
+
+
+
+
+
+1
+
+
+1
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2*
+
+
+
+
+
+
+
+
+
+
+
+12
+2201
+
+
+
+A
+
+
+23
+
+
+
+1
+
+
+
+
+
+
+
+Record
+
+This
+
+
+
+
+
+
+1
+
+
+
+
+VOL
+
+
+V
+14
+
+
+
+1
+The 
+A
+
+A
+
+
+
+2
+
+VIV
+
+
+
+
+
+
+The patient
+
+
+
+
+
+Date:
+
+1
+
+
+A date
+[A.
+
+April
+
+I
+
+1
+
+
+The:  and [A and 
+ 5 (I in 4, and date, July
+
+[date. 1:  M. This:
+
+10:
+
+2
+
+[ 3
+This.
+[A, 
+A (2.
+1. 1 DE MIF.  9/ 9984 1, 
+1 (1... [
+
+
+
+CIF INIVE CIFY DA DIAF: 13 1,  1 0:
+old and a [1
+M. The. 007. This 2/1-2- 0. The Anient, MIL IN MOL IN DI [9, and...0
+9 and a.
+
+.
+A C 2 2 Anified 2 Anistic 2 Anical Anister and, a and old,  and [2:1 for a [2 and. [1 0, the 0 or  in [.1 and a wiffian and the day.180622 Anine Anient and [2 Anian, a "A and a patient, 1 and a 1 An Anese Anistic Anist An, An An,0 and Anine An Anistr An Anide An An An An Anist Anide An An Anition Anient An Anient but, Anient An An Anive An An An An An An An An Anister An Anistic An [20-w.  a a: : a [perous. Anich-2 (1 is [W (2. Anian for the [W for a for the and Anient.1 Anist Anist, [10 for the- -1 [ien and a-WING, 0,  and,. An,,,,,, a, [[.. [...] and to 3 Anistic,01200.00 and a [[:  -  ( W to " [1, to a and a for  to: An W. to: An,, An: a and, to the is::  to [ W: 2 to a, W W to the-t,.-1.. An. 1-W IN W IN MO W in and and- W,. An in [2. [ to [:: [: W and and and to [ to and wine to  and to the Wine for [1,, [. : [0- W for-1 W12 W00-1 and- wite W and W, and. for the for the in the W0 for wine (00 and and,1 [10 W with 0 with- W W and with and for W for w for a- [ and W and-0 W or- and and and,  W and and W., and. and-0 and and, W, w- [-, w.- - in. and- a and and W- W W Wine in and W W W and W or to and or to W, is W, is is to is or - [ is to- W, W W-3 W [ for-0 old- to is ( W W.,- W W and- W or on a W Wism- but, but, and to but and- W [ and ( C and is and on to W W but to W- W old- [- W and with a for (-  and for, [,  ( [ W or, and,  W. W-  W to  W. ( and to, [ to  on and W L W and- and or- or W and  and and, and and, and and,  (  and, W [ and W, W- or, or, W W and  W with and and, and was and- [ W W W.  and and to but, W and- but to- W - and or but W, and to. but. W W, W (: C:: W W, : (: D,.:. C ( W (, (, W to,, to, or, W to [ [. to, to- D ( D and to ( and- W L and -, W H- W (- B D- C,- and - W [ for and- - W W W to and,,- W,, ( - W and W-  W (  W [ L.  W- [ [ W and ([ [ [ [ W and W [ W ( [ ( W and  W or- W and and (  and [, and or [ ( [ W-,, [[ [ (- and and and [ and- [-1 (, -1, -1- - and ( and- W- - and- and- - H to- and and- H- and--, and [-- and-.- D to- or -- [- [ - C [ ( [ ( D- [ and or [. [ or ( or- and-/- [ H- and- -,- [ or,  [ [ [ ( [ [-,-, and and and and and [, ( [ w and [ [- [-. [, and ( and and and ( for- and, [ or- (, and and [- and and [ and [ [,, ( [- and and and- and [ C and- -- (- [ C and, or ( [ and or " or [ and but " and and C and and- and to C- [ P- and and M, and and and ( and- - C [, -. and  and C ( (- and  ( -1- and-- -,,,- (--1, or or- (- or, or and. or to or- or and-- or- ( and- [-. [ ( (- or- [- and and  w [ [ [- [- for, [ and- ( [ and ( [  or to [ [ and ( [ [ [ (.  and [ ( or ( to (, to- ( C. [ [ [- (0 [ ( w and w w w, (-2, and and, [ C- [[.- and-  w ( c (- ( or ( [ and-- t or, ( and, [ ( or [ ( [ ( w [ [ w and [ ( ( w [ and-1, ( [[-, [ [- [- [[ and and to

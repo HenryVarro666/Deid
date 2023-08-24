@@ -1,0 +1,441 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2155-07-11
+
+
+
+July 11, 2155
+
+
+
+Name:	Olive, Xavier		
+
+MRN: 26690002
+
+
+
+Mr. Olive was seen with Dr. Innis in general neurology clinic on 07/11/55.   Dr. Innis was present for or performed all salient aspects of the history and physical exam and together we discussed with the patient the work-up and treatment plan. 
+
+
+
+Return visit.
+
+Mr. Olive is a 71y old RHM, with Idiopathic Parkinson's disease. He was started on Sinemet 25/100mg tid with significant improvement in his balance & gait & rest tremor. However there were still periods of shuffling & stumbling especially going down slope. He also complained of persistant fatigue in his legs. We started him on Amantadine 100mg tid during his last visit. He did not tolerate it well & complained of dizziness especially when he goes out, even with reduced dose of 100mg bid. He has discontinued it since then.
+
+He is tolerating Sinemet well, no hallucinations, on-off phenomenon. He does not notice any wearing off of the effect prior to next dose. No dyskinesias.
+
+No new Neurological symptoms. He still has poor balance but his posture is much improved.
+
+PMHx: 
+
+HTN
+
+Hyperlipidemia
+
+DM type-2
+
+PVD
+
+BPH
+
+H/O colon cancer, s/p partial colectomy
+
+H/O throat surgery in past, does not know the details
+
+Medications at Home:
+
+Sinemet 25/100mg bid.
+
+Simvastatin 10mg QHS
+
+Ranitidine 150mg QHS
+
+Metformin 850mg tid
+
+Lisinopril 2.5mg QD
+
+Gabapentin 100mg bid
+
+Folic acid 1mg QD
+
+Atenolol 25mg QD
+
+Glyburide 2.5mg QD
+
+Bupropion 150mg QD
+
+Ferrous gluconate 325mg TID
+
+Terazosin 4mg QHS
+
+Pyridoxine 50mg QD
+
+Plavix 75mg QD
+
+Allergies: NKDA
+
+Limited physical Exam:
+
+Neuro: 
+
+MS: Alert, oriented, appropriately interactive. Follows all commands. Speech is fluent without paraphasic errors. Voice is hypophonic. Facial expression is flat.
+
+CN II-XII:  Visual fields full to confrontation; PERRLA 3.5 => 3.0; no ptosis; no nystagmus, no hypometric saccades, full EOMI, no restriction of upgaze; sensation on face normal bilaterally, no facial asymmetry; reduced spontaneous blinking of eyes; good smile; good cheek puff; tongue and palate midline; grossly normal hearing; good shoulder shrug and head turn.
+
+Motor:  normal bulk, axial rigidity present. Mild cogwheel rigidity, R>L at rest. No rest tremor. No drift.  Strength 5/5 throughout including: biceps, triceps, brachioradialis, finger flexor and extension, hip, knee and ankle flex and extensions. No bradykinesia.
+
+Sensation:  Decreased to touch, temperature and pin prick bilaterally in feet. Vibration reduced in toes. JP sense normal bilaterally. 
+
+Cerebellar:  Good FNF, rapid alternating movements
+
+Gait/Stance:  Gait is wide based with mild stooped posture, slightly unsteady but no festination noted today. Decreased arm swing noted while walking. Not able to tandem.   Rhomberg negative. Able to rise and sit without assistance.
+
+
+
+Assessment and Plan: 71y old RHM, with early idiopathic Parkinson's disease. No evidence of restricted up gaze (PSP), or parkinson-plus syndrome at this time. He had a good response to Sinemet but still has persistent fatigue & periods of festination. Recommend increasing Sinemet to 37.5/150mg tid 7am, 12noon, & 5pm. Wife will give me a call in 2wks to let me know his progress.
+
+
+
+Follow up in Neurology clinic in 3mths. Patient & family can contact me in interim with any concerns.
+
+
+
+Thank you very much for allowing me to participate in the care of this patient.
+
+
+
+Sincerely,
+
+
+
+___________________________________
+
+Isabella Edmond, M.D.
+
+Resident in Neurology
+
+Pager #: 98768
+
+CC:
+
+Michael Ulrey MD
+
+24 WOOD ST
+
+SYDNEY, WV 65157
+
+
+
+Ximena Keane
+
+46 Marshall Street
+
+Conneaut Lake, WV: 85486
+
+
+
+
+
+
+
+
+
+___________________________________
+
+___________________________________
+
+
+
+```
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    """
+    # This is the data that would be sent back to the patient.
+    patient_dict = dict(data_dict)
+    patient_dict = clean_data(patient_dict)
+    pager_dict = dict()
+    if 'pager' in data_dict:
+        pager_dict['pager_number'] = data_dict['pager'].replace(' ', '')
+        pager_dict['name'] = data_dict['patient'].replace(' ', '')
+    patient_dict['pager'] = (pager_dict and 'pager' in data_dict) or ''
+    return patient_dict
+
+
+#############################################################################
+# The functions for cleaning and converting the data to the appropriate formats.
+#############################################################################
+
+def clean_data(data_dict):
+    """
+    Function:
+        This function cleans the data that is returned by the clinic.
+
+    Inputs:
+        data_dict -- the data from the clinic that will be cleaned
+    Returns:
+        cleaned data_dict -- with all the clinic's data cleaned, but not changed
+    """
+    # This function does not change the data, it just cleans it.
+    data_dict['date'] = str(data_dict['date']).split(" ")[0]
+    data_dict['pager'] = clean_phone(data_dict['pager'])
+    if 'name' in data_dict:
+        data_dict['last_name'] = clean_name(data_dict['last_name'])
+    if 'dob' in data_dict:
+        data_dict['dob'] = clean_date(data_dict['dob'])
+    if 'address' in data_dict:
+        data_dict['address'] = data_dict['address'].strip(' ')
+    if 'home_phone' in data_dict:
+        data_dict['home_phone'] = clean_phone(data_dict['home_phone'])
+    if'mobile_phone' in data_dict:
+        data_dict['mobile_phone'] = clean_phone(data_dict['mobile_phone'])
+    return data_dict
+
+
+def clean_phone(num):
+    """
+    Function: Clean up a phone numbers
+
+    Inputs:
+        num -- The number you have received from the clinic
+    Returns:
+        clean_phone_num -- the phone number with all special characters changed.
+    """
+    # this function replaces all numbers that look like numbers, and replaces
+    # numbers with strings that would be an age.
+    # it also removes any strings in the phone number
+    # it returns a string of all special characters, such as + and - signs,
+    # and spaces.
+    return_date_num = 0
+    return_age, initials, return_age, name, etc.
+    return date, name, etc.
+    return_
+    return_age,
+    return_age, return_age, etc.:
+    return
+    return_age,
+    return_age, return_age, initials, etc. return_age_age,
+    initials.
+    initials,
+    initials, return_age,
+    initials
+    initials, and so many
+name etc.,
+    and so-only, name,
+    return_name, initial.
+The initial
+initial initials, return_
+
+name
+
+
+name.
+    date.
+
+name initials
+    return, initial names
+
+name, initials.
+name.
+names,
+
+name, initials, initials, and name.
+name,
+name. Initially.
+
+
+name.
+name.
+
+
+Initially, initials.
+name, name, and age, initial names
+The initial names.
+
+names.
+names
+name, initial names,
+name names.
+
+initial, identify or identify names...
+name.
+idential, initial, identify names...
+[name or name, or identification
+name names of the names.
+
+names of the patient names
+
+names, names, name.
+
+or names, initial.
+or names
+or names, names, identify the date
+
+or name
+[
+[ind, identify the patient names of names.
+name, and names, and the names
+and names. and name.
+name.
+(... or names or...
+[specific,
+or names, names or...12 or 65 or the last, etcine, as the patient names of names (1, the…
+[the:
+[the name and 1:
+1, and: 10, the 
+
+[1:
+15 and the name (11...: or…... 0 [[1 or: 1, 10 or the 1 are:... (... 
+the (are or include the: the 1, or, [
+
+...
+
+the, and the... (
+... [(
+12 and (make the, 20: …: and (the and 30: (the: are a are and 1, …
+
+......
+... (..., 0 and... and 1 and and, 2, 5, 
+, and the, the, (the and, [the, and [0, and and, the, and and and, 5. or, a and, 0. An (and, a, and 0, a, and [and, 1, 0, and the, (1, a…: and the... (d... the [... with: (1: [... Animal...: and... 4 (1 [are (1- are-are-le that are of the-0-by 0 [2 "and, the names, and [. and, and [1. an, and 1 [(C, 2 in and, an, or, are, a, 4, an or and-conine- and, or, (1, An CAN An, 4, a, an... an, and, 1 of, and... 6 1, An or and (1 and orine (an, and, an and, 0-1, 0 years or an 8 years of it 1 an an or and 3, an, an, an and  and an of the (le and an an, An An, an, "0-an, an: an, an-1 (an of a:: (: an-1 (an: "an-1 in: and: ::: an- :: and: and:: ( and: an: " with and and: an or in:-cl-and an an-  are in a " an an-ind ( an  " an- and of the of the of, or and an an or, in and in the (, an-and [ [ or and, ( or or or ( [ and [ [C or and an- or or ( or and- [1 [ or- and an an " an an-  or in - and- or- an- or-1-in,, of a- or, of- of the  of an-1- -C and-and  in and or [ and, an, and of an- of an and of (. and  -,, or- an- an, an of the of- an of an-or- ( or an or or, ( or, or- or an- and-  or or -- or and of- of an, An  and and  and, ( ( or- or-in-  for and an, and or of  of 1-2-  ( an or-1- or- or, ( an-le- (, An or of or or or [ An-and or, or - ( and and, and, and in, ( an or [ of or- or  an-M-  or-1 an and and- and and and-0- 0-2 of-of and, of- of of and of of and and-m and-c and- 1 of. An,,,-1-P-0-P-1-1-m-c-m-c-  of of-of- of- and and- and-1-C-t- or ( an-M an of of of- and, or- or-m of or of-M-C-1-1- of-M of and or-M- or of-M -1-m-h-cl- and: and and.-m of: C of ( and c: c: -cl-m-c-1-cl-1-1- and of-h in- or -c.- or- and- or-1-c-in or and of- of or or, of or of  and- of of and or or- and of- -cl-M.- and c-m of- of of of of the of-C-P-in-M  and and- of and- and or - and-m- - and.- (, and- 1- or ( -c- and-t --  and, m- and- and-C of and-and -- or, [ and and- of and- of in- of of " (, and- ( in- and- and-  in ( and- and and  and and, and and in and and or- ( and and and and. and and [ and and and,-  or to, and- ( and and and and,- and and-1 m- of- ( in and in and and and- or and. M (,,- - and and (- - and and-  (  and and,,,, (,,, of ( of  of of, ( of, of-M ( ( of (- M, and M in and and of and- of of of- of M of [ of of of m- and. of --M-m- of- of, and, and, (, (- and, of of or-t and ( and in in, ( and of and, m of-m ( m ( m in-1 and- and and C -m, m and and-m of M - and, and and and and of - and of and of ( of of of of M and of ( M, in-1 / C M.-t of- of M of M of  of and of and, H, - and, and, and and and and and ( and- and ( ( and, and, and- and of of m, of of m- of of of and, and H- and of, of of of of H of of of of of- of of of M- of of of of of of of of of of of of- of of of of of. of- M C M H of m of and of of of and of of of of M of of of of of of of of of of of of of of M of of

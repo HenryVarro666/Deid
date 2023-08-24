@@ -1,0 +1,610 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2090-01-03
+
+
+CC: f/up of HTN &amp; DM management
+
+
+HPI: 61 yo female who presents back to clinic having an upcoming eye appt again
+at Harmon Doctors Clinic 1/12/90.  Most recent A1C 8.5  6/15/89, being followed at MS.
+Denies any symptoms of hyperglycemia or hypoglycemia.  Denies any CP, increased
+SOB beyond her baseline, or headaches.  Has had intermittent exacerbations of her
+chronic back, shoulder, and knees pains.
+
+
+Problems
+Menopause at age 52 
+H/O R sided sciatica 
+H/O pneumonia 1/2082 
+S/P vocal cord cyst removal 
+S/P cholecystectomy 
+S/P C section x 2 
+Diabetes since '67 
+Severe nonproliferative diabetic retinopathy with severe macular edema 
+H/O pyelonephritis 
+1/16/88 cardiac MIBI with summed stress score of 0 but evidence of extensive calcified coronary plaque burden with coronary calcium score of 715 
+Hypertension 
+Depression 
+7/23/88 R shoulder arthroscopy 
+4/20/89 lumbar CT : No stenosis or disc herniation, mild deg changes of the lower lumbar spine as described with a possible tiny lateral disc protrusion on the L at L3-L4.
+
+ 
+Medications
+Atenolol 100 MG (100MG TABLET take 1) PO QD 
+Cozaar (LOSARTAN) 100MG TABLET take 1 PO QD 
+Darvocet N 100 (PROPOXYPHENE NAP/ACETAMIN... 1 TAB PO BID PRN pain 
+Ecasa (ASPIRIN ENTERIC COATED) 81MG TABLET EC take 1 Tablet(s) PO QD 
+Glucophage (METFORMIN) 1000MG TABLET PO BID 
+Lantus (INSULIN GLARGINE) 84 UNITS SC QAM 
+Lasix (FUROSEMIDE) 60 MG (20MG TABLET take 3) PO QD , 3 tablets daily - 3 tabletas diarias
+Lipitor (ATORVASTATIN) 10 MG (10MG TABLET take 1) PO QD 
+Neurontin (GABAPENTIN) 400 MG (400MG CAPSULE take 1) PO QHS 
+Paxil (PAROXETINE) 20MG TABLET take 1 Tablet(s) PO QD 
+Prilosec OTC (OMEPRAZOLE OTC) 20 MG (20MG TABLET DR take 1) PO QD 
+Verapamil SUSTAINED RELEASE 120 MG (120MG TABLET SA take 1) PO QD 
+
+
+Allergies
+NKA 
+PEx: VS: Wt 196, BP 130/71, p 62
+WDWN older female in NAD.  
+HEENT: anicteric sclerae  
+Neck: supple, no JVD.  
+Lungs: CTA.  
+CV: RRR, s1s2, nl, II/VI SEM at LSB
+Abd: soft, NT  
+Ext: no c/c/bil trace edema.  No foot ulcerations.
+
+
+A/P:
+1. HTN.  Stable, no change in regimen.
+Dietary and exercise rec's reviewed.
+2. DM.  A1C today 7.9 (improved from 8.5 in 6/2089),
+No change in regimen, being followed at MS. 
+Dietary and exercise rec's reviewed.
+Home FS monitoring as directed.
+3. Scheduled for f/up of diabetic retinopathy 1/12/90 at HDC.
+
+
+
+Singh, M.D.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    \end{document}
+\end{code}
+
+Comment: You have a `\newifthenelse` macro in your document. That's not a good idea, as I explain [here](http://tex.stackexchange.com/q/26683/5764).
+
+Comment: @Johannes_B  It seems like the answer to that question is different for each case. What if the `\ifthenelse` was only used in a `\newcommand`, for example. Would that still be a problem?
+
+Comment: @DavidCarlisle: It's a problem in the sense that it's a macro which isn't defined by LaTeX (and which is not defined as `\newcommand`, etc.), but there are ways to avoid the problems. The question I mention in my answer links to one solution (a `verbose` macro). But I would not do that. Instead, I would use a package like `\patchcmd` to patch `\ifthenelse` and make it a `\newcommand`; this avoids the problem and allows you to use `\ifthenelse` as you like. (Note that in the answer by Johannes_B I also point that the macro was used as an `\newcommand` which could easily be changed by patching the macro.)
+
+Answer: The answer is no; you can't do what you want with just some `\ifthenelse`s.  You can't just add `\ifthenelse`s and expect the code to work as you would like.  The issue is that you don't have control over what the compiler sees: if it sees
+
+\begin{code}
+\iffalse
+\end{code}
+
+then it will not do what you want, and instead it will just insert the contents of `\iffalse` (which will be the contents of `\ifthenelse` with `\thenelse` removed).
+
+You can make your code work as you want by patching the macro `\ifthenelse` to be a `\newcommand`.  Here is one way to do that: define a command `verbose` which, when you type `\verb` (the macro), will replace the `verb` with `\verb\verb`.  Then in your code, replace `\verb\iffalse` (which you want to turn back into `\ifthenelse\thenelse`) with `\verb\verbose` (which you want to be the macro `\verb\ifthenelse\thenelse`)
+
+\begin{code}
+\documentclass{article}%%<<<your class name goes here,
+\end{code}
+
+\begin{code}
+    \usepackage{verbose}%%<you can use whatever you like,
+\end{code}
+
+    \usepackage{verbose},
+\end{code}    the command you would have to be in the
+\end{code}     the command you want to
+\end{code}    the command you want to be sure to be in the code you want to be s.
+
+\end{code}  in the code you want to be sure codes,
+\end
+    be end code.
+
+\end code  be endcode the code
+
+\n code words and
+
+\n code,  code
+\code  code  codes for code words
+code words code  code 3-code  words code words code.
+code words. The
+code the codes.
+code the letters. words, codes, and words
+\words of words code words.
+words.
+
+words words, code words, words code words words and words of words,  words, etc words.
+words.
+words
+words of the words
+the word, word
+
+words of words words, words. 
+words of 4 words and words and, the words, code words of words.
+
+words, words, please words the words:words the words or code words.
+codes
+words. words the words, words, words 2 words and words or words code of words or words
+words, code words. words, words or words, codes 1 and code of the word, code words 9. the words
+or words.
+words. 0 words.
+words, and words, words.
+words, code 0 names, and words, words, or words and... 1, words and the names...
+and the words. The and words, words, and the date, and... or words and 10 or or or the date codes, and, and the names...name or words or names and names and a few, and the words...
+...
+...: the... and name and the...:
+(the patient names, names, the name of the…, 1, and 1, the…... 
+(name of the… 0 are: 
+1:  are the " are the: the are the are (1 [
+...
+[1: 
+and the or the and, and and, and, but...
+and or (the, and or, 0 or the and (10 or the: the…  are, 1, the 2 are (name, 1, the, and, and, a and... or and, and are, (the, and, and, and, 1, and, or,
+...,, and, and [1, (make and, and, a... 20, the, or, and and are, and the and, are the, the (2,... and, and,
+, (1 [1, the and: a [ and and (: (and, the: the and the [...: [anizations: “an and... (2... are... [1 [2... are are-  are are of… in the, (0 (1 (by and,... (the, and or, the, (s and and,.,, of the ( and or and. or and, the, (1. 1 an in the- 2, might or (are of the, a, ( an and and, (...
+, " and,...,, an, an, an, the,, and,, an, an (an,  or ( an, or ( an and ( an and of and and ( an, of the, and of " [ an in the, in [ an,,, and ( and, and, and of, [and, An,  An 1, an, an,, an ( an and: an or, -1: an of a-1: the and: ": : -0s ":: [:  an-...: ( [...::,: an: an and... and or [: an... an " in  an " - an-  are an an or ( and, or ( or- an or " ( [- an an of or an of  [ or or...  in (. an or, and and or [ and [ ( [... [,  an or [ [ or, [  ( or, An ( and or an... an are or... and,, an (,  or  an  an,,...,,  ( are an an ", and and of the of the of the, of  of  An ( and or ", and,  and, an- and, of the of  and of and of ( or, an ( and  are, an  (  for, are for or or  of  an for and for or an " (  or or an and  (,, or,,, or, ( of  and  :: of and  An  an and  an  an  - and ( and for or and-  of  an of [ or,- an-  [,  or and an,  and an ( or and ( of (  ( and, or or and, or,, or an or - an, or, or  and [ an of a- or an or of  or of and or of  or,,, and   or ( or or  of an of  of of of, of of of of  of the of,, and  and,,,  an,,,  and, ,,-  0  or - and  or (- and,  [   (,  and  and and  and [  or an or  " or [ and  or and or or  and or or  or or an or  C or or in  and (,   or and  C  " (  A of  of  and   C  and  and and  (,  c and   (  "  and   : and and C and and  1   or A C A  A C C- or  of " of the  (  C - C  and  and and or c,  an of  of the of  of   C (  or  or  and. and and or and, and, and, C or  of of  of  of or of C of  or and  or  C H and -,  and and -  and, (  and  and  and   -    or and,  and or,   C or ,   A  of ,  of, C and  A or and an (, and an  and  of of   2 C1 H, and or an  ( or, H  and  and or or or of, and - H and and,, and  and or,,  C  and or, and  or H and, and, ( A and, [ and C (, [ (  C and and,  and  and M  and and, H  and (  and  and    and and and  C, C and, and,, (,, H of, (, and of and and ( and ( or [ or  and and,,,,. ( M or  of a,  1 of  and, ( C H  [, C and.,, [ H,,,, C,, C, H (,., or,,  - and and in, and. H and or M Ex  or M C Ex H M T C H C M H or H ( ( H H H of ( L ( and ( C, and H H ( M H [  and ( [ [ ( M and H or M C (,, [ or and  H M  C M -  H, ( [ [ and (, and,,, ( and and or and and, and, (,. M,, and ( (,, m, M M M and and  C,, of of of C of of of of of C of A C M and ( C and, C,, M - H, C, (,  C m, C,, and ( and ( and and,, (, M  M, and of of M C. A and m. H C, of of. of and of, M,, of of of of,,

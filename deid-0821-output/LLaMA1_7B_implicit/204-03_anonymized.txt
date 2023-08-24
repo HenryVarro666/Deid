@@ -1,0 +1,179 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2135-12-15
+
+
+	CARDIOLOGY
+	
+
+	PERDUE MEDICAL CENTER
+	
+
+
+	Reason for visit:
+   Follow up visit visit
+
+
+	Interval History:
+   60 year old man with Coronary artery disease who presented in November 2134 with substernal chest pressure and evidence of inferior ST-segment elevation.  Known risk factors at that time (in addition to his age and gender) were Hypertension and tobacco smoking.  Details of that presentation as per my 12/16/34 office note.
+
+Emergent catheterization showed three areas of severe stenosis in the RCA territory, one in the ditsal RCA and two in the PLV.  The PLV lesions each received 2.5 x15mm Minivision (bare metal stents) and the distal RCA lesion received a 3.5 x15mm Vision (bare metal stent).  A non-dominant Left Circumflex had a 70% stenosis that was not intervened upon.  There was non-obstructive disease in the LAD.
+
+A transthoracic echo showed an LV EF of 54% and no wall motion abnormalities.  Left atrium was slightly dilated to 39mm.  RV function was normal.
+
+He recovered well and was discharged on an appropriate medical program (see below).  He had an outpatient ETT-MIBI to further evaluate the significance of the residual LCx disease.  He had this on 12/07/34 and he exercised for 6 minutes, 7 METS and achieved a heart rate 70% of predicted. He did not experience chest pain, had an appropriate increase in systolic blood pressure and the study was terminated due to leg fatigue.  The images showed inferior and apical thinning without ischemia.  LV EF 63%.
+
+He had a recurrent episode of chest pain (somewhat different than his MI as it was not pressure like) and presented to the ED in March.  His ECG was stable and biomarkers were negative and he had a repeat ETT-MIBI in which he exercised for 7 mins 10 sec, achieving 9 METS, 80% MPHR, peak double product 19K.  A different type of chest pain occurrred during the study and was not study-limiting.  The ECG was negative for ischemia and the perfusion images were normal, without evidence of ischemia or infarction.  LV EF 68%.
+
+He has overall done well since the time of his STEMI.  He completed part of the program at cardiac rehab.  He quit cigarette smoking at the time of the MI, and has remained abstinent since then.  He resumed normal activities without limiting symptoms in terms of chest pain or shortness of breath. His overall activity is at times limited due to ankylosing spondylitis and associated pain.
+
+Three days ago he reports the onset of chest pain.  This occurs in his left chest and lasts hours at a time.  Not related to exertion and he has not tried SL TNG.  He states that he has been carrying heavy holiday packages and did some light outdoor work, and wonders if the pain may have been caused by those activities (i.e. muscolskeletal in nature).  He has 2 flights of stairs at home and is able to climb them with minimal shortness of breath, which has not changed since the onset of the CP.  He is unsure how the character relates to that of his previous MI, and he thinks it is similar to the discomfort he had in March that prompted his ED visit and negative stress test.  He denies lightheadedness or syncope.  No orthopnea or lower extremity swelling.
+
+He continues to be compliant with his medical regimen.  He had a past sleep study which indicates the presence of sleep disordered breathing and he states he is in the process of acquiring home CPAP therapy.  He does report weight gain since stopping cigarettes.
+
+
+	Past medical history:
+   1) CAD status post inferior STEMI 11/34 with 3 bare metal stents to RCA territory (1 in distal RCA and two in the PLV).  Known residual LCx 70% lesion in a small, non-dominant vessel
+2) Hypertension
+3) Hyperlipideimia
+4) Former smoker - quit at the time of his MI
+5) Ankylosing spondylitis
+6) Thrombophlebitis of the left leg, report of DVT in other notes
+
+	
+
+	Changes to Allergies
+	
+NKA: No Known Allergies - reaction: [reviewed]
+
+
+	Medications (Confirmed):
+
+	
+ASA 
+Lipitor  20mg po daily
+lisinopril  10 mg po daily
+Niaspan 
+Plavix  75mg po daily
+Toprol XL  25 mg PO daily
+
+Physical examination:
+	
+-Pulse: 50  regular
+-weight: 268  lbs.
+-General:   Looks well, overweight, pleasant 
+-HEENT:   Jugular venous pressure 7cm, carotids 2+ bilaterally without bruits
+-Chest:   CTAB
+-Cardiac:   Point of maximal impulse is midclavicular; Distant, regular, S1 and S2, no murmurs or rubs
+-Abdomen:   Soft, obese, non-tender
+-Extremities:   No lower extremity edema, 2+ posterior tibial pulses bilaterally
+-BP: 130/75  both arms
+
+
+	EKG:
+   Baseline artifact, Sinus bradycardia at 50 bpm, clockwise rotation, minor nonspecific T wave changes; compared to 16-June-2135, the heart rate is slightly decreased, otherwise no important change.
+
+
+	Assessment and plan:
+   60 year old man with CAD status post inferior STEMI 11/34 treated with 3 bare metal stents to the RCA territory, Hypertension, Hyperlipidemia, and Ankylosing spondylitis who is overall doing well with secondary prevention efforts for his coronary disease, although he does report a chest pain syndrome for the past several days.
+
+1) Coronary artery disease: Bare metal stents only are in place in the RCA territory, and he has now completed over a 12 month course of Plavix therapy.  Given that the main treatment plan at this time for his ankylosing spondylitis is NSAIDs (i.e. Motrin), he will stop Plavix to help minimize the bleeding risk and since there is no absolute indication for him to continue it at this point. 
+
+He will continue the medical regimen of ASA 81mg daily, Lipitor 20mg daily, Toprol XL 25mg daily and Lisinopril 10mg daily.  His heart rate and blood pressure are well controlled.
+
+The chest pain syndrome that he has been having for the past several days is reassuring in the sense that it is not exertion related and it seems similar to March when he had an ETT-MIBI without ischemia on perfusion images.  He does have a known 70% stenosis in a non-dominant LCx, but two imaging studies have not shown ischemia in that territory.  His ECG today is unchanged from priors.  However, given his history we will be vigilant for any change or persistence in symptoms.  I will call the patient in several days time, and if he continues to have symptoms he can have a repeat ETT.
+
+2) Secondary prevention: Most recent Lipid panel in 10/35 on Lipitor 20mg daily shows TC 126, LDL 62, HDL 25 and TGs 195.  His LDL has been well controlled however his HDL has been very low on several readings.  Given this, along with an elevated TG value, we will start Niaspan.  He can start with 500 mg qhs for the first 2-3 weeks to help get through the common adverse effects (i.e. flushing).  He should take the medication with a glass of cold water and may take his daily aspirin 30 minutes before to help minimize side effects.  After a few weeks, he can increase to the maintenance dose of 1000 mg qhs.
+
+He has quit smoking completely since the time of the MI and plans to continue this forward. He was encouraged to increase his physical activity level.
+
+3) Hypertension: Reasonably well controlled on Toprol XL 25mg daily and Lisinopril 10mg daily.  He will be starting CPAP for sleep apnea soon which may have a favorable effect on his blood pressure.
+
+Changes to Medications this visit
+	
+Niaspan 500mg SR  po at bedtime 2 tablets each night QTY:90 Refills:2 Start: 12/15/2135
+Plavix 75mg  po daily Start: 12/16/2134 End: 12/19/2135 - Inactivated
+ASA 81mg  po daily Start: 12/16/2134
+
+Disposition:
+Return in 4-6 months or PRN
+
+	
+Jan Ivory, MD
+
+	
+cc: ADDENDUM: I spoke with the patient on 12/21 and his chest discomfort symptoms have resolved and he is feeling well in his usual activities.  So, no further testing at this point. He will call me if symptoms recur.
+
+	
+Signed electronically by  Jan Ivory, MD
+Document Status: Final
+
+
+
+	
+2
+
+A
+Sign symptoms 122
+1 symptoms 1 symptomy 
+Rec.
+20131
+
+	2
+Rec:1 symptoms
+C:	23
+101
+Signed
+sign 1
+	
+Rec:1 sign: Recorder sympt, 1.
+Rec: 120101 Sign
+15
+135
+Rec
+
+ 	Sign: Recent 19 	3.
+RE
+	
+3, 1
+Rec: 10 for 0
+	113
+
+The
+	202 	
+
+2
+
+
+12
+ 1 10
+11
+2	14
+10, 
+  	 of 02
+and 	1.
+Re
+day: 
+122.
+The date.
+[M and 2. 51. The 30.
+	 4.1
+1
+
+1
+
+ 2
+2 days.
+	
+
+The: 	time 0012. 12. The: and a:12, 9990242 120
+Nov
+	
+
+2
+1 day.			20.
+1, 	A 	CURE
+	1		1		for : C		11:	:	: (2
+[	:	2 (3:1 5-4. 1: 2 for a, and 001:22.4, 0, 0 10.10,  time 1 time to  time (to 5.	. An: An: : :3 (21 and the and record. 0 (9, a 8 An: 9,1, 2:0 with a,0 with the. An of a of an (10111 001 and a, 1 a [12 and 15 with 1 and time. 11 and card. and 1 in the 6 1.11, 1 day 5 5. An 5.1 a 4: 4 a a 1 and the card  A An (3 Anine and 31. An Ansi (1 Anni. 1. Anfect. 0 An CAF An. An 1. 10, 7. 5 in 0000.0 a 0 ( 7 in 0 (1  a 1. 1 a 10-to.  to  to 0 and to the, 3. (1 a in the an. an, butne and an and are in [. A  a.  of the,  a [acile of a a mine 2 a.  to 1 to a 6. 1 of a 3 (2 [.2. Anine.-8 and a-0 0  of  of. (:, the 0: the ( and,  and: and  and a  in:  A. (2 An An An. An. An:. an-in. [0 00 a,0 (1 An An C an: [:00 of a (1 an a0 and0. An An. An: A of a of  of.. with, [  [.  with  [  to  an 0 an for an of  a  an of  of  and  an for with, and and to  to   to  to a to 0 in  in. [0- [1 [20  to. to,  and [ are. and of anness of the and,1  and (1010 [1-2-12 a  and 1-1 in. 2- 0 a 0.0 and and  an  an in a a of of ( of a of a, an. an, an. [ are and,-in - -1 0 [-0-0 ( 0-300,-0 10.  of c of  of  of  of  of a [ of c,. and., an - and and, to, to - to and and 1 in -C C ( andness and- 0- 0-1 a and 1-1 in the 2. and of and in 1.0 and-1. and. and, an ( and. an and  and a-a and and a and... and  al.-2 an and a and of a of a of of of  of of and of  of- and of the of.. C in the of  a of the of the of the.. an in and,  m in an  and - and to a- a  of  of   in.-1 an  of.-0 of:, in. and of a of -c of C: of C in: to to to to a., the to the to: to a to-c to to to to C: a -:-a - a m-1-0-1 -. and of a of -0 to-1-1 and, a, C.-a-1 I to a a and to in and L R of - and-d I -g - a0, -00-1.1,1 - of the of of  of of  of ( and  for -1 0 (-0 (. a in  of of of of a  of of a of  and-.. in a a and to and,-0 and.  and a [1 and in  and a  a-1-0. in [ (  a [ and. a  a- of of and and of of of of of of, of the of of the a of of a.- a  of of [ of the of  of  of. in 0   in and 1 and ( ( and and.-  and but  and, and. (  and on 0 and and.-1 M- and and of a of the to  [ and to  to and and- to (  (- an and to and- a- a- (-0- and to and.-0 -  of (-m and m of of- of of of an of, of of of of c of, of c of (- but [,/.- to in and and, and and,,-a,. [ a and a,, (, and in- and a c  of  of, of  of. of of of of of if of of a if of. of-0. (1 and ( and to. 0 a of of  of of of (.,. and a 01 of  of of for of  of of of of of of of the of ( m and. M -  for of ( of, of   of in ( of of E of  of in- of,, of  of. of of of.- of of of. - of of of of the of - of of of of. to of of of of of of of of. of of of of of of of - - of  of  of of of of of of  of-- of of of of of - of- of of of of- of of  of - of - of of of M M of of and of of of of-

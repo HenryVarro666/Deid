@@ -1,0 +1,249 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2086-05-25
+
+                     FCH EMERGENCY DEPT VISIT
+ 
+TANNER,YUL M.   099-04-65-0                VISIT DATE: 05/25/86
+I saw this patient May 25 with the SAR and the attending from the 
+Short-stay Unit. 
+PRESENTING COMPLAINT:  Polyuria, fatigue. 
+HISTORY OF PRESENTING COMPLAINT:  This 50 year old man was referred 
+in by Dr. Locke covering for Dr. Tirado for polyuria and fatigue. 
+His last recorded fasting blood sugar was 185.  He has come week 
+from a trip for one week and he did follow his diet, but had 
+continued increasing polyuria, polydipsia, blurring of vision and 
+weakness. 
+PAST MEDICAL HISTORY:  Renal insufficiency and "incipient type II 
+diabetes" for which he had been following a strict diet. 
+PHYSICAL EXAMINATION:  Unremarkable except for a chronic 
+strabismus. 
+LABORATORY EVALUATION:  Laboratory studies included a blood glucose 
+of 709, an anion gap of 23 and elevated beta hydroxybutyrate. 
+THERAPY RENDERED/COURSE IN ED:  He was begun on intravenous fluids 
+and intravenous insulin, and arrangements were made to go to a 
+step-down unit on an insulin drip. 
+FINAL DIAGNOSIS:  New onset diabetes. 
+DISPOSITION (including condition upon discharge):  Admitted to 
+hospital, condition satisfactory. 
+___________________________________                    HU019/45662 
+MAX URIARTE, M.D.       MU11                          D:05/25/86 
+                                                       T:05/25/86 
+Dictated by:  MAX URIARTE, M.D.       MU11 
+
+
+
+
+Record date: 2070-03-20
+
+                     FCH EMERGENCY DEPT VISIT
+ 
+TURNER,JULIA J.   074-08-55-0                VISIT DATE: 03/20/70
+I saw this patient yesterday with the SAR and the attending of the 
+Ward Unit. 
+PRESENTING COMPLAINT:  Abdominal pain, weakness, nausea, fever, 
+vomiting. 
+HISTORY OF PRESENTING COMPLAINT:  This 18 year old girl was 
+admitted to the ward with abdominal pain for which she had been sent 
+to the ED.  On the ward, her abdominal pain became more severe as 
+well as nausea and vomiting and on examination she was tachycardic, 
+tachypneic, febrile with blood pressure of 110/75.  
+PHYSICAL EXAMINATION:  She was a well developed white girl.  Her 
+skin was moist, tachycardic, tachypneic, febrile with blood pressure 
+98/72.  
+LABORATORY EVALUATION:  Blood studies included a white blood count 
+of 8,800, 18 percent neutrophils, 1,000 red blood cells, 12,000 
+lymphocytes, sodium 114 and potassium 5, blood sugar 75, chloride 
+98 and bicarbonate 18. 
+THERAPY RENDERED/COURSE IN ED:  She received intravenous fluid 
+dehydration. 
+FINAL DIAGNOSIS:  Acute gastroenteritis. 
+DISPOSITION (including condition upon discharge):  She was discharged 
+home on 100 cc/h of IV dextrose 50% and 125 meq/hr of sodium bicarbonate. 
+MAX URIARTE, M.D.       MU11                         
+Dictated by:  MAX URIARTE, M.D.       MU11 
+
+
+
+Record date: 2067-06-24
+
+                     FCH EMERGENCY
+ 
+THORNTON,MATHEW A.   040-08-07-5                VISIT DATE: 06/24/67
+This was a walk-in visit on a Friday evening. 
+PRESENTING COMPLAINT:  Abnormal liver function test. 
+HISTORY OF PRESENTING COMPLAINT:  This 42 year old male was referred 
+to the ER by an outpatient physician for an abnormal liver function 
+test. The patient had a previous history of abnormal liver function 
+test and he was on medication for this problem. On arrival, he had 
+a temperature of 100.20 and a pulse of 102 and he complained of 
+mild abdominal pain. Physical examination revealed normal blood 
+pressure at 120/80. 
+PHYSICAL EXAMINATION:  Normal vital signs and abdominal examination 
+was essentially normal.  
+LABORATORY EVALUATION:  Lab studies included a total bilirubin of 
+7.0 and direct bilirubin of 6.5; alkaline phosphatase, 215; serum 
+glutamic oxaloacetic transaminase (SGOT) 168; serum glutamic pyruvic 
+transaminase (SGPT) 161, and alanine transaminase 72.  
+THERAPY RENDERED/COURSE IN ED:  The patient was admitted to the 
+medical intensive care unit. 
+FINAL DIAGNOSIS:  Acute hepatitis. 
+DISPOSITION (including condition upon discharge):  Admitted to ward 
+unit, condition satisfactory.  
+___________________________________                     HU010/37169 
+MAX URIARTE, M.D.       MU11                          T:06/24/67 
+Dictated by:  MAX URIARTE, M.D.       MU11 
+
+
+
+Record date: 2078-03-21
+
+                     FCH EMERGENCY DEPT VISIT
+ 
+TOBIN,RALPH F.      015-06-78-3                VISIT DATE: 03/21/78
+This patient was referred to the ED by his private physician. 
+PRESENTING COMPLAINT:  Abdominal pain, nausea. 
+HISTORY OF PRESENTING COMPLAINT:  This well developed 30 year old 
+male had a history of abdominal pain and nausea. This problem started 
+a month ago with intermittent episodes of abdominal pain and 
+nausea and it had been increasing in intensity over the past week. 
+The patient reported a history of similar episodes two months 
+ago. 
+PHYSICAL EXAMINATION:  Physical examination revealed abdominal 
+guarding, and abdominal distension but the rest of the examination 
+was unremarkable. He was alert with normal vital signs and normal 
+neurological examination. He was tachycardic. 
+LABORATORY EVALUATION:  Blood studies included a white blood cell 
+count, 10,000, hematocrit 34.6 percent and hemoglobin 12.7. 
+THERAPY RENDERED/COURSE IN ED:  The patient was seen by the surgeon, 
+who advised that there were no surgical problems and that the patient 
+should be admitted to the hospital ward for observation only. 
+FINAL DIAGNOSIS:  Acute abdomen. 
+DISPOSITION (including condition upon discharge):  Admitted to 
+ward unit, condition satisfactory.  
+___________________________________                    HU016/24585 
+MAXURIARTE, MD        MU31                          D:03/21/78 
+Dictated by:  M. D. URIARTE, M.D.       MU31 
+
+
+
+Record date: 2078-03-18
+
+                     FCH EMERGENCY DEPT VISIT
+ 
+TREVOR,JOAN C.      005-09-12-2                VISIT DATE: 03/18/78
+This patient was referred to the ED by his private physician. 
+PRESENTING COMPLAINT:  Abdominal pain, nausea, vomiting. 
+HISTORY OF PRESENTING COMPLAINT:  This 28 year old female had a 
+history of abdominal pain and nausea. The problem started two days 
+ago with intermittent episodes of abdominal pain and nausea and it 
+had been increasing in intensity over the past three days. The 
+patient reported a history of similar episodes four months ago. 
+PHYSICAL EXAMINATION:  The patient's physical examination revealed 
+abdominal guarding and distension. She was alert with normal vital 
+signs and normal neurological examination. She was tachycardic. 
+LABORATORY EVALUATION:  Blood studies included a white blood cell 
+count, 9,300; hematocrit, 34.4 percent; hemoglobin, 11.6; 
+eosinophils, 1,200/mm3; lymphocytes, 680/mm3; monocytes, 350/mm3, 
+and eosinophils, 65. 
+THERAPY RENDERED/COURSE IN ED:  She was seen by the surgeon who 
+advised that there were no surgical problems and that the patient 
+should be admitted to the hospital ward for observation only. 
+FINAL DIAGNOSIS:  Acute abdomen. 
+DISPOSITION (including condition upon discharge):  Admitted to 
+ward unit, condition satisfactory.  
+___________________________________                    HU002/13970 
+MAXURIARTE, MD        MU31                          D:03/18/78 
+Dictated by:  M. D. URIARTE, M.D.       MU31 
+
+
+
+Record date: 2107-11-07
+
+                     FCH EMERGENCY DEPT VISIT
+ 
+THOMPSON,MARION R.  027-07-54-1                VISIT DATE: 11/07/2107
+This was an urgent patient referral.  
+PRESENTING COMPLAINT:  Abdominal pain. 
+HISTORY OF PRESENTING COMPLAINT:  This 57 year old male had a 
+history of recurrent intermittent episodes of abdominal pain. It 
+had been increasing in severity the past three days and was not 
+relieved by antispasmodics. 
+PHYSICAL EXAMINATION:  Physical examination was essentially 
+unremarkable. The patient was alert and oriented and complained of a 
+history of abdominal pain. His vital signs were essentially 
+normal. 
+LABORATORY EVALUATION:  Blood studies included white blood cells 
+5,000, 90 percent neutrophils, hematocrit 42.2 percent with hemoglobin 
+16.2 gms/dL. 
+THERAPY RENDERED/COURSE IN ED:  The patient's abdominal distention 
+was relieved by administration of 1 cc. of meperidine. He was 
+discharged home with instructions to follow-up with an outpatient 
+doctor the following day. 
+FINAL DIAGNOSIS:  Abdominal distention. 
+DISPOSITION (including condition upon discharge):  Discharged 
+home from ER, condition satisfactory.  
+___________________________________                    HU012/31714 
+MAXURIARTE, MD        MU31                          D:11/07/2107 
+Dictated by:  M. D. URIARTE, M.D.       MU31 
+
+
+
+Record date: 1950-06-03
+
+                     FCH EMERGENCY DEPT VISIT
+ 
+THORNTON,MATHEW A.   040-08-07-5                VISIT DATE: 06/03/50
+This was an urgent patient referral to Emergency Room.  
+PRESENTING COMPLAINT:  Abdominal pain. 
+HISTORY OF PRESENTING COMPLAINT:  This 42 year old male had a 
+history of abdominal pain and it was increasing in severity the past 
+two days. He complained of a history of nausea and vomiting and of 
+diarrhea. 
+PHYSICAL EXAMINATION:  Physical examination was essentially 
+unremarkable. The patient was alert and oriented and complained of 
+history of abdominal pain. His vital signs were essentially 
+normal.  
+LABORATORY EVALUATION:  Blood studies included white blood cells 
+14,000, 95 percent neutrophils, hematocrit 47.2 percent with 
+hemoglobin 16.2 gms/dl, sodium 137, potassium 7, calcium 9, total 
+protein 8.5, albumin 4.2 gms/dl, blood sugar 95 and bilirubin 
+total 1.1 mg/dL. 
+THERAPY RENDERED/COURSE IN ED:  The patient's abdominal distention 
+was relieved by the administration of 1 cc of meperidine and his 
+vomiting was controlled. He had a urinary tract infection and was 
+started on antibiotics. 
+FINAL DIAGNOSIS:  Urinary tract infection.  
+DISPOSITION (including condition upon discharge):  Discharged 
+home from ER, condition satisfactory.  
+___________________________________                    HU004/16149 
+MAXURIARTE, MD        MU31                          D:06/03/50 
+Dictated by:  MAXURIARTE, MD        MU31 
+
+
+
+
+Record date: 2149-01-15
+
+                     ED EMERGENCY DEPT VISIT
+ 
+THOMSON JUANITA       023-04-24-0                VISIT DATE: 01/15/2149
+This was an urgent patient referral to Emergency Room.  
+PRESENTING COMPLAINT:  Abdominal pain of unknown origin. 
+HISTORY OF PRESENTING COMPLAINT:  This 63 year old female had a 
+history of abdominal pain of unknown origin that was increasing 
+in severity the past two days. 
+PHYSICAL EXAMINATION:  Physical examination was essentially 
+unremarkable. The patient was alert and oriented and complained of 
+history of abdominal pain. Her vital signs were essentially 
+normal.  
+
+THERAPY RENDERED/COURSE IN ED:  Her abdominal distention was 
+relieved by the administration of 1 cc of meperidine and she 
+complained of a history of abdominal pain of unknown origin. 
+FINAL DIAGNOSIS:  Abdominal pain of unknown origin.  
+DISPOSITION (including condition upon discharge):  Discharged 
+home from ER, condition satisfactory.  
+________________________________

@@ -1,0 +1,572 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2067-12-06
+
+
+
+Chief Complaint
+
+   1.  cough is better.  She uses the inhalers regularly.
+
+2.  Funny taste in the mouth after she does the inhalers in the morning.  No sore throat.  She does rinse her mouth after the pulmicort.
+
+3.  No recurrence of the hand numbness.
+
+
+
+Problems
+
+      Hypertension
+
+      Insomnia
+
+      H/O cerebrovascular accident
+
+      borderline aodm
+
+      Basal cell carcinoma
+
+
+
+Medications
+
+      Vioxx (ROFECOXIB)    25MG,  1 Tablet(s)  PO QD
+
+      Lotrisone Cream (BETAMETHASONE And Clotri...    APPLY CREAM TOP BID
+
+      Asa (ACETYLSALICYLIC Acid)    325MG,  1 Tablet(s)  PO QD
+
+      Allegra (FEXOFENADINE Hcl)    60MG,  1 Tablet(s)  PO BID PRN .
+
+      Lipitor (ATORVASTATIN)    10MG,  1 Tablet(s)  PO QD
+
+      ATENOLOL   100MG,  1 Tablet(s)  PO BID : take 1/2 in morning and 1 in evening
+
+      Flonase (FLUTICASONE Nasal Spray)    1-2 SPRAY NAS QD
+
+      Celexa (CITALOPRAM)    20MG,  1 Tablet(s)  PO QD
+
+      Prilosec (OMEPRAZOLE)    20MG,  1 Capsule(s)  PO QHS
+
+      Dyazide  (TRIAMTERENE 37.5 Mg/hctz 25 Mg)    1 CAPSULE PO QD
+
+      LISINOPRIL   10MG,  1 Tablet(s)  PO QD
+
+      Albuterol Inhaler    2 PUFF INH Q4-6H PRN .cough : use with chamber
+
+      Singulair (MONTELUKAST)    10MG,  1 Tablet(s)  PO QHS
+
+      Pulmicort (BUDESONIDE Oral Inhaler)    2 PUFF INH BID
+
+      Plavix (CLOPIDOGREL)    75 MG PO QD
+
+
+
+Allergies
+
+      Sulfa    - Unknown
+
+      Penicillins    - Unknown
+
+
+
+Social History
+
+   Married.  Her husband has Alzheimer's.  His moods are variable.  
+
+She has been going to FitSport and exercising better.
+
+non-smoker.  
+
+Six children and six grandchildren. 
+
+No alcohol in 30 years.  Prior alcohol dependence.
+
+Her daughter, son-in-law and 18 month old twins are living in her house.
+
+Her Daughter, Uber, in Vietnam may come back for the holidays.
+
+Her Daughter, Ingalls, lives in BOURNE-she is a variable cause of stress.
+
+She is going to FitSport almost every day.
+
+
+
+Review of Systems
+
+ROS-Sleep has been OK, occ wakening in the middle of the night-she uses amytriptiline at night.  energy is better since she is exercising more.
+
+
+
+Vital Signs
+
+      BLOOD PRESSURE   140/80
+
+
+
+Exam
+
+  HEENT-NC/AT, EOMI, PERRL
+
+TM-Clear
+
+Pharynx-Clear
+
+Chest-clear to P and A
+
+Cor-S1S2 normal no murmers, rubs or gallops
+
+Abd-soft, nontender, no hepatosplenomegaly
+
+Ext-no edema
+
+
+
+Disposition and Plans
+
+1.  Cough-we discussed that she will need to stay on the albuterol and the pulmicort in order to prevent the cough from coming back.  
+
+2.  Insomnia which had been such a problem seems better now.  Continue the celexa 20mg and she is also on amytriptiline (per Dr. Dill).  She will double check the dose through him. 
+
+3.  Hyperlipidemia-On lipitor.  Check LFTs and CPK along with chol/HDL today.
+
+4.  HTN-good control on the lisinopril, atenolol and dyazide.  Check electrolytes today.
+
+5.  Borderline AODM.  Check glucose today.
+
+______________________________
+
+Othel  Vidal, M.D.
+
+
+
+Record date: 2067-12-06 
+
+
+
+Chief Complaint
+
+      Hypertension
+
+      Insomnia
+
+      H/O cerebrovascular accident
+
+      borderline aodm
+
+      Basal cell carcinoma
+
+
+
+Problems
+
+      Hypertension
+
+      Insomnia
+
+      H/O cerebrovascular accident
+
+      borderline aodm
+
+      Basal cell carcinoma
+
+
+
+Medications
+
+      Vioxx (ROFECOXIB)    25MG,  1 Tablet(s)  PO QD
+
+      Lotrisone Cream (BETAMETHASONE And Clotri...    APPLY CREAM TOP BID
+
+      Asa (ACETYLSALICYLIC Acid)    325MG,  1 Tablet(s)  PO QD
+
+      Allegra (FEXOFENADINE Hcl)    60MG,  1 Tablet(s)  PO BID PRN
+
+      Lipitor (ATORVASTATIN)    10MG,  1 Tablet(s)  PO QD
+
+      ATENOLOL   100MG,  1 Tablet(s)  PO BID
+
+      Flonase (FLUTICASONE Nasal Spray)    1-2 SPRAY NAS PRN
+
+      Celexa (CITALOPRAM)    20MG,  1 Tablet(s)  PO QD
+
+      Prilosec (OMEPRAZOLE)    20MG,  1 Capsule(s)  PO QHS
+
+      Dyazide  (TRIAMTERENE 37.5 Mg/hctz 25 Mg)    1 CAPSULE PO QD
+
+      LISINOPRIL   10MG,  1 Tablet(s)  PO QD
+
+      Albuterol Inhaler    2 PUFF INH BID
+
+      Singulair (MONTELUKAST)    10MG,  1 Tablet(s)  PO QHS
+
+      Pulmicort (BUDESONIDE Oral Inhaler)    2 PUFF INH BID
+
+      Plavix (CLOPIDOGREL)    75 MG PO QD
+
+
+
+Allergies
+
+      Sulfa    - Unknown
+
+      Penicillins    - Unknown
+
+
+
+Social History
+
+Married.  Her husband has Alzheimer's.  His moods are variable.
+
+six children and six grandchildren. 
+
+no alcohol in 30 years.
+
+prior alcohol dependence.
+
+Her daughter, son-in-law and 18 month old twins are living in her house.
+
+Her Daughter, Ingalls, lives in BOURNE-she is a variable cause of stress.
+
+She is going to FitSport almost every day.
+
+
+
+Review of Systems
+
+ROS-Sleep has been OK, occ wakening in the middle of the night-she uses amytriptiline at night.  energy is better since she is exercising more.
+
+
+
+
+Vital Signs
+
+      BLOOD PRESSURE   140/80
+
+
+
+Exam
+
+      HEENT-No N, EOMI, PERRL 
+
+     Pharynx-Clear
+
+Chest-clear to P and A.   
+
+Cor-CORR, S1S2 normal no murmers, rubs or gallops.
+
+Abdominal-S1S2 soft and non-tender, no hepatosplenomegaly
+
+Ext-no edema
+
+
+
+
+
+
+
+
+
+______________________________
+
+
+
+
+
+
+
+
+
+
+
+
+____________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+__________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+patients
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+patients
+
+patient
+names, and 
+
+
+patient...
+
+patients
+
+
+
+
+
+
+or, which or [
+patient data
+
+
+
+
+
+The names and names or,
+The patient and patient name:
+
+patient names...
+and the...
+...
+
+
+and the patient, or the last of 
+Including
+
+
+
+
+
+10 names, names, and the patient... and names, and name and names
+and... (...
+and, as […
+and...
+and the patient, or... and the are or 9, and or 1
+..., the text, or…and identifying the date of a few, names, the: 10. and the patient-name: [
+and:
+1: the names and 
+names, including, 
+and “
+(1: (1:
+are... are...
+
+1 or...
+and and (
+... or... and the 
+: are are [
+are and...
+... [use, and: the (
+and, and the...1, or, and a (1, the and (are-the (
+make the and-[and 1-11...
+are, 
+are [are (are of the  (1 1, and, and and, as... or, or are and, and... (and [
+1... and a, the, and (... (...,,..., and,, (...and, and, the, an, or, and are, "1.
+, and, (are, and [, (and are, are, and 1, [1 of the, and, the,
+.,  and [make, 1, the. with the...
+: (d. 1.........1...  are [0 are [make-re are in are are, are of a and-2 or  in, and, " or in the [and, [. [[
+.,.
+ of the. of the of "., and in the, and anoc (are,, are [2 (1 or or are in the, [1, [An An and, An, an, an, an an (an, An. ( and  and of... An An, (  and, 1 and an,  (  and, an, a, "of, an of, an (, or ( an, an, An An, (an, An, A, " ( (,,, and, the,, An C and (, and, ( [[, ( (an: ( ( an ( (an-  and [,,  [ : [1: [: (:: an [: and and ( - [: the ( : an : or-an:  - an- an:- an an "- in an: ( an  " an  [- are and [- an  (.  - [ ( an an and and of and of and and of. ( an or ( and, an in and [ [ and and, ( are an, are an [ " [ [ or and, [ [ an an an - or ( ( and ( an and [ ( an of [ and are and are ( An ( and and, and [,  an and  are an (  an  of [  An An ( an of and, an an an of ( an,, ( ( and and and,,  and ( of of an of an " of and of an of, [ and an are, and or in,  in or,,,,, an an ( ( An M,, an  or,,,,, of of  or of of  of  an  and and,,  [ - An  - and ( An (  -  or  [ or  or  An An ( and  and An An (  M An An  An- [ or, and, -  and and, and or, or or an, ( or an, and, An C and, and ( an, an, of, 0 An An An,, An An T and  or and [ and, C An An  are, An C,, of, An and of An C of the, and of C and,  - and,  and, and, and,, An An and An - and, An An An and [,  and  C an and and ( and and C and - C [ [  and  C An H An  ( An An C or, [ an ( An  C ( an an or and an ( An C C C C P An C an, C an an and and and C C in and, and of or  c ( An An ( c c and ( C C C C An and: and: C ( and C an: C and C:  An An C C and- or and and C C ( or C An C " C  and  or C or and [ " or C C An C and- an [ or- or,  and,  or of or [ C An, and An An C or, and an and, and,, and, ( An P C or, M and of C of the ( of and and and ( C,, and c ( ( ( As (  - -, ,, - [, and or and, c,, and and, and and or or  and  or  and C of C [ H c of C C C ( and and,, C C  and and ( and-  and ( ( c and  and  [ and and or and and and, c  and  and C or and c and  and  and  and ( and C or - and and ( and in- and and ( and and, and and and and [ and ( and and or  [ and, c - and and  and in and- M and ( and or c and ( c and or and and ( and - and and and  c in and and,, and, (, ( M M and of M, and, or and M or and c and  and ( [ and and and ( ( and and and, and  and M Cl As C C M [ C Cl c c - and  - PO (- ( c,-  C- (,,, (,, C ( and, m c c m (, in and- (.., and. and, C ( ( M M and  Cl T S- C- H- and and C and, H and of and ( and,, M and. M ( M M M and m and and ( M. and, M and, ( and and ( and M H M H C. M T. A T H P and and ( M ( and and C- M, and [ and [ m and [, M or M M and, and, and M and M and ( M C M ( M ( M, M M and M C and M M M M C C and C and to c, to C M M and, and,, ( and and M and. M ( and and and of of of and of and, and,,, S M and M and M M P M and and M and S and ( and and and and ( M M., M and C. and F F.

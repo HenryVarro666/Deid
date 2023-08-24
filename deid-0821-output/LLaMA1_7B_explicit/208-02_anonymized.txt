@@ -1,0 +1,619 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2066-02-12
+
+                                                       Patient Name: BARRERA,MARY [ MRN: 45167459SLO ]
+
+                                                         Date of Visit: 02/12/2066
+
+
+
+
+
+
+
+
+
+Chief Complaint	
+
+The patient presents for care of pain in her legs.
+
+
+
+History of Present Illness	
+
+86F reports worsening b/l leg pain. Pain only occurs when she walks. No trauma. No pain at rest. Pain is in both legs and can't be localized to any specific part of her leg. No pain when lying down. She takes tylenol bid which helps somewhat, but is now less effective than previously.
+
+
+
+No problems with medications.  No CP or new numbness or weakness. No problems with GERD. No new muscle pain. No symptoms of hypo- or hyperglycemia.
+
+
+
+Pt recently had brain MRI ordered by ophtho for ? R hemianonymous hemianopsia. MRI revealed multiple lacunes.
+
+
+
+Medications	  
+
+ECASA	 325MG PO QD
+
+ZOCOR	 20MG PO QHS
+
+TYLENOL (ACETAMINOPHEN)	 500MG 1 Capsule(s) PO Q4H
+
+OSCAL+D (CALCIUM CARBONATE + VIT D(1TABLE...	 500MG PO BID
+
+KCL SLOW REL.	 10MEQ 2 Tablet(s) PO QD
+
+ATENOLOL	 100MG PO QD
+
+GLYBURIDE	 2.5MG PO QD
+
+HCTZ	 50MG PO QD
+
+LISINOPRIL	 40MG PO QD
+
+NORVASC (AMLODIPINE)	 10MG 1 Tablet(s) PO QD
+
+
+
+Physical Exam	
+
+WDWN elderly F, NAD
+
+175/70 P64 R12 153#
+
+Chest: CTA/P
+
+Cor: RRR, S1, S2, No MRG
+
+Abd: Soft, NT. +BS. No HSM
+
+Ext: No C/C/E; FROM; SLR negative bilaterally; no focal tenderness; no knee or hip pain.
+
+
+
+Assessment	
+
+1. AODM - last A1C=5.3; will recheck today, but d/c glyburide
+
+2. HTN - increase lisinopril to 40 mg and norvasc to 10; check chem
+
+3. OA - vioxx 12.5 qd with tylenol bid prn.
+
+4. Multiple lacunes - control htn
+
+5. CAD,  PVD and hiatal hernia - stable
+
+
+
+The patient will f/u with me in  3 mos, or sooner prn.
+
+
+
+
+
+______________________________                              
+
+
+
+Tracy T. Xenakis, M.D.
+
+
+
+
+
+
+
+
+Practice Name: 						 
+
+
+Practice Name:   					 
+
+
+
+
+                              Patient Name:   [ redacted ]
+                                        MRN:   [ redacted ]
+                                        Date of Visit: 	[ redacted ]
+                                        Record Date:  	[ redacted ]
+
+                           Chief Complaint:   None reported 
+                                    History of Present Illness: None reported
+                                    Medications:   None reported 
+                                    Physical Exam:  None reported 
+                                    Assessment:  None reported
+
+
+
+
+
+
+
+
+                           Patient Name: [ redacted ]
+                                       MRN:   [ redacted ]
+                                       Date of Visit: 	[ redacted ]
+                                       Record Date:  	[ redacted ]
+
+                           Chief Complaint:   None reported 
+                                            History of Present Illness:    None reported
+                                            Medications:    None reported 
+                                            Physical Exam:    None reported 
+                                            Assessment:    None reported
+
+
+
+
+
+
+
+
+                           Patient Name:    [ redacted ]
+                                        MRN:   [ redacted ]
+                                        Date of Visit:   [ redacted ]
+                                        Record Date:   [ redacted ]
+
+                            Chief Complaint:    None reported 
+                            			History of Present Illness: None reported 
+                            			Medications:  None reported 
+                            			Physical Exam: None reported 
+                            			Assessment:  None reported
+
+
+
+
+
+
+
+
+                           Patient Name: [ redacted ]
+                                        MRN:   [ redacted ]
+                                        Date of Visit:   [ redacted ]
+                                        Record Date:   [ redacted ]
+
+                            Chief Complaint:    None reported 
+                            			History of Present Illness:  None reported 
+                            			Medications:  None reported 
+                            			Physical Exam:  None reported 
+                            			Treatment:    None reported 
+                            			Followup:     None reported 
+
+
+
+
+
+
+
+
+
+                           Patient Name:    [ redacted ]
+                                        MRN:   [ redacted ]
+                                        Date of Visit:   [ redacted ]
+                                        Record Date:   [ redacted ]
+
+                            Chief Complaint:  Headache, 2/10  	  
+	 		History of Present Illness:  	  
+	 		Medications:  [ redacted ] 	  
+	 		Physical Exam:    [ redacted ]  	  
+	 		Treatment:  	  
+	 		Followup:    [ redacted ]
+
+
+
+
+
+
+
+
+
+                           Patient Name: [ redacted ]
+                                        MRN:   [ redacted ]
+                                        Date of Visit: 	[ redacted ]
+                                        Record Date:  	[ redacted]
+
+                            Chief Complaint:  Headache, 6/12  	  
+	 		History of Present Illness:    None reported 
+	 		Medications:  None reported 
+	 		Physical Exam:    None reported 
+	 		Treatment:    None reported 
+	 		Followup:    None reported 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                PATIENTS'S REFERENCE
+                    PATIENT NAME: 		        MRN:  [ redacted ]
+                    PRACTICE:				       
+                    DOCTOR: 	                       
+                    DATE OF VISIT: 		       
+                    RECORD DATE: 	                       
+
+
+
+
+
+
+
+
+                            PATIENT NAME:    [ redacted ]
+                                         MRN:     [ redacted ]
+                                         Date of Visit:    [ redacted ]
+                                         Record Date: 	[ redacted]
+
+                                Chief Complaint:	  Back spasms (4/23)
+                               History of Present Illness:	 
+                            				Back spasms (4/23)
+                			Medications:    [ meds redacted ]
+                            				
+                            			Physical Exam:    NP
+                            					
+                            			Treatment:    None
+                            				Followup:    None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{code}
+
+                                code
+                                      code
+                                code
+                                      code
+                                code
+                                      code
+                                code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\emails.
+
+
+\emails
+
+
+           
+
+
+
+
+
+
+\[emails, [emails\emails
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\emails
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 1919,9,1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+emails
+emails, etc
+
+
+
+names
+
+
+and names
+
+
+
+
+
+
+
+
+
+
+ 19
+
+
+
+
+
+
+
+
+
+
+
+
+\emails,
+\
+
+
+
+
+
+\em.
+
+
+13,4, or names and surn the patient names
+
+
+name patient names
+
+
+names of, em
+
+
+name
+
+or
+name, including patient of names
+1
+
+The patient
+The
+
+
+
+[name
+
+
+
+
+names
+names.
+names the doctor's names or names.
+
+Name patient names of names of names
+
+The patient names
+are 
+
+or names of the patient names, and
+
+name. Avoid, but 6.
+and, names, and names. and the names, names, and names, and a, or the 
+or, and names, as [...
+
+(are, and a [...] are, and are, or...
+
+1, and name-indicate names of the patient names, and names of the following name of this.
+[... 10 11...and the
+
+1, the... and, and:, or...
+(f(17 orify the are the:
+w of a few are the... and are are and are are: [...]ually or are or... (…
+... [the or “
+(take... 1, and the “and or  or: 1 orized... [[1 or: 1, and the, and... and the and, 10 and:...  and... and 
+make the, the……...and, the and (and: Anific and. ( and. [ are, "the and, the, but, the. An, but, or, and (
+, and, (...,, the, the, the...1, and the... and are the, or of a and, 1, and, and, ( and, and, and are the [..., and, the, the, or, 1, and the-1 and... [make the: 1...
+with, anities and: 0 and: 00 [[ [ are the ( 3 in a... are of the... of  of the or "by and ( [ 1 of the, and, [patients,... (d, of the of the. of the...,,, or [ (an, an, a and ( are, an are the are the and are a ( an (2 and, " by the, the... an, and [ an, an, an, " an [ an,..., an, and a, the, " of the, an or, 1 in and or, 0 of... 1 an, and, an and, An and [, An C in an, 2, [ an, 0, an, ( and, An or, an anoc,
+, " an (an, an, an an ( an of a ( and: an (: an a of an [: (1: : an " “ : 0 and " [: an ( an " ( [  or: (: a " an-  an- - an with " ( an, ( or-  an-  are or [ an [ an are an (, ( [ (. an of the of of the of the an, [ and and, in the, and, [ and [ an [ an [ or or. ( - in and or and ( and [ or [ [ or and, and, in- [- [, or ( in (  are " C. an in, [ an and (, " an  of,, an- are, of  of  of the of ( [ of a, and- and and, in, or- ( by the or, and of an, of  of ( and of the, [ an " [ and,, ( in- and in, an of the of the  ( or of or or in or, or or, ( and, - An or of or of the of of an of ( of the and of, and, An,  ( or and 1 or in or and in or and and in " and of the or or in of- 0- and in in in of -M of the-le and, and, or, in, ( ( or, and, or, ( or and or [, and ( or,,  of ( of, ( (, ( 00.0 and and-  or and, (2 ( C, c of  of the of ( of of [of of, of [, and [(c-M of, and- and, and-C-A in ( and,0 (0, (0, C 1-C in, or " P ( ((1 ( and ( [. C ( C-C and C and with or or-and ( and ( ( ( ( - or or or- C ( c ( ( ( m in c and or or- ( in- and and c or [ C " [ of m and m ( (- and m al ( c c [ al c [ [ al- C C - ( and ( or ( and - and. C ( and-c. ( c t-C and or " and and-m "- and or and " B ( - and- B. ( and ( and, or or. [ of and of of and of or of the or and of [ ( or t,  and- or and ( and,, and, and of ( of of of and and of of of of and of, [, [ M ( m and, B - C C and and or and (,, ( ( M- of B of of of of and of ( ( B, B C and ( and ( c of ( and ( ( and of ( c( ( C ( and, and C, ( c [ B and B ( ( ( of B and of ( or (  ( [ c m- M and, ( and ( ( and (, or ( or or ( and B and ( m and ( (, and ( [ - and, c [ and al- m, [ a ( B and ( (, ( (, and m, (  (, M, or and, m - B, and and, B, ( and ( ( ( [ ( ( and [ M, M, (, (,,,,,,, (, and, and ( m ( and ( [ [ m,, ( or (. and, ( (,  m of and of and of [ ( W. ( w M  [ C- w ( W (. - or ( m of, of of or, and m, or  [[ and ( [ and ( - M, and, [ or ( M M M ( and m m t w and ( [[ C t m [  or or M ( ( n and ( ( ( ( of or ( m m,	 ( of M ( [[ or M M ( M C ( M ( ( or and M ( and of or of of ( of M ( ( ( M [ M ( and [ ( M, [ M C, C C ( ( [ ( and [ and, W m and [ M M ( M or  M, or M M of ( of [ M or ( of m m of, of ( M M M M and M M A.  and, and ( M,, and M and ( M and W  M ( M M M M M M M of W. M (, or C of M of M of  M M M M M m and M. M and M - M, W and, M M, and, W, and W,

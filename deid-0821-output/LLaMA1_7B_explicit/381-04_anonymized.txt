@@ -1,0 +1,477 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2094-03-19
+
+
+
+ 
+Infectious Disease Consult Note 
+
+
+Pt: Rose Mack
+MR#: 06129040
+
+Consult Date: 3/19/94
+
+
+
+CC/RFC: 
+Pt is a 52 year old w/ chronic R heel wound, now w/ wound infection. Consultation was requested by Dr. Katz for recommendations regarding antibiotic management.
+
+
+
+HPI:  Pt has longstanding DM and PVD complicated by severe R foot ulceration. She underwent R femoral to posterior tibial bypass graft in 5/92 and skin grafting in 7/92. R heel wound subsequently improved but pt developed L plantar ulceration requiring debridement 10/92. Cultures grew MSSA. Pt was subsequently treated w/ extended course of doxycycline, rifampin through 2/93. She subsequently did well until developing R heel ulcer while undergoing psychiatric hospitalization in mid 2/94. She was initially hospitalized at Altadena Hospital, where she underwent debridement of wound and treatment w/ extended course of penicillin VK and probenicid. Wound failed to improve. Pt was rehospitalized on 3/18 at GCCfor further management. She underwent incision and debridement on 3/18. Intraoperative evaluation revealed ulcer wound tracking to bone. Intraoperative gram stain revealed GPCs in pairs. Intraoperative cultures are pending. Pt was subsequently treated w/ vancomycin, levofloxacin and metronidazole. 
+
+
+
+
+On interview, pt reports feeling generally well. No F/C/NS. Appetite normal. Had  previously noted creeping erythema up R leg, now resolved.
+
+
+
+PMH (from EMR)
+
+DM type 1: c/b PVD, neuropathy, nephropathy
+
+PVD: s/p right mid superficial femoral artery to mid posterior tibial bypass graft with reversed ipsilateral greater saphenous vein
+
+CKD
+
+Hx femoral neck fracture: in situ screw fixation
+
+Anemia 
+
+Anxiety/Depression 
+
+Deep venous thrombosis 
+
+Hypothyroidism: s/p subtotal thyroidectomy 74
+
+S/p R carpal tunnel surgery
+
+
+
+Meds on Consultation
+
+ 
+Plavix
+
+Lopressor
+
+Simvastatin
+
+Lantus
+
+Levoxyl
+
+Abilify
+
+Cogentin
+
+Nortriptyline
+
+Trazadone
+
+Probenecid
+
+Neurontin
+
+
+
+All
+
+Erythromycins cause rash  
+
+Sulfa causes rash
+
+Aspirin causes rash
+
+
+
+SHx
+
+Pt lives at home w/ her parents
+
+
+
+FHx 
+NC
+
+
+
+ROS
+
+Ten point review of systems negative except as noted in HPI. 
+
+
+
+Exam
+Pt is a tired appearing middle aged woman, lying comfortably in bed
+
+VS: 
+T- 96.4, HR- 84, BP- 153/72, RR- 18, Sat- 100% on 2L     
+
+HEENT: 
+MMM, w/o exudates
+
+Chest: 
+CTAB; no crackles, no wheezes
+
+CV: 
+RRR; normal S1S2, no m/r/g appreciated
+
+Abd:  NABS; soft, non-tender, non-distended; no organomegaly
+
+Extr:  R heel w/ 2 x 2cm wound vac dressing in place, no surrounding erythema; L foot without erythem or ulceration
+
+Neuro:  MS nl, motor and sensory normal
+
+Skin:  scattered patchy erythematous rash across trunk and upper extremities
+
+
+
+Labs
+Chemistry:                                                          
+
+BUN:   19
+
+Cr:    1.3
+
+
+
+Tbili: 0.2
+
+ALT:   20
+
+AST:   22
+
+AP:    290
+
+
+
+Heme:    
+
+WBC:  
+4.7              
+
+HCT:  
+33.2
+
+Plt:   290
+
+
+
+Impression
+52F w/ DM, PVD and hx of R heel ulceration s/p skin grafting in 5/92 and L midfoot MSSA infection in 9/92, now w/ relapse of R heel ulceration. Intraoperative cultures show involvement of bone. Clinical picture is concerning for osteomyelitis. Possible culprit organisms include drug resistant Staphylococcus aureus, which should be treated empirically while awaiting cultures. Pt will likely require an extended course of IV therapy for treatment of osteomyelitis.
+
+
+
+Recommendations
+
+ 
+
+
+
+Follow up intraoperative cultures
+
+Continue vancomycin 1g IV Q24H; check trough prior to fourth dose.
+
+Discontinue levofloxacin, metronidazole.
+
+
+
+
+
+
+
+
+
+_______________________________
+
+Victor Reid, M.D.   (pager # 81625)
+
+
+
+Case discussed with infectious disease attending, Dr. Amber Akins.
+
+
+
+
+
+
+
+Revised 2094-03-20
+
+
+
+Infectious Disease Consult Note  
+
+Pt: Rose Mack
+ 
+MR#: 06129040
+
+Consult Date: 3/20/94
+
+
+
+CC/RFC: 
+Pt is a 52 year old w/ chronic R heel wound, now w/ wound infection. Consultation was requested by Dr. Katz for recommendations regarding antibiotic management
+
+
+
+HPI:  Pt has longstanding DM, PVD complicated by severe R foot ulceration. She underwent R femoral to posterior tibial bypass graft in 5/92 and skin grafting in 7/92. R heel wound subsequently improved but pt developed L plantar ulceration requiring debridement 10/92. Cultures grew MSSA. Pt was subsequently treated w/ extended course of doxycycline, rifampin through 2/93. She subsequently did well until developing R heel ulcer while undergoing psychiatric hospitalization in mid 2/94. She was initially hospitalized at Altadena Hospital, where she underwent debridement of wound and treatment w/ extended course of penicillin VK and probenicid. Wound failed to improve. Pt was rehospitalized on 3/18 at GCCfor further management. She underwent incision and debridement on 3/18. Intraoperative evaluation revealed ulcer wound tracking to bone. Intraoperative cultures are pending. Pt was subsequently treated w/ vancomycin, levofloxacin and metronidazole. 
+
+
+
+On interview, pt reports feeling generally well. No F/C/NS. Appetite normal. Had  previously noted creeping erythema up R leg, now resolved.
+
+
+PMH (from EMR)
+
+DM type 1: c/b PVD, neuropathy, nephropathy
+
+PVD: s/p right mid superficial femoral artery to mid posterior tibial bypass graft with reversed ipsilateral greater saphenous vein
+
+AKA: Femoral neck fracture: in situ screw fixation
+
+AKA: Anemia
+
+AKA: Deep venous thrombosis
+
+AKA: Hypothyroidism: s/p subtotal thyroidectomy 74
+
+AKA: S/p R carpal tunnel surgery
+
+AKA:
+
+AKA: AKA
+
+AKA: AKA
+
+
+
+
+AKA: AKA
+
+AKA: AKA
+
+AKA: AKA
+
+
+
+AKA: AKA: AKA
+
+AKA: AKA: AKA
+
+AKA: AKA: AKA
+
+
+AKA: AKA: AKA
+
+AKA:
+
+AKA:
+
+AKA: AKA: AKA
+
+AKA: AKA 
+
+AKA: AKA
+
+
+AKA:
+
+AKA:
+
+AKA: AKA:
+
+AKA: AKA
+
+
+AKA: 
+
+AKA: AKA 
+
+
+
+AKA: 
+
+
+AKA: 
+
+
+
+
+
+
+AKA
+
+
+
+
+
+
+
+
+
+
+
+AKA:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+AKA
+
+
+
+
+
+
+
+
+
+
+AK123
+or
+
+
+
+
+
+
+
+or 
+AKA and the name and 
+
+
+names
+
+
+
+
+or
+
+
+
+
+
+
+
+
+
+A patient
+
+
+
+1. 
+ 
+A.
+
+
+
+
+
+
+
+
+
+
+
+
+
+19: 
+
+
+information,  information and 
+The patient information,
+A
+
+
+
+
+
+names of patient
+(name and the name,
+
+
+
+1.
+(or
+20
+11...
+
+information... (and the patient names, please names, the 
+125, 12, 3 patient names, 11, 3 indicate and identify the names.
+
+
+or...or, the name... 
+1 and 0...
+name, and patient
+and the name, or names, name, and or [the patient... and name and, or, and [
+
+
+
+are 3 days, or are or 1, and 
+1. An orations, and, names (the names and, as the […, the following: the 
+...and and 4 and the names with
+names and names and the name-pat names, patient, 
+...and,...:
+or, the... 2 are orifiable and are the 
+d...
+
+10 or, 0 (1 (
+are:  are... or the... and...(make, or or the, and the and, or the...
+and, and, and... the or (
+use or, and the 3 of 
+[1 (make the... in 1 (the 1 are a... and, the (...…and and the, as....
+…, and (1, 1 or, and, or, or, 3, and, [, and the and (
+..., and, and, an, as, and the, the are, or (and and or and or, (are, and, and, and, and are and are, and, and, the, and, and,
+, 2-and (and, 1: [1 (with the... 5 and (11 “(an  and: An: 0 [[1-...
+1 and are and, of a... of a, 2 or " or or [c and 3, [, …, 4, [, the, 1.
+. (A, and, (an, and, and, an, an an, can be the or-pat- are the or -1, [1-the an, and or in (an and, or, the, 1 an, and, an, and or (an,  and, 1, an an, in the and and and "and, an, or (An An or,, an-ann, and and, and [ an, and ( and, an and, and, and of the and, An An C [and,, and and,,, 6 (1 and and,, An An: an and 0 an: [1 and:, -2: (- 1:: -  an and and and [ in (::  and: an ": " ( an an - [ an : an in  in ( an  are,- (-an- [- are [ ( are  in the,, of an and of  or and and and. and an by, (,, [, in the [ an, or,  [ and or- [ of [, or [, and ( ( or and (, an are [, an or ( in an  and " and, an, an or and an an-and and (,, an and and and, an in, of a of the and of and- ( an of in  in and an and an ( or -,,  of of or of the of or ( or, and or, an and are ( ( an in - or and-  an, an ( or  of or in  or or in   in or and by [ ( and  or,, of the of ( of and of, and and  an, and, and  ( ( and in by or  or and or  or  are  in,,-  or, [-  for an  (  and (-, for or,, An C and or, in or or,  and ( (,  and, [- (,  are, of. for, or ( of or an  or or -  or and, [  are and  an an of-  and of  of  and,  of  and of  of and of,,, of  and or and and and  but, and c [ and and an (0 and  in -,  or or and [ or w of (  C  [,  C C ( An- [ C ( or  [ [ c  an, an " [ An or or  or or or (  ( an an- and  an- and  c- and for and and for- and of- and of the and  and (- c- and  ( and c c and-  of- C M C An: and (:: or : and- in: and and or or-0- C to or of and of of  of of (  C M [- and  and- and in  or of, and of of C of of of of  of  An ( and or- and- and-2 or- and and and ( and and of the of an of of of of  of or  of and  or- an, ( and and C,., and an an C An ( and an, ( I and and- 0  or, and in, or or- and - C and (,  and C of C H of  of and, and of H ( and- and and-  or, and or (, and an of-  of -2 an and and C and  (  and. an ( C and ( or and and  and or or  and and,, and and and and and  and, and and and C, C and, or C An H and [ and ( or an and (0 C and C. an ( and, and ( and,,,  and- C and or  (,, and.  and and and, and,  and and,, and of,, of and,  (,,,,,, and and and ( and, C- an for  of-2 a a a  of of, of and [ of ( w and and ( I and and (,, of and  of, and t.  and and. -g- ( and and  or and ( or, and and t  or  and- H (-  and H I and. and  and and or. and ( ( I and of  L and (  I (. and.  H and [0  and  or,, and  C,, and C,, 0 and1 2 -2-0,,,,,, and, and  and or and, or, and and and,, and,,, or, and  and C, ( and, and and, t, C and  and 0 (  and ( H,,- and and (.,, and of and and, (, C, and,, and,, or t1 and and and and  C C0 I- and alt t or0  0  and and1  and w and I, and,   w and and and, and,0 w

@@ -1,0 +1,99 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2076-12-15
+
+
+
+
+
+
+
+PRESTON, FRANCES
+05850080
+12/15/2076
+
+
+
+
+Louis Barron, M.D.
+Shelby Dental Care Center
+9842 Edwards Street
+Cozad, OK  53952
+
+
+Dear Dr. Barron:
+
+
+I would like to give you followup on our mutual patient Frances Preston.  As you know, I referred her to the cardiac catheterization laboratory because of progressive worsening angina and a stress test suggesting anterior ischemia.  We performed a catheterization on 12/14/2076.  We utilized the right radial artery for access.  We found that she developed a significant in-stent restenosis lesion within the previously placed Cypher drug-eluting stent.  This is undoubtedly the cause of her symptoms.  We were able to treat this lesion with balloon angioplasty and ultimately stented with a 3.5 x 24 Taxus drug-eluting stent.  The stent was postdilated with a 4 mm noncompliant balloon to high pressure.  The final angiographic result was excellent.
+
+
+The following morning she was doing quite well and we discharged her later in the day.  She will remain on her usual medications and I have stressed the importance of remaining on aspirin once a day for the remainder of her life and Plavix for a minimum of a year after this procedure, though I will likely favor indefinite therapy.
+
+
+I plan on seeing her again on 01/24/2077 in followup.  If you have any further questions regarding her care, please do not hesitate to contact me.
+
+
+Sincerely,
+
+
+
+
+______________________________
+Corrie Q Newland, MD
+
+
+
+
+
+
+
+
+
+
+eScription document:0-3743412 IFFocus
+
+
+
+
+
+
+DD: 12/15/76
+DT: 12/15/76
+DV: 12/15/76
+
+
+
+
+
+
+
+
+DH: 12/15/76
+D: 12/15/76
+
+
+
+
+
+[0.0663376032946799,0.0707057966189906,0.11451228676242,0.187734378892416,0.197924363643003,0.324656076322157,0.38698746998866,0.389721056270667,0.430929534616251,0.450117716880433]
+
+
+[0.0908959160337019,-0.0557063375090106,-0.00352315218593797,0.000904225957956599,0.00181021973266115,0.0119768323469694,0.107067994267507,0.374289090471062,0.656099565346615]
+
+[0.0321471411025198,0.0291234715102882,0.0200348195026964,0.0569429513061367,0.0869865816852887,0.274733859155509,0.426264057820658,0.57437778570254,0.740212037203479]
+
+[0.0120849716327973,0.00912000220703638,-0.00444620232022917,0.0152540925759668,0.0301336411482704,0.0321947535221248,0.0922190248112239,0.119344486961948,-0.172534854263704]
+
+[0.0533047743256683,-0.0636879781060444,0.025356008901161,0.038627807840921,0.0629434842839029,0.0746525225595476,0.100055327237885,0.138085254663218,-0.426772653175341]
+
+[0.0247789057066612,-0.00378186527343945,-0.00828753204996734,-0.00549544731803292,0.0864147483790799,0.305216621820834,-0.679075200798724,-0.678336402765911]
+
+
+
+DH: 12/15/76
+D: 12/15/76
+
+
+

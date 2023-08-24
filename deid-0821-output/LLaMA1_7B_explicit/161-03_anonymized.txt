@@ -1,0 +1,357 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2071-04-14
+
+Patient Name: XUEREB, JAQUANTE;  MRN: 1344351
+
+Dictated on: 04/27/2071 by LILLIAN STEELE, N.P., PH.D. 
+
+
+
+ 
+
+Mr. Xuereb returns to clinic for evaluation and management of recurrent ulcerations on the hypertrophic scar tissue along the medial aspect of the right lower extremity.  
+
+ 
+
+Today, on physical examination, the wound bed measured 1 cm x 0.7 cm.  The wound bed was covered with yellow biofilm, which was debrided.  The underlying wound bed contained moist red tissue with a few drops of bloody drainage.  The margin was clear.  
+
+ 
+
+IMPRESSION:  There has been epithelialization of the wound along the medial aspect of the right knee.  There has been no further disruption of the epithelium overlying the hypertrophic scar tissue.   
+
+
+
+PLAN:  We will continue with dressing changes every two to three days per the following protocol: spray the wound with AllClenz wound cleanser followed by irrigation with normal saline 30 cc x 3; apply skin protectant to the periwound margin, Panafil paste 1/8" thick to the wound bed, gauze dampened with normal saline (cut-to-fit), covered with DuoDerm secured with Medipore tape.  
+
+ 
+
+Mr. Xuereb will return to clinic in two weeks.  
+
+ 
+
+__________________________ 
+
+Lillian Steele, N.P., Ph.D.  
+
+ 
+
+DD:04/27/2071 
+
+DT:04/28/2071 
+
+FJ:801734    :77 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{code}
+
+Here is the CSS:
+
+\begin{code}
+html, body {
+    width: 100%;
+    height: auto;
+    color: white;
+    font-size: 70%;
+}
+
+div.box {
+    width: 99%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 25px;
+    margin: 20px 20px 0 20px;
+    background-color: #333;
+}
+
+p.body-text {
+    margin-top: 20px;
+    color: white;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.footer {
+    text-align: center;
+}
+\end{code}
+
+Answer: You're looking to do `display: inline-table;` instead of `display: table`.
+
+Answer: You can use inline block to get this behavior
+
+\begin{code}
+body {
+width: 100%;
+height: auto;
+color: white;
+font-size: 70%;
+}
+#box-body{
+display: inline-block;
+}
+div.box {
+width: 99%;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+padding-top: 25px;
+margin: 20px 20px 0 20px;
+background-color: #333;
+}
+p.body-text {
+margin-top: 20px;
+color: white;
+font-size: 16px;
+}
+h1 {
+font-size: 40px;
+}
+.footer {
+text-align: center;
+}
+\end{code}
+
+https://jsfiddle.net/697615zp/1/
+
+Comment: I'll try this.  It does seem to be getting closer, but still not quite right.
+
+Comment: The fiddle works, but not on my local environment for whatever reason.
+
+Answer: I'm not sure I follow your question but I think this could give you the result you are looking for:
+
+\begin{code}
+#box-body{
+    display: table;
+}
+p.text{ 
+    display: table-cell;
+    vertical-align: top;
+}
+\end{code}
+
+\begin{code}
+<html>
+
+<body>
+
+    <p class="text">Anonymous Clinical Note
+
+</body>
+
+</html>
+\end{code}
+
+I think you need to make your div a table and the p class a tr with the text in the cell.
+
+Answer: I'm not sure what exactly you want to achieve but I hope this will help you a little bit.
+
+\begin{code}
+    p.text {
+    font-size: 70%;
+    color: white;
+}
+
+div {
+    margin: 20px 20px 0 20px;
+    width: auto;
+    background-color: #333;
+}
+p{
+    float: left;
+}
+\end{code}
+
+Answer: \begin{code}
+body {
+width: 100%;
+height: auto;
+color: white;
+font-size: 70%;
+}
+#box-body{
+display: table-cell;
+}
+div.box {
+width: 99%;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+padding-top: 25px;
+margin: 20px 20px 0 20px;
+background-color: #333;
+}
+p.body-text {
+margin-top: 20px;
+color: white;
+font-size: 16px;
+}
+h1 {
+font-size: 40px;
+}
+.footer {
+text-align: center;
+}
+\end{code}
+
+Comment: This answer could really use more details.

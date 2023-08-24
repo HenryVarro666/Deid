@@ -1,0 +1,728 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2114-04-07
+
+      07 April, 2114
+
+RENAL CONSULTATION NOTE
+
+Dawson, Quinten W
+
+SAH  # 469 27 58
+
+
+
+Intro:	73 yo male s/p CABG with progressive acute renal failure.	
+
+
+
+Present Illness and Past Med Hx:
+
+1)	 Renal failure 
+
+a)	Baseline chronic renal failure
+
+i)	Creat 1.2 to 1.4 range, 1.5 on admission
+
+ii)	History of DM
+
+iii)	Preop urine negative for albumin and blood.
+
+b)	Progressive renal failure
+
+i)	Gradual rise in creatinine to 2.7
+
+ii)	Non oliguric, making ~ 1 liter /day
+
+2)	CAD 
+
+a)	Cath
+
+i)	Occluded RCA, subtotal circumflex and 95% LAD and 90% stenosis of first diagonal
+
+ii)	EF preserved at 55%
+
+b)	CABG 
+
+i)	Off pump
+
+ii)	X 4 vessels LIMA
+
+iii)	Post op CPK to 594 and troponin to 0.53.
+
+3)	DM type 2
+
+4)	Hyperlipidemia
+
+5)	Hypertension
+
+6)	S/p CVA 7/2111 with residual word finding difficulty and mild facial droop.
+
+7)	Obstructive sleep apnea - uses home CPAP.
+
+8)	Diverticulosis
+
+9)	BPH  -  reports that he was in the process of getting this addressed when he developed symptoms of his CAD.
+
+10)	Peripheral neuropathy
+
+11)	Osteoarthritis
+
+12)	S/p cholecystectomy
+
+
+
+Meds: 	Albuterol
+
+	ASA 325
+
+	Celexa 40
+
+	Plavix 75
+
+	Nexium 20 bid
+
+	Furosemide 40 bid
+
+	Motrin 500 tid
+
+	Regular insulinSS q 6
+
+	Metoprolol 12.5 bid
+
+	KCL 20 qd
+
+	Zocor 40 qd
+
+
+
+Allergies: NKDA
+
+Soc Hx:  Smoking: quit in 2066;   EtOH: 1 glass of wine a day;      Divorced.  Works in mapping.
+
+Fam Hx: NC
+
+ROS:  Chest pain and shortness of breath with walking to the bathroom relieved by percoset and rest.
+
+Denies cough, hemoptysis, chest pain, orthopnea, pnd, rhinitis, nausea, vomiting,  hematemasis, melena, hematochezia, ocular problem, sinusitis, dyuria, urgency, hematuria, trouble voiding, skin rash, arthritis .
+
+
+
+Exam:	Uncomfortable appearing 
+
+BP: 128/60     P: 80   R: 20    96% on 2 liters        AFEBRILE
+
+SKIN:  benign
+
+HEENT: anicteric, sclera clear
+
+NECK:  Supple, no adenopathy, no thyromegaly
+
+CHEST: few rales
+
+COR:   distant heart sounds.  Without gallup or rub.
+
+ABD:   positive bowel sounds, mildly distended, minimally tender.
+
+EXT: 1+ edema
+
+
+
+Urine -  PVR of ~225 cc
+
+	
+
+Labs:	Na 140, K 4.6, Cl 103, HCO3 28.1, BUN 60, Creat 2.7
+
+	Amylase 330   (32) 
+
+	WBC 7.1, Hct 26.1, Plt 91
+
+	UA dip with trace protein and negative blood
+
+		Micro with many hyaline and few granular casts.
+
+	EKG sinus at 77
+
+		Non specific STTW changes, minimal change from other post op EKGs.
+
+	
+
+Impression: 
+
+1)	Renal failure
+
+a.	Chronic component
+
+i.	Suggestive of early DM nephrop
+
+ii.	Baseline 1.4
+
+b.	Acute component
+
+i.	Prerenal component with pancreatitis
+
+ii.	No major ATN
+
+iii.	? obstructive component 
+
+1.	now with increased urine output after Foley catheter.
+
+2)	Pancreatitis
+
+a.	Amylase up today
+
+3)	Chest pain
+
+a.	With exertion - too bathroom.
+
+b.	With shortness of breath
+
+c.	Incisional with movement vs ? ischemic
+
+	
+
+Rec/Plan:	
+
+1)	Foley catheter overnight
+
+2)	Urine for Na and creat.
+
+3)	Flomax for 24 hours prior to removing Foley with voiding trial
+
+4)	Serial Amylase
+
+5)	Serial cardiac enzymes
+
+6)	Lasix prn.  - now seems to be diuresing reasonably.
+
+7)	EKG with recurrent chest symptoms.
+
+
+
+
+
+
+
+	Uriel Y. Springer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												  				   
+	
+	
+	
+									  
+	
+	
+	
+									  
+	
+	
+									 						 		
+
+
+
+
+
+	  
+															  
+        
+
+
+																
+																  
+        									
+
+
+
+
+
+
+									  					                       
+
+
+
+
+
+
+
+									  																																				
+
+
+
+
+																																				 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																																					 	
+
+
+
+  
+
+									  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+																																								  
+	
+	
+	
+																																								  
+	
+	
+	
+																																						
+	
+	
+																																						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+	   
+
+
+
+
+
+
+
+
+
+
+
+
+
+\textits.
+
+
+
+   
+
+
+
+
+
+	   
+
+
+
+
+
+
+
+
+
+\
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name
+
+
+
+
+
+
+
+
+(patients
+(patient
+
+
+The letter
+or.
+or, and, and the patient
+...
+
+The names of
+names and surn, s, the following, or name, surn 10...
+11...
+A
+
+
+The  are not 4 years
+and the following, and the [... [or, and the patient, s, and the name of age, as, and [, 3 and [….
+and the... and the names, but, and 9, and would 
+are or, or the patient...
+, 1. 1, and the patient 12...
+
+name, names and/20 or:, the following, and/pat and patient: patient names, and (...the following patient (and...
+
+(2,...: 0…1 [1... and would (...1 (are-specifically or and the or,...:
+  or 11, the... are:...: 1, and:
+1, [1: 
+ (25 2: [0 are: are and are 1, or the... the and, the: " (( 1 (1, and (the 1…, or (
+, 1, or 
+
+… and, (... (1 and (0 are, 1, and the, or, and, or, 1 or, or,  and, (, the, or,...,, 1., and. 1 and, a and, and,,, and, 1. and are and are, the, 0 (1, [ of “1, ": and, a and the and in the... ([ (...
+. and and: anities... and and and “:...  (1, an [1 "1 or are  are are, are and and (0 [ or or " or and,, a and ( [.
+. (an, and, or. [. of the, (. ( and (,,. Anine, an 0 an, have, are (  are ( an or are or ( an ( and (, an,,  an, An ( an, an, An. and, an,  and of the, an an, and, an, an, an [1, ( an and [1, an, An of the an [ an or,,,, an,,,,, an,, an, Anise,, 1 An, An,  an, 0, " an, an in, "  an- an, an of an, an -  ( An [ of [: an: - (: are, [: (: [: and- an: - “: :  or: [: - “: an-  and  with the::  in ( or in  are  "  are or  or [ and and are and [,. an or of an of the of an.. (.  and [ - [, and and [ [ [ or [ (, " - [ [ [  [, [ [ and  or, an and - [, (  ( an [  [ and, and, [ - and  an, an,, an "  or " or,, of,  or of and of a of  of " or  an or and (,,, an, and and " and and of, of, of the [ of, or of,,,, an and, [ ( " an or, an or are in,, or, or or and- ( an, or, an an [ an  or and of of, of, of  of an:, an - ( an and or and and  an, and an or  or or or an  and, or  or or or (10 ( (  and  an " an  an and and,,, and  (, and or,  or, [,  [, or and [, or, " are, [ and and an,,  and  and   and (, " and or - and,  and 1 and, of  of the of and of the " an and of, and and [ and, and, (, and [ [,,  ( c and  " -  [ 2 or or -  and - an and and  and   or 1 or  and  and  and and  [ and or and and and and, or and [ " and  (  or - or [, and  - or and - " or al in  al ( [ or  and or or and or or of  " c and c  (  ( and h and  or  and and ( and - and  and and :   (   and and [1  and   (:  and  and and and  -  of  an (  and  or c or  and or 0 2 or and. ( [ or of,  or,  ( of  ( or " [ C  t and in  or  and and  or and [, or, of and of of (  of  of  and and ( and " [ and, " and - or and,, [ and  and  or,   and  or or and and - and and " and and  and " and or " and  of of  of or of  of ( (  W I " - " and, ( and  [ and of and or, and, t of  2 or,  and and and. and and  or and,  an and, and - , and and [, and and [, and and and and " [ ( C W, W ( and,  t,  or and  or, (,  or and,, ( and ( and ( and,, (,, and,,,, and and and and, W W,,  and and or and,,, and.  and,, [,, and ( C, and, and b b,, (, ( (. and  of  b  a c,  -,  c and, and c ",, (, and, (,, and,,,,,, and [ C, - (,, in,,,,, and,, and,  t ( and in " ( ( C   - ( and ( ( b c t:  b and, b,, and [ and b [ (, b, [, and of " of, ( b of and b  t or,,, b  of of of, of C of of of or b  b,,,  -  [, or,,,,, (,,, C,, and, al,,, ( and,,, a,, c, c and of ( a, of  a of C of (, b, a t, (,, c,, c, C and,,,  (,,, and, ( (,,,,, or  and ", and n and and c and [ ( and - or w  (,,, and and,, [.  

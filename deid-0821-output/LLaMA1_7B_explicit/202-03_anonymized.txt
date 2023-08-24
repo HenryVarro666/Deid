@@ -1,0 +1,225 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2161-06-03
+
+
+
+
+
+
+
+
+DEJESUS, JAROME
+
+28044071
+
+06/03/2161
+
+
+
+
+
+Isaiah Y. Dill, M.D.
+
+Southwest Colorado Medical Health Center
+
+607 Batchelder Street
+
+Suite 975
+
+Robstown, NE  29768
+
+
+
+
+
+Dear Dr. Dill:
+
+
+
+DOB:  10/11/2082
+
+
+
+Thank you for referring Mr. Dejesus to the Erie County Arrhythmia Service for consideration of catheter ablation of atrial fibrillation.
+
+
+
+As you know him well, I will summarize his history briefly for our records.  Mr. Dejesus is a 78-year-old gentleman with an extensive cardiac history that includes coronary artery disease status post multiple percutaneous coronary interventions and stents to the LAD as well as RCA territories, a cardiomyopathy with an ejection fraction of approximately 35-40%, and atrial fibrillation.  In addition, he has multiple cardiac risk factors including diabetes, hypertension, dyslipidemia, and obstructive sleep apnea.  In addition to disease in his coronary vascular bed, he has a history of carotid disease status post left CEA.
+
+
+
+He came to your attention early this year with symptoms of exertional dyspnea.  On further questioning, he reports feeling quite symptomatic when ambulating relatively short distances around his home or up and down the driveway.  He can walk no further than approximately 50-100 feet before developing significant shortness of breath and fatigue.  He was recently diagnosed as having paroxysmal atrial fibrillation that has transitioned to persistent.  He has undergone multiple cardioversions most recently in 03/19/2161, but was unsuccessful.  Prior to that, cardioversion in February resulted in a brief period of restoration of sinus rhythm during which time he felt symptomatically improved.  He also describes occasional fleeting episodes of sharp left-sided chest discomfort.  Cardiac catheterization on 01/18/2161 revealed a 30% LAD in-stent restenosis, 90% septal lesion, and 65% -70% PDA lesion that was stented.  A Ventriculogram at that time revealed an EF of 35-40%.
+
+
+
+Other than significant exertional shortness of breath, he feels relatively well.  He has occasional symptoms of orthostatic lightheadedness but no history of syncope.  He denies any PND, orthopnea, or lower extremity swelling.  He has no history of heart failure hospitalizations.  His weight has been stable.
+
+
+
+On review of systems, he denies any fevers, chills, or night sweats.  His weight has remained stable.  He denies any new onset cough, wheezing, or hemoptysis.
+
+
+
+Past Medical History:
+
+1.  CAD status post LAD PCI/stenting in 2155.  He developed in-stent restenosis in 07/2157, during which time he received a second drug-eluting stent to the LAD lesion.  He developed recurrent chest discomfort in 12/2159, and he underwent cardiac catheterization during which time he was found to have an 80% mid LAD lesion distal to his prior stents as well as a 30% proximal RCA mid PDA stenosis.  He underwent a drug-eluting stent to the mid LAD lesion.  A followup catheterization in 01/2161 revealed a 30% LAD stenosis, 90% large septal branch lesion, and a 65-70% proximal PDA stenosis.  Ventriculogram revealed an EF of 35-40%.  He underwent stenting to the PDA lesion on 03/06/2161.  An exercise Myoview performed in 01/2160 revealed no evidence of inducible ischemia.
+
+2.  Hypertension.
+
+3.  Dyslipidemia.
+
+4.  Diabetes.
+
+5.  Obstructive sleep apnea.
+
+6.  COPD, prescribed home oxygen, though he is not taking this.
+
+7.  Carotid disease, status post left CEA after presenting with an ipsilateral episode of amaurosis fugax.
+
+8.? History of BLANK AAA by ultrasound in 07/2159.
+
+9.  Atrial fibrillation.
+
+10.  Obesity.
+
+
+
+He has no known drug allergies.
+
+
+
+His current medications include amiodarone 200 mg BLANK, but this has been discontinued since April, metoprolol 50 mg b.i.d., digoxin 0.25 mg daily, Zocor 20 mg daily, Plavix 75 mg daily, TriCor 145 mg daily, Lasix 20 mg daily, BLANK 5 mg nightly, aspirin 325 mg daily, Lantus insulin 62 units daily, Humalog insulin, and Protonix 40 mg daily.
+
+
+
+His social history is notable for remote history of tobacco dependence.  He was formally employed in buidling construction.  He has multiple environmental exposures including insulation as well as spray paint and without respiratory protection.  He does not currently smoke or drink alcohol.
+
+
+
+His family history is negative for early onset CAD, sudden cardiac death, or cardiomyopathy.  His father lived until the age of 88.  His mother died of a stroke at the age of 80.  He has a single sister who is 86 years of age and has no history of heart troubles.
+
+
+
+Physical Examination:  His blood pressure is 115/60 BLANK of 66 beats per minute.  In general, he is overweight elderly man in no distress.  Sitting upright his jugular venous pressure is below the clavicles.  Carotid upstrokes are brisk bilaterally.  Lungs are notable for a few crackles at the bases, but otherwise clear.  There is no wheezing.  Cardiac exam reveals an irregular rate with a variable S1 and S2.  There is no audible murmur, rub or gallop.  Abdomen is obese, soft, and nontender.  Lower extremities are warm and well perfused.  There is trace pitting edema at the ankles.
+
+
+
+Recent blood work reveals an INR of 2.2 on 05/28/2161.
+
+
+
+EKG today reveals atrial fibrillation at a rate of approximately 66 beats per minute.  There are some nonspecific T-wave abnormalities, but otherwise no evidence of prior infarct or ST changes.  There is some low voltage in the limb leads, though I suspect this is related to his habitus.
+
+
+
+Overall, Mr. Dejesus is a pleasant 78-year-old man with a complex prior medical history who appears to have persistent atrial fibrillation with a principal functional limitation of exertional shortness of breath.  He appears to be functional class III.  He does not have any frank evidence of volume overload on exam today, though his ventricular function and is not entirely normal.  Moreover, he has multiple comorbidities which may exacerbate his exertional dyspnea including COPD and coronary artery disease.
+
+
+
+We discussed atrial fibrillation with Mr. Dejesus and his family today.  We explained that the brief period of normal sinus rhythm associated with symptomatic improvement may be a reason to proceed with catheter ablation.  However, given his comorbidities and the presence of persistent arrhythmia we warned that a single catheter ablation procedure may not be entirely successful and that waiting period of approximately 3-4 month post-ablation may be required to adjudicate success.  Given the length of the procedure as well as his comorbidities, we feel reasonable to consult with our anesthesia colleagues for possible consideration of performing the procedure under general anesthesia versus with MAC and had procedural sedation.  We will leave this decision to them.  Moreover, prior to the ablation, we will request a transesophageal echocardiogram to rule out left atrial clot prior to ablation.
+
+
+
+Thank you very much for referring Mr. Dejesus to our care.  We will be in touch following the procedure.  As always, feel free to call with any questions.
+
+
+
+Sincerely,
+
+
+
+
+
+______________________________
+
+Oscar U Rice, M.D.
+
+
+
+
+
+
+
+
+
+
+
+eScription document:0-16320445 HFFocus
+
+
+
+CC: Robert-Joseph Paige M.D.
+
+Koenen Collins County Clinic
+
+266 Paxton Terrace
+
+Peculiar, NE, 54583
+
+Fax: 
+
+Email: 
+
+
+
+
+
+
+
+DD: 06/03/61
+
+DT: 06/04/61
+
+DV: 06/03/61
+
+
+
+
+name, date 3, 2,3
+The patient
+
+D
+Patient or patient.
+190 or 110.
+
+1224, 0012 patients.1 patient codes and names
+names, 2.
+(1.
+The patient, and the names.
+
+
+17, and patient 10
+
+
+
+10 (115
+and, a, or the patient, and names and names, as the doctor codes
+[name, the name, and name, name of the [and the word, and [
+
+can are [1.
+can, and/11, and the patient, and, and the patient names, name codes and the patient names and names.
+
+: and:, and the patient and names and names, and the [
+[patient and names and the following, and the patient or (1…
+andize patientize, a...
+are:…
+
+are, 1 are the... [( 1 are: and  are the: [and are the names, the following of... 2, but, “(the “the...the or, the... are [
+are are orize “
+1: [(2 of a “and (11 (1 include the, and...... are, you and...…,......and, 11 and a. The, a. and, 
+
+(and, the, the, or, and (1, and, the, and and the, as, 1, or, 3, the and, and and (... and (and of... and are, and, and and, as, 0 are, or the, 9 of the, or, "c in the: and the
+:
+[make, the (
+with: and...: “and “
+.
+
+[... (can (
+can (dise, can [10-
+
+, (10
+ or by [1, [[ and, [and, [and names, an, and (1 and of the. 6, the, an or, [anns (an, an, include the are an (are are-1-ann, 1, " an 0, an, an, an, an, an, a and of [. an, an 2 An or, the in a and a-an and in the and or, the [and, an, 3 or - an. an - an, an, an in the an, 3, 7, 9, an, an, an (An in the and, an [1,
+: and, Anici, 0 an an, 5-an1:1, [1: 1: 6 (1-and: : (2: (: and-and [: : and-le and: [[ an and with a-0-an-le-and-0 an-0- are-1-0 in the or [d in the and-pat an and of the [. of, and. (, and or [. or in the,, and [ ( ( (-d or-may-1- are and and, [[ and or in,-le-d and-an-ind [ and, [ an-0 [ - in, an-le-1, an- or [ and or of the- or, of and of an of-of and of a and-0 and in an and, an,-  or and,, of the of the an- or of ( “ of the and and or, or an or and- are-an- or- of, in of an- or- or- and- or or,, as or in the, an or and of the of the and of - of  ( and and and 0 (, or, or- or and- or in (-an-and-an as as of-m-d- or- and an and- -m- or or and and and, an as of, but and or and as and and as of the- for an,  or ( for- or for an and or of for- or ( of, for the as or for for for as-for for. for the. and, or-le of, as, and as of the and of the and, of the., and and, and and-2,, and and and,, an-C An-h-1-d-cl and an and-and [m- and-. as-2-2- -1- or and-2- or- or for-c [ or or-M or [. (.- or c or- ( or- and- - or or (-1 of or of and of, of the or as-0 c-1. c- and. and and and- and-c c.,- and-C-A or-2- or- or-c-m-c- or-M of and- and and- - and- and and-c or or-ch-ch-h-1 in of-1 or of and of or in-0- or- and-c- and,, as in,, as and in- of of of-of, and of the in- or-1-1 and-and- as-C,, and and- and- - or and- or- and, as-1- as- in- - as- as, and or- with with- as- of- and as of and and- or as and- and - or as- and an and- or and c- or- an of-0-0- and and as and- or or,- Ar- and- and- or and-2 and or in- and and,- as- in (- and- and- ar- ar- Ar Ar Ar C Ar-- a- or,- a and- (- in- Ar and- an- or and- and- and Ar- Ar Ar- and- and- and or ( and and,,- and of and of,,- as of of- and as [ as- and- ar- and-c- and- and,- a- C- and Ar- Ar in-0 Ar- and-b- Ar and (, and c- and- and- of-m- and --c,,-m- and- ar- and- in- Ar and- Ar- and- Ar and and ar- and- and-- [- C.-Ar and- and- and-c- of and and- Ar and- an. Ar- Ar-t- C and and- Ar C- and, Ar- in-0 Ar in- Ar-0 (1-0-0- (, in ar, c, ar c (- and, and, and and- Ar C- Ar- and- for- Ar- and- in c- [ as-- [ and--0, a-1 (- c- and-1- in, and, and- and- as and- and and ( ar and- Ar- c-0-1, c-0,-0-0 and, (0- and- and-1--2- (- Ar- and and and and and and c-0 (,,,,,, and,

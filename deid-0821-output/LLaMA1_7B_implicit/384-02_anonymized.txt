@@ -1,0 +1,365 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2088-10-12
+
+EDVISIT^45630268^UHRICH, KARSON^10/12/88^ABREU, OLIVIA
+
+The patient was seen primarily by myself.
+
+HISTORY OF PRESENT ILLNESS:  This is a 71-year-old female with a
+
+history of diabetes, high blood pressure, and
+
+hypercholesterolemia presents to the emergency room with some
+
+right thumb pain and swelling after poking with a turkey bone 2
+
+days ago.  Denies any fevers or chills.  Does report some
+
+increased redness and swelling at the right side.  Also reports
+
+some left dental pain that started this morning.  She has had
+
+history of dental pain in the past, however, much worse today. 
+
+No fevers and no chills.  Tolerating secretions.  No pain on
+
+swallowing.  No recent dental work.
+
+PAST MEDICAL HISTORY:  As noted above, hypercholesterolemia,
+
+diabetes, and hypertension.
+
+ALLERGIES:  Aspirin.
+
+MEDICATIONS:  Atenolol, Protonix, amitriptyline, and Lipitor.
+
+SOCIAL HISTORY:  Denies any tobacco, alcohol, or IV drug use.
+
+PAST SURGICAL HISTORY:  No past surgery or procedure.
+
+REVIEW OF SYSTEMS:  Right thumb pain and left tooth pain.
+
+PHYSICAL EXAMINATION:  Mild tachycardic at 108 and low-grade
+
+temperature 99.2.  Rectal same.  She is an elderly female in mild
+
+to moderate distress complaining significant dental pain.  Head
+
+and neck exam, post dental exam, the patient has pain over tooth
+
+#16 which is intact.  No surrounding fluctuance, pus discharge,
+
+or bleeding.  Tooth is intact in the socket.  Does appear to have
+
+caries.  Posterior pharynx is clear.  Neck is supple with full
+
+range of motion.  Lungs are clear to auscultation bilaterally. 
+
+Cardiac exam reveals S1 and S2.  Regular rate.  No gallops, rubs,
+
+or murmurs.  Abdomen is soft and nontender.  On extremity exam,
+
+right thumb, the patient has an indurated right thumb with some
+
+streaking up into her mid forearm on the lateral aspect.  There
+
+is some induration and warmth to touch.  There is no foreign body
+
+visualized.  There is no area of pus discharge or bleeding.  2+
+
+radial pulses.
+
+LABORATORY DATA:  Normal CBC.  X-ray of the right hand shows no
+
+evidence of foreign body.
+
+ ******** Not reviewed by Attending Physician ********
+
+IMPRESSION AND PLAN:  This is a 71-year-old female with diabetes
+
+presenting with cellulitis and some streaking.  She had received
+
+IV Ancef in the emergency room.  She will be admitted for
+
+continued IV antibiotics and observation.
+
+______________________________
+
+ABREU, OLIVIA M.D.
+
+D: 10/12/88
+
+T: 10/12/88
+
+Dictated By: ABREU, OLIVIA
+
+eScription document:1-4087689 BFFocus
+
+
+
+
+
+;
+
+
+		
+	$xmlDoc=$this->loadXmlDoc($eDoc);
+		
+    $this->logInfo($this->logType,"Loading XML document");
+	
+    $xmlDoc->loadDoc($xmlDoc);
+	
+    $result=$xmlDoc->xpath('//cda:section/cda:text');
+		
+    foreach($result as $resultObj){
+		
+		$tempDoc=$this->getTempDoc($resultObj);
+		
+		$tempDoc->save($resultObj->tag.'txt');
+		
+		$this->getXmlData($tempDoc,array("cda:text"));
+    }
+	
+}	
+	
+	public function logInfo($logType,$logMsgStr){
+		
+		$this->logData[]=$logType.'-'.$logMsgStr;
+		
+	}
+	
+	public function logError($logType,$logMsgStr){
+		
+		$this->logData[]=$this->logType.'-'.$logMsgStr;
+		
+	}
+	
+	public function logWarning($logType,$logMsgStr){
+		
+		$this->logData[]=$this->logType.'-'.$logMsgStr;
+		
+	}
+	
+	private function getXmlDoc($doc,$path){
+	
+		$result=null;
+		
+		$xmldoc=$this->loadXmlDoc($doc);
+		
+		$xmldoc->loadDoc($xmldoc);
+			
+		$path=$path.$xmldoc->name.'.xml';
+		
+		$this->logInfo($this->logType, 'Path is:'.$path);
+		
+		if(file_exists($path)){
+			return $xmldoc;
+		}elseif($this->debug){
+			echo 'XML document is:'.print_r($xmldoc);
+		}
+		
+		$this->logInfo($this->logType, 'Path does not exist!');
+		
+		$result=$this->loadXmlDoc($doc);
+		
+		$this->logInfo($this->logType, 'Loading XML document into file');
+		
+		$result->loadDoc($result);
+		
+		$this->saveXmlDoc($result, $path);
+	
+		$this->logInfo($this->logType, 'Saving XML document file');
+	
+		return($result);
+	
+	}
+	
+	private function saveXmlDoc($doc,$path)
+	{
+		
+		$fh=$this->getTempDoc($doc);
+		
+		$this->logInfo($this->logType, "Saving XML document to file");
+		
+		if(file_exists($path)){
+			if($fh->fh==TRUE)
+			{
+				$this->logInfo($this->logType,"The file already exists!  Overwriting...");
+			}else
+			{
+				$this->logInfo($this->logType,"Saving XML document to file");
+			}
+			
+			$fh->fh=$fh->fh2;
+		}
+		else{
+			$this->logInfo($this->logType, "Saving XML document to file");
+			if($this->debug)echo "saving XML to ".$path;
+		
+			$fh->fh=$path;
+			$fh->write($fh);
+		}
+		
+	}
+	
+	public function saveXmlDocAs($xmlDoc,$path)
+	{
+		$this->logInfo($this->logType,'saving XML document');
+		$fh=$xmlDoc->fh;
+		if($this->debug)echo "saveXMLDoc:".$fh;	
+		$fh=$fh2=$this->saveTempDoc($fh,$xmlDoc);
+		$this->logInfo($this->logType,'saved XML document to file');
+	}
+
+	private function saveTempDoc($tempDoc,$xmlDoc)
+	{
+	//	$tmpDoc=$tempDoc->tmpFh;
+		$fh=$this->createXmlDoc($xmlDoc,'fh',$tempDoc->fh);
+		$fh->write($fh);
+		return($fh);
+	}
+	
+	public function createXmlDoc($xmlDoc,$path,$fh=TRUE)
+	{
+		$xmldoc=$this->getXmlDoc($xmlDoc,$path);
+		$fh=$fh?TRUE:$this->getTempDoc($xmlDoc,$this->xmlDocName);
+		
+		$result=$fh->fh;
+		
+		$result=$this->saveXmlDoc($xmldoc,$result);
+							
+		return($result);
+			
+	}
+	
+	public function getXmlDoc($xmlDoc,$path)
+	{
+		if($xmlDoc){
+			return($this->loadXmlDoc($xmlDoc));	
+		}else{
+			$this->logErr('Error:xmlDocument '.$xmlDoc);
+			return($xmlDoc);
+		}
+	}
+	
+	public function loadXmlDoc($xmlDoc)
+	{
+
+		if($xmlDoc)if(is_string($xmlDoc)){
+			
+			$tmpDoc=$this->getTempDoc($xmlDoc);
+			
+			if(is_string($tmpDoc)){
+				$this->saveXmlDoc($tmpDoc);
+			$tmpDoc->getTempDoc($xmlDoc->loadXmlDoc;
+			$tmpDoc;
+			$tmpDoc
+	$tmpDoc->11
+	$tmpDoc
+	
+	$tmpDoc
+	$11
+	$11
+
+	$11
+	1	
+
+	11	$111
+	$1
+	$tmpDoc;
+	$1
+	201
+2013 $11	$1$
+11 	$11,
+$1
+11
+2
+1.1$12
+
+$1$11
+
+
+
+11111
+1
+
+1
+2
+$11
+
+
+11
+$1
+$1111121
+1
+11111111
+11 111
+
+11111 patient
+11012111
+A
+11  and 11
+1
+11111
+11111111.
+111111
+111 11111112212
+11111
+11
+DHE
+The
+
+110
+
+11111111
+A (0
+1111115
+11111 7
+The (1
+I
+The and I
+
+111
+
+I, A199111.
+
+I
+
+
+A.
+
+[11.
+IMP.
+I, and a fewness
+Ich  and the date and date and a few:
+.
+and the record. 10. 399
+Mine. This
+
+Moral
+The: 4, 5
+A
+
+The 13
+2861,1
+1:2...0
+ARE
+HIG
+The MICE HIVE
+The MIC DA HEAFED MIF (3
+(
+
+MIC
+H
+MICI MOIFED PIVION and 1929212 and [3:
+
+[3.
+209/111.
+MICION.10:198, and the 9:8, and a MEG. 9 [a [2, 199 and [ 8. 18 Anification Anification Anicialness
+MOL-19. Aniced Anification,11 Anise, the 8..
+ and last-210:.1 and:1 and a and [9.  and the. An. An An An Animate An Anified Anica An Anich Anicial, Anicial Anici, M: the health. An CIF and a2 An21122228-5 An An.
+8ARE HIS.12.21 for the-2, 12-60 for the 32 An Anient Anici with a (002011-10,82-488 and 9 An. ([1 (d and. An An An Anich with a with. A and, butien. 0. An. Anier-2. 12-2-2-1 and, a. Anien for the.. Anient.  (wien for a in a (  [2 and 1 for the [(dien [to,. Anist. [[ in our [ →  and and (  [ -  [ and,  and. :  and: [. An and a: : An (d in an: and: : a.  and: An An An ( [he: -c in An An: An An An An An An (c. [ [. An [-1 in [1 [-c. [1 [ and [[2 and [[. [2: [: and an [-t an [: and and an  [. An: and: An.-1:,- [.-age in an-an-age [ and and [2 and. an-  [ for [. and. and. - with and,, [ ( [ with [1. and [1 with -1-1-0 [9 in the (.0 and-2 a and (1 [1- -  and. ( and to in-to.-t (. and and.- and-  and.-1 and- in. to a,. and and ( and and in a and and the to-ch- a ( ( and ( and, [ and-to and  and-  or [ a and in,  old and [ and-old- -ch [ and- and-2- in-t.-ch, and, in.-ch-c in and a-t, (-b,- and-ch. and ( and and. or ( and [ and in, and and and and and a to the and and and and and and and or- -in, (- and. in and M with the. and. with. or,. and to the and, and [. and a in the. and or and-to and or and- and or,. and, or and M ( M or or M and. C and and, M and-B-t, [ and-M ( and and C or M H- -H in-H and. H and and -to M and H and in.- and.- H- H-	-t and- and-2-2-c and and H or, or.
+ H.. [ and C C and M H M H- H P-M: (	 H P- H ( H ( ( M- H M (-c-t-1 ( and-M-H-H (. M, ( to- and [ or (. or M or- H or ( or and in - and-	- H and-h [ ([ H [ [ [ M and M with- to- [- to-1- and [-to-h-1- [- ( and-d-b to (	 and. H in (- and-1,, in ( C or (- [- and in- a- M and (- and- [- and (- H or H. C.-t to-d- and. [- and- and-0-t and.-0-. and or (--.--- a- and-	- and- and and-1- and H-- and- C- [- and and- and- and- ( and-- an-1-0- and- an an. H- and- and or H, (-.----- [ (- and- H. (	 C ( or or [ ( and (- C C- and,.- to- in the and and and ( and a. to,,.,- to,, and, and, [,- ( and, and,- and,, M M M,- or in- C H M-1 and-2- a- a-t- and-c in, a- or and and a,-t and-1-1-5-5--0-1-1 or- C-t or--1- or a,-1 and a a to--2 A- A.- C for- A.- M C-	-2. C.-1-2 (--1-,-2- and - C,, (, A C,, and (- a, C C-1 or c-2-z-0-1-1,. L-1-5-1-5-1-0.-1 and----9-0 and--0-2-4,. and-1,-t-00 (,--12-2, (,--1,-1-0-1-1 to- C and,- C-- H- M- M- C A-

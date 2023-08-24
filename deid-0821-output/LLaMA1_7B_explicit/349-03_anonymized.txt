@@ -1,0 +1,330 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2145-12-19
+
+
+
+Olga comes in accomapnied by her daughter after undergoing L TKR by Dr. Walter on 10/15/45. She was transferred to Leprosarium rehab when after 5 days, her INR increased to 16 prompting readmission to MEDIQUIK. While there,  R leg weakness was noted. MRI LS spine showed DJD and some spinal stenosis. She was transferred to Parsons Hospital on 11/05 where she stayed till 12/10/45. She has been staying with her daughter since then.
+She is receiving VNA, PT. She continues to have R quadriceps weakness, cannot lift leg. It is in a brace with knee immobilized. She is unable to walk independently. 
+SHe notes her L lower leg is swollen. SHe is taking percoset for pain in leg. Also has pain in low back.
+Her breathing has been stable.
+She has lost more weight. She was on a strict ADA diet while at rehab.
+
+
+Problems
+Hypertension 
+Diabetes mellitus type 2 
+Hyperlipidemia 
+Chronic obstructive pulmonary disease 
+Polycythemia 
+Depression 
+Degenerative joint disease : s/p R TKR 11/44 
+Total hip replacement 
+Diverticulosis 
+Obesity 
+Transient ischemic attack 
+Smoking 
+Insomnia 
+
+
+
+Allergies 
+NKA 
+
+
+
+Medications 
+Advair Diskus 500/50 (FLUTICASONE Propionate/salmeterol 500/50) 1 PUFF INH BID 
+ALPRAZOLAM 0.25 MG (0.25MG TABLET take 1) PO QD 
+HYDROCHLOROTHIAZIDE 25 MG (25MG TABLET take 1) PO QD 
+LISINOPRIL 40 MG (40MG TABLET take 1) PO QD 
+Lopressor (METOPROLOL Tartrate) 50 MG (50MG TABLET take 1) PO BID x 30 days 
+METFORMIN 1000 MG (1000MG TABLET take 1) PO BID 
+NAPROXEN 500 MG (500MG TABLET take 1) PO BID x 30 days 
+OMEPRAZOLE 20 MG (20MG CAPSULE DR take 1) PO QD 
+Plavix (CLOPIDOGREL) 75 MG (75MG TABLET take 1) PO QD 
+SIMVASTATIN 20 MG (20MG TABLET take 1) PO QHS 
+TRAZODONE 125 MG (100MG TABLET take 1) PO QHS 
+Verapamil Sustained Release 120 MG (120MG TABLET SA take 1) PO QD x 30 days 
+
+
+PE:
+Vital Signs
+WEIGHT 196 lb (-15lbs/2.5mos) 
+134/70 P60 T97 
+Walker in room, unable to get on table 
+Pt alert and oriented, thinner 
+NEck - no nodes or bruits 
+Chest - clear 
+Cor -RRR, nlS1S2 
+Abd - soft, NT 
+Ext - L knee scar well healed; LLL bigger than right with trace pitting edema, no tenderness over calf, no redness or warmth 
+Neuro - R leg in brace; 3/5 strenght, CN's grossly intact 
+  
+A/P: 
+1. R leg weakness - Obtain MRI brain. Refer neurology. EMG was discussed, per PT recommendation. 
+2. Requests back brace - PT to order. 
+3. Pain back - Vicodin 5/500mg prn. 
+4. Resume Neurontin. 
+5. HTN - stable. 
+6. DM - check HGA1C. 
+7. Weight loss - follow. 
+8/ f/u 3 months. 
+  
+Janet Orellana MD 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="page-break"><p> </p></div>
+        </table><p> </p></div>
+
+        <table class="page-tables">
+            <table>
+                <h1 class="headline">Problems</h1>
+                <table class="row">
+                    <tr>
+                        <th>
+    <h3>Problems</h3>
+    </th>
+                </tr>
+                <tr>
+                    <td>
+Hypertension
+    </td>
+                </tr>
+                <tr>
+                    <td>
+Diabetes mellitus type 2
+    </td>
+                </tr>
+                <tr>
+                    <td>
+Hyperlipidemia
+    </td>
+                </tr>
+                <tr>
+                    <td>
+Chronic obstructive pulmonary disease
+    </td>
+                </tr>
+                <tr>
+                    <td>
+Polycythemia
+    </td>
+                </tr>
+                <tr>
+                    <td>
+Depression
+    </td>
+                </tr>
+                <tr>
+                    <td>
+Degenerative joint disease s/p R TKR 11/44
+    </td>
+                </tr>
+                <tr>
+                    <td>
+Total hip replacement
+    </td>
+                </tr>
+                <tr>
+                    <td>
+Diverticulosis
+    </td>
+                </tr>
+                <tr>
+                    <td>
+Obesity
+    </td>
+                </tr>
+                <tr>
+                    <td>
+Transient ischemic attack
+    </td>
+                </tr>
+                <tr>
+                    <td>
+Smoking
+    </td>
+                </tr>
+                <tr>
+                    <td>
+Insomnia
+    </td>
+                </tr>
+                <tr>
+                    <td>
+Allergies
+    </td>
+                </tr>
+                <tr>
+                    <td>
+NKA
+    </td>
+                </tr>
+                <!-- 
+                    <tr>
+                        <td>
+Advair Diskus 500/40 (FLUTICASONE Propionate/fluticasone Propionate 210mcg, 500mcg) 1 PUFF INH BID
+    </td>
+                    </tr>
+                -->
+                <!-- 
+                    <tr>
+                        <td>
+Alprazolam 2 mg PO BID
+    </td>
+                </tr>
+                -->
+                <!-- 
+                    <tr>
+                        <td>
+LISINOPRIL 10 mg PO BID
+    </td>
+                </tr>
+                -->
+                <!-- 
+                    <tr>
+                        <td>
+Lopressor (METOPROLOL Tartrate) 100 mg PO QD
+    </td>
+                </tr>
+                -->
+                <!-- 
+                    <tr>
+                        <td>
+Metformin 1000 mg PO BID
+    </td>
+                </tr>
+                -->
+                <!-- 
+                    <tr>
+                        <td>
+Omeprazole 20 mg PO BID
+    </td>
+                </tr>
+                -->
+                <!-- 
+                    <tr>
+                        <td>
+Plavix (CLOPIDOGREL) 75 mg PO QD
+    </td>
+                </tr>
+                -->
+                <!-- 
+                    <tr>
+                        <td>
+SIMVASTATIN 20 mg PO QD
+    </td>
+                </tr>
+                -->
+                <!-- 
+                    <tr>
+                        <td>
+Trazodone 50 mg PO QD
+    </td>
+                </tr>
+                -->
+                <!-- 
+                    <tr>
+                        <td>
+Plavix 
+    </td>
+                </tr>
+                -->
+                <!-- 
+                    <td>
+Vasprostatin 
+    </td>
+                <!-- 
+                    <td>
+Vasoprostatin 
+    </td>
+                <!--  
+                <!--
+                -->
+\endashes
+                    <
+
+                <briefing
+
+                <bring
+\n\different
+    <bring
+   
+    br...
+
+   ...
+   ...
+   ...
+    (space (space 
+\n space
+
+
+   
+
+    n space 
+    spaces of
+    spaces
+    spaces, spaces 
+
+Space,
+
+
+
+
+    spaceship
+    spaces of space spaces. 
+    spaces, spaces,
+space, space
+
+
+space
+
+space, space, 
+space spaces of space, etc  and/spaces, space space
+
+spaces, spaces spaces  spaces space spacespace. The spaces space spaces of space spaces, space spaces and spaces, space, space
+
+
+spaces spaces
+space spaces space, spaces spaces spaces spaces with spaces spaces spaces spaces spaces spaces, space, spaces spaces spaces spaces spaces spaces spaces spaces space spaces spaces spaces spaces spaces, spaces spaces space space or spaces, spaces space spaces spaces space space names spaces space spaces spaces spaces space. spaces spaces spaces space names of space spaces spaces of space spaces space. spaces spaces, space names space, space spaces space the space space space.
+1...
+12...
+and 1 space
+or space
+space.
+The letter space spaces space names spaces spaces, the names, and the space, and names, and the date. (names, as [
+the and the date and space, and space... are 20 are 3 orated... names. (13, space 2, and the words of the patient names, names and names and 1 and the patientized the data-1 (1-
+1. 
+the patientize the...the, and your: 1:
+
+orize ority...1-2:
+are the are the...
+1 of it and are 1 or:1: and the...
+name: 0... 
+[the, the or, the, and the " 1 and the:  the,
+and,
+(and the orize or,
+1 of the (1 of a, 1, the are the (1-1 and the 1, 1, and,  and, 1 and  and, and are, and 1, and and, and and, and, and, 1 (and, (... the and,
+, and in the (1, (3, and (1 (1. [1 and are, and, and, and, [ and, 1 are, are, (1 are, “1 or and the and (1, a ([1, the… 2 (make the "with-2-and...1...... “: and and...2... 1...0 0 "1 [and-and... of a-and the or the or and or (and by the, 3. in (d and, and, and, of the, “. [., and,, in, 1 and ( and-2, anoc, 2, are, 5 "in, a and, and the, an...  and and, and, and, a or, the, 1, (and... ( an,  an (2 and the and an, a, an and in the, and, of " and of and, an, or of this and the in the, and, and, and and, and, and and the, the and, and an,, the,  "1- the, and, 1, an, and 2 of the (1 and in an of  and of  in the-le-1-2-1 and: 2 in ( (: “ and: an (::  " [ ( an an (:
+ or-an-an in the an or: an ( in a  in " (- " and in an an are and, on in and ( and and ( of an of  and the..  in the and in,, and (, an and an an (, An in the ( [an-  are and in, [ an an  an-  [ or -  an are an [, and and  an  or an  [ and and  ( an  and   and an  in  and of  of an of, of an and an, an, an [ ( and  an in or,  and of “ of  of and of the - " and an or, an and, are- or- and-an are in  of  or of or an or or-, or and, an ",  and  an or of,, and  of  and,, and ( to and and to,  in, or for an ( and in  for  in  and  and of the or  or of 1 or, An An An or, and, to an in,  An, and to,, to (, and and to ( (  and. and,  or,  or  An of and or of (  or, for  An C of an ( C An C ( 1  and of  of the of, of  of, C of,  of of C C and and and 1, and,  and and  and, An  and, C and.  C An C  - and and  C,, and and of  C of  C -  and,, and  C -  C and and, C An or and in in or or or  An C in and and C or, in C and in - or  and in C An C An  C C to or and ( to  and and  ( for [ C and, and and and, C,, (, ( C -,, C (, -1 C in and and  (1 and  C and  C (1 ( C C of ( 0  C (0 or 1 (   and and C. ( and or of  ( or of and of an  An, in of An,  ( and and  and. C, in and   or of (, of of of   of of and of  and,  in   and and for 2 and and (  or in  (, and an  and, ( and and  ,.  and,  C and and, and  and ( of and in of of an ( and,  C -  and an ( in or in ( - -  an  an of an an and. A in and and and.  and, and and  and. M and and an, and and or ( and  as (,,  (,.  and and to  in and and, or and (,  in, in  ( and  and  (2  in m (  in in  and ( C and M and and and ( to, to and to, to  and, and,, and ( and, and M,   (.,, and   and. and,  and  and  C  and,  C of  of. C  in .  M in. and ( C in in M M (. and and, and m.,,,, (,. C C M  M ( - ( M and, C. ( ( in M C C in. G L G and and C L and and M ( C C M M and M ( A M to C m to and M to M and and and to to in C and and ( and and M...  and, C in, or and and. for M and M  and C M.  C and  or and and M, M and and and ( M,  to and C, m and  M and  M C M    C P and C C T C and F C C,, T and to to, to, A M  C to and and, and, and, M and to M and to and, in, M and. and C and M or, and and M M. or A ( and A C C C  M M M0 M M  to M, M M C M and and,,, L0 P

@@ -1,0 +1,290 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2073-05-29
+
+
+Internal Medicine
+97 Weld St                                        Xian, Imogene
+Grandview, NE 13472                                      81376761
+(552) 598-5590                                           05/29/73
+
+
+HISTORY OF PRESENT ILLNESS:  Ms. Xian is 75 years of age. 
+She has adult-onset diabetes, which in the past has required
+treatment with insulin.  She has been managed with oral
+hypoglycemics because of her reticence to using injections. 
+She also has a history of CVA.
+
+I last saw her in August of last year.  She was seen by Ms.
+Vann, our nurse practitioner in early May.
+
+CURRENT MEDICATIONS:  Glipizide 5 mg two in the morning and
+two in the evening, Plavix 75 mg one p.o. q.d., and Avandia
+2 mg one p.o. q.a.m.  According to Ms. Vann's note of Apr
+29, 2073, she is also supposed to be taking metformin 500 mg
+one in the morning and two with the evening meal as was
+prescribed back in 2072.  The patient and her son today are
+not sure that she is taking this medication.  In fact, they
+believe that she is not.  There has been moderate polyuria
+and polydipsia.  Control of diabetes has been erratic. 
+Hemoglobin A1c has been elevated.  On Apr 29, 2073, blood
+glucose was 274, BUN was 25, creatinine 1.0, electrolytes
+within normal limits as was calcium.  Cholesterol was 315. 
+Hemoglobin A1c 10.6.  The patient has not experienced chest
+pain, palpitations but she is moderately short of breath
+when climbing stairs.  There has been no orthopnea and no
+PND.  She denies dysuria and urgency and has not experienced
+near syncope.  She denies nausea, vomiting, diarrhea, and
+constipation.
+
+PHYSICAL EXAMINATION:  On physical examination today, she
+appears well.  Blood pressure 122/66.  The heart rate is 90
+and regular, weight 113 pounds, approximately five pounds
+less than last year.  Random blood glucose was 224.
+
+The patient suffered a minor CVA back in September 2071. 
+She denies any recurrence of motor deficits or symptoms
+suggestive of TIA.  The patient has a past history of
+hyperthyroidism that was treated with iodine 131.  She has
+not been hypothyroid since then.  In fact, the last TSH
+level was 0.05 in August of last year, just prior to her
+departure to Ghana.  She denies heat intolerance as well
+as palpitations.
+
+On physical examination, she is a small lady in no acute
+distress.  The neck veins are flat.  The extraocular
+movements are full.  There are no symptoms of
+hyperthyroidism.  The chest is clear to auscultation.  The
+heart sounds are regular.  There are no rubs or gallops. 
+The lower extremities are free of edema and now her toes are
+free of fungi but the nails are overgrown and require
+attention.
+
+ASSESSMENT AND PLAN:  A 76 year old woman with a past
+history of hyperthyroidism, which was treated with I-131
+with good results who, last year before she left the
+country, had a subnormal TSH.  She does not have obvious
+symptoms of hyperthyroidism but today I have obtained a
+repeat TSH as well as T3 and T4.
+
+Diabetes continues to be a problem.  Glycemic control
+continues to be difficult to achieve.  Today, I have
+reinstated metformin at 500 mg p.o. q.d.  The son is going
+to check on the medications to make certain that indeed she
+is not taking this medicine at this point.  The other
+medications were continued.  It is indeed possible that she
+will need insulin in the near future.  I plan close followup
+and will see her again in six weeks' time.  If she is
+hyperthyroid, this may also explain the difficulty in
+achieving glycemic control.  Against this is the high
+cholesterol.  She used to be on Lipitor, which was
+discontinued during her trip to Ghana.  I have
+reinstated the Lipitor today 20 mg p.o. q.d.  I have also
+added a small dose of enalapril 2.5 mg p.o. q.d. to protect
+her kidneys even though she is not hypertensive.
+
+
+______________________________
+Kevin Shamar-Trevino, M.D.
+
+
+eScription document:0-389401 NFFocus
+
+DD: 05/29/73
+DT: 05/30/73
+DV: 05/29/73
+
+
+
+
+
+
+
+<p>
+
+<div>
+
+<p>
+<div>
+<p>
+<div>
+
+<a name=docx href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5983370/#!po=2451032.2898" rel="noopener noreferrer" target="_blank">
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5983370/#!po=2451032.2898" target="_blank">
+
+<h2>HISTORY OF PRESENT ILLNESS:</h2>
+
+
+<li>2073-05-29</li>
+<li>Xian, Imogene</li>
+<li>Grandview, NE 13472</li>
+<li>552 598-5590</li>
+<li>05/29/73</li>
+<li>97 Weld St</li>
+
+
+<p>
+<div>
+
+<a name=docx href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5983370/#!po=2451032.2898" rel="noopener noreferrer" target="_blank">
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5983370/#!po=2451032.2898" target="_blank">
+
+<h2>CURRENT MEDICATIONS:</h2>
+
+
+<li>Glipizide 5 mg two in the morning and
+two in the evening</li>
+
+<li>Plavix 75 mg one p.o. q.d.</li>
+<li>Avandia 2 mg one p.o. q.a.m.</li>
+</li>
+
+<li>Metformin 500 mg one in the morning and two with the evening meal</li>
+</li>
+<li>as was prescribed back in 2072.</li>
+<li>The patient and her son today are not sure that she is taking this medicine.</li>
+
+<li>According to Ms. Vann's note of Apr 29, 2073, she is also supposed to be taking metformin 500 mg one in the morning and two with the evening meal as was prescribed back in 2072.</li>
+<li>The patient and her son today are not sure that she is taking this medication.</li>
+
+<li>There has been moderate polyuria and polydipsia.</li>
+
+<li>Control of diabetes has been erratic.</li>
+<li>Hemoglobin A1c has been elevated.</li>
+<li>On Apr 29, 2073, blood glucose was 274, BUN was 25, creatinine 1.0, electrolytes with normal limits as was calcium.  Cholesterol was 315.</li>
+<li>Hemoglobin A1c 10.6.</li>
+<li>The patient has not experienced chest pain, palpitations but she is moderately short of breath when climbing stairs.</li>
+
+<li>There has been no orthopnea and no
+PND.</li>
+<li>She denies dysuria and urgency and has not experienced near-syncope.</li>
+<li>The patient has not experienced
+nausea, vomiting, diarrhea, constipation, and constipation,
+and diarrhea,
+</li>
+</li>
+<li>and
+<li>hypertension.</li>
+<li>and</li>
+<li>hypertension.</li>
+<li>
+<li> 
+
+<li>
+<li> <li> hypertension
+<li> hypertension<br 31
+<li> hypertation
+
+<li>
+
+
+<li>Hypert <
+<li
+<hypert
+
+<hy
+<li>hy
+
+
+
+<li
+<li
+
+<244
+
+<li<li
+
+
+<li
+<li<li
+<li<li
+
+<hy<
+
+<li< 1<li
+
+
+<li<li<li 3
+
+<li<Li 
+<li
+<li
+<li<i
+<li<li 4 
+<1<li
+<1
+<l<li<li 9<li
+<113<2 < 3<li, <l
+Li  
+< 22
+<10, a 410
+< 2 1
+1 
+
+
+
+
+
+< 9
+
+<1200
+30<12 11
+<12
+
+
+20
+100<0
+15
+ 9
+1
+A1
+1, 1
+4:
+
+   
+ 14
+1
+
+  
+
+  322
+
+
+The 3
+15
+M
+1
+2. 4 19, 2
+A,17
+
+10
+2
+1 1
+4
+5
+
+1015031243391. 
+and date and.
+A. 20:1: [11:20
+. This.
+1
+The: the:A, a (1 13, 1.
+1973
+1:
+
+ 
+ (4:    :     (the:
+
+M (2 9.  , 
+##,1
+110.8. 1: 3.
+
+
+ 9
+82 01.0-0 -1: :  
+
+ a1 (a -19.
+
+9 8-d-d15-1,2: the: a, the,13- 6.. , H.A, a-d and anness,, a,1, a-11   [2 An [9 and,, a  and  -the, 9.0 9. a 9 and..1.1 and. a. and  and a.0 (1 and the and./9 / A...,10 A. and (1., a,1. for 1. C212, the..1210. for [..-1... A. (.[.13..1.9..9.:9-3.6 and-9.6:0 for the. Anclus An CMPA and and..::.: a. a... a and a... [2,. is a. is, a, has, a, the-1 and a. and a.-a-in and.-in-d,-in and-c,.-age and the.....-age... a a.-9. in a.. for a and (9 and a in a. for.. [9- and a and:. (. in:.:- :.-an...:..... a... a.:..... ( a and in the a (:-1-0- in:: and in the::. (. in [: for: for [-[. and in a.. [ [.. [.: an [. (:: ( a (.: [..: a for  and, for [.: and of a::: of a,.. of. of a- of a of a.  of a...- and- and of,.. a. of a., and- and (. is and (,- - and, in.., of- of a and of-.- ( in and in-.- and x- of the and x of..  of the of x of a of the for of a in. and in and for in for in ( ( for. of the,.. and in, and for for for for and in a,- in (-. for,- in and and for and- and in for and and- and of a for in and in in for (. for ( x. and in, for for and ( x- a and m,, x.- x in, in and, [, -,.,,,,,, a, [ (,,-,, in in in,,, in ( and, x, of a, of x, in ( and., and- a.,,, x., and.,, a ( x ( a and. and  in and in and a the  in. in- in.- and x,,,,,  of one of a x of x in, and of a and,, ( m that.  m in in m of that, of, of and in a- and in,, x. and m, (, x and x in ( in c ( in the (. x and in x, ( (, and x m m in x and x. ( x- x, x or x, in and x of, x of x (::: a x x, x x x. x x and a c- a ( ( and- x in m ( m (, m/, x,/ m in M x and. (-,, m, in and (,  x x. x x. and a x in and that, and that, x  ( m, mm- m and.   and in and. x in m m of  ( ( a m and, x in. m.. in and  m, (,  m and, ( m in and, that, m, and- of or of x. ( in in, ( and.  a a,, c.  and ( to. and,, ( ( c ( and or- x a., (  m.  x (- ( and, and x, x ( ( m a. x (- or a and  x of the and in a. and- m in x  ( of ( and  a ( and a, of and-  of ( x of x and- a of of m of ( or,, a ( m- in, ( or or,, a, x,,, x in x, and - x, C, in, and, a the, x C,,,, a x, c and c,- x,,,, C,,, the,, c and,, x, x, a,,,, x of, and of, a x,  a for,,, X,,,.,, x, a x c, x ( C (,, c,,- a, ( of, and c C of  of c x of  x and/ of and  a of,, in the ( a, a of and a c c, c c x, c in- C as of (, of x ( an- c- and ( a- ( x- and in ( (-- and ( a and or in, c, x,-,,-, X,, (,, or ( and X (, x ( x ( or- X and or in the,- in, and in and and in ( C (, the in  of X,  (,,, X,- (,, and for  and,, (-, a, x, and, and, and, X,- a x (- and, in (, a c

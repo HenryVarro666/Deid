@@ -1,0 +1,310 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2081-03-22
+
+Chief Complaint of:  Nephrolithiasis
+
+
+
+2/28/81 cysto, left stent, ESWL,meatal dilatation
+
+
+
+History of Present Illness:  50 yo male here for removal of his stent.   He denies fevers, nausea, chest pain, shortness of breadth (at baseline), and vomiting.  Voiding symptoms:  hesitancy, intermittency, nocturia x1 3/week, no frequency, and intermittent urgency.  Reports erectile dysfunction-difficulty maintaining erections.
+
+                     
+
+Past Medical History:  NIDDM, neurofibromatosis, Hodgkins disease-chemo and XRT (bleomycin, adriamycin, vincristine, DTIC)
+
+
+
+Past Surgical History:  left axillary biopsy, pectus excavatum, neck surgery
+
+
+
+Medications: metformin, urocit K, ibuprofen PRN
+
+
+
+Allergies: he reports an allergy to contrast in the past but did well with his last CT scan.
+
+
+
+Social History:
+
+Single
+
+Does not smoke
+
+No alcohol use
+
+Retired from dc comics
+
+
+
+Family Hx: 
+
+No history of stones
+
+Mother - died of sarcoma
+
+Father -died of an MI
+
+Sister with ITP
+
+
+
+Review of Systems: 
+
+No interval change
+
+
+
+Genitourinary Review of Systems
+
+No Kidney stones in the past
+
+No Urinary tract infections
+
+No Sexually transmitted diseases		
+
+
+
+Physical Examination:
+
+General Examination:
+
+Vital Signs:
+
+Morbid obesity
+
+BP 154/82
+
+cor RRR
+
+lung CTAB
+
+abd soft 
+
+No CVAT
+
+LE no calf tenderness
+
+
+
+cystoscopy
+
+Patient was placed in the supine  position and prepped and draped in the standard sterile fashion.  Lidocaine jelly was inserted into the meatus for local anaesthesia.  A flexible cystoscope was inserted into the meatus.  The urethra was without lesions.  The lateral lobes of the prostate coapted at the midline.  The stent was identified and using alligator forceps the distal portion was grasped.  It was removed intact.  The patient tolerated the procedure and was discharged from the clinic after receiving ciprofloxacin.
+
+
+
+Laboratory Values:
+
+An independent review of a urinalysis shows:
+
+                          No WBC's
+
+                          +  RBC's
+
+                          No Glucose
+
+                          No Protein
+
+                          Nitrite Negative
+
+                          pH  7.0
+
+
+
+Abdomen Single                 22-Mar-2081 
+
+REPORT:
+
+	History: As above.
+
+	Comparison:Noncontrast CT abdomen and pelvis 3/14/81.
+
+	Findings:
+
+	There is a left ureteral stent.  Tiny residual stones seen on
+
+	prior CT are not identified on this KUB.The bowel gas pattern is
+
+	nonobstructive.      The bones are unremarkable in appearance. The
+
+	visualized lung bases are unremarkable.
+
+IMPRESSION:
+
+	LEFT URETERAL STENT.  NO ABNORMAL CALCIFICATIONS IDENTIFIED.
+
+		
+
+	
+
+Impression:  50 yo male treated for a 1.1 cm symptomatic left renal stone.   His post-operative KUB does not show any calcifications.  The stent was removed intact without difficulty.   He is to have a follow up CT in June with and without contrast for further evaluation of a renal lesion seen on a previous CT scan.  He did have a post-operative CT that showed a subcapsular hematoma for which his blood pressure will be followed.   That study also showed the stone which is no longer visualized on todays KUB.  The imaging in June will again assess his stone burden.
+
+        
+
+Plan:   
+
+1  CT abd/pelvis I-/I+ in June
+
+
+
+Follow Up:  in June
+
+
+
+Patricia Barajas, MD
+
+Urology- Gila Regional Hospital
+
+
+
+
+
+Please note: This email may contain confidential patient information which is legally protected by patient-physician privilege.  If you are not the intended recipient, you are hereby notified that any disclosure, copying, or distribution of this information is strictly prohibited by law.  If you have received this communication in error, please notify us by telephone at once and destroy any electronic or paper copies.  We apologize for any inconvenience.
+
+
+
+
+
+cc:
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+                <tr>
+                    <td style="font-size: small;">
+                        Date                               :   2081-03-01
+
+                        Recommendation                      :    Follow up in <b>3 months </b>
+
+                        Reason                            :    <b>  </b>, <b> </b>
+                        <b>  </b>, <b>   </b>
+
+                        Comment:    <b>  </b>
+
+                        History of Present Illness:  <b>  </b>, <b>   </b>
+                        Current Problem:  <b>  </b>, <b>   </b>
+
+                        Plan:    <b>  </b>, <b>   </b>
+                        <b>  </b>, <b>   </b>
+
+                        Follow Up:    <b>  </b>, <b>   </b>
+                        <b>  </b>, <b>   </b>
+
+                        <b>  </b>
+
+                        <b>  </b>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table class="MsoNormalTable" style="border-collapse: collapse;border: 1pt dotted black;background: white;margins: 10px;font-size: smaller;">
+            <tbody>
+                <tr><td style="padding-left: 0.5cm;padding-top: 0.3cm;padding-bottom: 0.3cm;">
+                    <b>Recommendation  </b>(<b>3 months</b>):
+                        <i>Follow up in 3 months. </i>
+                </td></tr>
+                <tr><td style="padding-left: 0.5cm;padding-top: 0.3cm;padding-bottom: 0.3cm;">
+                    <b>Reason </b>:
+                        <b>  </b>, <b>   </b>
+                </td></tr>
+                <tr><td style="padding-left: 0.5cm;padding-top: 0.3cm;padding-bottom: 0.3cm;">
+                    <b>History  </b>:
+                        <b>  </b>, <b>   </b>
+                </td></tr>
+                <tr><td style="padding-left: 0.5cm;padding-top: 0.3cm;padding-bottom: 0.3cm;">
+                    <b>Current Problem </b>:
+                        <b>  </b>, <b>   </b>
+                </td></tr>
+                <tr><td style="padding-left: 0.5cm;padding-top: 0.3cm;padding-bottom: 0.3cm;">
+                    <b>Plan </b>:
+                        <b>  </b>, <b>   </b>
+                </td></tr>
+                <tr><td style="padding-left: 0.5cm;padding-top: 0.3cm;padding-bottom: 0.3cm;">
+                    <b>Follow Up</b>:
+                        <b>  </b>, <b>   </b>
+                </td></tr>
+            </tbody>
+        </table>
+        <br> <br> <br> <br> <br> <br>  <br>
+        <br>  <br>  <br>  <br>  <br>  <br>  <br>  <br>  <br><br>  <br>  <br>  <br>  <br><br>  <br>  <br>  <br><br>  <br>  <br><br>  <br><br>  <br>  <br>   <br>  <br>  <br>  <br>  <br>
+                  <br>  <br>  <br> <br>   <br>    or <br >br>   <br > <br> 
+            <br> 22 words<br>  <br>
+
+
+br> 10 <br>  <br>
+<br
+<br>  <br,
+1
+
+<br>br>br 
+
+
+<br 1
+...
+br
+br.
+<space 1
+br<
+<name
+<br>
+199912 names
+br
+
+19 names (the 19010 names
+br1  or br
+2910019.
+11913 codes
+10 names,
+The names and the patient data and names
+
+names, the first names
+
+
+Ins patient-1. 1
+
+
+10 names 
+names and 1 or 111. 1, 11 and date codes of 3 lines
+or 19,1, 4...
+10.
+
+
+specific, and
+10, the... 12, or name. This (or 0 or 12 and 3... (and the date and 
+name. [the following the names, and names, the patient, or...
+(the patient or 0...
+are.
+are are the name and name. 10 or... 110 names. 
+
+1.
+1 and replace, but the 1:
+1 and the...
+
+name, and the names and the name, and the…
+(“: and, and: 5 and  indicateable...1 are a 
+take, a few and 0 (1, 0 or...
+
+are or, [ are 30 and a, [you or and: (
+and and... the 
+,  and, 0 [1 or, the 20 and: the: 2 (and and the and the (1... (… are the (1 are... are the [ 0...1. 1 (and and the, 1, and are, 2, [...1 of the (1 of..., and, and and, the...and in [(1, the, 1, and, a, [2 are (and, [and, are  and [and, and are, and and,  and (in 2, a, and a of the, (you,,
+: [fine:
+11 and: and [11 1  "c “: "... and:... 2 "2 [1- are are are, 1 and, an of 1 or or ( or (, by the “and of... (and, orities, [[, of  [1, of the ( and [ of the, 0, an an, an, are, an, are 1 or (an and an, and, an and,  and of the- an [, and or, 1, an, the, or an and of  and an,  An An, the and [ an and, (2 or an, an 2 (2 an of,  of and ( an or, " ( an, and ( and ( An, and, 0, an, An An ( 0 Anine and, An:,  and, and, An, "2-1 of " an: An of: An and (: [2::: An: :: : an and:: an (:: An and: :  and:
+: Anine: an: an:: or: with: an: An:
+: an: An: " or- an: an [ anity: and [-  ( of the of an of the of [ and an an and an and ( [ an [ or, [: an [ an ( or (,  are [ : [ ( [ and- an- and ( [ ( or [ an and- ( are ( An, An  " an- ( or an - and, an an (- [- an and  or, or, are an an of an- an of the of an of  or, or, -,, and- or- An, - an,- of, of, An An of and,,, an-  or an, An An, of, an an an of an of or ( or- an and an of an -  -  an - an - an of an of, - and, of the -, of:  an anity,  and or ( ( and- in- or or or- An An of a of or or ( or- 0,- ( an of an or or or or of and, and of, and of an, and,, ( or an, and and, [, ( or, - ( an or  an of,  and of ( of, c or or,,- and an, ( (, are of are of and of ( of, of of, of of of- of the,  of an ( or- C An An or, an-  and,, and an ( ( ( an-  ( an  (- an, [ ( and or and- an-  of c of  and (- an ( ( c or ( c and or or- or and-,,  (  or an or or,-  or ( and  and for in (  (  and for and c of to c of an of of an of  (- to- c of  to ( to ( c, and c of the: and: C and ( ( an and - c (  ( ( or - and-c or ( and or c an of  of a- of the and an of C ( or of  - and and c  an and and of the of of of of of of of of the of of of of  of- and, and an or  of the  C- of or of of and of of of ( of, of of of of and and  c- and-1- of and of- c and and, or an c. ( - or., ( -   or,, and- [ ( - ( or [ and of the or of - C of of [ and and - C C and C ( C, (, c (- C, ( of of or or (  or c (- and  ( and -  c,  ( or- and  ( and (, C and [ and and ( and c [, C, c. and c-  ( and and, [ and, c and,  or c,,, or c  and ( and ( and and of, C and, and- and , (, ( or,,, (, ( and,,, of an of, of and of c and,,,  and,, and, and c, and.,, and- ( and ( c- - - - - P-c c- or of C ( c of  and of - of and of of, of ( and of or of of of c- of ( of of of of- of of of of an of of ( and-  c-  P C- H c- ( c- N of ( of of of of of of or of of of of  of- of an of of  of of of of ( of, of and of  ( or,  ( of- 1-0 and to- ( c. and,  and, and, and, or and of ( and and and, - and and- - or or- and- of- of of of of of of of of of of  of of, and,,- and-1- and and and, and. and, and-  ( of, of c of,, of, of of -  of of of of of of of of of of of or of or of of, of of ( of of of- of- of- of of of-  of of-  and, and, and c, 

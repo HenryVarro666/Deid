@@ -1,0 +1,441 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2078-09-17
+
+
+
+HENDRICKS, HANNAH
+75322175
+09/17/2078
+
+Trevon Schmidt, M.D.
+47 Clinton Street, Guite 299
+Decatur, WI 33955
+
+
+Dear Dr. Schmidt:
+
+Your patient, Hannah Hendricks, was in the Surgery Clinic today.  As you know, she is a 52-year-old woman with a history of peripheral vascular disease.  She underwent a redo left femoral to anterior tibial bypass graft using basilic and cephalic vein from her right arm on May 3, 2078.  She has done well since the procedure.  She is now comes here complaining of left foot pain.  She had an ultrasound in the vascular lab to rule out a DVT, which it did.  She explains the discomfort as pain and burning in the bottom of her foot as well as her arch and over the dorsum of the foot.  
+
+
+On exam, she is a well appearing female in no acute distress.  She is alert and oriented x3.  She appears grossly neurologically intact.  Her lower extremity exam reveals easily palpable bypass graft pulse in her left leg.  Her left foot is warm and well perfused and she has a very small pinhole ulcer over the plantar aspect of her left great toe.  This does not appear infected and I cannot probe to bone.  It remains superficial.  She has no other ischemic skin changes noted. 
+
+
+I have discussed with Hannah that her discomfort most likely is due to peripheral neuropathy due to her diabetes.  She also experienced this discomfort prior to her surgery.  She is enquiring about starting Neurontin.  I have said she would be able to try either Neurontin or Lyrica to help with the peripheral neuropathy.  She will return next week for her postoperative graft scan to assess her circulation.  She knows to contact us sooner if thing worsen. 
+
+
+If I can be of further assistance in her care, do not hesitate to contact me.
+
+
+Sincerely,
+
+
+Hunter Shea, MD
+
+
+Dictated by: Quanisha Logan, PA-C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HENDRICKS, HANNAH
+75322175
+
+
+Record date: 2078-09-18
+
+
+
+HUNT, BENJAMIN
+75322175
+09/18/2078
+
+Trevon Schmidt, M.D.
+47 Clinton Street, Guite 299
+Decatur, WI 33955
+
+
+Dear Dr. Schmidt:
+
+Your patient, Benjamin Hunt, was in the Surgery Clinic today.  As you know, he is a 15-year-old male with a history of peripheral vascular disease.  He underwent a redo left femoral to anterior tibial bypass graft using basilic and cephalic vein from his right arm on May 3, 2078.  He has done well since the procedure.  He is now comes here complaining of left foot pain.  He had an ultrasound in the vascular lab to rule out a DVT, which it did.  He explains the discomfort as pain and burning in the bottom of his foot as well as his arch and over the dorsum of the foot.  
+
+
+On exam, he is a well appearing male in no acute distress.  He is alert and oriented x3.  He appears grossly neurologically intact.  His lower extremity exam reveals easily palpable bypass graft pulse in his left leg.  He also has a large non-healing ulcer over the plantar aspect of his left great toe and a 4 x 4 cm wound over his left dorsum of the foot.  The latter is non-infected and has no neurologic deficit or motor deficit.  He has no other ischemic skin changes noted. 
+
+
+I have discussed with Ben about the wound on his toe and that the ulcer over his dorsum may be related to his underlying diabetes.  His toe appears to have healed well, as there is not much remaining dead space. He is going to be referred for vascular surgery follow up as I think we need a repeat duplex study.  He knows to contact us sooner if thing worsen.  
+
+
+If I can be of further assistance in his care, do not hesitate to contact me.
+
+
+Sincerely,
+
+
+Hunter Shea, MD
+
+
+
+
+Dictated by: Quanisha Logan, PA-C
+
+
+
+Record date: 2078-09-19
+
+
+HUNT, BENJAMIN
+75322175
+09/19/2078
+
+Trevon Schmidt, M.D.
+47 Clinton Street, Guite 299
+Decatur, WI 33955
+
+
+Dear Dr. Schmidt:
+
+Your patient, Benjamin Hunt, was in the Surgery Clinic today.  As you know, he is a 15-year-old male with a history of peripheral vascular disease.  He underwent a redo left femoral to anterior tibial bypass graft using basilic and cephalic vein from his right arm on May 3, 2078.  He has done well since the procedure.  He is now comes here complaining of left foot pain.  He had an ultrasound in the vascular lab to rule out a DVT, which it did.  He explains the discomfort as pain and burning in the bottom of his foot as well as his arch and over the dorsum of the foot.   
+
+
+On exam, he is a well appearing male in no acute distress.  He is alert and oriented x3.  He appears grossly neurologically intact.  His lower extremity exam reveals easily palpable bypass graft pulse in his left leg.  His left foot is warm and well perfused as well as his plantar aspect of his left great toe.  There is a 4 x 4 cm open wound on his left foot with some dead space remaining.  We have been debating whether it is infected or not, but I am leaning more towards non infection, as there appears to be only necrosis present.  He also has an ulcer over his left dorsum of the foot that is 4 x 4.  This is not infected and also is non-ischemic.  He has no other ischemic skin changes noted.  We will be following him up on his diabetes in vascular surgery clinic.  
+
+
+
+If I can be of further assistance in his care, do not hesitate to contact me.  I have referred him to vascular surgery to discuss his ulcer on his toe. 
+
+
+Sincerely,
+
+
+Hunter Shea, MD
+
+
+
+
+Dictated by: Quanisha Logan, PA-C
+
+
+
+Record date: 2078-09-20
+
+
+
+HUNTER, MILES 75322175
+09/20/2078
+
+Trevon Schmidt, M.D.
+47 Clinton Street, Guite 299
+Decatur, WI 33955
+
+
+Dear Dr. Schmidt:
+
+Your patient, Miles Hunter, was in the Surgery Clinic today.  As you know, he is a 38-year-old male with a history of peripheral vascular disease.  He underwent a redo left femoral to anterior tibial bypass graft using basilic and cephalic vein from his right arm on May 15, 2078.  He has done well since the procedure.  He is now comes here complaining of left foot pain.  He had an ultrasound in the vascular lab to rule out a DVT, which it did and the ultrasound revealed a patent bypass graft as well as a patent graft inflow.  
+
+
+On exam, he is a well appearing male in no acute distress.  He is alert and oriented x3.  He appears grossly neurologically intact.  His lower extremity exam reveals easily palpable bypass graft pulse in his left leg.  His left foot is warm and well perfused and he has a superficial ulcer on the dorsum of the foot with some dead space.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I am unsure of the above
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   ...
+
+
+
+
+
+
+
+
+
+
+or
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+names,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The names,
+
+
+
+
+
+
+
+The patient-ident patient.
+
+name, patient
+
+
+
+The following, 
+
+
+
+
+
+
+
+[
+...
+
+
+
+
+let
+let names, or name, date, and name or the patient, or names only and name: and name, or identify the patient
+or or name, and name, date.
+or, the [or. or
+or.
+
+name, or name, and date, and the [name, and [name. The...
+... and the... and names, etc...
+.
+
+are are... or are...
+[...
+and 12-10, 5, 15-10 names and 4-
+... and the [and your... your names and the words.
+1 and:
+(name names of patient names and, or “
+, and “
+(1... are or: (…11 (1 (… and of [……...… and the 0 orified or are (le... or, and the names, or, your, and (or (orized and:
+...
+the and the (d: 10, and the…
+(are: and “and or: (10 and the and… include and are are, the…, (…,...……, 10... and... and, [2-the, "le, 0, (and, as... (0,, or (
+[1, as 1, 1, and,..., and are (are, “[ (4 (are and  and, [and or. 5 are, (0,, 1 are, [ of a, “:,
+, 3,:
+:
+1: the... 1 (patients “: "... “. " (…... are.  are are are are are-1 are are... are (an, (... of  by... or... by a,, the names, and, and, [, or,, or,, [and (( or (in, (1-and, and the and are, are orine and are the, are (con are (in,,, an, an-1, and an, anizations,, an, an, an, an and (an, An An, and, and an or, and, an, an, and an an an and, an,, of their of (an ( or,, an,, or, and,,, in a,, and,,, An, 1, and, 1 and,,,,, and-1,, with an:,,: - of the of  (: ( 0 of an: :, :-le:, and::-0 or,: and:: " [ in [::::, an with or- an [-with and " in an or an::-1 or- and an ( and are-le and-and-0-an-  of,. of the and of (., and ( and-le in and,-an,-, and  an-in or [. and [ and-and or or  in an [ ( and and [0 an- an- an and-an are [ in and by and, or [ an ( and ( and of the and of " and or or of and of - and of a of a and in and in  and an, and,, with an and-c with and of the of the, of ( an or, and [ and in, or and.. An an-in, an of or and in and in, and in " by or in in or in and, in an by and of and of and of the and ( of the of, and, in and ( and and, or. ( by by (,, an or for the- (, or in and or ( or and, in and of the- or and an, and, or,, or and and, but of, and [, and or,,,,,,, an, (.,-and, but of the or of an, of and for, of, or for or 0 (, and an-and for and, of a of the-of and and of the of the and and-and and.-t-per with and in, and and [h and and and h.  and  and [c [C An C An C for, and and,-P C was ( and and [(-h,, or-C or ( an and ( and "- or ( by or ( ( or or ( or and and (-d (.-  (, and h,,, [ h ( h and or, of of  and and or ( [, and (.- (- with with " and- and and of ( and and for h and and for as and- and-1, and,-c and or ( h ( and and of “ an and or and and “ C in the and and or in,, or or- and, and of the. of and of the of and and,. and and and, [ and, and, and,, C in, ( as ( of and and C. of our of the of the and C- and,, and and and and h, as- and ( and and ( and to  and h h. and in  in and to, and,, [ to ( or to and [ and and- and or- of ( of and [ ( and,- and [- h, (, (,  and that, ( to and of to to and that to [ and in and, and and and and, and ( and, C or or, or, and and and, as ( and h c and for and and, and and,, and and h and and- and and and and and or and and and or and or and and by h- and [ in to in and,, and (,, to and, and,,,,, and and and,,, and, and,,,,,,,, and,, and and,, in to,, [ and,, and ( and, and- ( and, and ( and, [ and and, in,,, that in,, w- W and and- C, to,,, and and,, C,, in as, (,-b to and in-h and in, in, and, h ( and and h- - in and [.- and in and in and and-c-l and and h and as and and and. in in and, and or and and in and in in as, and, and, h and (, ( and, in and, and, as, C, and and (,,,,,,, ( and (,,, ( and,, in ( C,, (, in,,,,- and ( h,, and, (,,, and,,,, [, and and - C- and,,- and and, and,, and and. and and,, in., and to in ( and,,, (, and or, and h in or or. and L,, and C, and,, and, and P and, and- and as, and, as ( and

@@ -1,0 +1,325 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2107-10-24
+
+TOOLE COUNTY HOSPITAL
+Cardiology
+871 Westerdale Drive                           Werner, Nancy
+West Liberty, AL 54854                       2-05-09
+ 
+ 
+ 
+Routine Visit
+ 
+Taking Diabeta 10 b.i.d. as well as other medications and has now added 
+Pravachol 40 mg. at bedtime.  She is tolerating the Pravachol well.  
+Blood sugars at home, morning and at bedtime, are in the 130-155 range.  
+No side effects of the medication.  No evidence of hypoglycemia.  No 
+polyuria, polydipsia.  Trying to walk on a treadmill inside the house 20 
+minutes at a time several times a week.  Trying to watch diet.
+ 
+Physical Exam:  Blood pressure:  150/86, 148/84.  Pulse 78.  PERRL.  
+Carotids 1+, no bruits.  No peripheral edema.
+ 
+Assessment:  Blood pressure adequately controlled.  Sounds like diabetes 
+is moderately well controlled.  Check hemoglobin A1 today.  She will 
+call me for these results in 10 days.  Adjust Diabeta if necessary.  
+Return here in three months.  
+ 
+ 
+ 
+ 
+ 
+_________________________
+Paul D. Quaglia, M.D.
+ 
+mzy:KX:7901
+DD:2-15-09
+
+
+
+
+
+*/
+	
+		return $this->render('MzWebAppBundle:User:visit_record_cardiology.html.twig',array(
+				'visit' => $visit,
+		));
+	}
+	
+	
+	/**
+	 * @Route("/visit_record_nephrology", name="MzWebAppBundle_Nephrology")
+	 *
+	 * @Template()
+	 */
+	public function visitRecordNephrologyAction()
+	{
+		$visit = $this->getDoctrine()->getRepository('MzWebAppBundle:Visits')->
+					findOneByRecordDateAndDepartment('nephrology', 'Cardiology' );
+
+		/* 																		
+																		
+																			
+																				
+																						
+*/
+		if (!$visit) {
+			throw $this->createNotFoundException('visit not found!');
+		}
+		
+		$this->logRecord(
+			'Visit record for 10-24-09, Toole Co. Hospital, 
+				Cardiology, Nancy Werner, 1-5-09,
+				Visit record for nephrology,
+				2107-10-24
+				Record date: 2107-10-24
+				TOOLE COUNTY HOSPITAL
+				Cardiology
+						'
+						);
+		
+		return $this->render('MzWebAppBundle:User:visit_record_nephrology.html.twig',array(
+				'visit' => $visit,
+		));
+		
+	}
+	
+	/*	
+	 * @Route("/visit_record_neurology", name="MzWebAppBundle_Neurology")
+	 *
+	 * @Template()
+	 */
+	public function visitRecordNeurologyAction()
+	{
+		$visit = $this->getDoctrine()->getRepository('MzWebAppBundle:Visits')->
+					findOneByRecordDateAndDepartment('neurology', 'Cardiology' );
+
+		/* 																		
+						           												
+																				
+																						
+*/
+		if (!$visit) {
+			throw $this->createNotFoundException('visit not found!');
+		}
+		
+		$this->logRecord(
+			'Visit record for 10-24-09, Toole Co. Hospital, 
+				Cardiology, Nancy Werner, 1-5-09,
+				Visit record for neurology,
+				2107-10-24
+				Record date: 2107-10-24
+				TOOLE COUNTY HOSPITAL
+				Cardiology
+						'
+		);
+		
+		return $this->render('MzWebAppBundle:User:visit_record_neurology.html.twig',array(
+				'visit' => $visit,
+				
+		));
+	}
+	  
+  
+	/**
+	 * @Route("/visit_record_ophthalmology", name="MzWebAppBundle_Ophthalmology")
+	 *
+	 * @Template()
+	 */
+	public function visitRecordOphthalmologyAction()
+	{
+		$visit = $this->getDoctrine()->getRepository('MzWebAppBundle:Visits')->
+					findOneByRecordDateAndDepartment('ophthalmology', 'Cardiology' );
+
+		/* 																		
+						           												
+																				
+																						
+*/
+		if (!$visit) {
+			throw $this->createNotFoundException('visit not found!');
+		}
+		
+		//	$this->logRecord(
+		//		'Visit record for 10-24-09, Toole Co. Hospital, 
+		//			Cardiology, Nancy Werner, 1-5-09,
+		//			Visit record for ophthalmology,
+		//			2107-10-24
+		//			Record date: 2107-10-24
+		//			TOOLE COUNTY HOSPITAL
+		//			Cardiology
+		//					'
+		//	);
+		
+		return $this->redirect($this->generateUrl('MzWebAppBundle_Homepage',
+						array('id' => 3,)));
+		
+	}
+	
+	/*	
+	 * @Route("/visit_record_otolaryngology", name="MzWebAppBundle_Otolaryngology")
+	 *
+	 * @Template()
+	 */
+	public function visitRecordOtolaryngologyAction()
+	{
+		$visit = $this->getDoctrine()->getRepository('MzWebAppBundle:Visits')->
+					findOneByRecordDateAndDepartment('otolaryngology', 'Cardiology' );
+
+		/* 																		
+																				
+																				
+																					
+*/
+		if (!$visit) {
+			throw $this->createNotFoundException('visit not found!');
+		}
+		
+		$this->logRecord(
+			'Visit record for 10-24-09, Toole Co. Hospital, 
+				Cardiology, Nancy Werner, 1-5-09,
+				Visit record for otolaryngology,
+				2107-10-24
+				Record date: 2107-11-01
+				TOOLE COUNTY HOSPITAL
+				Cardiology
+						'
+		);
+		
+		return $this->redirect($this->generateUrl('MzWebAppBundle_Homepage',
+									array(array('id' => 20,array(array('id' => 30, array('id' => 40, array(array('id' => 50,
+														
+
+										
+
+										
+
+	
+VisitRecordDate:
+	
+									
+
+									
+				
+Visit:
+
+
+															
+												
+			
+				2	
+
+
+                
+	
+
+
+
+
+
+	
+M
+2000
+				
+
+   
+   
+
+		0
+   	
+
+	
+       
+
+
+
+
+
+
+
+
+
+A: 
+22 days:0
+
+   
+
+M                
+19
+20.  
+
+
+
+A, 
+
+  
+
+
+   
+
+April
+2-0
+
+
+Dr.
+
+M
+TODAY
+
+TO.
+M
+13. 
+A 2010 
+
+
+A
+15
+
+TO
+
+Medic, 20 
+A
+TO
+
+           
+
+
+
+
+1 1
+
+A
+14 3
+
+
+   20
+day  021
+10
+TO 
+TO
+A
+TO 00
+TO
+TO
+TO TODAY TO. 0 and 3:
+TO TO with a
+ and the.
+280.
+. 11
+. The: your patient :  and a: 3, and 6022.  25
+
+M
+Oct
+ 18
+211
+CENTIVE
+
+TO,TO FRE,111.  2 3
+A.M
+M C:TO:  :  
+: To: 1
+1-1 :0 - 10, A (Fine: (A:A. PIN
+. 1. 2-A (day. :.  and. Anical.  An C. 20 C and a day (d and M. An.. Anine. Anine [. Cine An.... An.. 1:11 and:1: An An Anive An An Cile (1 An 1 Anine An.1. a.A and. 1. the. Anine. and. a and/a...  a. : a and.. An C/day/1/1/day/2 a and A day. An.1 and CAL FAL CAL A... C. F..... C.1.. An. An. An. An.2 An Anine An Anie An Anine An. 1. Anine, An Anient An An. An. An. An.......... a. for the.  a. an.  An. a.. C Anime An a. An.  and. a as A An An An An An An An. An. and An... and. a..... an.. an... Anine An. An.. Anie. and... an life.. c.. Anime an. An.. a. a. a. an,.. An  An c.  and: An An C week  week. An An An An a c.. .  An C an. An An c. An. Anin An. An An C. and. al. a C An: An An An C. An An An An Al A. An day -   an an.. An. of a  c.  a.:.. a.. al. (....... [. c. c.. [. a.. cm. c.  a. an d. an-.-  a.. l. c. in the.. a. a. a.. as...... C. and as an and.../.  an a.  and  an.  of   of an. or a and  ( a day a day an. m. a a.... to c. a and and. An. a ( a col to an. c... to an.  to.. to. and.  to c. to. and a. to to -n a n.. a for the an a. a in the and H.  a. and.  hr. day an a. a an. a of a in a C L H a n a a an a day an a. a t. in t. t an. n.. n.. a. a. a. n d. in a a  a.  a.. an in.... in the n.. a cm.  an n.  a.  c  a.. a. an..  a hr a.. day.  c.  a and and a an for H. C. al. an an. c.  and an an.  c a for c. a.  a to a per an t. a a- n. an a.  t for  an t. an for of a for of of  of the  of a of  c t a for a-  of c of a of b h of an of for a ne a an t.  a a C an c d b. a n a  c. C a n an of n. n a  a an c an n a an a an an an  n  of an of an  an an t d t1 a.1 c. a c an an an  ma an. a.  al of  a  a. t.. an an an an c month ( n.	 an.	.  n of. and. c a c. 0. n an  an a c.  c. and-  a cm- a- an. b n-.  a day n day day - n t.  of a a  a a. an.  t. c a n. a ne a ne ad co c a C a C ad. of C of C a. of C a c a.  C C.. c.  cm		  a a -  C C	  cm a. a C a  C a cm a.  and  	.  an  n a  a 	 	1 c a  c0 n c c.  an  an  of  an of  n of of. of 10. me.  cm c an  t a  an ne. per t.  and a n a. ne. m... and a m. m. c.  ne and of a. c and c per  a a c t. cm to m. ne.  m. ma- m ne a ne. c d t t d a ne. ne. d a ne.  a. a of. of an of of. of a ne of a an of  per of. a a a  i an. n a  an. a.  a a.  d a. a cm.  a.  per  c. per m.  c an c of of of  an  c of a m an  a n d m  an c. a.  of a a of a an of c t an t.  a c an d m. t c ne  d. of of of. of of of a of a of -  c a,  ne ne ne  cm. ne,  ( - c ne. ne ( per  per.  c.  ne:  m: ne: to  a a c.  a

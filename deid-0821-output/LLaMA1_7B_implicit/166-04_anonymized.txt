@@ -1,0 +1,410 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2096-03-16
+
+
+	CARDIOLOGY
+	
+
+	WESTBROOK PLAINS HOSPITAL
+	
+
+
+	Reason for visit:
+    s/p cath
+
+
+	Interval History:
+   Per HPI J. Jordan Duran:
+
+64 y.o. male with known CAD. He has multiple risk factors and a cardiac history dating back to December 2095. At that time he was experiencing exertional chest pressure while shoveling. He initially attributed his symptoms to GERD; however the chest pressure began to occur post prandially and nocturnally. He was admitted at SCH where his ECG revealed non-specific ST T wave abnormalities and he had negative enzymes. 
+
+He was then transferred to WPH where cardiac catheterization revealed a 90% LAD lesion, a 70% OM1 lesion, a 70% 3rd OM and an 85% RCA. His ejection fraction at that time was 40%. He was referred for surgery. He underwent a successful CABG x 5 with a LIMA to the LAD, a sequential SVG to the Acute Marginal and PDA, and a sequential SVG to the 1rst Diagonal and OM1. 
+
+He now presents with recurrent chest burning. He states that it is similar in nature to his symptoms prior to CABG. His chest burning is exertional and is relieved with rest. He denies dyspnea, nausea, vomiting, dizziness and diaphoresis. During a follow up appointment at SCH, he was referred for a stress test. Per Bruce Protocol he exercised 6 minutes and 0 seconds. He states that his chest burning symptoms returned and were lessened with SL TNG, though not completely resolved. MIBI images reveal severe large perfusion defect extending from the septum to apex with reversibility. There is also a fixed basal infero-lateral territory consistent with infarct. His ejection fraction is 46%. He was admitted for cardiac catheterization done today with full report pending. Reportedly RCA diffuse, SVG-PDA patent, SVg-Dx1-OM patentw/ mod. ostial stenosis, LIMA-LAD 100%, LM mild, LAD severe w/ distal 100%, LCx OM 100%. Plan is for med management.
+
+On admit to Internal Medicine, pt. is hemodynamically stable, groin site sealed, stable and no complaints.
+
+
+	Past medical history:
+   CAD- as described, NIDDM, GERD, Hyperlipidemia, Nephrolithiasis, Prostate Cancer, Anxiety, Barrett's Esophagus. 
+
+PSH:Right Inguinal hernia repair, tonsillectomy, lithotripsy.
+
+allergies:
+
+ Ambien - MS changes,sleepwalking
+
+meds at home:
+
+ASA 325 mg po qd
+lisinopril 7.5 mg po qd
+atenolol 25 mg po qd - pt. never increased to bid from last visit
+Glipizide 5 mg po bid
+Metformin 500 mg po 2 in am 1 in pm - pt. admits to noncompliance w/ this
+Prilosec 20 mg po qd-inconsistantly
+Lipitor 80 mg po qd
+Viagra 50 mg po prn-none in last month
+
+	
+
+	
+
+
+
+
+	Family history:
+   F deceased with CVA at 83; M deceased with colon CA at 76; 1 B at 63, 1 S at 62 and 1 twin S without CAD.
+
+
+	Social history:
+   Married, no children, works as a web programmer at Audiovox. 
+Tobacco: Quit at 38 y/o; ETOH: 1-2 beers/week; Caffeine: 2 cups/day; Exercise: bikes and walks 2-3 times a week; Recreational Drugs: Viagra - none in one month.
+
+
+	Review of systems:
+
+	
+ see interval history
+
+Physical examination:
+	
+-temp:   afebrile 
+-Pulse: 70   
+-resp. rate: 16    
+-height: 64  in.
+-weight: 150  lbs.
+-General:   No acute distress.
+-Skin:   No rashes, anicteric.
+-HEENT:   Unremarkable
+-Chest:   Lung sounds clear bilaterally.
+-Cardiac:   Left ventricular impulse discrete and nondisplaced. Regular rate and rhythm, normal S1 and S2, with no S3 or S4. There were no clicks or rubs.
+1/6 SM apex.
+-Abdomen:   Soft, non-tender with active BS.  No masses or bruits.
+-Extremities:   Femorals 2+ bilaterally without bruits baseline. groin site stable, no hematoma, DP's 1+ baseline, no edema, feet cool.
+-Neuro:   Grossly non-focal.
+-BP: 140/76    
+-BMI:   
+-Neck:   Carotids 2+ without bruits. JVP no jugular venous distention.
+
+Selected recent labs:
+
+	 Metabolic
+Date     K        BUN      CRE      GLU      
+03/11/96 4.6      18       0.9               
+12/06/95                            195      
+
+Lipid/Thyroid
+Date     CHOL     TRIG     HDL      LDL      
+02/13/96 120      90       30       72       
+
+Hematology
+Date     HCT      RBC      WBC      PLT      
+03/11/96 43.1     5.16     9.4      311      
+
+Coagulation
+Date     PT       PT-INR   PTT      
+03/11/96 14.2     1.1      28.1     
+
+24 hr Urine
+Date     CRE      
+03/11/96 0.9      
+
+
+	
+
+
+	Impression:
+    64 y.o. male w/ Known CAD and recurrent CP and positive stress test as above. Now stable s/p cath as above-awaiting full report. Plan med managnement.
+  BB increased today since pt. never increased as OP-cont. to monitor labile b/p.  On statin, ASA, ACE I, prn sl NTG.
+Lipids, LFTs in am.
+CBC, lytes, BUN, Cr in am.
+Monitor groin site per protocol.
+Consider endo. consult for poor glycemic control. pt. admits to poor adherence to DM med regime and after long discussion re: importance of med adherence is willing to be consistant with rec. meds at this point.
+Off metformin for 48 hours per cath protocol. Cont. Glipizide. Monitor FS.
+Sliding scale regular insulin while off metformin.
+Diet consult ordered.
+Further recs. per Dr. Oxendine.
+
+	
+Freida P. Lloyd pager #82454
+
+	
+Signed electronically by  Freida P. Lloyd
+Document Status: Final
+
+
+
+"""
+		
+			//Create a new file to write the output to
+			File output = File.Open("output.txt", FileMode.Create);
+								
+			//Get the file writer
+			FileWriter writer = (FileWriter)output.GetStream();
+			//Set the encoding
+			writer.Encoding = System.Text.Encoding.UTF8;
+								
+			//Write the output to the file					
+			writer.Write(outputFile); 
+								
+			//Close it
+			output.Close();
+		
+			//Create a file to store the input
+			File input = File.Open("input.txt", FileMode.Create) ;
+								
+			//Get the file reader
+			FileReader reader = (FileReader)input.GetStream();
+			//Set the encoding
+			reader.Encoding = System.Text.Encoding.UTF8;
+			
+			string temp_data, outputFile;
+
+			//Read the file into the string
+			temp_data=reader.ReadLine();
+
+			while(temp_data!=null)
+			{
+			temp_data = reader.ReadLine();
+			
+			//Create the output string
+			outputFile = temp_data + "\n" + writer.ReadLine();
+			
+			//Create the writer string
+			writer.WriteLine(outputFile);
+				
+													
+															  
+			
+
+																
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HIGA.
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+  
+
+
+
+
+
+ 
+	
+
+
+	
+
+
+
+
+ 
+
+
+
+A 
+
+
+
+
+
+
+
+  
+1
+
+
+
+
+
+
+2005/
+.
+
+Feb
+
+1
+
+
+
+
+
+
+P
+
+
+
+
+
+
+
+
+
+
+
+
+
+A
+
+
+1.
+
+
+
+
+
+The card
+.
+Febru,
+
+
+A
+1/101
+
+
+
+
+
+
+	0
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+A.
+ 	201
+June
+	
+19
+
+1
+
+
+
+
+
+
+
+1
+  2.
+
+ 12
+
+
+
+
+	A1
+
+
+
+M
+ 
+A	
+ 1021.
+
+
+April 2:
+time and 
+
+
+
+
+
+
+C
+ 10/ M
+, M
+.
+
+
+(A.
+The 5
+A and was.
+to
+The and is,
+
+20798
+A. I.
+ and we 100: 25A198920 	
+
+	[19, 3. 5, the day.
+	120
+ 	A 	A (3		A and CRE 	 (C: A. 2: 	:
+1:		1: a: the day:
+: the 1:
+
+	A. 1192012 9 1 with the 1: 3.10.26, 100 (time, 0. The time, a, a day -1. A. Anine: Anicular, the. Ciffiness, a ( 4: 3. 1.6. Anocine of ciffiness.21. Ansi (2: 2. 5 - a...[A, but a 2.	. [. (1. 1, a: sine, cine:.3.0.1.17.12 day and 1.1. C.1. (1. c. Al. Anific and the and the Cine Cine. Anical Cinal, a, and Cinder (2-a a. Anse-5 and. 11 day-day, cinder. the-1 C. C, the.. 0. 0. c. A cine of the to a. a cine and cine to. c to the [5 to the1,1. a, an.1. 1 and (1. an,  to alient to the-to to a anness,, alness, as the, as a a to 3 to a. to a to.. 0 to a [c. to.  to a s to the. an to an to a to the to the to this to the to a to the  to the, 1 in the. cine:.:. to c al to the to the  to  A C: An: a in time a ( cine, A Cine to the c- c cine. Al. Anine in the [: An C An An Cine and a ( C. 1 C1 1 0 0 [  c in  (1 C ( C. to one c. C C.0.: [20 a [., C [ C Cine-c. C to al a [ a. to C, C to to, al a a-,  a- - to. ( and a- C to to C. to [ [, cm to the to C to an in the to a to and-c to 00.1 to an1110- and-  in a, a and c, a (. a.  and  c-1 and [ c- c-to. to a to a and.. at., c and on at-c-2-1, to.. and and c. -c in (-c-c- I c. to in. to in to to in and in to and, c c,- and- and- cm and for,, to, and C to to C to to to.-c and and the  c a and to,- c to,, c to and-c andness, [ C.-c,,. C C, to al for, al and-c ( to C-0 to,  L,, an,.. ( C, and and, C- -2 and. C C and C C.  a c- a-c-d- C a - and.-c-1-1. C C- C. AL. C C and  I C A.- C C C H and C. I. a- the to I for- a to- for to. to to. to to C for, to-c..,. and c. to - :.  in the. C C in.  C: C C C C00,-0- a: c in a C in, C I- I.::. c. C C. C C a- C c- C,- C-  with C- c, C- H.-c c to C to C H a- - C I- C- C C c to- R R I-c - R- O- c- c in- a-  c- C-c-c C-c-.-0- -2-  C. C. L C a. a, c- an and a C a c, c a:. to  and-c a c after a c-.. C-.. - H. C and- C, C- and- C C in C. CC in. CC I- H- L and L M- and. I.-  I C C C C. C C C  c: a-  C c. and and and.- c and and, and-	- a- an,- c, and a - and and, a C C c c c and- c- C and C and, c and, I, and,, to,, C, c, to C.  H  to,, [,, and and,- W- c, to c and c and 0 a c and C, C and,.  C and,,.- a, C-.-, c - C.,-  C, a and,, and,,- M c, ( c, c, and- and c-, C c a, to- M.- m, M. c a,, and to and,. to, to c-0 to, or- m, or to,, or M, and. M to  m-,0- and, a, to to to per to,-- a ( a,. MC or to or to-0-1-0- M, - M m- a a, m ( M MC M c m -, M - c- M, - a, a.,.,,- m.-: -,-:-:,,:,,00,-: - -0 or-   m- m- m: and- M- M. - to c: to c - and:--  and m,- and-- and.---:-. - - " and:-, and

@@ -1,0 +1,373 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2079-04-22
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+BROADLAWNS MEDICAL CENTER
+
+
+
+Reason for visit   elevated B/P
+
+
+
+History of present illness   Seen in ER for HTN.yesterday  224/105
+
+Per dau TX w/ IV lopressor x 4 doses, betalol & NTG
+
+Today B/P 210/90 this AM
+
+Meds not changed.
+
+No ha, no chest pain, no SOB, no blurred vision.
+
+
+
+Change in therapies and Renewals
+
+Norvasc 5mg po qd QTY:30 Refills:3 Start: 3/12/2075
+
+
+
+Assessment and plan   HTN 
+
+Discussed w/ Dr Edmondson by phone.
+
+Will add Norvasc 5 mg qd
+
+Advised family.
+
+Called to  pharm
+
+
+
+Disposition
+
+Appt w/ Dr Edmondson 4/28/79
+
+
+
+Addendum
+
+			
+
+I was present during key portions of the evaluation of the patient and agree with Noreen Dotson's findings and plan as written.
+
+Bryan Edmondson
+
+
+
+Signed electronically by Noreen O Dotson RN on Apr 22, 2079     Bryan  Edmondson MD on Aug 20, 2079     
+
+
+
+*/
+	}
+	// 11:25
+	
+	// 11:25
+	// 
+	// 2010-08-29 16:11:25
+
+	if( $this->isInEmergencyMode() )
+	{
+		// 11:25
+		// 
+	}
+	else
+	{
+		// 11:25
+
+		$this->setPatient($patient);
+		$this->setEvaluation($evaluation);
+		$this->setAssessment($assessment);
+		$this->setDisposition($disposition);
+	}
+	$this->setEvaluation( $this->getPatient()->getEvaluation() );
+	$this->setDisposition( $this->evaluation->getDisposition() );
+	return $this->getEvaluation()->getDisposition();
+}
+
+/**
+ * 
+ * @return string
+ */
+public function getPatientName()
+{
+	$patients = $this->evaluation->getPatients();
+	$name = "";
+	
+	$patientsCount = count($patients);
+	$patientCount = $patientsCount - ( $this->getPatient()->isDeceased()? 1 : 0 );
+	$i = 0;
+	
+	while( $i < $patientCount )
+	{
+		
+		// 	if( $this->getPatient()->isDeceased() )
+		{
+			if($i == 0)
+			{
+				$name = $patients[$i]->getFullName();
+			}
+			else if($i!= 0 && $i!= $patientsCount)
+			{
+				if($patients[$i]->hasDifferentFirstName($patients[$i - 1]) && $patients[$i]->getFirstName()!= $patients[$i - 1]->getFirstName())
+				{
+					$name = $patients[$i]->getDifferentFirstName($patients[$i - 1]);
+				}
+				else
+				{
+					$name = $patients[$i]->getFullName();
+				}
+				// $name = $patients[$i]->getName();
+			}
+		
+			
+			// 			}
+			else
+			{
+				// 	}
+		}
+		
+		
+		$i++;
+	} 
+	$this->patientName = $name;
+	return $this->patientName;
+}
+
+/**
+ * 
+ * @return boolean
+ */
+public function canDelete()
+{
+	
+	//		$isNotDeceased = $this->getPatient()->getIsNotDeceased();
+	//	
+	//		if( $isNotDeceased && ( $this->isInEmergencyMode() ||!$this->canDeleteInEmergency() ) )
+	//		{
+	//			if( $isNotDeceased )
+	//			{
+	//	//			$this->evaluation->getPatients()->delete( );
+	//	//			$this->evaluation->getAssessments()->delete( );
+	//			
+	//				//	$this->getPatient()->delete( );
+	//				$this->getEvaluation()->delete( );
+	//				$this->getDisposition()->delete( );
+	//				
+	//				//					
+	//				//					
+	//				$this->getPatient()->setIsNotDeceased(false);
+	//				$this->getDisposition()->setDeceased(false);
+	//			} 
+	//			
+	//			// 						
+	//			// 				return true;
+	//		}
+		
+		
+		return true;
+}
+
+/**
+ * Returns the patient
+ */
+public function getPatient()
+{
+	return $this->patient;
+}
+
+/**
+ * Sets the patient
+ */
+private function setPatient(Patient $patient)
+{
+	$this->patient = $patient;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+namespace Cake\Console\Shell;
+
+use Cake\Console\Controller;
+use Cake\Console\ShellTrait;
+
+/**
+ * This Shell provides a simple way to add a patient
+ *
+ */
+
+class AddPatientShellController extends Controller {
+	use ShellTrait;
+
+	/**
+	 * Add a patient to the database
+	 *
+	 * @access public
+	 */
+	public function index() {
+		$this->getPatient();
+		$this->getEvaluation();
+		$this->getAssessment();
+		$this->getDisposition();
+	}
+
+	/**
+	 * Add a patient to the database
+	 *
+	 * @access public
+	 */
+	public function execute() {
+		$this->Patient->add($this->getPatient());
+		$this->Evaluation->add($this->getEvaluation());
+		$this->Assessment->add($this->getAssessment());
+		$this->Disposition->add($this->getDisposition());
+		//$this->Evaluation->Patient->attach([], $this->Patient->id);
+		//$this->getDisposition()->getAssessments()->attach([], $this->getEvaluation()->id);
+		//$this->getPatient()->save();
+
+		//echo "successful";
+		//exit;
+
+		$this->out("Add Patient successful", 0);
+	}
+
+	/**
+	 * @return \Cake\Database\Query
+	 */
+	//public function getPatient($id=null) {
+	//	$id = $id?? $this->request->query('id');
+	//	$this->Patient->get($id);
+	//	return $this->Patient;
+	//}
+	//protected function getPatient() {
+	//	if ($patient = $this->Patient->get($this->request->query('id'))) {
+	//		return $patient;
+	//	}
+	//}
+
+	//protected function getPatient() {
+	//	if ($this->request->query('id')) {
+	//		$this->Patient->get($this->request->query('id'));
+	//	}
+	//	else {
+	//		$this->Patient->get(0, 1);
+	//	}
+	//}
+}
+
+
+
+
+/**
+ * @param string
+ *
+ *
+ *
+ * @param string
+ * @author string
+ */
+// public function getPatient(string
+
+
+/**
+ * getPatient()  string
+ *
+ * getPatient()  string
+ * getPatient(int(0)  string
+ * getPid
+ * getPatientId(string
+ * getPatient getPatient() string
+ * getPatient() string
+ *
+ *
+ 
+ *getPatient'getPatient's string
+ * string
+ * patient string
+ * string,
+PatientId*Patient Id
+
+string or
+Patient string,
+PatientId
+string
+\Id
+string.getPatient string, getPatient
+string.get
+* string, get
+getPatient ID'string
+string.string,
+
+string string.
+string,
+
+* and string
+string or
+string string and/patient id strings and
+get strings and get and strings
+get strings
+patient strings, and get strings.
+get strings or id... string and string and the date
+string, get a single.
+string
+strings,
+strings or string
+and strings. Get names
+pat, string, get string, id.
+
+\patient
+
+string, get the patient strings string 
+
+string
+
+
+let the letter
+The patient strings of strings and strings...
+patients string codes
+
+names. Letter codes, string names and names or
+15.
+patient and patient
+the 
+and 
+are... 
+171...
+and the letters
+or, but
+name or,
+1
+or the 2, the names, and names, and/names, and name, name and name, and date, the patient, or the patient, or... 0
+are...
+19, orally, or 450 123, 13, 111, or names, but:, the following, the:1...
+name patient names.
+[names of 2, the following:
+name and "le, replace the:
+[1: (1:1: are: 11: and 1 (2 (1: are... and... or... are the names: remove 
+
+and:,the: (or:
+( and...the, and,  and: 1, 1, "make the:1 of the: the in the.1 (
+[are (1… 0 include the  and-name of 1 5 or and 1 and the 1 and are, or, 1, but or or. 
+
+, and, [0, and, and or,, 
+(1, a, you, 3, (name. [are of and, 1, and, or, 1, 1, and, and and, and, and, or of, the, or (and, your, a... (1-1. [with the (1 and (patient and... (... “: "2 (make, 1 1 in the are, and, and 0 of the ( 3 and, and and or, 1 and, 4, and (le, or.,, 1. and, and. (and and and and, 1 5, and and are 1-an 2 or are the are, an, (an in by " and,  and 3 in or, an, an, an, 1, and, an and, an 1 Anich, [2, an 1 or, an, 3, 9 (of, or an, of 0 an 5 (per " or, a 9 and in, 2 an, and, and an and, a and and and "and, an, anine and, an, "0, an of the-an (1. An: An: 1: 1 (: and ([ : "1-1- 1-le: 1 or and:  and or:: an:: an: (1 ( or with a:  (an: 1 or 1 [ are  are are [ and- and are. (.  or of the of the, of and of the, and an, and,,  and [ ([... ( [[ [ [ [ and and and [ [ (and and- or and [1 or and and, ( are and, An are an are  ( "  and (, and  and - and  in, an  and  are- or and, An or of the of the  of  of,- or or, or and, by (, an and,,, - of an of, of an an and and ( an  and, and  are, an an or or of an, in or and,  or an or  An An 1,  in, ( -  or  of  ( of  of,: of,  and and :  an: in and ( by  in and by or in or ( or an-  of and or an and, and an in, or or-1-1  and,  and, of or of and an and -  and, or  ( and  and or, or, ( or,  or ( or of, An An or or00 an0 of for, or and  and of and-0 are  are, or, of an of, of  and of of the of and of and of  An An of, and, ( and of, an and an and ( An An An An An ( and and 1-2 and, ( and and and an of, and of the or and an and  and  C and- or  and w and An An An C An An  and in and an or or or or to ( an and or of and or ( and or and or of,  of and or of of  of of of and of and and and or  and w c and and or  and and " and of: : " ( ( and and ( and- and and and ( or and. or ( and ( and and- and of- of C of the " or-1 ( and or or an " an or or or and w, or of, and of and of an ( of ( ( B of  and of An and and and and ( and B and, and or or  m of  and of of of, and- of of and w of and ( or and w-0 and  and - B and  an  and, and or ( An 1 or ( - and C-1 C and  or, e ( - B of  C C of of and w of B C C A ( ( w- (, and and or and w  C of of and of and w t e w t w ( or C or C, C or and M or or  ( ( of an- C ( and ( w and and, and w a and, ( A A and ( C ( or ( and or ( an and and or or and and (, and  w and an ( and w and- or and B and or and and and  and ( m,  e or, m- and ( and, and and and, and and, and, m, and, and, m,, or 11 M or w ( w, e e w e- or and M of 1  w and  W (  P C w w ( A W ( or w m ( M. and,, C ( M, ( M, w w- and ( M E- and and, ( ( and w ( ( E C ( C w M w M ( M1 E ( M w m M and and M and - M-M ( M M or M M m ma m or-M-M C M- M-c - A ( N, M ( C  M ( ( and ( C M ( M and and M and m or ( and, and, and, and ( and or, and [[ - and and and, (2  C - ( and ( C ( (, or or and  and, C, [[, E  (1, a ( and and of  of, of of, of of, of (, and M C M and, and, (0 (1 in ( and-t and, C A, and, N and, and,  C and 1- -t or 0- or  and - and or - E of,,, , 1 or

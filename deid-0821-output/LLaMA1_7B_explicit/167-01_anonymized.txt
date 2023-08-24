@@ -1,0 +1,1036 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2078-10-13
+
+                     CDH EMERGENCY DEPT VISIT
+ 
+YARBROUGH,IRENE   810-86-43-7                        VISIT DATE: 10/13/78
+PRESENTING COMPLAINT and HISTORY OF PRESENTING COMPLAINT:  The 
+patient is a 54-year-old female seen by Dr. Paulson and also by the 
+Oncology service.  Briefly, this is a 54-year-old female with a 
+known mass in her vagina, who presents now with vaginal bleeding. 
+The patient was seen earlier yesterday by the Oncology service, 
+and is scheduled to have surgery for the mass to be removed, but 
+she developed significant vaginal bleeding and presented to the 
+Emergency Department today.  She is otherwise healthy.  Her first 
+time seen in the Emergency Department or seen by Oncology was two 
+weeks ago for increased bleeding.  She was diagnosed at the time 
+with a necrotic fibroid, and was confirmed by studies to have a 
+large fibroid at that time.  She now presents with increasing 
+weakness and light-headedness and more bleeding. 
+THERAPY RENDERED/COURSE IN ED:  In the Emergency Department, an IV 
+was started, and laboratory studies sent, including CBC, 
+electrolytes, PT/PTT, and she was also typed and crossed and a 
+urinalysis sent.  A chest x-ray and EKG were sent.  The patient was 
+made n.p.o.  She is a preoperative patient.  Her initial hematocrit 
+here was 23.  A full note was written by the Oncology service, 
+and she is currently admitted to that service. 
+FINAL DIAGNOSIS:  Vaginal bleeding with necrotic leiomyoma. 
+DISPOSITION (including condition on discharge):  As above.  The 
+patient's condition on admission is stable. 
+___________________________________                    CQ774/2253 
+TRISTAN O. XAVIER, M.D.  TX12                             D:10/13/78 
+                                                       T:10/13/78 
+Dictated by:  TRISTAN O. XAVIER, M.D.  TX12 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+"""
+    self.write_clinical_note_file(txt)
+
+  def test_get_clinical_note(self):
+    clinicalNote = self.get_clinical_note(self.clinical_note,
+                                           self.note_id)
+    self.assertEqual(clinicalNote.status, "published")
+
+  def test_get_unpublished_clinical_note(self):
+    clinicalNote = self.get_clinical_note(self.clinical_note,
+                                          self.note_id,
+                                          unpublished=True)
+    self.assertEqual(clinicalNote.status, "unpublished")
+
+  def test_get_clinical_note_by_id(self):
+    clinicalNote = self.get_clinical_note(self.clinical_note,
+                                          "29872193822348117")
+    self.assertEqual(clinicalNote.status, "published")
+
+  def test_clinical_note_with_no_clinical_text(self):
+    self.write_clinical_note_file("""
+
+clinical_note: "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"""
+    )
+    with self.assertRaises(ClinicalNoteNotFoundError) as cm:
+      self.get_clinical_note(self.clinical_note)
+    self.assertEqual(cm.exception.note_id, "29872193822348117")
+
+  def test_get_clinical_note_with_clinical_text(self):
+    self.write_clinical_note_file("""
+
+clinical_note: "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"""
+
+    )
+    clinicalNote = self.get_clinical_note(self.clinical_note)
+    self.assertNotEqual(clinicalNote.status, "published")
+    self.assertEqual("29872193822348117", clinicalNote.id)
+
+  def test_get_clinical_note_with_unavailable_clinical_text(self):
+    self.write_clinical_note_file("""
+
+clinical_note: "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+""")
+    self.get_clinical_note(
+      self.get_clinical_note(
+        self.get_clinical_note(
+    self.get_clinical_note()
+    self.get_clinical_note()
+    self.get_clinical_note()
+    self.get_clinical_note()
+    self.get_clinical_note(
+      self.get_clinical_note()
+    get_clinical_note (spaces
+
+    spaces or spaces()
+    spaces  spaces,  spaces  spaces()
+    spaces
+    spaces()
+    spaces, spaces() or spaces()
+    spaces, spaces(spaces()
+
+(
+spaccurate  and spaces() spaces(), spaces()
+    space, space-spaces(spaces, spaces
+names. 1st(spaces,spaces() spaces and spaces.spaces and the  spaces.spaces
+names spaces  spaces.spaces.spaces
+spaces.
+  spaces. spaces.  spaces spaces(space-spaces
+spaces  spaces
+spaces  spaces, spaces, spaces.spaces 0 spaces  space spaces spaces, and spaces names, names spaces and spaces spaces names data.spaces names, names spaces,
+names.  names and spaces.
+spaces.
+names and names,
+names, spaces spaces, spaces spaces spaces spaces spaces spaces
+spaces spaces names
+space names spaces
+names spaces spaces, space names names spaces spaces spaces names spaces, and names spaces 
+spaces, names spaces spaces, spaces and names space spaces spaces spaces spaces spaces, names
+The words
+
+names.
+and spaces spaces or the...
+and, spaces, spaces names spaces
+and the first, and names, names, spaces names
+names, names (or space...
+
+The words (names, or the patient names and 
+names or a...
+The and a letter codes and names, 
+names, names, names, names, the following names.
+[11, the following 2.
+name patient: you, names:
+(names of the words, you names and name:, the patient, 1: a [
+are the patient-are: or…. 122 are a…and 1.
+(the are or names are the name and, and the names, orise, 1 or, and the (...
+the.
+or, and, and you...andize a “...and (and the “1111 or:  and: the [are of the-and-1,
+[... and ( 
+…1, the, (0, the [1, and, but, or, and, 2,
+, [and and... (, [the,...the, and. [
+1, or, the…
+1 are the.
+, the, 1.
+and (1, and, and,
+, and the, the (0, 1, the (and or-1: the [and-10: (the-names: 1 and ':
+: and... 0, (1-1 "in or are...
+and or and and-an " 1 of the [an, or (...the or... and the [[an and, anities,
+of, and, and.  (, and, an, an, an, the and are, a are, an are the-con or- and and and, "an, an-2-the, an, an, 4 and, an an. 1 and and, anity or, [an (and the [an and the [an, an and an, an of the (and and - of the of the an- 9 and an, an, an an, and, an, an and an, and, An:, an, An and, an- and- an, an, 0-1 (le, an of: and: an- an [: 1, 1-con in-0: and an- an: an, an... an and-1 and-1:: and an: an an-an with an: with an ":: or or: or an or- or are an or an-le-and and-and an (. and of the of of an. (. an. an and-in in,,,... and [ or. or, [and  and or, [and or or of the-or in [ [ an- an, in- and-  an or an or are, or or an ( an,, an  ( and- or-in, an, an of an ( an of an of the of a of the, ( and-an  and-d, and and - and in an and, or of an of the of a of an, and [ an in,,-0-an and, or of " in ( of (, or an or-0- or ( in, and- an-,- an of  of a of their with- and ( and - and and  in, an- and by, an,  ( or and or [- or of an-  and or-an-2 - and  and - or, and- and- and - of or- and or,,, and- or-m, [, an, ( an or ( or, of the,- or or and or of an and 0 1 of 0-  and, [1,, for ( and for and of the for  of  an of the-c and and, and for an for for, and for the for,  for for the  ( (0,-3 00-1 and, and-and and, and or, ( and with the-  (, with ( and or or - or or and an-c- [ and and [ or or or or or or ( or-c and- [ or or or- or ( or and or [ and or and, and of or and- c m or-  or-1 and- and- and and ( c,: and: c (-: and (- or ( and, or and:- with the or and- and- and and- and- for of the of or and and and ( "-b-c [1 and and or ".,, of ( of or of ( or of- and- and, and-0 and or, and in,, in, by  for, of or or for for- of of and to for for for- for, for- and (, - and, and  ( or and  in a,  ( in,-, - - and ( and and (  c-( and- and and and of and or and of, and- ( and, with and and,, and or and- ( and, and, and an c - c  as or in and,  and and,- or- c and, t and and or,-1- and- and as and and- and-  in, t, and, and-1  (, and-0- and (- a and, an, t- and,,,-- or  and (- and, and an, an and- and and,, c- and and  and or ( and, and and,,,,,, and, and, (,,,,,,,, c,, and,,, or,  for- of a- for- and- for ( for for and for d for- and for for, for for and, for, for,,,,, for for, for for,, and-,,-1- in for- for,- for for for with for- for for for for for  for for for and for for-- for- and- w- an- t ( (- w. w (-- and t c, and ( in an- ( in and- and ( an, t for- for- ( and- w- t- and- and and and, b (-,,,- with ( and, and,, an- and,,,, for,, C,- for ( C to for to for an for, for for for- for for for d with for for-1 for with with for for for to for and for and for- (, for, w and- and t- (- and ( (- and and and, for- for or for  and for, for t for  C for for, for for for for, for- for for for, for for for for for,

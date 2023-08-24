@@ -1,0 +1,580 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2087-02-21
+
+                     DAMERON EMERGENCY DEPT VISIT
+
+ 
+
+VALENZUELA,BRIAN   036-89-96-4                     VISIT DATE: 02/21/87
+
+The patient was seen by me in the emergency department on 02/21/87 
+
+with the resident.  The resident's notes were reviewed and the 
+
+patient interviewed was examined by me.  The patient's complete 
+
+history is limited by change in mental status and multiple 
+
+sclerosis.  The patient was transferred from an Ellijay home.
+
+PRESENTING COMPLAINT:  Nausea and vomiting.
+
+HISTORY OF PRESENTING COMPLAINT:  The patient is a 49-year-old with 
+
+nausea and vomiting for the past 24 hours, rigid abdomen and no 
+
+bowel sounds.  He has had some feculent emesis over the last day.  
+
+REVIEW OF SYSTEMS:  No fevers or chills, no bright red blood per 
+
+rectum or melena but did have liquid stool earlier today.  
+
+PAST MEDICAL HISTORY:  Hypertension, multiple sclerosis and anemia. 
+
+PHYSICAL EXAMINATION:  GENERAL:  The patient is awake.  LUNGS:  
+
+Scattered rhonchi, otherwise clear.  HEART:  Regular rate and 
+
+rhythm.  ABDOMEN:  Distended with absent bowel sounds, nontender.  
+
+NEUROLOGICAL:  Nonfocal.  
+
+LABORATORY EVALUATION:  Remarkable for a glucose of 100, BUN 13, 
+
+creatinine 0.6, sodium 141, potassium 3.9, chloride 108, bicarb 25, 
+
+lipase 144, calcium 9.4.  White count 10.4, hematocrit 41, platelet 
+
+count 250.  KUB reviewed by me shows distended small bowel and 
+
+large bowel consistent with a large bowel obstruction versus an 
+
+ileus.  
+
+THERAPY RENDERED/COURSE IN ED:  A nasogastric tube was placed. 
+
+CONSULTATIONS (including PCP):  Surgery.  
+
+FINAL DIAGNOSIS:  Large bowel obstruction.  
+
+DISPOSITION (including condition upon discharge):  The patient will 
+
+be admitted.  Surgery was consulted.  The patient was admitted in 
+
+stable condition. 
+
+___________________________________                    GJ089/08607 
+
+HAROLD OSBORNE, M.D.       HO97                         D:02/21/87 
+
+                                                       T:02/21/87 
+
+Dictated by:  HAROLD OSBORNE, M.D.       HO97 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**********************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+******************** 
+ 
+
+
+
+********************
+
+    MEDICAL RECORD NOTES                                PATIENT:    BRIAN VALENZUELA
+
+                                                        DOB   03/29/58
+
+                                                        GENDER MALE
+
+                                                    HEIGHT   6' 1"
+
+                                                    WEIGHT 237.6 lbs
+
+                                                                                                                 
+  
+                            VALENZUELA,BRIAN   036-89-96-4 
+  
+                          PATIENT WAS SEEN IN THE EMERGENCY DEPT ON 
+  
+                        02/21/87 WITH THE RESIDENT.  
+  
+                         THE RESIDENT'S NOTES WERE REVIEWED AND THE 
+  
+                            PATIENT INTERVIEWED WAS EXAMINED BY ME.  THE 
+  
+                         PATIENT'S COMPLETE HISTORY IS LIMITED BY CHANGE 
+                                   IN MENTAL STATUS AND MULTIPLE SCLEROSIS.  THE 
+                             PATEINT WAS TRANSFERRED FROM AN ELLIJAY HOME. PRESENTING 
+                                   COMPLAINT: NUSEA AND VOMITTING. HISTORY OF PRESENTING 
+                                   COMPLAINT: THE PATIENT IS A 49 YEAR OLD WITH NUSEA 
+                                   AND VOMITTING FOR THE PAST 24 HOURS, RIGID ABDOMEN AND 
+                                   NO BOWEL SOUNDS. HE HAS HAD SOME FECULENT 
+                                   EMESIS OVER THE LAST DAY. REVIEW OF SYSTEM: NO FEVERS 
+                                   OR CHILLS, NO BRIGHT RED BLOOD PER 
+                                   RECTUM OR MELENA BUT DID HAVE LIQUID 
+                                   STOOL EARLIER TODAY. PASSENG MEDICAL 
+                                   HISTORY: HYPERTENSION, MULTIPLE SCLEROSIS AND ANANEMIA. 
+                                   PHYSICAL EXAMINATION: GENERAL: THE PATIENT 
+                                   IS AWAKIE. LUNGS: SCATTERED 
+                                   RHONCHI, OTHERWISE CLEAR. HEART: REGULAR 
+                                   RATE AND RHYTM. ABDOMEN: DISTED WITH 
+                                   ABSENT BOWEL SOUNDS, NONTENDER. NEURALGICAL: 
+                                   NONFULFOCAL. LABORATORY EVALUATION: 
+                                   REMARKABLE FOR A GLUCOSE OF 100, BUN 
+                                  13, CREATININE 0.6, SODIUM 141, POTASSIUM 
+                                  3.9, CHLORIDE 108, BICARB 25, 
+                                   LIPASE 144, CALCIUM 9.4. WHITE COUNT 10.4, 
+                                   HEMATOCRIT 41, PLATELET COUNT 250.  KUB 
+                                   REVIEWED BY ME SHOWS DISTENDED 
+                                   SMALL BOWEL AND LARGE BOWEL 
+                                   CONSISTENT WITH A LARGE BOWEL 
+                                   OBSTRUCION VS. AN ILEUS. THERAPY 
+                                   RENDERED/COURSE IN  ED: A NASOGASTERIC 
+                                   TUBE WAS PLACED. CONSULTATIONS: 
+                                   SURGERY. FINAL DIAGNOSIS: LARGE BOWEL OBSTRUCION. 
+                                   DISPOSITION (INCLUDING 
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          
+
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                 
+
+                          
+                          
+
+\begin
+
+                                          
+
+                           
+                    andersonate
+                 
+                          
+
+
+
+
+                          
+ 
+                          
+names
+
+                          
+\name and
+________________
+\
+
+                
+
+                or
+
+
+
+           
+                 
+indications
+                 names
+
+________________ lines
+            name
+\
+
+name of the names:
+
+
+
+
+
+          
+
+\begin
+
+
+
+
+\
+
+
+
+
+
+19,
+
+
+names of
+
+
+and
+
+names of names.
+
+1
+
+name, 
+
+
+names the doctor
+or
+
+
+
+
+1, and the patient name of patient of
+121 or
+
+and name of the date and date
+name of patient names
+letters of names. 
+(1.
+
+Name: name patient
+
+
+
+The patient 2:
+the patient, and identify patient names, and identify
+
+name:
+or
+name and identify, name of 10, names, and 
+
+[name, name and name, date... (name and 
+(or, identify, or (
+
+(or and or a patient, the patient, 
+
+1.
+The 11.
+
+name names.
+patients names, or name below, and any, as well and identify patient data names and names, the names. you (patient:
+1:1, a:
+1 and a...: 4...the (
+[...
+... of “1: are or [the, and [(... are are the names are: the (noting, or, the “... and 10 and the and (0.
+1.
+the, or are the: 
+make or the...and or the (11 and (are, the [1 are the (are and are and...
+and-the and, and... 1, and, as, 0, and, a and, and the and, but, 2 or and [and, (1...and, 5, and, and the, 2, a, the 1 are and of (1, and and, and, 2- and are 1, and and, and, the of the, the,
+1, a, a [1 and: (1 with the with the (an with: 1-patient and "pat 2,
+[11 1 (name-1-are, are and of the-
+1-an, or [an (1, any 1 [1 (an and and, 2, of the and of the. of (, and, 1 or, and, an and an (an-an 1-an are or, the- or, an by and, the and the 2, "an (pat an (and, 1, an. and 1 and (and 1 of a  an, or, and or "an and (and, 2 of a, 4 of and, an an and in a- an, an, and, 2 "an,  and, an of (A, and a:, Anici, An, and, 1-the-1: an of 1 (and- - and: and::: an1-1- 1 "00-2, " ( " 1-:- [:: and-1-0-1- an and in: an with an-  and: ( " ( ( and-an and ( are [ are ( ( an an-in, an, of the of. of (...,,, and in the-  and [ and [ by, by and and- [ and- [[ and or and an- or and- or-an-0 ( or are and are,,  ( - - and and and  an and  - by, -2 an are or of,  of an ( of the of " [ ( and, an, an and-  and,  an  of a of  - of - and of  and an are [- and, or ",, an an in-   in  an in  or or  or an for,  or an [ an [ ( [ - an of  of, of an and of  of  in  and and by - [ and  and-  and or- [ or and of an and or,- or for, and ( an for and (- and and- and of a and,,  and and of an of the, an and  and ( - - [ and, an  or,,, of, ( of and of or of an an0-,  of 0  an,  and, and-1 - an and of and and of of  of the  of  of the and of the  and  and, and, and and, an and, -1 or [1, an   and- 0-1- and [-  of   [ or ( and in [ or an [ and,  [  [. and [ and ( " or  or and or (  (  -  and  an  or and  and  an  or [  and  " or ( of [  of  c [ and  by - and and in and, 1 and (-1 and  ( and  and in : ( in  in  and- and-  in or or or: - and of-1 of  and [ ( - and  and of - or and ( and and  of the ( and of of and of and of  and of [ of- "  or  and  and,, and  [ of  and of " of of the- of V of  of  and,  and t, _,,,, and [  or  and and -1 and  and.  [ or- and  and-1  [:  and : and and of  of or and of of  ( w or: (, and and and and ( and and,  of ( of  of  and  or - [[.  and, and  and. or  and- (  ( w and  (  and and ( ( and and and, and, and,, and and, and, and V. and and,,  or and. ( and [,,  and and and  and,, an or and and and, and and and, and, and and and and,, (, and and and,, and and, B, [,,, and,, and (,, and,. and or and, w [, w and, [,, [ and, and of  and of an ( PO., ( ( [, ( [, [ and t, (,, and  and (,,,, and  (,..,, and - M ( t and ( C C and  [ or c m-  c w- C. w n- and and [ C.- and  [ and and c t ( [[. ( ( and  [ [, [ and, and, and [ and [,  ( w ( ( _ and and and [2 [  and ( w (, and, and and and. and, and,  m, ( and or,,, ( (- and ( (- ( and  or. and  ( an and and and [ B an,, _1 t and C- [ and B CO B, [ A. and and and,, [,, [ and, B B.. and and, t- [,,, and, and and,., h ( and. and,, [ (, _2- and, (. and (, (,, _,,, [.,,.

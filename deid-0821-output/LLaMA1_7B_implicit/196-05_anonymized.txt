@@ -1,0 +1,255 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2091-03-13
+
+
+CC: f/up of DM, HTN, and anemia management
+
+
+HPI: 62 yo female who presents back to clinic after recent visit with Dr. Robbie-Reid
+and referred for GI endoscopy for anemia.  3/5 Hct 32.1, Hgb 10.6.  Dry wt reportedly 184-186 lbs. 
+1/11 Echo with no RWMA's, LV nl, EF 60-65%.  Denies any SOB or DOE beyond her baseline.  
+No CP.  Seen by Renal and started on Tekturna (Aliskiren) which she has but has not started.
+Ran out of Cozaar which she has not had approved.  Off Aldomet also.  No headaches.  
+Denies any symptoms of hyperglycemia or hypoglycemia.
+Mood decreased at times given her family problems with her husband.
+
+
+
+Problems
+Menopause at age 52 
+H/O R sided sciatica 
+H/O pneumonia 1/2082 
+S/P vocal cord cyst removal 
+S/P cholecystectomy 
+S/P C section x 2 
+Diabetes mellitus type 2 : onset 2067
+Severe nonproliferative diabetic retinopathy with severe macular edema 
+H/O pyelonephritis 
+1/16/88 cardiac MIBI with summed stress score of 0 but evidence of extensive calcified coronary plaque burden with coronary calcium score of 715 
+Hypertension 
+Depression 
+7/23/88 R shoulder arthroscopy 
+4/20/89 lumbar CT : No stenosis or disc herniation, mild deg changes of the lower lumbar spine as described with a possible tiny lateral disc protrusion on the L at L3-L4.
+
+CAD s/p RCA stent placement 11/2090
+
+
+
+Medications
+Aliskiren 150 MG PO QD
+Amitriptyline HCL 25 MG (25MG TABLET Take 1) PO QHS PRN neuropathic pain , for pain - para el dolor #30 Tablet(s)
+Cozaar (LOSARTAN) 100MG TABLET Take 1 PO QD #30 Tablet(s), ran out
+Darvocet N 100 (PROPOXYPHENE NAP/ACETAMIN... 1 TAB PO BID PRN pain - dolor #60 Tablet(s)
+Ecasa (ASPIRIN ENTERIC COATED) 325 MG (325MG TABLET Take 1) PO QD #30 Tablet(s)
+Ergocalciferol 50000 UNITS (50000 UNIT CAPSULE Take 1) PO QWEEK #1 Month(s) Supply
+Lantus (INSULIN GLARGINE) 88 UNITS SC QAM #1 Month(s) Supply
+Lasix (FUROSEMIDE) 80 MG (40MG TABLET Take 2) PO QD #1 Month(s) Supply
+Lipitor (ATORVASTATIN) 80 MG (80MG TABLET Take 1) PO QD #30 Tablet(s)
+Neurontin (GABAPENTIN) 300 MG (300MG CAPSULE Take 1) PO BID #60 Tablet(s)
+Niaspan (NICOTINIC ACID SUSTAINED RELEASE) 1000 MG (1000MG TABLET SA Take 1) PO QHS #90 Tablet(s)
+Nifedipine (EXTENDED RELEASE) 90 MG (90MG TABLET Take 1) PO QPM x 30 days #30 Tablet(s)
+Paxil (PAROXETINE) 20MG TABLET Take 1 Tablet(s) PO QD #30 Tablet(s)
+Plavix (CLOPIDOGREL) 75 MG (75MG TABLET Take 1) PO QD #30 Tablet(s)
+Prilosec (OMEPRAZOLE) 20 MG (20MG CAPSULE DR Take 1) PO QD , before eating #30 Capsule(s)
+Toprol XL (METOPROLOL SUCCINATE EXTENDED RELEASE) 200 MG (200MG TAB.SR 24H Take 1) PO QD #30 TAB.SR
+
+
+
+
+
+Allergies
+NKA 
+
+
+PEx: Vital Signs: BP 144/61, P 66, Wt 193 lbs
+WDWN older female in NAD.  
+HEENT: anicteric sclerae  
+Neck: supple, no JVD.  
+Lungs: CTA.  
+CV: RRR, s1s2, nl, II/VI SEM at LSB
+Abd: soft, NT  
+Ext: no c/c/bil 1+ edema.  
+
+
+A/P:
+1. HTN/CHF.  BP elevated in setting of not having started her new medication Aliskiren, 
+ongoing f/up as scheduled.  Ongoing telemonitoring service.
+Dietary and exercise rec's reviewed.
+
+2. DM, still not controlled but stable, A1C 8.8, Lantus 88 units as directed 
+and dietary rec's reviewed, follow, seen by HDC ophthalomology on 1/19/91.
+
+3. Anemia, scheduled for GI endoscopy, following.
+4. Depression, stable, counseling given.
+
+
+Singh, M.D.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{verbatim}
+\caption{\label{fig:medrecord}Example of a medical record.}
+\end{figure}
+
+\subsection{Data Annotation}
+
+The first and foremost task we performed was annotating the medical record with its constituent elements. For example, an event is denoted by an occurrence of the word ``\textit{hospitalization}'' in the record. We used a combination of manual and semi-automatic techniques to label various aspects of the medical records in the dataset.
+
+The manual techniques involved two levels: the first step involves marking a sentence as containing the medical record elements or not; this involves looking at the syntactic structure of the sentence (e.g. whether it is the subject of the sentence), its location in the document (e.g. whether it is in the first paragraph of the document) and semantic information about the sentence (e.g. whether it is about a patient's condition or not). We performed this task manually by having 100 annotators label each sentence. We then used a set of heuristics to reduce the number of disagreements between the annotators. For example, an event is denoted as being a diagnosis if it is preceded by either the words: `diagnosis' or 'diagnosed with'. The second level of manual labeling involves looking at a sentence that has been marked by one of the above-mentioned criteria and labeling it further according to its sub-structure. For example, a sentence that is a diagnosis will also be a medical event or an observation. This task was again performed by 100 annotators. The final set of labels for each sentence includes a primary label and a set of secondary labels (if any).
+
+We developed semi-automatic techniques for the labeling process. These techniques are based on a machine learning classifier that is trained using manually annotated medical records. We then apply this classifier to the rest of the medical records in the dataset and use the results to label the remaining medical records. This process can be repeated several times, each time using a more complex classifier to label the remaining medical records. In our case, we have applied this technique to label the remaining medical records three times. Table \ref{tab:annotation} shows the final result of the manual and semi-automatic methods for labeling the medical records. Note that the manual and semi-automatic methods are complementary and that both methods have to be used for a thorough annotation of medical records.
+
+\begin{table}
+\begin{tabular}{|c|c|c|c|}\hline Labels & Manual Labels & Semi Automatic Labels & Final Labels \\\hline\hline hospitalization, hospitalization & 1717 & 1721 & 1717, 1725\\
+hospitalization, hospitalization & 1733 & 1733 & 1733, 1735\\
+hospitalization, hospitalization & 1737 & 1737 & 1739 \\
+observation & 1741 & 1741 & 1741 \\
+observation, & 1741 & 1743. 1743 & 1743 \\
+observations 1747 & 1747 1754
+hospitalized 175
+\n. 177 1754
+\ 
+observations. & 178. 174
+174 17
+1754
+\treat1174
+173, 2
+8
+17. 4550
+54
+
+7.
+150
+16
+1254
+100, 173. 17, 1. 13
+114
+
+1
+12,14
+130.17. 104 0 2 1
+65 13 1. 1505 16 18, a.
+April
+
+19105
+10 5.
+20-10112 and 14
+17
+20
+1. 1.
+
+0
+
+100.
+1
+
+
+Feb and 201
+year 9
+2 10.
+1
+13
+1
+1.1
+
+3
+1.2
+.
+
+M:
+with
+ 1.
+
+
+
+120
+20 11.
+and 4. The
+
+0. 0
+
+ 35. 8.
+F. 3
+ 6.
+10. and the. The and a few.
+ 11. 2 and the 2, the 10. 
+[4: 25.A 52098. This  A
+. 
+ 7 02: 0. The 1 (0A1 (1, F with Your and y a for :  and  with the and last to 2 (4,.
+.  2: 4.  and a 12 (4 and 4.0 and 2,2: , the 21.2: and:10 and  and a with, the for the 2 and a
+. (A and a.  year. year.1 for anification.1, andness.  (c. with a and (M forment with  for a.   a for. Animation for. An and. (M....1 0 and the,. and a. (1, and, , the s, a and  and 1, 0/19/299 An and 1 in the a butage. Anific Anified. a, 20 0 a 0 (1  cour for the-years with  for [1 for the for the forger for "  in the to the,  Ancent by her from the in the, and a..  and a. 1 and  (1-an 00-10 (0. (3 and, 8,2 (8 8,799,.89-c in ( and. An., a. and and, but and, An..... An, a,, cness at.  ( and.1 for,19.  with An and,. Anni  and. Ancio at 0. An Anical and.5 Anics and,9, Anist  and and an and  m (,  [ ( and: and: and (8 and a [ C, An. An An.  or a. and at. (. An An An. an a a- a-an an, anness and. a  a c [ An ( [ a. : and [ for with, for a for, an [ al and al [ for for a and  and- for a [ to [ for. for and [ for  a  and a for and c m c for al [ [ [:  [ b and [1 [. c c. al and cm and cm but an [- an c. al line to. and a and c but c- and in ( al. and al c. (. and and  cm.  [ al. C and.  ( al.- H9 al  H0 (, and- ( and  (, - H and and and.- and, and- and and with,.. and,, H and and m and  H R-.. -. - al. and c, and,,.  and,, and -.- and and.  or and, and -. ( and or  and, al m.  and., H C C ( with H c,. and k ( and with and cm cm ( C H and and and clin - ( H- and and with.- H I L  I and ( ( H ( al, H,.. C in al, H and., alistic al (- I al, ( al c. H al (. L al, Al H. and C in C1 H R and. H and H. H ( ( S, S H and, and H I, I H and  or H I  H. R, M R  and. C al I al line,.. H- I. ( C I. and and. and R and and and  H C-   S  I C - C and  I- R and R  2 C H C R H  R S I and  and S ( S C:: C H or --  S: and R- I  R R H:  H and I: H: S C: H H Rad C I-1. R I C H I C H H H- C I I C - H- C H  I and- R  C H H- R I M H M S C for and H H C and L- [ I H H R I H I I and H C H and I and S0 H1  H1. I1 H H2 C I H and H M C A and M C I A H (  M I   I C and CH I M (  and (. (. C M [ and [ and. [ I, H. I H H and H H2 and I H1  H I and and S... and H R I H C C and. M H MC and M MA M  M ( M M M S  H and and and I M H and H and H and I for H H M2 and H H M M H0  C C C T H C and C. T and H C P H2 and 2 and C  H T and  H P and C and S ( and. I H C H P P. and H P H H H ( H H C C and C S H and I S and H C T C P H C H A. S H H  H. P. C H S Cl C H H and C H H and and and H H H H S [ H C C C H A C C and C C  C I H I C H and H H S and H I and H and S  C I, T. C C M. ( and H C  S and  M I and. A a. T C T. I C ( S. C C S C T C H1 C a  C CA C  C of I  C C of of C C I and  and A T C C C H C  A Cl C MC C M Cl C C C and C of of C of C M S C M C M C C C M M M M C H C C M C M C M T M ( C and C C M M C C C C C T C. H H. M C C C T S ( C T H T B M H H S C C C- CA C C C CA  T C T C ( H T C T C and M ( H and ( C and C C C T C H A C and C H C H H T C ( and ( C C C S C

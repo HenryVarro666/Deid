@@ -1,0 +1,352 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2136-09-09
+
+
+	CARDIOLOGY
+	
+
+	PERDUE MEDICAL CENTER
+	
+
+
+	Reason for visit:
+   Cardiology Admit Note
+
+
+	Interval History:
+   Primary cardiologist: Jan Ivory (Kevin Mcdaniel)
+
+61 y/o M with h/o CAD admitted for CP.
+
+Cardiovascular history notable for:
+- Nov 34 - acute IMI; cath (11/08/34) LM, LAD and large Ramus with minimal disease, LCx with tandem 70% and 50% stenosis in non-dominant vessel, distal RCA with 90% stenosis and mid and distal PLV with tandem 80% lesions; Rx: Vision 2.5 x 15 to distal RCA, Minivision x 2 (2.5 x 15 each) to mid and distal PLV
+- echo (11/08/34) EF 54%, overall unremarkable
+- last ETT-MIBI (2/23/35) 7:10, 9 METs, 80% mphr, pkdp 19k, developed chest pain (different from presenting) at 7 mins, ECG negative to HR attained, images without ischemia or infarction, EF 68%
+
+He has done quite well from a cardiac perspective since the MI.  He has occasional fleeting chest pain but never sustained and nothing in the past 1-2 months.
+
+He awoke this AM with dull left chest pain which has persisted throughout the day.  Pain was 6/10 at worst, unchanged with exertion and similar in quality (albeit less intense) to pain during STEMI.  No associated SOB, nausea, diaphoresis or radiation.  Given the CP persistance, he presented to the ER.  Initial ECGs showed sinus brady with a relatively normal tracing; no acute ischemic changes and no significant change from prior.  After a combination of 4 SL nitro, IV nitro, IV heparin and morphine (2mg IV x 2), the CP eventually subsided.  
+
+Currently, he is CP free and resting comfortably.  At baseline, he doesn't exercise formally but he has 3 flights of stairs at home and he's able to climb them without exertional symptoms.  Also, he was previously on therapy for GERD but stopped taking prilosec several months ago.    
+
+
+	Past medical history:
+   - CAD - as above
+- HTN
+- hyperlipidemia
+- DM2 - no known microvascular disease; last A1c 7.3 (June 36)
+- Ankylosing spondylitis
+- h/o thrombophlebitis (vs DVT) of left leg
+- hemorrhoids s/p banding
+
+Home meds: ASA 81, lipitor 20, metformin 500, zestril 10, toprol 25
+
+	
+
+	Changes to Allergies
+	
+NKA: No Known Allergies - reaction: [reviewed]
+
+
+	Social history:
+   Lives with wife in Avra Valley, KS.  Retired social policy program officer
+Tob - former 1ppd, quit at time of STEMI in 2134
+EtOH - rare
+Drugs - none
+
+
+	Review of systems:
+   otherwise negative in detail
+
+Physical examination:
+	
+-Pulse: 50s  regular
+-General:   NAD
+-Neck:   JVP&lt;6cm, carotids 2+, no bruits
+-Chest:   CTA B
+-Cardiac:   distant, RRR, no M/R/G
+-Abdomen:   soft, NT, pos BS
+-Extremities:   femorals 1+, no bruits; LLE with 2+ edema and chronic stasis changes; DPs/PTs 2+ bilaterally
+-BP: 125/70  right arm
+
+
+	EKG:
+   sinus brady (51), minor NSSTTWA, no significant change from 4/05/36
+
+Selected recent labs:
+
+	 Date     NA       K        CL       CO2      BUN      CRE      GLU      CA       PHOS     MG       
+09/09/36 138      3.9      103      25.1     15       1.04     112      9.7      3.4      2.0      
+
+Date     CK-MB    TROP-I   
+09/09/36 NEGATIVE NEGATIVE 
+
+Date     ALB      TP       ALKP     DBILI    TBILI    ALT/SGPT AST/SGOT AMY      LIPS     
+09/09/36 4.2      8.1      84       0.1      0.5      27       25       85       42       
+
+Date     HCT      WBC      PLT      
+09/09/36 45.4     14.2     395      
+
+Date     PT       PT-INR   PTT      
+09/09/36 12.0     1.0      29.2     
+
+Date     MCV      %LYMPH   %NEUT    
+09/09/36 87       31       57       
+	
+
+
+	Other Data:
+   PA/lat CXR - LLL opacity 
+
+
+	Assessment and plan:
+   61 y/o M with h/o CAD p/w CP.  Some features are concerning for angina (similar to prior symptoms, some improvement with nitro...), whereas other aspects are less concerning (prolonged CP without ECG changes or biomarker leak).  Overall, doubt ACS.
+
+In terms of subtle LLL opacity on CXR, doubt PNA given lack of cough, sputum or  fever...He has mild leukocytosis (normal differential) of unclear etiology.
+
+Plan:
+- cycle troponins
+- continue IV heparin overnight
+- if biomarkers negative and no recurrent CP, would favor ETT-MIBI in AM for further risk stratification
+- continue home meds
+- hold metformin, in case cath required
+- repeat CBC with diff in AM, check U/A
+
+FULL CODE      
+
+	
+Brennen May, MD
+
+	
+Signed electronically by  Brennen May, MD
+Document Status: Final
+
+
+
+*/
+
+import java.time.*;
+import java.time.format.DateTimeFormatter;
+import java.time.ZoneId;
+import java.time.ZoneOffset;
+import java.util.Date;
+import java.util.Locale;
+import java.util.Scanner;
+
+//import static java.lang.Math.abs;
+
+class DateUtils {
+  static final DateTimeFormatter MISSISSIPPI_DATE_TIME_PATTERN =
+    DateTimeFormatter.ofPattern("d/MMM/y", new Locale("en", "US", ZoneOffset.from("America/Montreal"));
+
+  public DateUtils() {
+    // default constructor
+  }
+
+  public static Date convertToDateTime(String datetimeString) {
+    return MISSISSIPPI_DATE_TIME_PATTERN.parse(datetimeString, null);
+  }
+}
+
+public class CardiologyAdmitNote {
+
+  public static void main(String[] args) {
+    System.out.println("Cardiology Admit Note - Date: " + DateTimeUtils.nowLocalTime(ZoneOffset.systemDefault()).format(DateTimeFormatter.ofPattern("MM/dd/dd"))
+                        + "\nPatient: " + patientName());
+    System.out.println("\n\n========================================");
+
+    // System.out.println("Patient Name: " + patientName());
+    // System.out.println("Patient DOB/DOD: " + patientDOB() + "\n" +
+    //                                      patientDOD() + "\n" + patientBirthDate());
+    // System.out.println("Patient Address: " + patientAddress());
+    // System.out.println("Patient Phone: " + patientPhone("cell"));
+    // System.out.println("Patient Email: " + patientEmail());
+    // System.out.println("Patient Fax: " + patientFax());
+    // // System.out.println("Patient Name: " + patientName());
+    // System.out.println("Patient DOB/DOD: " + patientDOD());
+    // System.out.println("Patient Address: " + patientAddress() + "\n" +
+    //                                      patientPhone(phoneNumber) + "\n" +
+    //                                    patientFax());
+
+    Scanner in = new Scanner (System.in);
+
+    int age = in.nextInt();
+    int sex = in.nextInt();
+    int weight = in.nextDouble();
+    float height = in.nextDouble();
+    
+    String patientName() {
+      return "Patient Name: " +
+               + age + "\n" +
+                + weight + "\n" +
+              + "Patient Name: " + patientName());
+                age.
+                  + weight +
+                  +
+                + weight +
+                                
+              +
+                +
+                 
+    Patient Name: 
+                  +
+                                
+                  +
+                            -
+
+                  - weight:  +
+
+   
+                                
+                           
+
+                            +
+                
+                
+
+
+                
+
+                
+
+                 
+                
+
+                  
+
+               
+                 	
+	
+
+ 
+	                
+
+                 
+
+
+
+
+
+
+
+    (104
+
+                
+
+                
+                
+
+
+
+
+
+
+
+
+
+
+15
+1
+-
+
+
+
+
+
+
+1
+
+2234 
+2
+	11
+	4
+   
+
+1
+2
+201
+
+0
+3
+
+
+	20
+ 0
+
+10	2
+
+	
+
+
+1
+
+
+
+	
+
+
+30
+
+	 for 
+
+	 101
+	12.  20
+ 
+
+
+
+
+0
+
+
+
+
+
+   
+10
+   (17 5
+
+
+
+	
+11
+. 10
+
+
+
+Date (1
+Date 201
+
+  
+1
+
+    
+C	
+
+
+12.
+,
+.
+C.
+
+C.
+A.
+.
+	.
+ 01.
+
+ 12
+2, 3
+date, January and 1 (2 ( 2: date:  : 4,2. 	
+
+	1 	Oct	 
+	 and	A, 	: 2:	
+	 (2 
+	
+	 AVER CURE. 	: :	: 	 (D: A, and the: 1
+		A
+.
+	 	 	. 2. 1 An. 8. C,11 12, 102, 1 and the 10 a (C	: 1022 (C - : An. An. An - a and the: (1 An  (	,1 An, C (2 An (A [1 -1 An.1:	 -  (cinal:	1   (1 An C A1 2 An -2, 2, A Cine. 1  A. Sight.	: 2 with, 0:2 (2 0. 5. A. 511 An Anine C0, Anine.  and 0 a a and A a, 1 and a card. Anvert An (1 A An. An -1. a a a, an a. a and. An  A. Ancer 4 A. 0, 1 Ancer, and, 0, and, 1 An M A -  (20 An and. An, 1. 2 in 1.  a a (0 a a a, and. An I An An (1. Anile.2 a 1-1 and and and 0. 5 and a 2 (8 A and 0 and A 9 1.1-tre [tre, (2  and a, 0-3 (0 0.  (1 (2. and c, c in. 0 and,1, and [. [3, and and in and:  and  and and a and: c.  and,  [. An An C C An.  [: A,  and- and. F. and: a: an, an a a a, a. An An An Anine,. An in :  and [c. An in  ( An [ An:1 (2 I a: I in a: ( Cine [. :  ( [ C C ( 1 and [0, [ ( and [ and, and: [. and (: a and, [-c-1.  and- I a [  - and  a in-2 a,  and  ( I ( and and, - I, A. in-c ( and (1 in to to [1-1-0 2 and [0, and and-1, I ( [0 and a [c-1 [ [, and in-g- L C C S - and-  and and ( and and and- and and- and [ with and and and - [, ( C. with- R with, - and (-1 (. - and in,- Pine with c P c-  C and C C, a, a, and with and..-  and,., [ and, and, C, P C P-0-1 P and. P. - and and, C C C- and,, in, c and. with and and with. R -. and and, and and - and and. and-., cm with with with ( with,,  C with,  a-al,, and and in, in in and a - with and ( in, and and in, ( and, cm and and in and,. and,, a, ( with,  with, and with ( in C.  in in C C, and. C- R to, al in with and in.. and with and in and with in with. in - and in with with. and in in and,, and, (, and with, in- and with [.  and --1 C to:  C in P in in in in C  to: L. to in- in in- in in - in,: L to in - to C- to a, to to  - and-1 I-1 - -1- A.- I C and R with  R A  -  - with, R in - C- R - - [ C a I- a in a-  [  - and in  in c and C-  and  -  a in and a ( a to a - C with and,  and, and and, to -, and. - ad in - and:-0 in.: -,.- and with- [ C I.-2- a a- C-0, C; and a, (- to- a- a and -- and.,, a ( -, with--,. (,, with - with,  [ a -,, - - with. - [ and and-../ [- [/- -  a, --/ and and, and and ( [, and and- - and [ and and and [- a, and, [ (  [ and and and - a, - C, ( - - C,, and - and C, P- C -,- and- [, (,.- C, and C - and - and, and, and with,, (-,, and, [,, (,, - [, [- a,, ( [, a, PA, [ C, ( - and/ [ and, and,.- and,- and [ (. [/ A - (- - a and, and E E [ and a, and (/ [ a,  or [- ( per and -,-,/// E/ - - with from,,, and and, and and,  -/ &- E & - ( and  and, and - E- E -  and (  and/- C [ C- E [, C.  [/ -,1,.- : per,, and - -  -/ and-	 -  & and per  and,, ~- -  - -,  - I - -   -  or,,  or - [-  [ per [  [1 - [ [  and, [/ ~ [-- - (- [,, ( (-, and per,, and /, and-

@@ -1,0 +1,255 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2129-05-10
+
+Booked for CPE, but current symptoms took precedence.  
+
+
+
+Pt presents very discouraged over escalating Lasix doses and persistant problems with reccurent edema and cough, each time relieved by increasing diuretics, so ACEI cough seems unlikely.  Avoiding all salt in diet with good compliance.  Did see sleep lab tech, tried new settings and mask on new machine, but still tolerates poorly.  When discussed in some detail, notes feelings of suffocation with wearing mask for any period of time.  Also notes sense of being tied down frrom mask very difficult to tolerate.  Without exploring details greatly, we discussed potential role of PTSD in precipitating symptoms related to mask use, and potentially  the effect of nocturnal hypoxia and RV strain on accumulation of fluid.  Improving tolerance of CPAP seems very key.  Pt has started atkins dt with good success (6# in first week), and improving BGs are requiring reduction in insulin, which is great.  so it seems that addressing OSA is the key to improving overall status now.  We discussed some options...Including potential for tracheostomy to fix this without having to address mask, but agreed to try to initiate trial of CBT to see if we can improve mask talerance with symptom reduction.  He remains quite clear that he has no interest in furhter "exploring" the PTSD history, and I reassured him that CBT does not require doing this.  
+
+
+
+OSA:  Likely has near optimal mask set up now...We'll explore potential for CBT with sleep center or perhaps cardiac rehab source.  Hopefully this would address fluid imbalance to a greater extent as well.  
+
+
+
+DM:  improving with wt loss and diet.  Agree with insulin taper as sugars drop.  UAMLB high but < 1 year ago, recheck in future.  Creatinine stable 2 months ago, recheck renal panel with labs.  Optho and podiatry current.  
+
+
+
+Lipids: last LDL was an outlier..Has slip fro repeat FLP.  
+
+
+
+Coronary artery disease : s/p CABG 5/25, satable on ASA/Statin/ACEI/BB
+
+
+
+Hypertension 
+
+Vital Signs
+
+BP 118/70, Wt 235 lb
+
+well controlled.  
+
+
+
+Peripheral vascular disease : claudication limited Sx with limited exercise tolerance.  
+
+
+
+Obesity :  adtkins dt as above.  
+
+
+
+Glaucoma : Dr. Russo, HWS, gets regular f/u.  
+
+
+
+Insomnia : since service. NTI helped a little in past, not after a while. CBT might help if successful.  
+
+
+
+Reviewed HM, mostly up to date, should get Td update at some point or if wound, counseled.  
+
+
+
+Most of 40 minute visit counseling on CBT, PTSD, sleep apnea, and concern about failing regimen.  
+
+Emailed Barbara Fierro, Sleep center, Dr. Yeargin, and Dr. Ingham of Rehab to help identify best CBT practitioner for this.  
+
+_____________________________________________
+
+Leon Virgil Fontenot, M.D.
+
+
+
+
+
+Record date: 2020-11-03
+
+
+
+Patient seen: 2020-11-03, 16:05:31.514
+
+Patient name: [redacted]
+
+
+
+Patient age: 30
+
+
+
+Patient gender: M
+
+
+
+Recorded on a Samsung Galaxy Note 9 running the Samsung Health application.
+
+
+
+Record date: 2020-11-03
+
+
+
+Visit notes:  Patient continues to be very concerned about his inability to use CPAP mask without feeling suffocated, despite having improved BP, weight loss and blood sugars with diet and insulin.  
+
+Patient continues to have difficulty with the mask.  
+
+
+
+We had some difficulty scheduling sleep study in a timely manner, but he finally got in for an appointment at [redacted] on 2020-11-06.  I also had him see our new sleep tech, who has some experience with CPAP and sleep apnea.  She suggested a few possible mask sizes.  She is not a CBT specialist, but is aware of the role of this in OSA, and she agreed with the approach we had discussed to try to improve tolerance.  We discussed the importance of getting this mask right to maximize efficacy, and agreed that if we could improve his ability to use the mask, and thereby improve tolerance, that we might be able to get him to tolerate the mask and thus improve overall outlook.  He agreed that he was willing to try this approach, and to do so I had him see Barbara Fierro at [redacted] on 9/29 to get the process started.  I also asked him for any further details he could provide on how he was feeling when using the mask that might help us address this.  I suggested he write down any details, and bring it next time.  She will be working with him next time on mask selection and trying to identify what is the best fit.  
+
+
+
+We will also see her to help him with CBT. She is aware of the potential role of PTSD in this, and will help him with this as well.  
+
+
+
+He had a follow up appointment with Dr. Yeargin and Dr. Ingham at Rehab, and he is continuing to make some progress.  He has had some improvement in tolerating the mask, and I am going to work with Barbara to get him on a schedule to get back to Rehab.  This will also help him with the CBT, which will likely be helpful in addressing the OSA.  
+
+
+
+Had him return to [redacted] on 2020-11-06 for a follow up sleep study, to see what size mask might work well for him.  He did have some trouble with the mask at home, but we agreed that it was likely due to a bad fit and that it would be best to try a few different sizes and get it working properly before we try CBT.  We agreed that if he improved with this, that he could be referred to our Sleep Center for further evaluation.  We're likely to try another size of mask, and he may need to try a different mask altogether.  He also said that he would like to try CPAP as well, so I'll discuss with Barbara what would be the most appropriate approach to this.  
+
+
+
+Had him return to [redacted] Rehab for follow up on 2020-11-10 to continue with CBT and to discuss the sleep study.  He reported that he was continuing to struggle with mask tolerance, but felt he had made a little progress and that his sleep study showed that his use of the mask was actually better than he had felt, and it seemed to be working well. He was also making some good progress with the CBT and he had made it a priority to follow the recommended lifestyle changes.  We discussed the importance of making the mask work so that we could then start to improve the sleep disordered breathing.  I agreed that I would work with Barbara on the mask issue to get it working better, and that this should improve his ability to use the mask and hopefully improve tolerance.  
+
+
+
+We discussed a few options, as the mask might not be the best choice. We discussed the possibility of trach, though he did not like this idea.  I suggested that we consider the option of a BiPAP with a mask, but he felt that the mask was likely not the right choice, as it would likely not work well.  He was interested in getting back to CPAP, but he is also interested in seeing if he can tolerate a BiPAP.  I agreed that it seemed likely that a BiPAP might be a better choice than the mask, and I would get a quote on this.  
+
+
+
+We also agreed that we needed to make a plan to get him back to the sleep center, and I suggested a return in a month or two so that he could return if he needed to.  She also agreed that she would like him back to see Barbara for CBT if needed, or for follow up.  
+
+
+
+
+We agreed that we should schedule him back with Dr. Ingham at [redacted] for follow up, and I agreed to do so.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Leon Virgil Fontenot, MD 
+
+
+
+Dr. Leon Virgil Fontenot, MD
+
+
+
+Dr. Leon Virgil Fontenot, MD
+
+Dr. Leon Virgil Fontenot, MD
+
+
+Dr. Leon Virgil Fontenot, MD
+
+
+Dr. Leon Virgil Virgil Fontenot, MD
+
+\end of the line, and
+\end of the line,
+of line, line, and the line,  the line,  the line and line line the line the line, of the line, 33 lines, line, and line 3 lines 3 lines, the line 3 line line and, line,
+
+\n line of line, line, line, line  and, and the line 4 lines, 
+
+
+
+line or
+or 
+[s, line and, and line of, and line 3 lines, the line. 
+\n, line, line, 1, 120 and line, 1 and the line.  1 line
+The 2013 line line,
+
+
+and
+The line
+
+line 12,2 line, 21, 2, 2 or 61, 1 line, line, 1, 1.
+The date
+The line or  line, line, 10 line. 1 line line 1, line of 0 line with and the line line the 1 line the line line line and line line 
+1.
+1, line... line
+line, line and line, or, the... or 15.
+(d line and,  or and line, but, line or names.
+and, and line and
+or
+, 3...
+or, line 3, or the line... [the line 2 lines.
+...
+
+
+(pat...
+1.
+names, 
+and... and name or and patient names.
+(1... 11...name:
+1.
+1 and: 10 (“[: the 1:
+(…
+...
+12 or...
+name:
+are 11 and are the 1, but are are the [the or are 1: and 1, or, the following 1, 
+The, and, and [... (d.
+
+...1,
+...the or,
+1, and "1 and: and the  are:
+
+…11... of... and, 1 (..., [
+
+…, or, and and [
+and (…,
+, or,  and, including, 
+[0 or, the or or and (make, [0 (1 and, 1, [1, etcine and, 1, [, and or [and, 1 are 3 in the, 10, the and, 2 and "1, the… 3,... (f and: 1 1 with 1. 1 (...and...: " and……1 [[2 [are  are are or... 3 in the,... and the or or and-by 3 or a, and...and, (patine, or,
+. of the, the. 1,  and and, and, 1, are, 1 or are in 1 might (make will, and (and, by the, 1 (2, and, 5,
+. 2, (.,, the, the and, and 2, a, the, 5 or or, [and, or, an,,, 3 of 2 and,, an "P (le, 5 and, and,,, the and, and, (, and and and 1, 1 in the: an, and 1: 1-1- 1-an " of a and,: and in [1-1-1 [: 2-d and... and: (: 1:  or [ (C or:  an ( an an: an: " an: or with and:  an- or an an " and-and- are in are [ ( ( and are-pat are. or of " of [. in and, and,... and in, and and [ ( or and,, ( [,, and, or in [ ( and [ or of the ( or... an or an [ and or- an [ ( an and and  are, an- and  ( - and, or-  ( [-  or ( ( or, or of the  -  of an of  and an- or " or or, and  and or and and and in, of and of and or of " of and of a and [., and, in an or,, in or of  of, or and in or  or, or in and - in and,,,,, [ an, of  of the in of the of the  and, and - and  (  ( and by and ( or and in [ or in or and  "  " in ( or, -m- [ and in or or of  and ( ( or or in or,, [ or or and,, or,  in but [ [ and, and and but ( or and,, of an or of a of, of or or or ( and and ( (,  and or,  " (, in, in of  of a of the of of the, of a of, of, in in [ and and or, and ( and,, and,, and ( and  in and, and, C  in or - ( or C in [ and of  in C in [ in in  to in  ( C and [ ( or in (, (, or  in [ [, or in, C in  C- C C, and, C or in C C C for and C, and and of or of,, ( or ( " c in C C, ( and, in and, and c and, C: C: C ": if if in if C if and or if c-C C or C C C An c- C and " " of or- if if c c if or " if c-  and  [ C C, and ( of the of of and of of of or and and [ or, and c and [ in C and ( or and and [ C of c of C of of to of of of C of of and C ( or of c and C ( c ( of or c to C, c for and in and in or, c, C and, and c in in ( and c [ C  [ [ - C, - and of [ of and of and  and, and or and and C or [ and to and that, and if of c of or if and if c if C and, in- in and, ( C or [ ( C and [ or w, and, and and ( or C, and [ and and and,, [ and and, c and [, and t and or in if if or if or if ( if or,, if and and, [, if and if in ( and C in ( if, or,, c. and, C, c in and and,,, c,, of and [. (, and, and,. in and. c [ in c and and,.,,, [,,, of, [, ( and of c [. [., and and C and in C C P [. ( of in of of,,,,,, c in or and. c. L- A, or. and, c [.,, and C in [ L ( of L of. and and ( L and and [ and ( and ( (,,, and and ( and [ and C in. and in c, of and or,,, [ of c and, and c, or,, or [ of of. of, and c ( ( ( P and, and, (, and,,,, and and and [, and, ( c of in as in, as and and, and of and and (, [ and and and or, and and,, in of, in in, c, in and.. and, and and of,, of,, in [ and., of and of in of in, and and ( of and, of of and, or in (, and, c, or for, with and and, c and, in [ and and,, and and, [, [,,

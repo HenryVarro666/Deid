@@ -1,0 +1,280 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2066-10-08
+
+                                                       Patient Name: RUTLEDGE,EVA [ MRN: 37947241ZGJ ]
+
+                                                         Date of Visit: 10/08/2066
+
+
+                                      PROMPTCAREIMA Clinic Note
+
+
+
+Mrs. Rutledge is a former patient of Dr. Xia's who comes in today to establish a new PCP and for follow-up of her hypertension, diabetes, chronic renal insufficiency (baseline creatinine 2.2), and GERD.  She is currently on procardia xl, losartan, and atenolol for her hypertension.  She takes a baby aspirin qd for cardiac protection.  Her diabetes is controlled by diet alone, and her GERD by zantac 150 qd or bid prn.  Her last HbA1C was 6.9, with a malb/cr ratio of 222.2 and trace protein on U/A.  She has had a prior cardiac work-up for atypical chest pain with a negative ETT/SPECT in 2062 and a negative ETT in 2064.  An echo in 2062 showed an EF of 65% with no valvular abnormalities.
+
+
+
+She is currently well with no complaints.  She is being followed in opthalmology for possible glaucoma.  She does not check her blood sugars at home, although she has a glucometer.  When asked if her sugars are ever low, she states that she has the same symptoms with hypoglycemia that she does with hyperglycemia: dizziness and hot flashes.  She's not had this recently.  She also does not check her BP at home.  She denies any numbness or tingling in her fingers, or any chest pain.  She did pull a muscle in her shoulder last night and still feels tender in that area.  She follows a diabetic diet (avoids sweets), gets no regular exercise, but works in Electrical and Avionics Mechanics so does have physical activity during the day.
+
+
+
+PSHx: none
+
+PGynHx: G7 P4 SAB1 TAB2, still menstruating q month, no hot flashes, heavy periods but no clots; LMP 10/01/66
+
+Allergies: NKAD
+
+Habits: never smoked, very rare EtOH, no illicit drugs
+
+
+
+Medications:
+
+ASA  81MG PO QD
+
+ATENOLOL  100MG PO QD  (she has run out of this and did not take it today)
+
+PROCARDIA XL  30MG PO QD
+
+RANITIDINE HCL   150MG PO QD
+
+LOSARTAN  50MG PO 2 qd
+
+
+
+Physical Exam	
+
+================ Vital signs ================
+
+ Blood Pressure:  --  136/76
+
+ Pulse:  --  76
+
+Weight:  --  139  [Pounds]
+
+General:  no acute distress
+
+HEENT:   PERLA, anicteric, O/P clear
+
+Neck:      no thyromegaly or LAN; no carotid bruits
+
+Chest:     lungs are clear to auscultation bilaterally with no crackles 
+
+Heart:      regular rate and rhythm, S1 and S2 normal, no m/g/r  
+
+Abd:        soft, NT/ND.  +BS.  No HSM or masses
+
+Pelvic:     Pap done, with normal vaginal mucosa and cervix
+
+Ext:  no edema, peripheral pulses present and feet without lesions.
+
+
+
+Assessment:  51 yo woman with diabetes, hypertension, CRI from hypertension/diabetic nephropathy likely. 
+
+
+
+Current Plan:
+
+1.  Diabetes.  Checking A1C off medication.  Would like to have patient check FS when she's feeling ill or if A1C is elevated.  Will refer to NP for review glucometer use, diabetic diet.  She has been tried on glucotrol XL in the past and was hypoglycemia.  This is also probably not a good choice due to her renal insufficiency.  May try glyburide if A1C elevated.  Being followed by opthalmology with upcoming appt.  Podiatry referral deferred.  Consider repeat referral to nutrition.  Lipids very good (LDL 82) last check off medication.
+
+2.  Hypertension.  BP borderline elevated today, but off atenolol.  HR also up.  Refilled all meds; will ask NP to check her pressure at next visit.  Will continue qd ASA for CAD/stroke prevention.
+
+3.  GERD.  Continue zantac bid as needed.  Also recommended that patient start using Tums for calcium supplementation and relief of intermittent dyspepsia.  She will try this and get back to me about the effect.
+
+4.  Chronic renal insufficiency.  Will get 24-hour urine to assess creatinine clearance and urine protein.  Checking chem 7 today for K and Creatinine.
+
+5.  Health maintenance.  Patient due to dT shot, requested today.  Normal mammogram in 5/66.  Stool guaiac and flex sig can be done at next appt; will follow-up Pap.  
+
+
+______________________________                              
+
+
+
+Xena Danielle Elmore, M.D.
+
+
+
+========================== Preceptor's Note ==========================
+
+
+
+51 yo Puerto Rican woman with dm, htn, cri.  Cre last checked 2.2.  On procadia, losartan, atenolol.  Ran out of atenolol.   Does not check blood sugars.  No neuropathy.  She is active through her job (Electrical and Avionics Mechanics Technician ).  ETT was negative 10/64. 
+
+
+
+136/76 pulse 76
+
+
+
+Plan:  currently, on diet control.  Last A1c 6.9%.
+
+Refilled Meds.
+
+Pap done.  
+
+
+
+______________________________                              
+
+
+
+Xen Chris Emmons, M.D.
+
+
+
+========================== Preceptor's Note ==========================
+
+
+
+51 yr old with CRI, DN, GERD, and hypertension.  Creatinine was 2.2 last checked, and was controlled on losartan.  She was recently switched from a beta blocker to a Calc channel blocker due to the beta blockers causing hypoglycemia.  She was on 81mg aspirin qd, but was running out.  She does not have neuropathy.  She is active, but not exercising.  Her ETT and Echo are clear.  Her BMI is 28.6, which is overweight.
+
+
+
+2.  Hypertension (B/P) 136/76, pulse is 76.
+
+
+
+Plan:  1.	Refill all meds.  2.	Check A1C off med.  3.	Continue ASA for stroke prevention.  4.	Recommend glyburide if A1c is elevated.  5.	Consider NP for diabetic education and diet control and follow up of the glucometer.  
+
+
+______________________________                              
+
+
+
+51 yr old Caucasian female with DN, hypertension, GERD, and CRI.  Creatinine has not been checked in a while (12/15/64) and may be elevated.  She was recently switched from a beta blocker to a Calcium channel blocker due to the beta blockers causing hypoglycemia.  She does not have neuropathy.  She is active, but not exercising.  Her ETT and Echo are clear.  Her BMI is 28.6, which is overweight.
+
+
+
+
+3.  Hypertension (B/P) 136/76, pulse is 76.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Plan: 1.	Refill all meds. 2.	Check A1C off med. 3.	Continue ASA for stroke prevention. 4.	Continue ASA for 5.	Continue ASA for CRI patient's  age, and race and 6. 7. 
+
+\textbfs 8. the following: the following 9. 10. and the following the 11. 1. 1.
+
+
+
+
+
+91234-1.
+. 112.
+. 12.
+\n12.
+
+
+The, 44
+
+1. the 12.
+
+
+12. 95. 
+2.9, 9.
+1.2 
+12. 11.
+3.2. 3. 1.
+0,1.1. 12.
+1. 1.
+1.1. 11. 11.
+names 
+
+information of information.
+1.
+151 and 1.
+.111. 3.
+
+ident1. 12. This.
+1211
+11.
+.
+2.
+names:
+1... names 1.1 patient name (with the following the 1 and 1, 112
+1...
+...
+
+
+1200, and 1.
+101 or 1 or... or 
+... and the name and the name, and date, as...
+The letter, 9, and
+or,
+
+1. The...
+The name (
+and the [name (
+or, or a, 0, [20, 
+
+...
+(... (...
+
+1... and replace the following
+.
+.
+
+(the following:...
+names, you, patientize: the following…
+(name, 17 and 11:
+
+
+...1:
+12:
+...
+1... and…10... or:
+… 5, the: and 1, the...
+(make,...
+and of the "1 or and,
+, the...
+the...1... are [make and 1: 1:10 or and the “
+make or... the..., and would are [1 are, 2 and, 1 1 and, the,
+and, are and... and are and... or the... (1, and (
+and, the, the and,
+,
+and...
+. [...], 2, and the, and the, 1, and, are and are, 1, and, an, and, a, an are the are, the, the, the, and, a “and,...:...: 1: "1 with [
+[11 and 1. an “
+1... (and and-
+1 are...0...are [name, are of a and, orise the... by " [in ( an [the or, and, [and, an and and and. of the of a of the and and (and and the, a, and, the, are, and an, the are an and are, an, an, and, an, 0 [1-an (d ( an, an and the, an, an, (the and an, and, an, an, and [an, and- and and, and, an or, the, an of a an, the an and, the-le, an or, ( [ an, the, a, 1, the (an (and, an,10, an and 1,1-0, an, an for an of: an (0 of: and: an-3-an an: [4-1: " an: an an: an: an and: [:  an and: an- and an [ an: an- an [ [ an and: an " an in or an in " or- an- an or- an an or [ ( [ an [ an an of the of the of the in the. ( ( and, [, an an [ [, and,  an- and, an [and are [ an and [ and " and and and- [ an- an- [ and- ( are, by the " and [0, or - an ( and [, 0- are or, or- are, an, are, of a of a, an of an ( an or, or in, and- and, and or,, and ( of an and of the of the of the, and, an are, are " an or or, or an,, are of, or ( or in or or or or an ( and, an- the, and- and- an and or of and " of the of the, an by, and ( and, [ and, (- or- and and, an, an " and in ( an- or or an of an for, or [2- an-0 or- an and or, and and of or or to or or or in or [, and, [ and, ( and, or by, and or or, or of an or and (- [ or or of,0-02 an- they or, and or- or or and and, and or of the, of of the of the- of, " [ and of an, " " and or, and and, and, and an c-1,-0000 (, and, [ or and " or and and- and, and, [ and or " and-  or an or- [ or or or- and, or ( ( or, [ or or [ or or an- c m- and- or- or-0 and in- " and m and- " and of-2 of c or and and- and and and c c and and m- m of-1- and m or- m (- c for for-0- and m- or " in- or (- " and- c “ m of and of an and " and or or in  and- and and, or c- (1 of and,, and or and of or of and in or,, c- or, and and- and, c or, if ( c of of, or of, of of- and of " ",1- and, ( c and, an c and ( and and or and,0 and ( ( in  in-0 or- C and in,, and ( or and- and " C of, - of and of of - of -0 and or ( or or and (,,, and or,0 (0 of and c ( m, or (, an and and and- and t and and,  or  or c, (, or c t or,, ( and and, (2 and c al (0 and and "1 and a c and and and and,1 or and t and and and c and m-2 or if and, and and and and (0 and (1 (, and,1- and or " and c C and and, and or,, and, c and with of,, (, and, (, cm C, or, C-1 or, and-C and- and, of, and ( and-3 w c and, and,-1- b and ( with (, and and, -,, or or, c [, (, and - and-1 and and [0 in and and-t and and c t a c and c " or or t (1- and1- and- and ( or m and of and C and and, C and,1. or, a1-1 or, and, C in- or-C-m or and " or- c (1 t and, H C m- and or M, and ( and and, m m ( and in ( and a and and and, and ( a-t ( and and, and and and, M M m- C ( and, a-1, c and M, and and m M and ( and and and (1 and M and and or and. H1 and in and and ( and ( and M t and, M and M M and or and P and C or m and  M or and t (200 t and P and P M and, and 0 0, M M and, M

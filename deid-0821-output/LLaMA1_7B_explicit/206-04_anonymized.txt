@@ -1,0 +1,115 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2077-02-09
+
+ 
+BRENNAN CONVALESCENT HOME
+
+Reason For Visit
+Cough.
+
+History Of Present Illness
+68 year-old male presents with complaint of cough productive of white-to-clear sputum for two days.  He feels minimal chest tightness, with no shortness of breath.  No dyspnea on exertion or PND.  He denies wheeze.  He is able to tolerate exercise on treadmill without chest pain.  He denies fever or chills.  Presently, self-treating with Robitussin DM and Halls cough drops.  Has clear rhinorrhea.  No ear pain, no throat pain.  No sinus pain or pressure.
+
+Past Medical History
+CAD, status post stent x2.  
+MI.  
+Hypertension.  
+Hyperlipidemia.  
+CVA.  
+BPH.  
+Elevated PSA.  
+Tobacco use in the past.
+
+Physical Exam
+Temperature: 97.9 degrees
+Pulse: 64
+Blood Pressure: 140/70
+General: Well-developed white male in no acute distress
+HEENT: TMs and oropharynx unremarkable.  Oropharynx is clear without exudate or tonsillar hypertrophy.  No posterior pharynx exudate.  Sinuses are nontender
+Chest: Lungs are clear to auscultation bilaterally
+Cardiac: Regular rate and rhythm.  No murmur, rub, or gallop
+Extremities: No peripheral edema
+
+Assessment And Plan
+1.  Cough, likely viral.  Robitussin DM as directed for daytime use, may use Robitussin A-C at HS PRN,(patient has own).  Reassurance re:  findings on exam.  
+2.  Hypertension.  Blood pressure again today 140/70.  Continue to monitor for indication of increase in Lisinopril per Dr.  Uddin.  The patient has followup with Cardiology on 02/17/2077.
+____________________________________
+Yazmin Doss, NP
+
+
+
+
+
+
+
+Open the'redacted' section with the text editor above. You'll see a bunch of redactions in the text, including some of the strings that you redacted. You can also use the redaction buttons above to see which strings are redacted.
+""")
+    parser.add_option('--redaction-string', dest='redaction_string',
+                      type='string', help='Redacted string that appears at the start of every redacted field. '
+                                             'E.g. [redacted]')
+    parser.add_option('--redaction', dest='redaction', action='store_false',
+                      help='If this option is given, the redaction string will be replaced instead of being appended.')
+    parser.add_option('--redact-strings', dest='redact_strings', dest='redact_stringlist', action='store_true',
+                      help='If this option is given, all strings will be redacted instead of just the ones in the '
+                             '--redact-strings option (e.g. all strings containing "redacted", including "redacted").', default=False)
+    parser.add_option('--redaction-string-format', dest='redaction_string_format', default=REDACTION_STRING_FORMAT,
+                      help='Redaction string format (see REDACTION_STRING_FORMAT above)')
+    parser.set_defaults(redaction_string=REDACTION_STRING,
+                       redaction=True,
+                       redaction_string_format=REDACTION_STRING_FORMAT,
+                       redact_strings=False,
+                       redact_stringlist=False)
+
+    (options, args) = parser.parse_args()
+    
+    options.redaction_string = options.redaction_string_format.format(redaction_string_format=options.redaction_string_format)
+    options.redaction_stringlist = options.redaction_stringlist
+    
+    if len(args)!= 1:
+        print(parser.usage)
+        sys.exit(1)
+    if options.redaction_string!= REDACTION_STRING:
+        redaction_string = os.path.basename(args[0]).replace(options.redaction_string, "")
+    else:
+        redaction_string = options.redaction_string
+    
+    print(redaction_string)
+    
+    # open the file, redaction_string in place of redaction string
+    with open(args[0], encoding=sys.getfilesystemencoding()) as f:
+        text = f.read()
+        text = re.sub(re.escape(redaction_string), re.escape(options.redaction_string), text)
+
+    # if the user wanted to redact the whole file, do so
+    if options.redact_all:
+        text = re.sub(r"(?s)(?<!\S)\b" + redaction_string + r"?", "\\1", text)
+
+        # if the user wanted to do some string replacement in the file, do so
+        if options.redaction_strings:
+            redaction_strings = options.redaction_strings
+            for r in redaction_strings:
+                re.sub("(?s)(?<!\\S)" + r + "(?!\\S)", "\\1", text)
+
+    # if not, write the redacted string to a new file
+    if not options.redact_all and not options.redaction_strings:
+        with open(args[0], "w"):
+            write_redacted_string(text, options.redaction_string, options.redaction)
+    else:
+        with open(args[0] + ".redacted", "w"):
+            write_redacted_string(text, options.redaction_string, options.redaction)
+    sys.exit(0)
+
+def write_redacted_string(text, redaction_string, redacted):
+    """
+    Write the redacted string to a file.
+    """
+    # if there is a redacted string, replace all occurrences of that string with the redacted string
+    if redacted:
+        text = re.sub(r"\b" + redaction_string + "\b", redacted, text)
+
+    # if there aren't any more redacted strings, we can replace it with nothing
+    if not redaction_string in text:
+        text = redacted

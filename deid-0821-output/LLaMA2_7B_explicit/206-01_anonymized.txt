@@ -1,0 +1,289 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2073-05-03
+
+
+
+Reason for Visit
+
+Issues Today:
+
+1) CAD: Doing well, no chest pain or dyspnea with exercise, going to card rehab 2x/wk and County Sports Club other days.  To see Dr. Ishmael in 6/73.  Still on plavix. 
+
+2) BPH: Saw Dr. Maddox w/in last 2 wks, PSA 3.2 (had been >6 in 2064). Flomax was making him sick with dry heaves when took in am, better now he's taking qhs.
+
+3) HTN/past tobacco/elev chol: no changes in meds.
+
+
+
+SHx: he and sisters moved from house of 31 yrs to new apartment complex in Lima with pool; likes it.
+
+
+
+Problems
+
+
+
+      Hyperlipidemia
+
+
+
+      Past smoking    : 1-2 ppd x 40 yrs
+
+
+
+      HTN
+
+
+
+      Elevated cholesterol
+
+
+
+      CAD    : S/P MI,PTCA/Stent RCA, LAD 50%,LCX 50%
+
+
+
+      Elevated PSA    : (-) bx
+
+
+
+      CVA    : (lacunar) -(L) BG 2/73
+
+
+
+      BPH
+
+
+
+
+
+Medications
+
+
+
+      Lipitor (ATORVASTATIN)    10MG,  1 Tablet(s)  PO QD
+
+
+
+      LISINOPRIL   5MG,  1 Tablet(s)  PO QD
+
+
+
+      ATENOLOL   100MG,  1 Tablet(s)  PO QD
+
+
+
+      Ecasa (ASPIRIN Enteric Coated)    325MG,     PO QD
+
+
+
+      Flomax (TAMSULOSIN)    0.4MG,  1 Capsule(s)  PO QHS
+
+
+
+      Plavix (CLOPIDOGREL)    75 MG PO QD
+
+
+
+
+
+Allergies
+
+
+
+      Penicillins    - Unknown
+
+
+
+
+
+Review of Systems
+
++ occasional bruising on plavix and aspirin.
+
++ nocturia x1, stable.
+
+Denies fever, chills, night sweats, or weight loss.
+
+No nausea, vomiting, active heartburn, or dysphagia. 
+
+No diarrhea, constipation, blood per rectum or melena.
+
+No urinary frequency or dysuria.
+
+No joint or muscle pains or swelling.
+
+No visual or hearing loss.
+
+
+
+Physical Exam
+
+General: well appearing male, no distress.
+
+HEENT: pupils equal, reative to light, occular movements full. oropharynx clear without erythema. no sinus tenderness. tympanic membranes obsured by cerumen, L>R. Neck: supple without lymphadenopathy or thyromegaly.  No bruits heard.  
+
+CV: regular rate and rhythm, normal heart sounds, no murmurs or rubs heard.  jugular venous pressure normal.
+
+Pulm: clear to auscultation posteriorly, without wheezes, ronchi, or rales.
+
+Abd: soft and non-tender without distension or rebound. normoactive bowel sounds, no organomegaly.
+
+Back: without spinal or costovertebral angle tenderness.
+
+Extremities: warm and well perfused with 2/2 DP pulses. no edema. + clubbing (chronic) of fingers.
+
+Skin: without suspicious moles. 
+
+Prostate: deferred as done by urologist 2 wks ago.
+
+
+
+
+
+Laboratory Data
+
+2/15/73: chol 123, ldl 69, hdl 36, tg 89, sgot 20, ck 71
+
+1/17/73: hgb A1c 6.80, mean glucose 141
+
+
+
+Assessment and Plan
+
+1. CAD: excellent control of sx on current regimen.  May be able to stop Plavix at next visit with Dr. Ishmael.
+
+2. Chol: recheck fasting lipids in 9/73.  Cont lipitor
+
+3. BPH: stable on flomax 0.4 qhs.
+
+4. elevated A1c in 2/73: recheck today.
+
+5. ceruminosis: left ear irrigated by RN.
+
+6. f/u 9/73.
+
+
+
+
+
+History of Present Illness
+
+Patient reports that he was admitted to Mercy on 4/12/73 with a diagnosis of CVA.  He was discharged on 4/16/73, and he was seen in clinic 2 weeks later with complaints of chest pain and elevated cholesterol.  He was given lipitor 10mg qd, atorvastatin 10mg qd, lisinopril 5mg qd, and aspirin 325mg qd.  In addition he was scheduled for a CTA of neck and chest on 4/30/73 to rule out CAD or atherosclerosis.  On 5/11/73 his wife reports that he was experiencing shortness of breath with exertion.  She took him to Mercy and he was admitted on 5/15/73 for a CVA.  He was discharged on 5/23/73 and is now in clinic today for his first followup visit after the stroke.
+
+
+
+
+
+Medical History
+
+Patient has a history of tobacco use, and a past medical history that is positive for a myocardial infarction in 1970.  He is also a chronic user of plavix who reports that he takes plavix 75mg qd at this time.  His family history is positive for a history of HTN and CAD in both of his parents.  He was born in Lima, Ohio, and has lived in this area his entire life.  He has been married for 39 years and is the father of one adult son and two adult daughters.  He is retired from a job as a supervisor. 
+
+Patient does not report any allergies and is currently taking no over-the-counter medications.
+
+His past surgical history is positive for a percutaneous coronary intervention and angioplasty in 1971. 
+
+Patient reports that he has seen Dr. Ishmael for a routine visit for the past several years and has seen Dr. Maddox for the last 2 weeks for BPH.  Both of his children are physicians and they have advised him against any further medical care with any other provider in Lima.  He does not currently have any other medical issues that require treatment.
+
+His social history is negative for illicit drug use, alcohol use or smoking.  
+
+Patient denies having any sexual concerns or any problems with sexual activity. 
+
+
+
+Family History
+
+Patient reports that his family history is positive for HTN and a family history for CAD.  His father also had a myocardial infarction in 1971.  His parents were born in Lima, Ohio and they have been in Lima all of their lives as well.  Both of his parents have passed away, as has his sister.  His brother is currently alive and living on the east coast.  
+
+
+
+Physical Examination
+
+Physical exam is negative except for ceruminosis of the ear.
+
+Head:  atraumatic, normocephalic, no palpable masses, no nuchal rigidity or Kerning's signs.  No focal neurological deficiency or cranial nerve palsy.  No focal deafness.
+
+Eyes:    pupils equal reactive, no conjunctival infiltrates, no scleral icterus, ocular motility intact.
+
+Ears:     right pinna occluded by a waxy ear plug.
+
+
+
+Nose:     no rhinorrhea, no epistaxis or ceres.
+
+
+
+Teeth:    normal teeth, gingival bleeds on probing with floss.
+
+
+
+Throat:    oropharynx clear, no erythema.
+
+
+
+Neck:     supple with no lymphadenopathy or thyromegaly.
+
+
+
+Chest:     heart sounds normal, clear to auscultation, no bruits noted.  No adventitious respiratory sounds.  No wheezing.
+
+
+
+Lungs:    clear to auscultation, no rales, wheezing, or rhonchi.
+
+
+
+Abdomen:   soft, nontender.   No organomegaly.  No masses or tenderness on palpation.  No rebound or guarding.  No distension.
+
+
+
+Extremities:  + clubbing of fingers.  No edema or erythema.
+
+Skin:      WNL.
+
+
+
+
+
+Review of Systems
+
++ nocturia x1, stable.
+
++ occasional bruising on plavix and aspirin.
+
+Denies fever, chills, night sweats, or weight loss.
+
+No nausea, vomiting, active heartburn, or dysphagia. 
+
+No diarrhea, constipation, or blood per rectum or melena.
+
+No urinary frequency or dysuria.
+
+No joint or muscle pains or swelling.
+
+No visual or hearing loss.
+
+
+
+Physical Examination
+
+General: well appearing male, no distress.
+
+HEENT: pupils equal, reative to light, occular movements full. oropharynx clear without erythema. no sinus tenderness. tympanic membranes obtuse, L>R. Neck: supple without lymphadenopathy or thyromegaly. No bruits heard.
+
+CV: regular rate and rhythm, normal heart sounds, no murmurs or rubs heard.  jugular venous pressure normal.
+
+Pulm: clear to auscultation posteriorly, without wheezes, ronchi, or rales.
+
+Abd: soft and non-tender without distension or rebound. normoactive bowel sounds, no organomegaly.
+
+Back: without spinal or costovertebral angle tenderness.
+
+Extremities: warm and well perfused with 2/2 pitting dorsalis pedis bilaterally.  + clubbing of fingers.  No edema.
+
+Skin: without suspicious moles.
+
+Prostate: unavailable at this time as done by urologist 2wks ago.

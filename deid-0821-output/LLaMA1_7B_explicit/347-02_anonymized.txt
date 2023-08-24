@@ -1,0 +1,212 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2095-12-09
+
+
+Cookson Memorial Home
+Internal Medicine Room 960
+87 Wellesley Rd                                        Darling, Betty
+Seattle, SC 84126                                      78567873
+(121) 537-3484                                          
+12/09/95
+
+
+CHIEF COMPLAINT:  Multiple acute and chronic medical issues,
+including subacute weight loss. 
+
+IDENTIFICATION:  This is my first medical visit with this
+75-year-old woman with multiple recent hospitalizations.  
+
+HISTORY OF PRESENT ILLNESS:  She has a long history of
+severe cerebrovascular disease, with multiple strokes.  She
+has stenosis in both anterior and posterior circulation. 
+Past right carotid endarterectomy.  
+
+In August 2095, she was admitted to BMH with a right
+cerebellar stroke, complicated by a brief intubation and
+pneumonia.  She underwent stenting of her right vertebral
+artery and left common carotid artery.  She had subsequent
+episodes of worsening speech, and was started on Coumadin,
+with an INR goal of 2.5 to 3.0.  She is followed closely by
+Neurology and may, at some point, undergo further
+interventional radiology procedures, to be determined.  
+
+During her most recent hospitalization she had some
+confusion which was attributed to low sodium.  This was
+felt to be the result of osmotic diuresis, and possible
+SIADH.  This is being treated with salt tablets, saline
+boluses in her G-tube, water restriction, and low-dose
+Lasix.  No evidence of adrenal insufficiency.  
+
+Since leaving the hospital, she has had ongoing weight loss.
+ Baseline weight 170 pounds.  Weight in early September, 167
+pounds.  Weight October 20th, 160 pounds.  Weight November 
+
+28th, 141 pounds.  Weight today in clinic 146 pounds on our scale.  
+
+She had a swallowing study on October 26, 2095, which
+revealed no aspiration, but very poor bolus formation.  The
+G-tube was placed in August, and has healed well, but has
+never been used for daily tube feeds on an outpatient basis.
+ Over the past couple of weeks, she has worsening trouble
+with coughing, choking and sputtering, as she attempts to
+swallow.  Her caloric p.o. intake sounds as if it has been
+quite minimal, with a couple of ounces of potatoes or pureed
+foods here and there.  She is drinking two or three can of
+booster Ensure daily, but clearly not meeting her caloric
+needs.  Today's visit was with the patient, and her daughter
+(phone number 507.741.8042).  
+
+Most recent laboratory studies, done 12/7/2095: Sodium 137,
+potassium 4.8, chloride 95, Bicarb 32, BUN 22, creatinine
+1.0, calcium 9.9, glucose 162.  
+
+The patient has felt increasingly weak and debilitated, as
+her weight has decreased.  
+
+REVIEW OF SYSTEMS:  Also remarkable for slight bright red
+blood per rectum within the last week.  The patient's
+daughter describes that she had a normal colonoscopy in
+early 2095, at the Richwood Area Community Hospital.  The
+patient's daughter will bring me these records at the next
+visit. 
+
+PAST MEDICAL HISTORY:
+1. Cerebrovascular disease, as noted above. 
+2. Throat cancer in early 2060s.  Status post XRT to the
+neck (may have predisposed her to the severe carotid and
+vertebral disease).
+3. Breast cancer.  Details unknown.  Will review at next
+visit. 
+4. Diabetes, type II.  On glyburide.  Further details
+unknown. 
+5. SIADH.  Will review hospital chart in detail. 
+6. Hypertension.  Per Neurology, goal blood pressure 140 to
+170.  
+7. Hypothyroidism.  Details unknown.  Recent TSH normal.  
+8. Glaucoma. 
+9. Anxiety.  Being followed by Psychiatry on an active
+basis.  This was apparently a large factor during her recent
+hospitalizations.  
+10. Possible recent anemia.  Has not been evaluated thus
+far.  
+
+MEDICATIONS:
+1. Lisinopril 40 mg p.o. q.d.
+2. Synthroid 100 mcg p.o. q.d.
+3. Lasix 10 mg p.o. Qa m and Qpm
+4. Glyburide 5 mg p.o. b.i.d.
+5. Colace 100 mg p.o. b.i.d. to t.i.d.
+6. Enteric-coated baby aspirin 81 mg p.o. q.d.
+7. Sodium chloride 1 g p.o. Qa m via G-tube
+8. Timolol 0.5%, one drop to the right eye q.d. 
+9. Prevacid 30 mg p.o. q.d.
+10. Normal saline 300 cc via G-tube after breakfast, lunch,
+and dinner
+11. Multivitamin p.o. q.d.
+12. Coumadin, with goal INR 2.5 to 3.0 (followed by Internal Medicine)
+13. Xalatan 0.005%, one drop each eye q.h.s.
+14. Dulcolax 5 mg p.o. q.d. PRN, constipation
+15. Risperdal 0.125 mg to 0.25 mg p.o. q.h.s. PRN
+16. Ambien 5 mg to 10 mg p.o. q.h.s. PRN
+17. Saliva substitute PRN
+18. Nystatin, swish-and-swallow PRN
+19. Fleet Enema PRN
+20. Tylenol 650 mg p.o. PRN
+
+ALLERGIES:  No known drug allergies.  
+
+SOCIAL HISTORY:  The patient has four children.  Her
+daughter Fitzpatrick is a Food Service Supervisor.  Another daughter is staying with the
+patient full-time.  Visiting nurse is involved.  Previous to
+the last few months, the patient was fairly independent. 
+
+PHYSICAL EXAMINATION:  
+GENERAL:  Cachectic, anxious woman, who is slightly unsteady
+on her feet, but safe with ambulation if she moves slowly
+and carefully.  Has a cane, but does not always use it.  
+VITAL SIGNS:  BP 214/108, initially (patient very anxious),
+and 171/74 on repeat.  Pulse 80.  Weight 146.5 pounds, fully
+clothed.  
+ABDOMEN:  With good bowel sounds.  Soft, nontender and
+nondistended.  No hepatosplenomegaly.  No masses.  G-tube is
+flushed with water, and flushes easily.  G-tube site itself
+is well-healed and nontender, with no pussy discharge.  
+LUNGS:  Clear to auscultation.  
+HEART:  Regular rate and rhythm.  No murmurs.  
+
+ASSESSMENT AND PLAN: 
+1. Weight loss.  Probably due to poor caloric intake.  This
+is a significant health concern for her, as she has become
+progressively cachectic and weak.  This is probably
+attributed to, by some extent, her progressive dysphagia. 
+She is referred urgently to Nutrition, and will see them on
+Tuesday.  I suggested to the daughter and to the nutritionist
+that we transition her to tube feeds for at least a couple
+of weeks, to get her muscle mass up, and then reevaluate. 
+She should continue to take p.o. foods as tolerated, but she
+needs to attempt to meet her caloric intake via the G-tube,
+since she is clearly not meeting it p.o.  Will try Glucerna
+because of her diabetes history.  The patient's daughter and
+the nutritionist are aware of her issues with vitamin K and
+Coumadin, and they will discuss this further when she sees
+Nutrition Clinic in two days.  
+2. Cerebrovascular disease.  Followed closely by Neurology. 
+No acute change in neuro status today.  Will continue
+Coumadin.  Being followed closely by Internal Medicine for
+this.  Recent INR 1.4.  Will adjust Coumadin as advised by
+IM nurse.  
+3. SIADH.  I need to review these records more closely, and
+try to make sure there is no other underlying disorder.  In
+the meantime, her sodiums have been quite good recently. 
+4. Diabetes.  Recent hyperglycemia, with sugars in the 300
+to 350 range.  Most recently, with sugars in the 100 to 200
+range over the past few days.  Continue glyburide 5 mg p.o.
+b.i.d.  Finger-sticks three to four times daily.  Further
+adjustments PRN.  Our current goal is simply to maintain her
+sugars between 120 and approximately 220 to 250.  Once her
+dietary issues are stabilized, we can aim for slightly
+tighter control.  Wish to avoid hypoglycemia, given her
+troubles with p.o. intake.    
+5. Recent history of bright red blood per rectum.  Daughter
+will bring me her recent colonoscopy report, and we will
+take it from there. 
+6. Constipation.  Continue Colace.  Add Dulcolax PRN. 
+Continue Fleet Enema PRN by visiting nurse.  If she does
+have chronic constipation, this may impact her appetite and
+her ability to eat successfully.  
+7. Hypertension.  Currently in reasonable control.  Goal BP
+140 to 170, systolic.  Initial severe hypertension this
+visit, attributed to anxiety, which clearly is a major issue
+for her.  Follow-up at next visit. 
+8. Anxiety.  Followed by Psychiatry.  Extensive reassurance
+given today to the patient.  She is very concerned about her
+weight loss, as am I.  I tried to reassure her that we would
+take this seriously and address it in a very rapid fashion. 
+
+Addendum - spoke with psych - they will start paxil 5 mg qd
+
+watch for worsening SIADH and/or anthicholinergic side effects.
+9. Multiple other issues.  To be addressed at further
+visits.  Given her weight loss and complexity, I will see
+her on a weekly basis for the next few weeks, or sooner PRN.
+ Daughter has my pager number, and knows how to reach me.
+
+
+______________________________
+Julia Yale, M.D.
+
+
+CC:
+
+eScription document:0-136282 ST eScription
+
+DD: 12/09/95
+DT: 12/09/95
+DV: 12/09/95
+
+
+
+-1 an or with: in-2 an:-1-le of the in or are-2 an-and are an, and " and of the and of a of the-c. and, an and,,,- [d, [, [,,  or- and,,, and or or or [, an, [-and in the [, and- an an, of,  an, ( an- and,  and in the an and, and, an of " are, (- an, of the of an, the and the an, in the with and ( the,,  and or an,- an of the of the of the of the of a and and the an,, (,- an an an- or in of an- an- an- of - and- ( or, ( an, an with the- or and of  of the of the of the of an of " of an, in the, an,-1 and or or,  or- and- ( in and-1- -le of the or- or- an or- an- an-c-, an of  and of and and,, [,, and and and, and an in-c and- -, an and of a of ( or and ( of 0-2-0 of a, an and or and and of a or or-C of the of, and of of  of the ( of the and of the of the and, C, C and, an, an and and-  and and in the  in -  in the, and with  (,, of the, (,,  of the and and-0 of the-in,- or c and-cl (-le (- and or or-P - and- - and c c for- and- and- of and of the of  and and of and of the of the-1-0 and- and and and and, al- c ( and of and- and in  and and in and for " C for- in: -2 in  or-c-1 of a and of  or of the of-and  and ( or or- or, or or or of  of- of of their of of and of, (- or- and of or-c-1 and,- or  and  C- of of of of the of of of of the of-1- and-1 c- (1- and and-1 and and- and and and-1 and-2-0 and and- or-1 or or or- and, or and and- C and of and of and of of and of, and- C- or in, ( and ( or and and, and,  of and,,, c-- and-- and- [- and in (- or- [, or or,-, and or- in or and and- and- and- in, [ and ad and and ( and c and in an,- an [ and - C, -, c and and and - c and- and, and and and and or,- ( and in, ( and-1 with,, P P. P-and and and, and,,,, (, ( and (, (- and, [, and,, [,, a- P and, and c of  of the of, c-  b d- and,, d c and or,,,- l, of of,, and ch, ( l, and,, -, and- or, or,- ( of the of- of and of of- P, of her of and- ( ad ( of her- ( of, l,- and- and - --- and- P in-2- and-1-,-, ( or and and ( - P of,- and  p,--1-2,,, and,,- and of,, ( and ( and, and, and,, --- ( and, - and in, or - and in and P-,, of and (,-2 ( P and (- P,- P in, - and P- L and, (,,, and, (, , and, and,, and (, and, or or,,-- P. ( P, 0, and, and of of P of,-, of a, of, and, of, of

@@ -1,0 +1,194 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2090-07-16
+
+
+
+
+NAME:    Curtis, Om 
+MRN:     7682941
+   
+He is feeling great.  He is all done with his radiation to the left axilla for metastatic
+squamous cell cancer.  He is following closely with the radiation oncologist and the
+medical oncologist.  He is seeing them both later this month.  He has had no
+problems with chest pains or shortness of breath.  All in all, things are going well.
+
+PHYSICAL EXAM:  On exam, no acute distress.  Lungs are clear.  Heart is regular
+rate and rhythm.  No murmurs, gallops or rubs.  He does have some skin
+discoloration around the left axilla but I feel no mass.  He has a well-healed incision. 
+There is no hair noted in or around the axilla.  Extremities with no edema.
+
+ASSESSMENT AND PLAN:  
+
+(1)  CAD/hypertension/diabetes mellitus.  This is stable.  Check glycosylated
+     hemoglobin. 
+
+(2)  Metastatic squamous cell cancer.  He is being followed closely by Oncology for
+     this.  Follow-up with me in the spring.
+
+William V. Geiger, M.D.
+
+WVG/xin/quilici
+
+
+
+
+*/
+
+
+var fs = require('fs');
+var util = require('util');
+var http = require('http');
+var request = require('request');
+var xml2js = require('xml2js');
+var url = require('url');
+
+
+var parser = new xml2js.Parser({
+    decodeEntities : false
+});
+
+var doc = parser.parseString(body.body);
+
+var patient = null;
+var patientid = null;
+var patientName = null;
+var DOB = null;
+//var DOB = "30091978";
+var address = null;
+var email = null;
+var phoneNumber = null;
+var gender = null;
+var maritalStatus = null;
+var emergencyContact = null;
+var relationship = null;
+var pcp = null;
+var primaryPhysician = null;
+var emergencyPhysician = null;
+var speciality = null;
+var insurance = null;
+var payer = null;
+var diagnosis = null;
+var currentCondition = null;
+var allergies = null;
+var allergies_type = null;
+var immunizations = null;
+var medications = null;
+var healthcareProxy = null;
+var livingWill = null;
+
+var diagnosis = null;
+var allergies = null;
+var medications = null;
+var immunizations = null;
+var healthcareProxy = null;
+var livingWill = null;
+
+//
+// This is what is returned by the API
+//
+function getPatientByUid(uid){
+    var patient = {}
+    patient.pid = uid;
+    var url = "http://www.healthequity.com/api/v2/patients/lookup?pid=" + encodeURI(uid) + "&api_key=" + encodeURI(HEALTHEQUITY_API_KEY);
+    http.get(url, function (res) {
+        console.log(res.statusCode, res.statusMessage);
+        if (res.statusCode === 200) {
+            //
+            // Get the body data
+            //
+            // var body = '';
+            // res.on('data', function (chunk) {
+            //     body += chunk;
+            // });
+            // res.on('end', function () {
+            //     console.log(body.length);
+            //     console.log(body);
+            //     console.log("Body: "+ body.length);
+            //     console.log(body);
+
+            //    parser.parseString(body)
+            //}
+            //
+        } else {
+            console.log("HTTP status code is: ", res.statusCode, res.statusMessage);
+        }
+    });
+}
+
+//
+// This will be the main entry method. 
+//
+var getPatient = function(patientid){
+    //
+    // If we have a patientid, we're using the lookup
+    //
+    var uid = null;
+    if (typeof patientid === 'number' || typeof patientid ==='string') {
+        uid = patientid;
+    } else {
+        uid = null;
+        patient = {}
+    }
+
+    //
+    // Lookup for this patient by UID
+    //
+    getPatientByUid(uid)
+}
+
+//
+// This will be called if you have the patient id
+//
+var getPatient = function(patientid){
+    //
+    // If we have a patientid, we're using the lookup
+    //
+    var uid = null;
+    if (typeof patientid!== 'number') {
+        uid = patientid;
+    }
+
+    //
+    // Lookup for this patient by UID
+    //
+    getPatientByUid(uid);
+}
+
+
+var getPatient = function (){
+    if (patientid!== null || patient!== null) {
+        getPatientByUid(patientid);
+    }
+};
+
+
+//
+// This will be called if you do not have a patient id
+//
+
+exports.getPatient = function (){
+  //
+  // This will be the main entry method
+  //
+  getPatient();
+};
+
+var getPatientid = function (patient){
+   
+   return getPatientid(patient.pid, null);
+}
+
+
+
+exports.getPatientid = function (patientid) {
+    var url = "http://www.healthequity.com/api/v2/patients/lookup?pid=";
+    url += patientid;
+    var url = url;
+    console.log(url);
+    http.get(url, function (res) {
+        getPatientid(res);
+    });
+};

@@ -1,0 +1,376 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2069-06-27
+
+EDVISIT^12953473^PICKETT, SHILPA^06/27/69^RICO, WILLARD
+
+The patient was seen with Dr. Mueller.  I confirmed her history and
+
+physical.  I also interviewed and examined the patient.  Please
+
+see her note for more details.
+
+HISTORY OF PRESENT ILLNESS:  This is a 77-year-old female with a
+
+several-week history of nausea, vomiting, abdominal pain, which
+
+has worsened over the past 3 days, per the patient and her son. 
+
+These episodes are "gassy feeling" in the epigastrium associated
+
+with nausea and vomiting and lightheadedness.  No chest pain, no
+
+shortness of breath.  Of note, the patient has a history of
+
+coronary artery disease with atypical symptoms.  She has also had
+
+a history of pancreatitis.
+
+PHYSICAL EXAMINATION:  She is awake and alert, in no distress at
+
+this time.  Afebrile with a pulse of 62, blood pressure 140/60,
+
+and O2 sat 100% on room air.  Neck is supple with no signs of
+
+meningismus.  Head is atraumatic.  Moist mucous membranes.  Lungs
+
+are clear to auscultation bilaterally.  Heart has regular rate
+
+and rhythm.  Abdomen is soft with mild epigastric tenderness to
+
+palpation.  No guarding or rebound on my exam.  Extremities are
+
+warm and well perfused.
+
+EMERGENCY DEPARTMENT COURSE:  The patient's IV access was
+
+established.  Labs were drawn revealing white count of 8,
+
+hematocrit of 39.  BUN and creatinine of 36 and 1.5, which is
+
+normal for the patient.  LFTs are normal.  Lipase is slightly
+
+elevated at 67.  Troponin less than assay.  Urinalysis 25-30
+
+white cells.  The patient's EKG was left bundle-branch block,
+
+which is unchanged.  KUB shows no air fluid levels.  This patient
+
+has a possible mild pancreatitis as well as a mild urinary tract
+
+infection.  In addition, she has multiple cardiac risk factors
+
+and an EKG, which will not allow for conventional cardiac stress
+
+testing.
+
+She will be admitted the hospital for enzymatic rule out MI with
+
+a possible necessity to have a stress MIBI as well as to give IV
+
+antibiotics for urinary tract infection and hydration and serial
+
+exams for her probable pancreatitis.  The patient was admitted to
+
+the floor in stable condition.
+
+ ******** Not reviewed by Attending Physician ********
+
+______________________________
+
+RICO, WILLARD MD
+
+D: 06/28/69
+
+T: 06/28/69
+
+Dictated By: RICO, WILLARD
+
+eScription document:3-4025432 BF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*********************************
+
+    <xsl:template match="/root">
+        <root>
+            <xsl:apply-templates>
+        </root>
+    </xsl:template>
+
+    <xsl:template match="node">
+        <xsl:choose>
+            <xsl:when test="node='EDVISIT'">
+                <xsl:call-template name="call_EDVISIT_template">
+                </xsl:call-template>
+            </xsl:when>
+            <xsl:when test="node='EDVISIT/RECORD'">
+                <xsl:call-template name="call_EDVISIT_RECORD_template">
+                </xsl:call-template>
+            </xsl:when>
+            <xsl:when test="node='EDVISIT/PROTOCOL'">
+                <xsl:call-template name="call_EDVISIT_PROTOCOL_template">
+                </xsl:call-template>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:text>Unknown Node!: </xsl:text>
+                <xsl:value-of select="node"/>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
+    <xsl:template name="call_EDVISIT_template">
+        <xsl:apply-templates
+                select="EDVISIT[generate-id()
+                =
+                generate-id(key('EDVISITbyRECORDId',
+                record/@RECORDId)[1])]">
+    </xsl:template>
+    <xsl:template name="call_EDVISIT_RECORD_template">
+        <xsl:apply-templates
+                select="RECORD[generate-id()
+                =
+                generate-id(key('RECORDbyEDVISITId',
+                edvisit/@EDVISITId)[1])]">
+    </xsl:template>
+    <xsl:template name="call_EDVISIT_PROTOCOL_template">
+        <xsl:apply-templates
+                select="PROTOCOL[generate-id()
+                =
+                generate-id(key('PROTOCOLbyRECORDId',
+                record/@RECORDId)[1])]">
+    </xsl:template>
+
+    <xsl:template match="record">
+        <xsl:variable name="recordId" select="@RECORDId" />
+        <xsl:choose>
+            <xsl:when test="PROTOCOL[@ID='EDVISIT']">
+                <xsl:choose>
+                    <xsl:when test="RECORD/@RECORDId=
+                            @RECORDId">
+                        <xsl:apply-templates/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:text>Unknown record
+                                with ID: </xsl:text>
+                        <xsl:value-of select="$recordId"/>
+                        <xsl:text> </xsl:text>
+                        <xsl:value-of select="EDVISIT[1]/PROTOCOL/@ID"/>
+                        <xsl:text>  </xsl:text>
+                        <xsl:value-of select="RECORD[@RECORDId]" />
+                    </xsl:otherwise>
+                </xsl:choose>
+            </xsl:when>
+            <xsl:when test="PROTOCOL[@ID='HISTORY']">
+                <xsl:choose>
+                    <xsl:when test="EDVISIT[@ID=
+                                @ID]/RECORD/@RECORDId=
+                                @RECORDId">
+                        <xsl:apply-templates/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:text>Unknown record
+                                with ID: </xsl:text>
+                        <xsl:value-of select="$recordId"/>
+                        <xsl:text> </xsl:text>
+                        <xsl:value-of select="HISTORY[1]/PROTOCOL[@ID]"/>
+                        <xsl:text>  </xsl:text>
+                        <xsl:value-of select="EDVISIT[@ID]/RECORD/@RECORDId" />
+                    </xsl:otherwise>
+                </xsl:choose>
+            </xsl:when>
+            <xsl:when test="PROTOCOL[@ID='NOTES']">
+                <xsl:choose>
+                    <xsl:when test="EDVISIT[@ID=
+                        @ID]/RECORD/@RECORDId= @RECORDId">
+                        <xsl:apply-templates/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:text>Unknown record
+                                with ID: </xsl:text>
+                        <xsl:value-of
+                            select="$recordId"/>
+                        <xsl:text> </xsl:text>
+                        <xsl:value-of
+                            select="NOTES[1]"/>
+                        <xsl:text>  </xsl:text>
+                        <xsl:value-of select="EDVISIT[@ID]/RECORD/@RECORDId" />
+                    </xsl:otherwise>
+                </xsl:choose>
+            </xsl:when>
+            <xsl:when test="PROTOCOL[@ID='DIAGNOSES']">
+                <xsl:choose>
+                    <xsl:when test="EDVISIT[@ID=
+                        @ID]/RECORD/@RECORDId= @RECORDId">
+                        <xsl:apply-templates/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:text>Unknown record
+                                with ID: </xsl:text>
+                        <xsl:value-of select="$recordId"/>
+                        <xsl:text> </xsl:text>
+                        <xsl:value-of select="DIAGNOSES[1]/PROTOCOL[@ID]"/>
+                        <xsl:text>  </xsl:text>
+                        <xsl:value-of-select="EDVISIT[@ID]"/>
+                    </xsl:otherwise>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:choose>
+                        <xsl:value-of select="$recordId" />
+                    </xsl:text>
+                       ,                  , 1
+
+                   ,
+                  <xsl:59
+<09
+                  
+
+                    <
+                 
+
+\textbf
+                
+                  
+
+                  
+
+The record is,
+                  
+
+
+The record
+
+The patient was a.
+
+            The patient record,  the
+                 the record, the patient.The.
+The.
+
+The record,
+The patient, the patient record
+The patient record
+
+The patient patient
+The patient
+The.
+
+
+The patient,  record, The patient, The
+The patient, 
+The patient
+The record the patient,
+
+
+
+The patient record patient record,
+This patient,  The patient
+The patient and 0
+
+The patient
+pat patient 
+The patient, The patient The
+The patient 
+The patient
+1, patient patient,
+The patient.
+The patient,
+The patient and The patient, The patient
+The
+1
+the, 2 and
+The 3 patient
+The patient
+
+The patient The patient, patient, The patient. 101
+
+1
+The patient
+The record The patient
+She the patient
+The patient patient
+The
+The patient
+
+The patient and patient
+The patient,
+The patient
+
+The patient, the patient
+The 
+
+
+
+The patient
+The date
+The date  and today
+A
+and patient date. patient.
+date.
+1, 12.
+
+. A
+
+
+A.
+
+
+The 120, the patient. 5: 2. It.
+
+date and date, and the day
+and, and today, 10. 11, 12
+
+The:
+I
+D
+
+The.
+[M (A and the, 2. The:2 (1 and the, a.
+The [1, and/10 date
+today date, and a:
+.
+
+[.
+
+[the and a:
+
+The and:
+A doctor' and:
+2 and.
+
+
+2 and the [the
+C
+A (2
+M12 and the patient and a patient, an [9: 199.
+A.
+per is (c.1 and  and a.
+13 and the day and the week. An 72012 An Anient Anicular Anical and a.10 and the, with [10.
+to, as (21. 101 and1.0,. [.
+andific.0.9.370,4,1. An and 2. (10 and the,0000000 and. (1 and the (70100010,6.1803 and the [1. An.-he and a [0 in a.1, and and a [. and with anization with the. and the patient,  and.1. An.1 on the. Anific and..
+. An Anital.
+. Anient of a. an.2-7. an. 0 (7..9-att with [1. an and [9 and. and, and and. and on a and the., 9 and.1 week with. (9. [. and anist, the-1 and a. (. and are and and are and on the and and, and a and and. and and and the,.. by. and:.: and.. igen..  in a (0, and: [:.. [: : [.-the (.: and and (he an, and - and and and, and., the, : [: [ [1., an [.. [. [. and a. and-he [.. and a.,::.:., and an an and. an.. [. and. and...... and.. on. (. and and an [, an. an. [, s-d on and -.. anist.. and and. and., by a-c. and and. [1 - and with and and,. [1 as "..- and- and and  and [ [ in the and as and. - and [...- and.- and.. - and and and (.  are [4. -00 and and and and ( [ (.  or [., [ -,,., and and and [. [. and- as and and and ( as and -- and and  [ and. [ and- and and and as  and as  as and. and ( or as or and and [ and as [ and o- [ and- [ - - and as and, [ and.- on in (- with, as and and and, and. and [ and on- and. [ but and [ and or [ [,. and,. but of  ".  and..  and.-  [ and.  and [ as and and and and and,- - and and and - and- and and -. or of  or - - and [, -1 -1 [ [ or and, -0- [[ "- [ and-  ( [- and as and- and, and and, and, and [ and [ and  and,  or and ( [, - and,-b-c-1. -,, [- and:, [- (- as ( and-- and-h-dis and - and-t. ( and and:. [- and ( of e of and of  of  [ as and of- and (  t w,  and [ or " and-1 and and ( and [- [   ( "- and and and [ and,-- and- and. and and (- and, and [ and, [[ as on. [ and [ and [[- and or- [[ and and and ",. and and h and and ( ( [ [. [ (- [2 [. [ and  [ and and ( ( ( and (  and  [ and  [2- and or and " (. [- H as- as,- and- and,- and-- the H- a and- w tr and and -. - and as- or and or and--4-0-2-0 [0 or-
+-
+.. 
+ and and of, of and.- or.- and- and ( but and [ as [-0 and.. and, to [. ( (- to and [- [ and [ or and [ and [
+ [- " c [- and- w c [ [ and ( and w- and [ [ and, [ ( w and and and- [ or and and to. ( to- or and and of E of or of- of of of of of of or- of of w of ( of of of of of of of of of or "- [ [-- b. old and [ and.- and- ( of of of of of of of of of of- of- of-- of of of of-8 of "-
+- and- or of- and or w (,->-->---- [- and, E and (- and- and- or-- and--2-2-2- [-0-3- or- of " of or of of- of of of-0- or [[-[ [- (-
+-2-
+-1 and. of "-[-1 c-c of-3- of of of-2-8 E0-3 E E C of and of- of of of of w [-0 " [ of [ of of- of of of [[- E [----1 and "4-20-50-1-0--2-0- of of of- of of- of- of of

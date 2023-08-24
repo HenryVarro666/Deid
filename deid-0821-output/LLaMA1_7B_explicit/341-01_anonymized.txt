@@ -1,0 +1,241 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2092-05-06
+
+Patient Name: WILHELM, GOLDY;  MRN: 9543443
+
+Dictated at: 05/06/2092 by EDWARD XAYASANE, M.D. 
+
+
+
+ 
+
+CHIEF COMPLAINT: Right leg pain and difficulty walking.   
+
+HISTORY OF PRESENT ILLNESS: Ms. Wilhelm is a 68-year-old right-handed female who has had a three-week history of having right leg pain and difficulty walking. She states that her pain started about three weeks ago when she was bending and picking up a pot. She states she had a pain in her back that radiated around her right side down her groin into her medial leg, not past the knee. She states that it went away at that time. The next day she felt worsened and had difficulty working and saw her physician.  An MRI was ordered. Since then, she feels about 60-75 percent better. She states that her pain is constant and describes it as a sharp pain. She does state she feels weak and her knee would buckle. She does not have any numbness or tingling. She states she uses a walker to get to her bathroom, however, otherwise stays in the recliner. Her symptoms are increased with lying down and standing and decreased with sitting.  
+
+ 
+
+Therapeutically, she has not received any physical therapy or occupational therapy. She is currently taking Darvocet, however, less frequently, and Celebrex for arthritis. Diagnostically, she has had an MRI scan in April 2092 that showed multi-level spinal stenosis, most prominent at L3/L4, especially on the right side, secondary to facet arthropathy and ligamentum flavum infolding, as well as possibly a mild disk bulge. Her mammogram was done in 2091 which was okay. She has not had a bone mineral density at this time.  
+
+ 
+
+MEDICATIONS: Currently, the medication she is on is Celebrex, Hyzaar for her blood pressure, and Darvocet for her pain.   
+
+ALLERGIES: She states that taking Tylenol With Codeine gives her toes a burning sensation, and ibuprofen causes tinnitus.   
+
+PAST MEDICAL HISTORY: She has got high blood pressure and shoulder arthritis.  
+
+ 
+
+PAST SURGICAL HISTORY: She had a left breast biopsy which she states was not cancerous.  
+
+ 
+
+SOCIAL/FUNCTIONAL HISTORY: She is functionally currently not working. She is taking sick time. She has not worked for the past three weeks. She is a Head Nurse and worked at The Library Corporation for the last 35 years. She states her job is medium as far as intensity of work. Functionally, her activities of daily living are limited, and she uses an assistive device.  
+
+ 
+
+SOCIAL HISTORY: She is widowed and she has four healthy children, ages 51, 50, 48, and 46. She does not smoke or drink.   
+
+FAMILY HISTORY: She has aunts with diabetes and brother that had an myocardial infarction at 59.  
+
+ 
+
+REVIEW OF SYSTEMS: On review of systems, no fevers, chills, recent infections, bladder, thyroid problems, rash, shortness of breath, palpations, chest pain, nausea, abdominal pain, diarrhea, or bowel or bladder or sexual problems or urination difficulty.  She does have some joint pain and swelling in her shoulders and her feet occasionally. She does not have any numbness or tingling. She does have some trouble walking secondary to the pain. She does not feel fatigued and her appetite is okay and she does not feel anxious or stressed. She does have some mild trouble with sleeping, however, this has improved over the last few days.  
+
+ 
+
+PHYSICAL EXAMINATION: On physical examination, well-developed, well-nourished, well-groomed, normal mood and affect, but slightly anxious with movement, female in no acute distress at this time. On musculoskeletal examination of lumbar spine, flexion was within normal limits. Extension she had her type of pain at about 10-20 degrees. Side-bending was unremarkable. On hip examination she had some decreased internal rotation on the right when compared to the left. Straight leg raise bilaterally was negative, however, supine, slight guarding on the right.  Femoral stretch was positive on the right but not on the left. On neurological examination, as far as motor examination, there is some slight decrease, half a grade, quadriceps and hip flexors; however, this was functional; otherwise unremarkable on the right or the left. Her reflexes were 2 plus in the achilles. Babinskis were downgoing, 1 plus at the patella on the right, and 2 plus on the left. Sensory examination slightly decreased at L3 on the right; however, normal throughout; otherwise, gait was antalgic on the right and she did not want to bear weight.  
+
+ 
+
+IMPRESSION:  
+
+1. Right L3 acute radiculopathy secondary to herniated disk and facet arthropathy.  
+
+2. Functional limitations secondary to pain, causing her functional weakness.  
+
+ 
+
+RECOMMENDATIONS:  
+
+1. Transforaminal epidural steroid injection at L3 and L4 on the right.  
+
+2. Physical therapy after her injection.  
+
+3. Continue her medications of Darvocet and Celebrex.  4. Keep her out of work until she is able to receive the injection, as well as continue with her physical therapy to improve her strength, given her acute radiculopathy.   
+
+The patient was seen and examined with Dr. Xayasane, who agrees with the plan above.  
+
+ 
+
+ 
+
+_______________________________ 
+
+Edward Xayasane, M.D.  
+
+cc: David Utterback, M.D.  
+
+DD:05/06/2092 
+
+DT:05/09/2092 
+
+TL:95468     :423 
+
+ 
+
+
+
+
+
+
+    '''
+    # pylint: enable=too-many-instance-attributes
+
+  def to_dict(self):
+    """Convert this record to a dict that can be saved to disk."""
+    result = {
+       'record': {
+           'record_no': self.record_no,
+           'source_date': self.source_date,
+           'source_name': self.source_name.encode('utf-8'),
+           'source_type': self.source_type.encode('utf-8'),
+            'patient_no': self.patient_no,
+        },
+        'patient': {
+            'full_name': self.full_name.encode('utf-8'),
+            'gender': self.gender,
+            'race': self.race,
+            'ethnicity': self.ethnicity,
+            'language': self.language,
+            'birthday': self.birthday,
+            'address': self.address.encode('utf-8'),
+            'telephone': [self.telephone],
+        },
+        'clinical': {
+            'diagnosis': self.diagnosis,
+            'clinical_note': self.clinical_note.encode('utf-8'),
+        },
+    }
+    return result
+
+  @classmethod
+  def from_dict(cls, d):
+    return cls(**d)
+
+  def to_csv(self):
+    """Convert this record to a CSV string for easy writing to disk."""
+    result = ',' + self.record['record_no']
+
+    # TODO: Add all the other fields to the header
+
+    result += ','+ self.record['source_date']
+    result += ','+ self.source_name.encode('utf-8')
+    result += ','+ self.source_type.encode('utf-8')
+    if self.patient_no!= 0:
+      result += ','+ self.patient_no
+    result += ','
+
+    result += self.full_name.encode('utf-8')
+    result += ','
+    result += ','
+    result += self.gender
+    result += ','
+    result += ','
+    result += ','
+    result += self.race
+    result += ','
+    result += ','
+    result += ','
+    result += ','
+    result += ','
+    result += ','
+    result += ','
+    result += ','
+    result += ','
+    result += ','
+    result += ','
+    result += ','
+    result += "
+    record.  
+
+ 
+    record.
+        record.
+    record.
+    record.
+    record.   record, or, record, 
+    record,
+    record 
+    record.
+    record the record.
+    record
+    record, record 
+    record
+    record.
+    record the
+Records 
+    record.
+record
+record the [record
+record
+record or
+records and.   records
+Records, 
+
+    record 150-1,  or record,  
+
+record,
+recorded record 
+recorded.
+record.
+Records
+recorded, and
+Rec
+Records or, the patient names.
+record. 
+record names. 54
+names
+Records, please:record names.
+ident 
+The patient.  
+The patient.
+Records and... 
+or record.
+
+
+
+recorded
+and record
+
+names of records
+the record
+and names, and names, and names:,
+19: 
+and patient, or the patient names or date or the clinically the names or the 
+
+and or...
+The patient names
+
+[the names and the, and the name, and, and, and record, and and [the […
+(1, and the words, or, or the 1, a few would and 
+1...
+[10 (orize, and the 
+[1, a few or the patient, and the names or:.
+1, as…
+use names of...the, and the following and “, “
+(the (1:... 
+(1...
+the, orify a...are-2 are:… and: the and are, the... and [(1 
+15 (le [the or, 1, the following: 11.
+(
+1, and a, and: 13 (the [you (and and: a “[3-0 and: and… 1, and a and the... and, the name-...
+... and... and the, and ( and, 1, 1 and or, and, or, and, and, [0 or...
+, the, the, as, 1, a, the, 4, the are the, a, 0, and and (2, and, are and, the, and in the, 1, 1, a and the and and the:, and your... the (f:
+remove in the 0. with: 8-1.
+
+“ 5...1 and the (1 3-1-2-and, an of a-1 (0 (1 in " (any, 1 2, anise, orays, [. 2, of the, (1,  (, and, an, (or, the in the, 0 are the and are, the-and an, 0 by the, and or an, a, "and, an, the, “... of the, and, and of 1, and, the an, a 0 and, (and, a-c, an, An or and (Anine,  and, An An An An An and, An and and, An An An An An, and, an and, an, 3 and, "an, 9, 3 "An Anici and, an: 1, : 1 of the: and::1 and: [1-0: (with:: : "and, 1-1, an 1, or-an (le an: with an and or ( ( and and: or an are-in ( " in are, are, ( an-c-an an and of the of the and of an an-and an,, an and and,,,,, in [ and- are [ or [ and [-in- [ and or an or or an  and in the, an ( "- are are, [ and in an-an " and, ( an an and an, and an, an,, and, an an in of  of the of the ( in and, an and ( or and and, [ and- and, and of the ( an of the of " of the,- [ and [ in and or and., and and, or an, and in  of a of the or  in- in an,- in the- [ or, ( ( of any - of, and of the of, (. and an and and and in and in and,  and, -  of  of  of  An and, [ and and - or or  and in-  An ( [,, and or, or and and, and, or or, [ or or or,, [ and or, or.  of the or or of  of  of "2 An An An An An  and in and,  an " C, An C C of the of the of,  and  of a of 0 and of " in the. and and, (,, 1 and, in [,  and,  or, ( - an - and an and,, and,  -,  and ( - and - - or - ( ( and, and or and- ( or or-and for,- or "  ( -  ( as of  or as-  or as  as as of the as as as [ as of an "- and or that and, that and that ( ( that and [- - ": ( that and: ( and ", and: and that-W that or- and ( or "- " and, and of the of “ or of the  and w or and that- or and and or and (- and, and of the and of the of the, of the and,  and - and- and or and or " and-C and or and and and- and of a of the of the of-1 and ( w as and. and- and and (., and and, and and, W, and or, or-1 and- and, and and, ( and ( and or and,, - and of a ( of same c of - and - and and-f ( and and, and, - or ( as of as ( of a as and. and and or or- as and- and- C ( and as as and and- and w, w and or and,, or,, and as and and, W and-C and (, and and, ( and and and and and,, and,- and and- and and, and (-,  and and- (- W, ( and and (,,, that or w ( and and,, [ and and,, and,, and, and ( and, and,, [, or and and,,,,, are,  and ( and, a,,,-d  and-d  as " and- her and, and, and-f-. of,,,., that and-th, and, or-g, as and- and.  and  (-t and,- and or- and (- and-n [b- and and, and- and ( and,-t ( ( and,,- that [ up- her-b and-d- or- (-  (- it and and- and- with- and -  and and,, as and,, - with and,, [, and- and, " and as and-  and- or and- and- and and, and is,- or- or- and and,- and- and is- and, (- is- and- and- and- and,,, and and- and, and, and,, and-c- and or and- and-and-b and and- and- - and-d-b and- and and and- and - and or-d and, and, ( and,,- and or

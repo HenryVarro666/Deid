@@ -1,0 +1,245 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2088-05-21
+
+Patient Name: CURTIS, OM;  MRN: 7682941
+
+Dictated at: 05/21/88 by VICTOR R. GOMES, M.D. 
+
+
+
+Mr. Curtis returns with a history of ureteral stones, BPH, and dysuria.  He has not had any stone passage in the last six months.  He has passed some tissue, and had some gross hematuria with his last visit, but has not had any symptoms since then. 
+
+  
+
+With his BPH, he has not had any significant worsening of his nocturia or daytime frequency.  He feels as if he is emptying his bladder well now on the Cardura.  He did have some dysuria, and Dr. Geiger gave him a pill which seems to have helped him.  
+
+ 
+
+His review of systems today is negative.  His past medical history is unchanged, and he is continuing with a cholesterol medication, a pill for burning, Cardura, and Atenolol. 
+
+  
+
+On physical examination, his vital signs show him to be well-nourished and well-developed.  His respirations are 14.  His pulse is regular.  A general examination shows his neck to be supple.  He is alert and oriented x 3.  He has no labored breathing.  He has no palpable groin adenopathy.  His skin has normal turgor, and his cardiovascular exam shows no JVD.
+
+   
+
+A complete GU examination shows his epididymis to be without masses.  A rectal exam shows his anus to be without masses.  His scrotum is without lesions.  His urethral meatus has no discharge.  His prostate has some BPH, but no nodularity.  His penis has no foreskin lesions.  His testes have no masses.  His seminal vesicles have no masses.  His sphincter tone is normal. 
+
+  
+
+An independent review of a urinalysis today is negative.  A review of clinical lab testes shows a nuclear matrix protein less than 10 on 11/14/87.  This was done via PCIS.  A post-void residual today is 14 cc.  
+
+ 
+
+For his BPH, I believe he should continue with Cardura 2 mg p.o.  q.d.  His stone disease is quiescent, and he will let me know if there are any recurrences with symptoms of these.  We will consider checking a KUB in one year's time.  He will let me know if there are any difficulties in the interim.   
+
+ 
+
+_______________________________ 
+
+Victor R. Gomes, M.D.  
+
+ 
+
+ 
+
+cc: William Geiger, M.D., Allina Medical Clinic At Hinckley, Internal Medicine  
+
+ 
+
+ 
+
+DD:05/21/88 
+
+DT:05/21/88 
+
+UL:30614     :7550 
+
+ 
+
+
+
+
+
+
+
+
+
+
+"""
+
+# =============================================================================
+# TESTS
+# =============================================================================
+import pytest
+import os
+import shutil
+
+
+def test_readme_files():
+    assert readme("readme_files.txt") == "README"
+    assert readme.readme_files() == "README"
+
+    readme(os.path.join(os.path.expanduser("~/test"), "README_FILES"))
+
+
+# =============================================================================
+# PARSE
+# =============================================================================
+
+def test_parse_with_dict_as_input():
+    readme_dict = {
+        "header_line": "HEADER",
+        "header_dict": {
+            "dict_line": {
+                "dict_key": "dict_value",
+                "dict_string_line": "dict_string_value",
+                "dict_string_list_line": "dict_string_value",
+                "dict_int_line": "dict_int_value",
+                "dict_int_list_line": "dict_int_value",
+                "dict_float_line": "dict_float_value",
+                "dict_float_list_line": "dict_float_value",
+                "dict_boolean_line": "dict_string_value",
+                "dict_array_line": "dict_array_value",
+                "dict_array_value": "dict_array_value",
+            }
+        }
+    }
+    assert parse(readme_dict) == "HEADER\n\n" + \
+        "    dict_line:\n" + \
+        "        dict_key: dict_value\n" + \
+        "        dict_string_line: dict_string_value\n" + \
+        "        dict_string_list_line: dict_string_value\n" + \
+        "        dict_int_line: dict_int_value\n" + \
+        "        dict_int_list_line: dict_int_value\n" + \
+        "        dict_float_line: dict_float_value\n" + \
+        "        dict_float_list_line: dict_float_value\n" + \
+        "        dict_boolean_line: dict_string_value\n" + \
+        "        dict_array_line: dict_array_value\n" + \
+        "\n" + \
+        "    \n"
+
+
+def test_parse_with_file():
+    readme_file = "testfile.txt"
+    readme_file.write(readme("readme_file"))
+
+    assert parse(open(readme_file)) == "README\n\n" + \
+        "    HEADER\n" + \
+        "    \n"
+
+
+def test_parse_with_dict():
+    readme_dict = {
+        "header_line": "HEADER",
+        "header_dict": {
+            "dict_line": {
+                "dict_key": ["dict_array_value"],
+                "dict_string_line": "dict_string_value",
+                "dict_string_list_line": "dict_string_value",
+                "dict_int_line": "dict_int_value",
+                "dict_int_list_line": "dict_int_value",
+                "dict_float_line": "dict_float_value",
+                "dict_float_list_line": "dict_float_value",
+                "dict_boolean_line": "dict_string_value",
+                "dict_array_line": "dict_array_value",
+                "dict_array_value": "dict_array_value",
+            }
+        }
+    }
+
+    assert parse(readme_dict) == "HEADER\n\n" + \
+        "    dict_line:\n" + \
+        "        dict_key: dict_array_value\n" + \
+        "        dict_string_line: dict_string_value\n" + \
+        "        dict_string_list_line: dict_string_value\n" + \
+        "        dict_int_line: dict_int_value\n" + \
+        "        dict_int_list_line: dict_int_value\n" + \
+        "        dict_float_line: dict_float_value\n" + \
+        "        dict_float_list_line: dict_float_value\n" + \
+        "        dict_boolean_line: dict_string_value\n" + \
+        "        dict_array_line: dict_array_value\n" + \
+        "\n" + \
+        "    \n"
+
+
+def test_parse_with_dict_with_comments():
+    readme_dict = {
+        'header_line': 'HEADER',
+        'header_dict': {
+            'dict_line': {
+                'dict_key': 'dict_string_value',
+                'dict_string_line': 'dict_string_value',
+                'dict_string_list_line': 'dict_string_value',
+                'dict_int_line': 'dict_int_value',
+                'dict_int_list_line': 'dict_int_value',
+                'dict_float_line': '1.23',
+                'dict_float_list_line': 'dict_int_value',
+                'dict_boolean_line': 'dict_string_value',
+                'dict_array_line': 'array_value',
+                'dict_array_value': 'array_value',
+                'dict_array_value': 1,
+                'dict_array_value': 1.23
+                'dict_array_value': 123.44
+                'dict_array_value':
+
+        values and/values: values and values.
+        values and values:
+        values: 1234-4 values
+       
+        values.values.444-values, etc.    and values.
+        values.44.
+
+        values.5 values and
+34.44 values
+        values, 344 values. values.5.values,3434.44.41444.444.43444.
+values. 444134 values.444 values 34 values.43. values.44.4444-44444. This was not444441,4444.
+44434-values. 444444, 444 and, values.
+\444, 443444444 of age, age, and date, 
+444.344...
+
+names the clinical data 404 and 14, 144 patient,12 and date, and indicate 15.
+(2. or the...
+
+[
+[the 20, etc...
+
+The 12 and the name, or, 6.
+or.  and names, names, and the words. [...]
+
+1.
+and 118 or...
+
+or... and the text and a single-1
+and, as the patient... 30-name and 20, the text. the...theist, 1: the...
+1, 
+
+(
+[the,
+19-
+
+d…...11...
+
+11: or the...
+
+
+[the “... 1 are the [
+(or or: 
+
+are names or the “make:
+The and (1, "and and: (and,  and, or 1, as the are and, “
+(
+theise (
+[[...the and 35- are the, 3 and 1 are…, 1 1.
+Pause (1 and, and or,
+and (3 and or a, 
+, and, as the, and, or, 
+[the, (1, (the... (...,, the 1, as 0... and, and and, 1, and,
+and, and, the, 0 are and (d of a of a and the...  and, [
+with the:
+(1. 3...with the "names "with the and 'animal: “
+10... 0 [2 in a-are-conian and, 10, "by, " by or, 1 "the and a 1 [. orities, the.
+. and, (. of a, 1, 2, and. 3, the in (are ( are "w and, an, (ann or, and- and-1 an, the and [anat, "an. an, " 1-ann, An and and, 1 (An or, [2 and 3 and an, 3, 6 and, an, An An and the an anine, Anine, anine in, 1: an, 2 of the an and " and and the, and and the an and, and, an (An, (an, an and, 1 " 1 An: the and: and-an or: (0-d: “1- 1-the 2- ( and- 2 6-1 an: 1-an: " and-1: and and-and- and an and are an or-an- an- are- [. An An An An-d-and-  an of the in and,,  and and in the or- [ and, or and-  [ and [ or  or or-an and [ [ ( [ ( and- an,- [,-1 and- an, ( " in and in the  [. (  and, -  an and and- in the, - an of the of the of an of - an or- or of " an of [  [ and [ and,, and " of  of the- of " and of an an [- an, an, an ( in the-  ( or  an of  of " in- and- of [-  an (- or  or, [  ( and, an of " of [ of an of the of  and,  an  and an [  ( in  and, [  and in " and  of the an,- and ( and-  or- - -  or and- An or an of the, or- and or or or and an and in,, or and in- or and or-  - (- or of ( of  of a of an of an - and of an or in and -,  and, and or  of, of- of an of- of the of a, and an of a of an- and- an- [- ( to  an to or, an- or and- and-  in- c. to to  to- to  to- to to and  and - or and- an and ( and an- and c, [ or and- ( and -1 or or - [ and  or-  in [- an and an in the (- c in  c of a of the in of the,- and - and and in and and c- and and and,  of [, (, to or - or-2  c: in- (,- (- and- and- and-1 of the " c (- and ( or- [ and and in  m or- or and, and,- or, ( and of,  and-1, ( ( or ( [, c in.. or ( and  and ( of - of  of of of-  an- and in or- m ( an- in- and- -  and- in- - or- - - and- in- or.- [ [ and- c c- and- -- (- - of- and and of- c in and, [ (, and- - (- and [  and- or- and in in 2  and in. and-1, ( and,  al- 1,  and  and,  and ( or-  and- and [ and ( and- and-  an ( and, and and- and and- and and-  and (,-1 and [,, and- an ( and- or ( and,,,  and, and- and,- [- and- and and (- (,- and,,,,,-,,- on,- and-b- -  and- -d., and- and of  of -. -1 and-,- - and- c.,,,-.,,,,,-,,,,,.,,,, and in and ( and,  and or of, - - and- if and- and-  and and - and- and- and, and (, and- and c  to and   on and and- and-. and- -  or-   on   or  -   (1  and. 1 in c ( -, or,,,,,, and, and, and and and,-t-, and and _ ( and ( to,,  and- - and, and  _,-, - -,,- (,-,,,- and and  and,,- - and- and, if and- as.,, and  or,, 2. 2- B- and B0- and, - or B, -- and,,, and. if-

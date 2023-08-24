@@ -1,0 +1,193 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2097-06-03
+
+ Time of visit: 6/03/2097, 1330 hours
+Time of note: 1630 hours
+
+Patient seen and examined with the team.  Note of Dr. Ellis reviewed, findings confirmed.  Available electronic notes reviewed, X-rays reviewed, labs reviewed.  
+
+73 y. o. woman who has worked as a nurse at TLC for 40 years.  Nonsmoker.  History of hypertension treated with Hyzaar.  Current illness began 5-6 months ago with fatigue, dyspnea on exertion that has progressed to the point that she has to stop to catch her breath after walking up only 4-5 steps in a stairwell.  She finds it difficult to get started on her work because of fatigue.  She has had a cough that initially produced yellowish, "slimy" sputum, but more recently has been dry.  She notes occasional wheezing.  She also noted muscle and joint pain involving the shoulders and lower extremities over the past 5-6 months that she attributed to "arthritis".  No polyuria, but has noted nocturia X2 for the past 5-6 months. During the same period of time, has noted very dry mouth. No abdominal pain, but some difficulty with constipation for the past two weeks.
+
+Appetite diminished and she lost about 30 pounds.  She noted a nodule on the extensor surface of the left elbow that her PCP "cut into" recently.  She has also noted a nodule on the dorsal surface of the right foot that seems to "get larger".  
+
+She experienced substernal chest pain with radiation to the back that lasted several hours, prompting her to come to the ER.  No associated diaphoresis, nausea.  Pain somewhat better with sitting up.  
+
+Of note, she has known of having a cardiac murmur for many years.  
+
+Exam:  Pleasant black woman in no distress.  BP 158/79, Pulse 80, regular; O2 sat 98% on room air.  Afebrile.  Skin darkly pigmented nodule left elbow extensor surface, similar nodule right dorsal foot just proximal to 4th/5th toe.  No other rashes.  HEENT:  pale conjunctivae, anicteric.  No nasal findings, no facial skin findings (specifically, no lupus pernio).  Dry mucous membranes.  Neck: small, soft, mobile 0.5 cm node left anterior cervical chain.  Chest:  inspiratory crackles at both bases.  Cardiac: No JVD.  Regular rhythm.  III/VI (I do not feel a thrill) harsh nearly holosystolic murmur heard throughout the precordium, but especially prominent at the RUSB with radiation to the clavicles, neck.  Also heard at the apex and radiates to the left mid-back (?same murmur).  The murmur intensifies when she stands.  No gallops.  No rub.  Abdomen soft and nontender.  No spleen tip.  Liver edge not palpable.  
+Lymph nodes:  fullness below the left axilla, although not confident of discrete nodes.  
+
+Data:  There is considerable testing available to us from her recent visits to the Walk-In Clinic and to Dr. Utter.  
+
+A CXR from 5/2097 shows bilateral hilar adenopathy, mediastinal adenopathy, and interstitial infiltrates.  
+
+Creatinine 1.7
+
+Date/Time         CA             ALB            
+06/03/2097        12.3 (H)       3.4            
+06/02/2097        12.8 (H)       3.5            
+05/28/2097        11.8 (H)       3.5            
+
+Date/Time         ALT/SGPT       AST/SGOT       ALKP           TBILI          
+06/03/2097        41 (H)         41 (H)         67             0.7            
+
+Date/Time         NT-BNP         CK             CK-MB          CKMBRI         
+06/03/2097                       135            9.6 (H)                       
+06/03/2097                       126            8.6 (H)        6.8 (H)        
+E                      
+06/02/2097        4285 (H)[1]                                                 
+06/02/2097                                      NEGATIVE                      
+
+Date/Time         TROP-I         TROP-T         
+06/03/2097                       0.12 (H)       
+06/03/2097                       0.12 (H)       
+06/02/2097        NEGATIVE                      
+06/02/2097        NEGATIVE                      
+
+Date/Time         FE             TIBC           FER                         
+05/28/2097        33             237            130                           
+Date/Time         WBC            RBC            HGB            HCT            
+06/03/2097        6.4            3.98 (L)       10.2 (L)       30.4 (L)       
+
+Date/Time         MCV            MCH            MCHC           PLT            
+06/03/2097        76 (L)         25.5 (L)       33.5           198                  
+
+Date/Time         DIFFR          METHOD         %NEUT          %LYMPH         
+06/03/2097        RECEIVED       Auto           71 (H)         20 (L)         
+
+Date/Time         %MONO          %EOS           %BASO          
+06/03/2097        6              3              0              
+
+Date/Time         RETIC          
+06/03/2097        1.7            
+
+
+Serum angiotensin converting enzyme 68 (7-46 U/L)
+LDH 354
+
+EKG:  ST elevations V1-3.
+
+Problems:
+
+1.  Dyspnea on exertion, progressive.
+2.  Interstitial lung disease.
+3.  Bilateral hilar adenopathy
+4.  Weight loss
+5.  Symptomatic hypercalcemia
+		Nocturia
+		Arthralgias
+		Constipation
+		Fatigue
+6.  Prominent systolic murmur(s?). Changes with maneuvers suggest this may be secondary to hypertrophic obstructive cardiomyopathy.  There was evidence to suggest this on an echo from 2085, but obviously, need more recent data.
+7.  Minimally elevated troponins.  Uncertain significance.
+8.  Anemia, mildly microcytic.
+9.  Elevated LDH.
+10.  Renal insufficiency, likely secondary to uncontrolled hypercalcemia.
+11.  History of hypertension.
+
+Discussion:
+
+Sarcoidosis, until proven otherwise.  She is obviously older than typical presentation of sarcoidosis, but she had previous lymphadenopathy that may have been a first presentation of the illness with spontaneous remission.  The lung findings, systemic symptoms, hypercalcemia, anemia, abnormal serum ACE level are all suggestive of this diagnosis.  
+
+Her hypercalcemia is symptomatic and should be treated with volume repletion.  She should not receive diuretics at present.  Long term treatment will be dependent on the underlying diagnosis and its treatment.  I think she will need corticosteroids for her sarcoidosis and I expect this will improve the hypercalcemia, but we need definitive diagnosis first.  
+
+The cardiac murmur is impressive, but likely unrelated to the pulmonary disease.  We need echocardiogram to better define valvular function.  The minimally elevated troponins are not felt to be of clinical significance at this point.  Appreciate Cardiology input on this finding.  
+
+Suggest:
+
+1.  Stop HCTZ,avoid diuretics until fully volume repleted.
+2.  IV normal saline.  May need rates in the 150-200 range to control her hypercalcemia acutely, but she has had this for some time, so can be conservative with fluids approach.
+3.  Agree with check PTH, vitamin D levels.
+4.  Follow lytes, creatinine, calcium, Hct.
+5.  Agree with check echocardiogram.
+6.  We should ask the Pulmonary Service to see her in consultation.  Bronchoscopy with biopsy may be the best way to obtain confirmatory tissue for diagnosis of sarcoidosis.
+
+
+
+
+
+_____________________________________________
+Edmond I. Utterback, M.D.
+Pager #57863
+Internal Medicine B Attending
+
+
+
+1
+
+
+
+\nolink
+
+\nolink
+\nolink
+
+
+
+\nolink
+ 1
+
+
+
+\nolink \nolink
+
+
+\nolink\nolink
+2
+3
+
+
+\nolink
+
+\nolink
+\nolink
+
+2
+
+\noln,
+
+
+\nolnoln23
+\nol. 
+3
+nol
+20 3\n 13.  
+
+nol.
+\nol
+
+\nol \nolol
+\nol\nol 
+
+\nol\nol 1/nol 1\nol \nol\nol
+\n\n.nol\n\nol\nol\n.
+The \n\nol and 1n. 4nol
+202. 4. The 1
+\nol
+nol- 0nol, 1,11n\n 4.
+n.n. 21n 0n, and 0n of  n. 020
+ 10 303-n 7.
+
+
+n.
+1
+
+n date.
+ 0 200, 7 days, 
+n. 10.n. 1.
+1.
+3. An. and 0010. 10 date, and and the date, 10 and 3 days, and 5, 7, 13 (date, and 2 weeks and about. This date. : and  and a and: and date. The. 001 over last: The (250, 001401300110 
+
+
+ 13.2,  [1
+, 
+ (1300 over, last over the  over  over over. 1:
+and:  and  and the day, with  and, and a, a and date, record, and and and, as a, and, the1: 0 and a 12-20 and 177 hours,  [20: [0250005,13 and:  date. a, last, 0 [00. and,0:0. and: 0 (August, a by the and a and.,, one,,  ( and a [10- and one day (0. and in and  and, a.0,  and (1, the "1100,1, 1, 0 but in  with the,,1000100037017777 [10
+. [100. H and. An.
+0, and: the in " and: an [2 and the  and the. and and  and and: in (an  and,  and in and — and, and, and. and, on the (1. [, 1 and 3. 6 for the anient, an.  an.. in the an, a (3. 777 and 0 overistic with [last in the,  with [1 and,  [0 [and in the ( in the  over. an over over over the in the last over., and over the and one over in the, a [1.7 and the in the,  by the, with a by,  [:,  and. [3 " [ and - 1 in the-1 and:  by and-last in the, [ in the [- by,-in in " an in an, a:  " by [-c [: an [ -
+ - by the - a and by: [ by [  - and : the  by [ -d H: by ( [ (: an [ and, by and [ and and:  [ and, in the, and by and and and and:  and, [,, an ( [col ( an and. an and -, [ of and - - in and an an  - [ and, [ with and [ [ and -: [. [. with in, with and,  an by, with [0 by [ and:0 - with  with.-  and-c [ and [: [-2-1 [ - — [.. and,- - - w. [ -,., - – [,,-  an (, [, [ to the [ to an-  [  that and of - of and of,- a,  [[ - [ and,- [:,,- and, - [[. [ – -- - H,- H [ an ( - [ in and, [- and (- [ [ -:  -  and ( - [,- and and- and ( and [- [ - (, and- - ( -, [,, [, and, -, -n (, and and,, and- [. -.  of, of, of. a and the a and and ( with and ( and and-c.. X-1- and.. and.,-1 in -1- and x and or- " w and- and- - and " and [ for and a- X for [ one X " X a and x and, X and  [1- - [ and, in " and-0 X [ [ and [ [ and [ and [: (- ( and [ to x and and X and in X. [, and ( X, [- and- [ of  of  of (- (-- [ X - - [ -, (-1.: [. - X [ in and X. - [- --
+ X - X
+ a ~ in a and of the and (- of ( [ ( of [ ( m of c  (- and and-- [[ (, ( X and [[ and ( ( and and.. [,, ( ( X ( and -, [ N ( ( [ X and X and ( ( X and ( X- [[- and ( (,- X and-  X and- X, X0 [0 (, X (. X ( ( X ( ( ( X and her1- [ [ ( X X- X0 ( [- [-0 (- (-- m- (- m- - a- and- X. ( - and - (- and, [- (- ( ( -- of [-, (-. of of of [ of (, [2, [0 [ [ and (-/- and-- -,., ( X and, (, X and --: (. (, and, [ [ - ( X ( X, [ ( X, X and, ( and or [- and and ( ( and,- X- [ (..  and ( and. - (, or ( (. [. ( X - of (.- X and., and  [- ( X X, and (-  [ X X- - -  and- and [ and X.  (-0, X and- ( "2- n-- c-- X- [.- X. X ( c and( x ( c- and and- c- ( and-- (- - (- ( X ( or- " and0- ( and, and X (- (: - ( and (- (  ( ( and, - - to ( ( to  to, [ [ ( and ( c or.  and. X, and or or and - ( in and. and n and and and and and [. [ and and ~- [ ( and - and: X: and or or- and- or- ( and [- C or ~ and c- and, ( and--- ( F- c- and and- m- A ( m and X- X and m and (- and [- and and and an- and- or ( or and,, and- A- (

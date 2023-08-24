@@ -1,0 +1,239 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2095-12-11
+
+SECTIONS OF THIS NOTE WERE CREATED WITH A 'COPY AND PASTE' ACTION.  THESE SECTIONS MAY NOT HAVE COPIED COMPLETELY.  PLEASE USE CAUTION WHEN RENDERING CLINICAL JUDGMENT BASED ON THE INFORMATION IN THIS NOTE.
+
+CCU JAR ADMIT NOTE 
+
+
+
+
+Name:    Amador Jarvis
+MR #: 0907307
+Date of admission: 12/11/95
+JAR: Larry Oates MD PhD
+Attending: Dr. Ickes
+PCP:     Orvell Oliver MD
+
+
+CC/ID: 82M w/ h/o HTN, CRI, DM2 and + h/o smoking w/ no known CAD p/w syncope and an inferior STEMI 
+
+
+HPI:  82M w/ h/o HTN, CRI, DM2 and + h/o smoking w/ no known CAD p/w syncope and an inferior STEMI. Pt has been in his USOH.  This AM while shoveling snow he started to feel &#8220;unwell&#8221; c/o dizziness, slightly nauseous and sweaty.  He denied CP, SOB/V/diaphoresis. He may have had a similar event 3 years ago during heavy exertion (1 episode).  He felt this was like prior hypoglycemic episodes.  Pt went inside, called for his wife and then syncopized. Estimated total LOC ~5 min.  He awoke as his wife returned to give him the OJ and felt completely better after drinking it. arrived to find the pt with STEMI in inf leads. Pt was given asa and was taken to the ED for further management. 
+
+
+ED course: Pt was bradycardic but hemodynamically stable P59, BP112/63). He was found to have a new RBBB and new STE in 2, 3, avf and V3-V6 with depressions in 1, avl. Pt had no chest pain through out the entire duration, but felt generally unwell. Was started on heparin, lipitor, NAC and cardiology was called. 
+
+
+Pt was taken to the cath lab and found to have 3VD w/ severe proximal LAD lesion, a diffusely diseased Cx/OM2, and a severe RCA lesion, which was felt to be the culprit. A BMS to RCA lesion. Pt was plavix loaded and started on a bicarb drip.   
+
+
+ROS:  Per HPI. No F/C/NS.  No SOB/cough/hemoptysis/wheezing/sore throat/rash.  No GI/GU complaints. 
+
+
+PMH:  
+
+Hypertension
+CRI b/l 2.5
+DM2
+Elevated PSA
+HL
+Colonic tubular adenomas - 8/2091
+Gout
+Depression
+
+
+Medications on admission:
+
+ATENOLOL   50 MG QD
+Centrum Vitamins   QD 
+CITALOPRAM   40 MG (40MG TABLET take 1) QD 
+Enteric Coated Aspirin (ASPIRIN Enteric Coated)   81 MG (81MG TABLET take 1) QD 
+Hyzaar (25 Mg/100 Mg) (HCTZ 25mg + Losart...   1 TAB QD 
+Prandin (REPAGLINIDE)   0.5 MG (0.5MG TABLET take 1) as directed x 90 days, 1 tab before breakfast and lunch. 2 before dinner.
+Pravachol (PRAVASTATIN)   20 MG (20MG TABLET take 1) PO QHS 
+
+
+ALL:      captopril  - possible rash, cough
+SH: Lives with wife of 57 years. Has several kids all grown. Former smoker 7 years, 30 years ago. No IVDU or ETOH.
+FH: M &#8211; CAD 60s, F &#8211; CAD 80s
+
+
+Physical Exam:  
+V:  HR: 55 BP 131/50 100% 2l
+Gen:  AAox3 NAD well appearing elderly man
+HEENT: PERRL, EOMI, sclera anicteric.    
+Neck:  Supple, no thyromegaly, no carotid bruits, JVP 8-9 
+Nodes: No cervical or supraclavicular LAN
+Cor: RRR S1, S2 nl.  No m/r/g.
+Chest: CTA laterally   
+Abdomen: +BS Soft, NT, ND.  No HSM, No CVA tenderness. 
+Ext: No C/C/E.  
+Pulses: Carotids 2+, no bruits, +2 DP/PT, 2+ radial. Venous and art sheath in right groin. B/l no fem bruits w/ 2+ pulses.
+Skin: No rashes.        
+Neuro: non-focal
+
+
+Labs and Studies:
+
+
+              12/11/95  
+              11:50     
+
+
+NA            137                                                               
+K             5.1(H)                                                            
+CL            103                                                               
+CO2           26.5                                                              
+BUN           54(H)                                                             
+CRE           2.5(H)                                                            
+GLU           184(H)                                                            
+
+
+              12/11/95  
+              11:53     
+
+
+CA            9.6                                                               
+PHOS          3.0                                                               
+MG            1.6                                                               
+
+
+              12/11/95  
+              12:03     
+
+
+CK-MB         Negative                                                          
+TROP-I        Negative                                                          
+
+
+              12/11/95  
+              11:50     
+
+
+WBC           7.1                                                               
+RBC           3.99(L)                                                           
+HGB           12.9(L)                                                           
+HCT           39.8(L)                                                           
+MCV           100(T)                                                            
+MCH           32.3                                                              
+MCHC          32.5                                                             
+PLT           267                                                               
+RDW           13.8                                                              
+DIFFR         Received                                                          
+METHOD        Auto                                                             
+%NEUT         66                                                                
+%LYMPH        25                                                                
+%MONO         5                                                                 
+%EOS          4                                                                 
+%BASO         0                                                                 
+ANEUT         4.64                                                              
+ALYMP         1.76                                                              
+AMONS         0.38                                                              
+AEOSN         0.25                                                              
+ABASOP        0.02                                                              
+ANISO         None                                                              
+HYPO          None                                                              
+MACRO         1+(H)                                                             
+MICRO         None                                                              
+
+
+              12/11/95  
+              11:50     
+
+
+PT            12.4                                                              
+PT-INR        1.1                                                               
+PTT           23.7                                                              
+                                             
+
+
+CXR: No acute process
+
+
+EKGs: 
+2085: sinus brady, nl PR, LAHB
+12/11 11:25A sinus 1st degree AVB, LAHB, w/ RBBB ~0.5-2 mm STE in III. TWF in aVL
+12/11 11:35A 1st degree AVB, LAHB, RBBB, 4 mm inf STE, 3-4 mm STE in V3-5
+12/11  3:35P CCU admit / post cath: 1st degree avb, LAHB, RBBB Resolving inf STE.
+
+
+
+
+A/P: 82M w/ h/o HTN, CRI, DM2 but no known CAD p/w syncope, new RBBB and inferior STEMI.  Intervention on acute lesion today and possible may get re-eval for left-sided circulation with either staged PCI v. CABG.  
+
+
+
+Ischemia: 
+
+ASA/plavix, heparin, integrilin. Lipitor.
+CE until peak
+A1c/lipids, BB if room. 
+Staged PCI vs. CABG
+Pump: Pending TTE 
+
+Has not tolerated ACEI before. Can consider ARB if BP room. If difficulty w/ hyperkalemia could consider small standing doses of kayexolate.
+Currently appears euvolimic
+Rhythm: Sinus w/ old LAHB, new 1st degree AVB and new RBBB.  Given right-sided lesion at risk for complete HB.  
+
+Observe for now. Hold BB
+Per AHA guidelines class I transcutaneous if develops CHB.
+Holding BB for now.  
+Daily EKGs. Tele.
+Renal: NAC, gentle fluids (bicarb)
+DM2: f/u A1c. RISS
+FEN: cardiac/diabetic
+PPx: heparin for now, ppx when sheath out
+Dispo: pending
+Code: FULL
+
+
+
+
+_______________________________________________________________________
+Name     Larry Q. Oates MD PhD                          
+Pager # 34071
+PGY-2
+
+
+
+
+
+
+
+
+
+
+
+name and names and name: names... 10 and a.
+
+d: 1, name, as
+the: the 
+andific:1: (name:
+The...
+0
+1 (10 or...
+
+
+
+removeable are, the... (d of... and are, 
+
+[the (
+are: 
+1:
+(the and or and, orally and...
+and, and a...
+
+the, a
+the, 
+11 or [and, orally and the "
+(
+(... include 1... are the [1-... of a (1, as (the and (and, as:
+, and, and, the, or, or, or, and or, 5... or, 0,
+and (the, 2, 11, 1 and are (can & (and.
+, 1 (are, and,  and, 3, but, and (A and of are, or, ( and: and the and (with: and:
+...with and the &. 3. &... 1 "1 & " 
+  [1 [are [are or-le are and-are of the 2... and  or & the " or, an and, 1, [and, and, or, 0. of the are, 1, an, (, &, an, (1 &, an, 12 (c might [2 and, 1, and, an (AN, an, an, AN & (M, 1 and &. an, an, an, an, 1 and, an, (and and, and [ and and or and, and and, 1, or, an (c in the (2, (d, and, and in, an, & " and, 1, an of the an [an, and, are an have are,  have " 2-an, an are an are-an or of it, an of:: an: An An: the and: (: "and, ( an: (: An and or:: [C: an an ( an and an:: an with an: - an:: ( of - [ an and an are an in are an " in ( an ( or,,. of of [. of the and an ( (.  and, and, [ in and. ( an, [ or and and,  [ and [ and [an ( and and and by an and an in and, or, in in,, are, and in, an or or in,, and and and, and,,  and - or in  or (  of 0,  of the and,  an, and,  or, in ( an  or and of ( or of [ of “ or ( or an of, and in or -,  & of, in or,, were-  of an or or of or in an,  or- or and are and and and of are of  of the of and of the of, and  and: [ in or, and  and and in or or  or  an  of the of,  and  and:  an of or- and  of An An An  and, and,, and,  and and and or and an, and or  and and- or and, (, (  in, of an of   of, of a and and of or and and for of, and and,  or an- 0 of, of  and of of of  of and of the an of the and,,  and, [, are,  are and are and are an  and and- and  in  and  and-,  an and  an of  or [ 0 [0 C An W An C- w or and, or w or or and  (, are and, C or and are an are  or an- M and ( C and and in an  c- -.  or  and of  of and and or  w  C and ( C or. [ and  and (. - and c ( and and of   and.  and w and  and and  and C. and of a and-  C of or   ( C  or w ". and -1 and or or of  of an and of of of  of and and, C- and  and, and  and. and for, w,  of of of of  of of and and of  of of of of- and ( and of the C, and, ( and and- and, C and an or and and and. and  and. and or of and and and and and (. and w,  or, of and and of  of of and of of  C ( and and and, c, [ and and- and of  and  of ( and ( or  and an,, and-  in C- B  C C C C and and and or (, C C L and and and and C and, C and c (  and, and C w, and, and C and and and   and C M and,, and and and or and and C C and C  c and,, C w and and, (,. in, and ( and and, and and and,,. and and, of ( and, C and, w C w, and and, ( and C and C and,.. ( and and  and ( of  and  C C w-  P P in- and w- and C of and, and, C of of, and, C and  C  O C C, and. -.  (. and...  C C C C C An  M C C C C. O  and- and C and C M. M I C and I C C M C C and. and C and and and C I ( and C and and of, and of P and C C and ( P C C C- C ( and C M and, and ( C and, L to, H I H and, C C and O  O and H-  and and. and and in and of M of, O, C, M, C and, C ( C (, w c, and and. ( to, I to and and and to L C M M of and. C of, M. and of and and and ( C M and and M and and C I M C of, and M M (, and M and and, and C M and and N and I and and and, L and m

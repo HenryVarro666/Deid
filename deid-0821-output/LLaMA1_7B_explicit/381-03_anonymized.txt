@@ -1,0 +1,565 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2092-12-26
+
+
+Diabetes CONSULT REPORT
+
+
+
+CC    
+Asked by Dr. Katz to see the patient for assistance with management of hyperglycemia.
+
+
+HPI   
+This is a 50 year old male patient with a history of type 1 diabetes diagnosed 40 years ago at an age of 10. Pt was initially treated with insulin and has been requiring insulin since diagnosis. Pt was started on an insulin pump in 2079. Current basal rates are 0.6 units from 12am-6am, 0.7 units from 6am to 6:30pm and then 0.6 units at 6:30pm again. Pt uses a carb ratio of 10:1. Pt cannot recall her correction factor as it is programmed into her pump. Monitors her blood glucoses at least 4 times per day and reports variable glucoses for 70-&gt;200. Reports hypoglycemic episodes 1-2 times per week and she is usually symptomatic with glucoses of 70. Reports that she was admitted to the hospital about one month ago with DKA. States that she had flu-like symptoms and severe vomiting and was admitted ot Ames Pathology Center for treatment. Had never had DKA before. Pt reports complications associated with diabetes. Reports retinopathy and has had several laster surgeries. Reports nephropathy as well as an episode of renal failure related to a hospitalization this summer. Reports peripheral neuropathy as well as peripheral vascular disease, including non-healing ulcers that have lead to right TMA. 
+
+
+Patient is admitted for stenosis of right bypass graft stenosis and is going to the cath lab for angiogram shortly. Currently receiving D5W with 150 meq of Bicarb at 125 ccs/hr for renal protection. 
+BG today (with IV fluid infusing): 230 (4am), 271 (9am), and 195 (11am - prior to leaving for cath) 
+BG 12/25: 152 (1pm), 196 (6pm), 172 (8pm)
+Pt is using her insulin pump. 
+ 
+Allergies
+Erythromycins - rash 
+Sulfa - rash
+Aspirin - rash
+
+
+
+
+Medications             
+Diabetes medications at home included: Insulin pump, see HPI
+Diabetes medications now include: Insulin pump
+
+
+Problems
+Anemia 
+Anxiety 
+Deep venous thrombosis 
+Depression 
+Hypothyroidism 
+Palpitations 
+Right TMA
+Let ankle fracture
+                        
+FHX
+No history of hormonal disorders in any family members 
+                  
+SHX and Habits
+Non-smoker
+ 
+ROS 
+Patient is post-operative. 
+
+
+Physical Examination
+General:  Patient is in no apparent distress.  
+Vitals: BP 110/60, HR 99, Temp 
+HENT: Inspection reveals no abnormalities. 
+Eyes:  Conjunctivae, sclera and lids are normal. No icterus. 
+Respiratory:  Assessment of respiratory effort reveals even respirations without use of accessory muscles
+Skin: No skin rash, warm and dry skin.  No acanthosis nigricans.
+Neurological Examination: Alert and oriented to person, place, time, and situation. Grossly nonfocal exam.
+Psychiatric: Mood and affect appropriate to situation.
+Extremity exam: No pedal edema, right foot with bandage.
+
+
+Lab Results
+12/25/2092 NA 136,  K 4.5,  CL 107,  CO2 22 (*),  BUN 52 (*),  CRE 2.11 (*),  EGFR 25,  GLU 212 (*)12/02/2092 HGBA1C 9.0 (H)12/25/2092 WBC 6.55,  RBC 4.34 (#),  HGB 10.5 (*#),  HCT 33.5 (*#),  MCV 77.2 (*#),  MCH 24.2 (*),  MCHC 31.4 (*),  PLT 302 (#) 
+Assessment 
+T1DM - Uncontrolled. Pt appears alert, oriented and confident to use her insulin pump in the hospital. Pt is able to verbalize her insulin doses and states that she would prefer to continue with pump use. Suspect that IV fluids are contributing to hyperglycemia, therefore reluctant to change insulin doses since IV fluids will likely stop later today. While in procedure, will need to monitor blood glucoses more closely, but anticipate that pump can continue as programmed. 
+
+
+Recommendations
+1. Continue with insulin pump. Instructed pt that she must:
+       a. report all pre-meal bolus doses to the RN so that it can be documented on the 
+       flow sheet.
+       b. have blood glucoses checked as ordered using the hospital approved glucose meter. 
+       c. alert RN if she feel uncomfortable using insulin pump. RN should page HO and/or diabetes dept 
+       immediately for orders for SC insulin. 
+       d. agree to discontinue insulin pump and start SC insulin if deemed necessary by house staff. 
+Pt agrees to all of the above. 
+ 
+2. Monitor blood glucoses at least before all meals and at bedtime. Please also check blood glucoses with any symptoms of hypoglycemia or at pt's request. Be sure to record these values on the daily flow sheet. 
+ 
+3. For procedure today, I spoke with Kathryn Kincaid and asked that blood glucoses be monitored hourly while in cath lab unless BG is less than 140. If BG less than 140, monitor blood glucoses every 30 minutes. Treat BG less than 80 with 1/2 amp D50 and continue to monitor as described above. Do not remove insulin pump. Page 5-8112 with any concerns during the procedure. 
+ 
+Diabetes dept will continue to monitor. Please page 5-8112 with any questions or concerns. Thank you.
+ 
+ 
+________________________
+Faye Easley, NP
+       
+             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+
+
+
+
+
+                    
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               
+
+
+
+
+
+
+               
+
+
+
+
+
+
+
+               
+
+
+
+
+
+
+
+              
+
+
+
+
+                    
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               
+
+
+
+
+
+
+
+               
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+               
+
+
+
+
+
+
+
+               
+
+                  
+
+
+
+                     
+
+
+
+                       
+
+
+
+                                                                                                                                 
+
+
+
+                                                                                                                             
+
+
+
+               
+
+                    
+
+
+
+
+                    
+
+
+
+
+
+                    
+
+
+
+
+                       
+
+
+
+
+
+
+               
+
+
+
+
+
+               
+
+
+
+
+                     
+
+
+
+
+                                                                                                                               
+
+
+
+                                                                                                                                     
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+             
+
+
+              
+
+              
+
+              
+
+              
+
+  
+
+               
+
+               
+
+               
+
+                 
+
+                 
+
+   
+
+                  
+                   
+                 
+                   
+                  
+                  
+                     
+                 
+                   
+                     
+                 
+                 
+                     
+                 
+                  
+                    
+                     
+                     
+                 
+                  
+                 
+                 
+                 
+                     
+                 
+                 
+                       
+                   
+                 
+                 
+                 
+                        
+                         
+                 
+                 
+                 
+                 
+                 
+   
+                 
+                 
+                 
+                 
+               
+                 
+                 
+
+                
+                 
+                 
+                 
+                 and                 
+                 
+                  
+                
+   
+                   
+                 
+...
+
+
+
+
+                  
+
+                
+                
+            
+
+
+                 
+                 
+
+
+
+
+
+ 
+ 
+
+                
+
+                
+
+
+
+
+
+
+
+
+
+
+            line of
+    line 
+
+
+ 
+
+
+
+ 
+
+
+                 
+
+
+
+        
+
+
+
+
+
+
+
+
+line of
+
+
+
+
+represent line of line data of
+names of
+represent name or line, line of
+represent names, line
+
+
+
+
+
+
+
+
+re. 
+represent line
+or...
+[represent
+
+represent line, line of... 
+names line, line, line:, date 
+, line. Reader names 1 and line 
+
+
+12 of the patient name of the line. 
+
+
+13.
+or...
+ind...
+
+... and, 1, names, or, or, and names
+or names (the age,  and names, names, or 10, etc. would, or a, but would...
+The, the following and line, line, the following names, the patient name, the... 2-3-15…the and the following the name, name with the: the name: you, and...the patient-ind, the patient, the following…
+
+1, and: […
+w (the [11 of … (and (10,... by the “are: 
+ind are the names: 1 and: and or, 3 and “or, and... and the, [
+
+and the,... and (ind, the "1 and and and  and a "and-1 and are, and would 5 are... are and are and the and the (name of (12: and, 1, and the are the [1, or and... and, and are, and, 1 (1, the, 1, and, and, (1., and, and, (le, or. [1. 1, and, and, or (0, a in the, and, the, the,
+in of the,
+, the, and and, a 1 in 1 (and with the-patient with the 1: " 2 1 ear and "in (can 2 are- are are, are are, are are of 3 and by a or 1 1 (1. “[le or, anine, and, the of the and the [2 and, and and, and are, (1 in the (1, are the will, an might and are the and-2 or (an, 1 an, 1 and, or, and, the and-and and of and and, and and and and, 1 and, [and are and in a, an (an, a and and an an, " 2 of " of the and and an 2, and, and, the in, (h, " of an "An and, and an “and, an, 2, [1, with the and in the "2 of the or an: an and, :  and: (1 and: and-1-1-2 (1-make or: : " :  in a-d [:: : or: an and and-ind and: an ": " or of an-1 and “ or " ( are ( and ( and ([. an. " and an of the of the an " an.,, and, and an and and, in and and or in the, [ and  are- or [ [ [ and, and, ( in, from in  from the [- are or an are and are ( are are or an  [ an in "  [ " an, and are and in ( and- - ( are of the of- or an and and in the or and in the and,-  with,, and and, an of  of, and [ of and of “ and and are - ( or in- or an or are or, or or of in or in or ( or in, An An An or,, and and, in of the and in of the and  of ( - [ and,  or an and and or or,- or and  and-  and of a-  in or (1 of an of or-1 and or- or-1-2 (- or,,, or, or, and,  ( and or (  and and, and, and an, and and ( an, or and- for ( and of or  for- or and (0- -1 or ( with, or, for, for for for or of of- and of of of and of and of the,-2-for and and and, (,, and-and and- -0- -c- -c- by-1-t and ( or [- by ( or, by and- and (  and by and and- ( or by (,-c by- and [ and or or for-  or- or- or for by and- and-  and- and for by with for for and, for for of ( with by for by for by and ( and and for c with, with for and-m ( and c for- by- : ( and ( for by-c and-c and-c-c-  m c-  " and " and  and-  and and- and- or (- and-1- of- of of ( of  of the- am (- and- or  and and- and- and by as  or, - of of of of of and of of, of- and and and- and and- and- or,- and-,- as- or ( and and- -, and or - or- c- and-  ( and- and- and- [,- C- of and  and- of and-c-  [ (- and- and and- or ( and and-c of and of - and [ ( or-1 and, and- or (- and or-  and c and and- and - - and and- and and for (,, c- C and [ (,, c t - and (  [ [,  - and [ and, - and in- or, c- and, and and in, and t and- and, and and [,-2  and or and and ( and- and and and,,,, and., ( and,. [- - and- and, and- are-  (,- and  and- - a  am-,- c and [ - - C- and-,,,- of and of  [,,,, [ and.  (., [ per (,,, ( P.-1-t p- with  c and or..  c ( c (.. - with -  C of with and and ( and and – and - and and and  p- A- ( - and and, [ or- and - and  and and. p,, and and p, or, and, and (, or, and or and,. - ( - and- and and  - and p,. and- and - and- and,, p- ( -,, and, and,. ( and, and-am- and, (, and and t or,, and -- (, (,, and ,, and and- (, ( per, and and:,.-,.- -- am and and,. and.  (- and, and is per,.,,,, and and

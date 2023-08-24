@@ -1,0 +1,285 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2069-04-07
+
+ 
+ 
+ 
+Mr. Villegas is seen today.  I have not seen him since November. 
+About three weeks ago he stopped his Prednisone on his own because
+he was gaining weight.  He does feel that his shoulders are
+definitely improved.  It is unclear what he is actually taking, but
+I think based on the color of his pills and the timing of the
+medication that he continues taking his Atenolol for hypertension
+and 1 Hydroxychloroquine tablet.  He is concerned because of the
+relatively recent onset of difficulties turning his head to the
+right.  When he does this, he will note that he feels as though he
+is going to pass out although this has not actually happened.  This
+only occurs when he turns to the right and not to the left.  He has
+no visual changes otherwise and denies any headache or other
+cranial complaints.  
+ 
+On examination today, BP 120/80.  He has no bruits over the
+carotid.  He has no tenderness in this region either.  He has good
+peripheral pulses at the arms.  His joint examination is much
+improved with better ROM of the shoulders and no peripheral joint
+synovitis.  
+ 
+Clinical Impression:
+ 
+#1:  Inflammatory arthritis - possibly RA - with response noted to
+Hydroxychloroquine along with Prednisone.  He has stopped the
+Prednisone, and I would not restart it yet.  
+ 
+#2:  New onset of symptoms suspicious for right-sided carotid
+disease.  Will arrange for carotid ultrasound studies.  Patient
+advised to call me if he develops any worsening symptoms.  He has
+been taking 1 aspirin per day prophylaxis long-term, and I stressed
+that he continue to do so.  He will follow-up with me shortly after
+the ultrasound study.
+
+Xzavian G. Tavares, M.D.
+XGT:holmes
+ 
+DD: 04/07/69
+DT: 04/15/69
+DV: 04/07/69
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+### 3.25.10339.458.1025
+A clinical note has been submitted: 
+
+
+The clinical note was submitted to the registry at: 2022-01-06 12:00:49 by the clinician: Xzavian G. Tavares, MD, MHS 3332841105 (clinician) 
+
+The record id is 3.25.10339.458.1025. A value of 2 was specified in the registry for the type of note. The subject's demographics were set to: 
+Mr. Villegas is seen today.  I have not seen him since November. 
+About three weeks ago he stopped his Prednisone on his own because
+he was gaining weight.  He does feel that his shoulders are
+definitely improved.  It is unclear what he is actually taking, but
+I think based on the color of his pills and the timing of the
+medication that he continues taking his Atenolol for hypertension
+and 1 Hydroxychloroquine tablet.  He is concerned because of the
+relatively recent onset of difficulties turning his head to the
+right.  When he does this, he will note that he feels as though he
+is going to pass out although this has not actually happened.  This
+only occurs when he turns to the right and not to the left.  He has
+no visual changes otherwise and denies any headache or other
+cranial complaints.  
+ 
+On examination today, BP 120/80.  He has no bruits over the
+carotid.  He has no tenderness in this region either.  He has good
+peripheral pulses at the arms.  His joint examination is much
+improved with better ROM of the shoulders and no peripheral joint
+synovitis.  
+ 
+Clinical Impression:
+ 
+#1:  Inflammatory arthritis - possibly RA - with response noted to
+Hydroxychloroquine along with Prednisone.  He has stopped the
+Prednisone, and I would not restart it yet.  
+ 
+#2:  New onset of symptoms suspicious for right-sided carotid
+disease.  Will arrange for carotid ultrasound studies.  Patient
+advised to call me if he develops any worsening symptoms.  He has
+been taking 1 aspirin per day prophylaxis long-term, and I stressed
+that he continue to do so.  He will follow-up with me shortly after
+the ultrasound study.
+
+Xzavian G. Tavares, M.D.
+XGT:holmes
+ 
+DD: 04/07/69
+DT: 04/15/69
+DV: 04/07/69
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+### 3.25.10339.458.1026
+A clinical note has been submitted: 
+
+
+The clinical note was submitted to the registry at: 2022-01-06 12:00:49 by the clinician: Xzavian G. Tavares, MD, MHS 3332841105 (clinician) 
+
+The record id is 3.25.10339.458.1026. A value of 2 was specified in the registry for the type of note. The subject's demographics were set to: 
+Mr. Villegas is seen today.  I have not seen him since November. 
+About three weeks ago he stopped his Prednisone on his own because
+he was gaining weight.  He does feel that his shoulders are
+definitely improved.  It is unclear what he is actually taking, but
+I think based on the color of his pills and the timing of the
+medication that he continues taking his Atenolol for hypertension
+and 1 Hydroxychloroquine tablet.  He is concerned because of the
+relatively recent onset of difficulties turning his head to the
+right.  When he does this, he will note that he feels as though he
+is going to pass out although this has not actually happened.  This
+only occurs when he turns to the right and not to the left.  He has
+no visual changes otherwise and denies any headache or other
+cranial complaints.  
+ 
+On examination today, BP 120/80.  He has no bruits over the
+carotid.  He has no tenderness in this region either.  He has good
+peripheral pulses at the arms.  His joint examination is much
+improved with better ROM of the shoulders and no peripheral joint
+synovitis.  
+ 
+Clinical Impression:
+ 
+#1:  Inflammatory arthritis - possibly RA - with response noted to
+Hydroxychloroquine along with Prednisone.  He has stopped the
+Prednisone, and I would not restart it yet.  
+ 
+#2:  New onset of symptoms suspicious for right-sided carotid
+disease.  Will arrange for carotid ultrasound studies.  Patient
+advised to call me if he develops any worsening symptoms.  He has
+been taking 1 aspirin per day prophylaxis long-term, and I stressed
+that he continue to do so.  He will follow-up with me shortly after
+the ultrasound study.
+
+Xzavian G. Tavares, M.D.
+XGT:holmes
+ 
+DD: 04/07/69
+DT: 04/15/69
+DV: 04/07/69
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+### 3.25.9724.808.1026
+A clinical note has been submitted: 
+
+
+The clinical note was submitted to the registry at: 2022-01-06 12:00:49 by the clinician: Xzavian G. Tavares, MD, MHS 3332841105 (clinician) 
+
+The record id is 3.25.9724.808.1026. A value of 2 was specified in the registry for the type of note. The subject's demographics were set to: 
+Mr. Villegas is seen today.  I have not seen him since November. 
+About three weeks ago he stopped his Prednisone on his own because
+he was gaining weight.  He does feel that his shoulders are
+definitely improved.  It is unclear what he is actually taking, but
+I think based on the color of his pills and the timing of the
+medication that he continues taking his Atenolol for hypertension
+and 1 Hydroxychloroquine tablet.  He is concerned because of the
+relatively recent onset of difficulties turning his head to the
+right.  When he does this, he will note that he feels as though he
+is going to pass out although this has not actually happened.  This
+only occurs when he turns to the right and not to the left.  He has
+no visual changes otherwise and denies any headache or other
+cranial complaints.  
+ 
+On examination today, BP 120/80.  He has no bruits over the
+carotid.  He has no tenderness in this region either.  He has good
+peripheral pulses at the arms.  His joint examination is much
+improved with better ROM of the shoulders and no peripheral joint
+synovitis.  
+ 
+Clinical Impression:
+ 
+#1:  Inflammatory arthritis - possibly RA - with response noted to
+Hydroxychloroquine along with Prednisone.  He has stopped the
+Prednisone, and I would not restart it yet.  
+ 
+#2:  New onset of symptoms suspicious for right-sided carotid
+disease.  Will arrange for carotid ultrasound studies.  Patient
+advised to call me if he develops any worsening symptoms.  He has
+been taking 1 aspirin per day prophylaxis long-term, and I stressed
+that he continue to do so.  He will follow-up with me shortly after
+the ultrasound study.
+
+Xzavian G. Tavares, M.D.
+XGT:holmes
+ 
+DD: 04/07/69
+DT: 04/15/69
+DV: 04/07/69
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+### 3.25.10325.2334.1026
+A clinical note has been submitted: 
+
+
+The clinical note was submitted to the registry at: 2022-01-06 12:00:49 by the clinician: Xzavian G. Tavares, MD, MHS 3332841105 (clinician) 
+
+The record id is 3.25.10325.2334.1026. A value of 2 was specified in the registry for the type of note. The subject's demographics were set to: 
+Mr. Villegas is seen today.  I have not seen him since November. 
+About three weeks ago he stopped his Prednisone on his own because
+he was gaining weight.  He does feel that his shoulders are
+definitely improved.  It is unclear what he is actually taking, but
+I think based on the color of his pills and the timing of the
+medication that he continues taking his Atenolol for hypertension
+and 1 Hydroxychloroquine tablet.  He is concerned because of the
+relatively recent onset of difficulties turning his head to the
+right.  When he does this, he will note that he feels as though he
+is going to pass out although this has not actually happened.  This
+only occurs when he turns to the right and not to the left.  He has
+no visual changes otherwise and denies any headache or other
+cranial complaints.  
+ 
+On examination today, BP 120/80.  He has no bruits over the
+carotid.  He has no tenderness in this region either.  He has good
+peripheral pulses at the arms.  His joint examination is much
+improved with better ROM of the shoulders and no peripheral joint
+synovitis.  
+ 
+Clinical Impression:
+ 
+#1:  Inflammatory arthritis - possibly RA - with response noted to
+Hydroxychloroquine along with Prednisone.  He has stopped the
+Prednisone, and I would not restart it yet.  
+ 
+#2:  New onset of symptoms suspicious for right-sided carotid
+disease.  Will arrange for carotid ultrasound studies.  Patient
+advised to call me if he develops any worsening symptoms.  He has
+been taking 1 aspirin per day prophylaxis long-term, and I stressed
+that he continue to do so.  He will follow-up with me shortly after
+the ultrasound study.
+
+Xzavian G. Tavares, M.D.
+XGT:holmes
+ 
+DD: 04/07/69
+DT: 04/15/69
+DV: 04/07/69
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+### 3.25.9724.808.1027
+A clinical note has been submitted: 
+
+
+The clinical note was submitted to the registry at: 2022-01-06 12:00:49 by the clinician: Xzavian G. Tavares, MD, MHS 3332841105 (clinician) 
+
+The record id is 3.25.9724.808.1027. A value of 2 was specified in the registry for the type of note. The subject's demographics were set to: 
+Mr. Villegas is seen today.  I have not seen him since November. 
+About three weeks ago he stopped his Prednisone on his own because
+he was gaining weight.  He does feel that his shoulders are
+definitely improved.  It is unclear what he is actually taking, but
+I think based on the color of his pills and the timing of the
+medication that he continues taking his Atenolol for hypertension
+and 1 Hydroxychloroquine tablet.  He is concerned because of the
+relatively recent onset of difficulties turning his head to the
+right.  When he does this, he will note that he feels as though he
+is going to pass out although this has not actually happened.  This
+only occurs when he turns to the right and not to the left.  He has
+no visual changes otherwise and denies any headache or other
+cranial complaints.  
+ 
+On examination today, BP 120/80.  He has no bruits over the
+carotid.  He has no tenderness in this region either.  He has good
+peripheral pulses at the arms.  His joint examination is much
+improved with better ROM of the shoulders and no peripheral joint
+synovitis.  
+ 
+Clinical Impression:
+ 
+#1:  Inflammatory arthritis - possibly RA - with response noted to
+Hydroxychloroquine along with Prednisone.  He has stopped the
+Prednisone, and

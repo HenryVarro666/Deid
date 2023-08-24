@@ -1,0 +1,197 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2084-12-07
+
+
+Pulmonary Service Admission Note
+Vicente Aguilar #98179909
+December 7, 2084
+
+
+HPI  51 y/o male with cystic fibrosis, pancreatic insufficency and CRI who was last admitted for cleanout in 1/2084 now presenting after being seen by Dr Mann as outpatient on long island with newly increased creatinine above baseline and to initiate cleanout. He notes he has been doing fairly well this last year. He was seen for a physical by his primary care physician Dr Haas on November 13th at which time he reports she told him he was doing well. Dr Mann followed up with her on his lab studies and results and called Mr Aguilar on friday alerting him to the change in his renal function. It was decided that he be admitted for renal work-up as well as initiating cleanout as he does his cleanouts yearly. He notes he has felt generally well with no increased cough or sputum, chest pain or tightness. He notes he has 'danced around' some cold symptoms earlier in the summer but has had none since. He denies any fevers or chills and notes he only gets sweats if he has a low blood sugar. He denies any N/V, diarrhea or constipation and has stable appetite. He notes stable weight of 185-186 lbs. He notes he has had erratic control of his blood sugar as he does at times 'forget' to give himself insulin. He does monitoe his BS four times per day. He denies any dysuria, hematuria or urgency. he does note frequency has increased over the year, he now urinates every few hours. He denies any sore throat or sinus pain, does have occasional mild congestion. 
+
+
+Reviwe of systems: he has a flu shot, denies sick contacts. notes his prostate exam at his PCP office was reported to be normal. denies reflux symptoms, does have feeling of pills "sticking' when he swallows them occasionally. 
+
+
+PMH:
+Cystic Fibrosis
+Pancreatic insufficiency
+CF related Diabetes Mellitus
+Hypertension
+Nephrotic syndrome (baseline creatinine 1.1), chart dx at CHB of GN, unclear source of dx
+Gout
+Cataracts
+
+
+Allergies: NKDA
+
+
+Medications:  
+Aspirin 81 mg po daily
+Colchicine 0.6 mg po daily
+Probenecid 250 mg po bid
+Azithromycin 500 mg po q thu/sat/Monday
+simvastatin 20 mg po qhs
+Cozaar 50 mg po BID
+Accolate 20 mg po bid
+Albuterol inh prn
+Plaretase 8000 6 tabs po qac/ snacks (what his pharmacy switched him to as pancrecarb not available)
+Protonix 40 mg po daily
+Lantus 12 u qhs
+Humalog scale ac
+
+
+FH/SH: lives on long island with partner of 4 years, she is a Notary. Works in shoe repair. Denies tobacco, usually drinks daily galss of grand marnier. notes prior daily marajuana smoking, now 3-4 times per month recently.
+
+
+PHYSICAL EXAM (in CDIC): 
+Vitals: see nursing flowsheet
+GEN:NAD. Pleaseant male. Nad.
+HEENT: PERRL, op moist, with no exudates, no sinus pain or tendernes, no LAN
+LUNGS: clear to auscultation bilaterally, no wheezes or rhonchi
+HEART:S1S2 reg, no m/g/r, rrr
+ABDOMEN:soft. NT/ND, active BS, no HSM
+EXT: trace digital clubbing b/l, trace b/l ankle edema
+NEURO:alert and oriented x 3, no focal deficits
+
+
+
+DATA (from CHB):
+-reported BUN/Cre from PCP office- 68/2.1
+-no other updated data
+
+
+Assessment/Plan:  Mr Aguilar is a 51 M with cystic fibrosis and hx of CRI who presents now with significant worsening of his renal function seen on outpatient labs as well as it having been nearly one year since prior cleanout. He is being admitted for initiation of cleanout and evaluation of renal dysfunction. He will be admitted to pulmonary PA service.
+
+
+1) Pulm/ID: Based on his past sputum culture studies from CHB and his renal function we will start him on Ceftaz at renal dose of 2g q24h and cipro 250 q12h. Have used aminoglycosides in the past but given his renal function will avoid these at this time. Will get a f/u CXR to compare to his study done last year to assess for any change. Will consult RT for Chest PT TID and discuss restarting hypertonic saline/pulmozyme. Will continue other pulmonary inhalers. 
+
+
+
+2)FEN/GI: Will maintain on high calorie, high protein CF diet and continue current regimen of vitamins and enzymes. Will get 
+Nutrition consult as patient has not been seen in quite some time. Will monitor bowels, currently stable.
+
+
+3) CV: history of HTN, will continue home cozaar and lisinopril for now but may consider alternative choices given renal dysfunction if needed. Will monitor vital signs.
+
+
+4) ENDO: CF related DM: will continue lantus and SSI and check FSBS AC/HS. Will send HgA1c given his report of erratic control at home.
+
+
+5) Rheum: Gouty arthritis has been stable, will contiue probenecid and celebrex 
+
+
+
+6) Renal: Recent BUN/creatinine as reported from his PCP is significantly elevated from his prior levels earlier this year. Patient has not been followed regularly by nephrology in the past. Unclear the exact nature of his renal dysfunction and the etiology of its worsening of late. Will send for renal ultrasound and send urine lytes, protein, creatinine and eosinophils to begin work-up and will consider renal consult.  Will start gentle IVF hydration overnight.
+
+
+7)Access: PICC line in IR today
+
+
+8)PPX: sc heparin , PPI
+
+
+9)Dispo: TBD
+
+
+______________________________________
+Francine Morales, PA-C
+68626
+
+
+
+
+
+__________________________________________
+Renal Service Admission Note
+Vicente Aguilar (#98179909) 
+December 7, 2084
+
+
+
+HPI  51 y/o male with cystic fibrosis, pancreatic insufficency and CRI who was admitted to the renal service on 12/3/2084 for cleanout. He notes he has been doing fairly well this last year. It was decided that he be re-admitted to renal service for cleanout as well as initiating cleanout as he does his cleanouts yearly. He notes he has felt generally well with no increased cough or sputum, chest pain or tightness. He notes he has 'danced around' some cold symptoms earlier in the summer but has had none since. He denies any fevers or chills and does have stable appetite. He notes stable weight of 185-186 lbs. He notes he has had erratic control of his blood sugar as he does at times 'forget' to give himself insulin. He does monitoe his BS four times per day. He denies any dysuria, hematuria or urgency. he does note frequency has increased over the year, he now urinates every few hours. He denies any sore throat or sinus pain, does have occasional mild congestion. 
+
+
+
+Reviwe of systems: he has a flu shot, denies sick contacts. notes his prostate exam at his PCP office was reported to be normal. denies reflux symptoms, does have feeling of pills "sticking" when he swallows them occasionally. 
+
+
+
+PMH:
+Cystic Fibrosis
+Pancreatic insufficiency
+CF related Diabetes Mellitus
+Hypertension
+Nephrotic syndrome (baseline creatinine 1.1), chart dx at CHB of GN, unclear etiology, unclear of dx at CHB of GN of ID of the following:
+Gout 
+Cataracts, does have feeling of pills "sticking" when swallower when he has feeling of dotted outpatient and his initials when he has feeling of punching and initials out patients initials out feeling, pats out, out. pats
+Feeling pats in pats of pats out. 
+
+patient outpatients of
+fe,
+pati and pats and out patient
+
+past, 
+patients and outpatients,
+, patt.
+and the outpatient outpatient
+
+of patients.
+pats or
+pats,
+p.
+
+practs of p, out
+patients in pati pats of 
+
+
+patent pats, the pati pats, pati outs
+and, or the pats or pats, pats, or
+pats, or
+ident p.
+
+
+
+past pats, patient names, names, out pats, pats, pts.
+p. The pati.
+pat.
+pat of pats.
+p. or pati.
+p
+
+p.
+
+past names,
+
+The letter names, the names, names, names. and pts of pts the patient of p.
+or patient names
+and of the patient of names.
+1, or
+1.
+names of date.
+pat, the names, names. 
+The [names (and, and [name, and p....the patient or name, or...
+
+(….
+are (the name...
+and 20 day numbers (2 or a and... (
+(the patient names 1...
+andized and the following.
+the... and [2:1 and name code of the patient names with the following patients, and the: the patient or the "d and the "… 
+are of the patient: orifiable patient are are, orative 1 orative are, 25 are orations (
+or are (1...and, the... or... and or...the: the "1, and: (d, and the 4...
+
+and the (
+
+of the, “(and…are, the... and the and... and the...
+1, the  and, and the (10 and and are, 1, 1 (0, the... and and and... (...
+[..., and, or, or, " and, or, and and, and, a... [(... [1, " 1 of a (...,, and, 40 in a and, and, are, 2,
+
+... the and, 4 and a and 110, and-pat [f with "the:
+names, anistic “
+...
+1: 1: 10 ( are-1 (le [0 are, a in the 1 and or (or of... by, the, the and,... (name, and, and, an [.
+. of the (. (, and and, and, 2, 1 orat, an or include, or, or an and, are, an, 1, an, an and, (2, an, and, an and and, and, an, (an by, and, a, an or an [1 in an or or, an or, and, an, or an " of an 0, 1, and the anine and, and, "in, 1, 3, (P, a, 5, an, 4 (1, 12-0 and,0 of an of a: and and, and-1 of it: 1 [: 1 and-d in the in the and: and: (:  in the [: an:: and: ( and: ( " ( an with: with an and in: and " of "  of [ (: and  " an-1 ( in " and, and of it of the of the an of the [ of the and in the and an, and,, " an and in (... An An or [ in the and or, and or or in [1 or in a in the "  and an- an and " and, ( " -  an and and in ( and, ( an, an are,,, or, of are ( of  of or of an and or " but or or in an and,  in the, an " and of the of the of and or and of, ( an an and, ( ( and and or " an an- in or of an for or or in, or- or, or ( or or or " or in or an- or of  of a or and of the of [, An An, and and in the and,- and ( and and and ( or  and- for  for or or in or or and [-1  an  " 0  or,  for ( and and for of the or, [ (, " and or,, " and  ( or an, or, an or or in an or of or or or and  or- and-  of a, he- and or " c and,  C of the of the  of  of of  to of of  of of  of,, and ( or to and an-  and to and to to and to and  to  to c to - to-to  and to and  (  and and and and to  to and to, an- an - or  or, - an or c  " for  or  ( or   and  ( c- or in -     "- ( or, "  and of and of of the ( and " c (, c- and, to (, c-C and c-  c " and   or:  and  or: and and-  t and  that c and and c- of the of " of c c that "  m- and or and and, [ and,  ( of and or of the of or or and and  and c and and and  to and or ( to  to  and an to,  an a  of or of of or,- of " C and- - and c and, and and,- an and  - ( and, and ( and. and and, and t in  or or  in  and " or,  and c c of an of of  of a of ( c  in c and  and, in, and and, and and and an,  of of and in  an in and in ( year and-c, ( al and or and al al and or, or  ( al or as c as al, (, c  and and and al al,, c in al and  - ( or ( or or c and ( and n ( in  and n or, and and and  and and,, c or or in and c, and and " and and and and and  " and ( and and and,, and, as, and with and c, as as,,,, or, or al c c. and n c a with and, a of a 2 of al, or and and last ( c or ",-b-g and and of of of of,,,, and, and and al in, -  ( and,  in and ( and and and or ( and to, c in/ c and  and in and in to m- and n and and m, and and " and, and or, c and and and, m and and " with and-h or and or al, in,  ", and or c " and and  m and,  in ( m and and,,, and and " c and c and and and, (. and (, and, ( and and- and and and and. to ( ad, and c, and ( ( (, a,, and, m m me m m- to and-t and in and and as and and. and and and in c and in to and as m and and m or to to  to to and as as a and to and and and, or m- or in, and and and and and to, m and,, c (,- and and is, and

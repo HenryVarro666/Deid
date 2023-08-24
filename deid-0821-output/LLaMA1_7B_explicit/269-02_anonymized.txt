@@ -1,0 +1,527 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2114-01-10
+
+
+  
+                      OFFICE NOTE
+  Quinten Dawson
+  MR#4692758
+  January 10, 2114
+  
+  Return visit.  Reason for visit: 73 year old male for evaluation/management multiple
+  issues.  
+  
+  Diabetes: he is on maximal dose of glipizide and Glucophage and A1C has been going up
+  steadily now to 8.0.  His sugars vary greatly in the morning from 100 to 174.  He hasn't
+  been checking pre dinner.  We discussed insulin and he really is quite against it.  We will
+  continue discussion open.  Asked him to check pre dinner sugars.  
+  
+  Coronary disease: patient had a mild posterior ischemia in 2112 on a screening stress test. 
+  He is actually having some progressive dyspnea on exertion and a sense of chest
+  tightness with one block.  He is a bit of a denier.  He hasn't tried nitroglycerin, which I
+  have given him.  I suggested he do that.  He will have a follow up stress test and we will
+  arrange a cardiology consult.  
+  
+  UTI: patient had an E coli UTI 9/13.  He doesn't really have much in terms of other
+  prostate symptoms and no nocturia.  He has however, developed urinary urgency again in
+  the last week or two.  Will check another culture.  May need urology referral.  
+  
+  Knee pain: patient with longstanding DJD of the knees.  Will have a consult at Christiana Hospital considering replacement.  
+  
+  Family history: unchanged.   
+  
+  Review of systems: status post an embolic stroke in 2111 and took warfarin for 2 years
+  and followed by Dr. Dillon.  He is still on Celexa for depression.  He is having hearing
+  loss with equivocal audiograms.  Suggested otology consult at Naples Community Hospital.  He has
+  a mild hypoproliferative anemia that is stable.  Sleep apnea.  All other systems negative. 
+  
+  Physical exam: his weight is 196 pounds.  Most recent 195.  BP was 140/70.  Pulse 60. 
+  Skin normal.  Nodes: none.  Chest clear lungs.  Cardiac: S1, S2 normal.  Grade II/VI
+  systolic murmur of mitral regurgitation (confirmed by echo).  Abdomen no mass or
+  organomegaly.  Extremities: mild venous stasis.  Trace edema.  DP pulses are 1+.
+  
+  Assessment: management of multiple medical problems as above.  Lab work up to date.  
+  
+  Disposition: every 4 months.  Comprehensive 5/14.    
+  
+  
+  Gerald Everhart, M.D.
+  Dictated/Not Read
+  
+  
+  Quinten Dawson
+  MR#4692758
+  January 10, 2114
+  Page 2
+  
+  /talbot
+  
+  cc.
+  Cardiology consult
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /talbot
+                                  PAGE 3
+    /talbot
+
+                                  PAGER NUMBERS
+  [redacted]
+  [redacted]
+
+
+  
+                                     /talbot
+     /talbot
+    /talbot
+   /talbot
+  /talbot
+
+
+  
+                                 /talbot
+    /talbot
+   /talbot
+  /talbot
+   /talbot
+
+
+  
+                                 /talbot
+    /talbot
+   /talbot
+  /talbot
+   /talbot
+
+
+  
+                                 /talbot
+    /talbot
+   /talbot
+  /talbot
+   /talbot
+
+
+  
+                                 /talbot
+       /talbot
+      /talbot
+     /talbot
+   /talbot
+    /talbot
+  
+
+  
+                                       /talbot
+      /talbot
+     /talbot
+    /talbot
+   /talbot
+  
+  
+                                                  /talbot
+  12345678901234567890
+                                                    /talbot
+                                                   /talbot
+                                                /talbot
+                                              /talbot
+                                            /talbot
+                                         /talbot
+                                         /talbot
+                                       /talbot
+
+
+  92345678901234567890
+                                                      /talbot
+                                                    /talbot
+                                                   /talbot
+                                                  /talbot
+
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+
+
+
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+
+
+
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+  /talbot
+
+                                                                               /talbot
+                                                                                  /talbot
+                                                                                        /talbot
+                                                                                         /talbot
+                                                                                          /talbot
+                                                                                           /talbot
+
+                                                                                             /talbot
+                                                                                                /talbot
+                                                                                                      /talbot
+                                                                                                         /talbot
+                                                                                                         /talbot
+
+                                                                                                            /talbot
+                                                                                                               /talbot
+                                                                                                                /talbot
+                                                                                                                 /talbot
+
+                                                                                                                     /talbot
+                                                                                                                        /talbot
+                                                                                                                           /talbot
+
+                                                                                                                             /talbot
+                                                                                                                                 /talbot
+
+
+
+                                                                                                                                /talbot
+                                                                                                                                           /talbot
+
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+
+
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+
+
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+    /talbot
+
+                                                                                                                                                                /talbot
+                                                                                                                                                /talbot
+                                                                                                                                            /talbot
+                                                                                                                                               /talbot
+                                                                                                                            /talbot
+  /talbot
+  /talbot
+  \talbot
+  /talbot
+  /talbot
+  /talbot
+
+  /talbot
+  /talbot
+  /talbot
+        [removed [removed
+                talbot.
+  \  [removed
+  /removed
+removed
+
+  /removed
+  /removed
+Removed
+  /removed
+
+  remed
+  /removed
+                 
+   
+  removed
+
+
+  removed
+removed.
+    removed
+Removed 10
+removed
+  [removed 
+
+removed
+removed remand...removed remed
+removed
+
+
+
+Removed remind...removed
+
+removed.
+The [red removed
+removed removed remeded. 
+removed
+removed
+removed
+information 
+removed information removed 
+removed removed,
+removed removed
+Removied [removed
+Removed...removed patient
+removed.reminded removed removed remind 1, but...
+Removed...removed names. 
+
+let with names: names with removed patient removed
+removed removed. (removed by are (the patient and name rem... or a few, 210 the patient. (remind 1, names, and...
+
+(name... (the patient name (
+
+or (remand the date, or [name, and the patient, and rem... 112, and the [the 17,  and any, the past, orated. 20.
+[20
+12.
+[1. 6, and: patient names, the patient, 1: the patient: 2, and “:
+dream, “… (
+are-
+are the...the: are the [... of a or...
+... 
+are or the…
+( … are 
+(andized or (1, or, as a... and the (... and the, or: [(the and [and: the [
+the ( 
+(and:
+and: 0: the 1...11-10 and, and (... of name 1 (name:  (and, and, and, a or, 1...
+(1,...
+and, 1 of... (
+in, 1, the, the, 1, 20, or (1, and (2, and and, and and and [and (and,  and, and, 2 and [1, and...
+1 in: a and : 10 in the (
+an and with...1. [[:... 2 "  (and. and.... 11 (3 [2-1 are are and are, 3 and or...  and (and by, [1 (1 (1 [[ 3 orines, 2 of "
+., and of.  and, 1,  and or, an anise and (anine or an are or are an, or, an and, 0 (1 1-an, an and, an ( an, [1 and, an, or and in 2, 1 in and, an ( an an [1 or or, a, an 1 ( an or 0,
+ or an 1 in, and, an an, 6, an, 9, 6, and, 1, an, 1, and, [and, an: 2-0 (an ( and: and or,  and : 0 ( (1 or: and- 0 (11 or-1: :... :  and an: :  and and-  an ( an: an " with : an or:  and ( in  [ are in and in and-  an -le- (-1- and [. of and and and the or, and in,  or an or an or  ( [ [ and  ( ( -  and ( [ [ an [, [ ( an - an an  an [ [- an  ( ( [ in in, and   an " and,  - an and an "  or are  an or  or, and of  of an of a of  and  or in and or and- the  and and, ( ( in " and an of  of the of of and or of  an and an an  are  are and or, are-  of  of the (  and-  in " in,  or [- - an  or, ( (  of  of, of,  and an or and and an an  and  [ in  are an, and and  in    and or and of the and or and or-  (  and [ ( -  and and [ - and or an- and ( or, and,  or,  and,  and  [ or  are or and are of an 0 of an  of  or or of  an  ( or, 2 or or and an an c and or, and of, of  of the of  of  of of and of our in of and (  if and and about,, and ( an,  (  and c 1  or and-1  and (, -  and of and in, (  c  [ ( or ( and " - and and  an ( " and ",  -  and, or,  or  " or c or or [ c and c and and  c for ( for and and  and  of the and or of and ( c t or  or  and  and and-and or: [ of and, [ and t  and ( clity in and in [- and in and or in and  in or or of [  ( c of of and "  or and ( and [. or c-  or  or of [ of ( and of of, of  in,,  of or and of,, and in,.  ( for, ( and  of of,,  of of of of of, of, and and and in and and (, for and c or for,,  and for, [ C or,-  or- or   c c ( or, [ (, and, ( and and/ [ or of (  of and c ( an and and  an  and, [ and and or, ( [ of  of  [ and, an ( and  [ or ( and [, ( and, and, [ c and [ [, [ C and, or ( and, and or, and, [ ( and [ and, or, C C and a in and or an and and ( and, or or  and an and and  or and and in or and or,  or,  C and and and,  and   and,, C and c,,, and and  or ( and,,, and or  ( t, and c and, and ( or  [  for or  and, for / / of a of a of  of ( b [-  ( c., for, - and and and of.,,, and, U [ ( c [  (,, and, and in,,    and,  ( and t or [ B/ and  b U and t and,  ( [ and,, [ U, ( and and [,, t and [ [  U [  U [  C, a or in and t, in (, U, t [ and 1 and and, U and, [ and and and, and and and,, and,. and, and,   and  U, C and and and. and, and,,, ( t U,, or c b U C C U and  and and c c and, [ and a and of, and or  of U C and U ( or [ and, and and and or ( and a,, and e,,  and, ( and and t or a or or and, [ U C. [ and  m [,,,, or to,  (

@@ -1,0 +1,1112 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2075-01-07
+
+
+
+
+
+NAME:    Villegas, Yosef  
+
+MRN:      8249813
+
+
+
+S:   Here for follow up of his colonic polyps.  He wants to know the results from
+
+     them.  He is not taking hydrochlorothiazide and is curious about his blood
+
+     pressure.  He said he has cut his alcohol back to 6 pack once a week.  He
+
+     has cut back his cigarettes to one time per week.  He does say he has had
+
+     some problems with his memory recently, although no other manifestations
+
+     of dementia and no difficulty with ADLs.  He says he uses Viagra
+
+     occasionally and it works for him.
+
+
+
+O:   Well-appearing male. Blood pressure 142/74.  Chest clear.  COR: No
+
+     murmur.
+
+
+
+A:   (1)  Alcohol excess discussed.  I told him to cut it out entirely.
+
+     (2)  Cigarette smoking.  Discussed.
+
+     (3)  Hypertension. Under good control.
+
+     (4)  Elevated lipids.  Will check FLP.
+
+     (5)  Worried about dementia. Will check B12, TSH, RPR for now.
+
+     (6)  Status-post knee replacement.  Gets occasional Vicodin from his
+
+          orthopedist.  Says he wanted 8 Percocet for the next month or two
+
+          that he will take on rare occasions when his pain is more severe, and I
+
+          did give him 8 Percocet.
+
+
+
+P:   Follow up with Dr. Hobbs in 3 months.
+
+
+
+  
+
+Gilbert P. Perez, M.D.
+
+
+
+GPP/church/olinger
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            \section{CORRECTED}
+
+
+            Record date: 2013-06-30
+
+
+
+            Name:    Villegas, Yosef  
+
+            MRN:     8249813
+
+            S:
+            Here for follow up of polys
+
+            O:
+            Well appearing male 29yrs old
+
+            P:
+            Follow up with  Dr. Hobbs
+
+            \section{CORRECTED}
+
+            Record date: 2012-11-25
+
+            Name:  Villegas, Yosiph
+
+            MRN:     8299255
+
+            S:
+            1)   Alcohol consumption
+
+            O:
+            Well appearing male
+
+
+
+        \section{CORRECTED}
+
+        Record date: 2010-11-23
+
+        MRN: 823923
+
+        Patient name:  Villegas, Yosef
+
+        Patient age: 55 years old
+
+        Patient sex:
+        Male
+
+        Patient race:    White 
+
+        P:
+        Well appearing male 
+
+
+    \section{CORRECTED}
+
+    Record date: 2010-11-23
+
+    MRN: 823923
+
+    Patient name:  Villegas, Yosiph
+
+    Patient age: 55 years old
+
+    Patient sex:
+    Male
+
+    Patient race:    White
+
+    P:
+    Well appearing male 
+
+
+        \section{CORRECTED}
+
+        Record date: 2010-07-29
+
+        MRN: 8080000
+
+        Patient name:  Villegas, Yosef
+
+        Patient age: 53 years old
+
+        Patient sex:
+        Male
+
+        Patient race:    White
+
+        P:
+        Well appearing male 
+
+
+        \section{CORRECTED}
+
+        Record date: 2009-06-23
+
+        MRN: 800008
+
+        Patient name:  Villegas, Yosiph
+
+        Patient age: 52 years old
+
+        Patient sex:
+        Male
+
+        Patient race:    White
+
+        P:
+        Well appearing male 
+
+
+        \section{CORRECTED}
+
+        Record date: 2008-08-22
+
+        MRN: 800008
+
+        Patient name:  Villegas, Yosiph
+
+        Patient age: 51 years old
+
+        Patient sex:
+        Male
+
+        Patient race:    White 
+
+        P:
+        Well appearing male 
+
+        \section{CORRECTED}
+
+        Record date: 2008-06-17
+
+        MRN: 800081
+
+        Patient name:  Villegas, Yosiph
+
+        Patient age: 50 years old
+
+        Patient sex:
+        Male
+
+        Patient race:    White 
+
+        P:
+        Well appearing male 
+
+
+        \section{CORRECTED}
+
+        Record date: 2008-04-30
+
+            MRN:     7043080
+
+                S:
+                Well appearance
+
+                O: Well appearing male  
+
+                P: Patient 112234: 
+
+
+                Patient name:  Villedith
+
+                Patient age: 122345678:
+
+                Patient 895678
+                patient age87677 1577888778.
+                patient 19758876588345465676788869948858998998610258999889918967267835773396778999927499999999994823639999999989999999999999998,99999999999959999999919999999999999999999999999 names. Doe, the patient 215, and the clinical data, and names, 19 and indicateable 99999
+ and 18,9... and any
+
+10.
+12 and any, and any names, and, and the name, and name
+names 2 or, and the 
+
+the, and, the doctor, or indicate the patient and a few. Including names or.
+
+20 and 20 the 
+
+let 20 names.
+10, 
+11: 10:
+
+
+
+
+
+let names of patient:
+1, the word and a patient, but the following the "d...theize a patient are:1 are... are the 
+make:
+[
+
+
+(the name (the or include the names: the 1: 
+
+
+follow, and the 1. This. The: 1... [
+1 and, 1: 1:
+follow (10 and: 1, and a …
+1 12 (
+...
+(the and (13... 0. 3: and, and... and (and, or 1, 0…, or,... 
+the, the, a, and, a…,
+make, (... and, a, and, a "are are, and the, 1 and, 0, 3 (and are, [0, and the, you of the, 1,... a... [[...: the [[[ and and...
+(make...:
+:... and "and and: 1 and [0 [3-are (1-conian-1 1, the and or  or by [0, the, "and or (d, [make, [. and of, of the. of the and, the, and, [and, the, an, are, 40 and would or, might, would-con of, a and, 1, an, 5 and,s, and, and, an and, and and and, 0, 1, 1 [1, and or an [ an, an, and an, an, an, of, "
+  (h, and-11, but, and and, [, 0,  and, " and, an ( 3 "c and " and and, 3-ann, an an (c ( an or, an- 2-1-1-1 [: : an [: an and [: you and: -: ( an: and and...: [: an and an-1- or:: [- with with a-an: an...: an ( are-an 1, [: and are in the [ and "-. of of or and of or " and, in [. and and and., [ and, or or, or ( and and- ( or and and or ( and, ( ( ( but or... [ [... (- are- are-an (  - or-1 or- : (,,,, and-  or and-d ( of  of --  or of - an of- or and and and or,,, and and,, and,,,, and or- of-  of of of ( of of of of - (, or (.,,,,,,  of and and or, and,, or  -,,, or of- ( -- -  of- : and of and and and: and,. ( or, and.:, or: in -- or- and,: and and or-  or ( or-h and in ( or --  of,.- ( or,,, of.. and,-1 or and- and - on- and on, on the  or or and or- ( or- or of- (,, of...,-0 or- and or -.- and- are or,.,, of of- of of, and-d, of- 0-, [..., and, and- and and- [,, - and-c in, and-  or- or or and or ( [ and -- and- and and- or 2, - and- [ and -- or and or 0- [. (, ( and -- or- - ( or or- an ( or.. or an  and of  and [- (- al of or- [ of  ( al of the - and ( and- and, [ and ( - of: al ( of the of  and- - or: or- - and- (- al and (- " [- and of the and ( " or -: (- [- ( - and- [ ( or and- or- -, and,  and of  or  or, and  "- (, (- and, and- or or and- [, [- of ( of, or - or of of  (- or, or,,, (- (, (,,,,. and.,,,  and,  or and and - and ( [ - and and and- and- [ (-  of, and of  of  ( ( -  ( ( and or- or, (,  of, of ( or of - 0 or and or or [ or ( [ and or and, and. and and of an [. or ( alities ( or  and,-0 and [, ( [,, ( and, and ( and- or and of (,,,,, ( ( and and ( (, [ or or [ (- or [ and [ or ( and and [, and (, and (,,, or,, ( and,. (,., ( or, -, ( ( ( ( [ and or - ( or, or., or and, and and (. and [,  ( [. A- ( (,  ( ( or (.. (. [,, (,,, of,, ( and (. and, (- C, ( and of (, [ ( (,., of and of, and ( [,/ (, or and, ( and and [ ( and and and and A ( A ( ( A and of,, ( and (, and ( ( ( A, [ ( A and an ( and- (, (- a and ( ( or (- [[ and ( and. (- and ( or and, and, and,.,, and, and,. ( and, and, and- A and, and.,, ( of or, of (, and ( and a of a, a and. A, and, ( ( and and or, A ( or, and,, A and, - (1 (, or (,. ( and and and. [ or, or, [0. or or ( _ or and. (. or A [ and. ( A-1 and,. - A- an or., and - and,,

@@ -1,0 +1,217 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2135-08-03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+                 
+ 
+WSA TEAM 4 Surgery Admission Note
+
+
+
+
+Patient: 
+
+Mckee, Norma     
+
+
+
+MRN: 
+
+ 6987776    
+
+
+
+Date: 
+8/3/2135
+PCP: 
+
+  Dr. Robert Xenakis   
+
+
+
+
+
+Attending:  Dr. Kirk    
+
+Senior:   Dr. Huerta   
+
+Intern:   Dr. Dukes   
+      
+
+
+
+
+
+CC: 
+abdominal pain/n/v
+
+
+HPI:  
+60F obese s/p exlap/TAH/BSO/appy/chole (Meyers/Hayes -7/25) c/b ventral hernia and recurrent SBO s/p exlap/ventral hernia repair with alloderm (Steves - 12/33), and partial SBO managed nonoperatively 12/34, and most recently 5/23-49.  Pt reports that she had dinner last night about 6pm and had her last BM at 10pm (also last flatus).  She began to experience N/V at about 11pm and had several episodes of NBNB emesis.  Pt reports the pain is constant, and located adjacent to her midline incision.  Pt felt that her ventral hernia was protruding more.  She denies any diarrhea, blood in her stools, no dysuria.  She has not experienced any fevers. chills, CP, SOB.
+
+
+
+PMH: 
+
+
+Epilepsy
+Schizophrenia
+Diabetes mellitus type 2
+Hypertensive
+ disorder
+Obesity
+Sleep apnea
+Hyperlipidemia
+recurrent UTI
+
+s/p exlap/TAH/BSO/appy/chole (Meyers/Hayes) (7/01) c/b ventral hernia and recurrent SBO s/p exlap/ventral hernia repair with alloderm (Steves) (12/33), most recently w/pSBO managed nonoperatively 12/34
+duodenal ulcer s/p EGD/clipping  (11/34
+)
+
+
+Medications: 
+
+
+citalopram 90mg
+tegretol 800mg qam 600mg qpm
+colace 100mg tid
+hctz 25mg
+lisinopril 45mg
+mvi
+perphenazine 16mg bid
+remeron 30 bid
+simvastatin 20mg qpm
+clonazepam 1mg qam, 0.5mg qafternoon and qhs
+seroquel 400mg qam and qafternoon, 800mg qhs
+metoprolol 25mg bid
+omeprazole 20mg bid
+vitamin D 400mg
+asa 81mg 
+caltrate 600mg bid
+metformin 500mg bid
+potassium 20meq
+insulin NPH 18units qam
+insulin regular SS qam/qsupper
+
+
+Allergies:
+
+ARIPIPRAZOLE - Caused anger, agitation,tearfulness
+
+
+
+Exam:  
+
+VS: 99.4   116   171/79   18   95% RA
+Gen: 
+NAD
+CV: 
+RRR
+Pulm: 
+CTAB
+Abd:
+ soft, obese with additionally protruding ventral hernia; well-healed lower midline incision, moderately distended, minimally tender over inferior incision &amp; to the right of it, no skin changes; hypoactive BS; hernia is reducible on exam with palpable large &gt;5cm fascial defect
+Rectal: no stool palpated in vault, guaiac negative, no masses/tenderness
+
+
+
+Labs:
+
+WBC                              19.7             H        (4.5-11.0)     th/cmmHCT                              43.7                      (36.0-46.0)    %HGB                              14.9                      (12.0-16.0)    gm/dlRBC                              5.14                      (4.00-5.20)    mil/cmmPLT                              464              H        (150-400)      th/cummMCV                              85                        (80-100)       flMCH                              29.1                      (26.0-34.0)    pg/rbcMCHC                             34.2                      (31.0-37.0)    g/dlRDW                              14.5                      (11.5-14.5)    %Diff Method                      ManualPoly                             63                        (40-70)        %Bands                            28               H        (0-10)         %Lymphs                           2                L        (22-44)        %Atyps                            1                H        (0)            %Monos                            4                         (4-11)         %EOS                              0                         (0-8)          %Basos                            0                         (0-3)          %Metas                            2                H        (0)            %Absolute Neuts                   12.41            H        (1.8-7.7)      th/cmmAbsolute Bands                   5.52                                     th/cmmAbsolute Lymphs                  0.39             L        (1.0-4.8)      th/cmmAbsolute Monos                   0.79                      (0.2-1.2)      th/mm3Absolute EOS                     0.00             L        (0.1-0.3)      th/cmmAbsolute Basos                   0.00                      (0.0-0.3)      th/cmmToxic Granulation                PRESENTAniso                            None                      (None)Hypo                             None                      (None)Macrocytes                       None                      (None)Microcytes                       None                      (None)PLT Comments                     Large Forms
+
+
+Plasma Sodium                    131              L        (135-145)      mmol/LPlasma Potassium                 4.2                       (3.4-4.8)      mmol/LPlasma Chloride                  88               L        (100-108)      mmol/LPlasma Carbon Dioxide            24.2                      (23.0-31.9)    mmol/LPlasma Anion GAP                 19               H        (3-15)         mmol/LCalcium                          10.8             H        (8.5-10.5)     mg/dlPhosphorus                       3.7                       (2.6-4.5)      mg/dlMagnesium                        1.7                       (1.4-2.0)      meq/LPlasma Urea Nitrogen             14                        (8-25)         mg/dlPlasma Creatinine                1.23                      (0.60-1.50)    mg/dlPlasma Glucose                   245              H        (70-110)       mg/dlTotal Protein                    8.6              H        (6.0-8.3)      g/dlAlbumin                          5.2              H        (3.3-5.0)      g/dlGlobulin                         3.4                       (2.3-4.1)      g/dlDirect Bilirubin                 0.3                       (0-0.4)        mg/dlTotal Bilirubin                  0.6                       (0.0-1.0)      mg/dlAlkaline Phosphatase             248              H        (30-100)       U/LTransaminase-SGPT                165              H        (7-30)         U/LAmylase                          149              H        (3-100)        units/LTransaminase-SGOT                239              H        (9-32)         U/LLipase                           22                        (13-60)        U/L
+
+
+Studies: 
+
+
+Abd/Pelv CT: Mechanical small bowel obstruction with transition point within a large ventral hernia containing mostly ileum.  There is a significant amount of retained stool within the colon which may indicate partial or early obstruction.          
+
+
+Impression/Plan: 
+59F p/w low-grade SBO due to adhesions v intermittently incarcerated ventral incisional hernia.  Pt is minimally tender on exam, elevated WBC; CT showing mechanical SBO with transition point at ventral hernia.
+
+
+- NPO/NGT 
+
+- IVF, foley, strict ins/outs, serial electrolytes.
+- Admit to WSA Team 4,Attending Dr. Kirk.
+- RISS and hold metformin/lisinopril while NPO.
+- Repeat CBC w/diff and U/A
+- Cont Cipro for UTI
+
+
+Case was seen and discussed with Dr. Patrizia Scott, senior surgical resident.
+
+
+Cheryl H. Holland, MD, DMD
+pager # 67268
+PGY-2 General Surgery
+
+
+
+
+
+(the patient names.
+
+The patient
+names. 10 and date of a letter, and 
+[
+The [the [
+name, and name
+or (
+
+
+[ 6.
+and [the following, or 
+are or would indicate the date: the patient, as well orations, the...
+(name (patients or the patient... and the patient and patient name, and the...and...1. 3...
+
+(1: [(“patient names or:
+(10:... orally, and the… are a…
+... 11...
+... of the... or:…12 or the...: (
+1 1: 1 (and, remove, 5 and 2: 0 and [
+, a few: 
+
+the, 
+make your, the and the...
+[ 10,... 3... 3 1, a
+are 1, and the...
+
+(…, but and are 
+(and are, and,
+( 1, 1, as, the of...
+and, " and, 6, and, 3, 1., (le,
+
+... 1 and, but [1, and  and include "
+and and, and can (le and [1, and [and, 6, and, the:, the...:: the-
+with the
+...
+: 1. “: 2...
+1 " 50. 120 [re-
+10 (in (an: a, 0 by " by " and the 1 and, 1, [, anine, an of the [
+. and (, a [and (, and, 5, an (an, a-1 are and a may, 1, "1, an, 1, anise, 7, and and, 6 an and of a of 1 and, 3 1, 3, an, and  and  an 3, W, the 0, an (an,  ( W, Wine, and, [, an, 2, (2, 1,, WA of the, and the:, an, 1, and, an, the ( 11- 1: 1: An, 1: (:: 4-4: : (:-le an-2 (::: [: [:: ": - an: an:: an ::  (-1: an::  or and of it -  and (  are an or  an "  an an and of the of the an " an.  (, an, (, and and, ( ( and,,  an [ are or [ and, ( and of the- ( an by and or [,,  are-an, or, an and, ( an ( and " or " an - or (  an an in,  an  or of, or  or of  of an,  an-  in or and,, an, ( (  and or ( and and of  of " ( of “. an of the, - (, an or,, an, or and, an, of, - 0 an  or  ", - and,, or  and an or ( (, an of an of of, and of ( or of the ( and,,  an (,  ( and,  in (, w an " an - and an " and of - or - or and an t - an an- and w and,,,  and, and, an and of, [, or  or and, and, and, and, - an-  and  an an,  or  and and of  and or ( and an and, and, ( ( or and, [ of, and of a an of an of of [ of the, of 1, an  -  and, and or 0 and, 1 ( an  and. 1 1 an or (1 ( W and and-  - and and an of [ and and [ 1, and - and or -W an ( and,, ( An or or  or or and or  wine [ or [ W ( W  or  c w-  ( (  and of the- W c of  ( and  m c ( and w: ( w w m. -  c c of: and (:  c and w and  and w and-  W C- and- W and - W- c-  of the of and of  " - m and or [ m - m or or or, of, W or of  or of  and, W and, and w c or w w ( and. and and and W C and and- and  of,  and and of and of and, W.  m and, W m w and and, and and,, W-. and  W, W W  ( and W and or  or, W C C w: and c c and  of w of of W or of t W C " C C, and, and or and W, and or m and m c and W t t m w and  W- W C M. ( m- an w w and W t a  and and m and  w and and and c c and W m and t w an a a or and c and W, w m, ( m a an c a m or w or, 1, a w c- w and, W and, and, and and, w ( W W and, W and W or and, and and t or, W.  m. t t and and and a and and, and w and and, w or,  ( W ( a W, W and W of w t W of,, w w w W c and a, C A, a or, and W, c,, a (,,,  and W W m, or c w a, a or, ( (,, ( W a t/ ( W 1-1 m ( c W W t w w m and c ( c t W a, ( (, an. ( ( ( ( W ( W ( c and ( C a, a ( C and t m a and, a or W, and w c w (, ( ( and and (, and, and, ( and,, and and, a c m c a ( a a and a (,,, or and and ( c a 0 a of t and (1 of ( ( a  w-1- w b, or and- and and ( and, (, a and and, a and, a w a and and ( and or a ( a and, a ( c t., a or and, a ( or t- and and and. c,,,, ( m. m ( m or. and and m

@@ -1,0 +1,494 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2096-09-09
+
+ 
+
+
+
+Cardiac Surgery Consult
+
+
+
+Weeks, Kenneth
+
+9/09/96	
+
+1205466
+
+
+
+CC:  3 days of increased shortness of breath.
+
+
+
+
+
+HPI:
+
+ 
+
+78 yom s/p 2-cabg on Jul 20, 2096.  Had pleural effusions, tapped for 1.5 liter on August 31, 2096, felt better.  Was put on Lasix, excreted 28 lbs of fluids. 3 days ago started having increased DOE and SOB.  No CP. Now  able to walk only 10-15 ft w/o sob.  Able to walk up 1 flt of stairs or less.  Needs only 1 pillow to sleep at night.  Has committed some dietary indiscretions lately (chicken sausage).
+
+
+
+No CP, night sweats, chills.
+
+
+
+
+
+
+
+   
+
+PMH: 
+
+Gout
+
+IDDM2
+
+Thrombocytopenia
+
+Atrial Fibrillation
+
+BPH
+
+Chronic Renal Insufficiency
+
+Hypercholesterolemia
+
+Hyperhomocysteinemia
+
+Hypertension
+
+Patent Foramen Ovale (PFO)
+
+Basal Cell Carcinoma
+
+Bursitis,
+
+Coronary Artery Disease,
+
+Labyrinthitis
+
+Squamous Cell Carcinoma
+
+Umbilical Hernia
+
+
+
+PSH:
+
+CABG
+
+Bone marrow Biopsy
+
+SCC removed from head 2094
+
+Turp 2086
+
+
+
+FH:	
+
+Brother s/p stent placement at age 78, CHF
+
+Another brother had diabetes and peripheral  vascular  disease.
+
+
+
+
+
+SH:	
+
+SMOH:  30 pack yrs; Date quit: 2065 
+
+ETOH: Amount: about 10 drinks in his lifetime 
+
+No IV drug use.
+
+Occupation: Retired Insurance Claims Examiner for Prudential 
+
+Notes: Lives in New Iberia, MN with his wife of 54 years. His wife is in the early stages of
+
+Alzheimers.
+
+	
+
+Meds:
+
+
+
+ATENOLOL 50 MG QAM, 25 MG QPM
+
+ASPIRIN ENTERIC COATED (ASA ENTERIC COATED) 325 MG PO QD
+
+FINASTERIDE (PROSCAR) 5 MG PO QD
+
+FOLIC ACID (FOLATE) 1 MG PO QD
+
+ALLOPURINOL 100 MG PO QD
+
+QUININE SULFATE (QUININE) 325 MG PO QHS
+
+FUROSEMIDE (LASIX) 120 MG PO QD
+
+LORAZEPAM (ATIVAN) 1 MG PO PRN
+
+ATORVASTATIN (LIPITOR) 20 MG PO QD
+
+WARFARIN SODIUM 5 MG QD EXCEPT THU: 7.5 MG
+
+INSULIN NPH HUMAN 15 UNITS SC QAM BEFORE BREAKFAST
+
+AMBIEN 25 MG PO QHS
+
+
+
+All: 	NKDA
+
+
+
+PE: 
+
+VS:  	96.8	153/95		89	18	97% RA
+
+Gen: NAD, A+OX3
+
+HEENT: Multiple AK's on head, lentiginous lesions present.  Scar from SCC present at right vertex.  JVP 5
+
+Heart:  Irreg. Irreg.  2/6 systolic ejection murmur present.
+
+Chest: clear on Right with fine crackles at bases, Loss of breath sounds from midfield down on Left.
+
+ABD: Protuberant, non-distended, non-tender.  + shifting dullness.  No fluid wave.
+
+Extr: Trace pitting edema on right leg.  2+ pulses
+
+
+
+
+
+Labs:
+
+WBC                              4.6                       (4.5-11.0)     th/cmm
+
+HCT                              33.5             L        (41.0-53.0)    %
+
+HGB                              11.6             L        (13.5-17.5)    gm/dl
+
+RBC                              3.81             L        (4.50-5.90)    mil/cmm
+
+PLT                              142              L        (150-350)      th/cumm
+
+MCV                              88                        (80-100)       fl
+
+MCH                              30.4                      (26.0-34.0)    pg/rbc
+
+MCHC                             34.6                      (31.0-37.0)    g/dl
+
+RDW                              14.0                      (11.5-14.5)    %
+
+DIFFERENTIAL REQUEST             RECEIVED
+
+Diff Method                      Auto
+
+Poly                             65                        (40-70)        %
+
+Lymphs                           21               L        (22-44)        %
+
+Monos                            9                         (4-11)         %
+
+EOS                              4                         (0-8)          %
+
+Basos                            1                         (0-3)          %
+
+Absolute Neuts                   3.01                      (1.8-7.7)      th/cmm
+
+Absolute Lymphs                  0.95             L        (1.0-4.8)      th/cmm
+
+Absolute Monos                   0.39                      (0.2-0.4)      th/cmm
+
+Absolute EOS                     0.20                      (0.1-0.3)      th/cmm
+
+Absolute Basos                   0.04                      (0.0-0.3)      th/cmm
+
+Aniso                            None                      (NORMAL)
+
+Hypo                             None                      (NORMAL)
+
+Macrocytes                       None
+
+Microcytes                       None
+
+
+
+Sodium (Stat Lab)                140                       (135-145)      mmol/L
+
+Potassium (Stat Lab)             4.7                       (3.4-4.8)      mmol/L
+
+Chloride (Stat Lab)              110              H        (100-108)      mmol/L
+
+CO2 (Stat Lab)                   27.3                      (23.0-31.9)    mmol/L
+
+BUN (Stat Lab)                   55               H        (8-25)         mg/dl
+
+Creatinine (Stat Lab)            2.4              H        (0.6-1.5)      mg/dl
+
+Glucose (Stat Lab)               116              H        (70-110)       mg/dl
+
+
+
+Imaging:
+
+CXR 9/09/96
+
+Moderate left CP angle blunting increasing since previous study
+
+9/11/96.  No other change.
+
+
+
+
+
+EKG:
+
+
+
+Low amplitude EKG.
+
+PR interval 200ms, borderline 1st degree AV Block
+
+
+
+Impression/Plan:
+
+78 yo male with increased SOB and DOE, with increased left pleural effusion.
+
+1.	Coags
+
+2.     BS fingersticks qid
+
+3.	RISS
+
+4.	OK to diurese
+
+5.	Consider IR drainage
+
+6.	Cardiac Surgery Team will follow 
+
+
+
+Pt seen with Dr Stone.
+
+
+
+
+
+
+
+Dr Mickey Kyle, DMD, MD      
+
+
+
+Patient: 9/12/96
+
+Patient is a male, with an age of
+
+78 years old who presents with a
+
+history of 
+
+
+
+He has a history of 
+
+
+
+He presents now with 
+
+
+
+He is complaint of 
+
+
+
+
+
+Dr Kyle is a male and he has an age of
+
+78 years old who presents with
+
+
+
+He presents now with a
+
+
+
+He is complaint of
+
+
+
+He is diagnosed with
+
+
+
+He has a plan of
+
+
+
+His diagnoses is 
+
+
+
+He is diagnosed with 
+
+
+
+He has been seen 
+
+
+
+His diagnosis for his history is 
+
+
+
+He will continue to be seen
+
+
+
+
+
+
+Dr Kyle sees the patient for the first time.  He diagnoses a toothache.  He prescribes a
+
+course of an antibiotic, and orders a dental referral.  He notes that the patient will be
+
+seen in the emergency room for his heart condition.
+
+
+
+The patient is a white male with a history of CHF and heart attack and is admitted to ICU with a diagnosis of pulmonary edema secondary to CHF.
+
+He has a history of diabetes, gout and hypertension.
+
+He underwent coronary artery bypass surgery in 2000.
+
+He has had an atrial fibrillation for 2 years.
+
+He has a history of hypoacetylating hepatitis and anemia secondary to his gout.
+
+He had a bone marrow biopsy and a barium enema in June 2009 to rule out colon cancer.  He had a colonoscopy done in 2006 for a diagnosis of hemorrhoids.  He has a history of a skin cancer on his face and has had numerous skin biopsies.
+
+
+
+The patient has a history of alcohol abuse.  He drinks 2-3 drinks daily.  He has a smoking history of 10 cigarettes per day.  He had a history of a toothache and is being seen for a followup appointment at the dentist.  His family medical history is significant.  He had his mother die from breast cancer.  He has two brothers.  Both of his brothers died from coronary artery disease.  One brother had a heart attack before his 61st birthday and his second brother died of a heart attack at 64 years of age.  The patient does not have any other family history of illness.
+
+The patient has a history of a heart attack 1 year ago.
+
+He had a heart bypass surgery 3 years ago.  He has had a history of hypertension for the past 30 years.
+
+His father had hypertension and died at age 80.
+
+His mother developed hypertension at age 60.
+
+His brother was diagnosed with hypertension at age 60, but died from a heart attack at age 71.
+
+
+
+
+
+The patient had a history of gout 3 years ago.
+
+He has had a history of diabetes for the past 20 years.
+
+
+
+The patient has anemia from his gout.
+
+He was on prednisone for 3 years.  The patient has a medical history of hypercholesterolemia.  He takes atorvastatin to help control his cholesterol.
+
+The patient's wife is 81 years old and has early signs of alzheimer's disease.
+
+He is married and has 2 children.  His oldest daughter has diabetes and a history of hypertension.
+
+The patient's son is 75 years old and has hypertension.
+
+He had a heart attack and a quadruple bypass at age 65.
+
+One sister has hypertension and the other has diabetes.
+
+The patient's father died at age 60 from hypertension.
+
+
+
+The family medical history is significant.
+
+The patient has a past medical history of atrial fibrillation.
+
+It started when he was in the hospital for the heart bypass.
+
+He started taking flecainide and had a 20% rate control.
+
+He was on the flecainide for 2 years.  He stopped taking the flecainide because he was unable to tolerate it.  When he went off the flecainide, he was started on propafenone.  His rate control went down to 50% with the propafenone.  When he was in the hospital, he developed ventricular tachycardia.  He was started on lidocaine.
+
+It has been working good with the lidocaine.  The patient has had 2 episodes of AF with rate control less than 60% in the last 18 months. He has not been in the hospital for AF.
+
+His most recent EKG shows 1st and 2nd degree AV block.
+
+It was noted that the patient had atrial fibrillation with his heart rate in the ventricular rate in the 140's.  The patient had his rate controlled by flecainide and propafenone before the AV block was discovered.
+
+He has had no episodes of bradycardia with the AV block.  The heart rate will slow down to below 50 beats per minute with the bradycardia, but the heart rate will increase above 70 beats per minute.
+
+The patient has had no episodes of heart block with the AF.
+
+
+
+The patient had a bone marrow biopsy on 6/25/09 with an aspiration.  He was on a regimen of foscarnet at that time.
+
+The patient was started on prednisone for 6 weeks.
+
+He has had no episodes of pancytopenia.  His bone marrow biopsy came back normal.
+
+The patient was on aminoglycosides for 2 weeks.  He is still taking atazanavir.
+
+The patient has an elevated PTT of 55 seconds.  It is not elevated enough to warrant stopping his antiviral medications. 
+
+His platelets are slightly elevated because of his gout medication.
+
+The patient is on a regular antiretroviral regimen of amphotericin B at 1 mg/kg, atazanavir in the morning at 400 mg and foscarnet in the evening at 800 mg.
+
+The patient's CBC was done on 7/20/09 with platelets of 140,000 and a PTT of 49 seconds.  The patient's HIV antibodies are undetectable.
+
+The patient was diagnosed with a skin cancer and had a biopsy of a lesion on his back on 6/23/09.
+
+The pathology report showed that the tumor was a basal cell carcinoma and was sent to surgical pathology for a consultation. 
+
+The patient did not have any surgical intervention.
+
+The patient was on prednisone for 6 weeks in June and he was able to stop taking the medication.
+
+The patient is on atazanavir with no side effects.  He is on foscarnet and it has been causing diarrhea.
+
+His medication has been changed to acyclovir.
+
+The patient is on atorvastatin for his high cholesterol and he is on atenolol for blood pressure.
+
+He has also been diagnosed with a gout.
+
+The patient's gout is under control with allopurinol.  His uric acid level is 3.0 mg/dl.  The patient has hypertension, but it is controlled.
+
+
+
+The patient has a past medical history of heart attack.
+
+He also had a coronary artery bypass surgery 3 years ago.
+
+He has hypertension.
+
+He has hypercholesterolemia.
+
+He has had a history of hyperlipidemia.

@@ -1,0 +1,286 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2070-07-28
+
+ 
+                           OFFICE NOTE
+                    FRANKFORT INTERNAL MEDICINE
+                       28 Bailey Street
+                            2nd Floor
+                    North Webster, SD  48493
+ 
+ 
+Chandler, Jessica
+MRN: 748-80-38-0
+07/28/70
+ 
+Jessica returns today for follow-up after her admission for acute
+shortness of breath and congestive heart failure.  I had added
+Zaroxolyn on to her regimen which she is tolerating well.  However,
+her recent laboratory studies show that she has a significant
+increase in her BUN and creatinine.  Her BUN is in the 80's, and
+her creatinine is about 3.4.  She states her breathing has been
+excellent, however.  She is not experiencing as much dyspnea on
+exertion.  She is sleeping through the night, and she is no longer
+having any kind of dry cough.  
+ 
+Medications:  Her current medicines are Nephrocaps 1 tablet p.o.
+q.day, Paxil 20 p.o. q.day, Cozaar 50 p.o. q.day, Prilosec 20 mg
+p.o. q. day, Atenolol 50 p.o. q.day, Lasix 120 p.o. b.i.d.,
+Zaroxolyn 2.5 p.o. q.day, Albuterol nebulizers p.r.n., nph 40 units
+in the morning and 40 units at night time and aspirin 81 mg p.o.
+q.day.
+ 
+Allergies:  Cephalexin causes questionable rash.
+ 
+Physical Examination:  Today she is a pleasant black female in no
+acute distress.  Her weight is 330 pounds.  This is down over 20
+pounds over the past month.  Her blood pressure is 122/80.  Her
+pulse is 80.  Her lungs are clear.  Her heart reveals distant heart
+sounds but regular in rhythm and rate.  Her extremities are notable
+for the absence of lower extremity edema.  Her abdomen is also
+noted to be significantly less edematous than it has been in the
+past.  Inspection of her left lower extremity reveals that she
+continues to have an ulcer over the lateral aspect of the foot on
+the plantar surface that measures 2 x 3 cm.  There is beefy red
+granulation tissue surrounding this.  
+ 
+Diagnosis:
+     1.   Congestive heart failure.  
+     2.   Coronary artery disease, status post CABG.
+     3.   Morbid obesity.
+     4.   Adult onset diabetes mellitus.
+     5.   Chronic renal insufficiency.
+     6.   Foot ulcer.
+     7.   Depression.
+     8.   Health maintenance.
+ 
+ 
+ 
+Chandler, Jessica
+MRN: 748-80-38-0
+07/28/70
+Page Two
+ 
+Plan:
+     1.   Congestive heart failure.  She is doing much better on
+higher doses of diuretics with a weight loss of over 20 pounds
+since her last visit here about a month ago.  At this point in
+time, however, I think that we need to cut back on her Zaroxolyn
+given the elevation in her BUN and creatinine, and I've asked her
+to hold her Zaroxolyn dosage and continue on a relatively low-fat
+and low-sodium diet and to have a scale and obtain daily weights,
+and she will follow-up with me in the office in two weeks and per
+telephone conversation in four days.  Should she have an increase
+in her weight by more than five pounds, she will contact me.
+     2.   Coronary artery disease, status post CABG.  Stable
+without any symptoms of exertional chest pain.  Continue current
+medication. 
+     3.   Morbid obesity.  She decided not to go to the Frankfort State Hospital weight loss program.  I strongly wanted her to go
+on a liquid protein diet plan, but she states it's inconvenient for
+her to come to the Hospital at night time for the meetings.  She is
+planning to try and enroll in a program at Sibley Care.  I told her I would help her out in any way possible, but
+strongly reinforced to her the need for her to take off weight.  
+     4.   Adult-onset diabetes mellitus.  Stable.  Continue current
+regimen.  
+     5.   Chronic renal insufficiency.  The plan as above is to
+stop Zaroxolyn and repeat electrolytes in five days. 
+     6.   Diabetic foot ulcer.  I also gave her a duoderm dressing
+to try, and she is going to continue to follow-up with her
+podiatrist, and I will speak with her visiting nurse about
+appropriate treatment.
+ 
+ 
+ 
+Ruby C. Ayala, M.D.
+ 
+DD: 07/28/70
+DT: 07/31/70
+DV: 07/28/70
+/naranjo
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+"""
+)
+
+
+class Patient(models.Model):
+    """Patient"""
+    name = models.CharField("Name", max_length=100)
+    dob = models.DateField("Date of Birth")
+    sex = models.CharField("Sex", max_length=100, choices=SEX_CHOICES)
+    age = models.IntegerField("Age")
+    weight = models.FloatField("Weight")
+    height = models.FloatField("Height")
+    bmi = models.FloatField("BMI", blank=True, null=True)
+
+    def __unicode__(self):
+        return "%s" % self.name
+
+
+class Physician(models.Model):
+    """Physician"""
+    name = models.CharField("Name", max_length=100)
+    dob = models.DateField("Date of Birth")
+    sex = models.CharField("Sex", max_length=100, choices=SEX_CHOICES)
+    age = models.IntegerField("Age")
+    hire_date = models.DateField(null=True, blank=True)
+    hospital_id = models.IntegerField("Hospital ID")
+    hospital_name = models.CharField("Hospital Name", max_length=200, blank=True, null=True)
+    hospital_citystate = models.CharField("Hospital Citystate", max_length=200, blank=True, null=True)
+    specialty = models.CharField("Specialty", max_length=200)
+
+    def __unicode__(self):
+        return "%s, MD" % self.name
+
+
+class Hospital(models.Model):
+    """Hospital"""
+    name = models.CharField("Name", max_length=200)
+    citystate = models.CharField("Citystate ", max_length=300)
+    zipcode = models.IntegerField("Zipcode", null=True, blank=True)
+
+    def __unicode__(self):
+        return "Hospital ID %s" % self.id
+
+
+class Drug(models.Model):
+    """Drug"""
+    med_name = models.CharField("Drug", max_length=100)
+    med_desc = models.TextField("Drug Description", blank=True)
+
+    def __unicode__(self):
+        return "%s" % self.med_name
+
+
+class Diagnosis(models.Model):
+    """Diagnosis"""
+    med_id = models.IntegerField("Drug ID")
+    med_desc = models.CharField("Diagnosis Description", max_length=200, blank=True, null=True)
+
+    def __unicode__(self):
+        return "Med ID %s" % self.med_desc
+
+
+class Medication(models.Model):
+    """Medication"""
+    med_name = models.CharField("Medication Name", max_length=200)
+    med_desc = models.TextField("Medication Description", blank=True)
+    med_type = models.CharField("Medication Type", max_length=300, choices=M_TYPE_CHOICES)
+
+    def __unicode__(self):
+        return "Medication ID %s" % self.med_name
+
+
+class MedicationHistory(models.Model):
+    """MedicationHistory"""
+    med_id = models.IntegerField("Medication ID", blank=False, null=False)
+    med_name = models.CharField("Medication Name", max_length=100, blank=False, null=False)
+    med_desc = models.TextField("Medication Description", blank=False, null=False)
+    med_type = models.CharField("Medication Type", max_length=300)
+
+    start_date = models.DateField("Date Started")
+    end_date = models.Date = models.Date
+    end_date = models. 
+    time = Modules.  21 3 0
+
+    time
+    meds = 14
+    date
+
+                   date =
+
+    date: 022 30
+
+    date
+    time
+Date    time
+
+                    date
+432
+
+
+    date
+
+    date     date.
+
+
+   
+
+
+   date
+
+
+Date:
+
+ 0 1
+  1 2
+                
+
+    date
+    date 2 2 3
+2/4 2 0
+10 date:
+    Date
+
+    date 4
+Date: 1
+4 0
+1 3
+date
+
+Date: 2. 2
+date 2. 3, 4 5
+12
+4 4 
+Date  
+   
+date   4
+date
+date: 6
+1:   
+ 3
+date 4 1
+3 3 1:5 3 
+Date
+
+Date    Date 20 3 13
+
+19
+            3 3 days:44
+2
+2: 11 1
+1, 4
+   4
+130
+           
+M
+ 10 
+M            20
+   2
+ 5 8
+
+1
+ 5
+A - 330 1 2.
+15 20
+The - 3 
+13.
+
+1 date. (
+
+2: 31. 
+20: 1 day (1 week
+The Saturday 4.19, 
+
+CRO.
+
+MIC.11 123
+1
+CROP:   11
+ MRO CHES. 3 ( 2:  AFF, L 3, 1: 4:23, 2 211 4 (30306211 098 M     (9, :1. A 13 - 10 ( 22 9, 1. An, the    1. 0, the (to 19 LIS. An C L An C5  A An   0 A   An L   An. An FIS,  Anist Anistic Anistic An1 and the 121 to L1  Anual  and a to 0-2 to 00, the  1-3-9, 00/30 An An An 8 An An (1 Anistic Anification, 0  is 30: 0: An A-A and An An An An Anist An L8 An8. An L. An L in the An L A L A An L L An An 10 Anductary Anistic Ancial An: Anific: An 000 is20 (2 An is A C (  and the  An (  An An An: a  An An, An An An A  1.  for the  and -. An C. -C, 8 An Anualist C and L. 8 An  and and, 8.  8 An.  and.  and.  in , the  for the  for the.8-8. 10 8108-38.8: 6 8: : 1 8  and a  and a .  -  (   - -  and a  in A :  in  :.:   in the [.   ( and a : a -   (, &-. An.. :-  [: : - the - [- -.  [.                 in. : An [:  (: [ and, [ and. and (,   - : and: -  and  and:  and  in [. :  :  and in::: [-to  - in: ( : (  and  and in [ the  the  and  and  C. a C in ( is the and, L-  L  C  is is  is the is -  an - an  [- I is and in  is  is is. in  and in in the is the (- is- I C and L- at- at. in the- C is, and in a  and in ( in of a of  of  in of the a. in (0 in and a is,  and, a and and and and and a- C- C and  in in in the and in a in the c during of the in a of  of C of the of of the of the C in the C of the C c in C and and in the and C c - the - C - c. and, and and and, C ( c.- in in. and (. [.. in the in the ( and in a C in the c- the, in  and the ( c a in C C a c and [ C C a and a. c a B c in. in B [- a in in c as ( of a of a of an of and of of B and during - B is. in in and of  in the in  c of in of c of - in ( c. and- (. and ( : and b ( in: c a- and: b c b l c and- t and: b ( in and [-  in c in:  in ( c and ( and and c- and in, a in a the b,..  in  b in  c - -  and-    [ B in [. B. b ( c c-  b [ B ( b w. -  a.  in the - the c- c.. (  and-  w [ c-  - : (.  and ( and and (- and [. c and c in  in in in  of the  ( [ ( a c for and a and  for the for for as and and  [ for  in [ in ( w.. and [ and to and- to a as in as and  and - as as.  a in. c and a   and,  w. - [ a [  the  the [  the [. and. and of  and  and a-  and and in a- the (- and in in  of  and  a-  and. - al, and.  c in in and b up up (,..  and and and a of.  of and,,  and in. in the and in for ( ( c and [- [[- [ as ( and (  (.  and and - [ (  ( and.  ( and is the -  ( B in  of (  [  ( [,  up on, [ [ b [   B C- - C [  a, [[ B  [ -  ( -  [- in in- [[   [-  ( - B and-   and and  and ( b- B- -  (  of-  of  of  of  of a ( and and " a c - and- and  in [ [ of - (- c-  and  and- con ( in- c [ to,  to, c c to ( to in - b ( b- c c r w b ( and a- in and in, to ( b to ( B.- w. and- for, for to. [ a. c, and, [ and  [ to r [ c and  to and  [-  r and, w, b and ~  ( c in ( c in  r w [ R C.  and with- and and c- and [- and c- and

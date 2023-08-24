@@ -1,0 +1,235 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2096-12-18
+
+
+                                      
+
+
+
+MCC Gastroenterology                                                            
+Pedro Quesnel, MD 
+Gastroenterology
+Tlake 1                                                                                                               
+08 Doncaster Drive                                                                                   
+Pine Bluff, Washington  63879-1383
+Tel (Patient Care): 945 669-1044
+Fax: 778 210-2105
+
+
+GI Fellow Consult Note
+Date: 12/18/2096
+Time: 11:00AM 
+Patient: Walton, Levi
+MR#: 2554172
+GI Attending: Navarrete, Pamela
+DOA: 12/18/2096
+
+
+REASON FOR CONSULT: HCT drop, guaiac +
+
+
+HPI:
+89M admitted on 12/18 with hypotension and HCT drop.
+
+
+The patient was admitted on Dec 13th and seen by Dr. Esposito from GI.  Per her note, he was admitted with "complaints of vomiting up food and constant chest pain for 3-4 days. He reports that he has had some troubles with food for the past few months but can't define precisely what the troubles were. It seems that he intermittently vomited or regurgitated both liquids and solids and had a sensation of something getting stuck in his chest. Over the last 3-4 days everything he ate or drank, including water, would come up. He denies nausea. There is no abdominal pain but he describes a constant pain across his chest at the level of his nipples for the past 3-4 days. His pain is currently controlled. He denies pain on swallowing. He does report some weight loss but is unable to identify how much. He denies any new neurologic deficits or headaches.  A barium swallow was obtained which showed a fixed narrowing in the distal esophagus. He has a hx of gastric and duodenal ulcers on endoscopy from 2092 in the setting of NSAID use. He had a normal colonoscopy in 2087."
+
+
+During that admission. He underwent upper endoscopy that showed severe esophagitis. Two gastric ulcers with clean bases in the 
+prepyloric area which were biopsied.  The duodenum was normal. He was discharged on December 15th with HCT 31.3.
+
+
+The patient now returns with HCT drop to 19 and hypotension. He reports continued difficulty swallowing and some nausea, vomiting. "Everything comes up." He says this has been persistent since his discharge.  He also reports continued black stools since discharge as well. No clear BRBPR. His wife notes one episode of hematemesis yesterday.  No lightheadedness, dizziness, DOE, SOB.  In the ED, hypotensive to 60's / 70's SBP, HCT 19, his ABD CT was negative. INR  pending. He was started on pressors (levophed and vasopressin) and transferred to the MICU for ongoing care.
+
+
+Currently the patient has no abdominal pain, nausea, vomiting, diarrhea, melena, or BRBPR.
+
+
+
+__________________________________________________________________
+General: Denies weight loss, fatigue, fevers, change in appetite, sweats, chills
+HEENT:  Denies headaches, no vision complaints or changes, no nasal discharge or epistaxis, no sore throat, no neck swelling or stiffness
+Cardiac: Denies chest pain, palpitations, arrhythmias, valve disease, hypertension
+Respiratory: Denies cough, SOB, DOE, hemoptysis, wheezing, hoarseness 
+Gastrointestinal: Denies nausea, vomiting, constipation, diarrhea. No melena or abdominal pain 
+Neurologic: Denies seizures, weakness, numbness/tingling.
+Musculoskeletal: Denies back pain, neck pain, leg pain, arm pain
+Hematologic: as per HPI
+ 
+PMHx:   
+
+Asbestosis
+Atrial fibrillation, chronic, no anticoag given fall risk
+Coronary artery disease
+Diabetes mellitus
+Osteoarthritis
+Benign prostatic hypertrophy
+Cerebrovascular accident
+
+
+
+MEDICATIONS: 
+
+
+Home Meds:
+lisinopril 2.5 mg po daily
+atenolol 100mg po daily
+lovastatin 20mg po qpm take with food
+omeprazole 20 mg po daily
+Lasix 20 mg po daily 1-2 tabs daily
+aspirin 81mg po daily
+
+
+Current Medications:
+
+Vanco
+Flagyl
+Meropenem
+Albuterol
+Atrovent
+Vasopressin
+norepinephrine
+Insulin
+Nexium IV
+
+
+
+ALLERGIES:      
+NKDA
+
+
+FAMILY HISTORY: 
+No cancer, he has 2 sisters in their 80's. Twin brother died of CAD in his 70's.
+    
+SOCIAL HISTORY:      
+
+Married, lives w/ his wife independently though less active recently.  
+Tobacco: smoked from age 7 to 15, has not smoked since 15.
+EtOH: Drinks 1-2 black Russians per day, previously slightly more (vodka) 
+
+
+
+PHYSICAL EXAM:   
+T     P  75   BP 98/56 (on pressors)  RR 16  O2 sat 99% on 2L 
+Gen: NAD
+HEENT: conjunctiva pale, no appreciable scleral icterus, PERRLA
+NECK: supple, no LAD
+Resp: CTAB
+CV: RRR. no r/g/m
+ABD: soft, NT/ND, no HSM, no fluid wave appreciated, no masses, NABS
+Skin: no apparent jaundice
+EXT: no c/c/e
+Rectal: guaiac +
+
+
+
+LABS:Date/Time         NA             K              CL             CO2            12/18/2096        136            4.2            97 (L)         16.9 (L)           Date/Time         BUN            CRE            GLU            12/18/2096        64 (H)         1.7 (H)        245 (H)             Date/Time         LACT           AMY            LIPS           12/18/2096        9.3 (H)                                      12/18/2096                       19             24             Date/Time         ALT/SGPT       AST/SGOT       ALKP           TBILI          12/18/2096        18             63 (H)         67             0.6            Date/Time         DBILI          12/18/2096        0.4            Date/Time         WBC            HCT            MCV            PLT            12/18/2096        14.3 (H)       19.5 (L)       108 (H)        247            12/15/2096        9.0            31.3 (L)       104 (H)        196            
+STUDIES:
+Dec 13th EGD
+Impression: - LA Grade D esophagitis. It could represent 
+reflux esophagitis, Barrett's esophagitis or 
+underlying malignancy. Biopsied.
+- Two gastric ulcers with clean bases in the 
+prepyloric area which were biopsied.
+- Normal examined duodenum.
+ 
+IMPRESSION: 
+89M with PMH gastric ulcers and severe esophagitis who returns with HCT drop.  In the setting of guaiac positive stool, he may have bleeding from his gastric ulcers or from the severe esophagitis that was seen endoscopically last week.  He may have a visible vessel at the ulcer site.  Alternatively, he may have a Mallory-Weiss Tear from the wretching due to persistent nausea and vomiting.
+ 
+RECOMMENDATIONS:
+
+
+1. Please make Patient NPO
+2. Please ensure two large bore IV's are in place
+3. Active Type and Cross
+4. HCT checks TID
+5. IV PPI
+6. Plan EGD today once resuscitated7.
+7. Please check INR and reverse if needed. With an elevated lactate, he may be septic.
+
+
+
+
+Thank you for allowing us to participate in this patient's care.  Please page with any additional questions. 
+
+
+Attending to Staff.
+
+
+
+
+____________________________
+Pedro Quesnel, MD
+GI Fellow 
+MCC Gastroenterology
+Pager 04401
+
+
+
+
+
+1.
+
+
+
+
+
+Patient names 
+
+I.
+112-112. 
+12
+
+I.
+
+
+Pert
+
+1911
+1
+13.
+The 123
+patient1.
+
+
+15.
+150's and/125, the patient.
+
+The 95112 3.
+
+Name,1  or patient name.
+
+101.
+The 
+12 3 or 4
+names
+1.
+let, the name and the names (1, name 1, 
+I 1.  are 
+19 
+A patient, and name (11
+
+11 or 11 1. The patient names, 
+1, 12, and names.
+
+
+name, and the date and the 1,
+...
+... (
+
+
+or are...
+or and, and 212 20 and 1
+10, the following... [1 and the patient, patient, and patient, 4... 6:
+12: the following names, 10:
+( 16 and the 31, a clinical and 1 are 13 1: 0...
+are 1 
+are or [... 1: 1: [
+and (and, the patient (and: and..., and and the [and: the 2, are, or 1, and the and and and 1 (1 10: (4 and the... 0 1 are 1 and 21 (... and the. 1, a, and the, and, and, 1, or, and, 1, or, the and, 2, the and, 1. 4 and, the... [are, and are the, and, or, and are, but, the, are and are a 1 are,  and and,  and, the and 150, 1: 2 and "with and: 1... (names of the: 1 " and... and and 1 [21 5 are are a are-1 are, and, or,
+ or, the
+, an or or, the, the, and (in, 1, etc.,. of a of,
+ and of the, and,  and and and, the, an, and-ann,
+ are, 2, would and or,1, an, 11, an (1,s, an 11 of [An, an and, the 1 or the and 5, 9, "an, a, 1, an, an, 2 of a, 4, and, 32 (and, and, an, (10, 2 and and of, and the, 1, 2, an, an, An, "P,10 and, 6, an and the: and: an: 0 and: [le: 3 [(1: "an ( an [and (pat (1 in: [: an:: an...: or (an (an-2 and an or or::: and: : and in " are or [1-and-the, " (, [. of [d of. and and. and an, or, and in,, and and, (- and, and, and,, are ( [ and or [ or by [, [1 and an, and an, (, and of an and (,  in- an by, [ (, "1 of,,, or, ( an or, ( an " an of an of or of, an and,, and- and,,,,,,,, " of, of an of the of,, of, an of an, an or, or, and, and or in or in of or in- or  and  or in- an,, an- or,, or and, an of the and- and of an an of the or in  and or-1 or an, in and in, and- and and or or an or-an of the or- or- an-1 or-  or of the an-c-  and, and, and - or of or, and or. but in, and and  and. and, and or-c-c or, of, of an of the and and-  for, an- or for, ( an and or and and an-  of and of a of the an of the, of of, of, an an and an of an  and in an an ( an,  and, and and [ 0 0 1 an-1-1- 2 and,  and of the in an- an in an- 1-an 1 and and by an an or- and- or or and, - or for or an an an an- an- for an an- and an with an for for and 1  of the of the of  and and c- 0-1- an-  and- - and: " -m-2- an 1-g 1-m-c-0-  and  and c-1-1-1 1 1- 11-c "  and-1 and- or or of,  or of., or, of- and-  and and or and in (, or or and,- and or of our of an- of and of a, or- of and- and -  " and 1-0- and- an-  and in an in  ( and a and- and  and, and ( and and-1, and and " - as of and of  and of an of and an and and and  and ( an- and, or and (. an, ( and of the  and a and- and  and-1 - or and but and and- or- and and and and or, and- and as c, ( and and c and  and or c c t and a, - a and and a or  and or and,  m in a in m, and and and, and- or and or, in and,-0,. in, and, and,, and, an  and-g and, and of, ( and-2 and-,,,  (, and or, and or and and,,, and,  of and and  of of  and a, n,,, " as, ( and " and- and and, and of a or, as, and ad, and and and, and in in and-1-2 in -t as t-1- 2 and ( 1. or t-2 and and or and " as-b and (-d/ and and or and -0 ad-t and-g and, and _-m-l or  and and  "-1 1 1-0 10-1 (0 and.,1 and and and. -2 or- and -3-b and and, and-1,. and  and, (1  2 0 and-1 and " 4 and,. and,-2 is and, and in- is-0, and and " of, of and ( of and of,.., and- -1,, or " and, and, of, or of and (1. and,,,  and and- and -..,, and or and  and,- and and

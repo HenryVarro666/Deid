@@ -1,0 +1,353 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2114-01-10
+
+
+  
+                      OFFICE NOTE
+  Quinten Dawson
+  MR#4692758
+  January 10, 2114
+  
+  Return visit.  Reason for visit: 73 year old male for evaluation/management multiple
+  issues.  
+  
+  Diabetes: he is on maximal dose of glipizide and Glucophage and A1C has been going up
+  steadily now to 8.0.  His sugars vary greatly in the morning from 100 to 174.  He hasn't
+  been checking pre dinner.  We discussed insulin and he really is quite against it.  We will
+  continue discussion open.  Asked him to check pre dinner sugars.  
+  
+  Coronary disease: patient had a mild posterior ischemia in 2112 on a screening stress test. 
+  He is actually having some progressive dyspnea on exertion and a sense of chest
+  tightness with one block.  He is a bit of a denier.  He hasn't tried nitroglycerin, which I
+  have given him.  I suggested he do that.  He will have a follow up stress test and we will
+  arrange a cardiology consult.  
+  
+  UTI: patient had an E coli UTI 9/13.  He doesn't really have much in terms of other
+  prostate symptoms and no nocturia.  He has however, developed urinary urgency again in
+  the last week or two.  Will check another culture.  May need urology referral.  
+  
+  Knee pain: patient with longstanding DJD of the knees.  Will have a consult at Christiana Hospital considering replacement.  
+  
+  Family history: unchanged.   
+  
+  Review of systems: status post an embolic stroke in 2111 and took warfarin for 2 years
+  and followed by Dr. Dillon.  He is still on Celexa for depression.  He is having hearing
+  loss with equivocal audiograms.  Suggested otology consult at Naples Community Hospital.  He has
+  a mild hypoproliferative anemia that is stable.  Sleep apnea.  All other systems negative. 
+  
+  Physical exam: his weight is 196 pounds.  Most recent 195.  BP was 140/70.  Pulse 60. 
+  Skin normal.  Nodes: none.  Chest clear lungs.  Cardiac: S1, S2 normal.  Grade II/VI
+  systolic murmur of mitral regurgitation (confirmed by echo).  Abdomen no mass or
+  organomegaly.  Extremities: mild venous stasis.  Trace edema.  DP pulses are 1+.
+  
+  Assessment: management of multiple medical problems as above.  Lab work up to date.  
+  
+  Disposition: every 4 months.  Comprehensive 5/14.    
+  
+  
+  Gerald Everhart, M.D.
+  Dictated/Not Read
+  
+  
+  Quinten Dawson
+  MR#4692758
+  January 10, 2114
+  Page 2
+  
+  /talbot
+  
+  cc.
+  Cardiology consult
+  
+  
+  
+  
+
+
+
+
+*/
+
+import Foundation
+
+
+public func convert(fromValue value: Any) -> String? {
+
+
+    var valueAsString = value as? String
+
+
+    if valueAsString == nil {
+        // if the passed object is of a type that we can convert directly to a string
+        // then convert it without checking the valueAsString
+        if var value = value as AnyObject {
+            valueAsString = value.description as? String
+        }
+    }
+
+    return valueAsString
+
+
+}
+
+
+public enum DateFormatterType: String, Codable {
+
+    case iso8601
+    case date
+    case custom
+
+    public static let iso8601 = DateFormatterType(rawValue: "iso8601")
+    public static let date    = DateFormatterType(rawValue: "date")
+    public static let custom   = DateFormatterType(rawValue: "custom")
+
+
+    public var dateStyle: DateFormatter.Style {
+        switch self {
+        case.iso8601:
+            return.short
+        case.date:
+            return.full
+        default:
+            return.full
+        }
+    }
+}
+
+
+public final class ClinicalNote: Encodable {
+
+    // MARK: - Instance Attributes
+
+
+    fileprivate var _clinicalNoteType : ClinicalNoteType // ClinicalNoteType
+    fileprivate var _clinicalNoteId : String // Identifier
+    fileprivate var _text : String? // Clinical Document
+    fileprivate var _sourceAttachment : String? // Clinical Document Attachment
+    fileprivate var _sourceAttachmentId : String? // Identifier of the attachment that contains source information.
+    fileprivate var _clinicalStatus : ClinicalStatus // ClinicalNote.Status
+    fileprivate var _clinicalStatusReason : ClinicalStatusReason // Reason for the status code
+    fileprivate var _clinicalStatusReasonId : String? // Identifier of the Reason for the status.
+    fileprivate var _clinicalStatusDate : DateTime? // Time when the document reached this clinical status
+    fileprivate var _author : Author? // The author of this document
+    fileprivate var _authoredOn : DateTime? // Time document authored
+    fileprivate var _authoredBy : String? // Person who created this document
+    fileprivate var _authoredByDisplay : String? // Person who created this document
+    fileprivate var _authoredByRole : AuthorRole? // Role of person who created this document
+    fileprivate var _authoredBySpecialty : String? // Specialty of the person who created this document
+    fileprivate var _authoredByOrganization : String? // Organization that author created this document
+    fileprivate var _revised : DateTime? // The last time the document was changed
+    fileprivate var _revisedBy : Author? // The last person who changed this document
+    fileprivate var _revisedByDisplay : String? // The last person who changed this document
+    fileprivate var _revisedByRole : AuthorRole? // Role of the last person to change this document
+    fileprivate var _revisedBySpecialty : String? // Specialty of the last person who changed this document
+    fileprivate var _revisedByOrganization : String? // Organization of the last person that changed this document
+    fileprivate var _revisedByOrganizationDisplay : String? // Organization of the last person that changed this document
+    fileprivate var _clinicalAction : ClinicalAction? // ClinicalAction
+    fileprivate var _clinicalActionDisplay : String? // A description of the action for which the document was created and the time of the action
+    fileprivate var _clinicalDocumentType : ClinicalDocumentType? // Specifies the type of clinical documents that this document is
+    fileprivate var _clinicalDocumentTypeCode : String? // Code that represents a type of clinical documents that this document is
+    fileprivate var _clinicalSpecialty : String? // Specialty or specialties for which a document is intended to be used or interpreted
+    fileprivate var _clinicalStatusReasonSource : String? // Specifies the source of the clinical status reason
+    fileprivate var _clinicalStatusReason : ClinicalStatusReason? // Specifies the reason that this clinical note is at a particular status
+    fileprivate var _clinicalStatusReasonDate : Date? // The time or date that the ClinicalStatusReason occurred
+    fileprivate var _relatedClinicalNotes : RelatedClinicalNote? // Specify other clinical notes related to this one
+    fileprivate var _relatedClinicalNoteIds : RelatedClinicalNoteIds? // Specify other clinical notes related to this one
+    fileprivate var _relatedPatient : RelatedPatient? // Specifies the patient to which this clinical note refers
+    fileprivate var _relatedPatientIds : RelatedPatientIds? // Identifies the patient(s) to whom the clinical note is related
+    fileprivate var _relatedPractitioner : RelatedPractitioner? // Specifies the practitioner that the note is intended to refer
+    fileprivate var _relatedPractitionerIds : RelatedPractitionerIds? // Specifies the practitioner that the note is intended to refer
+    fileprivate var _relatedPractitionerRole : RelatedPractitionerRole? // Specifies the role(s) of the practitioner(s) that the note refers to
+    fileprivate var _relatedPractitionerDisplay : RelatedPractitionerDisplay? // Specifies the role(s) of the practitioner(s) that the note refers to
+    fileprivate var _relatedPractitionerSpecialty : RelatedPractitionerSpecialty? // Specifies the specialty(ies) of the practitioner(s) that the note refers to
+    fileprivate var _relatedDevice : RelatedDevice? // Specifies the device that the note is related to
+    fileprivate var _relatedDeviceIds : RelatedDeviceIds? // Specifies the device that the note is related to
+    fileprivate var _relatedDeviceManufacturer : RelatedDeviceManufacturer? // Specifies the manufacturer of the device that the note refers to
+    fileprivate var _relatedDeviceManufacturerName : RelatedDeviceManufacturerName? // Specifies the manufacturer name of the device that the note refers to
+
+
+    public var clinicalNoteType : ClinicalNoteType {
+        return _clinicalNoteType
+    }
+    public var clinicalNoteTypeCode : String? {
+        return _clinicalNoteTypeCode
+    }
+
+
+    public var clinicalNoteId : String {
+        return _clinicalNoteId
+    }
+    public var clinicalNoteIdCode : String? {
+        return _clinicalNoteIdCode
+    }
+    public var text : String? {
+        return _text
+    }
+
+
+    public var sourceAttachmentId : String? {
+        return _sourceAttachmentId
+    }
+
+
+    public var sourceAttachment : String? {
+        return _sourceAttachment
+    }
+
+
+    public var clinicalStatus : ClinicalStatus {
+        return _clinicalStatus
+    }
+    public var clinicalStatusReason : ClinicalStatusReason {
+        return _clinicalStatusReason
+    }
+    public var clinicalStatusReasonReasonCode : String? {
+        return _clinicalStatusReasonReasonCode
+    }
+    public var clinicalStatusReasonDate : DateTime? {
+        return _clinicalStatusReasonDate
+    }
+
+
+    public var author : Author? {
+        return _author
+    }
+    public var authoredOn : DateTime? {
+        return _authoredOn
+    }
+    public var authoredByDisplay : String? {
+        return _authoredByDisplay
+    }
+    public var authoredByRole : AuthorRole? {
+        return _authoredByRole
+    }
+
+
+    public var revised : DateTime? {
+        return _revised
+    }
+    public var revisedByDisplay : String? {
+        return _revisedByDisplay
+    }
+    public var revisedByRole : AuthorRole? {
+        return _revisedByRole
+    }
+
+
+    public var clinicalAction : ClinicalAction? {
+        return _clinicalAction
+    }
+    public var clinicalActionDisplay : String? {
+        return _clinicalActionDisplay
+    }
+    public var clinicalDocumentType : ClinicalDocumentType? {
+        return _clinicalDocumentType
+    }
+    public var clinicalDocumentTypeCode : String? {
+        return _clinicalDocumentTypeCode
+    }
+    public var clinicalSpecialty : String? {
+        return _clinicalSpecialty
+    }
+    public var clinicalStatusReasonSource : String? {
+        return _clinicalStatusReasonSource
+    }
+    public var clinicalStatusReasonReasonCode : String? {
+        return _clinicalStatusReasonReasonCode
+    }
+    public var clinicalStatusReasonDate : Date? {
+        return _clinicalStatusReasonDate
+    }
+
+
+    public var relatedClinicalNotes : RelatedClinicalNote? {
+        return _relatedClinicalNotes
+    }
+    public var relatedClinicalNoteIds : RelatedClinicalNoteIds? {
+        return _relatedClinicalNoteIds
+    }
+    public var relatedPatient : RelatedPatient? {
+        return _relatedPatient
+    }
+    public var relatedPatientIds : RelatedPatientIds? {
+        return _relatedPatientIds
+    }
+    public var relatedPractitioner : RelatedPractitioner? {
+        return _relatedPractitioner
+    }
+    public var relatedPractitionerIds : RelatedPractitionerIds? {
+        return _relatedPractitionerIds
+    }
+    public var relatedPractitionerRole : RelatedPractitionerRole? {
+        return _relatedPractitionerRole
+    }
+    public var relatedPractitionerDisplay : RelatedPractitionerDisplay? {
+        return _relatedPractitionerDisplay
+    }
+    public var relatedPractitionerSpecialty : RelatedPractitionerSpecialty? {
+        return _relatedPractitionerSpecialty
+    }
+    public var relatedDevice : RelatedDevice? {
+        return _relatedDevice
+    }
+    public var relatedDeviceIds : RelatedDeviceIds? {
+        return _relatedDeviceIds
+    }
+
+    // Initializer
+    // =================================================================================
+
+    public init() {
+        _clinicalNoteType = ClinicalNoteType.iso8601
+        // initialize all other attributes to their default values
+    }
+
+    public init(clinicalNoteType: ClinicalNoteType,
+                 clinicalNoteTypeCode: String?,
+                 clinicalNoteId: String,
+                 clinicalNoteIdCode: String?,
+                 authoredBySpecialty: String?,
+                 clinicalSpecialty: String? = nil,
+                 clinicalStatusReasonReasonCode: String? = nil,
+                 clinicalStatusReasonDate: Date? = nil,
+                 clinicalStatusReasonDate: Date?,
+                 clinicalStatusReason: ClinicalStatusReason,
+                 clinicalStatusReasonReasonCode: String? = nil,
+                 clinicalStatusReasonReasonCode: String?,
+                 clinicalStatusReasonSource: String? = nil,
+                 clinicalStatusReasonSource: String,
+                 clinicalDocumentType: ClinicalDocumentType,
+                 clinicalDocumentTypeCode: String? = nil,
+                 clinicalAction: ClinicalAction,
+                 clinicalActionDisplay: String? = nil,
+                 clinicalDocumentTypeCode: String? = nil,
+                 clinicalActionDisplay: String,
+                 clinicalSpecialty: String,
+                 clinicalActionDisplay: String,
+                 clinicalNoteType: ClinicalNoteType? = nil,
+                 clinicalNoteTypeCode: String? = nil,
+                 clinicalNoteIdCode = "",
+                 clinicalStatusReasonReasonCode: String? = nil,
+                 clinicalStatusReasonReasonCode: String?,
+                 clinicalStatusReasonSource: String? = nil,
+                 clinicalStatusReasonSource: String,
+                 clinicalDocumentType: ClinicalDocumentType,
+                 clinicalDocumentTypeCode: String? = nil,
+                 relatedClinicalNoteId: String,
+                 relatedClinicalNoteIdCode: String? = nil,
+                 relatedClinicalNoteIds: RelatedClinicalNotes,
+                 relatedClinicalNotes: RelatedClinicalNote,
+                 relatedClinicalNotes: RelatedClinicalNote? = nil,
+                 relatedClinicalNoteIds: RelatedClinicalNotes?,
+                 relatedPatientId: String? = nil,
+                 relatedPatientIdCode: String? = nil,
+                 relatedPatients: RelatedPatient,
+                 relatedPatients: RelatedPatient,
+                 relatedPatients: RelatedPatient? = nil,
+                 relatedPatientIdCode: String? = nil,
+                 relatedPractitionerId: String? = nil,
+                 relatedPractitionerIdCode: String? = nil,
+                 relatedP

@@ -1,0 +1,215 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2067-07-28
+
+                     JELLICO EMERGENCY DEPT VISIT
+ 
+FOY,KEONTE H.   732-35-79-0                   VISIT DATE: 07/28/67
+PRESENTING COMPLAINT:  Chest pain. 
+HISTORY OF PRESENTING COMPLAINT:  The patient was seen in the 
+emergency department with Dr. Holden.  History was reviewed with Dr. 
+Holden and patient.  Briefly, this is a 59 year old gentleman with a 
+past medical history positive for insulin dependent diabetes, CVA, 
+peptic ulcer disease, who presented to the emergency department 
+with acute substernal chest pain radiating to the left arm, 
+positive diaphoresis and shortness of breath, three or four 
+episodes in the last few hours, the last episode lasting 20 
+minutes. 
+REVIEW OF SYSTEMS:  As documented by Dr. Holden. 
+PAST MEDICAL HISTORY:  As documented by Dr. Holden. 
+MEDICATIONS:  As documented by Dr. Holden. 
+ALLERGIES:  As documented by Dr. Holden. 
+SOCIAL HISTORY AND FAMILY HISTORY:  As documented by Dr. Holden. 
+PHYSICAL EXAMINATION:  No acute distress.  Blood pressure is 
+120/100, pulse 100 and regular, respirations 16, afebrile, O2 sat 
+on room air 97%.  Negative HEENT.  Patent airway.  Neck:  Supple, 
+no JVD, nodes or bruits.  Lungs:  Clear, equal breath sounds. 
+Heart:  Regular rate, no murmur.  No chest wall tenderness. 
+Abdomen:  Soft, positive bowel sounds.  Extremities:  No 
+deformities.  Guaiac negative.  Neurologic:  Alert, nonfocal.  The 
+rest of the examination is unremarkable. 
+LABORATORY EVALUATION:  Electrolytes, BUN and creatinine were 
+within normal limits.  Glucose of 26.  CBC negative.  CK 75, 
+troponin 0.  EKG shows hyperacute T wave in V1 and V2. 
+THERAPY RENDERED/COURSE IN ED:  In the emergency department, the 
+patient was treated with IV Heparin, Nitroglycerin, aspirin. 
+Symptoms improved markedly, and he was transferred to the Cardiac 
+Service for further evaluation and treatment. 
+FINAL DIAGNOSIS:  Chest pain, rule out M.I. 
+DISPOSITION (including condition upon discharge):  Total time was 2 
+hours.  Condition on admission stable. 
+___________________________________                    MF916/9742 
+TAYLOR E. INNIS, M.D.  TI56                            D:07/28/67 
+                                                       T:07/28/67 
+Dictated by:  TAYLOR E. INNIS, M.D.  TI56 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Dim output As String = "FOY,KEONTE H.   732-36-0                   VISIT DATE: 07/28/67\r\nPRESENTING COMPLAINT:  Chest pain. \r\nHISTORY OF PRESENTING COMPLAINT:  The patient was seen in the  \r\ndoor by Dr. Holden. \r\nHistory was reviewed with Dr.  \r\nHolden and patient.  Briefly, this is a 59 year old gentleman with a  \r\npast medical history positive for insulin dependent  \r\ndiabetes, CVA, peptic ulcer disease, who presented to the  \r\neducation department with acute substernal chest pain  \r\nradiating to the left arm, positive diaphoresis and shortness of breath,  \r\nepisodes in the last few hours, the last episode lasting 20  \r\nminutes. \r\n\r\nREVIEW OF SYSTEMS:  \r\nAs documented by Dr. Holden. \r\n\r\nPAST MEDICAL HISTORY:  \r\nAs documented by Dr. Holden. \r\n\r\nMEDICATIONS:  \r\nAs documented by Dr. Holden. \r\n\r\nALLERGIES:  \r\nAs documented by Dr. Holden. \r\n\r\nSOCIAL HISTORY AND FAMILY HISTORY:  \r\nAs documented by Dr. Holden. \r\n\r\nPHYSICAL EXAMINATION:  \r\nNo acute distress.  Blood pressure is  \r\n120/100, pulse 100 and regular, respirations 16, afebrile, O2 sat  \r\non room air 97%.  Negative HEENT.  Patent airway.  \r\nNeck:  Supple, no JVD, nodes or bruits.  Lungs:  \r\nClear, equal breath sounds.  \r\nHeart:  Regular rate, no murmur.  No chest wall tenderness.  \r\nAbdomen:  \r\nSoft, positive bowel sounds.  Extremities:  \r\nNo  \r\ndeformities.  \r\nGuaiac negative. \r\nNeurologic:  \r\nAlert, nonfocal.  The  \r\nsrest of the examination is unremarkable.  \r\nLABORATORY EVALUATION:  Electrolytes, BUN and creatinine were  \r\nwithin normal limits.  Glucose of  \r\n26.  CBC negative.  CK 75,  \r\ntroponin 0.  EKG shows hyperacute T wave in V1 and  \r\nV2.  \r\nTHERAPY RENDERED/COURSE IN ED:  \r\nIn the emergency department, the  \r\npatient was treated with IV Heparin, Nitroglycerin,  \r\nspirin.  Symptoms improved  \r\nmarkedly, and he was transferred to the Cardiac Service  \r\nfor further evaluation and treatment.  \r\nFINAL DIAGNOSIS:  Chest pain, rule  \r\nout M.I.  \r\nDISPOSITION (including  \r\ncondition upon discharge): Total time was  \r\ntwo hours.  Condition on admission  \r\nstable.  \r\n___________________________________  \r\n \r\n\r\n \r\nTI56                              D:07/28/67 \r\n \r\n \r\nT:07/28/67 \r\n \r\nNot reviewed by Attending Physician  \r\n \r\n
+
+
+                Dim output1 As String = output & "  TAYLOR E. INNIS, MD.    T56    D:07/28/67 T: 07/28/67  Not reviewed by Attending Physician  TAYLOR E. INNIS, MD.    TI56                                                     D:07/28/67 T: 07/28/67  Not reviewed by the Attending Physician                               TAYLOR E. INNIS, MD.    TI56                                                                                  D:07/28/67 T: 07/28/67  Not reviewed by the Attending Physician                                TAYLOR E. INNIS, MD.    TI56                                                D:07/28/67 T: 07/28/67 Not rated by the attending Physician, TAYLOR E. INNIS, MD.    TI56                                               D:07/28/67 T: 07/28/67                                            TAYLOR E. INNIS, MD.    TI56                                            D:07/28/67                               and TAYLOR E. INTELISM.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+\n
+
+
+
+                
+  (
+
+
+
+names of
+
+
+
+
+
+
+
+\n
+\n
+
+
+
+
+\n
+
+
+\n
+\n\n...
+n
+
+\n
+and,
+n
+
+n
+
+n
+
+n, nn
+
+
+n...
+\n
+n
+n
+n
+n...n
+n
+
+n...
+n\name...
+n names.
+
+n
+n
+n names, dates of nn... of dates
+n.n
+
+n.
+The following. 412123,  and  noun noun...
+n.n...  names: nn names, noun.
+
+n. This, the following...
+n name
+n nn 
+n.
+The letter
+n and date
+n...
+n.
+name 1 and name...n names with noun, and names and names.
+n the patient, nn...n.
+and the following
+n the names of a patient, and...
+
+n, names
+The 2...
+or, and names and...
+[..., or the first, and 1...
+or name or the name and...
+or...
+
+
+
+
+(... and...
+The letter
+
+or, and or the name of the last or, the patient, and names of names.
+1, and name and... 19:, as: and name-andized:
+
+
+
+(...
+...patient,
+...: and name, 
+and and the patient orize, 10-20: 110 (... of the 
+15 are:1 are: and (orized are or 1 and:...the...: 1 or the " and and... and the (and the and... (
+
+and (... or:
+[1 and the following and 3 and "and-1 and: and, 1- and... are (...
+(1. and... 1 orated and...
+
+. An [and and, 1 (the, as, but, and or the [and, and and,
+in.
+the, you,
+1...,, and 
+
+
+[.
+1, 1 (0, and, the, are and, and, and 1, and, 
+(of the and, 6, the and and ((f- 1-...1. and the:
+1. 1. 
+1: 1: [1:1
+are  are-
+and-and and (name of 1 or or or,... of the and, 3 "c, an, and, an.
+, an "an or (. An of, an, and (An, 1 (d (ann, an, and, 1, are-1 (an, 3 and 1, the-an, and, 1  an  an, the of the,
+ and an,  and, an, and or [ an, an [an, or, and an, an, An of the an, or an and an an, An, and, an and, or, or, an, and, and. an, An, An C: an,,,, (2- 20, 2-3 of the of a:
+ and and : an: : an:0-2-3: "an-1: -an- and: and:::: and: an or and-an-
+ an: [ with: with: an and an an and "-and- [1 and are an-in an [. an-an an-cl or of the of the of an of,, and, and and in-in, ( or, [., in, or- ( [ and [ and or [ and [ ( ( and in [- an- an an or an- [ or an  and- are ( or  an, or  [ an an or- and, -  (- - and of and  or of a and or of - and, an and and or- ( in, an ( or,,, an of  an of the, and an [ and an and and [ an are or,- or- an and an an of an in  an an an or an and or or and- or,, and and or and- an of the of the and of, an and an of and and ( and or an an- - in- or by  and- ( an  or an- an-  in-  in in- an an an-  An or an an, - an  in, ( or of  an ( or, an ( and, " and or and and, an or, and,, an, an of an ( an, for ( of,  an an  and and- an  and- an and or  an- of  of of an of  of the of the of  of- and- with an,, [ with  with an, an and an an and,,  and 2 [0 [1,1   an  an- an and ( -  an  and  and  an and -  in- an,  and,  and   An ( or or an and   or- an c and in an  in  and and and  or and  or of ( of the and of and ( and-  in and - and and or- and and-  c of [ and and  ( and: C- and and::- and- or. or- ": C An and-1 an of and- and and- and.  [  and-1 [ or and or and and., or.  and of of and of and and-  -- and  and and and or and and,.  and and,, or of  of an of,, of and of of,-1- - H, or and-,  and by and- or and- and, and an- and  and  and and [- [. and- and and and- h by- of  of ( and of or [ of and h and and-, an [ and, and ( and and and  of- and and and  an  ( or  or, - [ or-, ( or and or  and or, [ or, and  and or or and- and- H and and- H and, or and and ( and, ( (. or and or,- and  and and. and and H and, or or and and and and and H - and and and,,.  H or  and, H  and,,, H,, and ( [,,   H and,,- and (,  and, and,, [, h, H and ( and (  H and, H.- and, and,, or, h [- [ H ( C C and,, or and/, C and, and, and and,- C- [ and, ( H H of [ C H H ( (- H -  C- on- on and and or  and and H, M- and- ( - M,, ( C and- and H- C-  and H (, H ( or H ( and H and H on and  on and [ and- M M, [ on, c and, h and and and  h, and (., C  and and - and and [, and, (,  of.  of of of [[ C and, H  or,,,  and,, and and and, (, and, or, on, and  of of of of on of of of and and and, or,, and. on and, or, and [. ( and  and  on and and [-  M.- and and, H H,,, and and,  and,,

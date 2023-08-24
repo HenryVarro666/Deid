@@ -1,0 +1,580 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2086-01-17
+
+Xavier Oshea
+
+MGH #581 77 50
+
+
+
+1/17/86
+
+
+
+Referred for urologic consultation by :Veronica Frey, MD
+
+
+
+Reason for consultation:Voiding dysfunction
+
+
+
+Chief Complaint of:Problem urinatingHistory of Present Illness
+
+ Pt iss/p TURP in 2082 in NY. for BPH.  He was on Flomax but stopped because he felt it was not helping his nocturia 3-4x.  He says he had 2 prostate bx's in NY that were negative.  His PSA in past has been in range of 5.2-6.5.  He has sent some Urology notes from previous providers but these are not here today.No frequency, hesitancy or urgency or gross hematuria. 
+
+
+
+
+
+Past Medical History: 
+
+      Diabetes mellitus
+
+      Hypertension
+
+      Glaucoma
+
+      Visual impairment    : pt legally blind
+
+
+
+Past Surgical History:
+
+
+
+Medications:
+
+      DIPYRIDAMOLE   75MG,  2 Tablet(s)  PO TID
+
+      Enalapril Maleate    20MG,  1 Tablet(s)  PO QD
+
+      Metoprolol Tartrate    50MG,  1 Tablet(s)  PO BID
+
+      TRAZODONE   50MG,  1 Tablet(s)  PO QHS PRN insomnia
+
+      Insulin 70/30 Human    30 UNITS SC BID : 30U qAM, 30U qPM
+
+      Insulin Nph Human    30 UNITS SC BID BEFORE BREAKFAST AND BEFORE SUPPER
+
+
+
+
+
+Allergies: NKDA
+
+
+Family History
+
+mother died age 37 of ?PE; father died age 52 complication of EtOHism; otherwise non-contributory.
+
+
+
+Social History
+
+language: English
+
+living: w/ son and his wife; moved here from NY in 12/2084
+
+work: retired
+
+tobacco: 2 ppd x 24 yrs; quit age 39
+
+EtOH:  remote hx heavy use; quit age 39
+
+drug: none
+
+sexual: not active
+
+
+
+No family history of GU diseases or malignancies
+
+Married/Single
+
+Sexually Active
+
+Smoke
+
+Alcohol use
+
+
+
+Review of Systems:
+
+ROS: pt denies fever, chills, wt change; denies eye problems, visual change, hearing problems, sinus symptoms, throat soreness; denies chest pain, palpitations; denies sob, wheezing, cough; denies nausea, vomiting, diarrhea, constipation, abdominal pain, BRBPR; denies hesitancy, weak stream,denies cold or heat intolerance, tremor, hair loss; denies polyuria, polydipsia, polyphagia; denies rashes; All other systems reviewed and are unremarkable.
+
+Genitourinary Review of Systems
+
+No Kidney stones
+
+No Urinary tract infections
+
+No Strictures
+
+No Sexually transmitted diseases		
+
+
+
+Physical Examination:
+
+
+
+Vital Signs:
+
+Well nourished, well-developed
+
+Respirations: 14
+
+Pulse Regular
+
+
+
+Complete Genitourinary Examination: 
+
+Flank: Non tender to palpation or masses 
+
+Bladder: Non tender Non distended
+
+Scrotum: No lesions
+
+Intrascrotal: No hydrocele, varicocele or spermatocele
+
+Hernia: Non palpable
+
+Epididymus: No masses, cyst  
+
+Testes:Descended bilaterally No masses or tenderness
+
+Urethral Meatus: Normal size and location
+
+Penis: Foreskin without lesions
+
+Prostate: No Nodules, non tender or boggy  BPH 1+ Seminal Vesicles: Symmetric
+
+Sphincter Tone: Normal
+
+Hemorrhoids: Absent
+
+Rectal Masses: Absent
+
+
+
+Laboratory Values:
+
+X-Ray studies:N/A
+
+Post-void residual by bladder scan is  cc's
+
+An independent review of a urinalysis shows:
+
+                          No WBC's
+
+                          No RBC's
+
+                          No Glucose
+
+                          No Protein
+
+                          No Bilirubin
+
+                          Nitrite Negative
+
+:
+
+
+
+
+
+Impression: S/P TURP for BPH with persistent LUTS
+
+
+
+            
+
+Plan: Repeat PSA and Free%
+
+Recommended to restart Flomax 0.4mgqhs (Pt will think about this)
+
+
+
+
+
+Follow Up:  prn 
+
+
+
+
+
+Signed,
+
+
+
+
+
+Taj E. Landers, MD
+
+Urology- Martinsville General Hospital
+
+Norfolk University
+
+131-631-4189
+
+
+
+cc:Dr. Veronica Frey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{verbatim}
+
+\subsubsection{Patient Notes - 33-year old male, with history of urinary retention}
+
+
+
+\begin{verbatim}
+
+
+
+Record date: 2086-01-17
+
+
+
+Record # 4749
+
+
+Patient notes for 33yo Male
+
+Pt. Pres. by : Veronica Frey, MD
+
+
+
+Reason for consultation: Voiding Dysfunction, history of urinary retention
+
+
+
+Past Medical History:
+
+
+
+Past Surgical History:
+
+
+
+Medications:
+
+
+
+Family History:
+
+
+
+Social History:
+
+
+
+Review of Systems:
+
+ROS:
+
+
+
+Genitourinary Review of Systems:
+
+Bladder: No polyuria
+
+Scrotum: No masses or lesions
+
+BPH: Non palpable 
+
+Penis: Foreskin without lesions
+
+Hemorrhoids: Absent
+
+Rectal: Non palpable 
+
+Hernia: N/A
+
+Urethral Meatus: Normal size and location
+
+Penis: No nodules
+
+Prostate: No nodules, non tender 
+
+Testes: Bilateral
+
+Seminal Vessels: Normal size
+
+Skin:
+
+Rectum:
+
+Laboratory Values:
+
+X-Ray studies:
+
+
+
+Impression: Urinary retention; History of voiding issues
+
+Psychiatric: N/A
+
+Recommendation:
+
+1/3-4x 2016-02-12
+
+
+
+Plan: Voiding dysfunction workup
+
+
+
+cc: Veronica Frey 2/12
+
+
+
+Referral to Dr. Xavier Oshea
+
+\end{verbatim}
+
+\subsubsection{Patient Notes - 60-year old female, with history of urinary incontinence}
+
+
+
+\begin{verbatim}
+
+
+
+
+Record date: 2086-01-17
+
+
+
+Record # 4750
+
+
+
+Patient notes for 60yo Female
+
+Pt. Pres. by : Veronica Frey, MD
+
+
+Pt. Name: Mildred Smith
+
+
+
+Reason for consultation: Urinary incontinence history, nocturnal incontinence
+
+
+Past Medical History:
+
+
+Hx:
+
+Dx:
+
+
+Medications:
+
+Dx:
+
+Family History:
+
+ROS:
+
+GU Review of:
+
+Genitourinary:
+
+Bladder: Polyuria, polyuria, polyuria
+
+BPH:
+
+Penis:
+
+Urethra:
+
+BPH:
+
+Rectal:
+
+Urinary:
+Hemorrhagic:
+Hemorrhagic:
+
+Hemorrhagic:
+BPH:
+Rectal:
+Rectal: Hemorrhagic:
+Rectal Hemorrhagic: Hemorrhagic:
+
+Hemorhagic:
+
+Hemorrhagic:Hemorrhagic:
+Hemorrhag:Hemorrhag, and 
+
+
+Hemorrhagic
+Hemrhag and
+
+Hemagic:
+or
+
+Hemorrhag and,HIVHIPs.
+
+
+Human names
+Hum.HIV
+Human, HR,HIPH,
+HIP addresses
+HIP
+and
+
+
+Hospital. The patient HHIP
+HIP.
+
+HIP
+HIP, and, I or the patient name
+HIP name
+HIV HIP, or HI, HIPs, ICD codes, and I.
+HIPs I and HIP
+Hip
+HIP, and the patient: I, I.
+I's. 1 I, I 
+1: I.
+(and, or, I with 6, I, the letter names and names or "H and I or the patient, patient, I. 
+
+
+... (10 or I (12 or.
+or names
+the
+or, I, I and 10, as [the, and the [… or 5, and the patient, and I, the patient, or the, the patient, or indicate, and are and name (or (or the 
+, 2, 25, 20 names, and [1, 40 or 20 (1:
+
+
+... 2...:
+patian: 3, use the name, and: the patient (…12:
+:1 are: or the…the are the... are (... of 1 or are the…. [
+name: [are or (
+[the (le, “the " (the of the or …, or, the or (1 or the are (...
+1 or, the: (
+and the or and a, and 6 are 0 and the 
+and are the are and...... (and  and a and a and the, and or, and, and, and... or or...,, and the, as, and, or the, the,
+1 or, the, the and the, and, and, and, and, and, as, are and the and or, and, and are, and, and, are and and, and, you, 0, 6 and [and, and...: 1 and:
+with the following the (patients with the "and... “and... (12...1 ( 2 are-1 are are, are are in (2: and 1 or...
+ or (1, and 1, the... (cand [pat, and of the of the of the, or of,,, 2, and, (an, or, anine (an  are,  and (1 and or: and an " an and the and and-1,  and [A, an [, (an. or, ( and and, (A An of "an of this [  and, and and and (and, the and (of 1- 2, 1, an, an and in or, in, 3, Anis,  (An An, An,  (P or:  and,, Anich, 0, An, An (1-0, an (: :1 of: : 2-1-le: An:: ": (: [::: [: [: (  (: ": : - an: : an:  and:: and: An An or of the ( An " [ " [ are-an-  ( and. An An and or of and. and...  "  and ( ( or or or,, [ An or-An An [ - (  [ and-and-0 - - and- and or- [ or, [  are-an an,,  and,  and " (, ( ( and-  and ( ( or ( of the are and of or of, of or of or, and- or of,-  ( or and, An ( ( ( - and ( of, -, of  ( or: an [ and [, are- an are, ( An " an or or of or of - An, or or of,, An An,, and,, or and  or of, an, an of  of and of: of,  and and An:  ( or: and - are, or,  and or " and of ( of or-2, or ( or -1 or an or- and, - ( -, and,,, or- and - [ and  and ( and an ( " and and and, ( an, or " of or, An or of, or000 An0, and and 0 or, or are, or,  of  of [ of, of, an of of of ( and of,,  and  and, and or,  and-M, an are an c an  and or an and-1 An M An An or  or in and and [ C ( An An C An An ( and or An - ( or An C or or C or or- or or - ( or  C An An or C or C ( ( An An T " (  an (  in - or and and [1 or of or " of ( ( or and, ( or,: C or c and,: - : ":: C and C -: or c and :2 and and-C-P: C: (A- and and or " and An and of-M (1 - or and (  ( " an  ( - and ( - and of, of or of of - of An  of or. of or and and and, or- are and and and in and of of of of of of of C of of of of  (1 C, and C ( and-C ( and C and- and-  and, and and, [ and or  or or - or or-M ( and C and - M and - (: " ( and of and of C P of of (C " T C T ( ( ( or or, or,, ( or, and of and of-2 C-C, or. ( and, or or C or and  (,, -  or, or, and or and or,, and-  T (,, ( and ( and and-C ( and, and, - ( or ( and and, C and,,,, and ( and or (  and and in and, (-  and and- and, ( and or or and for and and, or,-and or and and,,,,,, of-C., (-P and for-M and and ( (, and and, [ C-F of ( S of  C C/- - C ( and c and or or ( T- and, and P - of, of [,,,,, and [,., ( C,. and - and - for and ( M and and or ( ( M and C ( and ( C P L M M M and m M and M C (, and of or and and and and. and and [ C. and ( C and ( and and and and [ or or in, and  and or or in and or-0, and t ( and, M and M,-C and (,, and, and or or - - and - and or and (-C (,,,, and and- P,, or-1 or,1 (1 and,, M to and-M. M-M in,, and and, and, ( in, in, and,,, or  and, and, in M M, in,, S, and and M, P or T M S, and C C-1 C,,- M and,, and,0 (0 -, C,1 and

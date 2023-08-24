@@ -1,0 +1,399 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2073-09-28
+
+59 y/o male for f/u:
+
+   1) BP - No CP, SOB, pedal edema
+
+   2) low HDL - walking daily
+
+   3) ED - Viagra working well at 50 mg 
+
+   4) hi LDL - continues Lipitor w/o muscle pain
+
+
+
+O/E Looks well. BLOOD PRESSURE   120/70  wt 218 HR 68 reg
+
+  chest - CTA
+
+  ext - no edema
+
+
+
+A/P 1) BP - good control
+
+    2) low HDL - much time spent discussing lifestyle treatment. Has increased exercise to walking but wght unchanged > will increase exercise
+
+    3) ED - no change
+
+    4) hi LDL - good control. No change
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  C/T 1) BP - good control
+
+    2) low HDL - much time spent discussing lifestyle treatment. Has increased exercise to walking but wght unchanged > will increase exercise
+
+    3) ED - no change
+
+    4) hi LDL - good control. No change
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   5) ED - continue on Viagra, w/o pain
+
+    6) hi LDL - continue on Lipitor
+
+
+
+
+    7) BP - good control
+
+    8) low HDL - much time spent discussing lifestyle treatment. Has increased exercise to walking but wght unchanged > will increase exercise
+
+    9) ED - continues Viagra 50 mg
+
+    10) hi LDL - continues Lipitor, no complaint of muscular pain
+
+
+
+
+  P/C 1) BP - no complaint, good control
+
+    2) low HDL - no change, no lifestyle treatment yet
+
+     3) ED - good control with Viagra at 50 mg
+
+     4) hi LDL - no change, good control
+
+
+
+
+O/E 1) BP - good control. No complaints
+
+    2) low HDL - no change, still not doing exercise
+
+    3) ED - continues 50 mg, no complaint
+
+    4) hi LDL - good control, no complaint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   5) ED - continues on Viagra, w/o pain
+
+    6) hi LDL - continue Lipitor
+
+
+
+
+    7) BP - good control
+
+    8) low HDL - good lifestyle treatment, increased exercise walking, still not doing weight control and diet
+
+    9) ED - continue on Viagra at 50 mg
+
+    10) hi LDL - no complaint
+
+
+
+
+  P/C 1) BP - good control. No complaints
+
+    2) low HDL - continues w/o exercise
+
+     3) ED - good control with Viagra at 50 mg
+
+     4) hi LDL - no complaint
+
+
+
+
+O/E 1) BP - good control. No pain
+
+    2) low HDL - no change, no exercise
+
+    3) ED - no complaint, good control on Viagra
+
+    4) hi LDL - good control, no complaint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    5) ED - no change, good on Viagra
+
+    6) hi LDL - no change
+
+
+
+
+P/C 1) BP - good control. No pain
+
+    2) low HDL - no change. No weight control or exercise
+
+    3) ED - good control, no complaint on Viagra at 50 mg 
+
+    4) hi LDL - good control, no complaint
+
+
+
+
+O/E 1) BP - good control. No pain
+
+    2) low HDL - no change, no exercise
+
+    3)  ED -  good control, no complaint
+
+    4)  hi LDL - good control, no complaint
+
+
+
+
+    5) ED -  no change, still good control
+
+    6) hi LDL - no change, good control
+
+
+
+
+P/C 1) BP - good control. No complaint
+
+    2) low HDL - no change, still doing diet
+
+    3) ED - good control, no complaint on Viagra at 50 mg
+
+    4) hi LDL - continues Lipitor
+
+
+
+
+O/E 1) BP - good control. No complaint 
+
+    2) low HDL - continues diet 
+
+    3) ED - good control on Viagra at 50 mg
+
+    4) hi LDL - continues Lipitor
+
+
+
+
+P/C 1) BP - good control. No complaint 
+
+    2) low HDL - good control. Good diet, increased exercise walking
+
+    3) ED - good control with Viagra at 50 mg
+
+    4) hi LDL - good control
+
+
+
+
+O/E 1) BP - good control. No complaint
+
+    2) low HDL - good control, good diet and increased exercise
+
+    3) ED - good control with Viagra at 50 mg
+
+    4) hi LDL - no complaint
+
+
+
+
+        5) ED - no change. Still good control on Viagra at 50 mg
+
+    6) hi LDL - no complaint
+
+
+
+
+P/C 1) BP - no complaint
+
+    2) low HDL - continues w/o exercise and diet
+
+    3) ED - good control
+
+    4) hi LDL - no complaint
+
+
+
+
+O/E 1) BP - no complaint
+
+    2) low HDL - no change, no exercise
+
+    3) ED - good control
+
+    4) hi LDL - good control

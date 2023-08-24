@@ -1,0 +1,689 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2085-08-29
+
+
+Pulmonary Service Admission Note
+
+
+HPI: 52 yo male with Cystic Fibrosis, CKD, CF related Arthritis  presents with c/o increased cough, sputum production, SOB and fatigue for several weeks. He also has had a 15 lb weight loss over the past 2 months. His po intake has been decreased.  He denies fever, chills, night sweats, chest tightness, hemoptysis or blood streaking.  
+ 
+
+
+PMH:
+Cystic Fibrosis
+Pancreatic insufficiency
+CKD
+CF related Diabetes Mellitus
+Hypertension
+Nephrotic syndrome (baseline creatinine 1.1), chart dx at CHB of GN, unclear source of dx
+Gout
+Cataracts
+
+
+Allergies: NKDA
+
+
+Medications:  
+Accolate 20 MG PO BID 
+Allopurinol 300 MG daily
+Aspirin 81 MG PO QD 
+Azithromycin 500 MG po Q Thursday/Saturday/Monday
+Colchicine 0.6 MG  PO Q thu/sat/monday 
+HCTZ 25 mg daily
+Humalog SS q AC (approx 20 units)
+Lantus 15 UNITS SC QHS 
+Lopressor  50 MG  PO BID 
+Pancrecarb MS 8 (PANCRELIPASE 8,000 UNITS (PANCRECARB MS 8)) 8 TABS PO QAC and snacks 
+Probenecid 250 MG  PO QD 
+Prednisone 15 MG daily
+Protonix 40 mg PO QD 
+Simvastatin 20 MG po q hs
+Symbicort 80/4.5 2 PUFF INH BID 
+Pulmozyme 2.5 mg nebulized bid
+Hypertonic Saline 4mL inhaled bid
+
+
+FH/SH: lives on long island with partner of 5 years, she is a Notary. Works in shoe repair. Denies tobacco, usually drinks daily glass of grand marnier. notes prior daily marajuana smoking, now 3-4 times per month recently.
+
+
+
+Review of systems:  Denies sick contacts.  denies reflux symptoms. states urine output regular, but had several day period of constipation and abdominal that he was able to resolve with prune juice and Activia yogurt.  
+
+
+PHYSICAL EXAM (in CDIC): 
+Vitals: see nursing flowsheet
+GEN:NAD. Pleaseant male. Nad.
+HEENT: PERRL, op moist, with no exudates, no sinus pain or tendernes, no LAN
+LUNGS: clear to auscultation bilaterally, no wheezes or rhonchi
+HEART:S1S2 reg, no m/g/r, rrr
+ABDOMEN:soft. NT/ND, active BS, no HSM
+EXT: trace digital clubbing b/l, trace b/l ankle edema
+NEURO:alert and oriented x 3, no focal deficits
+
+
+ 
+DATA (from CHB):
+PFT&#8217;s 
+2/01/85 : 65/43/14
+12/12/84: 78/46/14
+2/4/2084: 90/56/18
+1/26/84: 85/53/14
+10/6/82: 45/50/20
+8/13/82: 48/33/14
+
+
+Sputum cultures:
+2/01/85 : PsA (pan sensitive), PsA (pan sensitive), PsA (pan sensitive)
+12/8/84: MRSA (S: linezolid, synercid, tetra, tigecycline, vanco), PsA #1pan sensitive, PsA #2 (S: cipro, zosyn, tobra), PsA#3 (S: amik, azt, ceft, cipro, gent, zosyn, tobra)
+1/26/84
+PsA: (S: ceftaz, cipro, zosyn, tobra)
+PsA: (pan sensitive)
+PsA: (pan sensitive) 
+
+
+ 
+Assessment/Plan:  Mr Aguilar is a 51 M with cystic fibrosis and CKD presenting with subacute CF exacerbation for IV antiobiotic cleanout. He will be admitted to pulmonary PA service.
+
+
+1) Pulm/ID: Start Ceftaz 2 g IV q 12 , Cipro 500 mg po q 12, Vanco 1 g IV q 24
+Sputum cx to CHB, Chest xray, PT c/s for treadmill, Chest PT BID, hypertonic saline, pulmozyme
+
+
+
+2)FEN/GI: Will maintain on high calorie, high protein CF diet and continue current regimen of vitamins and enzymes. Will get 
+Nutrition consult as inpatient has not been seen in quite some time. Will monitor bowels, currently stable.
+
+
+3) CV: History of HTN, will continue home cozaar and lisinopril for now but may consider alternative choices given renal dysfunction if needed. Will monitor vital signs.
+
+
+4) ENDO: CF related DM: will continue lantus and SSI and check FSBS AC/HS. Will send HgA1c given his report of erratic control at home.
+
+
+5) Rheum: Gouty arthritis has been stable, will contiue probenecid. Obtain uric acid level.Wean prednisone. 
+
+
+
+6) Renal: Followed by Dr Esparza -no current issues, last bun/cr: 82/1.77, BP maintained on hctz/lopressor.
+
+
+7)Access: PICC line in IR today
+
+
+8)PPX: sc heparin , PPI
+
+
+9)Dispo: TBD
+
+
+______________________________________
+Ursula Bowers, PA-C 34680
+
+
+
+
+
+
+Pulmonary Attending
+I have seen and examined Mr. Aguilar with PA Bowers with whose note I agree. Admission for "clean-out" for CF. Increased dyspnea and sputum and decrease in spirometry. No hemoptysis. Plan as reviewed with team is to start  Ceftazidime 2 g IV q 12 , Cipro 500 mg po q 12, Vancomycin  1 g IV q 24. Sputum cx will be sent to  CHB. We will initiate chest PT BID, hypertonic saline, pulmozyme. Encourage ambulation. He is on prednisone at 15 mg given hx of arthritis. No alterations in dose at present for pulmonary status. IR picc pending. Laboratory studies and chest x ray pending and will be reviewed personally once available. Disposition pending. Full code.
+ 
+ 
+Rachel G. Richardson, MD 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\emails
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10,2,3, 
+names
+words.
+
+
+
+, replaceable, replace 
+
+names, anatom, anatom
+
+
+
+
+
+
+
+or.
+
+
+
+or.
+
+
+
+
+and the words
+names and replace with 
+name 
+names
+name with a and the patient.
+1 patient...
+
+... or  and the patient of the patient of patient, the patient names and date, date.
+
+or... or the last, or the names, and names and the patient, and,
+or, and the names and the... and the, and the last, and a few and the past...
+
+
+and a patient, or name...
+or, and a, the, and, name... the date (pat names, and names, and remove the [
+. The
+[1 and 5 (1, as your patient and your 
+andized... 5:, 1 (
+[1:
+... or... and 20:
+1 of a few, 1: 
+(andically are: are the or... [orized or, the or or, the, as, and, 20.
+(…, the: 1, orize, 2, the (you.
+1, the and the... and: 3...
+...
+…, are a... 1 of... 1... and 30 (and and are, 1, and, and, 0, a, and, and and and, and, ([, or, and in, as, [and, [,... (......, 3. 1 and, are ( and or and, and, are, and are, and, and,
+, are the... (and of the of a or, and, and, and the: (d [with... with the 3: : : " and and "...: and and… and in 4 are-d [ are  indicate in, and or,
+ or by  or...,, (,,..., 2, etc, and,,, (c of the (.,., and, the, and, ( an, an, an, an, will have an are and are and,  or, or, an "  in,, an,, an, an  and,  an  and of,  and the, an ( an and and and and, 1 or, or, and, an, or an of or of an an an of an,, (an (P (an  ( and,,, an 2, and, An, An, an, An and An An Anich, (and, An An, "  (1, an of, An: and an of the: 2 an: -le  and and and  " [:: : an:... An An ( [::  and:: ::: an or with... " or or an::  an:: an and [ or are and,  an-  and ( (. An of the of of of  of. an and " and, and and and,... in, an, [ An, ( and... are [ [,  An and and or and or An and and ( an, an [- are, and an ( ( are  an an " an an ( and in An  an  an or  are of, are ( and of an of an, of of  of  an of an, and an  ( and and, an, and, an (, an,, of an of of an of and of an, and,  an, and and "  and  are of are, an  An  or of an an  an, ( An An,  -  - an  and of the of  of and  of and - of  an an  and  and  and,  or an- An An and an- m- and ( or-  an or of- C An An An of  an an of  and and and, an of and of and of or, and and [ and or and an, c,, (, ano " al or (  of,  and of, or of of al a ( and of or, or ( an and or, and c are of the  are of of of al of, of an of of an of c of the and an of an (, ( c h, an ( ( or, or and and ( C ( [ an c an or and and ( c and  C and and - C an and and C An ( or An An P An C An C C An A An C H an and or or or or or C An C H an in or in ( ( c or an c ( ( an for  An C H and C C " an c of of and of c C- H M C C C M C C C and  C and c C c of and of C of c C H for for and- c c and- and ( - m m ( C and and and and of m of C- or ( M M C C ( M C c m and c m m ( M of or of, of ( or or of, of or and,,, ( M M, M ( ( m or and in M- M or of c of of or of, of ( of-  M and ( M or C c m M C ( and or C H and ( H or and and or ( M, or C M C M M and M M and M and M M and ( M: m c of ( ( c c and of M of M M ( M M M ( ( M and M ( in and of M M and M m ( c ( ( m m ( and or and  ( m-  M M, M ( M or M M M M ( M M and M M M ( and M C M c and M C. H ( c ( H C ( M ( ( or (, M ( M M C M  M c and M and M M M ( M, and, and (, M ( m, and c C, and and M ( ( ( c ( m, ( H and M, M m M ( M,, M m m M,,, ( and, ( M, M,, or M M M, M/ M M M M M M M c, MC M M M C M M m M M. ( and M M ( C M and and M M M M M M M M M or ( M ( M M, or M C M M. ( M M M M M. M/ M M M M C and M or m M P H M M (, M C M ( M M C C. and. M c c- al M C P C M ( or m or c ( al, ( H, M ( M M C and C M M (, M M, m m, ( ( ( M M or - ( ( M C, M- M M M M. P, M M M and ( M, and, M- M M M M M M. C M M M M, M M M, M and M M,, M, and M M M M M M and ( M F M, M M and and M and M M, M M F M M M M M M M (, and M C M M. M M and M M M, S C, M M,, M and M

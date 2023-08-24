@@ -1,0 +1,255 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2136-09-09
+
+
+	CARDIOLOGY
+	
+
+	PERDUE MEDICAL CENTER
+	
+
+
+	Reason for visit:
+   Cardiology Admit Note
+
+
+	Interval History:
+   Primary cardiologist: Jan Ivory (Kevin Mcdaniel)
+
+61 y/o M with h/o CAD admitted for CP.
+
+Cardiovascular history notable for:
+- Nov 34 - acute IMI; cath (11/08/34) LM, LAD and large Ramus with minimal disease, LCx with tandem 70% and 50% stenosis in non-dominant vessel, distal RCA with 90% stenosis and mid and distal PLV with tandem 80% lesions; Rx: Vision 2.5 x 15 to distal RCA, Minivision x 2 (2.5 x 15 each) to mid and distal PLV
+- echo (11/08/34) EF 54%, overall unremarkable
+- last ETT-MIBI (2/23/35) 7:10, 9 METs, 80% mphr, pkdp 19k, developed chest pain (different from presenting) at 7 mins, ECG negative to HR attained, images without ischemia or infarction, EF 68%
+
+He has done quite well from a cardiac perspective since the MI.  He has occasional fleeting chest pain but never sustained and nothing in the past 1-2 months.
+
+He awoke this AM with dull left chest pain which has persisted throughout the day.  Pain was 6/10 at worst, unchanged with exertion and similar in quality (albeit less intense) to pain during STEMI.  No associated SOB, nausea, diaphoresis or radiation.  Given the CP persistance, he presented to the ER.  Initial ECGs showed sinus brady with a relatively normal tracing; no acute ischemic changes and no significant change from prior.  After a combination of 4 SL nitro, IV nitro, IV heparin and morphine (2mg IV x 2), the CP eventually subsided.  
+
+Currently, he is CP free and resting comfortably.  At baseline, he doesn't exercise formally but he has 3 flights of stairs at home and he's able to climb them without exertional symptoms.  Also, he was previously on therapy for GERD but stopped taking prilosec several months ago.    
+
+
+	Past medical history:
+   - CAD - as above
+- HTN
+- hyperlipidemia
+- DM2 - no known microvascular disease; last A1c 7.3 (June 36)
+- Ankylosing spondylitis
+- h/o thrombophlebitis (vs DVT) of left leg
+- hemorrhoids s/p banding
+
+Home meds: ASA 81, lipitor 20, metformin 500, zestril 10, toprol 25
+
+	
+
+	Changes to Allergies
+	
+NKA: No Known Allergies - reaction: [reviewed]
+
+
+	Social history:
+   Lives with wife in Avra Valley, KS.  Retired social policy program officer
+Tob - former 1ppd, quit at time of STEMI in 2134
+EtOH - rare
+Drugs - none
+
+
+	Review of systems:
+   otherwise negative in detail
+
+Physical examination:
+	
+-Pulse: 50s  regular
+-General:   NAD
+-Neck:   JVP&lt;6cm, carotids 2+, no bruits
+-Chest:   CTA B
+-Cardiac:   distant, RRR, no M/R/G
+-Abdomen:   soft, NT, pos BS
+-Extremities:   femorals 1+, no bruits; LLE with 2+ edema and chronic stasis changes; DPs/PTs 2+ bilaterally
+-BP: 125/70  right arm
+
+
+	EKG:
+   sinus brady (51), minor NSSTTWA, no significant change from 4/05/36
+
+Selected recent labs:
+
+	 Date     NA       K        CL       CO2      BUN      CRE      GLU      CA       PHOS     MG       
+09/09/36 138      3.9      103      25.1     15       1.04     112      9.7      3.4      2.0      
+
+Date     CK-MB    TROP-I   
+09/09/36 NEGATIVE NEGATIVE 
+
+Date     ALB      TP       ALKP     DBILI    TBILI    ALT/SGPT AST/SGOT AMY      LIPS     
+09/09/36 4.2      8.1      84       0.1      0.5      27       25       85       42       
+
+Date     HCT      WBC      PLT      
+09/09/36 45.4     14.2     395      
+
+Date     PT       PT-INR   PTT      
+09/09/36 12.0     1.0      29.2     
+
+Date     MCV      %LYMPH   %NEUT    
+09/09/36 87       31       57       
+	
+
+
+	Other Data:
+   PA/lat CXR - LLL opacity 
+
+
+	Assessment and plan:
+   61 y/o M with h/o CAD p/w CP.  Some features are concerning for angina (similar to prior symptoms, some improvement with nitro...), whereas other aspects are less concerning (prolonged CP without ECG changes or biomarker leak).  Overall, doubt ACS.
+
+In terms of subtle LLL opacity on CXR, doubt PNA given lack of cough, sputum or  fever...He has mild leukocytosis (normal differential) of unclear etiology.
+
+Plan:
+- cycle troponins
+- continue IV heparin overnight
+- if biomarkers negative and no recurrent CP, would favor ETT-MIBI in AM for further risk stratification
+- continue home meds
+- hold metformin, in case cath required
+- repeat CBC with diff in AM, check U/A
+
+FULL CODE      
+
+	
+Brennen May, MD
+
+	
+Signed electronically by  Brennen May, MD
+Document Status: Final
+
+
+
+'''
+
+def test_med_note_example():
+
+    # create an instance of the med_note class
+    mednote = med_note.medical_note_from_dict(mednote_dict)
+    print "mednote_dict:\n{}".format(mednote_dict)
+    print "mednote:\n{}".format(mednote.as_dict())
+
+    assert mednote.get_cardiology_admit_note() == 'Perdue Medical Center, Cardiology Admit Note'
+
+    assert mednote.get_patient_name() == 'Bradley Perdue'
+    assert mednote.get_patient_id() == '12'
+    assert mednote.get_admit_date() == '2036-11-21'
+
+    assert mednote.get_admit_reason() == 'Cardiology Admit Note'
+
+    assert mednote.has_cardiology_admit_note_interval_history() is True
+    assert set(mednote.get_cardiology_admit_note_interval_history()) == set([
+        'Nov 34 - acute IMI',
+        'Nov 34 - acute IMI; cath (11/08/34) LM, LAD and large Ramus with minimal disease, LCx with tandem 70% and 50% stenosis in non-dominant vessel, distal RCA with 90% stenosis and mid and distal PLV with tandem 80% lesions; Rx: Vision 2.5 x 15 to distal RCA, Minivision x 2 (2.5 x 15 each) to mid and distal PLV' ])
+    assert mednote.get_cardiology_admit_note_interval_history_string() == \
+        "Cardiology Admit Note - "
+
+    assert mednote.has_cardiology_admit_note_interval_history_string() == "cardiology "
+    assert mednote.cardiology_admit_note_interval_history_string() == "cardiology "
+    assert cardiology_admit_string(es. 
+
+    cardiology and aster.
+       
+
+
+    cardiology
+       
+
+        string
+cardiology
+       
+        strings of characters
+
+
+The
+        string
+        strings,
+
+        string strings:string and
+
+        strings.
+
+string
+string
+string
+
+
+
+
+    string 
+string,
+string
+string
+
+
+
+string or characters,
+
+    strings or characters
+string,
+
+string string
+string strings, string, string,
+names and
+string, 
+string
+strings,
+    strings,
+
+and/strings and
+string, the string, etc and a string or the string, string, and the string
+
+
+
+or string 
+string  string 
+or strings of
+strings, strings of, and strings of strings, etc of string, string, the strings or
+
+or of string, etc... 
+
+
+
+
+
+
+string and string, 2 strings
+
+names,
+name the patient name codes of the names and the patient's, patient name, and the patient name
+string,
+and the 
+the patient
+
+
+or or names of...
+
+(20 or a string of string of the patient names, 19 and, name and name, etc, and or [or and and the [1 and the names, the, or [1, and the patient- or the date 
+18 (1, and/1 and the, or the patient names of the following names.
+name. If:... names. If the patient...:1 and:
+
+
+(dreams and the patient: 4:
+
+10: 5 and (
+…
+... 1:...the (indical or the 10….
+1, and:  are: or (and 
+name: 1, and [the or, or, the patient of the and: 
+and or, the and: 
+
+
+(1, or [le-1: ([
+[and, the:
+Oct:
+1...1 1... (are,...… (0 name and a...
+1, or, and, or, 1, and the (0 and, but,
+or, "and, or, the, and, and, and, the, 1, and, 1 and, and, and or of the, and,
+, and are, a and, the, and,... 1, the (1, "of, "1, a and [: 1- 	
+: an and the…1: 1 and: An: An. “ 5... 1 [1 (1 in 0-1 are the-name-0-1, [1, [0, 5 or, 2, [c. [, and of, [1 of "of, (, (, (le. and, an, include in, are an (1 (are in the, 3, an-c, (le- 9 an (1, 1, an, 1, (in, [ 1, an, an or (an  an or 0-1 an and 3, ( and, and or, 0, 2 an, an or, a,  and, an, and, 1, 'c 0 and, a (an of " and, [1 in, the, (with, with "an, an-an and, an: (le-an of : (1,-le (: (1 (- (:-1-an- (:  ( and "1 and or: (  and an [( (: 1 or and  and " or an: an of  ( an: an  an or (- an in an- ( and ( and and of the of the  of  and  and and [ an ( in, [ [, An An [  or,,  are [ and  and or of a- [ [-  and:  are or an- an- ( ( ( an [  (  or  (,,  and- an an or ( [ of "  and, an or of " of a,  and in  and and of or and,, (  in, an (,, - and  of  of and " [ and of or an an and, are,  are an in or in, in,  an-  of the of  or  or  an in and and, -,, [ and- and of,  and and of  of,. ( and in the  in an and in ( and- an [, and  and of [ in (  or- in or- - and - -0 ( and  in and  and and- and of,, and, or  and, and in  and an and in and and, in or and of the of or ( of or of or or or and  of  ( of 0-and,  are ( an, and, or- an of an of of and, of, and of the, an and and and and [c [ and and and and and and [ and, and  and 1 and and and, and and an  and, an  and and in, [  in an, and  and- - and ( C An C- and or or and " and and -c "  or,  an- and ( or in an- in  [ in-c  (,- and - and or and c and of,- and and, (- and  and and and and and and- and and and and: and c and and in and:  in and and and in- -2-C and- and "- m in C in m in and and and in  and and in in [ and, and and, and, of., of, of or, and, or ( in, and and or or and in or, and and and and, C and c of of, of of of- P of, of and and c and c and in and. (- as and,  C- and in, in, and or and C (, and ( c or and c  or  in  C C- and of  of (, of and and- or, and-  in, and and, in and, and or and, C  of and  in in and-1-  - and (-  ( C and and and,,, with  [ or or, C and and  and, or and [ and. [  and, C and in a,, ( ( or and, in and and and and,,  ( and and, in and and or and and, c or and ( and with (,,, and and, and or and (- and, and (, C and -, or,, in and ( and, ( ( and  and, and  (, and and,, C and,  and,  of and of and, and in and and and and E, E- - and and and,,,, and, and,, and and and ( and,,- [, c and and, and,-, in, and (, and ( in. and (/ [ E E- E and and and and E, - or - and, ( and [ E and [ and (; and,, E and ( E- (  and, - C, ( _ ",,  [ or E or -,-1 E and and, and, and and,, and, - and and, and and and, and, (,, and and- - and, and and (,, and, a, and - and (, and (,,, a and/ [ [ and, and and,, as,-, and and and, or,. and and - and and and and and [ and/ - and and or, E or, and,  and and, [ and and and or,  a or,- E, and ( and or, ( and and ( from, and, and and E,

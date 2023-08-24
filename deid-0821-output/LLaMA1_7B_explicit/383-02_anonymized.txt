@@ -1,0 +1,497 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2114-09-25
+
+
+
+
+
+
+
+NAME:    Werner, Brian 
+
+MRN:      4097229
+
+
+
+Last week he had a right carotid endarterectomy. Initially, he had some hoarseness. It
+
+went away but now it has returned. He did have a period of 100.4 while at home and
+
+has felt a little chilled. He is still hoarse today. He feels a little achy in the joints.
+
+
+
+Medications
+
+Albuterol INHALER 1-2 PUFF INH QID PRN , Take as directed 
+
+Zestril (LISINOPRIL) 30MG TABLET take 1 Tablet(s) PO QD 
+
+Lipitor (ATORVASTATIN) 10MG TABLET take 1 Tablet(s) PO QD 
+
+Hctz (HYDROCHLOROTHIAZIDE) 12.5MG CAPSULE take 1 Capsule(s) PO QD , THIS WAS FAXED TO YOU ON 5/8/14
+
+Coumadin (WARFARIN SODIUM) 5MG TABLET take 1.5 Tablet(s) PO QPM 
+
+Salsalate 750MG TABLET take 1 Tablet(s) PO BID PRN 
+
+Flonase NASAL SPRAY (FLUTICASONE NASAL SPRAY) 1-2 SPRAY (50MCG SPRAY ) NAS BID 
+
+
+
+Problems
+
+Hypertension 
+
+Osteoathritis 
+
+Gastroesophageal reflux disease 
+
+Diverticulitis 
+
+Cerebrovascular accident : L cerebellar 2112, s/p L CEA
+
+Lung nodule : Repeat chest CT 10/14. 
+
+
+
+Allergies
+
+Penicillins - Rash, 
+
+Penicillins - Rash 
+
+
+
+Vital Signs
+
+BP 140/78, P 76, Temp 98.1 F
+
+
+
+On exam, he is hoarse. Temperature is 98.1, however. Throat is clear. His right CEA
+
+is clean. Heart: Regular rate and rhythm, no murmurs, gallops or rubs. Lungs clear.  
+
+
+
+ASSESSMENT AND PLAN:  
+
+
+
+(1)  Bronchitis/laryngitis. Chest x-ray today is clear. I elected to go ahead and treat
+
+     him with doxycycline 100 mg b.i.d. for the next 10 days. He does have
+
+     follow-up with his neurosurgeon in the next 10 days or so.
+
+
+
+(2)  Health maintenance. Double check on LFTs and A1c since his LFTs and blood
+
+     sugars were up in the hospital. Also check a CBC.
+
+ 
+
+ 
+
+Thomas D. Kinney, M.D.
+
+
+
+TDK/gillis/dougherty
+
+
+
+
+
+
+
+
+
+
+
+"""
+        self.assertEqual(doc_text, expected_doc_text)
+
+    def test_render_clinical_note_with_doi_reference(self):
+        clinical_note = clinical.ClinicalDocument(self.TEST_CLINICAL_DOCUMENT)
+        doi_reference = clinical.doi_reference.DoiReference()
+        doi_reference.doi = 10.4018/978-1-60960-133-8.ch034
+        doi_reference.reference = '10.4018/978-1-60960-133-8.ch034'
+        doi_reference.reference_link_type = 'fulltext'
+
+        clinical_note.reference = [doi_reference]
+
+        doc_text = clinical_note.as_json_string()['clinicalNote']
+        expected_doc_text = """Clinical Note
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"""
+        self.assertEqual(doc_text, expected_doc_text)
+
+
+class ClinicalNoteTestCase(unittest.TestCase):
+    def setUp(self):
+        self.doc_test_data['patient']['_id'] = '4097229'
+
+    def test_parse_clinical_note(self):
+        parsed_clinical_note = ClinicalDocument.parse_clinical_note('''
+        NAME:    Brian J Werner
+        MRN:      4097228
+
+        Last week he had a right carotid endarterectomy. Initially, he had some hoarseness. It
+
+went away but now it has returned. He did have a period of 100.4 while at home and
+
+has felt a little chilled. He is still hoarse today. He feels a little achy in the joints.
+
+
+
+Medications
+
+Albuterol INHALER 1-2 PUFF INH QID PRN, Take as directed 
+
+Zestril (LISINOPRIL) 30MG TABLET take 1 Tablet(s) PO QD 
+
+Lipitor (ATORVASTATIN) 10MG TABLET take 1 Tablet(s) PO QD 
+
+Hctz (HYDROCHLOROTHIAZIDE) 12.5MG CAPSULE take 1 Capsule(s) PO QD, THIS WAS FAXED TO YOU ON 5/8/14
+
+Coumadin (WARFARIN SODIUM) 5MG TABLET take 1.5 Tablet(s) PO QPM 
+
+Salsalate 750MG TABLET take 1 Tablet(s) PO BID PRN 
+
+Flonase NASAL SPRAY (FLUTICASONE NASAL SPRAY) 1-2 SPRAY (50MCG SPRAY ) NAS BID 
+
+
+
+Problems
+
+Hypertension 
+
+Osteoathritis 
+
+Gastroesophageal reflux disease 
+
+Diverticulitis 
+
+Cerebrovascular accident : L cerebellar 2112, s/p L CEA
+
+Lung nodule  : Repeat chest CT 10/14.  
+
+
+
+Allergies
+
+Penicillins - Rash, 
+
+Penicillins - Rash   
+
+
+
+Vital Signs
+
+BP 140/78, P 76, Temp 98.1 F
+
+
+
+ASSESSMENT AND PLAN: 
+
+
+
+(1)  Bronchitis/laryngitis. Chest x-ray today is clear. I elected to go ahead and treat
+
+     him with doxycycline 100 mg b.i.d. for the next 10 days. He does have
+
+     follow-up with his neurosurgeon in the next 10 days or so.
+
+
+
+(2)  Health maintenance. Double check on LFTs and A1c since his LFTs and blood
+
+     sugars were up in the hospital. Also check a CBC.
+
+
+
+
+
+
+
+
+
+
+
+
+""")
+        parsed_clinical_note1 = ClinicalDocument.parse_clinical_note('''
+        NAME:    Brian J Werner
+        MRN:       47182
+
+        Last week he had a right carotid endarterectomy. Initially, he had some hoarseness. It
+
+went away but now it has returned. He did have a period of 100.4 while at home and
+
+has felt a little chilled. He is still hoarse today. He feels a little achy in the joints.
+
+
+
+Medications
+
+Albuterol INHALER 1-2 PUFF INH QID PRN, Take as directed 
+
+Zestril (LISINOPRIL) 30MG TABLET take 1 Tablet(s) PO QD 
+
+Lipitor (ATORVASTATIN) 10MG TABLET take 1 Tablet(s) PO QD 
+
+Hctz (HYDROCHLOROTHIAZIDE) 12.5MG CAPSULE take 1 Capsule(s) PO QD 
+
+Coumadin (WARFARIN) 5MG TABLET take 1 Tablet(s) PO QD 
+
+Salsalate 750MG TABLET(s) take 1 Tablet(s) take 
+
+Flonase NAS BID.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\
+
+
+name spaces in the following spaces
+
+words
+
+
+spaces in your name
+
+
+
+
+
+names, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+names
+
+
+
+
+ 
+
+
+
+
+
+
+
+ident
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+or, and replace.
+
+
+
+
+
+
+name and name
+names
+
+
+1.
+indicate patient names or a
+
+
+1
+name
+name
+
+
+
+
+
+
+The name
+
+19.
+
+names, or names, do not with 12 lines with and names:
+
+Name, the patient names and name, name and the 
+
+or the patient name
+
+name
+The names.
+
+The name of the patient and, 5 and the names, the first, the name, and, and [the following
+names, and 1
+
+1, and the
+1, and 
+or and 1 and name, or the names
+and, and, as a, and identify the name, and the name, names.
+names and the and a and...
+
+:
+and: and names and:
+12, you, as:
+1...
+15, the...:...
+1:
+are-
+... are: 1, 11:... and:
+are:
+
+
+
+
+[...and are... [(... or or, the and 1, and and:.
+and, the, 
+le or, and 0, "the or the make the and the (
+...1 and a or…
+are of the 
+are the are ( 12 and the…
+12...  and, [, and, the, "and, 1, and, or, the... and, " [(and or, and, and, (
+[...,, 1. or..., 1, and the, "are, (and, and ( and are a, the are, [and and,... 0, the and the 0, 
+, and the (and the and and the (
+make...:
+: 2 [1- 1:  “1... are  (1 1......  are- 1-1 that are in a or, or (and by an and, and, 2 or, aniz, or, an. of the,, of the and and the,, 0 [1 and, and, 1, canine,  are are-and-ann or, (and and, an,  (an, An, an, an, an, an 0 in, and,,,,, and and, an,  an " orian and  an, [or, or (2, An An of,  of ( 1, and,,,, [ and, and, [A, and,
+, An An An, C and, An and, 1 An An, an, 0, 1 and an,: ":, and  of: an: the: ": : an:: and: (1 and-an:: ( and...-pat or- (: and ( ( an: and... an: and: -an in- and: an in and: an are- an " or "- are- an " [ " and an an and, an or of the of the and of the an, and and an and and,, [, An An- ( [ [ ( or... An, [- [, [ [ An An An (0, and or an  or ( [ an an of and an, an and, an, and an an, and, or ( " (, and, an or of or of  an of an ( or,, An An An C or and, in,  and and, and, an (, of “ of “ (,, and [ and, [ An An An,, an in (- an an or of - of  of an, in or and or " or or and,, -, an [ an of the of, of, of,: An ( and and (, An An An ( an in (- ( and and, (  and " or and and  and or -  an and,, an " An An An C C ( and and, and,, or and or of or or, An An An, C. [ and and  ( or or,, An of, of, of an An ( or, of An and of an and ( C,, An (, and.,, (,,, of. of, of C. of. of  of, of and C An. and,, [,, An. An and (, and an an [,,, An, C ( and,, and,,, (, ( and. [,,,,, [ and - [ [ ( and and or or or ( C (. "  [ or, or - or (  C or [. ( - C.  and ( or and and ( and and  ( An C. C - ( ( [ and and: or or C and and ( and, ( C C. C An C and,. C An C.  C:  and C.: [ and: -t or and and ( " ( [ - - [. ( ( and [ and and ( and, and or (, or of,, ( (., ( of  (,. and in, t [, ( and,,, or, and and or ( of  of of of,  of of of ( and ( C C and C (- C c ( C and,,,,,,, - [ ( (. ( and and or and ( and. and. and and or ( ( and.,. ( and ( of ( ( of and [, C and ( and ( C, and and ( - and,(.,, and of (. of and (.-  C and or or., (, (. or and t and or ( or or, and or [-,,, and (.,, [,,.,,, ( [ ( [ and,, or and or ( t.,. and. T. or ( and,. C and or, (, and., and and, and and and and and, ( [,,, C,,,, ( T, and, (,, and,,,,,., and and and,..,, (, and ( M. Cl (  C P T-C. and-d-c C ( ( W L-C (., (,,,,, C and. and and. and. and and,. or,, and-C,, (, C P-C-t  and [ and-M T-M-C and P P C ( and  and and [-M T ( and (- ( and PO and- ( and C ( C C- and ( and C ( ( and  and ( and [- and, and (, A P ( ( and and, or,, and ( ( and and ( and and B., ( ( and- and and (- and. P and, T, C (, C C, and of  and.- and, ( B B,, a and and (, C or and  and or (. and (,, and and,-t ( of and and - and c- or, and,- B (, and, ( D,, I and, W, and and P and. and- C T.. C, or, C and,

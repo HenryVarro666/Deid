@@ -1,0 +1,349 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2083-07-26
+
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+SAN FERNANDO HOSPITAL
+
+
+
+Reason for visit   Annual Examination
+
+
+
+Problem List (reviewed)
+
+
+
+Diabetes mellitus MAJOR 
+
+Hypertension MAJOR 
+
+Myocardial infarction MAJOR STATUS POST
+
+Pleural effusion MAJOR 
+
+Weight loss MAJOR 
+
+Health maintenance MAJOR 
+
+Pulmonary embolism MAJOR 
+
+Torticollis 
+
+Blindness 
+
+Congestive heart failure 
+
+Chronic renal insufficiency 
+
+Ventricular tachyarrhythmia 
+
+
+
+Major Problems
+
+Diabetes mellitus
+
+
+
+Hypertension
+
+10/29/81 = cont in good range, 120/80. 
+
+P: Check lyts, CR today on diuretic.
+
+Myocardial infarction STATUS POST
+
+
+
+
+
+Other Problems
+
+Chronic renal insufficiency
+
+
+
+Ventricular tachyarrhythmia
+
+AICD. Dr. Lacy from CCH 7/26/83
+
+
+
+Active Medications
+
+
+
+nph insulin 8u hs dose will change--started 10/21 QTY:1 bottle Refills:3
+
+Insulin syringes ultra fine insulin syringe 100 U---1 box--of 100 refills 3
+
+Ecotrin 325mg PO QD
+
+Prinivil 20mg po qd
+
+Norvasc 5mg po qd
+
+Lipitor 10mg po qd
+
+vitamin e
+
+multivitamins
+
+Glucotrol xl 2.5mg po qd 2 tabs am 1 tab pm
+
+metoprolol 50 mg po 1/2 tid
+
+Lasix 20 mg po qd
+
+isosorbide dinitrate 10 mg po 1 tid
+
+digoxin 0.125 mg po qd
+
+folic acid 1 mg po qd
+
+One touch strips use bid #100 REFILL #12
+
+
+
+Change in therapies and Renewals
+
+nph insulin 8u  hs QTY:1 bottle Refills:3 Start: 10/5/2081 dose will change--started 10/21
+
+Insulin syringes   
+
+
+
+Family history   mother died of unclear reasons in 80's and father in 80's of Alz.
+
+
+
+Social history   Lives with sister, not married. Walks 2-3 miles/day. Retired baker
+
+
+Review of systems   No SOB, Gi or GU issues. Upset about Left abdominal mass (old AICD).
+
+
+
+Physical examination
+
+Pulse   70 and regular
+
+Blood pressure 120/70  
+
+Respiratory rate 16  
+
+Weight 160  
+
+General appearance   Well developed, well nourished, no acute distress.
+
+Chest   CTA B w/o c/w/r. No dullness to precussion, no egophony.
+
+Cor   Reg rate, no murmur
+
+Abdomen   NT/ND, no HSM. Normal active bowel sounds.
+
+Extrem   No clubbing, cyanosis; mild edema
+
+Rectal exam   guaiac negative, nl tone. Prostate without nodules and large size.
+
+Genitalia   descended testes bilaterally, no masses.
+
+
+
+Assessment and plan   Hypertension.  Good control on current medication
+
+Type 2 diabetes mellitus.  I urged to have an annual eye examination for his fasting blood sugar.  His fingerstick today is quite good.  We will check a hemoglobin A1c. AICD checked. Reviewed lipids.. BPH/PSA
+
+
+
+Disposition
+
+RTC 3 months
+
+
+
+Signed electronically by Gary O Xa MD on Aug 5, 2083     
+
+
+
+"""
+    # The "text" above is the result of using the following
+    # function:
+    #
+    # >>> text_from_template(template, patient_name='Bob Smith')
+    #
+    # The function takes the following keyword arguments.
+    #
+    # - 'template': The template string
+    # - 'patient_name': The patient's name (defaults to "Bob Smith")
+    #
+    # The function returns a dict containing the following:
+    #
+    # - 'patient_name': The patient's name that is present in the text
+    #
+    # - 'text': The text string with patient-name-specific information
+    #
+    # >>> text_from_template(template, patient_name='Bob Smith',
+    #...                      patient_name_formatting='Last name, First name')
+    # >>> text_from_template(template, patient_name='Bob Smith',
+    #...                      patient_name_formatting='Last name, First name',
+    #...                      patient_name='Jane Smith')
+    #
+    # The above text-from-template function has been used to create the
+    # "text" string above.
+
+    return text_from_template(template,
+                patient_name=patient.name,
+                patient_name_formatting="Last name, First name"
+                        )
+
+
+
+#########################################################################
+#
+#   Functions to convert from one date format to another (ISO 8601, etc)
+#
+#   Note: We're using a different format from most of the examples below:
+#   "yyyy-mm-dd" instead the more common "mm/dd/yyyy".  This is
+#   because we're going to be comparing a string with a date that will be
+#   parsed using the first format.  This avoids issues with date comparisons
+#   when one is using the second format, and the other is being parsed with
+#   another format.
+#
+#   See:
+#
+#     http://www.cl.cam.ac.uk/~mgk25/iso-time.html
+#     (a page with various examples of converting between date formats)
+#
+
+
+from datetime import (
+        datetime,
+        timedelta,
+        time,
+        datetime,)
+from iso8601 import (
+        parse_date,
+        parse_time,
+        parse_datetime,)
+def datetime_to_iso8601(timestamp):
+    iso8601_str = ""
+    iso8601_str = timestamp.isoformat(' ')
+    if len(iso8601_str > 10):
+        iso8601_str = iso8601_str[:-10] + "..."
+    return iso8601_str
+
+def parse_iso8601_to_datetime(iso8601_str):
+    return datetime.strptime(iso8601_str, '%Y-%m-%dT%H:%M:%S.%fZ')
+
+def parse_iso8601_to_datetime(iso8601_str):
+    return datetime.strptime(iso8601_str, '%Y-%m-%dT%H:%M:%S.%f')
+
+def parse_iso8601(iso8601_str):
+    return parse_isodate(iso8601_str)
+
+def parse_datetime(datetime_str):
+    return datetime(
+        year=datetime_str.split('/')[0],
+        month=datetime_str.split('/')[1],
+        day=datetime_str.split('/')[2],
+        hour=int(datetime_str.split(':')[0]),
+        minute=int(datetime_str.split(':')[1]
+                 if ':' in datetime_str else datetime_str.split('\''[0]),
+        second=int(datetime_str.split(':')[1]
+                 if ':' in datetime_str else datetime_str.split('\''[0]),
+        micro=int(datetime_str.split(':')[1] if ':' in datetime_str else datetime_str.split(':')[1])
+                 if ':' in datetime_str else datetime_str.split('\''[0]),
+    )
+
+
+def parse_isodate(iso8601_str):
+    # Note that the ISO format is the same as the RFC 822 format,
+    # but the RFC format does not include timezone information.
+    parsed_date, parsed_datetime = parse_iso8601_str.split('Z')
+    if not parsed_datetime.isnull():
+        parsed_date, parsed_datetime = time.strptime(parsed_date).utcnow(),
+    return parsed_datetime
+
+
+def parse_rfc822_to_iso8601(rfc822_str):
+    return parse_rfc822_to_iso8601_str
+
+def parse_rfc8601_str
+def parse_rfc822_str
+def isodate_rfc822_str
+def_str_str
+def
+def_str_str
+
+
+str_str_str_str_str_str_str_str_str
+def_str
+
+#
+#
+def
+INJOIN
+
+_str_str_str_str_str_str_str_str_str_str_str _str_str_str_str_str_str_str_str_str_str_str_str_str_str_STR
+STR_st_str_str_str_str_str_str_str_str_str
+str_str_str_str_str_str_str_str_st_str_str_str_str_str_str_str_str_str_str_str_str_str_str_str_str_str_str_str_str_str_str_str_str_str_str_str_str_str_str_str (str_str_str_str_str_str (str_str (PAT 1201. STR FOR
+str_str_str 
+
+str
+
+
+
+
+A
+1 2
+
+Record 
+_STR 1_
+
+S_ 41
+
+
+
+P
+11 00_T 5_DATE 1
+
+A-2 4
+A 2 1-
+A
+A
+A
+DATE
+1
+
+1
+ 1: 3
+IN 
+20 
+
+(19
+1522199989 date, 1:1.
+date (4: 44 and the year, 1910
+
+[9
+
+A. 
+
+The AMP: PRE A
+A RE CO PRESS (1212 SURY, EX IN SIFY  (DI MU, CONIFY SUPIVE:1: A: 8 (C  (D.   [A. 1 Anifest
+ 113 2:2, HIVE: 9, H: An -  - P IN M EX A M. A P RE CH RE IN DA CIF IN PIF HE: A S RE A P AL C. A RE: An: A RE CIF: AN CIS CO C DA SIN AL RE A P: A - Anification An Exine An Anise  An  An An An (1 An An -A P RE ALIVE RE (CINE A AL ALIVE A AL AL PINAL ALION RE. (Al C: :A (C 29 (  An A1640030 An A  An Exify Ex A An CIF A A RE AL RE A P AL EX AL RE C RE CO AL A AL A AL RE A AL
+
+ Al. AL AN A An.
+ An Exification: An An An An Anduct,  ( 1 An An and [1: Anient Exine An - 0
+ Al 1 An Exive An A An C.  C A An (Al An, Exist,  - ( An Exist An An An An - An An An An An C AN CO CO A C A A C AL  An An. Ex An C A C AN S C An Alistic (AL  An An [Al An An An C An A Al Ex A An An.  An A  Anistic Anistic  AN (1 An An (An An and A and [. An0 Anine An An An [ An An An An An in C An, A [ An An ( C A C An Ex (1: An ( Al An ( An An An Al: A An C Al An An An An An in An Ex An (: An An, An An. C An An C An An An: An An An An An Ex An An An An An An An: An ( [ Ex, : An Al, An An An. An An [ C. An - Ex: [: A An C: C An An An A An An C ( An An: An A... Al Ex in Ex C An C A An An An [ C An A Ex [ An, A An C An An C A An A A I An C An: C I and An An An - [ Ex - A Al C ( C An [ I - Al C A [. C An. [ I0 Ex A A ( An An Ex [ Ex [ P-I and [ ( AN ( An Ex [ An [ Ex Ex An ( Al ( An - A Ex Ex [ ( Ex A Ex ( Al An A Ex Ex C A [ Ex...  An Ex Ex-P and An C An- I [ I- O
+ M An Ex An- Ex Ex
+ Ex. ( I ( ( I An (  Ex I ( Ex Ex A Ex M Ex Ex Ex - Ex  Ex - Ex- I - M Ex Ex An M An An ( Ex - A [ M Ex M ( [ ( [ Ex - [ I Ex - A I ( Ex I Ex - ( [ M - Ex Ex - I [ I. ( I Ex Ex Ex - [ I I I I I I ( I [ ( I. M A Ex T - I. A Ex M Ex Ex (.  I Ex Ex I C I B Ex - Ex M I A Ex Ex P Ex Ex Ex Ex Ex. Ex. ( Ex ( N - B C Ex. M I C Ex N C I M C Ex Ex C An Ex Ex An M Ex Ex C Ex C Ex - C C Ex C C A Ex C ( I Ex Ex Ex Ex: Ex in Ex Ex - I ( ( I C (. Ex I Ex I I. Ex - Ex Ex Ex Ex Ex I Ex: Ex Ex ( C -: Ex ( M Ex Ex [ Ex. Ex Ex: Ex ( I C Ex- I: I Ex: I Ex Ex - Ex: C. C Ex Ex J Ex I Ex C I EX Ex Ex Ex Ex Ex Ex Ex Ex ( I - Ex I Ex Ex B Ex Ex Ex - I Ex Ex I Ex C Ex - Ex Ex I Ex Ex Ex Ex ( Ex Ex Ex Ex Ex - Ex I Ex Ex Ex Ex I ( Ex Ex C Ex I Ex Ex Ex Ex Ex - Ex Ex Ex. Ex Ex Ex Ex Ex I. B B [ [ ( Ex C Ex ( Ex Ex Ex Ex Ex Ex Ex Ex B Ex Ex Ex Ex B. Ex M I I - [ Ex I B M Ex Ex Ex Ex m - Ex I. [ I Ex ( V and B Ex Ex Ex I V I C Ex Ex ( - I C. [ B I Ex I I. C V/ I A [ (. ( I [ ( ( A I A Ex Ex. M I/ [ M -.. Ex Ex (.. H/ Ex// [ I M and [. I [ M M C - C... Ex I ( Ex/  Ex M ( I V I C - I Ex Ex I... I [ [ A H I [ I A ( H H. [./ Ex/ m (1 [ M m [ [ - I - I ( I M... [... M M I - M m -. M m ( M M [ m...... m.... I m m m/ m m/ M m/ m m and m m m m m a m m [ M M... U M [/ M M: M m/  m: [ m m m/ m... m m m M/ M/ m/...  m-t/ m// m m a m/ m m m./ m m/ m a [ m u m m m - [/ m m m/ M (: m/ M/ I ( M ( [ ( I C M m and: (/ I: M m/ (/ C/ m m ( and: *  m c/ [ to and m/ // M  A ( M : C M. M. C U U [ U A M A M. C. and m/ and- U m a/ m m-m  m- c c t ( M- C M/ [ A [ a. A ( ( C A C. m t be - A and M/ C and [ m./ -/ (:: [ m/ m a- and and

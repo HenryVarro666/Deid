@@ -1,0 +1,296 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2122-09-14
+
+
+
+
+
+Internal Medicine
+
+HOLY CROSS HOSPITAL
+
+
+
+History of present illness
+
+			
+
+  Mr. Flaherty is a 74 year old male with a PMH paraplegia (secondary to spinal ischemia), DM, HTN, sacral decibutus ulcer, and recurrent UTI's who came in for a follow up visit. The patient says that he feels well. He says that his fingersticks have averaged about "124" and have ranged 80-150. He's says that he's improved his diet. He says that his BP has been checked several times by visiting nurses and each time was SBP of 120. He says that his abcess under his left axilla has healed well and is no longer bothering him. He says that his sacral decibutus ulcer has resolved. 
+
+
+
+On review of systems, no chest pain, SOB, abdominal pain, nausea/vomiting, fevers, dysuria, or lightheadnesses.
+
+
+
+Allergies
+
+No known drug allergy   
+
+
+
+Change in therapies and Renewals
+
+
+
+Zestril 20mg po qd QTY:90 Refills:3 Start: 11/22/2118
+
+iron supplement 325mg po qd QTY:30 Refills:1 year Start: 6/15/2119
+
+aspirin 81 mg po qd QTY:30 Refills:1 yr Start: 6/15/2119
+
+Xanax 0.25mg po bid QTY:180 Refills:3 Start: 6/15/2119
+
+Glucophage 1000 mg po bid QTY:180 Refills:3 Start: 7/18/2120 take with meals
+
+Lipitor 20mg po qd QTY:90 Refills:3 Start: 4/07/2121
+
+Neurontin 300 mg po tid QTY:270 Refills:3 Start: 4/07/2121
+
+multivitamins 1 tab po qd QTY:90 Refills:3 Start: 5/19/2121
+
+atenolol 25mg po qd QTY:90 Refills:6 Start: 5/19/2121
+
+
+
+Past medical history
+
+			
+
+  1. Paraplegia- On 10/06 the patient had a lumbar laminectomy for sciatica. His sciatical pain improved until 5/07 when he developed proximal leg weakness. By 7/07 the patient was bound to a wheelchair. Orginally an extensive workup suggested that the patient had an extramedullary tumor from T8-T12. However all biopsies were inconclusive. The patient subsequently received a T10 laminectomy on 9/09 that revealed Spinal Vascular Malformation but no tumor. The patient received serial MRI's until 12/14 that were able to demonstrate no "recurrent" tumors.
+
+2. DMII-first diagnosed in 2113
+
+3. HTN
+
+4. Recurrent UTI's
+
+5. PSA of 6.6
+
+6. Flap 3 Closure Surgery-patient says that he received this surgery to correct damage to his skin caused by his multiple back surgeries
+
+2070's received surgery for shrapnel removal
+
+7. Sacral decubitus ulcers
+
+
+
+Family history
+
+			
+
+  Father - was an alcoholic who died in an accident
+
+Mom- died at the age of 76 with peripheral vascular disease 
+
+Brother- died in 50's of CAD, was an alcoholic
+
+
+
+Social history
+
+			
+
+  The patient lives alone. He never married and has no children. He is a retired Heavy-Duty Equipment Mechanic (15yrs) and Concrete Finisher (25yrs). He is a veteran. 
+
+The patient quit smoking 20 years ago but had smoked 1.5ppd*20yrs (30 pack year). Very rarely drinks.
+
+
+
+Physical examination
+
+Blood pressure 135/70  
+
+Pulse 82  
+
+Respiratory rate 12  
+
+General appearance   NAD, pleasant. In a wheelchair
+
+Skin   Abcess under left axilla has healed well. No erythema or exudate.
+
+Heent   PERRLA, EOMI, no oral erythema or lesions
+
+Chest   b/l clear to ascultation
+
+Cor   S1/S2+, RRR, no murmurs
+
+Abdomen   Nt/nd/ +bs
+
+Rectal exam   refused
+
+Genitalia   refused
+
+Extrem   no edema
+
+Neuro   CNII-XII intact, 5/5 strength in upper 2 extermities, no numbness or tingling, 0/5 strength b/l lower extremities
+
+
+
+Assessment and plan
+
+			
+
+  The patient is a 74 year old male, with a past medical history of paraplegia (due to spinal ischemia), DMII, HTN, and recurrent UTI's, who came in for a follow up visit. 
+
+
+
+			
+
+1. Diabetes 
+
+-spoke with the patient about his diabetes control. He understands that his hemoglobin A1C is 8.4. However, he doesnt want to start insulin (inconvenient) and actos (the expense). Our plan is to check another hemoglobin A1C since his diet has improved. Will consider starting low dose glypizide if hem A1C still grossly elevated
+
+-current regiment is metformin 1000mg bid -HemA1C 2/22 was 8.5 
+
+-patient sees an opthamologist yearly 
+
+-patient saw a podiatrist in 1/22 
+
+-patient on lipitor 20 -> 9/21 lipid panel Cholesterol 147, LDL 67, HDL 42 
+
+-patient is taking ASA 
+
+-patient is on a MVI 
+
+
+
+			
+
+2. HTN 
+
+-spoke with the patient about the fact that his SBP is 130-135. He said that he would like to hold off on advancing treatment for now
+
+-for now will continue Zestril 20mg qd and atenolol 25mg po qd
+
+-current regiment is atenolol 25qd and Zestril 10mg qd   
+
+
+
+			
+
+3. Sacral decibutus ulcer 
+
+-patient says that the wound has healed  
+
+
+
+4. Paraplegia 
+
+-on neurontin for neuropathic pain control 
+
+-WILL CONSIDER increase the dosage
+
+
+
+			
+
+5.Recurent UTI 
+
+-Will not give prophylaxis for recurrent UTI's. Also, will not treat patient unless he has systemic symptoms of fevers or there is a great increase in the amount of burning he has on urination 
+
+
+
+			
+
+6. Elevated PSA 
+
+-urology felt that in light of stability of PSA and patient's desire not be biopsied that no intervention should occur at this time. 
+
+-urology wants to see the patient annually. Spoke with the patient again about this today. He doesnt want to see urology again and doesnt want a rectal exam.
+
+
+
+			
+
+7. Anxiety 
+
+-well controlled, will continue the Zanax 
+
+
+
+			
+
+8. Health Maintenance 
+
+-patient has received pneumovac 
+
+-last colonoscopy was on 12/18 
+
+-gave the patient a flu vaccine (9/22) (Lot BDIKB454QH and expiration 7/3/23)
+
+
+
+			
+
+Return to clinic in 2 months (spoke to patient about him coming more frequently but he says that it is very difficult to come in so he'll do the best he can)
+
+
+
+Addendum
+
+			
+
+
+
+			
+
+I was present during key portions of the evaluation of the patient and agree with John Ross's findings and plan as written.  Pt. is thin, has gotten maximum benefit from metformin so options include sulfonyurea or insulin.
+
+Francis Lawrence
+
+
+
+Signed electronically by Ross, John on Sep 21, 2122     Lawrence, Francis X on Sep 22, 2122     
+
+
+
+232200123 22, and 23, 22333, 234 23334 
+23 names, 22
+2012
+1101.
+
+20121 and 1. 21
+1514, 12, 45.
+
+
+150 and 25, 
+
+The patient names
+
+
+
+or names or date, which may be a clinical patient and the patient
+2.
+
+
+
+1 or 100, 2
+name lines, lines and 2.
+
+
+1 patient names
+(pat...1
+(12 and 10 (
+The 50, or 3 months 5 and 6 months. The name, name... or names (and [
+and, and [the names, or the patient names, name.
+
+or, and are, etc, or the past the name and are and the patient, 1 and 12, 5... (the, and the day and the...
+... and names and the patient,  and last, 
+d (d….
+
+(11…theize-
+use (17: (
+1,1:
+[ 12- 
+12 (
+...
+
+... are, the: or the [... are “are: are... the names:
+(the: 
+remove or, a: (1 and, or, but and 0.
+[the, but the 3 (and 10 and, a and the and the,1 and the, and are a, the are the [ 0, (1-name and, 21. and... or, 1, and... and, and, "in, the, 5 or, and (2, or the in (1, and the, the, 2, or, 0, 1 are the, and and ( and, the, and, are, and and, and include 3, and and the,  and a or, and, the, the: 1- 1...
+: 1. 2 words...... 1. 0...1, 1 [1 [2 are-are-name of the ( 2 of the 1 of 0 or or, [1 or 1, the, a, the, etcines of the. 8 and (. and 1, " 1, 1, orine with the "make ( are the would or 2- 2,1 1, " (1, and an, or 1,  and (P. an 1... 1 of the, and an 1 and " 1 1 and, 1 or, the, and and, 2 ( 1,  and 2-1,1 and the, and, 1, a, 2, an, a. An An An An, 1 or ( an, 1,: an: 4, 1, an (1,: and-2: 1: 1 an, " and :  and " and an: an " (  and:: " " or anine  an " ( ( an "  an or with and in and or:  or 1 in or- are in  " " an and (.  " or " and of  of (, of, and.  and or,. ( and ( [, [ [, and are or [ [ [  (1 or ( [ [ and an in,- and [ [ or - - an are and  an  (  " and and (, an- and, or an- and or- or and,  ( are an,  an of an of ( of, or  and " and, and, and,, and " of an of  of and of the, of an an and and  are ( are,, ( are,,, or ( or and an or  an or or  or 1  and  and an (  " an,,,  of an :  or  " -  - an (  and: an [ - and  and  and an - 0-0 of the -  an 0 (0  and, ( An or  and  and of 0 (0, or  and  "  " " [ ( " - or - " and or an,  of  an  or, an or ( 00  of, 1 ( -cl and  " they  and  of  of ( and, and of of and [ an " an. [, and,  ( and-  " [, and 0 2 1, 0, -2 in-  ( 0,  and and 1 ( (  that,  an in  and  [ and-1- an an an, and ( an - or and and that an an-  ( or and an and- an - and, " and and  in an  or and [ of ( ( [ and  -1 and: (  [: - (-1: C: an and: -:  and  that and that-1-c: that. : and- and-1 ( and (  " 1 ( ( and "0 ( and or  or and an or,  and or-1 of of  and- and of. C in (,  and  and and and and, and or  and - and C of of  of and of and of and and of, ( and  and ( C and and  (,, and and, C  and  and  in,,  in   [:  and  [ : : C C, 0 of  of [ of: 0  and ( " and [ C C, and  and and and,, ( and,     2- -  in and  " - -  and  ( and, - and 2 2  "2   and  C and  ( and " and  and or  or and  [ C,0 and 1   and "   and an  and in  and  and   and  t and,, - 2  2- and " and ( and or,,, and of, and of, and, and, and  and in 2  ( 1 ,  [ [ and a  and 1     " " [  and  a- n. [ and - ",1 and  and in, and, 1  [. and- “ ( " ( and " and  ( " and and ( "-  and " he-   “1 " a and " " "  m - t " and and " ( and " -, and, - " and (,  [- and is “ and  and  "- a in,  is-00, and is0  " " "2 (, or, - ( " or, ( - and,, and or- and ( " -1-1 and  and - and or and- and ( m- at ", [ (0 m, " " and  and " is-0- and and (, and- and and (- and and and, and  and, (, and and-2  and and and and ( and " and, and,, ( " and or  "- "- - and- M,- and, M and, " and,, and,0  and-

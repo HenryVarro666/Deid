@@ -1,0 +1,296 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2064-04-20
+
+                             OFFICE NOTE
+ 
+Uher, Olga
+258-16-49-2
+04/20/64
+ 
+She returns to clinic for follow up. Unfortunately she missed her
+entire appointment and did not bring her blood glucose log with
+her. She reports that at 4 a.m. last Thursday she woke up and felt
+disoriented with sweats. She checked her blood glucose, it was 50,
+and she treated herself by eating. This led to resolution of her
+symptoms, although she said that she overshoots. She has developed
+a foot infection, has been seen by a podiatrist and started on
+antibiotics. She has also been taking a thyroid hormone but she
+still feels that it is making her tired. She just in general has
+not been feeling as well as she had been previously.
+ 
+Past Medical History:
+ 
+1.   IDDM.
+ 
+Medications: See previous notes.
+ 
+Allergies:  Same.
+ 
+Physical Examination:  Not performed. The patient had a  special
+orthopedic shoe on, her foot was wrapped.
+ 
+Impression:  Patient with IDDM with usual blood glucoses in the
+200's and an elevated A1C. Discussed the need for consistent meals
+and exercise and need for more control. Will increase day time
+insulin to 17 units of Lente and evening will stay at 10. She will
+follow up in one month. Will check a TSH today.
+ 
+ 
+ 
+Phyllis Jacobson, M.D.
+ 
+/lott
+ 
+DD: 04/20/64
+DT: 04/22/64
+DV: 04/20/64
+ 
+ 
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+"""
+
+
+def load_file(fname):
+    if os.path.isfile(fname):
+        data = load_text_file(fname, 'utf-8')
+    else:
+        print "ERROR: Could not find file '%s'" % fname
+        return None
+
+    return data
+
+
+def load_text_file(fname, encoding):
+    f = open(fname, "r")
+    data = f.readlines()
+    f.close()
+
+    if encoding is 'utf-8':
+        try:
+            data = data.decode('utf-8')
+        except UnicodeDecodeError:
+            print "ERROR: File '%s' appears to be in some non UTF-8 " \
+            "encoding" % fname
+            return None
+    
+    for line in data:
+        if (not line.strip()):
+            break
+
+        return line
+
+    return None
+
+
+def make_test_doc(data):
+    """
+    Return a Document object that represents the text document data
+    """
+    import xml.etree.ElementTree as ET
+    d = ET.Element('document')
+    d.text = " ".join(data)
+    for elem in d.iterfind('record'):
+        doc_rec = ET.Element("record_data")
+        doc_rec.attrib["doc_date"] = elem.text
+        for rec in elem.iterfind('field'):
+            data_rec = ET.Element('field_data')
+            data_rec.attrib[rec.tag] = rec.text
+            doc_rec.append(data_rec)
+        elem.append(doc_rec)
+    return d
+
+
+def make_test_patient(data, ptype):
+    """
+    Return a Patient object that represents the text patient document data
+    """
+    p = ET.Element("patient")
+    p.attrib["ptype"] = ptype
+    for rec in data.iterfind('record_data'):
+        p.append(make_test_record(rec))
+    return p
+   
+
+def make_test_record(data):
+    """
+    Return a Record object that represents the text record data
+    """
+    p = ET.Element("record")
+    p.attrib["doc_date"] = data.attrib.get("doc_date")
+    p.attrib["doc_id"] = data.attrib.get("doc_id")
+    p.attrib["doc_number"] = data.attrib.get("doc_number")
+
+    # Create a list of fields to create
+    field_list = []
+    for rec in data.iterfind('record_data'):
+        for elem in rec.iterfind('field_data'):
+            field_list.append(elem.attrib[elem.tag])
+
+    for field_name in field_list:
+        if (field_name == "doc_id" or field_name == "doc_date" or field_name == "doc_number" or field_name == "doc_note"):
+            p.attrib[field_name] = data.attrib[field_name]
+        else:
+            field = ET.Element("field")
+            field.attrib[field_name] = data.attrib[field_name]
+            field.attrib[field_name + "value"] = data.attrib[field_name]
+            p.append(field)
+    return p
+
+
+def make_test_note(data):
+    """
+    Return a Note object that represents the text note data
+    """
+    p = ET.Element("note")
+    p.attrib["doc_date"] = data.attrib.get("doc_date")
+    p.attrib["doc_id"] = data.attrib.get("doc_id")
+    p.attrib["doc_number"] = data.attrib.get("doc_number")
+    p.attrib["note"] = data.attrib.get("note")
+    p.attrib["doc_note_id"] = data.attrib.get("doc_note_id")
+    p.attrib["doc_note_number"] = data.attrib.get("doc_note_number")
+
+    notes = data.attrib.get("note")
+    for note in notes.split(","):
+        note_data = ET.Element("note_data")
+        note_data.attrib["note_type"] = "note"
+        note_data.attrib["note_id"] = note.strip()
+        p.append(note_data)
+
+    # Make a list of note types
+    note_types = data.attrib.get("note_type").strip().lower().split(",")
+    for note_type in note_types:
+        note = ET.Element("note")
+        note_data = ET.Element("note_data")
+        note_data.attrib["note_type"] = note_type
+        p.append(note)
+    return p
+
+
+def load_data_from_file(filename):
+    doc = load_file(filename)
+    if doc is None:
+        return None
+    data = make_test_doc(doc)
+    return (data, "document")
+
+
+def load_data_from_file_xml(filename):
+    doc = load_file(filename)
+    if doc is None:
+        return None
+    data = make_test_doc(doc)
+    return (data, "document")
+
+
+def load_data_from_patient(filename, ptype):
+    """
+    Load a Patient object from file and return it
+    """
+    doc = load_file(filename)
+    if doc is None:
+        return None
+    data = make_test_patient(doc, ptype);
+    return (data, "patient")
+
+
+def load_data_from_note(filename, ptype):
+    """
+    Load a Patient object from file and return it
+    """
+    doc = load_file(filename)
+    if doc is None:
+        return None
+    data = make_test_note(doc)
+    return (data, "note")
+
+
+def load_data_from_record(filename, ptype):
+    """
+    Load a Patient object from file and return it
+    """
+    doc = load_file(filename)
+    if doc is None:
+        return None
+    data = make_test_record(doc)
+    return (data, "record")
+
+
+def make_test_patient_xml(ptype, doc_id=None, doc_number=None):
+    doc = ET.Element("document")
+    doc.attrib["ptype"] = ptype
+
+    doc.attrib["doc_id"] = doc_id
+    doc.attrib["doc_number"] = doc_number
+
+    return (doc, 'patient')
+
+
+def make_test_note_xml(type, doc_id=None, doc_number=None):
+    doc = ET.Element("note")
+    note_data_list = []
+    if (doc_id is not None):
+        note_data_list.append(ET.Element("note_data")
+                             .attrib["note_id"] = doc_id)
+    if (doc_number is not None):
+        note_data_list.append(ET.Element("note_data")
+                            .attrib["note_number"] = doc_number
+                             .attrib["note_id"] = doc_id)
+
+    doc.append(note_data_list)
+    doc.append(note_data_list)
+    doc.attrib["note_id"] = doc_id)
+    doc.attrib["note_id
+    note_value.attrib[note_id
+    note_data 
+    note_data_id
+   
+    _note_data_id 545
+
+12
+
+ 
+     note_id
+ 
+    
+14_id
+
+4 
+
+1 
+    Note
+Note_id is 5.
+ 10
+2_note 1_id
+2
+15
+  
+
+    _10. 1. The doctor 1. 0 note 1 5.
+13 10-21. 7 2 1 1. 0.
+5 20
+1 1.
+2.1 4 11. 10-1 1 and 8 20 1 2.20 1 1.
+13-11.  1 20 21 1. 20 and 5. 11.10.2
+10 10.  
+15 1 1.1012 18
+1, 12-7
+the 1
+The 1520. The 18. 1
+
+the. 02
+
+ 6
+ 17. The1234, 102 101.
+1 and 12 date and 0 not 2 date (the. 1.  date. A day 2 was the, but 0 18,1, and the date and date and the day and the  and the date (and date, the  date, 220 and a date.120, and the... The: 20. 
+The: 0:113
+1, :2,1,1, and the: 
+
+1:1:1: 5 (theive and 141 day: a 3 not not: not. not. not: a: 2.0.24 9 week 4 day day: 2. The and was, 1: 0, and/991:15 and, :5 and the1: and and the and (1 and: a, not for the.  and the and the and and and a and the and a and a day and a not notive notive notive not notary 0 and, and a. but and and it a  and,., a and the and (2. She and.0.1 and but and and and and [5 was, and and was in an and1/2/8/25 (1 is and was 24 in our and the the in her in [1 in a day.015 and a120 (12, the.3 and0011010. in and, and a and a. on a and a. 0.0..,  notical 0.0. day, 9 and  and, a, and was (a, and to 1 and a, with the with and and. and and " and and and,  and was and and was. and not,  with the with,  with and, a0-0,  and, and and, day and and day and “ a with to to and, A and and a, and and a and and and and and a (1 and " and and a for an ( in a an to the in (0 and and  " in “ and, ( a " ( [ and [: and a and a, a and and in a, and and and and and and a:  and - and and an [:  a an in a in a an an a not a a a a [ an: an, (: ( An,  An An:  a in a [ a in an an in a, a [ and a and and  ( a and not :  and a  an and.,  an,  a a. a (.
+ and,  a, a and. an and and and with and [ a. at at  and " and a. and [ with a and and,, and an and, and in, and.  and an and and and and but ( and an but and-, and  and-  and a in a  and  and   and [  at and a with in in,  and and in and and " and and. and. ( but but and,  "  of,. ", " in " and (  and and and and up and and " ", in in in and  and and. and in  and and and a-,. an,. and at and and and and. and ( and and [ and and and and and and a and a and but a and with and a- an and and and  and and and a in and not a a an a a a and. an and,  " in  c, and ". a, and " and in in a and " " and an " and and a and and. and and up and and and and and and and and for a and a for. and for for and a to and to and and to to for to and a and an and and and and (-1 and and a a and0 and and w1 in and (0  and- and and-  and a2 and c- 1- an- an- a in an and- of of  of. C of a "4 ".-  c in in a c of C0. of, c a, " and and [0 and-2 and a. a, and-  for a ( w or c and and and "1-1 a a a c a a not w12 and. and [ an-, a a of and, c w "  and, and and and-  and and to-1 and and an- and and- and and " and c and and " c c in a t not a t and and c-1 c0- c a a in c c. and and w a " d- w b a not " a- and and c- a and me and and and. and and, a- a b1 and a1 b and and to up ( up to b in a c and- and w- d- d w c-0 w and w and a and a- and a up and and- and b c in and and and and in and and. ". and a and. "2 and.0010100 and ". and- " a c and " and but- and " but and " and " and " " and and and " and w- " w0- "2 and "1 and " and d-0 an and c1 " and " and and and and or but and "2 and1314- "1 and and " and " c up and- and- and in and and and a or, and an a " "0 and an- a ch-0-0 c a c. (1- and10. and and, to and-23101- and- and and- up- or- a "- " to a a and (. to. " for to for ( ".- and c1 or-2 " of. in of a "1--8- a.-0- to or--1- a- and a in and and- and c in or. and. in0.1 and and. and or a and and of of a of of of of (2.1.- and- in and-0 "0- and "- to, and and- and and and and-1 a-2 and, for.- a for c for of to of " to for for for for for for for " for for. for for for for for in for for for for for and for-- and for or and and and " for or for-2-2 in for "-- and. and to---0 in " and, and-- and and-0 w---2- t and-0- and-- ( c-

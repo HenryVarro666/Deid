@@ -1,0 +1,465 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2093-01-10
+
+  CARDIOLOGY ADMISSION NOTE
+
+
+
+Uriah LARA
+
+FH 621-15-64-4
+
+Date of admission 01/10/93
+
+PMD:  Kenneth Bruce, MD, 92 Grand Avenue #704F, East Stroudsburg 97162
+
+Ref:  Collin L. Cardenas, MD, FH Cardiology
+
+
+
+This 60-yr-old man is admitted w/dizziness and CP.  Hx of CAD S/P stenting in 7/92, now has several wks of positional dizziness and CD.  Reports over past wks on reaching the top of 1 flight of stairs he feels lightheaded and SOB, some episodes accompanied by chest tightness w/radiation to R axilla.  Not exactly but somewhat reminiscent of previous CD w/radiation to R scapula.  Also had dizziness when rising from squatting to standing, at times quite profound.  Has not had LOC w/episodes.  Also denies PND, orthopnea, leg edema, fevers, chills, ill contacts, or travel hx.  He saw Dr. Cardenas in the office several days ago, was scheduled for ETT and event monitor, but due to persistent symptoms came to FH ER for eval.  
+
+
+
+PMH:  CAD S/P LAD DES placement 7/92, HTN, dyslipidemia, MVA, mild MR.
+
+
+
+Outpt meds:  aspirin 325 qd, Plavix 75 qd, Lipitor 40 qd, Lopid 600 bid, Toprol XL 12.5 qd, folate, trazedone.  Intolerance to high dose beta blockers (orthostatic symptoms and fatigue).  
+
+
+
+Former tobacco use, occasional alcohol.  Denies IVDU.  Recently married.  Family hx pos for CAD.  
+
+
+
+ROS:  10-system review negative.
+
+
+
+PE:  Afebrile, P 80, BP 150/90, R 18, O2 sat 76%.  Somewhat disillusioned appearing man lying in bed NAD.  HEENT PERLA EOMI, neck supple, JVP <10, no lymphadenopathy or thyromegaly, lungs clear.  CV RRR S1 S2, soft MR murmur.  Extremities warm w/o edema.  Abdomen pos BS soft NT ND.  Pulses intact distally.
+
+
+
+Labs:  BUN 18, crea 1.1, crit 40, CK and troponin neg x 2.  
+
+ECG:  NSR, normal intervals and axis, no acute ST T-wave abnormalities.
+
+ETT MIBI today:  5 minutes, no evidence of ECG changes albeit at a very low work load.  Nuclear images (preliminary) reveal evidence of mild ischemia in the anterior territory.  
+
+
+
+A&P:  60-yr-old man w/known CAD S/P LAD stenting presents w/recurrent CP and episodes of lightheadedness.  Plan to continue current meds, and in light of hx and mildly positive ETT at low workload will pursue cardiac cath, obtain transthoracic echo.
+
+
+
+
+
+_____________
+
+Steven Huerta, MD
+
+DS:   01/10/93
+
+DD:   01/10/93
+
+DT:   01/12/93
+
+    
+
+
+
+
+Record date: 2093-01-12
+
+  CARDIOLOGY CONSULT
+
+
+
+Patient admitted w/history of CAD, dizziness, and CP.  ETT negative, transthoracic echo reveals evidence of mild ischemia in the anterior territory.  Planned for catheterization today.  
+
+
+
+
+
+
+Record date: 2093-01-13
+
+  CARDIOL CATHETERIZATION
+
+
+
+Prior cardiac catheterization reveals 5.0 mm x 25mm DES 4/5 of LAD.  ETT negative, no PND on stress, no evidence of ischemia with dipyridamole.  
+
+
+
+
+
+
+Record date: 2093-01-29
+
+  CARDIOLOGY CONSULT
+
+
+
+Follow up with patient 2 months post cath:  30 days after PCI, patient was discharged home w/ no further symptoms, and now reports a 2-mo history of persistent dizziness and SOB.  Repeat ETT: ETT negative, no significant ischemia, mild LV dysfunction, no evidence of CAD.  
+
+
+
+
+
+
+Record date: 2093-02-20
+
+  CARDIOLOGY DISCHARGE
+
+
+
+Patient was discharged 2 months post procedure with no further symptoms.  Repeat ETT negative.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Record date: 2093-03-15
+
+  CARDIOLOGY REFERRAL TO NEUROLOGY
+
+
+
+Patient seen 2 mo post procedure w/dizziness, nonspecific chest tightness, and SOB.  CSF: no infection, WBC 400, protein 50, glucose 70.  CBC normal, CMP normal.  Repeat ETT negative; 3D-MRI negative for CAD.  Patient seen in consultation 2 months later with new complaint of right sided weakness.  MRI reveals T2 and FLAIR signal hyperintensity in the right cerebral peduncle and right thalamus, compatible w/multiple sclerosis.  Cerebral spinal fluid exam reveals 50 RBCs/ml, 260 protein/ml, 50 WBCs/ml.  Lymphocyte count, 10% of total, normal.  Repeat ETT, MIBI, and CT angiogram negative.  
+
+
+
+
+
+
+________________
+
+Steven Huerta, MD
+
+DS:   03/21/93
+
+
+DT:   03/26/93
+
+    
+
+
+
+
+Record date: 2093-03-25
+
+
+
+CARDIOLOGY FOLLOWUP WITH PATIENT
+
+
+
+Follow up w/ patient 7 mos post cath:  7 mo after catheterization, patient continues to have episodes of lightheadedness and SOB.  Repeat ETT negative.  
+
+
+
+
+
+
+Record date: 2093-03-26
+
+  10/93 CARDIOLOGY CONSULT
+
+
+
+Referral consult w/ patient w/ history of dizziness, chest tightness, and SOB.  Repeat ETT reveals evidence of ischemia in the anterior territory.
+
+
+
+
+
+
+
+Record date: 2093-04-27
+
+  2093-05-05 CARDIOLOGY ADMISSION
+
+
+
+Admit w/ recurrent symptoms.  Repeat ETT: ETT positive, significant ischemia in the anterior territory.  Planned for catheterization tomorrow.  
+
+___________________________________
+
+Steven Huerta, MD
+
+DS:   05/05/93
+
+DT:   05/06/93
+
+    
+
+
+
+
+Record date: 2093-05-06
+
+  CARDIOLOGY CARDIAC PERIPHERAL CATHETERIZATION (PCI) AND PERIPHERAL ANGIOGRAPHY (PTA)
+
+
+
+Perform PCI of right subclavian to left common carotid to bilateral common iliacs.  PTA of left common femoral and bilateral superficial femoral.  
+
+
+
+
+
+Record date: 2093-05-18
+
+  CARDIOLOGY DISCHARGE
+
+
+
+Patient admitted w/recurrent symptoms and ETT positive, ischemia in the anterior territory.  ETT negative, no PND on stress, no evidence of ischemia with dipyridamole.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Record date: 2093-05-19
+
+  CARDIOLOGY PCI
+
+
+
+
+PCI of right subclavian to left common carotid to bilateral common iliacs and left common femoral and bilateral superficial femoral.  
+
+
+
+
+
+
+
+Record date: 2093-05-29
+
+  PERIPHERAL CARDIAC PTCA AND PTA
+
+
+
+
+
+PTCA and perirenal angiograph of right subclavian artery to left common carotid to bilateral common iliacs and left common femoral artery and bilateral common iliacs and left superficial femoral artery and bilateral common femoral artery and bilateral common iliacs and bilateral common iliacs and iliacs and bilateral common iliacs and bilateral artery common iliacs and bilateral common iliacs and bilateral common ilab common ilia.  19-121
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+19
+
+
+10195
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+ 29
+ 20.
+200019 12 
+
+
+
+
+
+ 14-4
+.
+  
+
+
+2
+11. 
+
+.  
+14 (2.
+
+ 
+
+ of 42
+ of 40.
+
+
+
+
+
+
+
+
+  
+
+
+
+ 
+ 222
+C
+
+ 
+ 0
+, 
+
+
+A
+, C.  
+, A, Clin, 011
+ 
+ 
+
+  1400
+
+: 803
+
+
+
+
+
+
+
+
+
+0.
+
+, 204. 3
+ and 200
+.
+date and date-24
+, the. 4, and the date: 3. 63, it'120, and date  9, and 5
+ and 1
+
+:11
+ →
+: 20: 01. An:10 An.21:1:   of  of A111020,362012200 and: (A,2: [B of:016, 16   ( M.  , 20 An,  - B ( :  0: An: An  An:  :, :111, : Anine: : An: (C An An: Anist:. An, An. An (00 Anist, [02010 1 An of a andness, [2-21 An,0-2-5/12. -2 and,  and -c and a-101.. wist. A/9 An /2 and/ 2 An Anistic An: An A An Anine-1 An A Fine. Aninal 2-2 wine in a
+  A and 
+
+ 0,0 (1- /,100000000 An Anient An, 0-00 An An 00, 1,111-1  and, 0 An:  An An An An 1 and Anine, An Anine. An P An Anica Anist An, An An wine Anine An Anine Anine of  and.00 -10 w0 colish. colistic,101-2,2 and wien 1  w in-. [0  and -2 -col-col w-,0, a of the of the or-1 and or, and [1 [ w and: : a, [ w- w: w and,:  An:  [:, in,: An C w: and, An: w - An An w of  an w-0 in w,: [: an- P An An: An C w (-C:  [- (: -  - w - An and [ [: [, ( col col: [ col [ - of a w of ::: : and- [:  and w [ [ w, - w- an -:- c w- and, w: An w: - An I An An An An An and  -  an: [ An col-  and, [- col w col and cm and and I col - and - w [ cm and- col w and and - - col:  M An w:  of of M  col col c- PA- col,  and.,,, O M- - L N w col- O M and in in of of- of of of and  w0 (-1-  of and of of [ of and- M- w- o, w w- O and  of-  of and- and in of of of  in, of, and or and and (,- [- I. and of- or  and w of and., (. -   and ( c and of [ of [ of of of of of of of of, and,,. H- last in in and  and, and and P of, N w for of for in of and of, of  of- P w-  in of for for of of of of of of of of to. and   to  and- w a and in and and a and. of with, to - P w.- and and of  to  of  P and of   c or and and and w or-1-1 of-1,  and and - or and and,  w and and in and w w and. to, and of PO w. [ of of and of and and P of and- and: R C - [ C- P of C of of and of of of of a of of of of of  [ to and [ m w- to [ and and:  of of and: O  PO I of w of * of of of of of of and of R of R of of of of of of of: I of of of of of of of of of of of of R P- of of C of of of of and of of of of of of [ of of of of w of to w and-0 of C a, [ N w and, - w, of of of of. of N of of  of of. of w, and and  and in and  [  of [- A L and of of of of of N w. and N R w w A N w  M [ - [ N, and and P and  of, w w M C C and. of C of of of of of of of of of of of of of of of of of or of of of., - of of of of of of of of of of - of of of of, N and w A and and, and PO, [., , [ and, [ H and of [ and of [1 of   A, and, L [ A L A of of of of of of of of of- of of of of of a per of of of of of w of of of of of ( and of of of of of of of or   of  of1 or,11. and for, or. and., of of and of of- of [ and of, and w to I [ w and I a w w w w w and for  E H for C. H of w- H of and to of  w E E w and ( and- E / a- w PO of, - w- a a  PO a w R E- A- of of  of of C of -  and C and and a a R a and w (  R R. a- and a in- a and- an  R a R A of R R R O w R R R to R O C for E for of of of of of A C [ of A C H [ E R1 R a w and a E- a [ of of R and  w- A of  and [  of to w m  A  R of " a " of A of of [ a of of a of a and- A in [ A  and in A for, in to R and- R and and to to

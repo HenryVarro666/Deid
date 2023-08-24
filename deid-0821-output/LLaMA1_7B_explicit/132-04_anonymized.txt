@@ -1,0 +1,142 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2078-03-17
+
+
+
+Patient Name: JORGENSON,VIVIANLEE [ 47190847(JMH) ] Date of Visit: 03/17/2078
+
+
+CC: Syncope, Afib
+
+
+HPI: 
+71 year old lady with a history of A fib was seen in clinic today for complaints of DOE and increased wt. She was found to be in mild to moderate CHF and an increase in her torsemide dose was recommended. On her way to a blood draw, while in the elevator, she had syncope and hit her head. The fall was witnessed by her daughter. There was no prodrome, no nausea, no incontinence with the fall. The pt does not have any seizure or hypoglycemia history. She notes an 8 lb wt gain over 2-3 weeks and denies dietary indiscretions. She takes her medications faithfully which include an escalating dose of torsemide in over the last several months. She's been hospitalized twice for CHF - once in 2075 and again in 11/77.
+
+
+The pt was brought to the ED. In the ED the patient had a head CT was done which did not reveal any acute pathology.
+
+
+PMH:Cardiomyopathy : Nonischemic,   6/19/74 cath no significant coronary disease, 11/26/77 EF 20% with and global hypokinesis 
+Coronary artery disease : 6/19/74 cath: RCA 30%
+Thyroid cancer : Papillary nodule Ca, 2071, a/p thyroidectomy
+Diabetes:  Had been on glyburide, currently diet controlled, 11/25 A1c 6.3
+Hypothyroidism: 11/25:  1.4 normal
+Elevated cholesterol:  11/26: LDL of 36 and an HDL of 26
+Hypertension 
+Atrial fibrillation on Coumadin
+Non sustained ventricular tachycardia 
+
+
+Medications
+Ambien (ZOLPIDEM TARTRATE) 5 MG (5MG TABLET take 1) PO QHS PRN 
+Asa (ACETYLSALICYLIC ACID) 81 MG (81MG TABLET take 1) PO QD 
+Celexa (CITALOPRAM) 20MG TABLET take 1 Tablet(s) PO QD 
+Coreg (CARVEDILOL) 12.5 MG (12.5MG TABLET take 1) PO BID 
+Coumadin (WARFARIN SODIUM) 1 MG (2.5MG TABLET take 1) PO QPM 
+Digoxin 0.0612 MG (125MCG TABLET take 1) PO QD 
+Lipitor (ATORVASTATIN) 20 MG (20MG TABLET take 1) PO QD 
+Lisinopril 40 MG PO QD 
+Potassium CHLORIDE SLOW REL. (KCL SLOW RELEASE) 20 MEQ (20MEQ TAB PRT SR take 1) PO BID 
+Synthroid (LEVOTHYROXINE SODIUM) 150MCG TABLET PO variable 
+Torsemide 200 MG (20MG TABLET take 1) PO QD 
+
+
+
+
+
+Allergies
+NKA 
+  
+FH:  Mom had MI, age 50
+
+
+SH: 
+  Lives with husband (Blacksmith, recently had CABG) and has 4 grown children.
+
+Health-Related Behaviors
+Alcohol-social only
+Tobacco-prior use, 60 ppy, quit 2067Drug use-no illicit drugs 
+
+
+PE: 
+T 98, BP 100/65, HR 131, RR 18, 96%RA
+GEN: NAD
+HEENT: PERRL, EOMI, mm moist
+CV: irreg irreg, no murmurs appreciated. JVP 15 cm
+LUNG: Rales in bases bilaterally
+ABD: soft, non-tender, non-distended
+EXT: no c/c/e
+Neuro: A&amp;Ox3, moves all extremiteis.
+
+
+CXR: enlarged heart. Minimal pulmonary infiltrate
+EKG: A fib, no ischemic changes, poor RWP. Unchanged from previous.
+
+
+Labs
+ResultsDate/Time         NA             K              CL             CO2            03/17/2078 [1]    139            4.6            103            28             03/17/2078        139            4.2            102            26             Date/Time         BUN            CRE            EGFR           GLU            03/17/2078 [2]    50 (*)         1.73 (*)       29 [3]         110            03/17/2078        50 (*)         1.66 (*#)      30 [4]         106            Date/Time         ANION          03/17/2078 [5]    8              03/17/2078        11             Date/Time         CA             MG             TBILI          TP             03/17/2078 [6]    9.7                           3.0 (*)        6.9            03/17/2078        9.7            2.2            2.9 (*)        7.0            Date/Time         ALB            GLOB           LIPS           03/17/2078 [7]    4.0            2.9            62 (*)[8]      03/17/2078        4.0            3.0                           Date/Time         ALT/SGPT       AST/SGOT       ALKP           TBILI          03/17/2078 [9]    8              24             106            3.0 (*)        03/17/2078        8 (#)          22             106            2.9 (*)        Date/Time         CK             CK-MB          TROP-I         03/17/2078 [10]   56             2.1            SEE DETAIL[11] Date/Time         TSH            03/17/2078        4.091          Date/Time         WBC            RBC            HGB            HCT            03/17/2078 [12]   5.68 (#)       4.67           15.2           45.8           Date/Time         MCV            MCH            MCHC           PLT            03/17/2078 [13]   98.2 (*#)      32.6 (*#)      33.1           136 (*)        Date/Time         RDW            03/17/2078 [14]   14.6 (*)       Date/Time         %POLY-A        %LYMPH-A       %MONO-A        %EOS-A         03/17/2078 [15]   76.4 (*)       15.4 (*)       6.6            1.3            Date/Time         %BASO-A        03/17/2078 [16]   0.3            Date/Time         ANEUT-A        ALYMP-A        AMONO-A        AEOS-A         03/17/2078 [17]   4.34           .88            0.37           0.07           Date/Time         ABASO-A        03/17/2078 [18]   0.02           Date/Time         HYPO           MACRO          03/17/2078 [19]   +              +              Date/Time         PT             PT-INR         PTT            03/17/2078 [20]   24.1 (*)       2.1 (*)        39.2 (*)                             A/P: 71 year old lady with syncope of unclear eitiology with CHF/Afib. Ddx includes cardiac arrhythmia, hypovolemia, vaso-vagal. Neurologic causes less likely from history.
+
+#CV - i. Low suspicion ACS- Rule out with serial CE
+- Continue asa, statin#CV - p. Decompensated CHF- Diuresis with IV lasix. Consider lasix drip if inadequate response.
+- Daily wt. Strict I/O.- Cont. digoxin- Will start amiodarone 400 bid- Discuss possible role of AICD with patient and family.#CV - r. - Telemetry#AFR - acute on chronic - likely from poor forward flow- reduce lisinopril- urine electrolytes, eos.
+#Psych
+- continue celexa
+#Endocrine
+- continue home thyroid regimen
+#FEN
+- low sodium, 2L fluid restricted diet#CODE: Full
+
+
+
+
+
+
+
+
+____________________________________
+Xavier B. Nix, M.D., Ph.D.
+
+
+
+
+
+patient 100 and a 
+
+
+
+
+or (00 and
+
+or 1
+1, 
+
+names of any names, names.
+1. and the names.
+
+names:
+12.
+I would the patient and patient.
+
+A patient, or the patient and 18, and 5, and 1 or the name, the 12, names, 1, but the following, the [
+and, or, and the patient, including.
+
+and are anatom.
+are 1 or 1. or 6 months, and, name, and any orifiable.
+...the names, and 1 and the following names, and the...: and your names of [
+name: 15, the following: words and the “, orified and: or:
+1…:1 are...
+
+
+[
+are...
+are or “
+...
+1 are (the or: the: (the names and the, [the, [the or, the last of the last, and the and (the:
+[the orific, “make or, the and 10: the:1 (0...10- are, and are the [... and...… 11...and of this in the, 1, and... are and [and, and, and, and a or, and, or or, and and or or, 1 in, and,
+[1 (the and the, the are, 2 are, are, the, or, and, and, and and, are, anine, are, and [and of, and, the and a ([1, a…
+1 in the [...with the (1-names in:
+[... and: and and the " are a:
+are are (... are "… anine of… of the [the  or by the or “an [an of an, the, [name, [, the, an of 1. and. and, and and, (and, the, but, 2, 0 or are a or the- are a, and, and in a and, and 1-and and, an, and, the (1 and and, an, an, an and (and by, and 1, an an and or and, an, an or, an of the an or an or and of the and and in 2, an anine or, (an, 3, an, an, 1 and the. an an and the " and, the, an, the, an in “make, of " and of the and and 4 of this and (0: [1:: an (2:1: ( an, the and in and: an by  by: the an: an by ( an an an an an by: with an an- 0 in an  and an " [0 in 1 "  an an "  (an [an an- of an [ or of the an [. and in the, in, an  and,, (and in or, and in and an and [ (and, and " and ( an an ( ( or and, or-d- an or an an, [an an ( an an  an, an and an of an or an (  an an-an- an of the  an, of or an and an of or or, or an and,, or or an and, or, and of an of the of a of,  " an an an, are are,, in or ( an of an an or of ( an an or of an-1 " or- and  or and an or, an,, ( or,, of, of and of of the and of the by in,, in: or and, in  or ( and- an an in a ( for ( an of the, an or of, 1, or 0- or- or or,,, and,, or, and,  and ority ( and to,  or, an- an, or (- or  or of an or of or of or-2 or  or of -0 (, c ( or an ( and, and and or of an  an or of the of of  of a of and of, ( and an, an, an- or 0  and 0 an c- 2 1 or -1 or  ( an, " C or of the, of the, or " an c.   (  an- 1 or or " (, an, ( ( and and of - for or  [   or-  or- and " ( "   and  and  or (0 of an of  ( and, 1 and c ( "  C or- and  "1 c ( c and  a c and c for: or c- and-c- C- 1 " and or an " A A  an or and or - A  ( and- "  and or ( and and or an or,, of and or  of or of or of an or or an or an or  or,, (   c or C c of of  of  of  of an of and of  or  and and and c or-1 C C and (- and  c-  and c or an and  or  or. - and  and  or and and  ( A, ( c- and of of and of- of the of (  an and and, ( C,, ( C H ( and and c  of A A A C- an and an and  c and and and  1 c a  C or and ( and  and  and and and, and and and  and C  and and or, and A C and ( and, and C A or C0 and C1 C,  ( and a and- and- and ( ( C C  and and and (, c,. or c and ( and and. , ( (  ( A and and of and, C and, and,, 1 and an and  A A, 0 ( and,  C. and of C of  C of  C of 2  and and and A  C2, c C,, A C and and c of, M.,.. and (,, A A and and and and and  A and, a and  C (   C M (  M or  and C. [ and or ( M M c and A A M (0,  and A ( A and, (  A M c A-A C-C and or  or M C m, A and ( and, C and C and and 0 and c C M (,,  and- and and, M C and ( or, c,  and ( ( c-  and   M and and ( ( and C M,  and a, C c a and C C m M c- C  and  and  M and M M, as  m and  c ( and.  C ( c-  or C  c and  C C c of,  C  A C   M C and C- and and ( M ( (1 C, and, M A. M M M M and,

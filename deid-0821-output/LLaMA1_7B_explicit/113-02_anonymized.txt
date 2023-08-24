@@ -1,0 +1,255 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2088-08-03
+
+                     DAMERON EMERGENCY DEPT VISIT
+
+ 
+
+VALENZUELA,BRIAN   036-89-96-4
+
+The patient was seen by the resident, seen and examined by me.  I 
+
+have taken the history and reviewed the medical record as well as 
+
+the vital signs, medication and allergy list as well as the past 
+
+medical history.   
+
+PRESENTING COMPLAINT:  Fever of unknown cause with mental status 
+
+change.
+
+HISTORY OF PRESENTING COMPLAINT:  This is a 51-year-old man with a 
+
+history of multiple sclerosis, initially diagnosed in 2063 and also 
+
+a history of hypertension, history of anemia and has sacral 
+
+decubitus that has been debrided in the past who was transferred to 
+
+the emergency department today from a nursing facility.  The 
+
+patient is bedridden for the last few years and today the nursing 
+
+home personnel noted confusion and the patient had a fever.  The 
+
+nursing personnel at the nursing home also, after speaking with 
+
+them states that he has chronic abdominal distention at baseline. 
+
+REVIEW OF SYSTEMS:  Positive for fevers and chills.  Negative for 
+
+abdominal pain, nausea, vomiting, chest pain or palpitations.  The 
+
+patient also has no urinary symptoms.  He also denies a cough, 
+
+denies neck stiffness and denies a headache.  
+
+PAST MEDICAL HISTORY:  The patient wears a condom cath at baseline.
+
+MEDICATIONS:  Baclofen, atenolol, Lactulose and Lasix as well as 
+
+vitamin E.  
+
+PHYSICAL EXAMINATION:  VITAL SIGNS:  Here his temperature is 101.8. 
+
+He is tachycardic with a pulse rate of 112, respiratory rate 24 but 
+
+he is maintaining a normal blood pressure of 131/79.  His oxygen 
+
+saturation is also 99%.  GENERAL:  He is awake and alert, in no 
+
+distress.  He is communicative but some times difficult to 
+
+understand.  He is oriented x2.  He is somewhat dysarthric.  His 
+
+dysarthria is at his baseline according to nursing personnel.  
+
+HEENT:  Otherwise normal.  He has no evidence of an ear infection.  
+
+His oropharyngeal examination is normal.  He has no 
+
+lymphadenopathy.  NECK:  Supple and nontender.  There is no 
+
+cervical adenopathy.  No signs of meningitis.  Full range of 
+
+motion.  Normal flexion and extension.  LUNGS:  Clear.  No rhonchi 
+
+heard.  No wheezes or rales heard.  Good air movement bilaterally.  
+
+CARDIAC:  Tachycardic but no murmurs or rubs appreciated.  No 
+
+friction rub.  The patient is well perfused.  Pulses are normal 
+
+throughout.  Good capillary refill.  SKIN:  Warm to the touch 
+
+indicating good perfusion.  Warm and dry.  No lesions seen.  He has 
+
+a right gluteal ulcer but is healing.  ABDOMEN:  Somewhat distended 
+
+and mildly tympanitic but no tenderness, no guarding, rebound or 
+
+masses.  No liver edge palpated.  No spleen edge palpated and no 
+
+evidence of a hernia.  Bowel sounds are normal.  Again, it is soft 
+
+and nontender. GENITOURINARY:  He has a condom cath.  Cloudy urine 
+
+in the Foley.  MUSCULOSKELETAL:  Normal examination.  He is 
+
+somewhat contracted in his lower extremities but for the most part, 
+
+no evidence of ulceration and no pedal edema.  There is no evidence 
+
+of trauma.  NEUROLOGICAL:  Grossly intact.  Oriented x2 with some 
+
+dysarthria at baseline.  RECTAL:  Heme negative with good rectal 
+
+tone.  
+
+LABORATORY EVALUATION:  Chest x-ray was done which showed no 
+
+evidence of an infection, no evidence of a pneumonia.  Because of 
+
+his abdominal distention, a KUB was done but there was no evidence 
+
+of air fluid levels and no evidence of intestinal obstruction.  He 
+
+had a lot of gas but otherwise normal.  There was also no evidence 
+
+of constipation.  Electrocardiogram showed a sinus rhythm with some 
+
+nonspecific ST and T-wave changes.  Old electrocardiogram was 
+
+compared with new one and there was no significant change.  His 
+
+white count was 14,000 with a hematocrit of 36.  His electrolytes, 
+
+BUN and creatinine as well as blood sugar was normal.  Amylase and 
+
+lipase, also normal.  Liver function tests, normal.  Urinalysis 
+
+showed too numerous to count white cells and also has bacteria.    
+
+THERAPY RENDERED/COURSE IN ED:  Management in the emergency 
+
+department consisted of IV fluids.  Blood cultures and urine 
+
+cultures were sent.  The patient was immediately started on 
+
+intravenous antibiotics, was given Tylenol, placed on oxygen and 
+
+was being hydrated.  Again, a urine culture was sent as well as 
+
+blood cultures.  A 51-year-old man with a history of multiple 
+
+sclerosis, bedridden, also has a history of hypertension who has 
+
+been experiencing fever, chills, tachycardia, tachypnea and mental 
+
+status change over the last twenty-four hours at his nursing home 
+
+who presents now with urosepsis.  Cultures done, antibiotics given, 
+
+IV fluids given, Tylenol given.  Vital signs are normalizing.
+
+CONSULTATIONS (including PCP):  Medical.
+
+FINAL DIAGNOSIS:  Urosepsis. 
+
+DISPOSITION (including condition upon discharge):  The patient is 
+
+going to be admitted to the medical service.  The patient is 
+
+admitted to the medical service in stable condition.  Primary care 
+
+physician is aware.
+
+___________________________________                    VI752/79442 
+
+KEITH TOLLIVER, M.D.       KT40                           D:08/05/88 
+
+                                                       T:08/05/88 
+
+Dictated by:  KEITH TOLLIVER, M.D.       KT40 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+"""
+  return dict_to_string(dct)
+
+def dict_to_string(dct):
+  # dict_to_string takes a Python dict and
+  # turns each key into its own line with value
+  # appended to line. It uses tabs to format the
+  # output and newlines to end each line.
+  #
+  # dct - a dict of python objects
+  #
+    
+  for item, val in dct.items():
+    print('{0} {1}{2}\n'.format(item[0].ljust(8,' '), item[1].ljust(12,' '), val.ljust(20,' ')))
+  
+def dict_to_string_list(dct):
+  d = []
+  
+  for i in dct: 
+    if isinstance(i,list): 
+      for j in list(i): 
+        
+        if " " in str(j): 
+          # if j is a string, replace it with an initials
+          i = i.replace(" ", str(i.capitalize(i))
+          d.append(str(i))
+        # replace 
+        if "." or " " or "." or "." or " " or "."
+        i = i.ljust(i.ljust(i.ljust(i.ljust(i.ljust(i.ljust(i.ljust(i.)ljust(i.
+        if j. 
+        d.i.i.ljust(i.ljust(i.
+        junk name.
+        junk name. junk name.
+name. junk names. names of junk names.j name.i.junk
+junk names of junk names of names.
+junk names of names.
+names, j
+names, etc. junk names. junk name. 
+junk name.
+names., junk names, junk names.
+names of names.junk names., junk names of junk name, junk.
+
+junk names.
+j.
+
+junk names.
+junk names. 
+junk names of name 12 names junk name. 
+j.junk names
+names, names.
+jname names., junk names, names. junk names, j.
+names of name. names.
+name, junk names. names
+[1 j
+junk 
+name of j names of the name with the names and names of 10, 
+Name of names the names. The 191...  would and the j are, the patient, or. 
+or 
+
+10 names or names, and names, the names, names and, names or and the names, and name, names, the name, names...… and 
+
+
+. The... or... of are, and name.
+The names and name.
+The patient name. The, the names, names, names, a…, and the [d.  and/d and the name, the doctor: and the: the: name: ((pat...
+19 or the symbol. 4…andize the…: and the are identified, the are the (
+are and the are: 
+(are: or the [(are and  are, 1, or, remove the and, as: or, as the… 1... or, the [are, 15 are, 10 ([ and the and a and the...1, and (1, butify the, 21... (...and... and and, 11 and, "and (are-3, 1, 5, and, or...1... and the, "the and and, or the, the, an, the, as, 1, 8 are a and 2, (and (1, and, and (0, the, and, and are the are, (of the, a:, and the, the: the patient-get-and: the:
+: 1. 1 (anite of " and. and. and (3. are. 2 
+have, a "an of 9 of the and the or by the, the " and, 2. [d (an, and, of the (d of 2 of 0 in the, and, an, 2 or, are an, 2-are of a or would (le a, an " (2, a and, the [2, aniz, an an, 1. an an and 1, 1, 4, or an and and or and anities, [0, as, and an an or  of an, an an 9 an an, and in 1, an, an, an, 1 of, an and the 0 an and, " and, a, the, an and, an, "an, 00, and an  and an 1 of "1: (1-  and:  and:: [1: :: and in “: 1 and an: : an: an: an: an and with a- : an: an: an " and  are-le or an-[1 an or (... of the of the. of [.. and and, in, [  or, but ( and (, ( [ and, and  and are  or and [ [- or an an of the and or or -an [ an-d, in  and [0, 0 (  an  an an  or an- or of, and or an and of the of  of the of the of and an- and  or or, from an, from from the by and from from by of the, of the of the and or and an of the and are  and in, in are-, of a of, of  ( or ( -, or  and, - (, or or and of  - an of the of and of  of the of, an and,  and and:  or- are, (  or in or of  of an or or or and or an of - or- and or-  and,  and and  and of, and of  and of the or and,, or,  and  ( and [ or and or  ( d. of and  of  and of the  of  of ( or  of (, c ( and (  or,,  of  of the of of  of the of  and  of the ( and and, an in, ( and-,,   (  an  and in, in ( and of  for,  of  and and and, of  or  ( 1-2 an and or ( and or, an and and or and, [ and, and ( or an or [  (  and  or or ( and  or, (, -, in c of the or of  of or (  c and and- and c to ( and and (,- and in and, and and (, and, ( and  to and in and c-1- and  c- and and of " " ( of the of  of a c of 1 [  ( in and  and and, or,, of  and or  of,  of  of- or-  of ( ( in-,  and and- (,,, ( of  of ( of  of of  of the of, 1 ( and or,  ( and, ( and and (, and,, in and and  of, and   and-,  of,  V C and,, and of and of of of of, of of of and (,  and, and and and, (,, and ( ( and, and, of 0 (.  and, or,, and  (, in- (, or and and of or w (, and and and (,, and,, and and and and, of [, and,, or [ and a and and-  or, or, (, or- or, and, in and, in and, V and,,  and, and and,, c and,  and and,, ( and,,,, and,,, and and (,, (, and (, (.,,,, and ( ( (,,,,, of and a and of and of  t, ab and,,, and- and and,,, and, and, (, of, and and,,,,, and,, as- and, and and and and in,,, and., to, [ ( in c (1 t- and or, c, m w and ( and and, for, [ to ( as and, c- and and as- c, and- d,, and  (, and,  or  and t-1- w t,  c w (, and c,, and,,, (,, [, w or,, w,, t. and ( or (,., and- to, ( to and to and t,,, a and and, w ( and, and (, and ( and and and (,,,,,. and a,. and,, w, w and, V and and and or. [ and to, to and to to and to. and V, and c ( and c ( and and w or, and and, and, as ( as,,,, and and

@@ -1,0 +1,399 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2078-09-17
+
+
+
+HENDRICKS, HANNAH
+75322175
+09/17/2078
+
+Trevon Schmidt, M.D.
+47 Clinton Street, Guite 299
+Decatur, WI 33955
+
+
+Dear Dr. Schmidt:
+
+Your patient, Hannah Hendricks, was in the Surgery Clinic today.  As you know, she is a 52-year-old woman with a history of peripheral vascular disease.  She underwent a redo left femoral to anterior tibial bypass graft using basilic and cephalic vein from her right arm on May 3, 2078.  She has done well since the procedure.  She is now comes here complaining of left foot pain.  She had an ultrasound in the vascular lab to rule out a DVT, which it did.  She explains the discomfort as pain and burning in the bottom of her foot as well as her arch and over the dorsum of the foot.  
+
+
+On exam, she is a well appearing female in no acute distress.  She is alert and oriented x3.  She appears grossly neurologically intact.  Her lower extremity exam reveals easily palpable bypass graft pulse in her left leg.  Her left foot is warm and well perfused and she has a very small pinhole ulcer over the plantar aspect of her left great toe.  This does not appear infected and I cannot probe to bone.  It remains superficial.  She has no other ischemic skin changes noted. 
+
+
+I have discussed with Hannah that her discomfort most likely is due to peripheral neuropathy due to her diabetes.  She also experienced this discomfort prior to her surgery.  She is enquiring about starting Neurontin.  I have said she would be able to try either Neurontin or Lyrica to help with the peripheral neuropathy.  She will return next week for her postoperative graft scan to assess her circulation.  She knows to contact us sooner if thing worsen. 
+
+
+If I can be of further assistance in her care, do not hesitate to contact me.
+
+
+Sincerely,
+
+
+Hunter Shea, MD
+
+
+Dictated by: Quanisha Logan, PA-C
+
+
+
+Record end time: 2078-09-17 14:30:04
+
+
+
+HENDRICKS, HANNAH
+75322175
+09/17/2078
+
+Matthew Wade, MD
+77175103
+09/12/2078
+
+Ms. Hendricks, 
+
+
+You are being discharged today because you are now able to perform activities of daily living without difficulty. Your discharge instructions will be provided to your nurse. If you have any concerns after discharge, please call your physician's office. If you have any problems after discharge, please call your physician's office.
+
+
+
+Hendricks,Hannah
+
+Hendricks,Hannah
+
+Hendricks,Hannah
+
+Hendricks,Hannah
+
+Hendricks,Hannah
+
+Hendricks,Hannah
+
+HENDRICKS, HANNAH
+75322175
+09/17/2078
+
+Douglas C. Smith, MD
+51031115
+04/02/2076
+
+Hannah:
+
+
+
+
+
+
+
+
+
+
+I've reviewed your x-rays and your bone scan and it's clear you don't currently have osteomyelitis. We're going to continue the antibiotic and I'll see you in one month for a repeat x-ray and bone scan.
+
+
+Douglas C. Smith, MD
+
+
+Dictated by: Quincy Mullen, PA-C
+
+
+
+Record end time: 2076-05-08 13:24:13
+
+
+
+HENDRICKS, HANNAH
+75322175
+09/17/2078
+
+Helen J. Smith, MD
+51191778
+07/03/2078
+
+Dear Ms. Hendricks:
+
+
+
+As a follow-up to our meeting, I have a number of things to discuss with you.
+
+I'm going to recommend surgery for you, but I want to talk with you about the surgery first because I want to make sure you understand it. There is no other way to do this surgery.
+
+
+
+As you know, you have an infection in a bone called the clavicle and it's not responding to antibiotics. You've had an infection in the clavicle since last November. It's an open wound. I need to remove the infection and rebuild your bone. This will make sure you never have an open wound there again.
+
+
+
+This surgery has a 1% risk of death, but that means only 1 in every 100 patients die. You'll be asleep during the surgery and you won't remember it. We'll do this surgery with general anesthesia in the operating room, and it'll take an hour or two, depending on how long it takes and how complicated it is.
+
+
+
+There's a chance the wound might get open after surgery. We've done everything we can to prevent it from getting open, but if it does get open, we'll close it and then put you in a special bed in the hospital that you'll be staying in for one week. You'll need to stay in the hospital for at least a week after the surgery, but maybe less. You'll also need to stay in a different kind of bed at your regular house for a week after the surgery, and your nurse will tell you exactly how to take care of yourself after the surgery.
+
+
+
+You need to know that if you don't have the surgery, your bone will eventually get so weak that it will break, which is called a nonunion. This could happen any day or anytime. We need to operate on you before that happens.
+
+
+
+I want you to think about having this surgery and tell me your decision. I will do everything I possibly can to help you through this difficult time, but I'm only going to do one surgery. If you decide you're not going to have the surgery, I'm going to ask you to leave so I can see another patient.
+
+I'll also talk with your husband and tell him what you need to know.
+
+Thank you for your time today.
+
+
+Sincerely,
+
+
+Helen J. Smith, MD
+
+
+Dictated by: Quincy Mullen, PA-C
+
+
+
+Record end time: 2078-09-17 14:34:25
+
+
+
+HENDRICKS, HANNAH
+75322175
+09/17/2078
+
+Douglas C. Smith, MD
+51031115
+04/02/2076
+
+Hannah:
+
+
+
+
+
+
+
+I'm happy to report that your x-ray and your bone scan are normal. That means we were successful, but I still want to see you in one month for a repeat x-ray and bone scan.
+
+
+Douglas C. Smith, MD
+
+
+
+Dictated by: Quanisha Logan, PA-C
+
+
+
+Record end time: 2076-05-08 14:05:08
+
+
+
+HENDRICKS, HANNAH
+75322175
+09/17/2078
+
+Sara A. Smith, MD
+46514243
+07/26/2078
+
+Ms. Hendricks
+
+Dear Ms. Hendricks:
+
+
+As you know, I've been your orthopedist for the past 4 years and you've been my most challenging patient ever.  I'm writing to tell you how I feel about what happened with Dr. Cohen, Dr. Cohen, and the surgical team, and about what's going to happen from here.
+
+
+
+I'm very upset with Dr. Cohen. I was surprised to learn that she had operated without permission to operate. I was even more surprised to learn she had operated on a patient without your informed consent or that she did not inform you that she was operating on you.  I was even more upset to find out that you were never properly evaluated by any other orthopedist before Dr. Cohen operated.
+
+
+
+I want you to know that I've spoken to Dr. Cohen at length about this.  She was very unapologetic, and I've told her that I feel that this is unacceptable and I've demanded that she never do this again.  She was also unapologetic about the quality of the surgery she did.  She said she was able to do the surgery because of you.  That was a poor excuse for what happened.  I want you to know I have spoken to the hospital and I have been assured that Dr. Cohen's privileges in that hospital are being permanently revoked and that she will never be allowed there to operate on anyone ever again.  I've also been assured that the hospital has contacted the Medical Board and that this incident will be investigated.
+
+I want you to know that I'm not angry about this. I'm upset because I feel you didn't get the standard of care you deserved.  I hope you understand that Dr. Cohen's behavior and the hospital's response to this incident have made me realize that I need to do more to protect you.
+
+I want you to know that from this point forward I will always operate on you, whether it's a new operation or a revision.  I will always get your informed consent and make sure you understand what we're doing and what to expect.
+
+I am also asking for you to sign a consent to treatment form, just to make sure that I am the one operating, and to make sure that I operate in a timely manner.  I will not operate unless I have this signed form.  This is just to make sure that Dr. Cohen will never operate on you again, which is my hope and desire.  If this is an issue for you, then I'd like to meet with you and Dr. Cohen so we can discuss other options.
+
+As always, thank you for your trust.
+
+Sincerely,
+
+
+Sara Smith
+
+
+Douglas C. Smith
+
+
+
+Dictated by: Quanisha Logan, PA-C
+
+
+
+Record end time: 2078-09-17 14:08:44
+
+
+
+HENDRICKS, HANNAH
+75322175
+09/17/2078
+
+Quanisha Logan, PA-C
+55501609
+09/17/2078
+
+Ms. Hendricks,
+
+
+
+I spoke to Dr. Smith today and he wants me to call you to discuss your next appointment, but he said to be sure you understood that he would be doing this surgery and no one else.  He asked me to explain to you that he wanted to do this surgery and that Dr. Cohen did not have your informed consent or permission to operate.  He told me to be sure I told you he would never operate or do anything with you without getting your approval first, and to explain that he will always do his very best to protect you from any future bad things happening to you.  I hope that was helpful.
+
+
+
+Quanisha Logan, PA-C
+
+
+
+Dictated by: Quanisha Logan, PA-C
+
+
+
+Record end time: 2076-05-08 13:23:12
+
+
+
+HENDRICKS, HANNAH
+75322175
+09/17/2078
+
+Douglas C. Smith, MD
+51031115
+04/02/2076
+
+Hannah:
+
+
+
+
+
+
+
+You've made a great recovery and you can go home today.
+
+
+Douglas C. Smith, MD
+
+
+Dictated by: Quincy Mullen, PA-C
+
+
+
+Record end time: 2076-05-08 14:00:01
+
+
+
+HENDRICKS, HANNAH
+75322175
+09/17/2078
+
+Douglas C. Smith, MD
+51031115
+04/02/2076
+
+Hannah:
+
+
+
+
+
+
+
+You've made a very good recovery from your surgery.
+
+
+Douglas C. Smith, MD
+
+
+
+Dictated by: Quanisha Logan, PA-C
+
+
+
+Record end time: 2076-05-08 13:22:16
+
+
+
+HENDRICKS, HANNAH
+75322175
+09/17/2078
+
+Sara A. Smith, MD
+46514243
+07/26/2078
+
+Ms. Hendricks
+
+Dear Ms. Hendricks:
+
+
+As you know, I've been your orthopedist for the past 4 years and I've been the physician who is responsible for caring for you after your surgery.  I am sorry if I've caused you any stress or upset.  I'm not sure that I have done everything I can to protect you, but I have worked with Dr. Cohen to assure that this will never happen with you again.
+
+I have to tell you that I have been very angry about what happened, and I've been very upset about the fact that there was no one else you could have trusted to perform this operation.  This situation also made me think about how many people I know and how many people I don't know who are having a similar experience.  It made me realize how important it is to make sure that all patients are protected from these sorts of things.  This is not just a problem in your life, it's a problem that affects all of us.
+
+It is with that perspective that I am writing to you to ask you to sign a form that will give me the authority to operate on you, if there is an emergency.  This is not an easy request.  You have been hurt by a doctor who was supposed to protect you.  I want you to be sure that I am not just another person who will be able to operate on you without your informed consent.  I will also be able to operate quickly on your problem, and I will do everything I can to make sure that doesn't happen again.  But I need your informed consent.
+
+
+
+This is the second time I have asked you to sign this, and it is a very difficult thing for me to ask.  I want you to know that if you don't agree to sign this form, it's okay.  I won't be mad at you or upset with you, and I'll make sure that I am the one who operates in the future.
+
+Sara Smith
+
+
+Douglas C. Smith
+
+
+
+Dictated by: Quanisha Logan, PA-C
+
+
+
+Record end time: 2076-05-08 14:03:07
+
+
+
+HENDRICKS, HANNAH
+75322175
+09/17/2078
+
+Douglas C. Smith, MD
+51031115
+04/02/2076
+
+Hannah:
+
+
+
+
+
+
+You're healed from your surgery and you can go back to work tomorrow.  You should feel good about the progress you're making.
+
+
+Douglas C. Smith, MD
+
+
+Dictated by: Quanisha Logan, PA-C
+
+
+
+Record end time: 2076-05-08 14:02:16
+
+
+
+HENDRICKS, HANNAH
+75322175
+09/17/2078

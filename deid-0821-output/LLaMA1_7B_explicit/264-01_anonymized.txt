@@ -1,0 +1,343 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2088-03-06
+
+                     RHINELAND EMERGENCY DEPT VISIT
+
+ 
+
+PIERRE,EDEN   241-52-56-3                      VISIT DATE: 03/06/88
+
+The patient was evaluated by me with a resident.  The resident's 
+
+history was reviewed and the patient interviewed and examined.  
+
+Briefly, history is as follows.    
+
+HISTORY OF PRESENTING COMPLAINT:  This patient is a 72 year-old 
+
+female complaining of chest tightness lasting approximately 30 
+
+minutes after climbing stairs at home.  She reports she has been 
+
+having increasing bouts of shortness of breath over the preceding 
+
+week.  She denies diaphoresis, palpitations or radiations.  
+
+REVIEW OF SYSTEMS:  There is chest pain, as noted above, and 
+
+shortness of breath, as noted above.  All other systems are 
+
+negative except as noted. 
+
+PAST MEDICAL HISTORY:  Previous myocardial infarction and 
+
+hypothyroidism.
+
+MEDICATIONS:  See nursing note.
+
+ALLERGIES:  Morphine sulfate. 
+
+SOCIAL HISTORY AND FAMILY HISTORY:  The patient is a past smoker 
+
+and a nondrinker who lives alone.  Family history is 
+
+noncontributory.
+
+PHYSICAL EXAMINATION:  GENERAL:  Awake, alert and in no acute 
+
+distress.  VITAL SIGNS:  Stable and normal.  HEENT:  Benign.  NECK: 
+
+Supple.  LUNGS:  Breath sounds showed left lower lobar rales and 
+
+rhonchi.  HEART:  Regular rate and rhythm.  ABDOMEN:  Soft and 
+
+non-tender. 
+
+LABORATORY EVALUATION:  Electrolytes were normal.  Cardiac enzymes 
+
+were negative.  CBC was normal.  EKG showed sinus rhythm with 
+
+nonspecific ST-T wave changes.  Chest x-ray showed mild 
+
+cardiomegaly without other abnormality.  
+
+THERAPY RENDERED/COURSE IN ED:  The patient was treated with 
+
+aspirin, beta blockers, and oxygen.  Ultimately she was admitted to 
+
+the hospital for definitive evaluation and further care following 
+
+consultation with the DHD cardiologist.  See resident's note for 
+
+further details. 
+
+DISPOSITION (including condition upon discharge):  Admitted in 
+
+stable condition.
+
+___________________________________                    FT188/35814 
+
+ORLANDO R. PIERRE, M.D.   OP63                            D:03/07/88 
+
+                                                       T:03/07/88 
+
+Dictated by:  ORLANDO R. PIERRE, M.D.   OP63 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+                                                    FT188/35814 
+
+
+
+                                                     FT188/35814 
+
+
+
+
+
+                                                   FT188/35814 
+
+
+
+
+
+
+                                                  FT188/35814 
+
+
+                                                   FT188/35814 
+
+
+
+
+
+
+                                                      FT188/35814 
+
+                                                     FT188/35814 
+
+                                                    FT188/35814 
+
+
+
+                                                FT188/35814 
+
+
+                                                FT188/35814 
+
+                                                 FT188/35814 
+
+                                                     FT188/35814 
+
+
+                                                     FT188/35814
+
+
+
+
+                                                        FT188/35814
+
+
+
+                                                     FT188/35814 
+
+
+                                                      FT188/35814
+
+
+                                                      FT188/35814
+
+
+
+                                                     FT188/35814
+
+
+
+                                                     FT188/35814
+
+
+                                                      FT188/35814
+
+
+
+                                                     FT188/35814 
+
+
+
+                                                   FT188/35814 
+
+
+                                                FT188/35814 
+
+
+                                                  FT188/35814 
+
+
+
+                                                     FT188/35814 
+
+
+
+                                FT188/35814 
+
+
+
+                                                     FT188/35814 
+
+
+                                             FT188/35814 
+
+
+                                           FT188/35814 
+
+
+                                              FT188/35814 
+
+
+                                               FT188/35814 
+
+
+                                                   FT188/35814 
+
+
+                                                       FT188/35814
+
+
+
+                                           FT188/35814 
+
+
+                                             FT188/35814 
+
+
+                            FT188/35814 
+
+
+                                               FT188/35814
+
+                                       FT188/35814 
+
+
+
+                    FT188/35814 
+
+
+                             FT188/35814 
+
+                                FT188/35814 
+
+                            FT188/35814 
+
+
+                                               FT188/35814 
+
+
+                                           FT188/35814 
+
+
+                                           FT188/35814 
+
+                               FT188/35814 
+
+                                   FT188/35814 
+
+                               FT188/35814 
+
+
+                                      FT188/35814 
+
+                                           FT188/35814 
+
+                                                FT188/35814 
+
+                                                      FT188/35814
+
+                                                            FT188/35814 
+
+                                                        FT188/35814 
+
+                                                     FT188/35814 
+
+                                         FT188/35814 
+
+                                          FT188/35814 
+
+                                              FT188/35814 
+
+                                                    FT188/35814 
+
+                                                        FT188/35814
+
+                    FT188/35814 
+
+
+                                                FT188/35814 
+
+                                                    FT188/35814 
+
+                                                          FT188/35814 
+
+                                                              FT188/35814 
+
+                                                                FT188/35814 
+
+                                                                    FT188/35814 
+
+                                                                      FT188/35814 
+
+                                                                          FT188/35814 
+
+                                                                                     FT188/35814 
+                        FT188/35814 
+
+                                                                                                        FT188/35814 
+
+                                                                                                         FT188/35814 
+
+                                                                                               FT188/35814 
+                                                               FT1888/3588   FT188/
+                            188/28/34 
+                   FTINCe, the following sentences. 
+
+
+The
+
+   
+ 1888/48/318888/48888888888888 1888888888888888888888888888888888888888888888888588888888888888888888878888 185088888888, 888888888878887888888888888888888 and
+88 188888888888888, and 1888888888 the patient and a numbered and the patient and 288.
+
+8...
+or 0 or 1, or date numbers, or, and the name, and, and or, and the names...
+[
+(121...
+and, or [... (the...
+
+
+
+...
+and or...
+[... orific 22 and 1... and the names of the names the following names, the 9.
+...
+1.
+...
+1 and any: the words of patient names of:
+
+(
+[1: (
+andise and the following 1...
+(1-are-specificly are the 0: ([are, the are [10: (are:  and are the, or and: the  and, the 22: the or, as... 1, and the (
+the [12 or: the:
+[3 (0 in the 
+following the: 1, and are the, but, the 1...1... 1. and […, “..., or and, (
+
+1 in the, a 1, 1, 1, and, and the (, the,
+and [0 or, an, [3, 5.1, 1. 1 and the. are (,  and are and, and and the are, the...1, "3 or the, the " [, the patient, the and your... and the and 10 and the patient and: 111. “ 1:1 and are [1 [1 in the (3 and are-le and in the (1 or the or 1 or, the or a (2, the, the, etc.,, an. of a. (.
+. An.,, or, 3 (an, an 1, and the 2 of 4 or and and the, an, and, 0-1, an, an, 3, an, 9- an of the of the an (an, and, the,  an or and-the an, or, "in, (1, an, an of " an, an of the and and, 2 an, An, or, An, [AN, an, An, ( and the, the, an-an of your (1, 1, An, an of 6-1 of the: and: : the-1-1-2: An (0: 2-1-0,-the: and ([ : the:: (An An:, an-1-with with the: and " : an of the : An: " - [2 an-an, an-an-and or of the an. of and of an. and (. ( (. and an  [1 ( (  [and-and-and-and  and-P or an [ [ or, ( and and [ an-1- an or [ an- - - (an-  an, an-1 of  or- -and of a-an, of  of -an of or, of an- - ( and,,-1,, and or-an an of the of the- and of or of an.,, and in and are,- an -1 and of- of an or- or an an an or ( an in or an  and  by an-,  and of  of : and-  ( and ( and, an: by: an- and- - ( and and, - in ( and of an-1 or of or-1,- or  and- and and,,- and, ( an,-an of a-  and ( [, or of an-m, and or or in and- an, or of ( or of an an,., of- 1- or- an- and,,  (- and -  of ( and of ( of and of the of the and of the and and, of the and and,, and, and of an,-  and -  and -3 and-00-0-  and and,  ( of and, and,. [- and (, ( and or - or and- an-  and- ( or,  [ or or [. [ and (,- and an.  and and (- [ and (. and-0  and- of ( of, ( ( and ( and [- [ by c and ( ( - and  of and [ (: and of and and (- and. and-1- and and and- and and. and and and of the of- and of " of- of the or  of the-  ( m-1 of- of, of or of of, of of and of of. of and,. and and- ( and, and- as ( and, and of or of of of of of or of the of- and and of  (-0 and, and (- and. and- or and and and and and ( and  and ( ( and, - and [ and ( and [,, ( ( and or ( of [ and of of. and of, and of [ (. ( and, and ( and or, - and or of the of and of  ( and- and by, and and and ( [ and. [ and  ( and of ( or, ( and [ [ and, (, and and and and, (, (, ( and, ( and (, and,, (,, and ( and and,.,- and  ( or  - and and, and,- and  and and- and ( and, and w (,  and,,, W, ( and,,, C of, ( and and and, and., (,, H and and and, (. (,,,,, C or, and of of an, ( of,  [ and  and- t,- and, (,., [ of,, ( of,,, and [, and, and of ( [,, and. and, and and- and and t and of ( and and of  and [. _ M- C- m- and t- ( _ and. of [, and. or and, and and.  and ( ( and- (, and, C and.. and, and and and _ ( and, and t (, M A A ( m- m _ and and and and (, and and. and and. and [., and and, or _ and and ( and, _ and- and, ( and or, and,, ( (, and,, and of an and of and, and and. and, of,, and,, and, and, and and (, and, and and and c and and or, and and ( of, and,,.  and ( and  and, ( and M and and and,  ( and of, _, (, and,, (., and

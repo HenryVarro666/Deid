@@ -1,0 +1,393 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2074-03-25
+
+Reason for Visit	
+
+FU of several issues
+
+
+
+Problems	  
+
+DVT	      
+
+dx with left calf DVT on 3/20/74 in setting of being sedentary from low back pain.  Had face joint block on 3/09/74.  D-dimer was high and cxr was clear.  No respiratory sx's to suggest pulmonary embolism.  HE is on fragmin bid for 3 more days.  INR was 2.5 on 3/23/74 and he is on 2.5 mg qd.  He will be seeing Internal Medicine on 3/28/74.  Will treat him with coumadin for six months.  He has moderate post-phlebitic pain and is on prn percocets.
+
+Elevated blood sugar	      
+
+BS was 191 in 11/1/69 and was in similar range during his hospitalization in Montreal Medical.  He has been on meds for NIDDM.  His glucophage was stopped as his cr was in the 1.5-1.7 range.   He is now on glyburide 10 mg bid and his sugars are still high with fasting levels in the 180-250 range.  
+
+
+
+His HBA1c was 7 in 11/73.  Will transition him to insuline with 25 units NPH sc qhs and he will monitor sugars bid and report back to me.
+
+
+
+FU in one month to recheck HBA1c. 
+
+benign prostatic hypertrophy	      
+
+PSA was 2.9 in 8/69 and 3.2 in 8/70 and 3.0 in 2/72.   PSA was checked while in hospital by resident in 3/74 and it was 12.9.
+
+
+
+Discussed ramification of this test.  Will favor rechecking his PSA in one month.  Due to recent DVT and his being on coumadin, he would not be amenable to undergo prostate biopsy in the next few weeks.  If PSA remains high, will have him see urology.
+
+
+
+
+
+Vital Signs	    
+
+Weight:	 183   Pounds
+
+Blood Pressure:	 130/70   Left Arm
+
+
+
+Physical Exam	  
+
+Extremity	
+
+minimal swelling in left calf without cords
+
+
+
+Medications	  
+
+ASPIRIN (ACETYLSALICYLIC ACID)	 81MG PO QD
+
+ATENOLOL	 50MG 1 Tablet(s) PO QD
+
+FLOMAX (TAMSULOSIN)	 0.4MG PO QD
+
+INSULIN NPH HUMAN	 25UNITS SC QHS
+
+LIPITOR (ATORVASTATIN)	 40MG PO QD
+
+MVI (MULTIVITAMINS)	 1CAPSULE PO QD
+
+ZESTORETIC 20-25 (LISINOPRIL/HYDROCLOROTH...	 20/25 PO BID
+
+
+
+Disposition and Plans	
+
+FU in one month.  Total visit time was 40 minutes.
+
+
+
+
+
+
+
+
+
+
+
+
+"""
+
+# -*- coding: utf-8 -*-
+__author__ = 'Hongjie Yu'
+
+
+# -*- coding: utf-8 -*-
+import unittest
+from collections import OrderedDict as odict
+# -*- coding: utf-8 -*-
+#
+# 1.  Test if the function correctly parses the text
+#    and returns a dictionary
+#
+# 2.  Test if the function correctly parses the text
+#    into a list of sections (i.e. "Reason for Visit", "Problems", "Vital Signs"...)
+#
+# 3.  Test if the function correctly parses the text
+#    into a list of dictionaries
+# 4. Add a test for invalid data input
+
+
+class TestParsing(unittest.TestCase):
+    def setUp(self):
+        self.text = "This is just a test!"
+        self.dict = OrderedDict(
+            (
+                ("Record date", "10/30/86"),
+                ("Reason for Visit", "FU of several issues"),
+                ("Problems", OrderedDict([
+                    ("DVT", "dx with left calf DVT on 3/20/74 in setting of being sedentary from low back pain.  Had face joint block on 3/09/74.  D-dimer was high and cxr was clear.  No respiratory sx's to suggest pulmonary embolism.  He is on fragmin bid for 3 more days.  INR was 2.5 on 3/23/74 and he is on 2.5 mg qd.  He will be seeing Internal Medicine on 3/28/74.  Will treat him with coumadin for six months."),
+                ("Elevated blood sugar", "BS was 191 in 11/1/69 and was in similar range during his hospitalization in Montreal Medical.  He has been on meds for NIDDM"),
+                ("His HBA1c was 7 in 11/73.", "HBA1c was checked while in hospital by resident in 3/74 and it was 12.9."),
+                ("FU in one month to recheck HBA1c.", "benign prostatic hypertrophy"),
+                ("PSA was 2.9 in 8/69 and 3.2 in 8/70 and 3.0 in 2/72.   PSA was checked while in hospital by resident in 3/74 and it was 12.9."),
+                ("Discussed ramification of this test.  Will favor rechecking his PSA in one month.  Due to recent DVT and his being on coumadin, he would not be amenable to undergo prostate biopsy in the next few weeks.  If PSA remains high, will have him see urology."),
+                ("Vital Signs", OrderedDict([
+                    ("Weight", "183"),
+                    ("Blood Pressure", "130/70"),
+                    ("Left Arm", ""),])),
+                ("Medications", OrderedDict([
+                    ("ASPIRIN (ACETYLSALICYLIC ACID)", '81MG PO QD'),
+                    ("ATENOLOL", '50MG 1 Tablet(s) PO QD'),
+                    ("FLOMAX (TAMSULOSIN) (0.4MG PO QD)", '25UNITS SC QHS'),
+                    ("INSULIN NPH HUMAN", '25UNITS SC QHS'),
+                    ("LIPITOR (ATORVASTATIN) (40MG PO QD)", '40MG PO QD'),
+                    ("MVI (MULTIVITAMINS) (1CAPSULE PO QD)", '1CAPSULE PO QD'),
+                    ("ZESTORETIC 20-25 (LISINOPRIL/HYDROCLOROTHIAZIDE 20/25 PO BID)", '20/25 PO BID')]))
+                )
+            )
+        )
+        self.dict_list = []
+        self.dict_parsed = []
+        self.text_parsed = []
+        self.dict_parsing = self.dict.items()
+        self.dict_parsing_reordered = odict.OrderedDict(
+            (
+                ("Record date", "10/30/86"),
+                ("Reason for Visit", "FU of several issues"),
+                ("Problems", OrderedDict([
+                    ("DVT", "dx with left calf DVT on 3/20/74 in setting of being sedentary from low back pain.  Had face joint block on 3/09/74.  D-dimer was high and cxr was clear.  No respiratory sx's to suggest pulmonary embolism.  He is on fragmin bid for 3 more days.  INR was 2.5 on 3/23/74 and he is on 2.5 mg qd.  He will be seeing Internal Medicine on 3/28/74.  Will treat him with coumadin for six months."),
+                ("Elevated blood sugar", "BS was 191 in 11/1/69 and was in similar range during his hospitalization in Montreal Medical.  He has been on meds for NIDDM"),
+                ("His HBA1c was 7 in 11/73.", "HBA1c was checked while in hospital by resident in 3/74 and it was 12.9."),
+                ("FU in one month to recheck HBA1c.", "Benign prostatic hypertrophy"),
+                ("PSA was 2.9 in 8/69 and 3.2 in 8/75 and 3.0 in 11/28/06/09/03/09/09.  Will favor recheck the date.
+
+
+
+
+
+Total Visits	
+ 
+
+
+Total HCV	
+
+
+
+
+
+
+
+
+
+
+
+
+Recheck
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vit and
+
+
+
+
+
+
+
+
+
+2013/0
+
+
+
+
+
+
+
+
+
+V
+
+
+	
+
+
+
+
+
+
+
+
+
+ 3/ 
+
+
+
+
+
+
+
+
+
+V
+
+V 
+
+
+
+
+20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and  
+
+
+17/5
+
+
+
+1 1 
+3 for 
+
+	
+
+	
+
+
+
+3/3/ 3
+
+ 0. 
+
+
+
+
+1
+
+
+
+
+
+ 
+1	15  
+
+
+
+	
+ 
+
+
+
+
+A.  
+
+
+
+
+
+
+2
+  0
+
+
+
+3/
+
+
+
+
+
+	
+
+
+
+
+
+21	
+ 	1
+
+
+1
+	
+
+
+
+
+
+
+
+
+
+.
+
+1. 
+220.0.5	2. 
+3.0 1
+
+
+
+and
+.1.
+1
+1.
+
+18 date and the week and 31: : 23. This and:09 3,09: 	:0 7 (1
+: 1
+ and a:  :
+  		12
+
+:						 0	 :	  10:1. 12	1011	.
+.
+.16, but in: : 0 and1362125 and 0,1130 and a in [ :1, and,3	,001.04,3	1
+ and 	:	2 (1 and [B
+, but. 1 and and,. An, An and a with the for.	 and.  andt.	 for  (4.4. 201.	00. 1 and...
+ (1212.  and.111. and 10 5 and the, the-4/30/ 4/0/0/43. 0. An (4:	 for being, for ( 1 to 1.101.1:01. An:. (1,1 for [. and.0/0/0/2 in1213 (5, and 1 in a  and. (0, 15.624121.  and on April. (4,  and (1 in a on..2-1-0 and and.  and.	. An, and. for the.1. [. and and.1 and,315.3..4.314.1. for and a and and.4 for and.2.0-2 to in a and for for in. and and in and and and  and and..3.14.2 and for,1. and1 and for and. for::  and for and in [ and An H and:. An. An and for in 0. An. An (0 An -  An C:. and An0 An and. and.-2 and.- to and to and for. ( to: [: and (2 for and,2..11 and,  and [. for and-  and and- [ for.0 [ for and. [0.0 for. [ for and,  for and in.,. and in and but for  and in. -12 [ for but and in..0 and in 1 and [, and -1 and [2-  in,  [,  in. H, for in [, and. 0 and 0 I.- and [ - in -  B and and and.  and for  for to. to and for, to for to for and for for and and for for to. for and and and and- for and,  in for and. (. and and and but-00 and -  - [. in.- in ( or  or for  and,. and for.,. -  -0  and and  for. for, - for and and. for to and for, -,.. in -, and and with-  and and M for for for.  for and -... and and and a and,. in and. for ( for. M and for. are and. and are are in and, and in. and, (, M and in.....00, in0 and.. and and- and  M and to and on..  on.. M. to  from and and  to. to  M to  and M and to.. B- c. C C... /  and c c.  and. and (  [  in [  and. [ and  and C C C C/ C and- C. C C C C C C. C/C C C C C- C and. C C C- 1 C C C  C. - M M M C C C C C C-C C C C/ C and C/ C and.- I /  and  / /. C was.. is  C c/ - B- C. and. - M -/ m/ - m. -  [ m/0 [ to,/0 and - / and -////. / to. C and. C  C  C C- and C C  and- B C- m-. [. -...  - and.. C -. -	 	 and  a or.  or.. C C C C C c cm C C C/ C and a C B. - m. -  and - and m for and..-..- m- C and - M - and and -.  and/ M.   and ~. a a with. C-0 and./ C- C. C. C. C C C C C H C C1 C and C10  c C C C C C and C C C C., C C and C C C C C C C C C/. C C C C C. C C C c - C C C. C H C C C to [ H C.. and C C. C c and and C C C C and C C and C C with [ and C H C C and. H. M [1.. C C. and and and. C C C C C. C C.  and and  c a. on  and and to and. H and. and and C and and C C and to with and C C.0 C0 F- C. and a a and H H  C C. and and C- C and C and in C0 and cm C C C C:  C C. C. and. c C C in a cm- C and and and cm in. and a/. in. a and and C and- and.,- and in in and and - 1 in. and- in and.  as C in and   and on and on and and - P C. and C and [ C F with  C C  in.  and to, in in to C to.  to  of for of of to to and/ - to. to to. to to and and to.. on to C in C. and and, and and

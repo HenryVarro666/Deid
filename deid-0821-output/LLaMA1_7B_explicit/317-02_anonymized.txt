@@ -1,0 +1,211 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2078-05-08
+
+
+ED Surgery Consult                 Date/Time: 5/8/78   4:56PM
+****************************************************
+Name:  Hendricks, Hannah
+MRN# 75322175
+Resident: Xavier G. England, MD, EdM
+Attending: Dr. Hunter Ishikawa
+****************************************************
+CC: Bleeding from groin wound
+HPI: Ms. Hendricks is a 52yoF with a history of PVD and non-healing wounds of the LLE s/p redo left femoral-tibial bypass with arm vein on 5/3/78 who was discharged to home yesterday and now returns after she noted a gush of blood from her left groin wound while coughing earlier today.  She was doing well until this morning when she coughed and immediately noted that her left pant leg was soaked with blood from the left groin down the left leg.  When she took off her pants there was no active bleeding from the wound and she denies any light-headedness or dizziness.  There has been no further bleeding from the wound and she is otherwise without complaints.  
+PMHx: PVD, HTN, Hypercholesterolemia
+PSHx: Right fem-pop bypass 2066, Left fem-dp bypass 2066, redo left fem-pt bypass 5/3/78.
+Meds: Tylenol, ASA, Vitamin C, Atenolol, Lipitor, Colace, Folic Acid, Lactulose, Milk of Magnesia, Oxycodone, Valsartan
+All: Percocet-&gt;nausea
+SHx: Denies any recent etoh/ivda/tob
+
+
+PE: 98.7 78    134/72     12      100% on RA
+General: No distress
+HEENT: NCAT
+Chest: CTAB
+Heart: RRR, no mrg
+Abdomen:  soft, NT/NE
+Extremities: RUE wound healing well without erythema/warmth/tenderness.  Left groin wound with small mobile collection at cephalad portion of wound.  No obvious bleeding.  
+Pulses: Biphasic dp/pt on LLE
+
+
+Labs:   CBC: Pending
+            
+Imaging: 
+LLE U/S at bedside: 3x2 cm simple fluid collection at cephalad portion of groin wound.
+
+
+Assessment/Plan: 
+- 52yoF s/p recent redo left fem-tib bypass with right arm vein with single episode of bleeding from left groin wound.  This likely represents extrusion of a postoperative hematoma.  There is currently no evidence of active bleeding from the wound.  A CBC should be obtained in the ED to ensure that her hct is stable and she can then d/c home.  She will follow up with Dr. Ishikawa at her scheduled postop visit.  Should the bleeding persist or return she should return to the ER or the clinic for a vascular U/S to assess for a pseudoaneurysm or AV fistula. 
+
+
+D/W Dr. Casey Iacono (Surgery Fellow), who agrees with assessment and plan.
+
+
+Thanks,
+
+
+
+
+Xavier G. England, MD, EdM      #15725
+
+
+
+
+
+
+
+
+
+************************************************************************
+**************************************
+******************************************************** *************
+****************************************************  *************
+**************************************************** ******
+
+
+
+
+
+
+Record date: 2078-05-09
+
+
+Patient:  Ishikawa, Hunter
+MRN#:  75361270
+Resident:  England, Xavier G.
+Attending:  Ishikawa, Hunter
+
+
+ED Emerg Surgery Consult                   Date/Time: 5/9/78   9:27PM
+*********************************************************
+Name:  Ishikawa, Hunter
+MRN#:  75361270
+Resident:  England, Xavier G.
+Attending:  Ishikawa, Hunter
+*********************************************************
+CC:  PTOS w/o fracture or trauma
+HPI: Mr. Ishikawa is a 39yoM who presented to the ED after falling from a ladder while hanging Christmas lights at his residence 40 minutes prior with right foot pain after landing on a large flat rock.  He noted immediate severe, 10/10, right foot pain with no trauma.  He denied any other symptoms.  He noted that he was able to walk without difficulty and denies any lightheadedness, syncope or loss of consciousness.  He denied any prior foot problems and has no significant medical or surgical history to report.  PTOS, right LLE, 5cm x 6 cm x 1 cm, w/o bony tenderness.
+PMHx: Hypertension, Hypercholesterolemia, HTN
+
+
+PE: 95.4 70    130/80    80% RRR       
+General: No distress 
+HEENT: N/NC
+Chest: CTAB
+Heart:  RHR 80, RVR 30, S1, S2
+Abdomen:  Soft, NT
+Extremities: RUE
+Pulses: Biphasic dp/pt on RLE
+
+
+Labs: CBC Pending
+Imaging:  U/S Right LLE: PTOS w/o fracture or trauma or AVF. 
+
+
+Assessment:
+- 39yoM s/p PTOS of right LLE 5cm x 6cm x 1cm w/o bony tenderness.  This represents an isolated injury of the LLE without fracture or trauma.  No signs of AVF, AV fistula or pseudoaneurysm at time of exam.
+- Patient has a 1cm x 5cm x 1cm area of bruising overlying the PTOS wound.  This represents the site of the initial laceration and likely represents a hematoma that has not yet clotted.  This should be reassessed in the AM in case any bleeding is present.  If there is continued bleeding from the LLE, it may be associated with a fracture or pseudoaneurysm.  This would require further workup. 
+
+
+D/W Dr. Casey Iacono (Surgery Fellow), who agrees with evaluation and plan.
+
+
+Thanks,
+
+
+
+
+
+
+
+
+
+
+*************************************************************************
+******************************************************
+*****************************************************************  *************************
+***************************************************           *************************
+****************************************           *************************
+
+
+
+
+
+Record date: 2078-05-10
+
+
+Patient:  Ishikawa, Hunter (Surgery Fellow)
+MRN#:  75636143
+Resident:  England, Xavier G.
+Attending:  Ishikawa, Hunter
+
+
+ED Emerg Surgery Consult                    Date/Time: 5/10/78   10:36AM
+*************************************************************
+Name:  Ishikawa, Hunter (Surgery Fellow)
+MRN#:  75636143
+Resident:  England, Xavier G.
+Attending:  Ishikawa, Hunter
+*************************************************************
+CC:  Loss of vision
+HPI: Mr. Ishikawa is a 39yoM who presented to the ED after falling from a ladder while hanging Christmas lights at his residence.  He denied any trauma or falls in the past.  This is the first visit to the ED for this problem.  He denies any other symptoms.  He noted that he was able to walk without difficulty and denies any lightheadedness, syncope or loss of consciousness.  He denied any prior foot problems and has no significant medical or surgical history to report.  He reports that he has been able to see a small red spot on his face and denies any other visual complaints.  He has no other complaints or concerns.  No other family member has had this problem.  PTOS, right LLE.
+PMHx: Hypertension, Hypercholesterolemia, HTN
+
+
+
+PE: 99.2 79    139/68    150/100% on RLE
+General: No distress
+HEENT: N/NC
+Chest: CTAB
+
+
+Heart:  S1, S10, S1
+Abdomen: NT 
+
+Extremities: RUE
+Pulses: Biphasic dp/pt on RLR
+
+Labs: CBC Pending
+Assessment:
+
+D/W D/W words: D/Word: D/Words: D/Words: D/Words: D/words: D/Words: D/words D/words: D/words: D/D
+\D/D
+D/D/D/D/D/D/D/D/D, which,D/D and
+D.D/D/D
+D/D/D...
+\D/D
+D/D/D/D/D/D/D/D
+Dates.D. (d.D, DD/D/D data,
+D data/DNA and date data, or D/data,D, D.
+Dates.
+D or DD data DD names DD data DD.
+D data D.
+D data DD data.
+D and d/D data.
+data, data DATA data DD data D. 
+D.D.
+D...D data: DATA. DD.
+D data and date data D data DD patient data data d
+D data dD (D data D, DATA,D, or date patient's data and D...
+d patient
+(D
+D:...
+
+D (D, DD and a date...D
+or D or D...D.
+and names or DD, and the, etc and 
+D... 40D, or names, d or the, and D
+
+the following, or the [d... (1, and 15 and 14, and date and the 
+specific, the date and names, names, and the patient, the name, names. [and and...
+: the following patient: names... the:
+d patient-do with the following (orized patient and:…...
+11 [1: are: [... 
+...…: the “...
+: are the [... 2: are (... are or "make, the... 1, "and and the following “or and  orine and, the, or, “are are or, you, the...theize: and, the: the…10 and: are are, 4… 
+andize... (...and names of “…and and and, […, " are, or...... and or,
+...,, and the, 1, and, and, and (d and [1. 1, as, 4. and, and are "are (0, and are, and in a, 0, and, and  and 1, 0, you, the, and the and, [,...: this, (c, the: and, the: and (
+10-1 “  “ 4...2, are the 1-re, 1-conise of... of the "  or or, [,, 3, the, the and, 4 orine, (pat,, [. and of the, (,, an (d and- anine (,, ( an (are or or and, are and " and the,, (1 and, an, an "an, and a in the an, an, and, an an, an  and, and and a and, 1 and, 0 [an or and, [and, an and or, an, of it, 20-le, (an or, an,,, and,  an, " of " and, ( an and " " [,,, " (1, an (d an, (-1: or and: an (,:,:: :10:: and-0::::-1- an, and and " ( “ An An::,- an an- an- an in an ( or-1 ( an in:-0, an- " ( (- are-1 and-2-0 ( or- of the, [ of. an,.,, in and and,,, (,, and- [-and in or-an- [ [ or or [-1 and [ (, or or or and, an are are in [-an an an and in an- and,, ( and,- an of,- an- of ( (- of, of a, of  of, (-2- an " and, and and,, and - and, and- - of, of,, of, of, (, of " ( or,- and and are- in,- are or of- of an ( An and- and,, an or or or or an,,,,- an- and- of, of of  of, of and and, an -, and,-1 and,- are- or ( and, an or and or and, or of-1 of- or of (, and- of  of the an and of- and- of,- and or or and, and and (, or,- and- or and ( and,, or or (, of or- and, and of and or and An ( (0, or an and,, an,-and, an an of An of of, of An of the of and- and of,,. and, and and,,, and,- and and or.-c - [- -0-0-cl and in and- and of and and of and- or,-0- and- -- by- ( or- or- and ( An and- and, or,, or An in-  in- or-- " and in or- or or- and- and- or in or- or or of- and ( ( " and and or and  c ( and c and - and: and in and-: C or- ( and (-  ( or- (-1 " and-- and- in by- and ( c of or of a of- and and-1 " and or, ( in or in or and,,, of or of and of and (, of- ( and or of- or (- and- and- ( ( and -  of the of and of and of and of, of  of and-2 C ( in- week-  and,, and ,--, and and an and-, and--1-,  or- c- or,- and, h- - of- of- or of, and h h and and and ( and - and and,,- or- C and, and 0 or  and or in and- - or and c and h or an- or  or t ( and  and (, or - and and,- in in with in  with, and in and,  in and- an t in and and and- and ( or and and and t,  or -  or,- P and- and c ( and-1 h and  and,, and,  and,  and ,, and,,, or and, (,- and,  in, h,, or and, and, ( and,,,, and of (-1- - P- and C H C, and h- C and,, C., in, and or,,,,,- -h- in- and- C and or- and and- or and and-0- and and or-1 w0 - and ( h- and, and with and-c-h to of and (. and and,  and to and-h/c or- but on and and ( and and- C and-0 or or with and and and, and and, A- and with, and and, and and and and or and and and with,, and. A and (.. and and, to to to to ( and to to and and to to to ( to,- w,, to a (,- and and and and,- and-, and and and,, and,,-1 and-0 and-, and and, and in P and and (, and tom, and and and and and,1 or and.1, and,. C,- and P- and and and,, E,. P. and

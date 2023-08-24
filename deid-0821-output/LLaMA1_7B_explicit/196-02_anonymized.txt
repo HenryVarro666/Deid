@@ -1,0 +1,380 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2089-12-07
+
+
+
+
+ENT
+72 Chablis Court              UPSHUR, IRENE
+Argentine, NV  57431                    78197017
+--------                     12/07/2089
+
+
+Steven Short, M.D.
+Evans Memorial Hospital
+745 Morgan Street
+Sag Harbor, NV  62945
+
+Dear Dr. Short:
+
+I did see Irene Upshur for a followup today.  As you know, I did see her back in September where she was diagnosed with possible right-sided eustachian tube dysfunction.  Her blood sugars have been under reasonably good control, 88 and then 300.  She reports that her hearing has continued to fluctuate.  When questioned, she reports that she only used the nose spray twice since I did prescribe it.
+
+On examination today, she otherwise appears well.  Ears are unremarkable.  Her eardrums are intact.  She has no tympanosclerosis or cholesteatoma.  Her gait is normal.  There is no nystagmus.
+
+An audiogram done today does show a sloping high frequency sensorineural hearing loss, which is symmetric.  Her discrimination scores are 100% in the right ear and 100% in the left ear.
+
+Assessment:  Mild ear fullness with dysequilibrium and blockage.
+
+Plan:  She does take multiple medications.  It continues to be very unclear to me what her underlying causality is.  I would like her to use the nasal spray more consistently.  If she does fail this and this is not eustachian tube dysfunction, I would consider her to have endolymphatic hydrops.  This would respond hopefully to a diuretic and potassium supplementation.  However, she has taken multiple medications currently for both blood pressure including atenolol, Cozaar, Lasix, and verapamil.  I would need to clear to switch herself ??____?? therapy, I would like to see her back after consistent trial of the corticosteroid spray topically.
+
+Sincerely,
+
+
+______________________________
+Edward T Sheehan, M.D.
+
+
+
+
+
+eScription document:2-3083608 CSSten Tel
+
+
+
+DD: 01/21/90
+DT: 01/21/90
+DV: 12/07/89
+
+
+
+
+Record date: 2089-12-07
+
+
+
+
+ENT
+72 Chablis Court              UPSHUR, IRENE
+Argentine, NV  57431                    78197017
+--------                     12/07/2089
+
+
+Steven Short, M.D.
+Evans Memorial Hospital
+745 Morgan Street
+Sag Harbor, NV  62945
+
+Dear Dr. Short:
+
+I did see Irene Upshur for a followup today.  As you know, I did see her back in September where she was diagnosed with possible right-sided eustachian tube dysfunction.  Her blood sugars have been under reasonably good control, 88 and then 300.  She reports that her hearing has continued to fluctuate.  When questioned, she reports that she only used the nose spray twice since I did prescribe it.
+
+On examination today, she otherwise appears well.  Ears are unremarkable.  Her eardrums are intact.  She has no tympanosclerosis or cholesteatoma.  Her gait is normal.  There is no nystagmus.
+
+An audiogram done today does show a sloping high frequency sensorineural hearing loss, which is symmetric.  Her discrimination scores are 100% in the right ear and 100% in the left ear.
+
+
+Assessment:  Mild ear fullness with dysequilibrium and blockage.
+
+Plan:  She does take multiple medications.  It continues to be very unclear to me what her underlying causality is.  I would like her to use the nasal spray more consistently.  If she does fail this and this is not eustachian tube dysfunction, I would consider her to have endolymphatic hydrops.  This would respond hopefully to a diuretic and potassium supplementation.  However, she has taken multiple medications currently for both blood pressure including atenolol, Cozaar, Lasix, and verapamil.  I would need to clear to switch herself??____therapy, I would like to see her back after consistent trial of the corticosteroid spray topically.
+
+Sincerely,
+
+
+
+______________________________
+Edward T Sheehan, M.D.
+
+
+
+
+
+eScription document:2-3083829
+
+
+
+
+
+
+
+
+Record date: 2089-12-07
+
+
+
+
+
+
+
+
+DD: 02/02/90
+DT: 02/02/90
+DV: 01/12/90
+
+
+
+
+Record date: 2089-12-07
+
+
+
+
+
+
+
+
+
+
+Record number: 2-3083950 CSStenTel Tel
+
+
+
+
+DD: 02/05/90
+DT: 02/05/90
+DV: 01/12/90
+
+
+
+
+Record date: 2089-12-07
+
+
+
+
+
+
+
+
+
+
+Record number: 2-3084576 CSSten Tel
+
+
+
+
+DD: 02/09/90
+DT: 02/09/90
+DV: 01/21/90
+
+
+
+
+Record date: 2089-12-07
+
+
+
+
+
+
+
+
+
+Record number: 2-3086846 CSStenTel Tel
+
+
+
+
+DD: 02/14/90
+DT: 02/14/90
+DV: 05/05/90
+
+
+
+
+Record date: 2089-12-07
+
+
+
+
+
+
+
+
+
+Record number: 2-3089661 CSSten Tel
+
+
+
+
+DD: 02/19/90
+DT: 02/19/90
+DV: 02/27/90
+
+
+
+
+Record date: 2089-12-07
+
+
+
+
+
+
+
+
+
+
+Record number: 2-3089972 CSSten Tel
+
+
+
+
+DD: 02/24/90
+DT: 02/24/90
+DV: 05/19/90
+
+
+
+
+Record date: 2089-12-07
+
+
+
+
+
+
+
+
+
+
+Record number: 2-3097394 CSSten Tel
+
+
+
+
+DD: 03/13/90
+DT: 03/13/90
+DV: 02/21/07
+
+
+
+
+Record date: 2089-12-07
+
+
+
+
+
+
+
+
+
+Record number: 2-3104640 CSSten Tel
+
+
+
+
+DD: 03/27/90
+DT: 03/27/90
+DV: 03/31/90
+
+
+
+
+Record date: 2089-12-07
+
+
+
+
+
+
+
+
+
+Record number: 2-3107596 CSSten Telephone Telephone
+
+
+
+
+DD: 04/02/90
+DT: 04/02/90
+DV: 04/02/90
+
+
+
+
+
+Record date: 2089-12-07
+
+
+
+
+
+
+
+
+
+
+Record number: 2-3120508 CSStenTel Tel
+
+
+
+
+
+DD: 04/16/90
+DT: 04/16/90
+DV: 10/22/01/90
+
+
+
+
+
+
+
+
+
+
+
+Record date: 2089-12-07
+
+
+
+
+
+
+
+
+Record number: 2-3120508
+
+Record number: 2-3120508
+
+
+Record number: 2-601189
+
+Record number: 2-601189
+
+Record number: 2-2-601189
+
+Record date: 2-6018991899
+Record
+
+
+Record number: 2-2-2998999999999999999999999999999999999999999999999999999999999999999999999999999
+
+
+
+9999999999 numbers.
+
+Recorded 9999999999999999999999999999999999999999999999999, the patient names of 9999999999999999999999999999
+99999999999 9999999999, patient  and 991, 1999 are a few, a, or the clinique or... 19 or the names...
+or, or 4.
+and names, the names, and names, the date, etc.
+(11 or [... 7 or...
+15…. The 10, 
+
+name or...
+19 (dreams, and the following. The...
+drew, the doctor, patient, and the following the following. The 0: 0:
+
+the patient:
+name, and your patient:
+11: symbolize:
+:1... or [0: 4 and are the...12: the are the are and 1 (are (... or are, the: are: are the and, not, the, and: the following and (d and (0, and:, and (make (andize your, you...1 of the “(andically: 11 or: 4 are the 1 (1, 1...the, and 1, the and, the, " or the and, or, 3, and, 1, 1, etc, and, [1, the, as the [, the, and, as the, (1, an (are and...[10, and or, 1, an, and, and are the, but, and, an, [and, you, the:
+...12, a and: the...:
+
+with the "
+1. 3. and “1... and... (1 "2: 1,
+[1 [d "le are or and are (the and or "1, the [by (1 in the, the or, and, andities and, and of [1. (A and, 0 and in, or [and-the, an and and the are, an, the or and and the-1, a and "and by an and 3, and (c, an, the and, an of the, and the, 2, and an (an an, an 1-1 or or, an, or, the and [or-ann, the an of the, an and, a, 1, the, an and, " 1, an and and (the and the and the, and, an, 3, [3 [in the, the: An An C-2 (1 and: " 1-and-and:-le " and (0-d: and or:: an: an " and in [: [: and: and: or [d [:: (an: ( an : and or-an ( and-make-1 [1-an-d or-an-1.. of the [. an and and,,, ( and [[, [ and,, [C or, or-can are or, and, and or-in-d or-d or by-in-an, or are are ( are are and an and -and  and and-and an or and-in [,, or-and are the, of,,  of, or an an or and and- and, and, and [, and and " and of an of ( or of " of the of  and and, are and, or  an- an, for, are, of the or or of " or or or - and in the and an and, an " or and ( and and and  of the and of a, and and an and and the or and, and of the,- and or of the, or in or, or and or in ( for or (- ( or- and in and- for and in- ( and,, ( but and and or and, and, or and, or and, and, and, or, for and,,, or or or,- for, and of for or for of the for for, and for ( C or-h (,, and and of of a of an and of of a of the of ( and and, an, and and, and and,,, and, and, and, in the- and, -c for and in-  or, a and, - and - (, (, [, ( or in,, ( C or- ( -- and or ( or [- in and and and or and in or- ( and- [ C- and- a ( or-  for the and a " [ ( and of, [ of ( (, ( [, and c- C ( and,- [- ( ( [ and and, :-  and- and- or-t- or- and-C and or and and of a and [ of a of or- and or " of- and- and in [ and and or of  of ( of, of of or as, [ and and,- and of in in or, or and in,, and or- our of of of- of of or of the of- of of- and and- and  and- and and- and, and, ( and (- and and- ( [ and and,- so- ( and and- and- as (, ( and or and ( ( of - or of of [ of and or - ( ( ( and or - and ( or and, ( for, [ in or of an for a [ ( and  and, [- and ( and- [, and an- [ or and, - [ or and or to and to and, and (, and  and for, and and ( (, and and and in, (, in  or [ (,  and (,, or, -,, and,,, [ ( and and [, (, and,. [ [, ( ( and, ( and,,  and,, (, (, and, and as,, and ( ( and ( and,, and for and and, ( [, and [ and, [ of a of the, a, [ A and-c and and, [,, and,, and and and,, and,. and (, ( and, ( [ and- [,,, or, and- and,, [[- [[ ( or - and [0- and and - n as - and b and and t, and and ( and-d ( and and [ and ( - and - a [ and [ ( [ ( and. and and of a. and [ and- A and A. A and, for ( and and ( [ as,, [, - and and (, and, and,,, and as and and and in, in ( and ( [,, and,,,, and,,, [ (,,, as,,,- and,,,,,, and, and,, and, and,, and, and, with and and, in with, and (. A and and (,  and and and and  ( ( C E (  A and  (.,, [ M,,,,,,,,,,,,,, [,

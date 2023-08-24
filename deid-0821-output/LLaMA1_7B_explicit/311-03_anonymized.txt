@@ -1,0 +1,227 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2087-08-15
+
+EDVISIT^43294739^FINNEY, INDIANA^08/15/87^NARANJO, KENNETH
+
+The patient was seen and examined in the Emergency Department on
+
+08/15/2087.  The patient was seen by Dr. Kaminski.  I have discussed
+
+the management with her.  I have also seen the patient personally
+
+and reviewed the medical record.  This is an addendum to the
+
+medical record.
+
+HISTORY OF PRESENT ILLNESS:  This is a 50-year-old female who is
+
+sent in by her primary doctor after having had EKG changes today.
+
+ Her history, which I personally obtained and in review of the
+
+record, she has a history of sarcoidosis, recently has had
+
+increased cough and some shortness of breath, given albuterol
+
+with symptomatic improvement yesterday and returned today with
+
+some persistent pain, which she says is generally related to
+
+cough.  She has had no fevers, chills, or shortness of breath.
+
+REVIEW OF SYSTEMS:  As indicated and otherwise negative.  She is
+
+asymptomatic at this time.  She has had no recent travel.
+
+PAST MEDICAL HISTORY:  Diabetes.
+
+SOCIAL HISTORY:  She is a nonsmoker.
+
+PHYSICAL EXAMINATION:  The patient is very well appearing,
+
+pleasant and in no acute distress.  Her vital signs are stable. 
+
+She is normocephalic, atraumatic.  Pharynx and ENT is normal. 
+
+Neck is supple and nontender.  Chest is clear.  Heart is regular
+
+with normal pulses.  Abdomen is soft and nontender without masses
+
+that are appreciated.  Skin is warm and dry.  She has no CVA
+
+tenderness, no back tenderness.  She is awake, alert, and
+
+oriented.  Sensory and motor exam are normal.
+
+ASSESSMENT AND PLAN:  This is a woman who complains of having had
+
+some chest discomfort.  She has a history of sarcoid and has EKG,
+
+which I reviewed, which shows lateral T-wave changes as suggested
+
+by her referring doctor.  She is pain free.  Initial lab results
+
+show hematocrit of 40, INR of 1, and a troponin which was
+
+negative.
+
+Plan at this time is for hospital admission to rule out MI given
+
+her EKG change.  She looks clinically stable.
+
+______________________________
+
+NARANJO, KENNETH M.D.
+
+D: 08/15/87
+
+T: 08/15/87
+
+Dictated By: NARANJO, KENNETH
+
+eScription document:3-7918390 BFFocus
+
+******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+*/
+package main
+
+import (
+	"bytes"
+	"os"
+
+	"camlistore.org/pkg/blobserver/bsfs"
+	"camlistore.org/pkg/blobserver/bsfs/memory"
+	"camlistore.org/pkg/blobserver/config"
+	"camlistore.org/pkg/blobserver/fileinfo"
+	"camlistore.org/pkg/blobserver/mmapfs"
+	"camlistore.org/pkg/blobserver/mmapfs/memfs"
+	"camlistore.org/pkg/blobserver/storage"
+	"camlistore.org/pkg/client"
+	"camlistore.org/pkg/client/types"
+	"camlistore.org/pkg/httputil"
+)
+
+func init() {
+	blobServerCmd.AddCommand(cmdTest)
+}
+
+var (
+	testRoot = "test"
+)
+
+func cmdTest(c *cmdline.Cmd, f *client.FileInfo, s storage.Storage) {
+	// Test that we can use a local file.
+	f.SetName("hello")
+	f.SetContentType("text/plain")
+	f.SetContentLength(1234)
+	err := f.Write(bytes.NewReader([]byte("test")))
+	if err!= nil {
+		c.Error(err)
+		return
+	}
+
+	blob := f.Blob
+	blob.SetInfo(f)
+	err := blob.Put(nil)
+	if err!= nil {
+		c.Error(err)
+	}
+
+	f2, err := s.Create(fileinfo.Precision{"test": testRoot}, blob)
+	if err!= nil {
+		c.Error(err)
+	}
+	defer f2.Remove()
+	// Test that the content is the same.
+	if!bytes.Equal(f.GetContent(), f2.GetContent()) {
+		c.Errorf("content differs: %s", hex.Dump(f.GetContent()))
+		c.Errorf("content differs: %s", hex.Dump(f2.GetContent()))
+	}
+	// Test that we can read a small file.
+	buf, err := ioutil.ReadAll(f2)
+	if err!= nil {
+		c.Error(err)
+	}
+	if err := s.Stat(fileinfo.Precision{"test": testRoot + "1"}, func(blobInfo storage.BlobInfo) (storage.StatResult, error) {
+		return storage.StatResult{
+			ContentLength: 1234,
+			ContentType:   "text/plain",
+		}, nil
+	}); err!= nil {
+		c.Error(err)
+		return
+	}
+	if blobInfo.ContentLength!= int64(len(buf)) {
+		c.Error("contentLength incorrect")
+	}
+	if bytes.Compare(buf, blob.GetContent())!= 0 {
+		c.Error("Content does not match")
+	}
+}
+
+func testBlobserver() storage.Storage {
+	s := memory.New()
+	s.Register(fileinfo.Precision{}, func(f *client.FileInfo) {
+		s.Save(f.Blob)
+	})
+	s.Put(testRoot, bsfs.NewBlob([]byte("hello world!")))
+	return s
+}
+
+func testMmapFS() storage.Storage {
+	s := mmapfs.New(bsfs.New(memfs.New(memfs.New(nil))).(*memfs.MemFS))
+	if err := s.Register(fileinfo.Precision{}, func(f *client.FileInfo) {
+		s.Save(f.Blob)
+	}); err!= nil {
+		panic(err)
+	}
+	if err := s.Put(testRoot, bsfs.NewBlob([]byte("hello world!"))); err!= nil {
+		panic(err)
+	}
+	return s
+}
+
+var (
+	testClient = config.New([]byte(`{ "storage" : "mmapfs"} `))
+	testClient1 = config.New([]byte(`{ "storage" : "memfs"} `))
+	testClient2 = config.New([]byte(`{ "storage" : "bsfs"} `))
+)
+
+func init() {
+	testClient.AddDefault(testBlobserver(), []string{testRoot})
+	testClient.AddDefault(testMmapFS(), []string{testRoot})
+}
+
+func TestCmdTest(t *testing.T) {
+	if testing.Short() &&!config.IsLocalEp(config.Get()) {
+		t.Skip("skipping test in short mode.")
+	}
+	if err := runCmd(cmdTest, nil, &testClient, t); err!= nil {
+		t.Error(err)
+	}
+}
+
+func TestCmdTestMmapFS(t *testing.T) {
+	if testing.Short() &&!config.IsLocalEp(config.Get()) {
+		t.Skip("skipping test in short mode.")
+	}
+	if err := runCmd(cmdTest, nil, &testClient1, t); err!= nil {
+		t.Error(err)
+	}
+}
+
+func TestCmdTestBlobserver(t *testing.T) {
+	if testing.IsLocalEp(config.Get()) {
+		t.Skip("skipping this test in local mode.")
+	}
+}

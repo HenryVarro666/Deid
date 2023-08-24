@@ -1,0 +1,163 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2065-07-29
+
+                     GREEN EMERGENCY DEPT VISIT
+
+ 
+
+WAGNER,LONNIE   097-87-37-2                  VISIT DATE: 07/29/65
+
+The patient was interviewed and examined by me and Dr. Chase.  
+
+Please see the note for full details.
+
+HISTORY OF PRESENTING COMPLAINT:  This patient is a very pleasant 
+
+gentleman accompanied by his wife who gives most of the history 
+
+complaining of bleeding in the right groin.  He is status post 
+
+catheterization and stent approximately two weeks.  He was recently 
+
+discharged from rehabilitation and at home his wife found the right 
+
+groin to be soaked in blood.  The patient's wife also noticed some 
+
+swelling at the site.  He has had no fevers and no chills.  He has 
+
+recently been diagnosed with myelodysplastic syndrome with white 
+
+counts in the 30's.
+
+REVIEW OF SYSTEMS:  Review of systems is notable for bleeding only. 
+
+He denies any abdominal pain.  He denies any fever or chills.  No 
+
+neurologic complaints.  No distal neurovascular complaints either.
+
+PAST MEDICAL HISTORY:  The patient's past medical history is 
+
+notable for diabetes, hypertension as well as cerebrovascular 
+
+accident, gastrointestinal bleed and myelodysplasia.  Surgeries and 
+
+procedures are as above.
+
+MEDICATIONS:  The patient's medications include Plavix and aspirin.
+
+ALLERGIES:  The patient has no allergies. 
+
+SOCIAL HISTORY AND FAMILY HISTORY:  No current tobacco or ethyl 
+
+alcohol.  He lives at home with his wife.  He has VNA services 
+
+although they are not coming tomorrow.
+
+PHYSICAL EXAMINATION:  I agree with the physical examination as 
+
+documented.  GENERAL:  The patient is an awake, alert, pleasant 
+
+male in no apparent distress.  VITAL SIGNS:  Temperature 96, pulse 
+
+56, respiratory rate 20, blood pressure 97/49, oxygen saturation 
+
+96%.  EXTREMITIES:  The right groin shows a slightly tender area 
+
+with a little bit of ooze but dried blood.  No active bleeding 
+
+right now.  Distally he has popliteal pulses.  He has bilateral 
+
+dopplerable dorsalis pedis and posterior tibial pulses.  He has 
+
+full range of motion and denies any numbness.  
+
+LABORATORY EVALUATION:  Basic laboratory studies here show a 
+
+hematocrit of 28 and a white count of 43.  His white count is up 
+
+from a baseline of about 33.  His baseline hematocrit is 30.  His 
+
+platelets are 291.  His right groin ultrasound is negative for 
+
+pseudoaneurysm or AV fistula.
+
+THERAPY RENDERED/COURSE IN ED:  The patient is being sent home.  We 
+
+are arranging VNA to follow up tomorrow.
+
+CONSULTATIONS (including PCP):  The patient's primary care 
+
+physician was called for coverage for Dr. Duong.
+
+FINAL DIAGNOSIS:  Bleeding right groin after catheterization, 
+
+resolved.
+
+DISPOSITION (including condition upon discharge):  The patient was 
+
+discharged in stable condition.
+
+___________________________________                    NU604/29497 
+
+AMANDA A. VAUGHT, M.D.     AV55                      D:07/29/65 
+
+                                                       T:07/29/65 
+
+Dictated by:  AMANDA A. VAUGHT, M.D.     AV55 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+*/
+
+package edm.model;
+
+import javax.xml.bind.annotation.XmlEnum;
+import javax.xml.bind.annotation.XmlEnumValue;
+import javax.xml.bind.annotation.XmlType;
+
+
+/**
+ * <p>Java class for NoteType.
+ * 
+ * <p>The following schema fragment specifies the expected content contained within this class.
+ * <p>
+ * <pre>
+ * &lt;simpleType name="NoteType">
+ *   &lt;restriction base="{urn:hl7-org:v3}CS">
+ *     &lt;enumeration value="A">
+ *     &lt;/enumeration>
+ *     &lt;enumeration value="B1">
+ *     &lt;/enumeration>
+ *     &lt;enumeration value="B2">
+ *     &lt;/enumeration>
+ *     &lt;enumeration value="C">
+ *     &lt;/enumeration>
+ *     &lt;enumeration value="D">
+ *     &lt;/enumeration>
+ *   &lt;/restriction>
+ * &lt;/simpleType>
+ * </pre>
+ * 
+ */
+@XmlType(name = "NoteType")
+@XmlEnum
+public enum NoteType {
+
+    @XmlEnumValue("A")
+    A,
+    @XmlEnumValue("B1")
+    B1,
+    @XmlEnumValue("B2")
+    B2,
+    @XmlEnumValue("C")
+    C,
+    @XmlEnumValue("D")
+    D;
+}

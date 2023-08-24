@@ -1,0 +1,679 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2095-08-21
+
+                     Bailey EMERGENCY DEPT VISIT
+
+ 
+
+DARLING,BETTY   785-67-87-3
+
+Resident history reviewed, the patient seen, interviewed, and 
+
+examined by me.
+
+HISTORY OF PRESENTING COMPLAINT:  Briefly, the history is as 
+
+follows:  The patient is a 75-year-old white female with past 
+
+medical history significant for throat cancer, status post 
+
+radiation therapy; breast cancer, status post multiple 
+
+lumpectomies; non-insulin dependent diabetes mellitus, 
+
+hypothyroidism, hypertension, and peripheral vascular disease with 
+
+bilateral carotid stenosis - status post right carotid 
+
+endarterectomy, who was seen earlier today at Faith Hospital 
+
+after an episode of word finding difficulty associated with acute 
+
+vision loss in her left eye while riding as a passenger in a car.  
+
+The event was witnessed and reportedly there was severe word 
+
+finding difficulty.  The patient was transferred to the Bailey Memorial Hospital Emergency Department for further evaluation and 
+
+management.  On arrival, she states her symptoms have largely 
+
+resolved.  Evaluation at the outside facility included a head CT 
+
+which reportedly revealed no events of acute hemorrhage.  Prior to 
+
+transfer, she was treated with aspirin.  
+
+REVIEW OF SYSTEMS:  All systems reviewed are negative except per 
+
+HPI. 
+
+PAST MEDICAL HISTORY:  As noted above.
+
+MEDICATIONS:  Klonopin, Glyburide, Coumadin, meclozine, Timoptic 
+
+ophthalmic drops, Zestril, Celebrex, and Synthroid.
+
+ALLERGIES:  No known drug allergies. 
+
+SOCIAL HISTORY AND FAMILY HISTORY:  The patient denies tobacco, 
+
+alcohol, or any history of illicit drug use.  She presently lives 
+
+alone.  Family history is only notable for a sister with breast 
+
+cancer. 
+
+PHYSICAL EXAMINATION:  Well-developed, well-nourished, 
+
+well-appearing female who appears in no acute distress.  VITAL 
+
+SIGNS:  Temperature 96, blood pressure 167/84, pulse 92, 
+
+respiratory rate 18, O2 saturations 100% on room air.  HEENT:  
+
+Normocephalic, atraumatic.  Pupils equal, round, and reactive to 
+
+light.  Extraocular muscles intact.  Funduscopic exam reveals sharp 
+
+disks bilaterally.  NECK:  Supple.  LUNGS:  Clear to auscultation. 
+
+HEART:  Regular rate and rhythm with a 2/6 systolic murmur at the 
+
+left sternal border.  ABDOMEN:  Soft, nontender, nondistended.  
+
+NEURO:  Awake, alert, and oriented x 3.  Speech clear and fluent 
+
+and well articulated.  Motor 5/5 and symmetric throughout.  
+
+Reflexes 2+ with downgoing toes.  Cerebellar:  Finger-to-nose 
+
+intact.  Gait not tested.  
+
+LABORATORY EVALUATION:  SMA-7 notable for glucose of 124.  CBC:  
+
+White count 8.2, hematocrit 36.3, platelets 379.  Coagulation 
+
+profile notable for an INR of 2.0.  Urinalysis benign.  EKG:  
+
+Normal sinus rhythm at a rate of 70 with nonspecific T-wave 
+
+changes. 
+
+THERAPY RENDERED/COURSE IN ED:  She is currently awaiting 
+
+evaluation with an MRI and MR angiogram of the head and neck. 
+
+CONSULTATIONS (including PCP):  The patient was seen in 
+
+consultation by Neurology.  
+
+FINAL DIAGNOSIS:  Transient ischemic attack vs. cerebrovascular 
+
+accident.
+
+DISPOSITION (including condition upon discharge):  The patient will 
+
+be admitted to the Neurology Service for further evaluation and 
+
+management.  The patient is currently in stable condition.  
+
+___________________________________                    YA226/51903 
+
+OMAR IM, M.D.       OI23                        D:08/21/95 
+
+                                                       T:08/21/95 
+
+Dictated by:  OMAR IM, M.D.       OI23 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+This is a free text field.
+
+
+
+
+
+
+
+
+This is a free text field.
+
+This is a free text field.
+
+This is a free text field.
+
+This is a free text field.
+
+This is a free text field.
+
+This is a free text field.
+
+This free
+
+
+This is a
+
+This is a free text.
+
+This is a free text.
+
+This is a free text.
+
+This is a free text.
+
+This is a free text.
+
+This is a free text.
+
+This is a.
+
+This is a free text.
+
+
+
+This is a free text.
+
+The patient name is a.
+
+The patient is a free text.
+
+
+The patient's
+
+
+
+
+The patient name is a free text. 
+The 
+The name is free text.
+The patient text is. 
+
+\
+The patient.
+
+The patient.
+The patient is a 
+
+Patient names
+The patient is a free text, and
+This patient name.
+The name patient text, text.  The name, name, and text
+The patient text
+The patient text.
+text patient text text The is a text and text, The 
+
+name patient text.
+name and the text.
+The patient name.
+The patient text is patient name, 
+The patient name and is.
+
+
+Text. or text.
+Patient text
+text,
+The patient text. 
+name text.
+
+The names
+
+text text
+name text patient 
+ident name.
+The patient text patient is text is. 
+The patient
+Text text patient date text.
+name patient text.
+text name and
+the text patient names.
+
+
+
+text, and 101.
+(dise and name and name, patient, text patient text
+or name of patient name (15 (2, text. The date and the text 1, and the [the... 
+(or, and [
+...
+
+1. The name the date, and the date, 1, and a few, 1.
+are or 1 or 12, and the...
+
+let names, and name, and...
+names.
+... and the following.
+:
+
+(1... the patient names...
+you:
+the patient (d with a:
+: (
+
+
+1: 
+[1 are the 3:
+…110... and name or name and: 1 or [are or the and: are and:
+
+The (and, and, and the (...
+In the andized, but, the:
+make...
+
+use and (...
+of the:
+The...1 and the... and…the… are...
+…1 (
+... …, the, (…... 
+...
+
+
+, and [, the. A (
+
+
+1, 31, and or 
+[1 or, and, and or and, or, the and, or, 3. (are and are a and are a, the, 1 and, or are, and the [2. and, and, the. An, the (0, a-and a, [any,
+in, 3... (the [1. anities... (...an “(and 1. are, are (have the 2 are are "name are... and of the 0 or the and or by "by or the, all, and or the, and, anis, 1 and...of 3. (, an, an, (an 1-conine and are an (an are and are an (ann, 1, [2 and the, and and 1-le-1, an, 2, [an of, and, and a and, and, 1 and and a- 0 and the an [1, and, and, 2 (an,  (2 an "ex or, (1 (ex, an, (d, 5, the, an, 2. [C (the, 2, the, and, an,0, an:1: an (0. and an and: 4 and:: 6-an: (2: (: -2:: a and: an: an by the [ : :  and-le-1-with-  with the (: [: an in the an-an [ are ( [1, are an an in are. (. of the of  an. an. 1 and.  and,. in [an, and, [0, an [1-and [0 and " [ and or (, ( and [ an in " [ are-an an, an  are are are an  (1 an and  - an,  and in an "1-an  and, -ex of  of an " of an " and an or, - a, and, in the-an and and and, of the of them of an of the - or " an,., ( and in in, and  in a in  an or  in  an in - -  by the,  and and, ( and or,  of [ of :  of the or ( by by by, - ( and, and in-in in or-  or and in an and or, (- and or or and or and-1, an ( and- and,,,, of ( of, - and ( or or or  or in - [, an,  or,, an an,  or-1 an-0 of or 0, or- -and and-ex and, and ( and, ( of, of of an of, and of an of  of and of the and.,-and and,, and and,, and and-and ( and-h-2 and and  with and -cl in- ( and in- and- for- for -P and-C-1-ex  for- and, and-,  and or-ex " and, - ( or in "- ( and-to, (- an and in and  and " to [- and of ( and and, ( to-h or-g, by and- and-b- (,-cl ( by (  (-c-1-A ( and and ( ( and and, - and ",-and “-and of " of the  (1-C and- and, or and or ( and  of,- ( and of- of or and-3-1 of, or- - and- and ( and and- and, and of the and of ( of  of- of and 1, and (-1- an- - and- and.,-  and., -,., ( ( or- and, and and and,-  and.,-  (: and- and and of the and and ", and, or- C with and- an-  and- ( ( and-  and-  and ( or and an,- and ( and  and ( and, (, or, and,- [, or - and or and- and ( and- except and- and and, and, and,, and ( and and (,,,,,,-2 and,,,- ( and,. and, and - - and- and ( and and, and,  and and [ and- and (,- and, and and,,, (.,,,,,,,- or- with and and (, (, and ( and,,,,- and and- (,. (  ( with,-, (-,, (, and,,, (, with ( (,,,, and...,, and and ( ( and- [. and- ( and,, and,- C ( with- (. and and and and and and- and and and and [ and- and,, w and and- ( and ( and and to and, and, and and to (- and-, (, and, and ( ( (, or, (, ( and- and w as ( [ and and- and,, [, and, and, and and and and- and,,,. and- and and, and (, (-, and for,, to an- to- and, to and, and to- and and, to and and and and- and. and and,, ( to and, and,. (- w, and, and,, and and and- to, and or to [ and [ and [, and  (,, and - and- and and,,.- or and (, (- to and and (

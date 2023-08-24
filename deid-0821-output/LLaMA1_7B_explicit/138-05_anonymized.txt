@@ -1,0 +1,698 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2076-12-15
+
+
+
+
+
+
+
+PRESTON, FRANCES
+05850080
+12/15/2076
+
+
+
+
+Louis Barron, M.D.
+Shelby Dental Care Center
+9842 Edwards Street
+Cozad, OK  53952
+
+
+Dear Dr. Barron:
+
+
+I would like to give you followup on our mutual patient Frances Preston.  As you know, I referred her to the cardiac catheterization laboratory because of progressive worsening angina and a stress test suggesting anterior ischemia.  We performed a catheterization on 12/14/2076.  We utilized the right radial artery for access.  We found that she developed a significant in-stent restenosis lesion within the previously placed Cypher drug-eluting stent.  This is undoubtedly the cause of her symptoms.  We were able to treat this lesion with balloon angioplasty and ultimately stented with a 3.5 x 24 Taxus drug-eluting stent.  The stent was postdilated with a 4 mm noncompliant balloon to high pressure.  The final angiographic result was excellent.
+
+
+The following morning she was doing quite well and we discharged her later in the day.  She will remain on her usual medications and I have stressed the importance of remaining on aspirin once a day for the remainder of her life and Plavix for a minimum of a year after this procedure, though I will likely favor indefinite therapy.
+
+
+I plan on seeing her again on 01/24/2077 in followup.  If you have any further questions regarding her care, please do not hesitate to contact me.
+
+
+Sincerely,
+
+
+
+
+______________________________
+Corrie Q Newland, MD
+
+
+
+
+
+
+
+
+
+
+eScription document:0-3743412 IFFocus
+
+
+
+
+
+
+DD: 12/15/76
+DT: 12/15/76
+DV: 12/15/76
+
+
+
+
+
+
+
+RECEIVING CLINICIAN:
+________________________________________
+
+
+
+
+
+
+
+
+
+eScription document:0-33560085 IFFocus
+
+
+
+
+
+
+
+DD: 12/14/76
+DT: 12/14/76
+DV: 12/14/76
+
+
+
+
+
+
+
+
+RECOMMENDATION:
+
+
+
+
+
+
+
+
+RECOMMENDED TREATMENT:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+______________________________
+Dr. Corrie Q Newland
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shelby Dental Care Center
+9842 Edwards Street
+Cozad, OK  53952
+
+
+
+
+
+
+
+
+Dear Dr. Newland:
+
+Please find attached the follow-up from our mutual patient.  She continues to do well and is following up with her primary care physician.
+
+
+
+
+______________________________
+Louis Barron, M.D.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shelby Dental Care Center
+9842 Edwards Street
+Cozad, OK  53952
+
+
+
+
+
+
+
+
+______________________________
+Corrie Q Newland, MD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shelby Dental Care Center
+9842 Edwards Street
+Cozad, OK  53952
+
+
+
+
+
+
+
+
+
+______________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+______________________________
+______________________________
+Dr. Corrie Q Newland
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shelby Dental Care Center
+9842 Edwards Street
+Cozad, OK  53952
+Dear Dr. Newland:
+
+I have attached followup on our mutual patient.
+I will see her again in 12 weeks for continued followup.
+
+
+
+
+______________________________
+Louis Barron, M.D.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shelby Dental Care Center
+9842 Edwards Street
+Cozad, OK  53952
+Dear Dr. Newland:
+
+She is doing well.  I plan on seeing her again in 12 weeks.
+
+
+
+
+______________________________
+Corrie Q Newland, MD
+
+
+
+
+
+
+
+
+
+
+Shelby Dental Care Center
+9842 Edwards Street
+Cozad, OK  53952
+Dear Dr. Newland:
+
+She is doing well.  I plan on seeing her again in 6 weeks.
+
+
+
+
+______________________________
+
+
+
+
+
+
+
+
+
+______________________________
+______________________________
+Dr. Corrie Q Newland
+
+
+
+
+
+
+
+
+Shelby Dental Care Center
+9842 Edwards Street
+Cozad, OK  53952
+______________________________
+Dr. Louis Barron
+
+
+
+
+
+
+
+______________________________
+Louis Barron, MD
+
+
+
+
+
+
+
+Shelby Dental Care Center
+9842 Edwards Street
+Cozad, OK  53952
+______________________________
+Corrie Q Newland, MD
+
+
+
+
+
+
+
+Shelby Dental Care Center
+9842 Edwards Street
+Cozad, OK  53952
+
+
+
+
+
+
+
+______________________________
+Louis Barron, M.D.
+
+
+
+
+
+
+
+Shelby Dental Care Center 
+9842 Edwards Street 
+Cozad, OK  53952 
+Dear Dr. Newland:
+
+Please find attached a copy of your patient's lab work, as requested.  We are not able to interpret this testing at this time, but the laboratory does have an on-staff physician and may be able to give some insight to the findings.
+
+
+______________________________
+Corrie Q Newland, MD
+
+
+
+
+
+
+Shelby Dental Care Center
+9842 Edwards Street
+Cozad, OK  53952
+Dear Dr. Barron:
+
+Thank you for the lab results.
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+______________________________
+Louis Barron, M.D.
+
+
+
+
+
+
+
+
+
+Shelby Dental Care Center
+9842 Edwards Street
+Cozad, OK  53952
+Dear Dr. Newland:
+
+Thank you for the lab results and followup on our mutual patient.  She is doing well and will resume a normal followup regimen.
+
+
+
+
+______________________________
+Corrie Q Newland, MD
+
+
+
+
+
+
+
+Shelby Dental Care Center
+9842 Edwards Street
+Cozad, OK  53952
+Dear Dr. Barron:
+
+Thank you for the lab results and followup on our mutual patient.  She is doing fine.
+
+
+
+
+______________________________
+Louis Barron, M.D.
+
+
+
+
+
+
+Shelby Dental Care Center
+9842 Edwards Street
+Cozad, OK  53952
+Dear Dr. Newland:
+
+Please send her for a repeat of the lab testing.  The test results are not conclusive.  We will not be able to proceed with surgery until we have more information.
+
+
+
+
+______________________________
+Corrie Q Newland, MD
+Shelby Dental Care Center
+9842 Edwards Street
+Cozad, OK  53952
+Dear Dr. Barron:
+
+Please see attached lab reports.
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+______________________________
+______________________________
+Dr. Corrie Q Newland
+
+
+
+
+
+
+
+
+Shelby Dental Care Center
+9842 Edwards Street
+Cozad, OK  53952
+Dear Dr. Newland:
+
+Please send me a copy of the report.
+
+
+
+
+
+Dr. Barron
+
+
+
+
+
+
+
+
+
+Shelby Dental Care Center
+9842 Edwards Street
+Cozad, OK  53952
+
+I am not able to see this information.
+
+
+Dr. Newland
+
+
+Shelby Dental Care Center
+9842 Edwards Street
+Cozad, OK  53952
+
+
+_________________________: _______________________
+
+Dr.
+
+
+
+____________________
+
+
+I am not an actual ______ _____________
+
+____________________________
+_______________________________
+____________
+___________________________________
+_______________ _____________, ________________
+_______________
+_______________________
+___________________________
+______...
+________________________.
+________.
+__________________________________________.
+___________________________________________________ ___________________________________________.
+_____________________names...
+
+________ names,
+_____names_______ names.
+____________________ patient names: ______________names of the patient _
+
+
+
+
+
+_________
+_________name, and so. This information
+
+
+_
+
+information _name, names
+names, patient names:, patient names, names and names patient names
+_name, patient names
+
+name.
+
+
+
+
+
+names of 
+or names.
+A
+names or names
+
+
+
+
+name names (pat names, and use your names:
+
+
+names, names of names.
+name...
+
+names of...
+The patient and patient names of age, age of age
+orized 10 and...
+or and name, name, and […
+and the names, and names and, and a single...
+12, but...the, the names, and names, as anatomic, or...
+may (are.
+and the patient names
+the 3 and 50 names of your patient names, patient. The...
+the names: the patient...: 1 and...
+
+pat: the following patient-
+you:
+patient-1:
+(name orific, 12…
+[name... or..., the are the 15 are and are [1... are and the 1:...:... are are:
+(1, [... 1 and ( and... and the and the, and, or, and are the and the are, orific, 5 and the...the: 1 or (…the are, the...
+
+are
+take…
+... (and and (and and, 12 of the (1 and, 1, and and, 1 and, etc, and (...,
+1 or the, and (1, and, and, the (
+(
+, 
+, and, and the are, or (1, 6, 1, but [in the, are, "…, the, the or of the, 2, the 0, 1...
+...
+
+... aniz... with the “patient... an... “1... 3 “make: [...1 are are are- are, 0 are in a 1 (1-
+-2, "and " [le,... (and orise, [pat. and (and, and of the, an,,, 5, and, an and, an, 3, are and the-ann, an an, 1, an, an, an in, an, an (re and the, a [an an, an, an, your and. an, and, an and an an an in, an or an, an or "pat or, an or, and ( an " and, and and (in and and ( 5, 1 an and, an and, and, an, and, an and an. an-1, an and, 1 and (le, "1-ann, an-1 of the: [1: [1:: [: An “ an ( an [: and in the and: ( ( and- [: [1-1-an " ( and- [and or-d-cl ( an in an- and-le "-1 and-and-d-and-an in " ( or (. of an and-pat and in [. and and and-or, and-le in, [-or and, and and an in- or [ and-in [2, [, and and (- and, ( are-An An in an-an  in, ( and  and ( ( and of ( of the or-2-  of  and, of [ of the [ of  in an (- an and or, and (- and or and an,,,,, of " of the and of an of the and " and and and an and or or an and an-and,, of an in the ( of or or of or, ( ( or, or, and- and [ or,, and of the and and of, of, of. and, An An An, ( (,. or- and and- in, or in the, or, of the in or to and, or in a- or- and  and, or and,,,,,, and,, or and or or, and, and, [,, or ( (, and, an of, ( or of or or of or and an of for of and of,  and,, in an and for in and in-C of the in of the of the of the of, of,-0 of, [1 an,,, and or, and and ( to. in ( and, in and [1-2 An An C,-C An C ( to ( [ of  to,- to to ( to ( and- to  and, ( to to or ( to or to ( to ( to or to c to or ( C C C of in and in in in (- ( and- for or- c or or of of and of and of the c- C- ( and ( ( and cine in a c and and- C C and a -  c for in to- and and in- [. ( and in in- c- c- C of of an ( ( c or in. in [ c and or c c of and-, or, on and or of and and of an of- [. C and and c as or and or and  and- ( in c, of of of of of the of of of of of and.- and and of a ( ( and a and ( and ( and and to an, and and to ( and ( to to and ( to  to to to and [ and to to [ and to ( to -: and or to. of and [ ( C C:, C, and- an and and and and and and of of ( of of ( and- to to to- and,- an. ( and [ c-  ( or and and- c ( ( ( and and and [ ( [ c and and (, [ and c. c ( (, ( and ( [ and- a to- and to to to a a, and and  or in, and [ and ( (  in ( and and and and.  and, and  ( (, ( and (. ( or and, and and,, and and,, of,  and an of and in in and and in a, a and in, in and, and at  of a of. of of of of of of of of of of of ( of of of of and of of of c- ( ( to,,, and,, ( and and and ( of, [ and. and as in, ( and in and  in and of, of in of in a. and ( C and ( and ( ( C a on of  ( of and of of and of ( of and and C and  ( C and  and (  of a C and of and of in of, [ with, ( of. of of of ( of ( - (, ( and of,, of ( and ( as and and in,,, of, and of  on and and, of ( _ a, and _ of, [, and a, of (, and of of of of of [ of of of of of of of and of and of and, of of of of of of  of of of of of of of of of of of a of of of of of of of of of of. of of on of of of of of of of of of of of of of of of a of of and of of of, of

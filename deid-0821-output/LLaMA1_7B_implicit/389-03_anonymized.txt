@@ -1,0 +1,220 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2132-06-14
+
+
+Internal Medicine Intern Admission Note
+
+Name: Tyler Pearson
+MR#: 7271902
+Date of admission: 14 June 2132
+Admitting Intern: Noah Rosario
+Admitting Junior: Raymond Pack
+Attending: Frank Ash
+
+Chief Complaint: shortness of breath
+
+History of Present Illness: Mr. Pearson is a an 87 year old gentleman with COPD on home oxygen, CVA, DM, and history of lung cancer s/p resection without chemotherapy who presented to the ED with acute shortness of breath.  Of note, he was hospitalized from May 26 until May 29 for a COPD flare, and was discharged home at that time on a prednisone taper, which he completed about one week ago.  He was in his usual state of good health and had even spent the past weekend with family in Connecticut camping.  But on the evening of June 13 he began to feel short of breath, without cough or chest pain, and the dyspnea was made worse with exertion.  Not made worse with lying down.  He also had a fever to 103, without mental status changes.  EMS was called and in the field he was noted to be breathing at a rate in the 40s; he was given a dose of IV lasix and he put out 600cc of urine.  He was then brought to the WMC ED where he continued to display labored breathing, breathing in the 40s, afebrile, tachycardic to 147bpm.  An ABG on BIPAP showed 7.35/53/100.  His blood pressure dropped from systolic 130s to 70/50, and so he was subsequently intubated, and a central and arterial lines placed.  He was given approximately 2L of NS with resultant CVP of 11.  He was also started on dopamine, which was eventually transitioned to norepinephrine.  He was given vancomycin, levaquin, and flagyl, as well as a dose of solumedrol.  He was then transferred to the Internal Medicine.
+
+Review of Systems: per HPI; no changes in mental status; no cough, chest pain, palpitations; no N/V/C/D; no BRBPR or melena; no sick contacts.
+
+Past Medical History
+COPD on home O2 2LNC at all times, never been intubated
+Cerebrovascular disease: s/p R CEA, and with L ICA on aspirin
+DM2
+Lung cancer: s/p L partial resection
+BPH
+PTSD
+
+Medications on Admission
+Albuterol and atrovent nebulizers prn
+Advair 250/50 2puffs bid
+ASA 325mg po qd
+Calcium and vitamin D 250mg po bid
+Lasix 10mg po qd
+Neurontin 300mg po tid
+Guaifenasin 10mL tid
+Zantac 150mg po bid
+Senna 2tabs bid
+Zocor 20mg po qhs
+Losartan 100mg po qd
+Toprol XL 100mg po qd
+Loratidine 10mg po qd
+
+Allergies: bactrim and tetracycline, reactions unknown
+
+Social History: retired Civil Engineer, positive asbestos exposure; quit smoking 30 years ago; no EtOH or illicits
+
+Family History: denies any known family history of lung disease, COPD, CAD, or cancer
+
+Physical Exam
+Gen: NAD, appears comfortable
+VS: T96.1 bp118/60 without pressors P93 CVP 6-9 O2sat 97% on mechanical ventilation
+HEENT: R eye not reactive to light; L eye 3  2mm with light; EOMI
+Neck: supple, JVP flat
+Pulm: ronchi bilaterally without wheezing or crackles
+Cor: regular, nls1s2, no mumurs
+Abd: soft, NTND, +BS, no HSM
+Ext: trace lower edema bilaterally; warm, DP 2+ B
+Neuro: no focal findings, pt appropriate; CN 2-12 intact, tongue midlines, strength 5/5 all extremities, toes downgoing
+
+Labs
+
+Date/Time         NA             K              CL             CO2            
+06/14/2132                       4.3                                          
+06/14/2132        138            4.1            101            29.1           
+Date/Time         BUN            CRE            GLU            
+06/14/2132                                      132 (H)        
+06/14/2132        30 (H)         1.6 (H)        123 (H)        
+
+Date/Time         CA             PHOS           MG             TBILI          
+06/14/2132        9.4            4.1            1.4            0.9            
+Date/Time         DBILI          TP             ALB            GLOB           
+06/14/2132        0.0            6.7            3.4            3.3            
+Date/Time         LACT           
+06/14/2132        1.2            
+
+Date/Time         TEMP           FIO2           bPO2           bPCO2          
+06/14/2132        37.0           1.00           100 (H)        53 (H)         
+Date/Time         bPH            
+06/14/2132        7.35           
+
+Date/Time         ALT/SGPT       AST/SGOT       ALKP           TBILI          
+06/14/2132        16             22             54             0.9            
+Date/Time         NT-BNP         CK-MB          TROP-I         
+06/14/2132                       NEGATIVE       NEGATIVE       
+06/14/2132        325                                          
+
+Date/Time         PT             PT-INR         PTT            
+06/14/2132        12.8           1.0            26.8           
+
+Date/Time         WBC            RBC            HGB            HCT            
+06/14/2132        22.9 (H)       4.89           14.1           42.9           
+Date/Time         MCV            MCH            MCHC           PLT            
+06/14/2132        88             28.9           32.9           190            
+Date/Time         DIFFR          METHOD         %NEUT          %LYMPH         
+06/14/2132        RECEIVED       Auto           82 (H)         15 (L)         
+
+Date/Time         UA-GLUC        UA-KET         UA-SPGR        UA-BLD         
+06/14/2132        NEGATIVE       NEGATIVE       1.015          NEGATIVE       
+
+Date/Time         UA-PH          UA-PROT        UA-NIT         UA-WBC         
+06/14/2132        5.0            NEGATIVE       NEGATIVE       NEGATIVE       
+
+06/14/2132 07:10 CXR
+     Right upper lobe and right middle lobe opacity, new since
+     5/27/2132, suspicious for pneumonia.
+     Lines and tubes as described above, without evidence of
+     pneumothorax following left IJ placement.
+
+EKG: sinus tachycardia at 134bpm; right ventricular hypertrophy; 0.5mm ST depression V6
+
+Assessment and Plan
+
+Mr. Pearson is a pleasant 87 year old gentleman with a history of COPD, never intubated, who presented with one day of dyspnea.  He had a fever to 103, and presented with hypotension and respiratory distress requiring intubation.  He has an elevated wbc and an increased creatinine to 1.6; his chest x-ray is consistent with a RUL and RML pneumonia, and he has a low bnp negative for cardiac stretching.  His presentation is consistent with sepsis secondary to pneumonia.
+
+Sepsis: continue EGDT, with goal MAP>65 and goal CVP of 8-12
+a. IVF with NS for goal CVP 8-12
+b. pressors as needed (vasopressin +/- levophed) for goal MAP>65 (currently off pressors)
+c. monitor urine output
+d. measure central venous oxygen saturation
+e. antibiotics for pneumonia: would treat with vancomycin and cefepime, check vancomycin trough tomorrow am
+f.  f/u all culture data
+g. continue advair 250/50
+h. no need for steroids currently, and will not check cort-stim in setting of having received solumedrol in ED
+i.  hold antihypertensives (losartan 100mg qd and toprol 100mg qd) in setting of hypotension
+
+ARF: creatinine up to 1.6 from baseline of 1.1, likely pre-renal etiology in setting of sepsis; will give trial hydration
+
+Ppx: ranitidine and heparin
+
+ 
+_______________________________
+Noah G. Rosario
+Pager 81251
+PGY-1
+
+
+
+
+
+Medic 25
+17
+
+1
+M
+A patient
+
+The patient of 183010
+The patient
+1201
+20 day 
+The.
+
+The 11
+of 13
+A 6
+
+
+12 months
+M and M, and 1. 1 day 4
+202011195.
+The
+
+130
+
+M
+1.
+
+
+
+Date
+2
+Date
+
+
+
+
+
+
+Last
+
+
+Tod, today
+1
+The Day
+Tod 1997. 2. An
+Date
+116. 60000: and 110.
+
+12
+
+1:
+10:
+
+0 andromat:01
+201
+A:
+A, a: 4: 24, the date: 0:11, it and day today. A
+
+17
+A. This. It.
+and (2:
+
+:15.
+10.3431614201:2: 2:200000
+
+, the
+
+10 -130:1:0: 9
+10
+24:11
+: 02
+1:1, 2: 62:A:21210. [1,2-A-34
+101. Anistic -1:0:10,33 of a1956008610
+1 (A10
+00000000010304 (225 (10,1:2.22:1,0 and a and a: (023 a time-time,2.  and a 01922 2011 A A0 and An An Anient and An and A Anitation ( and of a [ of the An (0,30 An10 An0014,4 and the-007000001001-per,1 Anifier Anistr C020 Minder Anister Anistr is (5, Anine Anist A Cayer:10.100 Anduct and: Anicial,4000. [30201201 An11,0 Anistr Anistic and Anist in a and a-20 and.42-20061 or10213 of the of [01 of00 of a10 on the [4201342191 and the (20, [0 a0 to a000.1. Anine and a, the: was, [3 (... [ of the of “: and and a on and, [-1-1-2 at the, [ a-10000 of a of a of the ( and, 42102-10- -1 of a: 00 of the of [0000012 on an in [12 (-2 of a in of the of of:, of [ [ of * [ and, [ on the [0: [ [1:0
+2
+ of the0,,1001 of an of A of and-C-0-1 An An of of of [ of of J [ of a of of of a of the by ( on by [ by on-3010 ad000 in of0000 in0 last at in with for and for and and on in of of of [ on a ad of for of of for an of a a on on for on in of of of the-1 of "00 on02 of [ of00 of the [- and and,- -in- a- a- - B of " of of a of ad of the of a- (/ in, or- of of ad of of of of of [ of  of - of of  of a- and ad- ad ( and- -2 and and a and-M " of a of a of C-1-2 and to in and to to a and of the of of of to of of to of to of the of to [ to and-1 I of and 01- of to of to  of to to to to of to of of of of a of a,  of of of and of and of of of of of of of or of and of of  to-00 I  to 1 to-1300-1 of to and of- of of of of of of of of 0- and- and of of and- I- of of ad of of a of of of of of of of of the of of - of of of I- I of on of of of of ~: of of a of-, on-0  I:-B-B C I-1 -  to to to-C0 (2-P on a on on-A in-C-I C-B-1 of b of C of C of of B of of of C C of of- of-1-A1-0 R of to of of of of of C of-0 of to- -A12 I C-2 I to on C to to to C on B0-2 C0 of 2 C B- B of-1 B C- of B of [ of on of of to of of H in of-0 on-0 on-p of-b of [ of of of of [ of  of of the of14 I and11 -5 C of  I of  of- of of C- of of on of1 on of- of of of of " of of of of prior on1. and and-22. and, [3.- C1- C I- of of-of of of of of of a of of  of of of of of of of of of of of of of of of of of of of of of of W of of of of and of on of, of of on on,0 and. on- ( on ( and of of, of. of ( of  of of,0,1 of1 and and of of and of and of of of "2 ( C11021 of and0 and of1 and, C and of.-1 and C of of of  a and. of " of of of and D of D C M ( C M of-2 of of M of of of of of of of of of of of of of of2 of of- of of- of -1 of of-2 MD of of C " of M: of m0 of2 (0-2- - -1-0-of of of- of of of- of  of02 2 m of ( of " of-0 M M (0 M1 m- m of of " of of of (:2 and- (1/0/1 ( C C of of m: M-0 "- and ( C-5-0- C to to to-1- I1 to  ( to to m ( on- M of  of of of of of to to C ( and and - M ( (- M m -0 - ( to,- to m-1-  and- 

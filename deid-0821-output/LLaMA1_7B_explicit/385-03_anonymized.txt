@@ -1,0 +1,169 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2088-09-04
+
+
+
+
+Beckley Appalachian Regional Hospital
+315 Townsend West              MOSS, DEREK
+Espanola, WI  85976                    89659991
+895-239-5445                     09/04/2088
+
+
+REASON FOR VISIT:  Follow up with Mr. Derek Moss who is here with his son and daughter-in-law with multiple problems and for preop check of electrolytes.  Mr. Moss is 78 years old.
+
+MEDICAL PROBLEM LIST:
+1.  Diabetes mellitus type 2, insulin dependent.
+2.  Left shoulder pain.  Scheduled for surgical care tomorrow.
+3.  GI bleeding, ongoing.
+4.  Parkinson's disease.
+5.  Fatigue.
+6.  BCE.
+
+MEDICATIONS:  Medication list updated on the LMR.  Major change is furosemide now 60 mg b.i.d. instead of 80.
+
+INTERIM HISTORY:
+1.  Hyperkalemia occurred on higher dose of Lasix.  Apparently this has been a problem in the past.  He also bumped his creatinine to 2.3.  Potassium rechecked today and is now down to 5.1, stable creatinine.
+2.  Diabetes.  Blood sugars running in the 80s in the morning, higher later in the day on 16 units of Lantus sliding scale to cover other meals.  Uses regular insulin about twice a day.
+3.  GI bleeding ongoing by Mr. Moss's report, still having clots of blood, no abdominal pain, has not had GI follow up recently, is off Coumadin prior to shoulder repair.
+3.  Skin lesions, one on his left leg, one on his right medial leg and a lump on his back noticed by his daughter when she was giving him a therapeutic massage.
+4.  Left shoulder pain.  Scheduled for surgery in the a.m.
+
+PHYSICAL EXAMINATION:  He is brighter, cheerier, acutely oriented.  No acute pain.  Vital Signs:  Blood pressure 126/57, pulse 66 and regular, respirations 12 and unlabored, weight 161.  Skin shows seborrheic keratoses, actinic keratoses on the right leg, papule with eschar on the left leg, a subcutaneous nodule on the right upper back.  Chest is clear P&A.  Cardiac exam regular rate and rhythm, normal S1, S2, II/IV apical systolic murmur radiating to the left sternal border.  No gallop.  Extremities, trace edema.  Decreased ROM R shoulder.  Abdomen soft.  Neurologic, alert and oriented.
+
+IMPRESSION AND PLAN:  Hyperkalemia resolving.  Discussed importance of careful fluid balance, low-protein diet given azotemia, renal follow up, follow up with GI for GI bleeding, blood transfusions are available.  Continue lower dose of Lasix.  Skin lesions include seborrheic dermatitis, seborrheic keratoses, possible lipoma, although lump on his back is firm and may need a biopsy once he has recovered from shoulder surgery.  Long consultation with him and his daughter regarding home care after surgery.
+
+
+______________________________
+Ursula Yawn, MD
+
+
+
+
+
+eScription document:7-9274121 EMSSten Tel
+
+
+
+DD: 09/04/88
+DT: 09/05/88
+DV: 09/04/88
+
+
+
+
+Clinic Notes:
+1.  Hyperkalemia occurred on higher dose of Lasix.  Apparently this has been a problem in the past.  He also bumped his creatinine to 2.3.  Potassium rechecked today and is now down to 5.1, stable creatinine.  Mr. Moss is 78 years old.  Medication list updated on the LMR.  Major change is furosemide now 60 mg b.i.d. instead of 80.  Mr. Moss is 78 years old.  Medication list updated on the LMR. Major change is furosemide now 60 mg b.i.d. instead of 80.  He also bumped his creatinine to 2.3.  Potassium rechecked today and is now down to 5.1, stable creatinine.  Mr. Moss is 78 years old.  Mr. Moss is 78 years old.  Mr. Moss is 78 years old.  Mr. Moss is 78 years old.
+
+2.  Diabetes.  Blood sugars running in the 80s in the morning, higher later in the day on 16 units of Lantus sliding scale to cover other meals.  Uses regular insulin about twice a day.  Mr. Moss is 78 years old.  Mr. Moss is 78 years old. Mr. Moss is 78 years old. Mr. Moss is 78 years old.  Mr. Moss is 78 years old.  Mr. Moss is 78 years old.  Mr. Moss is 78 years old.  Mr. Moss is 78 years old.  Mr. Moss is 78 years old.
+
+3.  GI bleeding ongoing by Mr. Moss's report, still having clots of blood, no abdominal pain, has not had GI follow up recently, is off Coumadin prior to shoulder repair.  Mr. Moss is 78 years old.  Mr. Moss is 78 years old.
+
+4.  Skin lesions, one on his left leg, one on his right medial leg and a lump on his back noticed by his daughter when she was giving him a therapeutic massage.  Mr. Moss is 78 years old.  Mr. Moss is 78 years old.  Mr. Moss is 78 years old.
+
+5.  Left shoulder pain.  Scheduled for surgery in the a.m.  Mr. Moss is 78 years old.  Mr. Moss is 78 years old.  Mr. Moss is 78 years old.
+
+6.  Chest is clear P&A.  Cardiac exam regular rate and rhythm, normal S1, S2, II/IV apical systolic murmur radiating to the left sternal border.  No gallop.  Extremities, trace edema.  Decreased ROM R shoulder.  Abdomen is soft.  Neurologic, alert and oriented.  Mr. Moss is 78 years old. 
+
+7.  Long consultation with him and his daughter regarding home care after surgery.  Mr. Moss is 78 years old.
+
+REVIEW OF SYSTEM:  No acute pain.
+
+REVIEW OF MEDICAL RECORD:  Hyperkalemia resolved.  Discussed importance of careful fluid balance, lower dose of Lasix.
+
+Plan:   Hyperkalemia resolving.  Discussed importance of careful fluid balance, lower dose of Lasix.  Continue lower dose of Lasix.  Discussion of follow up with GI for GI bleeding.  Blood transfusions are available.  Discussed home care after shoulder repair surgery.
+
+_____________________________
+
+
+
+
+
+eScription document:7-9274121 EMSSten Tel
+
+
+
+DD: 09/04/88
+DT: 09/05/88
+DV: 09/05/88
+
+
+
+
+Clinic Notes:
+1.  Hyperkalemia occurred on higher dose of Lasix.  Apparently this has been a problem in the past.  He also bumped his creatinine to 2.3.  Potassium rechecked today and is now down to 5.1, stable creatinine.  Mr. Moss is 78 years old.  Mr. Moss is 78 years old.
+
+2.  Diabetes.  Blood sugars running in the 80s in the morning, higher later in the day on 16 units of Lantus sliding scale to cover other meals.  Uses regular insulin about twice a day.
+3.  GI bleeding ongoing, still having clots of blood, no abdominal pain, no abdominal pain, has not had GI follow up recently, has not had GI follow up recently, has not had GI follow up, is off Coumadin prior to shoulder repair.
+4.  GI follow up to shoulder surgery. 5.
+5. 5. 5. 6. 5. 6. 7. 6.
+
+
+
+7. 7. 1. 
+7. 7. 7. 7. 
+8. 3.
+
+80. 5. 3
+
+47. 8. 8. 7
+5. 6. 7. 6. 7. 
+4. 7
+
+. 7. 9.
+
+78. 8. 
+1. 7. 8. 7. 7. 7. 7. 7... 7. 7.
+7.
+7.
+90
+42.
+75. 77. 5. 
+9. 7. 7. 7. 7.
+7. (7.
+
+The patient.
+
+7.
+200. 7. 7. 7. 7. 
+
+The names 7,7, a letter, line 7.
+The patient, patient
+The names
+
+
+
+
+7. 
+are
+
+
+
+The patient name,
+
+10
+(3.
+1. (... (or the following, and names and name, 3, or the clinical and the clin, and the 7...the, or the following. 20 or the name, 0
+
+2-1 or 3 oration of the first 12 and the names, and the name, and the patient and the: and 
+(theist patient names.
+name of the patient, use and: 0...
+: 0:1:…... 2…1:
+
+(…1: 
+are: (
+
+[1 or are,... (d... are 1 are:
+1, a, and: (the “or, the... and, and the.
+, the 3, but, a 5...
+...1:1 and of (the 1 and the, the [the are the,
+are 1-…... (...1-1 and:
+[… and and, 
+(
+, a, the... orize, and, and and...and, and,
+, and, an, and, and, the, a, an, and a...,
+. and 1, [are, as, 1 and, or, or and, and, but, are, and, the or of the, and, and,: and, [:
+: "d... 1 and 4 names, “2 “pat “: 1. 2 and [1 " are, 3-le-le-1, an, and in (and [by “, by the... 3 or (1 and, andities,, 1 8, and of, and, An (, 2, an, anite are the are and are-1 are the are the-ann, and, by, an and,, the anise, (, tom and, 1 an an. Anise, the an, 8, an and, the an, a, "2, and, and, 5 or and, an (, an,, (, and, (and (and, ( (in (and, and,  " 1, " and,,,,,,,, An An,, an,, an, and,:, (an:,: : [1 and: An and-0-2, ":::, (: -, and: An::, : An Anise “ and, an: " " an and [ with, with "- an, ( an- an and "- an ( ( or- -1 an " - and-and [ of a or an of and, and [ (. and and and and, ( in [, and " and,,  ( are, ( or " and, [ ( and (, an, and or and are in an ", an ( or are and an in  an  ( and an or - [ An An or an, are and,, an ( of or, or an of " of  and and an- the an,- a,, [ (,- [, ", ( an of the of a or of an or, and-  and, -an  or, or (-0 of,, ( or,  or or, and,- or in,, and,, by, of, of the, of their, of and of an and,, in,, and- by, for  and- an- and, and of the-in-1- or- or (2 of and or,- for and- ( or and of (, of an of the or, by, and and in and and for, and and and,  in- or by, ( of and,  of an and of, of or or, of,. and, W of or and, are,, and of  of and of the of  of  of, [ of, [ and and  and (, [ and in and,, and, [ and,, and and for W ( and, W ( - in and,  and,- -  in -2-1 (  ( " and, W and - -- and and, and and in, ( or- or ( and and- or or [- w " and  and- and and and in and of a of an of a of the of a and w- a- (  [ and  c and [ [ and- [ of W W of w of w  and and and and-1 and in and and  in, and and and and and- W of a and W, or and W and. and and and and, [ and ( and and W and and or, of - of of the, w,. ( and and or. in in, w- W in and and or and and, of of and of- of of  of of of- and and of- and  of W and, and, W w and- and and and, and and and and, and or w or and w c W or and m- or, ( W or of of of w of of of, of m or m and and W W and or and- W (, ( (, m and and, and and and ( and w and and and W and and and and and and and  m ( or and or ( W or ( and, and and m W and m and m and m (- and for and, w and and and and and and W and m for m and W for for for W and of W W and of w and W and and W and and and and W and and m w w W and in W- and and, W W and,, and,, and,,,, W- and (,, w and and, or, a- and- [ (,, and m of a of- [ of and and- or- of- and and and and and and W W and and, and- W m, for,-, w, (, ( and in, W W [ ( w and m- and- m w- m m- W- m m and m m m and and and- or W m- t m w- w m [ and and [ [ for (, w and a ( m and, and [ and and in m and m in (,- and- m w _ of- m of m- W or and- m of, and for m and,, m and and, m m and for m and ( of and- m and and,, and m m and m a or- m and, m and [, m ( m m- m on c,, m with of m- of and and m and and and- and and, m, and, m- m in, and and and and- m and, m m s ( or m m m m- m m m- m m in in and t m tom m, or in [,,- for- m- m m

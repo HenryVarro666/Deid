@@ -1,0 +1,1231 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2077-03-31
+
+EDVISIT^80780896^SERGIO STEVEN, FRANCESCA^03/31/77^DELACRUZ, ARMANDO
+
+I evaluated this patient independently and concur with findings
+
+as noted on the medical record, supervised the care as provided
+
+by the residents in the Emergency Department.
+
+CHIEF COMPLAINT:  In brief, this is a 74-year-old female with
+
+complaint of worsening renal function.
+
+HISTORY OF PRESENT ILLNESS:  This patient is a 74-year-old female
+
+with a history of hypertension, diabetes of type 2, and diabetic
+
+neuropathy, followed by her primary care physician, Dr. Nettles
+
+and has had worsening a diabetic control and poor p.o. intake. 
+
+The patient has had switched recently captopril dosing and also
+
+insulin dosing per Dr. Nettles. She has been eating and drinking
+
+well and has no specific complaints of fever, chills, nausea,
+
+vomiting, diarrhea, or additional symptoms.
+
+PAST MEDICAL HISTORY:  Hypertension, diabetes,
+
+hypercholesterolemia, and diabetic neuropathy.
+
+SOCIAL HISTORY:  Negative for drugs, alcohol, or tobacco.
+
+FAMILY HISTORY:  Noncontributory.
+
+PAST SURGICAL HISTORY:  CABG in 09/2074 and pacemaker placement.
+
+REVIEW OF SYSTEMS:  Significant for complaint of worsening renal
+
+function but no additional symptoms.  All other systems are
+
+reviewed and are negative as noted on the medical record.
+
+MEDICATIONS:  Numerous.  Please see the medical record.
+
+ALLERGIES:  None.
+
+PHYSICAL EXAMINATION:  Awake, alert, and oriented female in no
+
+apparent distress.  Vital signs are as noted in the medical
+
+record.  I examined this patient, and agree with physical exam
+
+findings as noted on the medical record.  Please refer to the
+
+chart.
+
+ASSESSMENT AND MEDICAL DECISION MAKING:  This is a 74-year-old
+
+female with worsening prerenal azotemia; probably dehydration,
+
+and worsening renal function and noted to have BUN in the 50 and
+
+creatinine of 2.4.
+
+PLAN:  We discussed this case with her physician, Dr. Nettles who
+
+suggest Benson admission, discuss this with Benson.  They
+
+will agree to accept the patient for IV hydration and following
+
+the renal function.
+
+PRIMARY DIAGNOSIS:  Dehydration.
+
+SECONDARY DIAGNOSIS:  Acute renal insufficiency.
+
+THIRD DIAGNOSIS:  Diabetes mellitus.
+
+______________________________
+
+DELACRUZ, ARMANDO M.D.
+
+D: 03/31/77
+
+T: 03/31/77
+
+Dictated By: DELACRUZ, ARMANDO
+
+eScription document:6-0689198 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+______________________________________
+
+______________________________________
+
+                 104062
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+______________________________________
+
+                 46535
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+______________________________________
+
+______________________________________
+
+                 40984
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          377
+
+
+
+
+
+
+
+                          333
+
+
+
+
+
+
+
+                          452
+
+
+
+
+
+
+
+                          411
+
+
+
+
+
+
+
+                          415
+
+
+
+
+
+
+
+                          409
+
+
+
+
+
+
+
+                          401
+
+
+
+
+
+
+
+                          412
+
+
+
+
+
+
+
+                          378
+
+
+
+
+
+
+
+                          334
+
+
+
+
+
+
+
+                          453
+
+
+
+
+
+
+
+                          410
+
+
+
+
+
+
+
+                          379
+
+
+
+
+
+
+
+                          335
+
+
+
+
+
+
+
+                          454
+
+
+
+
+
+
+
+                          413
+
+
+
+
+
+
+
+                          402
+
+
+
+
+
+                          465
+
+
+
+
+
+                          455
+
+
+
+
+
+
+
+                          414
+
+
+
+
+
+
+
+                          403
+
+
+
+
+
+
+
+                          336
+
+
+
+
+
+
+
+                          459
+
+
+
+
+
+
+
+                          408
+
+
+
+
+
+
+
+                          416
+
+
+
+
+
+
+
+                          406
+
+
+
+
+
+
+
+                          382
+
+
+
+
+
+
+
+                          381
+
+
+
+
+
+
+
+                          383
+
+
+
+
+
+
+
+                          337
+
+
+
+
+
+
+
+                          354
+
+
+
+
+
+
+
+                          357
+
+
+
+
+
+
+
+                          440
+
+
+
+
+
+
+
+                          441
+
+
+
+
+
+
+
+                          449
+
+
+
+
+
+
+
+                          458
+
+
+
+
+
+
+
+                          450
+
+
+
+
+
+
+
+                          442
+
+
+
+
+
+
+
+                          446
+
+
+
+
+
+
+
+                          443
+
+
+
+
+
+
+
+                          447
+
+
+
+
+
+
+
+                          448
+
+
+
+
+
+
+
+                          356
+
+
+
+
+
+
+
+                          370
+
+
+
+
+
+
+
+                          9898
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\beginces
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+to identify the patient
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+or
+
+
+
+
+
+
+
+
+
+
+or
+
+
+
+
+The [or
+
+
+
+
+or
+
+
+The patient
+
+\t
+The
+
+and
+
+orbit and
+\[…
+
+orbit\ or
+date of time, the patient, and time
+orbit,
+orbit, or patient
+orbit or patient
+
+orbit patient information
+information, information or
+
+orbit or bit or,
+
+
+and
+information, or, and patient
+
+of patient name
+or or date
+information,
+bit and bit or patient
+and the 
+and bit names and names, patient names
+
+patient name
+information, bit or name of the
+
+... information patient or patient name or the patient name
+or bit and date of date, information or patient.
+
+
+The patient name, the
+
+information of information or names.
+names, and date and name, or patient names.
+names of or 1, and names, and patient, and names, and, date of names: name, names (
+and
+
+name, or... and name, date or, and...
+and, or name and names, names and names, and, and names and or, or, and the name, names... or or or, and name... and or, or
+[, and or 1, 
+name, and names of the following the name, and name, and the name or name, and the names, and the 22: names, 1...
+and, name and names.
+orize and…
+d:...
+
+(name-name, and the... (name of [... or, … or are... or: (the (name-and the "le, and the following names, as of a orific, and the, the... (d and the (make the,
+and: the ([0 and a: 1 and... and...2, and, the are, and are, a few and...
+, (and, and the, and, (, the, are the and,
+... of the and,...
+or, (... of, 3. in the [and,1 or, or,
+and, and, and (are, 1 and, and, or, and, 2, 1, 1-and. [and (and, (and the (, the, ( and and the, [and-the-f: the [an andist with “[name and 1 "...: an and... (1 [1-3 are (1 are a-and,, an in an in 1-or-1-1 1-the, [patine and, etc.,. and. of... 1.,, 2. an and, (and [conine and, 3 and (an or and-ann, an, a or, an (ann and or, the, a and, an, an, an,, 4, (, an, an and, and an, [an and (in- an or or, an and, 2 An or, and and,, an and [in " (in,, an an and (2, "2, " and and,, and,, (le-1, an,, [an [1 [3-1-and in and an: (1 an and and of the [:: an:-1 (1-d:: an: (1:-le: :-and "1::: an:: anine with [-c [- an with an: and and or or “ are-0 or or are an are are and "-1-per and-in-of. an of “.,, or [. and, in... and or or,, [ and,, and [ or or ( (- or [ [ or ( an [ an, or in the [ [ an [ are " an an of, " an-an, -: and, [ [ in ( and or an,, an,, an an,, of the of an and of and ( an and in (- or or and, and an, in " or or an or and an of (: of  of an and [ and, in. or an an an or an an, of, in-  of  or an of or (- or in-1 0 ( and or an of and and, of of, of the of, of and of the of:,, ( in an or and- and- or or or and in  an or-  or- or  in or an of and or-2-h-1-m-h an an of or or of ( of and of and in,, and or and, and, ( an  or or, an, and, of or or of or or of an-M0, an (and or or,, (and and of anity,, and of the of, of a of of of and of and of and and,, and and. [and, [,,, and,,, and  and and and  (1 or-c -m or,, (, or.-1 of, and or and in to or to and with or in to and or an [ or in to " and, and and and and to anities in ( [ or ( or-in and and, or in " an- and in or of an in of or of of an of a-c- and and [ and, c or and and and or ( and or of or of and ": (:- and: or c: and-c-c and-cl and: (- and of a an an of  of ( and ( or and-1 or [ and or or, [- and of, of or of of ( of of the of ( ( and, [ in (, and, and- and- and (, or and of of of of of of a of  of of an-c an for and an- and and (- (. and,,  and, and and (.- or or,,-1 and of ( (,  and and- and [ ( and and and of a of  of and of- ( ( an (, ( - (,, [, (,, ( of the an of and and of and an and or or an and or- and or of [ and or- C-, for for for or and for and or ( for an and for, ( and ( and and, ( and and, or and ( and of or and and and an ( and (, and and c or w ( c, or ( and and, and or, and and (, an and and, and and and, and and and,,,, (.,,,,,,,,,,, and and, and to and to, and,,, and,, and,,, c super ( of and, of ( and (,, ( and and c- c, super-c ( and w and,,, of c and,,,.,, super, ( and- (,.- and or,, and and- m, and,, or, w [ w- [ and with c and- and- and- m- d of of an of of of (, and and, and- [ ( ( or- C,.- and (,, and, or and, super and, h or ( c, d c ( ( ( or, w, (, c or,,,, and, ( and, [. or or ( [ C, ( and- c- C and, [,, m, super ( and [ m super,,,,.- or ( (,, (,-,,, and (,,,, or, and,, and,,,, super.,, and, and, ( [,, and or,, or-1,,, ( and and,,,- L, or or, C or, and,,,,,,,

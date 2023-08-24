@@ -1,0 +1,322 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2065-07-29
+
+                     GREEN EMERGENCY DEPT VISIT
+
+ 
+
+WAGNER,LONNIE   097-87-37-2                  VISIT DATE: 07/29/65
+
+The patient was interviewed and examined by me and Dr. Chase.  
+
+Please see the note for full details.
+
+HISTORY OF PRESENTING COMPLAINT:  This patient is a very pleasant 
+
+gentleman accompanied by his wife who gives most of the history 
+
+complaining of bleeding in the right groin.  He is status post 
+
+catheterization and stent approximately two weeks.  He was recently 
+
+discharged from rehabilitation and at home his wife found the right 
+
+groin to be soaked in blood.  The patient's wife also noticed some 
+
+swelling at the site.  He has had no fevers and no chills.  He has 
+
+recently been diagnosed with myelodysplastic syndrome with white 
+
+counts in the 30's.
+
+REVIEW OF SYSTEMS:  Review of systems is notable for bleeding only. 
+
+He denies any abdominal pain.  He denies any fever or chills.  No 
+
+neurologic complaints.  No distal neurovascular complaints either.
+
+PAST MEDICAL HISTORY:  The patient's past medical history is 
+
+notable for diabetes, hypertension as well as cerebrovascular 
+
+accident, gastrointestinal bleed and myelodysplasia.  Surgeries and 
+
+procedures are as above.
+
+MEDICATIONS:  The patient's medications include Plavix and aspirin.
+
+ALLERGIES:  The patient has no allergies. 
+
+SOCIAL HISTORY AND FAMILY HISTORY:  No current tobacco or ethyl 
+
+alcohol.  He lives at home with his wife.  He has VNA services 
+
+although they are not coming tomorrow.
+
+PHYSICAL EXAMINATION:  I agree with the physical examination as 
+
+documented.  GENERAL:  The patient is an awake, alert, pleasant 
+
+male in no apparent distress.  VITAL SIGNS:  Temperature 96, pulse 
+
+56, respiratory rate 20, blood pressure 97/49, oxygen saturation 
+
+96%.  EXTREMITIES:  The right groin shows a slightly tender area 
+
+with a little bit of ooze but dried blood.  No active bleeding 
+
+right now.  Distally he has popliteal pulses.  He has bilateral 
+
+dopplerable dorsalis pedis and posterior tibial pulses.  He has 
+
+full range of motion and denies any numbness.  
+
+LABORATORY EVALUATION:  Basic laboratory studies here show a 
+
+hematocrit of 28 and a white count of 43.  His white count is up 
+
+from a baseline of about 33.  His baseline hematocrit is 30.  His 
+
+platelets are 291.  His right groin ultrasound is negative for 
+
+pseudoaneurysm or AV fistula.
+
+THERAPY RENDERED/COURSE IN ED:  The patient is being sent home.  We 
+
+are arranging VNA to follow up tomorrow.
+
+CONSULTATIONS (including PCP):  The patient's primary care 
+
+physician was called for coverage for Dr. Duong.
+
+FINAL DIAGNOSIS:  Bleeding right groin after catheterization, 
+
+resolved.
+
+DISPOSITION (including condition upon discharge):  The patient was 
+
+discharged in stable condition.
+
+___________________________________                    NU604/29497 
+
+AMANDA A. VAUGHT, M.D.     AV55                      D:07/29/65 
+
+                                                       T:07/29/65 
+
+Dictated by:  AMANDA A. VAUGHT, M.D.     AV55 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+"""
+
+# The above clinical note has been cleaned up to be more readable here.
+#
+
+### Example 7
+text_to_be_cleaned = """
+
+This clinical note describes a case of a 48-year-old woman with 
+
+a history of recurrent UTI and a urinary tract infection with 
+
+complicated by pyelonephritis, acute pyelonephritis.   24 Hrs 
+
+later, the patient was admitted to the hospital with complains of 
+
+severe abdominal pain, vomiting.  She also presented with signs and 
+
+symptoms of septic shock as follows: tachypnea, tachycardia. She 
+
+also complains of fever, abdominal pain, vomiting, and diarrhea. 
+
+She is afebrile.  She is also complaining of chills and rigors. 
+ 
+The patient also reported that she is having severe back pain, 
+ 
+severe abdominal pain, and abdominal tenderness.
+
+### Example 9
+test_case_name = 'Example 9'
+text_to_be_cleaned = """
+
+    This is a clinical note describing a 52-year-old male who is
+    brought by a relative with severe abdominal pain. He complains of
+    vomiting 5 times in a 4 hour period. He was seen by a different 
+    physician who noted a fever and severe abdominal pain. 
+
+
+    The patient denies any nausea or vomiting. He also denies
+    hematochezia, melena, hematospermia, or hemorrhoids. He denies 
+    any urinary complaints such as dysuria or frequent urination. The 
+    patient also denies a history of trauma, recent hospitalization or
+    inpatient stay at the hospital within the last year. 
+
+    
+
+    The patient states that he has had some pain over the last couple 
+    of days. He reports that he had pain at the beginning of this 
+    month and the pain was not that severe. He also noted that 
+    yesterday, he had an upset stomach and he took some Ibuprophen
+    which helped a little with the pain. He denied any history of 
+    constipation but he did have a history of chronic constipation 
+    in the past.
+
+
+    The patient had no history of surgery within the last 5 years, no 
+    recent travel within the last 6 months and no history of 
+    substance use.
+
+
+    The patient's vital signs were stable on presentation. His 
+    temperature was 102.6 Fahrenheit, heart rate 84 beats per 
+    minute, respiratory rate 12 breaths per minute, and blood 
+    pressure 147/87 mm/ Hg. On examination, he is in severe 
+    pain and his abdomen is very tender. His pulse, temperature, 
+    respiratory rate, blood pressure, and heart rate were stable 
+    on admission.
+    """
+
+
+### Example 10
+test_case_name = 'Example 10'
+text_to_be_cleaned = """
+
+    This is a clinical note describing a clinic visit for a 
+    routine checkup
+
+
+    This is a clinic visit for a routine checkup
+
+
+    This is a clinic visit for a routine checkup
+
+
+    This is a clinic visit for a routine checkup
+
+
+    This is a clinic visit for a routine checkup
+
+    """.replace('\n', '').replace('\r', '')
+
+
+test_cases = {
+    'Example 11': 'This is a clinical note describing a clinic visit\n',
+    'Example 12': 'This is a clinical note describing a clinic visit\n',
+    'Example 13': 'This is a clinical note describing a clinic visit\n',
+    'Example 14': 'This is a clinical note describing a clinic visit\n',
+    'Example 15': 'This is a clinical note describing a clinic visit\n',
+    'Example 6': 'This is a clinic note describing a clinic visit\n',
+    'Example 7': 'This is a clinic note describing a clinic visit\n',
+    'Example 8': 'This is a clinic note describing a clinic visit\n',
+    'Example 9': 'This is a clinic visit\n',
+    'Example 10': \n',
+    'Example 11': \n',
+    'Example 22:
+    'Example 1:
+    Example 
+    Example 3:  
+   
+... 
+    Example,
+    Example, 
+    Example: 
+
+   
+    Example: 
+    and/Example,
+        Example,
+            or
+Example, and so
+Example:,
+   12 or
+            Example,
+Example 
+
+
+Example,
+Example
+Date, 
+
+
+Date,
+date, Example
+Example,
+
+
+
+
+Example, Example 
+
+\Example, or example, etc
+Date, 
+Example.
+Example of
+Example, Example
+Example, and date, etc,
+Example
+
+Date, and, Example date,
+
+Example and the 
+Example
+
+, 
+Example
+
+Example 5
+
+Example,
+
+Example, Example of date:
+Date or date
+Example 
+Example, but the date
+example and date...
+The  names. 
+let date, the patient name (or names,
+
+Date or patient
+Example,
+
+Date
+Example, date. 
+Example.
+
+
+Example, 
+The date 
+The
+example of the date codes and date, but the name and date, the doctor (
+
+The [… (or the date, or the following,...
+
+
+and (are the following, or were the name.
+
+A, and
+(and the date, and identify and the patient, patient data...
+15.
+
+(d.
+
+
+the following:
+(1 and the [1.
+1: 0…the and a, 52... (0...
+The... (are: 32...are are 1 and include of the [the [the...the, the [or, the (15 (le (or: or, remove, and...
+or: or and, the, the, and a [are, but [(the or the and the 1 and (and the …and the and 131 and "1 and ( 5, 1 and [and: (and, and, 1, the, and are the and 
+
+...,, or, and, and, a, and [1 (, and, (
+1, the and, the, or, and are, a. 3 and, or, and 2 and are the, and, and are, (and, and the (2, 1 of your, 2, an patient and 1-1-1-
+dokays with a: 9... an:
+an 21:1 and are [
+[1 in are a and indicate the 0-and, 0 "
+or "an "1 or, 3, 4, and. (1. (c of the "and or and, (, the, the, the and and and are, and, an are the or or-1-an, 3, "an and, the " an, 4, 2, an, 9. an and the and, and and, the 3  and and the, and, 9, 9 and and, " of [2 and, 1 or, an, 1 and 9 (le, 1, and, (and, and, 2, but the, 1, an, [and, "an, an "an, 1-9 of the an: and and of a, "2-60-1-9- 1-the- : the: ( (: an [2 [: An:: or and:-an with an " an: an- and: an or or: ( and ( or or or " are ( an- are "an [mas,-an and-and or of " an of [. an. an and in [and in and (2,, or or, or [  ( ( [ ( and or,, [ ([ an [2, an- or [ [--an ( an an [ an,-  an- and and  and in  and [,,  an or or in, and of " ( of the of the of a an or and, or, and, -and and- or in the and and of - of a [ of and of " an and- an  and [0  an are  and, an  of an-  of a of the or in an [ or  an-  and -  or, [ of  of an of the, an of an an of  an, or by an  and- and and- or by- and in  or  an of a in  an- [1 an of 1- - and and-2,,, and, and, an and of the, and and in, the, ( ( and ( and,  an or " or in  and, of the or or of the  of  of a- an and-0 and  or an or  (, of an of  of  of of the of [ of of the [, of  and, of, and,, [,, and ( and- and, or and  [2 ( and-1-3  or- (-1- and- and and-and- an- and- and  ( (-h-  or an and ( or,-c and  [ and or in  or or or ( with  or  with an with and an -1 of with  with - and of the an  or or and-1 c with ( and in and with " or and and- and of the-  and ( and and of the ( t (. and "  and in. and ( in or and in- -1 of an or- - - 2-1 and or " and [ or,, and and of the of of or of or of  of the and of our and and, w- and and in for in and- as, ( and of of of of  and of w of of and of  as of,,, and-0-2 ( and, and and and in  in (2 or (1-  and  and w in  w in, [ and and and and or and,- of- of ( of and w of and  and- or ( and  and, (- an an an (  of of and of or-  and an and, and ( and,  and are, and  and  and and or of and and ( and ( and or an and, and and,,, c an are an c, c, (, [ and ( and and,  or, ( and and, and, c of an or and or and and ( and and and and and and and,, (, ( w and  and in ( and and or and and,, and,,,, for,, as (  and and, and ( and, (,, are, and, and, and, ( or and and in and or,- or and ( c and as and ( and, and and ( and and c ( of a, and,, and,,, and and  and - and and and in and, and and ( ( and [-  and- and c to and c and and-c- and- are and c in ( as t of ( and in, ( and ( and and as in ( and or [ or in and ( and and and, _ of and and and, [ and and or in-1  and  and- as and and to and and and (, and and and and ( or and and ( and as, as, and  and to and- and and, and and in and - to and, or and and and and t, and, a- and in-1- a b t and and and, and, and or is and,, and as in or and and and, and and and are- and-  and and and and, and and, and, and t and and or and  (- and- and and an and-1 ( and,, and and and, and

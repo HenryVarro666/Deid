@@ -1,0 +1,886 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2088-06-24
+
+                                                       Patient Name: CHAPMAN,NOOR [ MRN: 45479406HBMC ]
+
+                                                         Date of Visit: 6/24/2088
+
+
+
+
+
+
+
+
+
+Chief Complaint	
+
+Mrs Chapman  is here today to follow up on HTN, DM
+
+
+
+History of Present Illness	
+
+She has been feeling well. Seen by orthopedics few days ago for shopulder pain. Offered steroid injection but she declined. Instead started NSAIDs and will follow up in 4 weeks.
+
+Still has pain on her left shoulder.
+
+She is checking glucose sometimes and has been in the high 90s. Not taking Metformin for 1 month, was told insurance won't pay for it.
+
+Has been doing well overall. Eye exam scheduled for next month
+
+Depression is stable. 
+
+Taking all her meds as directed
+
+Needs refills for meds
+
+Walking 1 hour every day
+
+
+
+
+
+Review of Systems	
+
+C/P: Denies PND, orthopnea
+
+General: Denies fever, chills
+
+HEENT : No cold sx
+
+GI : Denies nausea, vomiting, diarrhea. 
+
+Psych: follow with therapist and psychiatry. Taking all her psych meds
+
+GU: Denies dysuria, polyuria
+
+Neuro: headaches 
+
+Skin : no rashes
+
+All other systems negative
+
+
+
+Problems
+
+ASTHMA 
+
+HYPERTENSION 
+
+INSOMNIA 
+
+SCHIZOPHRENIA 
+
+DIABETES MELLITUS 
+
+10/08/85 R breast u/s with likely lipoma and simple cyst at 8 o'clock, repeat u/s in 6 months and mammography in 01/2086 
+
+Renal mass 
+
+OBESITY : Type 3 - BMI 44 
+
+
+
+
+
+Allergies
+
+NKA 
+
+
+
+
+
+Medications
+
+ATENOLOL   100MG TABLET  take 1  PO  QD 
+
+ATIVAN (LORAZEPAM)   1MG TABLET  take 1 Tablet(s) PO 
+
+CALCIUM CARBONATE  1250 MG (1.25G TABLET) PO  QD 
+
+CLOBETASOL PROPIONATE 0.05% 1 APPLICATION  TOP  BID 
+
+ECASA (ASPIRIN ENTERIC COATED)   325MG TABLET EC  take 1 Tablet(s) PO  QD 
+
+IBUPROFEN 800 MG  PO  TID PRN shoulder pain
+
+LIPITOR (ATORVASTATIN)   10MG TABLET  take 1 Tablet(s) PO  QD 
+
+LISINOPRIL   40MG TABLET  take 1  PO  QD 
+
+METFORMIN   500MG TABLET  take 1  PO  BID (Not taking it)
+
+MULTIVITAMINS 1 CAPSULE  PO  QD 
+
+NASACORT 2 PUFF  NA  QHS , 2 puffs in each nostril QHS
+
+PAXIL 40 MG  PO  QHS 
+
+PREMARIN (CONJUGATED ESTROGENS) 1 GM  PV  Q72H 
+
+SERZONE (NEFAZODONE)   100MG TABLET  take 1 Tablet(s) PO  QHS 
+
+VENTOLIN 2 PUFF  INH  QID PRN Shortness of breath, PRN
+
+ZYPREXA (OLANZAPINE)   7.5MG TABLET  take 1 Tablet(s) PO  QHS 
+
+
+
+
+
+
+
+Vital Signs
+
+ Blood Pressure:  --  140/80  [Left Arm]  [Sitting]
+ Pulse:  --  68  [Regular]  [Radial]
+ Respiratory Rate:  --  14  [Regular]
+ Weight:  --  225  [Pounds]
+
+
+
+
+Physical Exam	
+
+Alert, in no distress obese
+
+HEENT :  PEERL, EOMI, oral mucosa moist, no lesions, Throat: clear, no plaques, exudates or erythema.
+
+Neck : supple, no masses or nodes, no JVD.
+
+Lungs: clear anteriorly and posteriroly to auscultation, no rhonchi, crackles or wheezes
+
+Heart: regular,. S1S2 normal, no S3 or murmurs
+
+Abdomen: soft, no tenderness, no masses no organomegalies BS(+), no rebound
+
+Ext: no edema, normal skin
+
+Feet exam: thick toenails, good DP, good capillary filling, normal microfillament test 
+
+
+
+Assessment/Plan	
+
+1.  HYPERTENSION
+
+Well controlled on current therapy
+
+Atenolol to 100 mg QD # 30 and 6 refills
+
+Lisinopril 40 mg QD # 30 and 6 refills
+
+
+
+2. DIABETES MELLITUS
+
+On Metformin 500 mg BID # 60 and 6 refills. AllMed Insurance covers for it
+
+Check glucose QAM
+
+Recomm low fat and low carb diet and increase physical activity, continue walking QD
+
+Last HbA1C in 5/88 7.4
+
+LDL 69 5/88
+Lipitor 10 mg QHS # 30 and 6 refills
+
+Needs eye exam
+
+
+
+3. ASTHMA
+
+Stable for months 
+
+
+
+
+
+See me in  4 months
+
+
+
+
+
+
+
+______________________________                              
+
+
+
+Cynthia Nancy-Nesmith, M.D.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+__________________________________                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________________________                                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+___________________________ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+125
+
+
+
+
+
+
+
+ 2334
+
+
+
+
+
+65
+
+
+
+
+
+
+
+
+and
+
+
+
+
+and
+
+the number
+
+the number
+
+the
+1
+and the
+
+the
+is
+15
+the
+1
+16the
+the
+
+1
+the number15
+or the
+
+the
+
+the numbered 921
+The numbers
+the
+the 1,21
+123
+12 12122121210, 12122120 the 121212012 numbers of the 112 numbers and the number of the numbered the numbers and 2 numbers12 0, 1 12. 1210120s the numbers, 2 the numbers of the numbers of 2,11 names, 1, 2 numbers, 23, 2 and 2 the date.
+1
+the patient of the letter
+12 numbers12312 numbers
+1.
+name of numbers
+
+
+the 12
+names, numbers of patient names and date numbers
+or names the names and the names
+names: the numbers of the patient numbers the patient  and names.
+
+1. the name.
+the names
+the 1, including the name, and names...
+
+or name, the names, the names or name and the name
+
+,...the names, and the [the [the 
+(...the 225 are
+and or [111- the 2...the patient names, the patient...
+and names, butted... name, 4, 1, names and the 1:
+10……
+the......andist and the,...: the...and the...
+are (are orifically or 
+are-1 and the 32 (... 
+or are: the... 1 are... (the, remove (... and (the following, the “(the and (...,the: [
+[1, the 
+
+
+...
+... 10: " and the, 1, the, and, include 1, but are and are (1 (and (1 and the...
+
+, as, a,...
+...
+... the, or, or and, the and, and, [[, and or and, 2, 2, 0, and, 1, 5. and are...and, and, and, are and (1, and, and and 0, [[, the and and the, and, an and, and the 1, the: [...
+make:... 1.
+10...and 1.… 0... 1 1 [are are [ are...
+... are, 11 in  and, [and or..., the, an [le, the and..., [. An of the, (. of the and., and, [, a, an, an, or, an, are, are an might (an, an, the...1, an, the-le, an-c, and, [. an... an, of,,  and, an, [ an, of  and, or, and an, [, as, or, and an, or of ( ( an,,, and, the and and,, an, an, an, an, an (an of the, " an ( an, An, ( an,, an, and, an, an (and, an, and or, an: and of [ an ( an, : [1 and: ( " An: the ( [:: an: an: and: " " ( or... [ an: an an... [ an ( an an with the: an, - of an- an " an [  are- ( and or- an an are or are, or an or, of of of the an an or, an ( and,,, and, and or an. in, and in in and and in [, and an or or and. in an- and (, and... and- an are,, and  an - an,  " and,  an, and [ an - are and  - and of an are and are an of  of ( of an an- or ( and an, -, in (., - and, for and for, of " an of an and of, an  and and an an or and,, in, for, for or of an or for an or an or or,- or  or (,,  and - or and of, of the of the of of: of and of the, [,  -  or ( and are and  and ( and an- or an - and for, in and in or, of or, an an of and or- [, ( ( an for  and for for for and or. and for an or for, for for an, and for for,. for, ( or ( or. of for ( of for an  an  or of-1- for or [, and, ( and and, (,, of, of of of, ( of for of  and of for, an and and and, ( and,, ( and, an,, - or,, -  or  and- ( in - C., - - - - -   C and and or, C, or and,  C an - C C, [, or  or - - or or or C or ( and   C  and - and  for ( - ( or ( and or and of or (,  and c  ( c, (. c and, and- A- and  - - c c. ( or and - C and and: - : c. ( :  or C and and of a and - and  for " c  ( [ c. and  or and and and,.  of of ( and  of  or  and,..,,  or  and or or and  C  ( ( (,, C, 1 C.  and and 1 - C C, (,  and, ( ( for an and or (, and,  ( and, and. [  for,  and, C,  [  and ( M and c  and and of ( ( and  A H C An  ( A A  ( ( and, (,.  of and and ( C.  ( and, and ( and A  M ( ( ( A An, and  and and and (, and and (,  A - H ( ( c,,, and.  or [ (, in ( ( or (,, , and and, [  and  or (  -  in and  for  and,,    ( ( for  and C,,, C (,, C in, ( for., and  for ( ( or  ,  and,  ( W for.  (  ( A a a  C ( C (  M A C W C E ( ( M, (, C  C, of,,,  and C and , C N W or  C for in and for, [  A A  for for [  for in for  (  [ [ B [ and I M M or M [ and C and and, ( ( m ( and ( ( ( C and  P C and [ A (  C M M  a ( C C ( ( a  M 0 [ C C  A [  a [ C, and ( [ A C,   (  and  and C and, [, C, and, in ( and, (, a M C C  M M a M and a M,  M  M ( m m. M. M, a C, M m c and and , M. T - C  ( m and C and or and m. M m and M M M M ( M M M I M M   M C,  and M m and M M, C C ( M or, or,  M and and a

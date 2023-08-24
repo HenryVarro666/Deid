@@ -1,0 +1,219 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2063-12-13
+
+
+
+
+NAME:     Umphrey, Tammy 
+MRN:       0942207
+
+The patient is here as a walk-in.  Her spouse is present.
+
+Patient says she is status post a fall this past Monday at home.  Says that she seems
+to have lost her balance while opening a door at home.  Denies prodromal
+symptoms including shortness of breath, dizziness, or palpitations.  There was no
+loss of consciousness.  Patient was seen in the emergency room that day for trauma
+to the head.  Had a negative CT of her head and had an x-ray of her pelvis, as she
+complained of some hip pain.  Both studies were negative.  Patient was then sent
+home with Roxicet.  Patient was seen in the walk-in clinic at CPI yesterday, after
+noticing a swollen tongue and some difficulty swallowing.  Patient was immediately
+told to stop both her Roxicet and Monopril and was treated for angioedema with
+Zantac and Claritin.  Today patient has no further throat tightness or tongue
+swelling.  She is, however, uncomfortable continuing the Effexor for unclear
+reasons and wants to stop it.
+
+Patient is also complaining of severe low back pain, which she says has persisted
+since her fall on Monday.  Did not have an x-ray of the area.  Says it is very painful
+to sit.  Roxicet was not helping.  She is off her Ultram as well.
+
+PHYSICAL EXAM:  WD/overweight female in NAD.  Vital signs as per LMR,
+WNL.  Weight 213 pounds. 
+
+Lungs - clear bilateral breath sounds.  Cor - RRR, S1, S2, without murmur or S3
+noted.  Back - slightly bent gait.  Tenderness over lower sacrum.  No asymmetry or
+obvious deformity.  
+
+X-ray of sacrum 12/13/63 - could not see fracture as per my reading.
+
+ASSESSMENT AND PLAN:  
+
+(1)  Angioedema.  Agree that most likely culprits are Roxicet since it was started
+     only two days ago, and ACE inhibitors which have been associated with
+     angioedema.  Currently on Lopressor and Dyazide, patient's blood pressure
+     is WNL.  So will follow for now.
+
+(2)  Low back pain.  Reviewed the possibility of a coccygeal fracture for which
+     treatment would not be any different than pain management and a donut
+     pillow.  Patient was given a prescription for the pillow.  She was told to look
+     out for signs of nerve compression and to go to the ER if she experienced
+     any perianal numbness or incontinence.  Will notify patient by phone if x-ray
+     shows a fracture. 
+
+(3)  Depression.  Did not feel I was able to speak freely in front of the patient's
+     spouse.  Had been put on the Effexor by Dr. Zeman.  Advised patient to let
+     her psychiatrist know that we are tapering her off of the Effexor.  Will take
+     25 mg q.o.d. for the next week.  
+
+(4)  Pain control.  Will switch from Vicodin to Vicodin ES 1 q. 6 as needed. 
+     Knows to go to ER if experiences any symptoms consistent with angioedema.
+
+Return to clinic in approximately one month.
+
+
+
+Susan Ullom, M.D.
+
+SU/utz/rankin
+ 
+
+
+
+
+*/
+package pw.edu.ccsu.cs341.fragments;
+import com.example.pw.edu.ccsu.cs341.FragmentList.Fragment;
+import com.example.pw.edu.ccsu.cs341.FragmentList.FragmentManager;
+import com.example.pw.edu.ccsu.cs341.FragmentList.FragmentManagerListener;
+import com.example.pw.edu.ccsu.cs341.FragmentList.FragmentPager;
+import com.example.pw.edu.ccsu.cs341.FragmentList.FragmentPagerAdapter;
+import com.example.pw.edu.ccsu.cs341.FragmentList.FragmentPagerFragment;
+import com.example.pw.edu.ccsu.cs341.FragmentList.FragmentTab;
+import com.example.pw.edu.ccsu.cs341.FragmentList.FragmentTabFragment;
+import com.example.pw.edu.ccsu.cs341.FragmentList.FragmentTabList;
+import com.example.pw.edu.ccsu.cs341.FragmentList.FragmentTabListFragment;
+import com.example.pw.edu.ccsu.cs341.FragmentList.FragmentTabListListener;
+import com.example.pw.edu.ccsu.cs341.FragmentList.FragmentTabManager;
+import com.example.pw.edu.ccsu.cs341.FragmentList.FragmentTabManagerListener;
+import com.example.pw.edu.ccsu.cs341.FragmentList.FragmentTabPager;
+import com.example.pw.edu.ccsu.cs341.FragmentList.FragmentTabPagerAdapter;
+import com.example.pw.edu.ccsu.cs341.FragmentList.TabListFragment;
+import com.example.pw.edu.ccsu.cs341.FragmentList.TabListFragment.FragmentTabListFragmentListener;
+import com.example.pw.edu.ccsu.cs341.FragmentList.TabListFragment.ListFragmentAdapter;
+
+import com.example.pw.edu.ccsu.cs341.FragmentList.TabPagerFragment;
+import com.example.pw.edu.ccsu.cs341.FragmentList.TabPagerFragment.FragmentPagerFragment;
+import com.example.pw.edu.ccsu.cs341.FragmentList.TabPagerFragment.FragmentTabListFragment;
+import com.example.pw.edu.ccsu.cs341.FragmentList.TabPagerFragment.FragmentTabListener;
+import com.example.pw.edu.ccsu.cs341.FragmentList.TabPagerFragment.PageFragmentAdapter;
+import com.example.pw.edu.ccsu.cs341.FragmentList.TabPagerFragmentAdapter.FragmentPagerFragmentAdapter;
+import com.example.pw.edu.ccsu.cs341.FragmentList.TabPagerFragmentAdapter.FragmentTabAdapter;
+
+import com.example.pw.edu.ccsu.cs341.FragmentList.TabPagerList;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentPagerAdapter;
+import android.support.v4.app.FragmentTransaction;
+import android.support.v4.view.PagerAdapter;
+import android.support.v4.view.ViewPager;
+import android.support.v4.view.ViewPager.OnPageChangeListener;
+import android.util.SparseArray;
+import android.view.ViewGroup;
+import android.widget.Toast;
+
+
+public class FragmentList {
+
+	// List fragments
+	private static final SparseArray<Fragment> fragmentList = 
+			new SparseArray<Fragment>();
+	// List tab pages
+	private static final SparseArray<FragmentList> tabList = 
+			new SparseArray<FragmentList>();
+	
+	// List of fragments that are in view
+	public static final SparseArray<Fragment> viewFragments = 
+		new SparseArray<Fragment>();
+	
+	// List of tab pages that are in view
+	public static final SparseArray<FragmentList> viewTabPages =
+			new SparseArray<FragmentList>();
+	
+	
+// ---------------------------------------------------------
+// 																	
+// ---------------------------------------------------------
+// 						ListFragmentList Class
+// ---------------------------------------------------------
+
+	/**
+	 * List of fragment list class.
+	 */
+	public class ListFragmentList extends FragmentList {
+
+		// Constructs a new FragmentList with the given name.
+
+		public ListFragmentList(String name) {
+			super(name);
+		}
+
+		// Constructs a new FragmentList with the given tag.
+		public ListFragmentList(String tabTag) {
+			super(tabTag);
+		}
+
+		// Creates the list fragment.
+
+		@Override
+		protected Fragment createFragment(String fragmentTag) {
+			// Creates a new Fragment.
+			TabListFragmentFragment f = 
+					new TabListFragmentFragment();
+			return f;
+//			return super.createFragment(fragmentTag);
+		}
+
+		// Called when the tab pane is clicked.
+
+		@Override
+		public void onTabClick(Tab pane, Fragment fragmentFragment) {
+				// Creates a new Fragment.
+	}
+
+// Creates a new FragmentTransaction(Transaction() is called when a new Fragment() FragmentTransaction() is called 
+						22/11/9
+								2/11
+							
+
+		2/100 11/223
+	22/23
+2/111/2 11/1110/11 20 0 119 13, 2.  2 days. The 111, 2.2 20
+111
+11/1 111/111/1. 1/111/11 with 1
+111 1111 day/110 11/11 11/110 1 day 11 day 111 1 day.
+111 11/1
+
+She. (111111 111-2. 10/11-1/1 4, 111.
+10 11 day.
+1.
+1
+122/111.
+day 1 day 2.
+
+The 1. 16115-10
+141
+
+
+The 100
+1.
+The, with the day.
+The due, 13, 10.
+111.
+(15.
+The today. She today. In date, as the day. In the day, but today. 5, or a (the. This and a. 110 and, but and a, not.. There and 0. The. 8. The and the date
+It'A. 10
+The and an
+
+
+Bir (2, 07,12. The 112:  ive... a week last:...last, and 
+19. 1 and a 
+17, and Monday Monday Wedues Sunday: week week.1353719128 and the [11.
+[ and 2.
+ and the of 9 and of  of of an of date 60.0 and the 3. 3:. [2, a of the of the of itian and the, and  and 2 and ime (perically..1025 but and. 1 and the (perile and a of a of the  of theness of a "of of a of a of her of a of the and and and 19 in a and the... 3 and a.1 day.24399. 114. An day of the and avert. on the and a and a and 110505117-22-1. in a for the “and and a,. as an and the. but,2-per and.
+week and day and weekend day. 732-12-she as the "1 "day in " and the.. and "1. and a. anight (f of the and 1 of anien and a. 0. 1 and an "d a " a and is.. [de by a for day and day for the day and (3nd -day and. and “. but a “and of the of a of a of a. and the  for a ". ( and " on the for the (the (.. on a (.  in the ".  " in the for the: an. ". for a for the of a of a. and and the: " in the  and day in the and a and a. and ". and a for the and and. 2-in. 1-1, [her, the [her for her. her. an  and her.-she, the an " [ and the [ (-a [ and  [, [, [ [ after a of  ".  [ " ".  and-her-c-she " and,. or  an of an of an of an-d and-t- and and  " ( but. and [. or... of  and and, last and after the day, last day last.-1 "-day. and for the and in ", day “-day on day " on on for " day  and,. and. and  “ ( (. an (. an and an-to-day ( and ( " after for “ and but and “ and, of the of of of. of of or of a, on a on for for the “ for " and " for and and for the, and or and ". [ to the. and “ and “-  and [. to of the to or to to of to of of or of of of of of,,, the and she of the, of of of.,, of,, and,, ",, [ ( and and,,.,,, and. ( " and, and and and. and, or. of a of an of an,.. and as “.,.... “ and is as. and,. as. or. a ( and (-day " ".  a C ". " and ( in of and of of the of of of the of of of the and ". that and, the. and in " and. and of and of of. of " and and as... and as C " C " and at for ( and " and and and, ".,. "-. and the and, the. [ or " of  and and and of the of the to [ to to to. and " W W. " of W of W of the to. to her to W to to to and to the ( W ", W she and W. W (. and and or and [ (. or. (., and ( and  in her in her and-f-her of the " of " " of  W- W. and, W or. and " W and “ and, ( W. ( or and and., " ". or “,. " and and. or. and “ W-p and ( and or-t.. " and.,... and,. (. of,,,, and and, and " her and,,, " on. and or.. ".-t and and and,. and- and to, and of the  a -t and " in " of, of " in [ of the ( and of " of the of of, of the of the of and of of in, a.  and " in to and and. and.. and- and to and ( to and to ( and for and, and of ( W and to [, " and and " W for " or and and for and for for of and. and and and and " and. W to and ", and " and and and of and and.. and and and., or and, and. W C to, and,, or " of or and.. or. and, and of and of " of of of of of " W and- and and W,.. to " and.. and,. or " ". " w and W W " W W, W and W " ". and and W or, c and or and or of, W of of in of or W of “ of  of of of and to of " or to to to and " to C and “ and-t and ",-c-c. to.. and to " in to or. ( of, of and “ of "- W. to c or.. or of and to if of and or to " W, to “ to and to “. for W- for W-h. and, and.., w and “ if of and of C of, if " and.-de-1 of of of of of C to ( W and to. C- W and F. of W and " C " and to W or. c,. C ( and C and of of. of of of and of " or and "

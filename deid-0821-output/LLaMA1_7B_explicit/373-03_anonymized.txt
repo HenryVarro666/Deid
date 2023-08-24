@@ -1,0 +1,445 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2086-09-24
+
+                                                       Patient Name: JIMENEZ,YOUSSEF I [ 0554733(LCH) ] 
+
+                                                         Date of Visit: 09/24/2086
+
+
+
+
+
+Reason for Visit
+
+New primary care
+
+Former: Wesley Carroll MD, Seminole, RI
+
+
+
+
+
+
+
+Chief Complaint
+
+"Slowing down"
+
+ 
+
+
+
+
+
+History of Present Illness
+
+
+
+Accompanied by daughter and wife, from whom he is separated.
+
+Complex history.  Family has noted slowing mobility, memory difficulties, change in speech, over past year.  Has remote hx stroke.  No specific recent TIA symptoms.  Still driving but mostly during the day though has gotten lost.  No recent accidents.  Gets help from family with some IADL's.  No safety concerns around meds, household issues.  Gait noted to be slower and more deliberate.  No falls.  No tremor, sz hx.  No etoh consumption.
+
+
+
+
+
+Problems
+
+      Hypertension
+
+      Congestive heart failure
+
+      Cerebrovascular accident
+
+      Hyperlipidemia
+
+      Atrial fibrillation
+
+      Diabetes mellitus type 2
+
+      Hodgkins disease    : Followed by Dr. Ernest Byers
+
+      Hyperplastic polyp
+
+      Thyroid nodule    : Negative biopsy
+
+      Abdominal aortic aneurysm
+
+
+
+Medications
+
+      Calcium + D (500 Elem. Ca) (CALCIUM Carbonate 1250 Mg (500MG Elem Ca)/ Vit D 200 Iu))   1 TAB (500MG-200 TABLET ) PO QD 
+
+      Cardizem Cd (DILTIAZEM Cd (24 Hr Caps))   300 MG (300MG CAP.SR 24H take 1) PO QD 
+
+      Coumadin (WARFARIN Sodium)   6 MG (6MG TABLET take 1) PO QPM 
+
+      DIGOXIN   0.25 MG (0.25MG TABLET take 1) PO QD 
+
+      Doxazosin (DOXAZOSIN)   1 MG (1MG TABLET take 1) PO q hs 
+
+      Folate (FOLIC Acid)   1MG TABLET take 1 Tablet(s) PO QD 
+
+      Glucovance (GLYBURIDE/METFORMIN)   5/500 MG PO BID 
+
+      Lasix (FUROSEMIDE)   20 MG (20MG TABLET take 1) PO QD 
+
+      Metoprolol Tartrate   50 MG (50MG TABLET take 1) PO QD 
+
+      Potassium Chloride Sustained Release Tab   40 MEQ (10MEQ TABLET SA take 4) PO QD 
+
+      Prinivil (LISINOPRIL)   40 MG (40MG TABLET take 1) PO QD 
+
+      Zocor (SIMVASTATIN)   80 MG (80MG TABLET take 1) PO QHS 
+
+
+
+Allergies
+
+      NKA
+
+
+
+Past Medical History
+
+Reviewed electronic data
+
+Reviewed old records
+
+See problem list
+
+
+
+Preventive Health History
+
+See Health Maint.
+
+
+
+Family History
+
+Mother- Died age 89
+
+Father-Died age 76 Colon cancer
+
+Siblings-Sister at age 80 dementia/pneumonia
+
+
+
+
+
+Social History
+
+Retired  network operator/Craftperson in Amman.
+
+Formal education level attained- HS
+
+Lives alone in private home near wife and daughters.
+
+Likes the library.
+
+Needs no help with basic activities of daily living
+
+Smoking cigarettes- See Health Maintenance (HM) or Problem List (PL)
+
+Alcohol- 
+
+Advance Directives- See HM
+
+
+
+
+
+Review of Systems
+
+CONSTITUTIONAL: Appetite good
+
+PAIN: None
+
+SKIN: Spot on nose
+
+EYES: No change in vision
+
+HENT: No sores
+
+HEARING: Adequate
+
+LYMPH: No swellings
+
+BREASTS: Inconsistent self-exam
+
+RESP.: No cough
+
+CVS: No PND, exertional chest pain, claudication. 
+
+GI: No dyspepsia, constipation 
+
+GU: Occ.  incontinence, nocturia x 3
+
+MSK: No joint pain, falls
+
+ENDO: No heat or cold intolerance
+
+PSYCH: No anxiety, depression 
+
+Change in behavior or personality
+
+
+
+
+
+Vital Signs
+
+      BLOOD PRESSURE   168/64 
+
+      PULSE   60 
+
+      RESPIRATORY RATE   16 
+
+      TEMPERATURE   99.2 F
+
+      HEIGHT   70.5 in
+
+      WEIGHT   171.6 lb
+
+      BMI   24.3 
+
+
+
+Physical Exam
+
+      General Appearance
+
+Alert, no distress.
+
+      Skin
+
+6mm nodule with central ulceration bridge of nose.  Actinic keratoses of scalp.
+
+      HEENT
+
+HENT: Canals clear, tympanic membranes intact, oropharynx benign
+
+      Neck
+
+L thyroid nodule 1cm
+
+      Nodes/Lymphatic
+
+No cervical, supraclavicular, axillary adenopathy
+
+      Breast
+
+No masses
+
+      Chest
+
+No dullness, crackles or wheezes
+
+      Cor/Cardiac
+
+Regular rate and rhythm, . No gallop. L carotid bruit. Posterior tibial pulses full, no edema
+
+      Abdomen
+
+Bowel sounds present, non-tender, no organomegaly, no masses
+
+      Rectal Exam
+
+No masses, brown heme negative stool
+
+      Genito-Urinary
+
+No prostate nodules, no testicular or penile lesions
+
+      Musc Skel
+
+Full shoulder range of motion, hip internal rotation; no knee effusions
+
+      Feet
+
+Dec. vibration sense in stocking distribution.  Mild dec. pp.  No Deformities: Gait/balance disorder- yes / no
+
+
+
+      Neurological
+
+EOM's intact, no pronator drift, dysmmetria, increased tone R>L, Bilat Babinski, ankle jerks abset; gait with normal speed and en bloc turn, dec. step height; cogent conversation, language fluent but brief contextual responses.  No aphasia.  Significant visuospatial disorganization. 2/6 at 5 mins. Moderate executive dysfunction.  Mild perseveration. No frontal signs.  No agnosia.
+
+
+
+MSE: See separate note from today
+
+      Psych
+
+Euthymic
+
+
+
+Assessment and Plan
+
+
+
+Old records requested.
+
+
+
+Numerous issues.
+
+Diabetes.  Check glycohgb, microalbumin.  Podiatry and ophthalmology evals.
+
+Cognitive dysfunction.  Suspect on vascular basis given prior stroke and longstanding severe HTN with small vessel disease.  Plan MRI of brain for further characterization
+
+? SCCA of nose.  Derm referral.
+
+L carotid bruit.  Given known cerebrovascular disease needs NICS 
+
+Cardiac.  Obtain old records from cardiologist.  Recent ECHO and stress evals.
+
+Voiding dysfunction.  Check psa.  Likely BPH but could relate in part to cognitive issues.  Begin alpha blocker as he needs better BP control as well.
+
+Return in
+
+mo.
+
+level
+
+minutes
+
+
+
+
+
+
+
+
+
+********************  Confidentiality notice ************************ 
+
+  This electronic, facsimile, or mail transmission may contain confidential information which
+
+is protected by physician/patient privilege.  This information is intended
+
+only for the use of the individuals or entities named above. 
+
+
+
+  If you are not an intended recipient, you are hereby notified that any
+
+disclosure, copying, or distribution of this information is strictly
+
+prohibited by law. If you have received this transmission in error, please 
+
+notify us by telephone at once.
+
+
+
+______________________________
+
+William B. Dodd, M.D.
+
+
+
+or a letter.
+letters, and you, etc.
+the following
+
+or
+ 
+[1
+
+
+
+
+name of the 
+and, 
+and 
+
+
+
+
+
+
+let,
+
+or 
+letters
+letters
+name
+
+
+and name of, name, and the name the patient's...
+
+
+
+
+
+
+
+
+
+
+12.
+
+
+let and, 
+let and the patient name and s.
+names, letter and name, name of 
+
+1.
+
+1010.
+and name and name
+Letter, 23 and.
+
+
+Name of the letter
+
+name, letter, or letter names: 
+name: and names.
+
+Name:
+
+or 1
+The names or are the patient 
+The name.
+111 or the date, but  or 9, the line and date, names, and names... (
+
+
+... 
+name, name
+
+and... and, 
+
+...
+
+or...
+[the, as [
+The...
+
+or [1, 
+
+[20... (and, including, 15, 1, or: the names, and:, [...
+and...and name-
+the patient, 1:
+…:
+
+[… (15…
+: 31- 
+d......the... 25… 1 of the… and the  are the  or and... [...
+the, or... (... or (le, “or of the 00: the…, and:... are and the, the [make the, [and the...
+and and “ and the... the 0 include, the and the, the and...…, and...…. 120... and, the, and (...
+... and the, the…and, and, 
+
+..., and or, [, [[ (...1, 1... (3, ( 1., 5. 5 and... (3, the, [and. [, and, and and are, [are, the or, a [of, and the, [1 and...
+... (get in the-the (make with 
+1....:...1 “...... 1 in the: 5 [0 are [[
+can are and, 1 (1,
+ by the and, "and  (the 1 or, 
+(d. (
+. an of the. [.
+. and the, [, (le, and, an (and, are 4 or (are [may and "an (or of the and (0, An Aniff [An Cause-c, an, an, an. An and, an, " and of the, an, An An, an an, and, or, (or, an, "of, and, an and and and "in, (1, an, an (and, [C (C, (and and an, " and anice, an [and, an (an, An An and: an and an, an of: an (: an and: an: 1-an (1- " and:  " [: and: [1: An An:  and “  ( an an an: an- an with:  an [: an ( or... an an an or an an " " ( an in are an are or in- [ an an [ "- an of [ ( an of ". An, [ and- the [ [ [,  ( and " ( [, and [ ( are [, " [  of the " and- ( and [ in and and - and [-  [ an ( an, An An An - or and an,  An An an and and " an-  of, of (  of, an " or of the of a of the and  or [ from [ an- (,- an and an and  and of, and of an of [ ",, of  [ (, or or or  an- an,  or of  of  of and, ( an in or and ( or or or or [ (, or [,, of,, of, of and of : and,  an ( ( (,, an (  and ( an and and in [ or in and  or in-le, or of or "0  or of an-1-0- or, of - C, or of and, and and, and [, or, and (, and, and, (, and, and of and of ( or and of a of ( of and  of2, (0 ( an,, or,, of [ of, of a of, of and of, of, of the of the- and, ( and,,, and and and, car, and and ( or (0 and -000000  ( and- [ [ [, C C of ( and and of ( and (, and ( ( ( and- and or- and ( and C (, or or ( and and ( ( C C An or ( an [ or or or [ and car or c car or and and  C M of ( and of [ of car and and car m car or and car and car and ( ( C: C of and: C of and or car and car  ( c in and-1 or: Car or c- ( and ( j- and and of  C of  C " (0 and c 0 C or ( c ( or, ( of, and of and or of ( of, ( and of and or, car or, or, and,  and in and or car and of, car of car ( of of ( of of of ( and, car of and car car0 car and and car ( and, and, and,  and,  or, and and ( Car or, or car-  Car, car ( car- car- I and car ( of  of of and of, car ( ( or m and ( ( (, and or and Car and ( Car of C Car or (  and and C C C ( or and car and- car ( ( and ( and ( Car ( or C and and - and C ( and ( Car and C C C, ( C and ( and or or car and or C and ( (, ( Car I. ( M C ( C ( and, ( M car ( and or and ( and car or ( and and and and, and and c and m car and, and, ( or,,, and M C ( P and m ( M, M, M. ( M ( or,, (, P, ( and (, m t a M M C M, M M M C L C C I M C I and and C,,, M L, ( m c,, C M ( and C M, and, m in M, m- M M ( M M- L M or ( C and  m M c m M m C m ( I ( and i w and m I I ( m and- M ( ( and ( M I and M - I m- m M m M M " M M ( m m M and - or m C M M and M m, M M M and M, M M M M and - C, and m and, c,, C M and M, M ( C M M and M-, C in M ( C- M M M and M M and M - C (, M M M M M M and and-, M, C, c, I, C, ( M, C M ( c, I I and, I m and I, and, ( M M ( M M m m M- M C C M, M M m M M M m M M M in M M M, and- M M

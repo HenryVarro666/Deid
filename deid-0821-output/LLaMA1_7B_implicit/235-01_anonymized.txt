@@ -1,0 +1,399 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2082-06-29
+
+Narrative History
+
+   The patient is here today for the following issues:
+
+   1.  Patient is scheduled for gastric bypass surgery July 22nd.  She is leaving for vacation.  She wants to make sure she is cleared for her surgery
+
+   2.  Patient completed Vit. D supplementation and her new VIT D level is 49 (up from 9).
+
+   3.  Patient complaining of persistent chest pain - she saw Dr. Uzzell who feels she is cleared for surgery from a cardiac perspective.
+
+   4.  Patient has persistednt recurrent LE edema.
+
+   5.  She complaining of occasional shortness of breath and has a pulmonary appointment in July prior to her surgery.
+
+   6.  Patient saw Dr. Newkirk who is still awaiting some bloodwork but feels she is cleared for surgery.  Her hct most recently was 35.6
+
+   7. OSA - feels she does awake in the middle of the night with sob.
+
+   8.  Patient gets an occasional leg cramp on the right - question related to LBP.  K+ normal on June 23rd.  Will follow up after surgery.  No weakness or numbness.
+
+Problems
+
+      Diabetes mellitus
+
+
+
+      S/P Abortion   SPONTANEOUS 4/80 
+
+
+
+      Chlamydia   CERVICITIS-TREATED 
+
+
+
+      H/O Abnormal pap test
+
+
+
+      Positive PPD   NEG CXR 
+
+
+
+      PARONYCHIAL INFECTION    LEFT HAND 78 
+
+
+
+      Ectopic pregnancy   74 
+
+
+
+      Coronary artery disease
+
+
+
+      Anemia
+
+
+
+      Shortness of breath
+
+
+
+      Hypertension
+
+
+
+      Gastroesophageal reflux disease
+
+
+
+      Elevated cholesterol
+
+
+
+      Hyperthyroidism
+
+
+
+      Obesity
+
+Review of Systems
+
+   Unless mentioned in the history above the following ROS were asked and are negative:  Constitutional,Respiratory, Cardiac, GI (above), Heme (above), Endocrine, GYN, Musculoskeletal, Psych, and Neuro.  
+
+Medications
+
+      ATENOLOL     100MG  1 Tablet(s) PO QD   
+
+
+
+      ASA (ACETYLSALICYLIC ACID)     325MG  1 Tablet(s) PO QD  
+
+
+
+      LIPITOR (ATORVASTATIN)     20MG  1 Tablet(s) PO QD  
+
+
+
+      INSULIN 70/30 (HUMAN)   SEE BELOW     SC 5ID   
+
+
+
+      IMDUR (ISOSORBIDE MONONIT.(SR))     30MG  1 Tablet(s) PO QD  
+
+
+
+      NEXIUM (ESOMEPRAZOLE)     40MG  1 Capsule(s) PO BID  
+
+
+
+      KLONOPIN (CLONAZEPAM)     0.5MG  1 Tablet(s) PO TID   
+
+
+
+      ZESTRIL (LISINOPRIL)     5MG  1 Tablet(s) PO QD   
+
+
+
+      ZANTAC (RANITIDINE HCL)     300MG  1 Tablet(s) PO QD  
+
+
+
+      VITAMIN D (ERGOCALCIFEROL)   50000 U     IM q72 HOURS  36 day(s) 
+
+
+
+      MECLIZINE HCL     25MG  1 Tablet(s) PO TID  7 day(s) 
+
+Allergies
+
+      NKDA      
+
+Physical Exam
+
+   120/80
+
+   GENERAL: 	obese female
+
+   EXT:		No edema
+
+   
+
+   
+
+   LABS reviewed.
+
+Assessment and Plan
+
+   1.  Gastric Bypass - Will proceed to preop evaluation and hopeful surgery on July 22nd.  Dr. Rivers will be consulted to assist with sugar management. 
+
+   2.  Vit D deficiency - Corrected with Vit D supplementation.  
+
+   3. LE edema will likely improve with weight loss.  Follow up after surgery.
+
+   4. CAD - followed by Dr. Uzzell
+
+   5. shortness of breath - Likely mostly secondary to deconditioning and weight but will be evaluated by pulmonary.
+
+   6. OSA - sees pulmonary in July.
+
+    appointment time 35 minutes - Discussed with patient at lenght surgery and what to expect after.  She seems motivated to lose weight.
+
+
+
+
+
+
+
+
+
+
+      <authoredby>Mike Dunn</authoredby>
+
+      <authoredby>Jason Mills</authoredby>
+
+      <createdby>Raymond Wang</createdby>
+
+
+
+
+
+
+
+
+
+
+      <updatedby>Mike Dunn</updatedby>
+
+      <updatedby>Jason Mills</updatedby>
+
+      <editedby>
+        <author>
+          <fullname>Raymond Wang</fullname>
+          <givenname>Raymond</givenname>
+        </author>
+        <author>
+          <fullname>Jay Mills</fullname>
+          <givenname>Jay</givenname>
+        </author>
+        <author>
+          <fullname>Mike Dunn</fullname>
+          <givenname>Mike</givenname>
+        </author>
+      </editedby>
+
+
+</document>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><document>
+	<authoredby>Mike Dunn</authoredby>
+	<authoredby>Jason Mills</authoredby>
+	<createdby>Raymond Wang</createdby>
+    <editedby>
+     <author>
+     <fullname>Raymond Wang</fullname>
+     <givenname>Raymond</givenname>
+    </author>
+     <author>
+      <fullname>Jay Mills</fullname>
+      <givenname>Jay</givenname>
+    </author>
+    <author>
+     <fullname>Mike Dunn</fullname>
+     <givenname>Mike</givenname>
+    </author>
+    </editedby>   
+    <updatedby>
+     <author>
+      <fullname>Mike Dunn</fullname>
+      <givenname>Mike</givenname>
+       <email>mcdunn@stanford.edu</email>
+    </author>
+    <author>
+     <fullname>Jason Mills</fullname>
+      <givenname>Jason</givenname>
+      <email>jdmills@stanford.edu</email>
+  </updatedby></document>
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><document>
+<authoredby>Michael Dunn</authoredby>
+<authoredby>Jason Mills</authoredby>
+<createdby>Raymond Wang</createdby>
+<editedby>
+<author>
+<fullname>Michael Dunn</fullname>
+<givenname>Michael</givenname>
+<email>mdunn@stanford.edu</email>
+</author>
+<author>
+<fullname>Jason Mills</fullname>
+<givenname>Jason</givenname>
+<email>jdmills@stanford.edu</email>
+</author>
+<author>
+<fullname>Raymond Wang</fullname>
+<givenname>Raymond</givenname>
+</author>
+</editedby>
+<updatedby>
+<author>
+<fullname>Michael Dunn</fullname>
+<givenname>Michael</givenname>
+<email>mdunn@stanford.edu</email>
+</author>
+<author>
+<fullname>Jason Mills</fullname>
+<givenname>Jason</givenname>
+<email>jdmills@stanford.edu</email>
+</author>
+<author>
+<fullname>Raymond Wang</fullname>
+<givenname>Raymond </givenname>
+</author>
+</updatedby>
+<document-type>Patient Note</document-type>    
+        <authoreddate>2011-10-13T23:20:14.320Z</authoreddate>
+        <updatedtime>2011-10-13T23:20:14Z</updatedtime>
+
+    <subject-type>Patient</subject-type>
+    <subject-name>Jeffrey D. Miller, MD</subject-name>
+    <subject-dob-day>12/09/19</subject-day>
+    <subject-dob-month>07/03/3</subject-month>04/03</subject-month>09/04
+
+
+            <author-author-name-09/09/19  
+
+    <authoreddate09/100 9/10/10/10/10/10/10/10/10/ 10/20/1/10/10/0 17/10/20% 10/10 10/0/0/10/10.10/10/10/5/0/0/10 and 1/0 10
+20/10/10/0 day00/ 20/20/0 10/0/0 10/10/0/0/10/0
+0/1/10. 20/0. 1 week/1/0/10/10/100 110 10 0 and 10 and 6 months 
+
+1/00/1. 10 10. 10 - 4
+.
+10
+2 day 1 month.
+1 week, with 2 months, and today (1 and 20
+20. 20, 2 days. 12. 1 week, 1 week
+1 1. 1 week. 0 day 1 week 150. 3 1 week (25, but.
+1. . 1.
+1. 1.
+:  and the  ( 
+ 2, and an hour 2.  123. We, and the 
+ 4
+.
+.
+ [M 0. This for a  2 2 - 
+: .  a week 1.  [ 1.. [. 2 for  the... (... 
+.. the.1 and the...     and July (1 to be the and.1..   [1 for..     is. An   of  of:...  -. : and the.. (
+.  (. the. [1.  and week, and the day and. 
+.  and the  An of the of an of the  the 1 and 1. .
+.
+.. [  and the and the..  10. An 2 2 (2.  An.  An C. Anient 1 for.  for the  [   [[  [ 1 [    [  a.  and a.  [2...2 An.  a. An and   and the  [  and  and  and the [  [ ..  A [ a 1  [0.  and. 2 and  An.  and 1.  and . A  A and   New A 1-  and forger  and.  and the (  a.  and. 0, 2. 1  a.  New 1.  [2 ( and   An. [ 1 and  and  "  of  of the of 1.. An. An An  An New  An . C. 1  [  and: [  and  and the [  (    (   the  An.  .  [  An. An An An 0 [ a [  for  [ 0 -  :    anne (  for "  (  for   for  and for  [  for : :. for..   [ [ (  and  and and,  a. An  an [  a  [  [ [ . a New [ [ .  [  An.   - [  -     [  An An [  [  and  and  An [.  and the,  and [ [ and  for   [ New  and and  -   and [  and [  [  New [ [  New   -  [   An     and    -  [ [ [  and and [ Cual New  for   (  New  [-  and and,  New for New and [ New
+  and. [  for
+ (  [
+-   and
+    and   and for the and ( 
+ ( and   -  ( New 
+ for  ( in  in - 0 [  a New  0 [ .    and  -
+. C New
+ (   a of of  of ( ( New of. and.    [ and   ( -  (   on  New on [ to the  (. (
+  [ New  C
+ New  C      
+   of the of the.   in  and ( and a and  in  New and    and  and.  and  
+.   and and and and and  .
+ -   [ C [.
+    C      and  
+  and of  of   [ .       to  [ (
+
+
+. C. and and and  and   C and  -
+ 
+     -  .
+  for. [ (   
+ for   
+     R of of  
+
+ and (
+ for  [ and  and  PO
+  and ( and  O 0
+ -  (  - 
+:    :    ( and: :  and   [: [ to.  [.
+. C.     and  and (    P.  and and ( and C-
+.
+ [ C  and
+
+.  [ New and   ( New C and  and and,  H, ( New New  C New New
+
+. ##
+.   [ B 
+ for New and and and  and  ( New (  New,  ,
+ (  [ (  H [ and [
+. C [ New 
+.    
+ C B ( and
+ New
+ New ( and [ and (  
+ P
+ of (  and ( on H  C  and for for (   to to    [ [
+ H New
+
+
+ and and C.
+ (  
+. and on for H and for the for for for for  and for and for and and New for New on ( and [.  and (. .. [ and and H. ( a. C and the and C H H H H and of and  F of H
+.
+ 
+ of of a of and of a of of of (. [ of the  [. H ( R.
+ H (
+ C
+ C  P
+ H H H and [ [ ( H of [ H. U H
+ H ( H C ( H T and  H C and ( C on a B T H a H and prior. ( C a and a and H and a [ H C and C  for for B ( A on ( a a ( H. and, (  H C H and ( H M and of and on H of a of a of of of of a of. ( H:. and. and and C H. and in. C H for C for C in  a (2 (  C0 to and H M. and M H and H of H of of ( of of H of ( of of of of m. T:  and H and a and and a ( a and of B of of M C H H H ( 2. C  H M C B. H U of m of of of of of of of of of of H M and for a m  and C and. and. H. B C C C m [ C and M C of H H and and U C M U C M and C.

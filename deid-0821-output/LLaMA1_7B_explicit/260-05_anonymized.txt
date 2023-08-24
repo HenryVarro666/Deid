@@ -1,0 +1,301 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2073-02-07
+
+ 
+
+Internal Medicine JAR Admit Note 
+
+Pt: Xander Vera
+MR#: 2152363
+Date of Admission: 2/7/73
+Attending: Alton Uher
+PCP: Richard Huerta
+Contact: Molly Vera (Wife) 371-514-1494 
+Code: Full Code
+
+
+CC/RFA:  Pt is a 61-year-old man w/ CAD, DM, HTN hypercholesterolemia and recurrent atrial flutter admitted for atrial flutter ablation. 
+
+HPI:  Pt   s cardiac hx begins in 2069 when he presented with chest pain and palpitations while shoveling snow and was found to be in atrial flutter. Pt was subsequently cardioverted to NSR. Pt did well post cardioversion. He was suffered NSTEMI in 11/72 in the setting of bactermia and Streptococcal cellulitis. Coronary angiography showed diffuse non-critical disease; decision was made to manage CAD medically. Pt was found to be in atrial flutter on follow up visit with cardiology. He was referred to Dr. Uher in appx two weeks prior to admission, who recommended radiofrequency ablation of atrial flutter. 
+
+Pt underwent radiofrequency ablation of atrial flutter on 2/7/73. The procedure was was successful and the patient was transferred to the floor in normal sinus rhythm. He has no complaints and specifically reports no CP/SOB/palpitations.
+
+PMH:
+Coronary artery disease
+Diabetes
+Hypertension
+Hypercholesterolemia
+Atrial flutter.
+Hx Bell   s palsy: residual left eye tearing thought to be due to aberrant reinnervation
+Kidney stones
+Glaucoma
+Mild renal failure
+
+Cardiac Hx/Risk Factors: 
+Echocardiogram (11/72): EF 71%; left ventricular function normal with symmetric hypertrophy; minimal valvular disease
+
+Stress Test (3/69): normal exercise capacity (METS achieved =  7.); ECG response to stress was  nondiagnostic for ischemia; myocardial perfusion scan show a small, mild posterobasal defect which improves at rest suggestive for a very limited area of mild ischemia
+
+Cardiac Catheterization (11/72): Diffuse mild to moderate CAD: LMCA - 20% plaque; LAD - diffuse plaque; LCx - Diffuse plque in a small AV groove artery; RCA - patent proximally; calcified; Occluded right after take off of PDA, distal branches fill by collats from L
+
+
+Meds on Admission:  	
+  1. Atenolol  PO 50 MG BID
+  2. Lisinopril  PO 20 MG QD
+  3. Metformin  PO 1000 MG BID
+  4. Glimepiride  PO 1 MG QD
+  5. Rosiglitazone (Avandia)  PO 8 MG QD
+  6. Gemfibrozil (Lopid )  PO 600 MG BID
+  7. Ezetimibe And Simvastatin (Vytorin)  po 10mg/80mg qhs
+  8. Allopurinol   300 mg QD
+  9. Furosemide  PO 20 MG QOD
+ 10. Omeprazole  PO 20 MG QD
+ 11. Acetylsalicylic Acid (Aspirin)  PO 81 MG QD
+ 12. Cyanocobalamin (Vitamin B12 )  PO 1000 MCG QD
+ 13. Coumadin (Warfarin Sodium)  PO  QPM
+14. Ferrous Sulfate  PO 325 MG QD
+
+All:  	
+Clindamycin     rash
+Azithromycin     rash
+Erythromycin     rash
+
+SHx:	Pt lives with his wife in Guatemala City. He has five children. Former communications manager; currently works part time in securities
+Tob:  minimal past use	EtOH:	1 drink/wk	Illicits:	none
+
+
+FHx:  	Mother: CAD s/p CABG
+	
+ROS:	
+Ten point review of systems negative except as noted in HPI.  
+
+Exam:  	Pt is a well appearing middle-aged man lying comfortably in bed
+	VS:  T- 97, HR- 95, BP- 141/63, RR- 18 	
+HEENT: MMM, w/o exudates.
+Neck:  	supple, NT, full ROM
+Chest:  	CTAB; no crackles, no wheezes
+CV:  	RRR; normal S1S2, no m/r/g appreciated; JVP 7cm; 2+ carotids without bruit; 2+ radial and DP pulses; R groin dressing w/ small amount of blood, pulse 2+, no obvious hematoma 
+Abd:  	bruising across lower abdomen, NABS; soft, non-tender, distended; no organomegaly
+Nodes: 	no cervical LAD
+Extr:  	1+ bilateral lower extremity edema to knees with chronic erythematous skin changes, non tender 
+Neuro: 	AOx3, MS nl, CN II through XII intact, motor and sensory nonfocal
+
+EKG:	NSR, RBBB
+
+________________________________________________________________________________
+
+I/P:  61M w/ CAD, DM, HTN, hyperlipidemia and atrial flutter s/p flutter ablation
+
+Atrial flutter: NSR s/p ablation
+Groin check every four hours; monitor for signs of tamponade; anticoagulation with Heparin/Coumadin bridge
+Ischemia
+Continue ASA, Atenolol
+HTN
+Continue Lisinopril
+DM
+Continue Metformin, Avandia, Glimepiride
+Hyperlipidemia
+Continue Gemfibrozil
+
+
+Nutrition: Cardiac Diet
+Therapists: None
+Access: Peripheral 
+IV fluids: None
+Telemetry: Continuous
+Prophylaxis: Heparin /Coumadin, Nexium
+Code status: Full Code
+
+
+
+
+_______________________________
+Andrew Kendrick, M.D.   (pager # 99225)
+
+
+
+
+_______________________________
+Dana Sweeney, RN   (pager # 99094)
+Dana Sweeney, RN   (fax # 643-975-5122)
+
+
+
+_______________________________
+
+_______________________________
+Alton Uhr, M.D.   (pager # 99183)
+
+
+
+
+
+_______________________________
+
+
+_______________________________
+
+
+
+
+
+
+_______________________________
+
+______________________________
+
+_______________________________
+
+______________________________
+
+_______________________________
+
+_______________________________
+
+
+
+
+
+
+______________________________
+
+
+
+
+
+
+
+______________________________
+
+
+
+
+
+
+
+______________________________
+
+
+
+
+
+
+
+______________________________
+
+
+
+
+
+
+
+______________________________
+
+
+
+
+
+
+
+______________________________
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------
+
+\end{verbatim}
+\end{minipage}
+}
+\end{center}
+
+\subsection{RN-generated Clinical Documentation}
+\label{sec:RNGeneratedCD}
+
+In this section, we present the data from a clinical document created by an RN. As described previously, we assume the RN will create a new clinical document with the same structure of the existing one but with random strings replacing the identifiers like patient's names and doctors' names. We also assume that the RN will replace identifiers with random identifiers. The RN will generate random strings in all the locations where identifiers are expected.
+We also assume that the RN will create random string with age and location and gender. The RN will create a new random string with the patient's names, doctors' names, location, and gender.
+
+We assume that the RN will replace random string in the string in all the locations, where identifiers. 
+We also assume that the age and location and gender. 
+We also assume that the patient's names, doctors' names in all the age and gender. The RN generated random string, age, gender. 32 generated strings. 
+
+The gender
+The gender in gender
+We assume
+
+the gender in the gender and
+the gender. 
+The age gender.
+
+The gender 
+The gender the gender, and the gender.
+
+The gender in the gender. 
+The gender and gender.
+gender The gender.
+
+
+
+The
+The date.
+The gender.
+The gender.
+Gender.
+
+
+
+
+
+The patient name
+
+
+The date,
+patients.
+12.
+1 and the gender.
+
+In the gender
+
+The gender.
+The patient
+In gender the patient
+gender the date.
+
+
+the patient name, gender. The patient information, date, gender of information. The names of the gender of the patient information, date. 3
+or the patient information 5.
+The patient information
+In the patient
+1.
+1
+date of date
+date
+
+The date and the names
+name the names. the letter and the patient names
+the  and patient names, names patient. 1. the patient 10 the patient, or...
+The, but. If the...the
+125, and the patient.
+
+the patient names and patient, and the [and the names, or names. This, and the...the... and the patient, and the [
+
+are 
+The 125 or orations, the [and the patient, name and name, name, and name, patient names...the. 
+(d patient, the patient (...1-1... 
+
+name with names, name, and: and:
+“...1, 1... or the... the...1, the… 
+d (le (... 1, and (... 1 are the... and 1 (  and (
+remove,... [you, the or (
+and, and the, in the and the, or, and the and a (getable 1: and, the of: and … and “ 1,  are, the
+... 
+andize the name- 1 and, the and, or, a (
+, and, and,
+and, and, etc, and, 1, a and in 1, a, and, and, the, 1, or, and and, or (are, and (1. 0. (1, and and and, 13, or, the, 1, or, " [and of the and [1 (1 1: 1...1. and (1 with 
+[name "...1 " 2, an: are.  are [in 2 1 2, 0 of 0: 0 [ or,, " and, and, 1 in, andies, [of. of the of the and,  and, and and a,  ( 1, an 1- are, are (and are and, 5 and,  (1  or, an, an, an a and, and, the, a, an 0, and of the  in,  and the an  an and  and and, a  an, an in the 0 or, ( an or, an, 0 in the, an, and, and, 4, 2. An, 4 in the, 2, 2- 1, 2-an,0 in-  and in and-3 of the [ of an of the: An An: ::::: (1 - : an : - an: an [ and an: a in a an an- [ ( an-with an or and  in: - -1 in  an  are in an [ - in the are and  an- and of. of  [,, an and  and an in,,, (, ( and, or and in the [ an are [  are,  [  [ and-0,  or- ( in- ( ( are in  (  in or  in and,  and  in an, an or  in,  in, of  are or, and an of  an - - or ,, or,,, - an and of,  of  an an  (  and- 0 and are  or ( or-   or an of or  (  or or- an in an, an an (  or-  and or or, of  and  of  of and of  and  an  an  and and  and- and  or, in or an  an, or - or, or-  or    in  or  an - and an, and, of  - - (  or or  or and and  -  and  or (   in an ( an  an of An or 00   an 0- An R An- an  or an, an and of or of, An of of an of of an of, and of the, of,  an,   an, ( and 0,  an0 0    - an  in an- An M an  - and and  and  - [ (  [, an  and  and and - [ an - an or - an or an  An An C  an   or an an " or to  or or an  and  or   " and and or-  (  of  and  and (  in and al in  and to    and  and in and to c an c and  for  and  for  for. for for for and-   in ( C and  of -     and  and    al-  and and  and  or of or of and of  of, or  and and,  in and and and al in  and C or, (  of of of  of of, and of 0   and , -. (  and and an or- and, an  ( and.  and or and   or and, or or-  and or and  - ( and  of of of ( of of of al of  and (  C  and, ( and  and of an of and  of or  C  al  and,.  and and, and or   an,, al  and an- and  or ( and - and  C,  and al c  and  and  al and or in and and. and a and and and ( ( and- and - ( and  or and  ( - and and, and and. and and (,, al and  and- - and and  and,, and and 1 and  of 0. 1,  and,   and,, and and, of, a ( of   of 0 w ( - and  and and and m ( and ch -,- and of, L (,,,,- - [- and,  L C,., - and,, in L  in and -0 - and in  M  and  and  L L and  and  and  and L , 0 1 C L L- Ch in- or L C  in or  and 0-  -0-   and  and  and (  m (,  (,,, L , [  ( ( C - L to. -  and ( for  or in,  or   H L-  L L H ( - H  H-  M ( and - and  (  and- (, (, and and of  and, M of, M and  M and and  and  M  and,, and  H and 0 0  of- M  M,-  M - (,- M M m M M- M and, M. and

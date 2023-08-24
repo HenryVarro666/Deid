@@ -1,0 +1,450 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2078-09-06
+
+
+Vascular Surgery H&P
+Date 09/06/78
+
+Name:  Richard, Ulysses
+Medical Record: 8913196
+Attending:  Snyder
+
+History of Present Illness:  Mr Ulysses is an 85 yom with h/p PVD s/p multiple bilateral lower extremity revascularizations and a non-healing wound on the RLE.  Most recently, he had undergone Rle necrotic ulcer debridement (07/78),R CFA to distal anterior tibial BPG on 05/78.  The wound was overlying the BPG.  He was made NWB on R, with VAC dressing applied to the wound to be changed twice weekly.  He has been followed in clinic.  Though he was noted to have good granulation tissue during his hospitalization one month ago, recently his wound has been concerning for non-healing.  In clinic, his RLE is ischemic, and there is a concern for wound infection.
+The patient reports that the proximal aspect of his wound had pregressive breakdown over the past 2-3 weeks, with associated increase in pain, especially with VAC changes.  He says that he could no longer feel a palpable graft pulse as he could just after the surgery.  His foot became increasingly discolored, and his toe became necrotic after some minor trauma without response to silvadene.
+No fevers, chills, nausea, vomiting.
+
+Past Medical History:
+CAD, Htn, CRI (Cr 1.8 at baseline), DM, PVD, Carotid Stenosis s/p R CEA 3/73, CHF, AF, Nephrolithiasis, Spinal Stenosis
+
+Past Surgical History: 
+RLE wound debridement 2078
+R CFA to distal anterior tibial in-situ saphenous BPG 2078
+L fem/pop/peroneal BPG redo 2074
+L fem/pop BPG 2073
+R CEA
+
+Allergies:
+ASA   GI intolerance
+
+Medications:  
+Lasix 40 po qd
+Ipatropium inh
+Norvasc 10 bid
+KCL 20 QD
+Zocor 20 mg po qhs
+Fentanyl patch
+Doxazosin 2mg po qhs
+Nitroglycerine patch 0.2mg/h
+Lopressor 12.5 po bid
+Nexium 40 mg po qd
+Lexapro 10 mg po qd
+ASA 325 mg po qd
+Glyburide 5mg po qd
+Percocet prn
+Ativan 0.5 mg po bid prn
+
+Social history:  Denies tobacco use in past or currently.  Alcohol 1 glass wine every few weeks.
+
+		 
+Physical Exam: 
+T= 97.9 P=101 BP= 131/70 RR=  16 96% RA
+CV: reg
+Pulm: clear
+Pulses: 		
+Femoral	L: 1+	R: 1+					Pop	L: 1+	R: 1+
+DP: 	L: np	R: np
+PT 	L: np  	R: np
+RLE cool ~15cm below knee, wound of medial leg, with erythema and breakdown
+healed medial saphenous harvest wound
+foot dusky, poor cap refill, necrotic 1st toe
+LLE warm, healed medial saphenous harvest wound, OK cap refill
+
+Recent studies:
+Labs: Pending
+
+
+CXR: pending
+
+Impression/Plan: Ischemic RLE
+Admit to Vascular Service, Dr. Matthew Snyder attending
+Send wound culture, start vancomycin empirically
+Plan for R BKA on 09/08
+This has been discussed with Dr. Jackson Roth, Vascular Surgery Fellow
+
+
+_________________________________________
+Julia Jorgenson, MD, Vascular surgery , Junior Resident
+Pager # 04873
+
+
+
+
+
+
+===================================================================================
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		*/
+		
+		public class VascularReport
+		{
+			public string Patient;
+			public DateTime Date;
+			public string HistoryOfPresentIllness;
+			public string PastMedicalHx;
+			public string PastSurgicalHistory;
+			public string Medications;
+			public string SocialHistory;
+			public string PhysicalExam;
+			public string RecentStudies;
+			/*
+			public string Lungs;
+
+			//pending
+			public string CXR;
+
+			//pending
+			public string Impressionplan;
+
+			//pending
+			public string Lab;
+			*/
+			
+			public string Labs;
+			/*
+			public string Labs;*/
+			
+			public string CXR;
+			/*  //pending
+			public string Labs*/
+			
+			/*
+			public string Impressionplan; //pending
+
+
+			public string Lab; //pending
+			*/	
+			
+			/*
+			//pending
+			public string RecentStudies; //pending
+			//pending
+			public string RecentStudies; //pending
+			//pending
+			//pending
+			public string PastMedicalHx; //pending */
+			
+		}
+		/*
+		//pending
+		public string Patient;
+		//pending
+		public DateTime Date;
+		//pending
+		public string HistoryOfPresentIllness;
+		//pending
+		public string PastMedicalHx;
+		//pending
+		public string PastSurgicalHistory;
+		public string Medications;
+		//pending
+		public string SocialHistory;
+		//pending
+		public string PhysicalExam;
+		//pending
+		//pending
+		//pending
+		public string Impressionplan;
+
+
+		public string Lab;
+
+
+		//pending
+		public DateTime Date2;
+
+
+
+
+		//pending
+		public string HistoryOfPresentIllness;
+
+
+		//pending
+		public string RecentStudies;
+		//pending
+		public string RecentStudies;
+		//pending
+		//pending
+		public string PastMedicalHx;
+		//pending
+		//pending
+		//pending
+		public string PastSurgicalHistory;
+		//pending
+		//pending
+		//pending
+		public string Medications;
+		//pending
+		//pending
+		//pending
+		public string SocialHistory;
+		//pending
+		public string PhysicalExam;
+		//pending
+		//pending
+		//pending
+		//pending
+		//pending
+		*/			
+		
+		/*
+		//pending
+		//pending
+		//pending
+		//pending
+		//pending
+		//pending
+		//pending
+		//pending
+		//pending
+		//pending
+		//pending
+		//pending */
+		public VascularReport() { }
+		/*
+		public VascularReport(string Patient, DateTime Date,
+															 HistoryOfPresentIllness,
+															 PastMedicalHx,
+																 PastSurgicalHistory,
+																 Medications,
+																	 SocialHistory,  RecentStudies)
+		{
+		this.Patient = Patient;
+		this.Date = Date;
+		this.HistoryOfPresentIllness=  HistoryOfPresentIllness;
+		this.PastMedicalHx= PastMedicalHx;
+		this.PastSurgicalHistory= PastSurgicalHistory;
+		this.RecentStudies= RecentStudies;
+		this.RecentStudies= RecentStudies;  
+		this.PastMedicalHx
+		MedicalHx 19970
+*/Hospital
+		
+		209
+	
+
+
+*/
+*/15	0
+	2
+	
+
+	09	
+	
+
+
+	
+
+
+	20
+	0
+
+		
+
+
+	
+
+	P
+	
+
+
+						
+ 
+	
+
+
+
+
+
+1
+1
+	20 20 
+	
+
+
+
+
+1
+
+P	 
+0
+2
+
+0
+	
+0 20
+
+1 
+
+1
+Medic 1
+
+	
+1
+
+2
+2
+	
+
+15-1
+
+
+	15-1
+
+19
+
+1
+2
+  
+
+M-0
+
+11
+2-1
+ 1
+
+1 
+1
+1
+2
+
+3
+
+
+1- 1
+. 19-2 (R
+ 1. 
+20
+
+2
+1
+U21
+U 1
+
+ 
+1 
+1
+17
+1100
+1
+1
+
+ 
+
+
+
+12
+[
+
+
+
+
+
+
+
+
+0
+
+   5
+
+
+ 
+
+
+1
+
+
+17
+ 18
+2030 3
+,
+ date and a,  and and 0 and S date
+
+
+. (1
+
+.
+ date. This, with  and/A and the date and the following 22, a week.
+20
+81
+2
+ (3 and 25 and the: the: The/124
+01414111120, H:
+ (1.
+: 1382000
+
+, B.
+
+:1: 018, 8 and: : 219608:1,297 and a. :
+ -10. 0 - 51.9,9, date:0
+80 -2:  and: A: : : A: A andline (74131
+10.110 (2
+ Anistr
+, Bision ( Anister
+ (An 12
+ Anise  (8,  andian, Anifer: A and, Bine (9,0-2 and: a8. with the, a, and,  and a 813 and a17-7-9, 8 An in C. An, a and, B and A. and the,1 and70000808808888 Anister Anister An An An An Anich An An An An Anient An Anient Anise and Anger
+ An,1, the Anicial Anicial andile.180,0080 and a1,  and. Anne and a, 1 and, 8 and, 8 and.,8 and and [8. and.,  was the and was anization.278-6734888. and088. andness, a.8.1ist,3.4 and151.01 in the [6 was a and and.0.889 and..7.7.88 and and.8 and.8.8.:., and [6 and, a.:1: 00 a a::.:, An: An (8 and: Anination: the and,88 (5.9 and a8188, An Anist and and:.:: 7::.80,8.31 ( and. An.:  and: the,: : :: M H and::
+:
+: (::. : (:, H,:: :.:: in the,: and: and an [- and anist and, ( An An. I- an [ and (, S [,. and. and [1 in a., - a - and and: in and: and in and and  in in the.-0-0-, in a in-1 by. and - H. inine and M An. H., and H and and, on,0  and with, on. on with and ( H, in. and..-, and, H C., and. H to with and,. and and and,, and, and,, to., and, to to and H and to and., to and and and, and.,,,, on,,,,,, (-0,,- H in,,,. in- a and, C,,,, and with,.,,, and, c,-5, H0 and and and and a C,,, ( S,, with, a, C in- to and,- and in in,,, in a in and,,..0 on-0 H. a [ in, in V, H. and H, H and. and and, in to -- to and. to H to and as to to, to to to- to and to H to, and H..,- L C H-0 and in, with,, H on,- C in, H H and H-0 H0 in H and H- to H to. and in H H- H in. H:,,. C and (,,, on, V, H:, H in H V V- C C and,:,,: H -.0,,.-1 2 and0 and/- V1- L B/ L.,-1 H.-,.- C- and, and and-1 and,- in (- I (- V. H C, C C.1 V, V and H, V in- C a- in a [.- H. I [ -.,, [ H,.,- V - [ V in, to. [ (-0 --31 -2 and-1 and1-1 and- H2 and-2 L C-1- V.. L.-1- to- C and,  and.- and. H - L- and-. and -1-0 (-1- and  - C H C... (. L- and  - C., L/ C. H- to..- H- H - C - and. and H - and, H H- - and-,  and, H,. [- V H C (  H H H-0, H. V- H, 1 and2- H and and  H.,  H H H H H H0     H H (11, ( H and " and.2, H, H,-0 C H and ( H.- - H. H1- H- and ( and C. H, and and -  H or..  m. and  and -. M. M per. H, H H H.  to. - and- C and, and -- H H (  H H and- H H. H H and  C P H H  C..  H M  H   H H-  H H and. R C R R L R H R.  R- F- F1- C H and H R C H H H H H R H H  H - H C. H H C- H-  H H H  H and -  H/ R. and. R0  H /   H  H R H H C R H C R H F- - F H/  I H/ F C B H R. and H/ and R.  H M H C T  H H H R  F C  H -  H  H

@@ -1,0 +1,275 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2064-04-20
+
+                             OFFICE NOTE
+ 
+Uher, Olga
+258-16-49-2
+04/20/64
+ 
+She returns to clinic for follow up. Unfortunately she missed her
+entire appointment and did not bring her blood glucose log with
+her. She reports that at 4 a.m. last Thursday she woke up and felt
+disoriented with sweats. She checked her blood glucose, it was 50,
+and she treated herself by eating. This led to resolution of her
+symptoms, although she said that she overshoots. She has developed
+a foot infection, has been seen by a podiatrist and started on
+antibiotics. She has also been taking a thyroid hormone but she
+still feels that it is making her tired. She just in general has
+not been feeling as well as she had been previously.
+ 
+Past Medical History:
+ 
+1.   IDDM.
+ 
+Medications: See previous notes.
+ 
+Allergies:  Same.
+ 
+Physical Examination:  Not performed. The patient had a  special
+orthopedic shoe on, her foot was wrapped.
+ 
+Impression:  Patient with IDDM with usual blood glucoses in the
+200's and an elevated A1C. Discussed the need for consistent meals
+and exercise and need for more control. Will increase day time
+insulin to 17 units of Lente and evening will stay at 10. She will
+follow up in one month. Will check a TSH today.
+ 
+ 
+ 
+Phyllis Jacobson, M.D.
+ 
+/lott
+ 
+DD: 04/20/64
+DT: 04/22/64
+DV: 04/20/64
+ 
+ 
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+"""
+from datetime import timedelta
+import unittest
+import re
+from textblob import TextBlob
+from dateutil import parser
+import pytz
+
+from.mocked_api_response import get_clinical_notes_list
+
+from pyfhir.constants import (CONTENT_TYPE, CONTENT_TYPE_BSON, CONTENT_TYPE_CSV,
+                             CONTENT_TYPE_XML)
+from pyfhir.models import FhirVersion, Resource, ResourceReference, ResourceBundle
+from pyfhir.models.base.resource import ResourceBundleBase, _create_data_bundle_from_resource
+
+from. import util
+
+class FhirVersionResourceBundleTests:
+    @classmethod
+    def setUpClass(cls):
+        super(FhirVersionResourceBundleTests, cls).setUpClass()
+        cls.bundle_name = 'FHIRV1TestBundle'
+        cls.bundle_uri = util.generate_bundle_uri(cls.bundle_name)
+        cls.bundle_version = util.FhirVersion('1')
+        cls.bundle = util.get_bundle(cls.bundle_uri)
+
+
+    @classmethod
+    def tearDownClass(cls):
+        super(FhirVersionResourceBundleTests, cls).tearDownClass()
+
+
+def _test_resource(bundle):
+    # Test that a resource's id is equal to its bundle's id
+    resource = Resource(bundle, id=util.make_id('Patient', '1', '2'))
+    assert resource.id == util.make_id('Patient', '1', '2')
+
+    # Test that a resource's bundle is equal to its bundle
+    assert Resource(bundle, id=resource.id).bundle == bundle
+
+    # Test that a resource's bundle is equal to its bundle's copy
+    assert bundle.copy()[0].bundle.bundle_identifier == resource.bundle.bundle_identifier
+
+    # Test that a resource's data is equal to its bundle's data
+    assert resource.data == _create_data_bundle_from_resource(bundle)
+
+
+class TestFhirVersion1ResourceBundleBase(FhirVersionResourceBundleTests):
+
+    # Test that the FHIRVersion1ResourceBundleBase is an instance of ResourceBundleBase
+    def test_is_resourcebundlebase_instance(self):
+        assert self.bundle.isinstance(ResourceBundleBase)
+
+    # Test that the FHIRVersion1ResourceBundleBase supports the _bundle_id field
+    def test_bundle_identifier(self):
+        assert self.bundle.bundle_identifier == util.make_id('Bundle', '1', '2')
+
+    # Test that the FHIRVersion1ResourceBundleBase supports the _bundle_uri field
+    def test___bundle_uri__():
+        assert self.bundle.bundle_uri == util.generate_bundle_uri('Bundle', '1', '2')
+
+    # test bundle.isupdatable returns true
+    def test_isupdatable(self):
+        assert self.bundle.isupdatable()
+
+    # test bundle.isreadable returns true
+    def test_isreadable(self):
+        assert self.bundle.isreadable()
+
+    # Test that the FHIRVersion1ResourceBundleBase has the correct type
+    def test_has_correct_type(self):
+        assert self.bundle.resourceType == 'Bundle'
+
+    def test_resource(self):
+        # test that _get_data is a method
+        assert hasattr(self.bundle, '__get_data')
+
+        # test that _get_data returns a databundle
+        self.assertIsInstance(self.bundle.get_data(), Resource)
+
+        # test that the resource's id is not set
+        assert hasattr(self.bundle.get_data(), 'id')
+        assert len(self.bundle.get_data().id) == 0
+
+        # test that the resource is in the bundle
+        resource_id = self.bundle.get_data().id
+        for resource in self.bundle.get_resources():
+            if resource.id == resource_id:
+                break
+        assert resource_id == resource_id
+
+    def test_has_data(self):
+        # test that get_data is a method
+        assert hasattr(self.bundle, 'get_data')
+
+        # test that get_data returns databundle
+        if hasattr(self.bundle, 'get_data'):
+            self.assertIsInstance(self.bundle.get_data(), FhirVersion1ResourceBundle)
+
+    def test_has_dataitem_list(self):
+        # test that get_dataitems is a method
+        assert hasattr(self.bundle, 'get_dataitems')
+
+        # test that get_dataitems returns databundle
+        dataitems = self.bundle.get_dataitems()
+        assert isinstance(dataitems, list)
+
+        # test that get_dataitems returns a list
+        self.assertIsInstance(dataitems, list)
+
+    def test_dataitem(self):
+        assert hasattr(self.bundle, 'get_dataitem')
+        self.assertIsInstance(self.bundle.get_data()['resource'], dict)
+
+    def test_dataitem_id(self):
+        # test that get_dataitem has an id
+        assert hasattr(self.bundle, 'get_dataitem')
+        self.assertIsInstance(self.bundle.get_dataitem()['resource']['id'], str)
+        self.assertEquals(self.bundle.get_dataitem()['resource']['id'], str(self.bundle.get_data()['resource']['id']))
+
+    def test_dataitem_resource(self):
+        # test that get_dataitem has a Resource
+        assert hasattr(self.bundle, 'get_dataitem')
+        self.assertIsInstance(self.bundle.get_dataitem()['resource'], Resource)
+        self.assertEqual(self.bundle.get_dataitem()['resource']['resourceType'], 'Patient')
+        self.assertEqual(self.bundle.get_dataitem()['resource']['id'], '1')
+
+    def test_dataitem_resource_bundle(self):
+        # test that get_dataitem has a Resource
+        assert hasattr(self.bundle, 'get_dataitem')
+        self.assertIsInstance(self.bundle.get_dataitem()['resource'][0]['resource'], ResourceBundleBase)
+
+    def test_dataitem_has_bundle_id(self):
+        assert hasattr(self.bundle, 'get_dataitem')
+        self.assertIsInstance(self.bundle.get_dataitem(), list)
+        resource_item = self.bundle.get_data()['resource']
+        for resource in resource_item:
+          assert resource['resourceType'] == 'Patient'
+
+    def test_dataitem_has_bundle_id(self):
+        assert hasattr(resource_item) and resource['resourceType'] == 'Medications'
+
+class Patient(self.assertIs(resource['_resourceType'] == 'Allergy.
+        self.assertAllergy.
+
+        patient.
+        allergypatient.
+        id,
+        id.
+        id, id, and.
+        id, and id
+        id, and date.
+        id, date of id
+        id
+        id,
+        id
+        id
+        id,
+id,
+        id,id
+        id
+
+    id.
+
+
+
+
+id.
+id patient id,
+    ids
+
+    patient id
+    id. The id.
+The id,
+id.
+
+and
+id and
+information of id.
+The patient, and patient's.
+patients.patient,
+information id.
+date id or name information, etc
+
+
+
+
+patient,
+11
+1010. 1, 
+let information
+
+patient names, patient name, and name. This is and id, the id, the id. 
+patient.
+id.
+
+let the id... 
+
+The ID. 151 and id and the patient id...
+
+names with the patient names, the name, and date patient and names.
+
+and name
+or patient id the patient.
+and or of an individual of the patient...
+18 and name and the...
+
+(pat...name, the letter names and last, and the date, and, names and names, and the last or, and the names (1. The (pat are... are, and a letter, as the or, or the date, as and the...the...
+
+the...the patientized, and: (12, and name, but:
+the patient, 1: you:
+
+
+
+(patianist... of the following name, the "
+and the patient, a (... 
+(…1210 are: 1 are are, and or [are 
+11...and (andized, and, you, the or, the or, and: and or the, as, (and [the (the: 0 and the and the 1 and (and: [1... and the: and the...1... are a and a [
+... (... (1 and 1 and (and or, (1 [ and, and [1, the and, and, and, etc, and, and, and, and (, but, an, 5, a, as the or, "1, and (d, or, or, [and, 2 and, but, and, 1, a, 1, the, “and, the and the, the and: and the (1 in the, the, a.... 1...1 [...1 and and... and... (3 [4, 1 [4... are (4 that are, an, a (1-the "1, "2, a (1 [1, [pat, [and, and, and of the or of the,,, and, and, and 0, a, include the are, are the 2, 1- and, an and, an " and, the, 1 and, or, an and the - a [an, an and, an and, 4 and the, 0 1 in the or, " and, an and, (or or, a and of it and in the and an (2 and,, 2, the and (and, (,, and, and and the, and. "and or (1, an,, “the, "d in "an: ::: ": - and,:: an (1: [::  ( an: the (:: ":: [:: and [: [:: an or [an [:: an an- an " an ( ":... of an [ ": [ are,- an [ are [ (., an [. with the an of an of [. and an in. the and,  and and an in the and and and, ( ( and [ and [, [ of - or [ [- or and and and [- [ and "-  [ are [ and or an in the, and [ by (,, an- an or " or ( an,,,- or of and of the an- of, or or and and and ( and, and " and - or, and and of an and of of, of (  and ", an, an. or and are  an or, an an an,,  " of or-  of an  or ( [ 0 and or with an ( and  an or of of and of of of of of an: an and, ( an and, or an or and ( - and " and " ( and or and in - and and in ( of with and or of an and an with an and in and and, and,  and and of  and, and and, and in the, and and, and and and and, but or and, and, a of or  of and of and of  or of ( and [ and or and,, and, and an, of, of the of of, of and of and of and and and and and- and of ( an " and,, and, and, c and,  or and - and of and and  (  in,  in the of, of and,,  - or,  ( an in and ( or, and and ( and with and and-  and, or and- or - and - and and and - an and and and and in the in and  - and  or of  or of or of, as an and and ( c- c c and and ( and ( " and c ( and and ( and a and to and and ( and (- and and and for and ( and and and ( and and and c ( and for and and  for and to and to ( to to to and and or and ( and  and of, of of  of of  and,  (, and or, and and, and, and, or and to or of  (- of of of of of of  of and and and  of,  and or and  or or, and and, and, and  and in  in c  (1 - and or c ( and (  or and _ ( (- or c of of and of and of and of  and, and-, - and  -  or of or of or and, an and of ( and ( and and ( and w and and and and and and and and with and with and of and of and  and and and and and and and and w and a and and, and, and and and, and and, an and and,   a and and and,  and ( and and w ( and and in and and and ( to and and and ( ( a,  and, and and or and and and and and, and and and and, and, and of and, al of and and  and and- and ( and, and,, ( ( ( and. w- b a ( an  and  an- and ( b b w-c and c w and and c in and c and t, of t and and, and and t c- al m and and-t and c, ( and, in, ( c w and t ( and c- and ( and and a and and t and and and and w and ( and c, an b m and- and and- and w c m and and ( and, ( ( and and and, w t and- t w and-2 w- and a t and and cl t b and c, and or and t, and and- and, _ and and and, and and c and and-t and and ( and- as c- F and, and, a-0- and, a, F C- F1- and and for and (- and-1, and, and and, (0,,, and and w and F F, in a and, and and and, and- _ and, and for a for a for for, F F and M, and F and and, and, and and,00 and,,, and

@@ -1,0 +1,427 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2074-06-20
+
+
+HHH Cardiovascular Division
+CVD Rm 5
+89 Buck St                                      JORGENSON, VIVIANLEE
+Sioux City, FL 76546                                           47190847
+(179) 732-8159                                           06/20/74
+
+
+Charles F. Van, M.D.
+66 Kessler Farm Drive, Puite #9488
+Jordan, FL  83712
+
+
+Dear Dr. Van:
+
+I had the pleasure of participating in the care of VivianLee Jorgenson during her recent hospitalization at Goulds Hospital.  This lovely 67-year-old female ended up having no discernable coronary artery disease on catheterization.  At the time of the cath, her pulmonary capillary wedge pressure was 12.  During the course of her hospitalization, we noted as well that she had had runs of nonsustained VT and asked our EP colleagues to comment on the appropriateness of an ICD.  They felt that this could certainly be rediscussed in the future, but at the present time, there was no compelling indication for her to receive an ICD.
+
+Her medications at discharge include Lipitor 20 mg p.o. q.d., digoxin 0.25 mg p.o. q.d., captopril 50 mg p.o. t.i.d., Lasix 40 mg p.o. b.i.d., enteric-coated aspirin 81 mg p.o. q.d., Nexium 20 mg p.o. q.d., Synthroid 300 mcg p.o. q.d., Aldactone 25 mg p.o. q.d., Coreg 25 mg p.o. b.i.d., and Norvasc 5 mg p.o. q.d.
+
+It has been a delight to participate in the care of this lovely woman.  If there is any questions or issues, please feel free to call.
+
+Sincerely,
+
+
+
+
+
+______________________________
+Vickie Frank-Jarvis, M.D.
+
+
+Dictated By: Vickie Frank-Jarvis
+
+
+eScription document:9-9294537 RFFocus
+
+
+
+DD: 06/20/74
+DT: 06/20/74
+DV: 06/20/74
+
+
+
+_____________________________
+Dr. Robert J. Lennon, Jr.
+5260 Crestwood Avenue
+
+
+
+
+____________________________
+Dr. Robert J. Lennon, Jr.
+
+
+
+
+DD: 06/20/74
+DT: 06/20/74
+DV: 06/20/74
+
+Dr. Robert J. Lennon, Jr.
+
+
+
+_____________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\section{Introduction}\label{sec:introduction}
+The goal of the CVD project was the development of a software system that will assist a physician in the diagnoses and treatment of cardiovascular disease.  The software system is designed to help the physician in three main areas: the identification of possible disease, the development of a plan for treatment, and the tracking of the progress of the treatment program.
+
+In order to accomplish this goal it was necessary to define a set of rules that governed the diagnoses and treatment of cardiovascular disease.  These rules were then implemented in the software program by the creation of a database in which the diagnoses and treatment of the patients were recorded.
+
+The software package that was developed for the cardiovascular project is an extension of the software that was designed for the COPD project, but with several important differences.  The major differences were the addition of an interface to retrieve the patient's medications from an external database, and the inclusion of a number of features to aid the physician with the diagnosis and treatment of cardiovascular disease.  These features include the ability to track the results from the electrocardiogram (ECG) and the ability to track the results of a nuclear stress test.
+
+As part of the project a software application was also designed and implemented. The application is designed to aid the physician in the treatment of cardiovascular disease.  The software allows the physician to review a patient's medications, enter new orders, and view a patient profile.  The profile includes the patient's past medical history, all current diagnoses, and the medications that the patient is currently taking.
+
+\section{Background}\label{sec:background}
+Cardiovascular Disease (CVD) is an epidemic in the United States.  The prevalence of CVD is growing at an alarming rate.
+
+In 1990, 77.8 million adults in the U.S. were living with cardiovascular disease.  Of these,
+28 percent of all adult men and 25 percent of all adult women had high blood pressure. 
+15 percent of all adult men and 26 percent of all adult women were smokers. 
+17 percent of men and 10 percent of women had elevated cholesterol levels. 20 million adults were diagnosed with coronary heart disease, and 5.3 million were living with a previous heart attack. 10,200 new cases of heart disease per day occurred. 
+
+In 1999, 52 million adults had high blood pressure, 42.6 million adults were smokers, 31.3 million had elevated cholesterol, and 18 million had heart disease.  The prevalence of heart disease has not decreased since 1990.
+
+The direct costs from health care services and lost productivity in 1998 totals $356 billion and will rise to 600 billion by 2010.  In 1998, 410,000 people died of heart disease, or one in every three deaths nationally.
+
+Heart Disease is a disease of lifestyle, but many people are unaware of what is healthy and what is not.  Many people are unaware that smoking and high blood pressure cause cardiovascular disease.  Many people are unaware that their cholesterol levels should be controlled.
+
+Cardiovascular disease is often not prevented because of a lack of understanding of the causes and the prevention measures, and because of a lack of motivation.
+
+The purpose of the CVD project was to design and implement a software program that will aid the physician in the identification, diagnoses, and treatment of cardiovascular disease.
+
+Cardiovascular disease can be treated with many different medications.  The medications include beta blockers, angiotensin converting enzyme (ACE) inhibitors, and statins.  Beta blockers are used to reduce the rate of the heart.  ACE inhibitors are used to reduce the workload of the heart.  Statins are used to decrease the production of cholesterol in the liver. 
+
+The medications are often used in combination to achieve the best outcomes.  Many medications have side effects.  In most cases, the side effects are well tolerated, but the physician should keep an eye on a patient's vital signs, especially their blood pressure, when a medication is prescribed.
+
+It is very difficult to keep track of a patient's medications.  In most cases, a patient will be given a prescription for a new medication by their doctor.  The patient will take the prescription to the pharmacy.  The pharmacy will fill the prescription and give the patient instructions on how to take the medication.  After several doses the patient returns to the pharmacy to have their blood pressure rechecked and to have another prescription refilled.  The process is repeated each time a prescription needs to be refilled.
+
+If all the prescriptions for a patient were written out at one time, it would be very easy for the patient to take the prescriptions home and keep a record of them.  It would also be very easy for the physician to keep track of the medications that the patient is taking by keeping track of the prescriptions.
+
+It should be noted that most of the patients who are prescribed these medications do not have a medical background.  Most patients are not capable of keeping track of their prescriptions.
+
+The medications are often prescribed for a long time.  Some of the prescriptions are prescribed because a medication is needed for a long time.  Many people continue taking medications long after their prescriptions have expired.  It should be noted that the FDA has issued a warning that many people who take statin drugs long after their prescriptions have expired are putting themselves at risk of liver disease or muscle damage.
+
+Many physicians are not aware of the side effects of their patients.  Physicians often do not know that they can cause side effects.
+
+
+It is the goal of the physician to keep track of the medications that their patients are taking.  The physician should also keep track of what prescriptions have been given out.  The physician should also track when a prescription needs to have been given out.  The physician should keep track of all of their patients.  The physician should keep track of all of their prescriptions.  There prescriptions.  The physician should keep track of all of their The physician should keep track of all medications should 
+
+
+
+
+DDD:50285
+
+
+
+
+
+
+DDD:
+
+
+
+
+
+
+
+
+\
+\
+\
+
+
+
+170
+
+
+
+
+
+V 
+
+\n
+
+
+
+
+
+
+
+
+
+
+
+\
+
+
+
+
+
+
+
+
+25
+
+
+
+
+
+
+
+
+
+
+
+
+\n
+
+
+
+
+
+
+
+
+
+\
+
+
+
+
+
+
+\
+
+
+
+
+
+
+
+1
+
+V
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\
+
+
+
+V.
+
+
+
+
+
+The card
+\n
+
+
+
+\n
+
+
+
+
+
+
+
+
+
+
+
+V
+
+A
+
+
+
+
+
+
+
+
+
+
+Dr.
+13
+12.
+An
+13
+
+121 20 9
+
+
+
+
+
+
+12
+
+
+
+
+
+
+
+R
+1
+ 
+
+0 
+
+
+
+
+
+ 
+A
+
+A1
+
+C 5
+
+
+
+
+
+  
+
+
+
+
+1 2
+
+
+
+M
+
+The
+11
+
+A
+A - 5320 1
+
+A 1
+
+A.
+
+The 152
+I (
+
+and, 5A. You (104. The. It:0,9906, 5. 8A (4, 9: 6:05010
+12310,1524 (3:A
+: (H and: A1. An.1624996324 9
+
+(0:1. A. 0A
+C An 5,91122,3: 2, 0,
+H, 0.A.171813 An C
+C
+1005 -1 An: A
+C-H A, H-15 C An An - C131 An An.An, Anist.  An An An C (C An, 4905: An An (3, 1-6 (A-0 An.A-  (10.5, 20.1,  [1-1, the. An,10-131914 An An An R1: An:1: An: : R,.A and:348.9-6.50, An.. C. An.. An An. An. A. An.An.3-5. Anistic (412 (1. C-12-1-20-3-9-10 C02,1 An1 An.7. 0. An. An An. An. An. An An. An An An An. An An An C An An, an an C A An An An An An An An An0 An2 (21 An An-9, c. An. C.. H. C. and.. An-p. H cism  C, C and, a. (  c. an-0..  c. An:  c in (1.1.. and and and. (. An. and...... An. An. : in.-2. [1. An in.:.-I.-c.-inist-c-c: An C-ch in.-1 in -:: ( [-c in the1. in C c.1.1 [- [ in [ [ [- [: [ of. [- of a: [.. in. (. [-  [- C-k. C.. C.-d. (-in.-1. An. An C. C ( an:: C. An An. of an.. C: c-k of a C. c: cm: c a c c. C C An C. C.. cm C. c. c. C an c an C C. C. C C (-ch (-ch -. c. C. [ c-c [. C-c in (.-c-c-cc-C (.-c of of of of of of an. c-p [... C. C of ( of ( c of the of- of of c of a-d-d ( c (-0 a-cm [ of ( of c of ( of-cc ( c. of. of C C c c in c in C (-c in in C C [ C. C C of and ( c. C and-a c in a c in c c in in of- of of of of C of, of of c c of of c c for for ( c for for for in and of c. of of of of of of of C C of of of C and- c. in ( C for a cm- c.- cm- and-c in c. in cm of in c. m. C C C C. C B. in c of of a of of C of of of of b of of c of of cine c c in- c of c b c of of of of c of of of cm of c. of and of of of of ( of of of c of of of of of of of and of of of of:- a and: a c. ( a- c in c a (.- c of ( c of. (- c a of of c- of of. of of of ( in of in a of c of of in of of of of of of of of of of of in of of of of of- c of of of of c of of of of of of of of to of of c c of ( of.- of c of c of of to of- of ( of of of ( of of of. of. a of [ of ( of c g of of g of. of of c. of of of of of a- of c of (- a in of cm. g of of cm of c of- of of of of a of c and of a c of. in c.. cm ( a- of a of c of c. k ( a- c a c in- a in and- k c- a. c cm, c ( g c- a- c ( of of and and- a- c c- c co- g ( cm c c of of of co and of of of of m of.- and of- cm- a in- c- a in a in- a c and, of of j of of- of of and of the- of and in- and- a of c- and of- to-5- of the- and of c of of of of a, c.- c c- c of a of of a of the of and of c ( and c- of c of.. of j c c of c c- of a c of of of c of her of a of of a of of- of of m of of of of of of of of of of a of of of of of of the of a of- of the-0 of. of of of- a and of a and,-5-1- of of of of of of of of of of  of of of of of of of of of of of of of of- of of of the c a- a- a ( a c of- of a of of the of of of of of of (- j and ( c of and of and of- of a, of of (- of of of of of of of of ( of ( of of of of of of- and c in- c-2 in c ( of ( of c, ( of the in, a c,- the c in to,- to to- and to in c- of of of of, of of

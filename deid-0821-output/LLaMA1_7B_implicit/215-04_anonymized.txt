@@ -1,0 +1,405 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2129-05-10
+
+Booked for CPE, but current symptoms took precedence.  
+
+
+
+Pt presents very discouraged over escalating Lasix doses and persistant problems with reccurent edema and cough, each time relieved by increasing diuretics, so ACEI cough seems unlikely.  Avoiding all salt in diet with good compliance.  Did see sleep lab tech, tried new settings and mask on new machine, but still tolerates poorly.  When discussed in some detail, notes feelings of suffocation with wearing mask for any period of time.  Also notes sense of being tied down frrom mask very difficult to tolerate.  Without exploring details greatly, we discussed potential role of PTSD in precipitating symptoms related to mask use, and potentially  the effect of nocturnal hypoxia and RV strain on accumulation of fluid.  Improving tolerance of CPAP seems very key.  Pt has started atkins dt with good success (6# in first week), and improving BGs are requiring reduction in insulin, which is great.  so it seems that addressing OSA is the key to improving overall status now.  We discussed some options...Including potential for tracheostomy to fix this without having to address mask, but agreed to try to initiate trial of CBT to see if we can improve mask talerance with symptom reduction.  He remains quite clear that he has no interest in furhter "exploring" the PTSD history, and I reassured him that CBT does not require doing this.  
+
+
+
+OSA:  Likely has near optimal mask set up now...We'll explore potential for CBT with sleep center or perhaps cardiac rehab source.  Hopefully this would address fluid imbalance to a greater extent as well.  
+
+
+
+DM:  improving with wt loss and diet.  Agree with insulin taper as sugars drop.  UAMLB high but < 1 year ago, recheck in future.  Creatinine stable 2 months ago, recheck renal panel with labs.  Optho and podiatry current.  
+
+
+
+Lipids: last LDL was an outlier..Has slip fro repeat FLP.  
+
+
+
+Coronary artery disease : s/p CABG 5/25, satable on ASA/Statin/ACEI/BB
+
+
+
+Hypertension 
+
+Vital Signs
+
+BP 118/70, Wt 235 lb
+
+well controlled.  
+
+
+
+Peripheral vascular disease : claudication limited Sx with limited exercise tolerance.  
+
+
+
+Obesity :  adtkins dt as above.  
+
+
+
+Glaucoma : Dr. Russo, HWS, gets regular f/u.  
+
+
+
+Insomnia : since service. NTI helped a little in past, not after a while. CBT might help if successful.  
+
+
+
+Reviewed HM, mostly up to date, should get Td update at some point or if wound, counseled.  
+
+
+
+Most of 40 minute visit counseling on CBT, PTSD, sleep apnea, and concern about failing regimen.  
+
+Emailed Barbara Fierro, Sleep center, Dr. Yeargin, and Dr. Ingham of Rehab to help identify best CBT practitioner for this.  
+
+_____________________________________________
+
+Leon Virgil Fontenot, M.D.
+
+
+
+
+
+
+
+
+
+"""
+
+
+def _make_detailed_history_text():
+    history_text = """
+
+
+Date: 2129-05-10
+Booked for CPE, but current symptoms took precedence
+Pt presents very discouraged over escalating Lasix doses and persistant problems with reccurent edema and cough, each time relieved by increasing diuretics, so ACEI cough seems unlikely. Avoiding all salt in diet with good compliance. Did see sleep lab tech, tried new settings and mask on new machine, but still tolerates poorly. When discussed in some detail, notes feelings of suffocation with wearing mask for any period of time. Also notes sense of being tied down frrom mask very difficult to tolerate.  Without exploring details greatly, we discussed potential role of PTSD in precipitating symptoms related to mask use, and potentially the effect of nocturnal hypoxia and RV strain on accumulation of fluid. Improving tolerance of CPAP seems very key. Pt has started atkins dt with good success (6# in first week), and improving BGs are requiring reduction in insulin, which is great. so it seems that addressing OSA is the key to improving overall status now. We discussed some options...Including potential for tracheostomy to fix this without having to address mask, but agreed to try to initiate trial of CBT to see if we can improve mask talerance with symptom reduction. He remains quite clear that he has no interest in furhter "exploring" the PTSD history, and I reassured him that CBT does not require doing this.  
+
+
+
+OSA: Likely has near optimal mask set up now...We'll explore potential for CBT with sleep center or perhaps cardiac rehab source. Hopefully this would address fluid imbalance to a greater extent as well.  
+
+
+
+DM: improving with wt loss and diet. Agree with insulin taper as sugars drop. UAMLB high but < 1 year ago, recheck in future. Creatinine stable 2 months ago, recheck renal panel with labs. Optho and podiatry current.  
+
+
+
+Lipids: last LDL was an outlier..Has slip fro repeat FLP.  
+
+
+
+Coronary artery disease : s/p CABG 5/25, satable on ASA/Statin/ACEI/BB
+
+
+
+Hypertension 
+
+Vital Signs
+
+BP 118/70, Wt 235 lb
+well controlled.  
+
+
+
+Peripheral vascular disease : claudication limited Sx with limited exercise tolerance.  
+
+
+
+Obesity : adtkins dt as above.  
+
+
+
+Glaucoma : Dr. Russo, HWS, gets regular f/u.  
+
+
+
+Insomnia : since service. NTI helped a little in past, not after a while. CBT might help if successful.  
+
+
+
+Reviewed HM, mostly up to date, should get Td update at some point or if wound, counseled.  
+
+"""
+
+    return history_text
+
+
+def _make_short_summary_text():
+    summary_text = """
+
+
+Date: 2129-05-10
+Booked for CPE, but current symptoms took precedence
+Pt presents very discouraged over escalating Lasix doses and persistant problems with reccurent edema and cough, each time relieved by increasing diuretics, so ACEI cough seems unlikely. Avoiding all salt in diet with good compliance. Did see sleep lab tech, tried new settings and mask on new machine, but still tolerates poorly. When discussed in some detail, notes feelings of suffocation with wearing mask for any period of time. Also notes sense of being tied down frrom mask very difficult to tolerate. Without exploring details greatly, we discussed potential role of PTSD in precipitating symptoms related to mask use, and potentially the effect of nocturnal hypoxia and RV strain on accumulation of fluid. Improving tolerance of CPAP seems very key. Pt has started atkins dt with good success (6# in first week), and improving BGs are requiring reduction in insulin, which is great. so it seems that addressing OSA is the key to improving overall status now. We discussed some options...Including potential for tracheostomy to fix this without having to address mask, but agreed to try to initiate trial of CBT to see if we can improve mask talerance with symptom reduction. He remains quite clear that he has no interest in furhter "exploring" the PTSD history, and I reassured him that CBT does not require doing this.  
+
+
+
+OSA: Likely has near optimal mask set up now...We'll explore potential for CBT with sleep center or perhaps cardiac rehab source. Hopefully this would address fluid imbalance to a greater extent as well.  
+
+
+
+DM: improving with wt loss and diet. Agree with insulin taper as sugars drop. UAMLB high but < 1 year ago, recheck in future. Creatinine stable 2 months ago, recheck renal panel with labs. Optho and podiatry current.  
+
+
+
+Lipids: last LDL was an outlier..Has slip fro repeat FLP.  
+
+
+
+Coronary artery disease : s/p CABG 5/25, satable on ASA/Statin/ACEI/BB
+
+
+
+
+Hypertension 
+
+Vital Signs
+
+BP 118/70, Wt 235 lb
+well controlled.  
+
+
+
+
+
+
+
+
+
+Peripheral vascular disease : claudication limited Sx with limited exercise tolerance.  
+
+
+
+
+
+Obesity : adtkins dt as above.  
+
+
+Glaucoma glaucoma glaucoma glaucoma glaucoma glaucoma glaucoma glaucoma glaucoma
+
+   
+
+   
+
+   
+   
+   
+"
+   
+   
+   
+   
+   
+   
+   
+"""
+   
+
+   
+
+   
+
+   
+
+   
+   
+   
+   
+   
+   
+   
+
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+   
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+   
+   
+   
+   
+   
+   
+
+      
+        and   
+   
+   
+   
+   
+   
+   
+   
+   
+
+   
+   
+ 
+   
+
+
+   
+   
+
+
+
+   
+
+
+    and
+
+   
+
+
+        
+   
+   
+
+
+
+   
+       
+     
+
+   
+
+"
+
+
+
+   
+
+ 
+   
+
+
+   
+ 
+
+
+
+
+   
+
+
+A   
+
+
+
+
+
+
+
+
+   
+ 
+ 
+
+
+  
+  
+   
+  
+
+A/ 03
+
+
+
+
+and 
+
+
+
+
+
+
+
+and/ 
+
+
+
+
+
+and.
+
+
+
+
+
+
+  
+202.
+
+    
+2.
+
+and 
+
+
+15
+
+
+
+12, and 4 day
+ and the date.
+
+ 3.
+
+to 
+date and.
+
+and date ( 2
+The and the following and not (
+A and date.
+, but the following.
+.
+ and the  and the date.  1535 date date with Friday, 20. 19, time. ( 14 65 and the time.
+.
+
+The, and 
+
+with and the, but: the 52. 10: (20 (
+A (
+.
+ and/with a date and the. 15.
+
+and. 22A, 16 916210, the (132:A butual 13 and a.  and with (not. An in a (with, 2 in with andile, the and the.  a, and the (the and the (time but,  of "  the.  in,.  but.
+ and.
+.  ( of  and  of the (1 butual,  and and and,  and in and the, 1 and, 2 and a 135 and 2019, 8020220 and a 4 and a and over 5/ 3 and  over., 1 and an,1 with  with one, but, with the,  and "s-  (t.
+. -cub-.,, but a and the 1 and. An and a and a and a-d with the (t,  (and but and, 1-a-2 and a and a and the and " but, 3 and and, c. (1 (1, cital and in  and " a, but but, 2, time time, and time. and and, and and "to "t and, a in the and, "in, 1 and the,  " 2  (the and or  to "  to the to the,  and, 1, and or and and 2 " and,  "c and in: " and the and a for that (th and and a ( the in a: An ( and:
+ with 0 and the as a, and the.
+.
+ and, with the and: An with: and M and: but and, the and the.  and 0 as, and with an in the as with the by in as  with an as a ( (  as and - and. and with the, as in the with and and and [ in the, ( and, [ ( " but, and, if butness-c if, in [ but in but in the and  in, [ but, ( in a- and and.-c., and, and and - but with the. in, [ and,  and, C C and in and M, C in  in in the-c,, " ( and and in in " and-  and.,.,,, (, and of ( in and, in, (, c, ( and, inness (/c, in, in and and-c in  and and-p  (  and -  in  in  and,  and and in in  in C, in C,  C in C " and and c inness, C C and c and, c, and - and, "  c C C B in C and, C and in in, if in if in in, of C of C and to. to in to in of that, to.  if. if if c if if if, c in in in, (ct, in c c. c and if if ifms. with if, c. C, (.  of, ( and C,,,, P-N, and and.. C and and and and C " c with in the.. and c, and in C in c C. and to and and. and,/  and. and c and in of ( in., to c and and of a of the of C of, c (., ( and ( and of of the c of c of  and c C S C and c of and of-p.
+
+ C
+ to C of and, to that on of  of to c of c if of and of- of of. of, of and and.. of- N c, c.- c - n and ( w, (.- C, and n m s and or in in or in in.. and and. if ( w in- if and if if if if if if if if if and c. if- and C. if.. and and,, B- C ( N in B- bs, that in c that and, that B c [ C and, (. c, and ( and, and or ( and. A. " C of.  and and B, C C, and B C- in, in ".
+, in ( C- N C and,. c ( C C C- C- cm- or of C c- of and, and ( C to c in or of c of ( A of c/0 (., of, of of L and. and of in,,., c and and and- S. and- C, and. C, ( and c, of- and. C and of of of, (. A C " c ( and " of, of. and of and of ( and. and. c of and of of and C of and, [. of the. C (. of of of ( and and and, of of and of  of of, c and, C and, in c ( in C C and A C. and in of in. C/ C. c of ( of of and., and of of., of, of of of the of c of of A of c and ( c. b c c- n or for and in c and and C, c to c to c c. c. C w c c or t- c of c to of c c of of and c and c or of and of w c ( of and c b and b m t and c and c- cm and and and. C, [ and ( c and ( and ( c and C V and A C C- c of c of C of in and in and of H A A A C c of c t- of C H B- in- n H c a c- A- A C ( c, c ( H- c te A c te of C A,,, in in H in in in in in C and C. V, ( c- C in- c V- and in-

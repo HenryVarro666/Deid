@@ -1,0 +1,924 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2096-08-06
+
+                     BHC EMERGENCY DEPT VISIT
+
+ 
+
+MARVINYANDELL,GRACE   904-68-07-1              VISIT DATE: 08/06/96
+
+HISTORY OF PRESENTING COMPLAINT:  This patient is a 68 year old 
+
+woman who is being seen by Dr. Dodd who had what was a syncopal 
+
+episode on the premises.  A code was called when bystanders and 
+
+medics reported she was on the floor, diaphoretic and clammy.  The 
+
+patient drank something and then proceeded to be taken to the 
+
+Emergency Department. 
+
+The patient had a cystoscopy planned for today.  She took her 
+
+medication for her diabetes and presented here with weakness, 
+
+nausea, diaphoresis and felt like she may have passed out.  Her 
+
+other complaint was mild back pain from passing out.  No epigastric 
+
+pain or tenderness and no chest pain.  The patient never had any 
+
+chest pain prior to her event.  She is followed by the United Medical Center East and their input is pending at this point. 
+
+PAST MEDICAL HISTORY:  The patient has a past medical history 
+
+significant for diabetes, hypertension, hypothyroidism and 
+
+migraines. 
+
+MEDICATIONS:  The patient's current medications include Plavix, 
+
+Calan slow release and Glucophage. 
+
+ALLERGIES:  The patient is allergic to intravenous pyelogram dye, 
+
+Percocet, penicillin, cephalosporin and lisinopril. 
+
+PHYSICAL EXAMINATION:  HEENT:  Examination is normal.  LUNGS: 
+
+Clear bilaterally.  CARDIAC:  Regular rate and rhythm with no 
+
+murmurs.  ABDOMEN:  Soft and nontender.  EXTREMITIES:  Normal. 
+
+GENERAL:  The patient looks well and has no complaints here. 
+
+LABORATORY EVALUATION:  Finger stick in the Emergency Department 
+
+was 160.  Electrocardiogram shows some PR depressions in multiple 
+
+leads.  No significant ST elevations. 
+
+THERAPY RENDERED/COURSE IN ED:  Impression is this patient is a 68 
+
+year old female with planned cystoscopy today who passed out on the 
+
+premises.  A code was called overhead.  Bystanders reported that 
+
+the patient was diaphoretic.  They gave her something to drink. 
+
+Her blood sugar here was within normal limits.  The patient has no 
+
+complaints of chest pain or shortness of breath.  She looks well 
+
+but does have PR depressions on electrocardiogram but has no rubs 
+
+or gallops on her electrocardiogram.  The patient was made NPO 
+
+because of her cystoscopy procedure. 
+
+FINAL DIAGNOSES: 
+
+1.  Syncopal episode versus presyncope from the taking of her 
+
+diabetes medicine this morning. 
+
+2.  PR depression on electrocardiogram which appears to be new.  No 
+
+old electrocardiogram to compare.  We need to address the PR 
+
+depressions.  This is possibly pericarditis but it is unlikely.  I 
+
+would think that this more likely ischemia than pericarditis. 
+
+3.  Cardiac ischemia. 
+
+DISPOSITION (including condition upon discharge):  The patient will 
+
+need admission and a formal rule out.  She may even need an 
+
+echocardiogram inpatient.  A full work up is pending.  The 
+
+patient's full disposition is pending and she was signed out to Dr. 
+
+Aleta Nunley at 15:00. 
+
+___________________________________                    TR682/13484 
+
+GEORGE DUNHAM, M.D.       GD74                           D:08/06/96 
+
+                                                       T:08/06/96 
+
+Dictated by:  GEORGE DUNHAM, M.D.       GD74 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+___________________________________                    TX545/23464
+
+REVISED:  
+
+MARVINYANDELL,GRACE    904-68-37-0003       VISIT DATE: 96-08-06
+
+MEDICAL HISTORY: PATIENT WAS SICK AS A CHILD WITH TRAMPLED BRAIN.
+
+HISTORY OF PRESENTING COMPLAINT:  This patient is a 68 year old
+
+woman who is being seen by Dr. Dodd who has seen this patient
+
+before and has a very good history. She has some hypertension and
+
+has been taking the following:  Diovan, 12.5 mg 1x/day
+
+Lisinopril, 20 mg 1x/day
+
+Procardia 10 mg 2x/day,
+
+Plavix.
+
+___________________________________                    TX545/23464
+
+MEDICATIONS:  The patient's current Medications include:  Diovan,
+
+Lisinopril, and Procardia.  __________________________________                    TX545/23464
+
+MEDICAL HISTORY:  The medical history for this patient includes:
+
+__________________________________
+
+
+TREATMENT RENATURAL: The patient's treatment:  ___________________
+
+
+______________________
+
+TREVENEtial _______________
+
+
+______________________: 
+ 
+
+______________________
+
+
+______________________
+______________________________
+_____________________...  ________________ 1195. 0
+_______________ 18. ______ ______________112 __________
+_____________________12_____________________..
+
+[ ] 
+___________________ 1
+________________ 1__________
+______________
+
+____________________
+_______________________ ______________ ______ ___________
+________
+________, and ______________ 2. 
+_____________________
+__________________
+_________________________
+____________________ __________
+
+________
+_
+_____date, _________
+
+_____________________ 
+________, __________
+____________ names, dates 
+________ and name and name or name, etc.
+________________ names, names,
+
+________________.
+________.
+Name of _________ or _________ and _
+
+
+
+[…
+
+date
+
+
+name _
+names: 
+(name names
+
+name, _name 2. 1
+
+
+
+18001 or the name, date: 
+
+The 0
+19...
+
+... or [or names of the patient, names, and names, as, and name, or... (
+(and names, or 8, or the letter and, as a 
+
+or or [...
+
+...
+and, but, 1, and 12-name (drew...the following...
+[name and 10... 2: the following information code...: you, a patient:
+(
+...11... and “:1,11 (1… 3:
+[:
+
+... are: and identify the:
+: 3-andized name 10 or the (not, the names or, and, 8 and, and the or and the and, or, the, and, and, “...
+
+use the: and the ([1, and the... and, “and are…1 (the [and the… and and,...12 9-and, 
+and are, and. The… and, and the, 0,
+... and, (1, [
+[, and, 1 [1, and, [0 (and, and (are. 5 of and are a, and, [1, are, a and are, (..., [, are, "and, (of the:, and the, and, the (1: "and with "1. 1. 1: 1:: an "and.11. [are-1 are 1-re 1 of an,  and or or (
+ ( 1, (1, 4, [[1, 2, (an, and. and of and and, and and and, 2,  and 3, and, an 2 are the are and and-an, and or, and by " 0 and (ann, 2, 0... an and and of and (An. an (. and, or and an or, an 4 in an (an, or in " or or, and of it of  and of it of the, 0 (1, an, 1, and, (d (and, and an of the, 1 and-0, an " and-1 and,1, (1-1-1, (( and, an: 1,: (: and-an-10 "1 and-1,:: and: and (: : (: 1 or: anistic: an or an an and-with: : : an: in " are  or are " [-0-an-, (, (. an of the of the of the.  and and and- and and,,,. [ and, [[ and, [ [.  ( or [ or or, [ and in or, by or or by (,  ( ( and are  an, an are an ( and  ( (- - or and- 0 [, ( or of " and an,, and, of of an, of - and -  (, ( and and, an in and,,, ( " of  and of ", of an, of [  (0-0- an or- in in,  and an or- of the or of,  or or an, ( and an and  by, an and- of, of of  of  of, (,  and, (  and  and and.  by or in, and-  for and in or of - 1- an-1-0-1-an or - and- or - and  and,  or  and,,, an, and and  and and or, and, and -  and of an and or-00 or or, or -011 or to and, to  and ( to to  and,,, to and of an of an of  and of the of the and and ( C,,, and (, and, - and,, [ and 0  or for a  and for 0, and,  ( and and for, or and, and (  or, or or, c in- and an and or, " ( an- an in or, or in or " and.  or or and or and- and in and in, and ( and and- or or of and of c or- and by c- and- and and and.- and ( and of of : and and- ( ( c: (:  in or by-c- and- in c- and and and- and- of a of " of the ( and and m. and or c and or or. or.. of or of of an or, of and of or, ( or.-, and ( and and and as or,. and, as of a and or of of of of and of of the of and, B and ( and- c and and- and ( and to and and and to and.. to to,- to to, and to and to to, to and and to.-  of and of the of of, of (. C and - ( and C C, ( to (- and to and of and.. and (  ( and and and and  or - and and or, and or and, (, and or, and and or or and or  and and to c ( and,,,,  and, and and,, and by c and. an or by and- -1 or,, or, and-1 and an and or in and an and and, (  and ( t ( and and and, c (,, by,, and,, and and,. and. by and, (,,,, and and and,,,, and,,, and and of the, and as,, to and, to ( and,,, ( c and,,, (,,,,, and c,, and and and to,, and and, and in her t and,, and. and, and ( B c and. c to ( and and  C and and and c and and t " ( and " ( B and, ( [, or ( and- an ( and- C, (, ( " and, and and (  and " to, and  t w ( and and,- c and and or c or,, ( and, and and and, and, and, ( and and,, (,,,, and in, _ and, and " and,,, and, a,,, and and,, and, on, and and and as, and, and and in,,,,,,,,,, and,,, and,, and ( ( and. in, and B,, and  in and and and  (, or,, and., and w, (,,, and,,,,,,,

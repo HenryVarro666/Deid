@@ -1,0 +1,314 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2070-03-22
+
+                     PROMPTCARE EMERGENCY DEPT VISIT
+
+ 
+
+UMALI,DANA YURI   124-23-22-9
+
+The patient was seen by me along with Dr. Frank Griffin on 03/22/70.  
+
+The history is documented by Dr. Griffin.  It was reviewed by me 
+
+with the patient found to be accurate and complete.  The physical 
+
+examination was confirmed by my examination.  Evaluation and 
+
+management was also concurred with.
+
+PRESENTING COMPLAINT:  Right face and arm numbness.
+
+HISTORY OF PRESENTING COMPLAINT:  This is a 66-year-old woman with 
+
+a new onset at 11 p.m. with right face and right arm numbness, now 
+
+improving.  No speech or motor deficits.  No recent illness.  
+
+REVIEW OF SYSTEMS:  No fever, chills, nausea or vomiting.  No 
+
+headache, no neck stiffness.  All negative.
+
+PAST MEDICAL HISTORY:  History of hypertension, diabetes and has a 
+
+history of hypercholesterolemia.  She had a cerebrovascular 
+
+accident with left sided weakness which has resolved in the past.  
+
+MEDICATIONS:  Hydrochlorothiazide, Zocor, Glyburide, Captopril and 
+
+enalapril.  The patient also takes metformin.
+
+ALLERGIES:  None.
+
+SOCIAL HISTORY AND FAMILY HISTORY:  She does not smoke or drink.  
+
+She lives with her family and her husband.  The patient speaks 
+
+Taiwanese and daughter and son are interpreting.  
+
+PHYSICAL EXAMINATION:  GENERAL:  Awake, alert and oriented woman in 
+
+no apparent distress.  She is a very pleasant lady, smiling at 
+
+times and makes eye contact.  VITAL SIGNS:  Temperature 97.8, pulse 
+
+84, respirations 20, blood pressure 166/66.  HEENT:  Normal.  NECK: 
+
+Normal.  LUNGS:  Clear of rales, wheezes or rhonchi.  
+
+CARDIOVASCULAR:  Regular, rate and rhythm.  ABDOMEN:  Nondistended. 
+
+Bowel sounds are normoactive and nontender.  SKIN:  Intact, warm 
+
+and dry with no lesions or rashes.  EXTREMITIES:  No cyanosis.  
+
+Normal extremities with no deformities, joint effusions or 
+
+crepitance noted over her joints.  She has a subjective decreased 
+
+sensation over her right lower forearm.  NEUROLOGICAL:  Cranial 
+
+nerves II through XII are intact.  She is oriented x3.  She has 5/5 
+
+motor in upper and lower extremities.  She has not walked, 
+
+therefore gait cannot be assessed.  She has no dysarthria, no 
+
+dysmetria and no signs of any focal weakness.
+
+LABORATORY EVALUATION:  Electrocardiogram revealed a sinus rhythm.  
+
+CT of the head was negative on initial evaluation.
+
+DISPOSITION (including condition upon discharge):  As such, 
+
+neurology was called and they elected to admit her.  She was 
+
+admitted on 03/22/70 by Dr. Yang in stable condition.
+
+___________________________________                    JT365/31932 
+
+NORRIS ELDER, M.D.     NE00                            D:03/22/70 
+
+                                                       T:03/23/70 
+
+Dictated by:  NORRIS ELDER, M.D.     NE00 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+*/
+package com.google.hbase.example.llap;
+
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
+
+import org.apache.avro.generic.GenericRecord;
+import org.apache.avro.generic.IndexedRecord;
+import org.apache.avro.generic.IndexedRecordReader;
+import org.apache.avro.generic.GenericDatumWriter;
+import org.apache.avro.generic.GenericRecordBuilder;
+import org.apache.avro.generic.GenericRecordWriter;
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.fs.Path;
+import org.apache.hadoop.fs.PathFilter;
+import org.apache.hadoop.hbase.Cell;
+import org.apache.hadoop.hbase.ColumnFamilyDescriptor;
+import org.apache.hadoop.hbase.HBaseTestingUtility;
+import org.apache.hadoop.hbase.HColumnDescriptor;
+import org.apache.hadoop.hbase.HConstants;
+import org.apache.hadoop.hbase.HTableDescriptor;
+import org.apache.hadoop.hbase.KeyValue;
+import org.apache.hadoop.hbase.KeyValueUtil;
+import org.apache.hadoop.hbase.LargeTests;
+import org.apache.hadoop.hbase.client.Get;
+import org.apache.hadoop.hbase.client.HTable;
+import org.apache.hadoop.hbase.client.Increment;
+import org.apache.hadoop.hbase.client.Mutation;
+import org.apache.hadoop.hbase.client.Put;
+import org.apache.hadoop.hbase.client.RetriesExhaustedException;
+import org.apache.hadoop.hbase.client.Table;
+import org.apache.hadoop.hbase.io.ImmutableBytesWritable;
+import org.apache.hadoop.hbase.mapreduce.MapreduceTestingUtil;
+import org.apache.hadoop.hbase.mapreduce.TableMapReduceUtil;
+import org.apache.hadoop.hbase.util.Bytes;
+import org.apache.hadoop.hbase.util.HBaseTool;
+import org.apache.hadoop.hbase.util.Pair;
+import org.apache.hadoop.io.NullWritable;
+import org.apache.hadoop.io.Text;
+import org.junit.After;
+import org.junit.Assert;
+import org.junit.Before;
+import org.junit.Test;
+
+import com.google.common.collect.Lists;
+import com.google.common.collect.Maps;
+import com.google.common.io.Files;
+
+import junit.framework.Assert;
+
+@LargeTests
+public class TestTableMapReduce {
+
+  private static final HBaseTestingUtility TEST_UTIL = new HBaseTestingUtility();
+
+  private static final String TABLE_NAME = "TestTable";
+  private static final int NUM_ROWS_IN_TABLE = 33;
+  private static final int NUM_COLUMNS = 15;
+  private static final String KEY = "key";
+  private static final String VALUE = "value";
+  private static final byte[] ROW0 = Bytes.toBytes("row0");
+  private static final byte[] ROW1 = Bytes.toBytes("row1");
+  private static final byte[] ROW2 = Bytes.toBytes("row2");
+  private static final byte[] ROW3 = Bytes.toBytes("row3");
+  private static final byte[] FIRST_COLUMN = Bytes.toBytes("f1");
+  private static final byte[] SECOND_COLUMN = Bytes.toBytes("f2");
+  private static final byte[] THIRD_COLUMN = Bytes.toBytes("f3");
+  private static final byte[] FOURTH_COLUMN = Bytes.toBytes("f4");
+  private static final byte[] FIFTH_COLUMN = Bytes.toBytes("f5");
+  private static final byte[] SIXTH_COLUMN = Bytes.toBytes("f6");
+  private static final byte[] SEVENTH_COLUMN = Bytes.toBytes("f7");
+  private static final byte[] EIGHTH_COLUMN = Bytes.toBytes("f8");
+  private static final byte[] NINTH_COLUMN = Bytes.toBytes("f9");
+  static final byte[] TENTH_COLUMN = Bytes.toBytes("f10");
+  private static final byte[] 
+
+
+  private static final byte[] 
+
+  private static final byte[] 
+
+  private static final byte[] 
+
+  private static final byte[] 
+
+  private static final static final byte[] 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+
+ 
+ 
+ 
+\(
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 33
+
+ 
+
+ 
+ 
+
+ 3
+
+ 
+
+
+
+ 
+
+
+ 
+ 3
+
+ 
+
+ 3
+ 3
+
+
+
+
+
+3. 
+
+ 
+ 
+  
+ 3
+ 
+
+
+189 
+ 
+3
+
+names, 24
+
+The names
+1, 101 and 1
+
+ 23 4
+
+
+111
+33 3.11
+32
+350, and name 3's names and 
+The patient names:112.
+name 
+1
+
+11. 1
+12,1 
+1
+11
+
+3. 
+10 
+name
+The words and the letter codes, and date codes with patient.
+name and name
+11
+the line, and a single  and the name of 11 
+A, and names of the date 
+and 3
+11 or... and the name, and date, and names and... (or or the clin...
+
+
+. The following and a 25…
+The are...
+
+
+are and 
+The date
+The, and a single, and identify codes, name. 2, name (10 of the doctor and the patient data. 12...
+[s and the...the: (patient (1, the...
+and (“andian and 31:
+(10.
+(…... are: 10 and, and, or 
+... (1, as or [and, [and, or, remove the... 1 or orine (...and or (and (
+and, the, 0... and the "
+1: the and the of (
+1 and a or: and the 1 are (are-1 1... of 
+[ 1, 1 and or the and. An or, 1 are 2, and the and, 
+1, and, the, the, the and, 3, or, an, 0, 2, and, and, as the are the and and, 0, an, 1, 1, 1, and, 4 or the (of, the and, the, and and: 3: 2-and (the 0 with names, 10 'an : An and the and [10. [are are 4 
+are or, an of "an 3 and  or the,, by [0 and the 1, anines, (. [. of 0. 3., and, and and (1, 1 (0 (11, are a or are or-may, (ann, 2, 1 (ann and a, an, an, an and the and the - 1 or, the,, an, 4, and a, 0 (an or or, and (an and, an, 20, an or an, and the 3- 3, an an, (3, 7, the, (An, the or: C. 1, an:, the:,:, an: 0 (An: and and a (A:  and:- : [2 and, [0: 1:
+ with the:
+: ": : an:: an: "1: an: an: an " an: an with an and " (:: an or " an- an are- are ( or an and an  [1, in the and of the- of  of it of the,, and or or (. and [: [, [ ( and [An An An An C and or are and ( an ( or and or [: and or,,, are in-  ( [ of, are- or [ or,, an and and  and an or and- an of " an  are  and (, and of [ of  of  [ and in  or and of,  ( or and and, and, and- of " of  of  or or of  and and and ( [ are or in and or an and  and,  are of an of or of or, or- or an (- and - or,,, and in, of  of - and of  and of  and ( ( ( and and [ (  and,  ( and-, of  of an and  or-2 1  and-1 -  and an, an- and, and of, of a of [ of [,,,,  and  or, [ and and, and in,,,, of or  by or- and of or anity- by, by, and, [, by and (, of (, of,, of the of a and and of and of., of -  and and and,,,,, and, and, and-  and and, and and-an of [ and  or with and and of and of  and and of 1, - and and- and and or [ and [ or and and- and or  and or or  an or or or  or  an ( or- ( and an c an and in or in and and or of- of the of or and, and and and- - and and,,,- " and- and and (. of and  and ( (..: [: [1- -1 and and and and and. of  a of  of the and of- (. or-1 (1 or or an and-,-1 and of- of or of, of (-  of [ and and (-, and,.,,,. and,, of  of of of of of- of  of- or of ( and and,  and,,,,,,  or,, -,  and (. and and or ( or and  or, and and and (- ( or and and and and of - of  of of of- and of  and and and ( and and  or and and.,, of an of- and-0 and and and and and and, [ ( and  ( an and -. and, and (, an and an and ( and and and and,, (, and,, and and,, ( and,, and, an with or and, an in - and and- and, and ( and,, and, and and an in,, and, and and and, and and, and and and (. [ and, and (,,,,, ( and, and by,,, and and, and and,  and, and and,, with and and.  of  of an and,  and and  and and  and, and., -  or, and,, ( and,,,,., by, and-ad ( and. ( and -ad and. and and ( and and and (  of  or ad. and and an t- and and c ad or ( and. with ( and-d.  and  ( and ( and -de and an ( or and and and ( and  and ( or and,,, and (  (1 "- ( and ad (- (., and,,, and,,, and,, and ( - and and and and or an and and and and, and- and ad and or A or to and A of, ( or, ( and, and and and and t, and and, ( and,. and,, of and., as ( and and and  and,, and,,, and and and, or and or and and _,. (. or [0- and-,/, ( or- and,, or ( and of and, and,, on or on-

@@ -1,0 +1,261 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2079-07-21
+
+PONTIAC INTERNAL MEDICINE ASSOCIATES          Sherman, Andrew
+                                              7-21-79
+ 
+ 
+ 
+History of Present Illness:  Mr. Sherman is a patient well known to 
+me.  I have seen him on multiple occasions for his coronary artery 
+disease, hypertension, and diabetes.  The patient has had a positive 
+exercise tolerance test recently and was seen by Cardiology who felt 
+that he should undergo cardiac catheterization.  However, patient was 
+overweight and the decision was made for him to reduce his weight by 
+approximately 50 lb. at which time he would be suitable for cardiac 
+catheterization on the Pontiac equipment.  Patient was seen last night 
+in the Pontiac Emergency Room with a several day history of back pain 
+which began in the middle of his back and has subsequently become right 
+flank pain which is persistent and colicky in nature.  
+ 
+On exam in the Emergency Room he was noted to be afebrile.  His exam was 
+notable for CVA tenderness and an exam highly suspicious of renal colic.  
+His EKG was unremarkable and his laboratory exam was unremarkable as 
+well.  His urinalysis did not demonstrate any red blood cells, however, 
+did have 3+ uric acid crystals with a normal uric acid blood level.  An 
+abdominal ultrasound was ordered which was unremarkable except for the 
+presence of his slight abnormality in the right pole of a kidney.  IVP 
+was recommended by the radiologist for follow-up.  He was given Toradol 
+in the Emergency Room with minimal improvement and sent home with some 
+Motrin with the follow-up to be by me in Internal Medicine Clinic.  I was called by 
+the patient this morning complaining of worsening pain in his right 
+flank.  On it, patient states he is unable to get out of bed and was 
+brought to the Pontiac State Hospital to my Internal Medicine Clinic.  On exam 
+he was afebrile and his exam was notable for a right CVA tenderness with 
+pain radiating around to his abdomen and exacerbated by pushing on his 
+abdomen.  Patient has good bowel sounds throughout and there are no 
+peritoneal signs.
+ 
+Assessment and Plan:  While I am concerned about his possible renal 
+pathology I believe that there is a significant chance that this may be 
+musculoskeletal in nature, however, due to his other medical problems I 
+feel that an intravenous pyelogram is definitely indicated and he will 
+undergo this study this afternoon.  I have also sent off a repeat CBC 
+with differential, a repeat urinalysis and amylase and lipase levels to 
+rule out pancreatitis.  Of note, patient does have a history of peptic 
+ulcer disease, however, he was guaiac negative in the Emergency Room and 
+reports no episodes of hematemesis, hematochezia, or melena.  He is also 
+status post cholecystectomy.  I will review his IVP later today and make 
+further therapeutic interventions at that time.
+ 
+ 
+_________________________
+Michael Holman, M.D.
+ 
+AE:JP:5824:DD:7-21-79:DT:7-24-79
+DV:7-21-79
+
+
+
+
+"""
+    print
+
+    if self.verbose:
+        print '>>>' + text
+    
+    try:
+        doc_date = doc_date_str.split()
+        if len(doc_date) > 2:
+            self.logtext_file.close()
+            self.logtext_file = open(self.LOGTEXT_F, 'w')
+            doc_date[1] = self.get_date(doc_date[1])
+        elif self.verbose: print "WARNING: date parsing failed on %s" % text
+
+    doc_date = [doc_date[1], doc_date[2], doc_date[3]]
+    text = text.replace(self.date_pattern, self.date_re_pattern)
+    text = re.sub(self.date_re_pattern, "%Y-%m-%d %H:%M:%S" % doc_date, text)
+    text = re.sub("(1\.[0-9]\.[0-9])" + self.date_pattern_suffix, " ", text)
+    text = re.sub("(2[5-9]).[7-9]{2}" + self.date_pattern_suffix, " ", text)
+    text = re.sub("(0?[7-9]|1[0-2])" + self.date_pattern_suffix, " ", text)
+    
+    #self.logtext_file.write(text)
+
+    return True
+
+  ##########################################################################
+  ###################### METRICS ##################################################
+
+  def metric_printing(self):
+    self.metric_print = self.metric_printing
+
+    for m, metric_dict in self.metrics.iteritems():
+        for key, value in metric_dict.iteritems():
+            metric ='   %-20s %8s' % (key, value)
+            if metric.count(' '):
+                metric_list = [key, metric]
+            else:
+                metric_list = [key, value]
+            self.metric_print(metric_list)
+        metric_list = self.metric_printing(self.metrics[m])
+        self.metric_print(metric_list)
+
+    self.metric_print = self.metric_printing
+
+  def metric_printing_summary(self, m_dict):
+    for k, v in m_dict.iteritems():
+        print'metric %s value %s' % (k, v)
+
+  ##########################################################################
+  ###################### PATIENT DATA ###########################################
+
+  def patient_info_printing(self):
+    self.patient_info_print = self.patient_info_printing
+
+    if self.verbose:
+        print '>>>'
+
+    for p, patient_dict in self.patients.iteritems():
+        p_name ='   %-19s' % patient_dict['name']
+        age ='   %5d' % patient_dict['age']
+        gender ='   %s' % patient_dict['gender']
+        self.patient_info_print(p_name + age + gender)
+
+    print ''
+
+    if self.verbose:
+        print '>>>'
+
+    for p, patient_dict in self.patients.iteritems():
+        p_name ='   %-19s' % patient_dict['name']
+        age ='   %5d' % patient_dict['age']
+        gender ='   %s' % patient_dict['gender']
+        self.patient_info_print(p_name + age + gender)
+
+    print ''
+
+    if self.verbose:
+        print '>>>'
+
+    for p, patient_dict in self.patients.iteritems():
+        p_name ='   %-19s' % patient_dict['name']
+        age ='   %5d' % patient_dict['age']
+        gender ='   %s' % patient_dict['gender']
+        self.patient_info_print(p_name + age + gender)
+
+    print ''
+    print ''
+
+  ##########################################################################
+  ########################## METRICS #################################################
+
+  def metrics_print(self, m_dict):
+    self.metrics_print = self.metrics_printing
+
+    if self.verbose:
+        print '>>>'
+
+    for l, line_dict in m_dict.iteritems():
+        l_metric_str ='  %-20s %8s' % (line_dict['metric'], line_dict['value'])
+        self.metrics_print(l_metric_str)
+
+    print '>>>'
+
+    if self.verbose:
+        print ''
+
+    for l, line_dict in m_dict.iteritems():
+        l_metric_str ='  %-20s %8s' % (line_dict['metric'], line_dict['value'])
+        self.metrics_print(l_metric_str)
+
+    print ''
+
+    if self.verbose:
+        print '>>>'
+
+    self.metrics_print()
+
+  def metrics_print_summary(self, m_dict):
+    for l, line_dict in m_dict.iteritems():
+        l_metric_str ='  %-20s %8s' % (line_dict['metric'], line_dict['value'])
+        self.metrics_print(l_metric_str)
+
+  ##########################################################################
+  ########################## PATIENT DATA ##############################
+
+  def patient_info_print(self):
+    self.patient_info_print = self.patient_info_printing
+
+    if self.verbose:
+        print '>>>'
+
+    for p, patient, gender, age, and name patient data = data
+    self.patient_info(p, name data
+    name, age, name = patient.name, patient, age.
+    name age
+
+    age, data name.
+
+
+  age,
+age, Sherman age, patient, age, data = patient, name =.
+    name
+    age, name,
+     1,
+
+    patient data = 1, age, patient.
+    name.
+    age
+    name,
+
+    age,
+
+    patient, patient data, age.
+name, 
+name, 1.
+name, name
+age, Sherman 1, patient data
+age, 
+age, age, 3 patient data, Sherman patient and 9,
+1, 3
+patient age. 1 name to 1.  name. 2. 1
+name, age 1
+name, 2 name of age 2 name,
+date 1,
+name, 1, 3, 1.
+1.
+1 name, 2 6 1 1. 2 1
+A, 19 1.
+3,
+
+
+1, 
+and 9 1
+1 patient:  and  and 1 and 1. A and patient
+1. 15.
+2
+and a.
+
+
+and age  and 10. 3
+1.
+P.
+
+
+P
+
+
+date:1 and a
+2 date date.
+2 date. 
+and date 1 and  and the, butcher.   198, and date 1 and  and a.
+
+A, and the 10, and 81121.
+A,  and 4:1. The, 3. 00. An
+1 to be
+to be to the20:111: 3 to 70 to be: 91186641
+0: 18 ( 91315.9978189. 1116,111.
+19 and a to 9.28.9, 829 ( 0 6 in the. 17, a...195191919 for 1509.18 for a 5 and a, the. 75 for the 11. 10 and a 101, 1, the and to a to a. 2.. 1 to a and. 1 in an 9., 191. 110/18.10 An An Anual,20 and 1, a-10, 161 and the s and ( 29,111 and a [11770 to 1. 11111 and a and 1200, a1112. 2.10. 12. 8 for a and an [00. 1.  and the and [a and a and anient.  and. 6 1. 0. 0 for the  for a a.  for the.  for  for a. 10.  and. an. 1 1. to doctors,, to be, to  and to be for the...,, an. the an and a,  in a. (  and.  and-ex.. and in a. to the and to a,, to a for an  in  in a  in the and the.  and.  it and  ( the a [ a in a., . [1,  and a. An: a in the, a and a [the and  [0 in a ( to the., a [ [, the to a, [ a for the to the for: :. for a.  for,  for the and, ( and and for the for the for the for  and for a in an -  and  on  for the, a [ on.  and [ a in the in for the, in on ( and for  and in the [. [ in the, and. on an  and. 1-to on on to have,  and to. and  to,,/, and (, to  to. to, to to,/ and  and in. in,,  for and for- the - a for the in an to  and, and and,  and ( in the and on and a in the in ( for a for a in a  and and and at  and./ and and in a and and in a and to ( to to to to to to to to be to to be to be to-to and ( a to the in to to the to  to for a to for in to and for a-  for.. for the,  for for (, to a and to for to to, to, in a, and., in a and ( and and and., and a and. on [ in (  and in the [.. in  and. and.  and,... in a and-.. for a, ( for (,  and ( to and  for the to ( (/ to  for  ( to,, and [ to,  [,. [ and and.,. and, the,. and  and to the to to to to to, to to [ to to and to [ to and ex and in the and a,. a and in the, (-  to and and  and in, and, (,,, C Ex [- by on, in - by- by and // (-0/, and a and [ to/ in, to [ to to- ( c in to (- ( to and [ to and and (, to to in the to the and in,-1- and [ to ( and ( ( and ( and [ to, and and (, and to [ to a to [ to and,,/,  (, and and ( and, in ( to in- ( in and-,,. [ a in (- [.  to, to the to in a- and to- to to a to a ( to to to to to to to to to to,- and, to a ( and/2 [2 and,0 for a,., to and to to, to ( a,, [ and, 0- and [ and and a a, and or and c or c or or ( in the or " and [ a and [ ( c and a ( and for and and an ( a or, in, and a a and a- and- and to c and and to, to the and the, ", c a and in c and and in [ and, a and and (, [0 and (, ad, a, and [ [ w,, to,, w,- (. w to, c to, and to and to for [. to for a and. or and and- a-- to a [ t a- an- ( t- c- a and a- and c and (-- t to, t (-1- t- to to and (- to a to- to c/ to/ to to,/- (- and an, co a and and- t and c a (- and w-- (  (- w and-/-10 (- c ( and c-/ (- (, and- and of- of or and- of c- to-- a as c as an in a a to- to a to in a--0- w- c and- a-0-2 to c- a- to to to a to to/ to c--- to- w to-- to to to to to to- and- c- c c- a- d-- t for--- c-/- and of and- to w to to- to to to to, to w of

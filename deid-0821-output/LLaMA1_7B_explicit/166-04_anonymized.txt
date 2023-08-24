@@ -1,0 +1,410 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2096-03-16
+
+
+	CARDIOLOGY
+	
+
+	WESTBROOK PLAINS HOSPITAL
+	
+
+
+	Reason for visit:
+    s/p cath
+
+
+	Interval History:
+   Per HPI J. Jordan Duran:
+
+64 y.o. male with known CAD. He has multiple risk factors and a cardiac history dating back to December 2095. At that time he was experiencing exertional chest pressure while shoveling. He initially attributed his symptoms to GERD; however the chest pressure began to occur post prandially and nocturnally. He was admitted at SCH where his ECG revealed non-specific ST T wave abnormalities and he had negative enzymes. 
+
+He was then transferred to WPH where cardiac catheterization revealed a 90% LAD lesion, a 70% OM1 lesion, a 70% 3rd OM and an 85% RCA. His ejection fraction at that time was 40%. He was referred for surgery. He underwent a successful CABG x 5 with a LIMA to the LAD, a sequential SVG to the Acute Marginal and PDA, and a sequential SVG to the 1rst Diagonal and OM1. 
+
+He now presents with recurrent chest burning. He states that it is similar in nature to his symptoms prior to CABG. His chest burning is exertional and is relieved with rest. He denies dyspnea, nausea, vomiting, dizziness and diaphoresis. During a follow up appointment at SCH, he was referred for a stress test. Per Bruce Protocol he exercised 6 minutes and 0 seconds. He states that his chest burning symptoms returned and were lessened with SL TNG, though not completely resolved. MIBI images reveal severe large perfusion defect extending from the septum to apex with reversibility. There is also a fixed basal infero-lateral territory consistent with infarct. His ejection fraction is 46%. He was admitted for cardiac catheterization done today with full report pending. Reportedly RCA diffuse, SVG-PDA patent, SVg-Dx1-OM patentw/ mod. ostial stenosis, LIMA-LAD 100%, LM mild, LAD severe w/ distal 100%, LCx OM 100%. Plan is for med management.
+
+On admit to Internal Medicine, pt. is hemodynamically stable, groin site sealed, stable and no complaints.
+
+
+	Past medical history:
+   CAD- as described, NIDDM, GERD, Hyperlipidemia, Nephrolithiasis, Prostate Cancer, Anxiety, Barrett's Esophagus. 
+
+PSH:Right Inguinal hernia repair, tonsillectomy, lithotripsy.
+
+allergies:
+
+ Ambien - MS changes,sleepwalking
+
+meds at home:
+
+ASA 325 mg po qd
+lisinopril 7.5 mg po qd
+atenolol 25 mg po qd - pt. never increased to bid from last visit
+Glipizide 5 mg po bid
+Metformin 500 mg po 2 in am 1 in pm - pt. admits to noncompliance w/ this
+Prilosec 20 mg po qd-inconsistantly
+Lipitor 80 mg po qd
+Viagra 50 mg po prn-none in last month
+
+	
+
+	
+
+
+
+
+	Family history:
+   F deceased with CVA at 83; M deceased with colon CA at 76; 1 B at 63, 1 S at 62 and 1 twin S without CAD.
+
+
+	Social history:
+   Married, no children, works as a web programmer at Audiovox. 
+Tobacco: Quit at 38 y/o; ETOH: 1-2 beers/week; Caffeine: 2 cups/day; Exercise: bikes and walks 2-3 times a week; Recreational Drugs: Viagra - none in one month.
+
+
+	Review of systems:
+
+	
+ see interval history
+
+Physical examination:
+	
+-temp:   afebrile 
+-Pulse: 70   
+-resp. rate: 16    
+-height: 64  in.
+-weight: 150  lbs.
+-General:   No acute distress.
+-Skin:   No rashes, anicteric.
+-HEENT:   Unremarkable
+-Chest:   Lung sounds clear bilaterally.
+-Cardiac:   Left ventricular impulse discrete and nondisplaced. Regular rate and rhythm, normal S1 and S2, with no S3 or S4. There were no clicks or rubs.
+1/6 SM apex.
+-Abdomen:   Soft, non-tender with active BS.  No masses or bruits.
+-Extremities:   Femorals 2+ bilaterally without bruits baseline. groin site stable, no hematoma, DP's 1+ baseline, no edema, feet cool.
+-Neuro:   Grossly non-focal.
+-BP: 140/76    
+-BMI:   
+-Neck:   Carotids 2+ without bruits. JVP no jugular venous distention.
+
+Selected recent labs:
+
+	 Metabolic
+Date     K        BUN      CRE      GLU      
+03/11/96 4.6      18       0.9               
+12/06/95                            195      
+
+Lipid/Thyroid
+Date     CHOL     TRIG     HDL      LDL      
+02/13/96 120      90       30       72       
+
+Hematology
+Date     HCT      RBC      WBC      PLT      
+03/11/96 43.1     5.16     9.4      311      
+
+Coagulation
+Date     PT       PT-INR   PTT      
+03/11/96 14.2     1.1      28.1     
+
+24 hr Urine
+Date     CRE      
+03/11/96 0.9      
+
+
+	
+
+
+	Impression:
+    64 y.o. male w/ Known CAD and recurrent CP and positive stress test as above. Now stable s/p cath as above-awaiting full report. Plan med managnement.
+  BB increased today since pt. never increased as OP-cont. to monitor labile b/p.  On statin, ASA, ACE I, prn sl NTG.
+Lipids, LFTs in am.
+CBC, lytes, BUN, Cr in am.
+Monitor groin site per protocol.
+Consider endo. consult for poor glycemic control. pt. admits to poor adherence to DM med regime and after long discussion re: importance of med adherence is willing to be consistant with rec. meds at this point.
+Off metformin for 48 hours per cath protocol. Cont. Glipizide. Monitor FS.
+Sliding scale regular insulin while off metformin.
+Diet consult ordered.
+Further recs. per Dr. Oxendine.
+
+	
+Freida P. Lloyd pager #82454
+
+	
+Signed electronically by  Freida P. Lloyd
+Document Status: Final
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /////////////////////////////////////////////////////////////////////////
+    ///////////
+    /////////////////////////////////////////////////
+    ////////////////////////////////////////////
+    ////////////////////////////////////////////
+    ///////////////////////////////////////////
+    ////////////////////////////////////////////
+    //////////////////////////////////////
+
+
+//
+
+
+
+
+
+// 
+
+    
+ 
+
+
+
+  
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+
+    ////////////////////////////////
+    ////////////////
+   /////////////////////
+    ////////////////////////
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+     
+    /////////////////////////////////
+    
+
+
+        //////////////////////////////
+    /////////////////////////////
+       ////////////////////////
+        /////////////////////////////
+        /////////////////////////////
+        /////////////////////////////
+        /////////////////////////////
+       /////////////////////////////
+
+    /////////////////////////////
+        //////////////////
+        
+       //////////////////
+
+        ///////////////////////
+         //////////////////
+    
+    //
+
+        /
+
+        //
+        //
+         //
+        //
+        and the 
+            //
+         //
+        names, etc.
+         date/year
+
+        //
+         //         and/name  //
+
+        //
+        and/etc,
+        and, or //
+        // and
+
+        and date //
+        //and //
+        or
+        //
+       
+        date of //
+    and, date, 
+        and
+
+
+        and date of 20 or 
+       
+
+        and or name
+
+        or
+
+
+
+        of the first initial. 
+
+
+       
+
+
+
+        and date.
+
+
+
+
+
+date, or, etc., date
+
+names.
+
+, patient
+
+
+
+
+and the 
+
+
+
+individual
+
+
+
+of date: (or...
+1.
+or 
+
+
+
+...
+
+name
+date names or names of the name, and names, the patient name, name:
+and the patient.
+
+...
+and the 10.
+1... or...
+
+or
+
+and names
+or...
+
+(d
+(...and a patient (d, 2. and or the, or... and... the date the names, and [... or...
+
+...
+(are and/ are...
+
+, the [and or 20 or [d, 13, or the [12 or 1 and/[10, 15 [2 and the patient-
+1...
+
+patier...
+: 500 or, "...121 (1 or the patientize, orise the (le and include, the ( 
+[ 0 (… 	... … or names and 
+and the (le... [the 1... and and the, or (make 1 or: and [are, and...
+(
+[you... of…
+[... and the “and: 
+
+and 10... and the (... …,... 4 and 5 of… and “ 1 of, 0, or, the… (… (
+and......,
+and (... [, and, the and a (
+and (and, and a, and, or are a "1, and a, and, but 1 and or and, 2, and, and, 1 (and, the, the: and, 5: and the... and: and:
+[ 9. and: 
+... [1. Anici 2 1...1 in 1. 1 are...1 (name are (1 are, 1 or (in or (and or [le,..., and [. [pat, and, and of the [.
+. and and, an, [. and, (le, [ an, 11 and are in 1 are the...1, a, (an [1, " 3, 1-an [. an, 1. an 1, an, an of the, 4, an, 1 in and [an [and, an, and or, (an of a and of the, an an-and, the an and, an, and, "1, "  and, and, and and, An An: (and, a, [le, an and, [1 (2 of the of the an and: of 2 [1-1 in "1-0 (:: the:: [-1- (1 ( 1 and [: :  - or: ( an ( an:  " an an-2 or: an ( and- 1-2 in the are and -le-1-1-. an of of " of the of an in. [. an in and and, and. an or,  and, (-to and and, an to or [[ an- [ or an or, in the [ or or an [- an or of, an- an-  an [ (  in  an- (-  an  in  or or,  or of a are of an of an  and or in- ( or, and,- in the,,, an- and of of of the of, of and  ( and.  or an, are or in or of an,, or of or in an- -, an,  or,  and or or and,  or, - of  of the and of: and and and ( an. and  ( or or, an or- are-  to- to to- to and- to ( and and-0 an and (  or-cl-1- and and, an to, or of, or, to or [, “ and- or and-  and, [ or, or-t to an- of a or and or or or of an or,, or, ( cine, [c -c, or of  of an of of an of of, an and of, to and and and  an. and and  c, c-  and [ and an an-cl- an- an ( ( and and in, c and -t in " and an- C An C c-to- (  ( and [ - C or (- c- to  and to- or and to- to ( for  for  to- or, or to- ( for  and to to  and to of (- and of and and (,  ( c. and- n or- ( to to- to- c to- to to to and-cl-c. (-0 c-c- and " and- - or-1- c c and- and-1 and- or- and and and or- and- or and, and c of  of c of-  ( or and, or, and or ( C and c (- c or and in  C- of- of- of of and of of ( C., to for c to to- and- c and-1, and and- c c and- and,,,  and  c  and c or  c- in- (  c- and- c and C C of C c- c and and ", and, c,,, c and in and and- c and- of, in- c c in c and c- and- and- and,,- c or,- c c c.  c c and-  c. - C C-, c,- or c- c c- a- an, ( a- c- and and or  and (- and c, and  and, and (,  and c - c and, and  and and, and and,, and- c- or c,. and (, and- and and - C- W, c,  c, c c, and in c c a a  c c c  and  c c  c c C c c c and and c (, C- C.,, and,, C ( c m- c- c c and - C c,., c, and- a with c with at and in,  c in c and C ( c c and, and,, c, C and-. and, and- and (- c- (,,, and, - and in- N ".  and (, H " W c, W and and c in  ( and c, c c,  or and. and and, (, C  (, and ( c,,, c and,- C  and,,,,,,, and, and, and, (,. - -,,. (,,,,,,,, - and- to, c c,- and,,, and m and,, ( c and c and,, to ( to,,, to- c to to to and and to, to to M or-,, and m,,

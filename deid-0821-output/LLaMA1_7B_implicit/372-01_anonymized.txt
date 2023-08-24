@@ -1,0 +1,293 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2120-10-23
+
+Patient Name: FLAHERTY, XAVIER;  MRN: 1935081
+Dictated on: 10/23/2120 by ROSITA KO, M.D. 
+
+ 
+The patient is a 72-year-old male, paraplegic, referred for evaluation of recurrent bladder infections.  The patient has persistent presence of bacteria in his urine and there is a concern that he might have a persistent source of infection.  The patient denies fevers, chills, sweats, decrease in energy, loss of appetite, pain in the lower abdomen or penile discharge.  He reports there is some soreness around the meatus, which he attributes to self-catheterizing he is required to do 3 times a day.  He is well educated in terms of cleaning around the side and the appropriate way to do self-catheterization.   
+PAST MEDICAL HISTORY:  Diabetes, hypertension, paraplegia secondary to unclear disk problems in 2107, right hip ulcer with trochanteric osteomyelitis in December 2118, treated with Unasyn x6 weeks and debridement and surgical flap, sacral decubiti in 2119 treated with Unasyn x6 weeks, local debridement healing by secondary intention.  No history of kidney stones.   
+SOCIAL:  Ex-tobacco use 2-3 packs per day, quit 25 years. Alcohol prior heavy use, quit 25 years.  Lives alone.  Prior work included Heavy-Duty Equipment Mechanic, Ironworker, as well as Electric Appliance Servicer.  
+ 
+ALLERGIES:  No known drug allergies.  
+ 
+MEDICATIONS:  Blood pressure medication, name unknown. Metformin.  Note, patient had been on Bactrim prophylaxis over the spring.   
+PHYSICAL EXAMINATION:  Blood pressure 150/100, heart rate 100, temperature 97.9.  In general, vigorous, well-appearing man in wheelchair.  Awake and alert.  HEENT, sclerae anicteric.  Conjunctivae noninjected.  Neck supple.  No significant lymphadenopathy.  Chest, clear to auscultation bilaterally.  Cardiac, regular rate and rhythm.  No murmurs.  Abdomen benign.  Extremities, warm and well perfused.  No edema.  
+ 
+IMPRESSION:  Presence of bacteria in static urine within the bladder is not necessarily diagnostic as infection given patient's lack of symptoms and likely reflects colonization.   
+PLAN:  Would not treat patient with antibiotics unless he develops signs or symptoms of infection such as fevers, chills, sweats, elevated white blood cell count, pain in the suprapubic area or decreased energy.  
+ 
+_________________________ 
+Rosita Ko, M.D.  
+ 
+DD:10/23/2120 
+DT:10/24/2120 
+AO:29724     :0269
+ 
+
+
+
+
+*/
+package com.example.practice
+
+/**
+  * This file uses the Java 8 Date and Time API, and it shows how to create the equivalent of Unix's
+  * "date" utility.
+  *
+  * This file was written by Brian Goetz and Tim Peierls.
+  */
+object DateUtilities {
+
+  // This is a very simple utility to help us create dates.  It is a very small
+  // subset of the Java 8 Date and Time features, so there are no dependencies.
+  // It is a very useful utility to write tests and to create test date ranges.
+  //
+  // This class is not a good implementation of a date utility.  This class just creates
+  // dates that look like Unix's date utility.  This class doesn't take in a number of
+  // arguments, nor does it do things like convert from a string to a date.  Instead,
+  // this class is a very good example of using Java 8's Date/Time API, as it illustrates
+  // how to use the API to create a very small set of functions.
+
+  private def dateFormat(format : String, date: Date) =
+    new java.text.SimpleDateFormat(format) match {
+      case null => null
+      case sdf => sdf.format(date)
+    }
+
+  private def dateString(date: Date) = date match {
+    case null => null
+    case d => s"${date.getYear}-${d.getMonth}-${d.getDay}"
+  }
+
+  /**
+    * Creates a Unix Epoch date, given a calendar date.  This is a very simple example
+    * of using the Date API.  It is not meant to be production code.
+    */
+  private def epoch(date : Calendar.javaCalendar) : Date = {
+    val dateStr = dateString(date)
+    val format : String     = "yyyy, MM, dd"
+    val date : java.util.Date = dateFormat(format, dateStr)
+    val epoch : Date         = new java.sql.Date(date)
+    epoch // we need to return the date for the next test
+  }
+
+  private def isLeapYear(year : Int) : Boolean = {
+    (year % 4 == 0) && (year % 100!= 0)
+  }
+
+
+  /**
+    * Creates a Java Calendar date from a given year and month.  This is a very simple
+    * example of using the Date API.  It is not meant to be production code.
+    */
+  private def javaMonthCalendar(year : Int, month : Int, day : Int) : java.util.Calendar =
+    new java.util.Calendar (new java.util.GregorianCalendar) match {
+      case null => null
+      case cal : java.util.Calendar => cal.set (year, month, day)
+    }
+
+  /**
+    * Creates a Java Calendar date that is 24 hours after an epoch date.
+    */
+  private def nextDay(date : Date) : java.util.Calendar =
+    javaMonthCalendar(2016, 9, 30) match {
+      case null => null
+      case cal : java.util.Calendar => cal.add (java.util.Calendar.DAY_OF_MONTH, 24)
+    }
+
+
+  /**
+    * Returns the day of the week for a given date.  This is a very simple example
+    * of using the Date API.  It is not meant to be production code.
+    */
+  private def dayOfWeek(date : Date) = javaMonthCalendar(date.getYear, date.getMonth, date.getDate).get(java.text.DateFormat.LONG) // java.text.DateFormat.LONG returns a three character
+   .charAt (0) match {
+      case 'S' => 0 // Sunday
+      case 'M' => 1 // Monday
+      case 'T' => 2 // Tuesday
+      case 'W' => 3 // Wednesday
+      case 'U' => 4 // Thursday
+      case 'T' => 5 // Friday
+      case 'S' => 6 // Saturday
+      case 'S' | null => 7 // Sunday
+      case null         => 7
+    }
+
+
+  /**
+    * Returns the first day of a week given a year and epoch date.  This is a very simple
+    * example of working with DateAPI.  It is not meant to be production code.
+    */
+  private def firstDayOfYear(date : Date) : java.util.Calendar = {
+    val dayOfWeek = dayOfWeek(date)
+    val cal = javaMonthCalendar(date.getYear - 1, 1, 1)
+    cal.setFirstDayOfWeek(dayOfWeek == 0? 1 : -dayOfWeek)
+    cal
+  }
+
+  /**
+    * Returns the last day of a week given a year and epoch date.  This is a very simple
+    * example of working with DateAPI.  It is not meant to be production code.
+    */
+  private def lastDayOfWeek(date : Date) : java.util.Calendar = {
+    val dayOfWeek = dayOfWeek(date)
+    val cal = javaMonthCalendar(date.getYear - 1, 5, 1)
+    cal.setFirstDayOfWeek(dayOfWeek == 0? 1 : -dayOfWeek)
+    cal
+  }
+
+
+
+  /**
+    * Returns a DateRange from a given Date.  This is a very simple example
+    * of using the Date API.  It is not meant to be production code.
+    */
+  private def from(date : Date, first : Date, last : Date) : DateRange = {
+    val firstDate = first.getTime
+    val lastDate = last.getTime
+    val epoch = epoch(firstDate)
+    val firstDayOfWeek = dayOfWeek(firstDate)
+    val lastDayOfWeek = dayOfWeek(lastDate)
+    val firstOfMonth = javaMonthCalendar(1970, 11, 27) match {
+      case null    first : Date => null
+      case cal
+      last : java.util.Calendar => cal
+      case cal
+      cal
+      first : Date => null, date
+    val day = firstDayOfWeek
+      case first : 1st
+    cal
+    case null cal
+    cal
+    cal
+    cal
+    first
+    cal
+    cal
+    cal
+ 
+    cal
+    _cal
+    Cal
+
+   
+
+   120021
+ 0cal
+
+    cal
+    cal
+    cal
+    cal
+    cal
+cal
+cal
+
+
+
+    cal
+  cal
+   cal
+ 12
+   
+    cal
+    cal
+   
+   
+cal
+    cal
+
+    cal
+cal
+1 cal cal cal
+
+  cal 20 20 cal
+Cal 
+cal cal cal
+1 cal is 3 cal
+cal cal
+CAL CAL
+cal
+cal calcal 4.
+    cal
+cal. 5, cal
+    cal cal.
+cal cal
+cal calcal 1.cal
+
+calcal calcal cal cal  cal
+1 cal calcal patient
+cal cal Calcal
+cal
+cal calcal
+with calcal, patient patient.
+2 calcal calcal. 
+2 calcal 1
+cal Cal 10
+11 
+ 
+
+cal
+ 
+
+cal calter,
+
+
+
+10
+
+ 0
+
+In
+A
+cal
+ 1
+
+  
+22
+
+1.
+  cal.
+The patient
+The
+
+Medic
+  
+ 10
+The, who.
+
+A calmed calness
+
+1220 and 15 5010
+1
+2
+1 1. 3, and 5, as the: 13: 20342
+ The A (Marched
+
+The, F: AMP (A
+The -BLA - A
+
+FRI (10-the:1A, and:
+: the
+1,  (11
+0201
+The:
+
+ 
+
+The -101030
+126212000109209 261 and 2: A: [A202003
+20
+200010. 20 (a, and [a00000902020000 and a and the, an, 20000000000000 (  An (a,,  (a: a [...]: : a,0.2-1-0, a-02,  in -2: and " 100 a2.. 0 An. 2. An. and the a. a 10-ALE A0 AN00000200020000, a0
+002000112200120
+20
+.  An. An. An a 4 a: 21000000000 and2 a a. 0 a andc a2 a:3 and10 and.. an.. An.. 1-perian- 00 0 000-00.3200 or,, 3 or [ of a or and [1 or  or ( 100 and and the, and (cinal and,.. 0 and 0 ( - 00, 0. 0-and,  (a, 1: [...] and:  of [1, 4. to  to  to to- -and. An0- (0 0- 0 ( and An,
+-2 An An
+ An Anced, An An An C and- C- :2 An-1 [.. [.. An:
+-. and. [:, (.  ( - -. [: and [. [ and-per (: 
+,-0 and-12 and-1-1-2 of a- and for-c- and-  and -  and a - and,, -  in. - and and in -1 -  -d., -110 30-11 and, in and-  and [.  or,. ( and,,,.,- - - 1-to in - to- but 0- and to-1-1-  to. to  to.- to to to to,  to- to.,- - or-  to  to.-de [- and, to and, -  and  of  of the- of-1, 1 or - 1 in and- in to and to to and and in- - 0-  a- [ and.,, [-  and,,,, in in a in of and and of of and.- an in, to ( in the in to of to, to  to - . and,,  and-ch- - but in and- and.,  and.,  of an of-c,-0-  (.  to,.- of the to. - -1- and "., - and and - - in.-1, a- an. -  c- 0-0-2 of  of - -.. to  and.  : 1 10 0 :.  -  and- and-de and  - : :  to: [  to a, -2 for-1 to to-  to to to to to to to to to to  to  to in to 2   to to to ( to-   ( to to for  to - and-1-  for  in-1- " for for and for to to of to for to for,  to to to for, to to ( -1 to and for to  and to of -to to  of  to to- of- a- -1. 10 to  to to,- - or to and to  to-2..-  and- or -  to - and - or- C or 1-2 -  20 1 to 0 for.- and to to to to  and- to- for.0-1 to to02 11 - (- to. to to to- to to to to  and- - or in and,. ( and10 of ( or "1 and  to to to to to of to and. 1 and. 01.2  or, and.  (  to or and and,.  or, and  [ [50 2 50 and (,- to to to to to to to to. to to to  to to  to and to to and to to to to to to to- to and and of to to,   to. 0. of and 1-0 in-2 and- to to to to to to to to to to. in20. and of 12. to to to to, to  to- in- to to a   a [. and 0-501 to 2. to ( in and to "-0-to to  and to to  of11 to  to of to to and to to to to to to to to to to for to  2,2. 1 0 2 in and.1 to "0- and, to01. and ( c0  a- a in and c of C of a in-10 to1 to  to c22-1 and c0 c0 to to for to for-1 3,  " to- c c and, ( in. C,.2 and 1 pro ( to to to

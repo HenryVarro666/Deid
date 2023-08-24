@@ -1,0 +1,257 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2074-08-02
+
+
+Notre Dame Nursing Home
+1992 Madera Circle                                      Potts, William
+Hyannis, NV 21113                                      10916758
+(391) 643-6925                                           08/02/74
+
+
+HISTORY OF PRESENT ILLNESS:  Mr. Potts is a 60 year old
+male who comes for follow up of hypertension, hyperlipidemia
+and other medical problems.
+1.  Hypertension.  Continues on medications without chest
+pain, shortness of breath, or pedal edema.
+2.  Hyperlipidemia. Continues on medication. No myalgias..
+3.  Erectile disorder.  He has run out of Viagra, which
+continues to work well at 50 mg dose.  Would like more.
+4.  Low HDL.  He has not been taking Lopid for the past 2
+months because his prescription ran out and has had
+difficulty getting in here to have it renewed.
+5.  Anxiety.  He has not had any further unpredictable
+attacks of anxiety.  He did recently use some lorazepam when
+he had to fly, but not at any other times.
+
+6.  Seasonal allergies. Episodic rhinitis and pruritus. Needs more Claritan
+MEDICATIONS:  Viagra, lorazepam 0.5 mg t.i.d. p.r.n.,
+atenolol 50 mg q.d., Lipitor 20 mg q.d., aspirin q.d.,
+diltiazem extended release 180 mg q.d., and Claritin-D
+24-Hour 1 p.o. q.d. p.r.n.
+
+REVIEW OF SYSTEMS:  As above and no nausea, vomiting,
+dysuria, or leg pain.
+
+PHYSICAL EXAMINATION:  The patient appears well.  Blood
+pressure 126/76, weight 224 pounds, heart rate 72 and
+regular.  Chest:  Clear to percussion and auscultation. 
+Cardiovascular exam:  Notable for 1/6 holosystolic murmur at
+the lower left sternal border to the apex.  Abdominal exam:
+No masses, tenderness, or organomegaly.  Extremities:  No
+edema.
+
+ASSESSMENT AND PLAN:
+1.  Hypertension.  Good control, no change in therapy.
+2.  Hyperlipidemia.  He did not return for fasting lipid
+analysis.  Will continue medication at present level and
+again ask him to return for fasting exam.
+3.  Erectile disorder.  Viagra refilled.
+4.  Low HDL.  I will try Niaspan sustained release 1500 mg
+p.o. q.d.  I discussed flushing sensation.  I asked him to
+take it at bedtime.  If the flushing sensation gets to be a
+problem, I encouraged him to take it in the morning about
+half an hour after he takes his aspirin.
+5.  Anxiety.  Improved.
+6.  Seasonal allergies.  Renewed Claritin prescription.
+
+In addition to above prescriptions, renewed all other
+chronic prescriptions as well.
+
+
+______________________________
+Matthew H. Wyatt, M.D.
+
+
+eScription document:8-959314 AFFocus
+
+DD: 08/02/74
+DT: 08/03/74
+DV: 08/02/74
+
+
+
+```
+
+### 2.11.5
+
+This clinical note has an embedded eScription document.
+Annotate the following embedded eScriptio with the following annotation:
+
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2074-08-03
+
+
+Notre Dame Nursing Home
+1992 Madera Circle                                      Potts, William
+Hyannis, NV 21113                                      10916758
+(391) 643-6925                                           08/03/74
+
+
+HISTORY OF PRESENT ILLNESS:
+  Continues on medications without chest pain, shortness of breath, or pedal edema.
+  Continues to work well at 50 mg dose.
+  Has not been taking Lopid because his prescription ran out.
+  Anxiety:  Unpredictable attacks of anxiety.  Used some lorazepam when he had
+  to fly, but not at any other times.
+
+MEDICATIONS:
+  Viagra, lorazepam 0.5 mg t.i.d. p.r.n.,
+  atenolol 50 mg q.d., Lipitor 20 mg q.d., aspirin q.d.,
+  diltiazem extended release 180 mg q.d., and Claritin-D
+  24-Hour 1 p.o. q.d. p.r.n.
+
+REVIEW OF SYSTEMS:
+   As above.
+ 
+PHYSICAL EXAMINATION:
+   Patient appears well.  Blood pressure 105/74, weight 224
+  pounds, heart rate 69 and regular.  Chest:  Clear to
+  percussion and auscultation.  Cardiovascular
+  examination:  Notable for 1/6 holosystolic murmur at 
+  the lower left sternal border to the apex.  Abdominal
+  examination:  No masses, tenderness, or organomegaly.
+  Extremities:  No edema.
+
+ASSESSMENT AND PLAN: 
+   Hypertension.  Good control, no change in therapy.
+  Hyperlipidemia.  He did not return for fasting lipid
+  analysis.  Will continue medication at present level and
+  again ask him to return for fasting exam.
+  Erectile disorder.  Viagra refilled.
+  Low HDL.  I will try Niaspan sustained release 1500
+  mg p.o. q.d.  I asked him to take it at bedtime.  If the
+  flushing sensation gets to be a problem, I encouraged
+  him to take it in the morning about half an hour after
+  he takes his aspirin.
+  Seasonal allergies.  Renewed Claritin prescription.
+  Anxiety.  Improved.
+ 
+IN ADDITION TO ABOVE PRESCRIPTIONS,
+  RENEWED ALL OTHER CHRONIC
+  PRESCRIPTIONS AS WELL.
+
+
+______________________________
+Matthew H. Wyatt, M.D.
+
+```
+
+## Appendix C
+
+#### 2.13.1
+
+This clinical note has an embedded eScription document.
+Annotate the following embedded eScriptio with the following annotation:
+
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2074-08-07
+
+
+Notre Dame Nursing Home
+1992 Madera Circle                                      Potts, William
+Hyannis, NV 21113                                      10916758
+(391) 643-6925                                           08/07/74
+
+
+HISTORY OF PRESENT ILLNESS:  The patient is 60 years old and was brought to the office after his wife found him collapsed in front of the television.  He was found to have a heart rate of ~76 and his wife administered nitroglycerin.  He is now on a nitroglycerin patch.  He has a history of HTN, hyperlipidemia, and seasonal allergies (hives and pruritus).
+
+
+PHYSICAL EXAMINATION:  On admission, he was diaphoretic, tachypneic, and in shock.  He was tachycardic with a heart rate of 136 and a blood pressure of 60/36.  He was hypotensive (92/69) and hypoxic (94%) after admission to the hospital.  He required 120 cc of IV fluids before his blood pressure and respiration returned to normal.  He was transferred to a tertiary care center where he received a stent to open an occluded coronary and an aortic valve repair.
+
+
+MEDICATIONS:  Viagra, lorazepam 10 mg t.i.d., aspirin t.i.d. p.r.n., atenolol 100 mg q.d., Lipitor 40 mg q.d., diltiazem ER 180 mg q.d., and Claritin-D 24-hour 1 p.o. q.d. p.r.n.
+
+REVIEW OF SYSTEMS:
+  No chest pain, shortness of breath, or edema.
+  No nausea or vomiting.
+  No myalgia or dysuria.
+
+ASSESSMENT AND PLAN: 
+  The patient had a cardiac arrest secondary to a coronary thrombus.  He has now undergone an arterial stent placement and an aortic valve repair.  He continues to remain on medications.
+
+IN ADDITION TO ABOVE PRESCRIPTIONS,
+  RETURNED ALL OTHER CHRONIC
+  PRESCRIPTIONS AS WELL.
+
+
+______________________________
+Matthew H. Wyatt, M.D.
+
+
+eScription document:6-799913
+
+DT: 08/07/74
+DV: 08/07/74
+
+
+
+```
+
+## 3.10.1
+
+This clinical note has embedded eScriptio documents.  Annotate the following embedded eScriptio with the following annotation:
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the / symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+Record date: 2074-08-17
+
+
+Notre Dame Nursing Home
+1992 Madera Circle                                      Potts, William
+Hyannis, NV 21113                                      10916758
+(391) 643-6925                                           08/17/74
+
+
+HISTORY OF PRESENT ILLNESS:
+  Mr. Potts is a 60 year old male with history of hypertension and hyperlipidemia who presents with a complaint of worsening erectile disorder.  He has been taking Viagra 50 mg as needed.  This dose is inadequate and he is having difficulty obtaining refills.  He has had no improvement in his sexual function. 
+
+  Mr. Potts has been taking lorazepam at bedtime for 4 months now.  He has been unable to sleep well due to the worsening of his erectile disorder. He has been taking Viagra 50 mg at bedtime as well as taking a lorazepam 1/2 tsp as needed to help him sleep.
+
+PHYSICAL EXAMINATION:
+  He presents today with a complaint of worsening erectile disorder as well as difficulty falling asleep and staying asleep. He appears well.  Blood pressure 120/80, weight 155 pounds, and heart rate 82. No rales, rubs, or murmurs heard.
+
+
+MEDICATIONS:  Viagra, lorazepam 10 mg t.i.d., aspirin t.i.d. p.r.n., atenolol 100 mg q.d., Lipitor 40 mg q.d., diltiazem ER 180 mg q.d., and Claritin-D 24-hour 1 p.o. q.d. p.r.n.
+
+REVIEW OF SYSTEMS:
+  No chest pain, shortness of breath, or edema.
+  No nausea or vomiting.
+  No myalgia or dysuria.
+
+ASSESSMENT AND PLAN:
+  The patient had a cardiac arrest secondary to a coronary thrombus.  He has now undergone an arterial stent placement and an aortic valve repair.  He continues to remain on medications.
+  The patient has been taking Lorazepam 10 mg t.i.d. at bed time.  He has complaints of difficulty staying asleep and is unable to take 1 tsp as needed to obtain sleep. He has been having problems obtaining lorazepam and is now on Viagra 100 mg q.d.  He has also been having difficulty obtaining Viagra.  The dose that he is able to get has not been effective in helping his erectile disorder.
+  He will be switched to Zolpidem. 
+  The patient will be asked to take his medication at bed time 2 hours after Viagra.
+  Viagra will be increased to 100 mg and Lorazepam will be increased to 20 mg t.i.d.
+
+IN ADDITION TO ABOVE PRESCRIPTIONS,
+  RETURNED ALL OTHER CHRONIC
+  PRESCRIPTIONS AS WELL.
+
+
+______________________________
+Matthew H. Wyatt, M.D.
+
+
+eScription document:8-950326 AFFocus
+
+DT: 08/17/74
+DV: 08/17/74
+
+
+```
+
+## 3.11.1
+
+This clinical note has embedded eScriptio documents.  Annotate the following embedded eScriptio with the following annotation:
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the / symbol, redact patients' names, doctors' names and the strings in front of M

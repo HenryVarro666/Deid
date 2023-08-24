@@ -1,0 +1,331 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2121-05-19
+
+
+
+
+
+Internal Medicine
+
+HOLY CROSS HOSPITAL
+
+
+
+History of present illness   The patient is a 72 year old male, with a past medical history of paraplegia (due to spinal ischemia), DMII, HTN, and recurrent UTI's, who came in for a follow up visit. The patient says that he has been feeling well. He continues to exercise frequently. No chest pain, abdominal pain, SOB, or fevers.
+
+
+
+Allergies
+
+No known drug allergy   
+
+
+
+Change in therapies and Renewals
+
+Zestril 30mg PO QD QTY:90 Refills:3 Start: 11/22/2118
+
+iron supplement 325mg po qd QTY:30 Refills:1 year Start: 6/15/2119
+
+aspirin 81 mg po qd QTY:30 Refills:1 yr Start: 6/15/2119
+
+Xanax 0.25mg po bid QTY:180 Refills:3 Start: 6/15/2119
+
+free text medications regranex  45 gram QTY:1 Refills:1 yr Start: 6/19/2119
+
+Glucophage 850 mg po bid QTY:180 Refills:3 Start: 7/18/2120 take with meals
+
+Lipitor 20mg po qd QTY:90 Refills:3 Start: 4/07/2121
+
+Neurontin 300 mg po tid QTY:270 Refills:3 Start: 4/07/2121
+
+multivitamins 1 tab po qd QTY:90 Refills:3 Start: 5/19/2121
+
+atenolol 25mg po qd Start: 5/19/2121
+
+
+
+Past medical history   Paraplegia- On 10/06 the patient had a lumbar laminectomy for sciatica. His sciatical pain improved until 5/07 when he developed proximal leg weakness. By 7/07 the patient was bound to a wheelchair. Orginally an extensive workup suggested that the patient had an extramedullary tumor from T8-T12. However all biopsies were inconclusive. The patient subsequently received a T10 laminectomy on 9/09 that revealed Spinal Vascular Malformation but no tumor. The patient received serial MRI's until 12/14 that were able to demonstrate no "recurrent" tumors. 
+
+
+
+			
+
+DMII-first diagnosed in 2113 
+
+
+
+			
+
+HTN 
+
+
+
+			
+
+Recurrent UTI's 
+
+PSA of 6.6 
+
+
+
+			
+
+
+
+			
+
+Flap 3 Closure Surgery-patient says that he received this surgery to correct damage to his skin caused by his multiple back surgeries 
+
+2690's received surgery for shrapnel removal 
+
+
+
+			
+
+Sacral decubitus ulcers
+
+
+
+Family history   Father - was an alcoholic who died in an accident
+
+Mom- died at the age of 76 with peripheral vascular disease 
+
+Brother- died in 50's of CAD, was an alcoholic
+
+
+
+Social history   The patient lives alone. He never married and has no children. He is a retired Heavy-Duty Equipment Mechanic (15yrs) and Concrete Finisher (25yrs). He is a veteran. 
+
+The patient quit smoking 20 years ago but had smoked 1.5ppd*20yrs (30 pack year). Very rarely drinks.
+
+
+
+Physical examination
+
+Pulse 92  
+
+Blood pressure 150/80  
+
+Respiratory rate 16  
+
+General appearance   NAD
+
+Heent   PERRLA, EOMI, no oral erythema or lesions
+
+Chest   b/l clear to ascultation
+
+Cor   S1/S2+, RRR, no murmurs
+
+Abdomen   Nt/nd/ +bs
+
+Extrem   no edema
+
+
+
+Assessment and plan   The patient is a 72 year old male, with a past medical history of paraplegia (due to spinal ischemia), DMII, HTN, and recurrent UTI's, who came in for a follow up visit. 
+
+
+
+			
+
+1. Diabetes 
+
+-HemA1C 10/20->7.5. Will recheck
+
+-cont metformin to 850mg bid - Ordered repeat chem 7 (creatinine) and LFTs
+
+-patient sees an opthamologist yearly 
+
+-referred patient again to podiatrist 
+
+-NEXT visit patient will bring cath supplies and WILL check for microalbuniuria -
+
+-increased lipitor to 20 (patient's Chol 179 and LDL 111) -> goal LDL 70 
+
+-patient refused nutrition consult 
+
+-patient is taking ASA 
+
+-patient is on a MVI
+
+
+
+			
+
+2. HTN 
+
+-started atenolol 25 qd
+
+-current regiment is atenolol 25qd and Zestril to 30mg qd 
+
+
+
+3. ?CAD
+
+-EKG 4/21 showed evidence of old ("silent") inferior MI
+
+-ordered TTE
+
+-WILL consider ETT
+
+-will check homocysteine level
+
+
+
+			
+
+3. Paraplegia 
+
+-on neurontin for neuropathic pain control 
+
+
+
+			
+
+4.Recurent UTI -appreciate ID consult will give prophylaxis for recurrent UTI's. Also, will not treat patient unless he has systemic symptoms of fevers or there is a great increase in the amount of burning he has on urination 
+
+
+
+			
+
+5. Elevated PSA 
+
+-appreciate urology consult -they felt that in light of stability of PSA and patient's desire not be biopsied that no intervention should occur at this time. -urology wants to see the patient annually (next visit 12/21) 
+
+
+
+			
+
+6. Anxiety 
+
+-well controlled, will continue the Zanax
+
+
+
+7. Health Maintenance 
+
+-patient has received pneumovac 
+
+-last colonoscopy was on 12/18 
+
+-NEEDS flu vaccine in spring
+
+
+
+			
+
+Return to clinic in 1 month
+
+
+
+Addendum
+
+			
+
+I was present during key portions of the evaluation of the patient and agree with John Ross's findings and plan as written.Diabetes followup good.  Appropriately managed.
+
+Rebecca Downs
+
+
+
+Signed electronically by John  Ross MD on May 25, 2121     Rebecca  Downs MD on May 29, 2121     
+
+
+
+"""
+        patient_dict = {
+            'age': 73,
+            'name': 'Bernie',
+            'gender':'male',
+            'height': '0.57m',
+            'weight': '85.6kg',
+            'diabetic': 'no',
+            'hypertension': 'no',
+            'cholesterol': 'normal',
+            'pulse': '88.21',
+            'blood_pressure': '152/64',
+            'heart_rate': '60',
+            'head_pain': 'no',
+            'pupils': 'dilated',
+            "eyes": "no corneal edema, no conjunctival hyperemia",
+            'ears': 'no',
+           'mood': 'good',
+           'memory': 'no',
+            'dental': 'no',
+            'dental': 'no',
+           'smoking': 'no',
+            'diet': 'normal',
+            'living_with': 'no',
+           'medical': 'no',
+           'medical': 'no',
+           'medical': 'no',
+           'surgery: 'no',
+           'medical': 'no',
+           'medical',
+            'no',
+            medical',
+            'no
+            'no 
+
+           'medical',
+           'medical',
+           'medical',
+           
+           'medical terms:'medical
+
+            medical center of the word
+           
+           'medical center,
+           'medical,
+           'medical, 
+
+
+            medical, and a patient,
+            patient,
+
+           
+patient, 
+names,
+            patient
+           'medical and
+medical medical, patient, "medical, medical medical
+
+names, medical names,
+medical, medical names, and names,
+medical names and date.
+
+
+patient names
+names, names, names
+names, medical, and medical names, medical and names. 
+names, patient names, names, names, patient, names.
+names, names, names and medical diagnost. This medical names, or medical names, 20 names and medical name.
+or, medical records 
+names, and date names, names, names, names, names, names and names of names. names patient names.
+The clinically... names of the date the patient names of age, and names.
+specific and names or the... 10 and names, names, and name, and date, as well, name, names, names, names, as well and... or... (1...
+
+
+
+are, or the patient would, but... or the past, name of patient, and the... 40 orified names...
+
+
+The, 110 and the...
+1 and 8:
+
+names, the...:
+you (you's, 1...: and 1, "and...1, but,...the: the are remove of 1, or, 1: and: 1... are the [ 1 (make, as:... and 
+(1: (or, and... and the: and, 1,
+are, and a (d or: and or: and, the...and and... and the:... and the 11 (  are [21... and of... 12 and and the,, 0, and... (0 and the,
+1, 1,
+...,, the, a, or, a, [3,
+... (
+
+
+, 2, or, or. or and, ([, the, as the, the, are, are and, are, and (2,  of the and, the:, and and::  and, and the (d: the and "1-1. 1 and... (and and. “1 " 3...1 1...1  can are and of any,
+ or of the " 1 in the, " or (le and (and, [le, (1 of the " of the of the and,,, and, and, a, and and are, and, are or-le or, " are (ann, an and, an, an- an "1 or an (le or, an-in, an (1 and, and, the. and, An, an, 3 an [an,  and [1,  or [and, 0-1, An An, or, 21 or "an, (1, An, the "An, an of the, an " and and an, an, an, make, and, an, an (and "An An-an,:: an (0: an 1 an 0 and (an: an::: an: " -: : "  an ( :  “: an (: an [ an and :: an- an in ( an in or-an:  are, " an and, an and an (  and, an  ( of and- of, of a, and. [. an [,
+, or in, ( an [, an and  or and  [ an [ and [, [, or: [ an and an, are [ [ an, and,, and (  are an [ and an -  and an, and an an -  [ or "  and  or  of an of  an  and, ( and, or, and  and and,,  and, an an of, of, and of, an, and an " and,  are,, ",  or, of an of or an an  of an, an or an an, an or an and ( [ [ [ (, of, [, of the of [ of and  ( -, : ( or an and and and ( and an, and an-  or of  ( an ( of  and of  of and an 2-0, an an in- - and of, or and, and an-, and in, an (, an or  " or,  or, an, ( of an of but ( and of an ( of  of (  and ( or an- and, an,, - of,, of and of an of an of  of and of an of 0 of an ( and,, An An An ( an, and an - an an and -, [1 an -1 - 0 in [ - an ( or and an of ( and and, an- " and and 0 or An An An An An ( - an an an an [ or [ an " [  an - ( an and and  " an or, an c  and or an or an an an an of  of: an -2 " - and - ( (  and " or- and (: "- and ":  c ( " and  an ( : C:  and and  or, and ", and - or-  of [ or 2 "  [0 or, _ [ and ", an,  or [ or  an of and,  of  an,  or and, and, _ and and- and, _- and - and of  of, of of of or of of  and- - and - and. - " and and an and (  ( ( an an ( [ H or  - an, "  and   and, n,  ( or and -  [ of t of  of   [ an and  and "  an and and and  and and  an and    "  and [  "   and   - and. and and  and  and  and or " ( and  and C (, and - ( and or and,,  and and, and or. and and-  ( [, C (0 [ H. [  or 0 ( or in and- and and- and and,, and and and and  and, -, ( and, and  t and,  c,,  -,, t and m c,, and, ",,, and [ and., and  ( [ ( [ n (  and ( m of t and  [   t   - and. [ n " and, (, ( t, and,, of,,, and, and and [. n, " and and and, and or " and, t and " - and  "0  " and -1/ C t " or or  - and- " - C C and and C,  and and and., t ( and- or is " and  n and, M and-2-0 or ( t-1 and  -1 m, t or and, n t - or and,, M-0 m - and,, and. and,, and C and, and,,, C (,-  and C,-0-20 and,1- and and c -0 m,, (- and and, and,, and - and 0 as 1,, 2 -1 and and and m or m and.1 ( and  C,  and. C2/  and-  (, and and and  / C,.0  (, and,0 

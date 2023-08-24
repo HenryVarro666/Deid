@@ -1,0 +1,273 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2071-01-30
+
+CARDIOLOGY
+
+BETHESDA MEMORIAL HOSPITAL
+
+
+
+Xavier T Huerta M.D. 
+
+BMH Health Associates
+
+583 Appaloosa Place
+
+CHESTERTOWN, NY 91987
+
+
+
+Dear Dr. Huerta:
+
+
+
+Reason for visit:
+
+   Today, I had the pleasure of seeing Irving Vera in Cardiology clinic. He is a former patient of Dr. Ilya Light. He is a 59-year-old man with diabetes type 2, hypertension, hypercholesterolemia, and mild coronary artery disease who had a brief episode of atrial flutter in 2069. He presented in 2069 with chest pain and rapid heart rate following snow shoveling. He was found to be in atrial flutter with a rapid ventricular response. He was cardioverted two days later and has remained in sinus rhythm since then. Echocardiogram performed on 02/22/2069 showed normal ejection fraction of 72%, borderline left atrium at 43 mm, and no significant valvular abnormalities. Stress test performed on 03/16/2069 showed 5 minutes of exercise, 7 METS, and a peak double product of 22, 000. He had no EKG changes, and a small mild posterobasilar defect suggestive of a very limited area of mild ischemia. The patient has been managed medically since then. He has used an event monitor and since then has not had any subsequent episodes of atrial flutter or fibrillation.
+
+
+
+The patient has been doing well over the past several months. Currently, he exercises once or twice a week by swimming 30 minutes in a pool. A few months ago, he was exercising almost everyday. His weight has been up and down. He does not complain of any chest pain, shortness of breath, or other symptoms. Occasionally in the morning when he takes his pulse, he notices a skipped beat. I have reassured him that this is not a cause for concern.
+
+
+
+Past medical history:
+
+   Diabetes, hypertension, hypercholesterolemia, atrial flutter as above, coronary artery disease as above, Bell's palsy with residual left eye tearing, kidney stones, and glaucoma.
+
+
+
+Current Medications:
+
+  lisinopril 20 mg QD
+
+ Glucophage 1 g BID
+
+ glyburide 10 mg BID
+
+ atenolol 50 mg QAM; Dir: and 25 mg QPM
+
+ Lopid 600 mg BID
+
+ allopurinol 300 mg QD
+
+ omeprazole 20 mg QD
+
+ aspirin 81 mg QD
+
+ Pravachol 80 mg QD
+
+ Avandia 8 mg QD
+
+
+
+Allergies:
+
+Penicillin allergy   Penicillin and erythromycin, causing rash.
+
+
+
+Family history:
+
+   Not significant for coronary artery disease.
+
+
+
+Social history:
+
+   Former tobacco user, works part time in securities.
+
+
+
+Review of systems:
+
+   As above, otherwise negative.
+
+
+
+Physical examination:
+
+-Pulse:   60
+
+-General:   Obese talkative man in no distress
+
+-Chest:   Lungs are clear bilaterally
+
+-Cardiac:   JVP is 7 cm with normal waveform.  PMI is discrete and nondisplaced.  Regular rate and rhythm with normal S1 and S2.  Soft 2/6 holosystolic murmur heard at the lower left sternal border
+
+-Abdomen:   Obese and tender
+
+-Extremities:   Have trace edema with chronic venous stasis changes
+
+
+
+Selected recent labs:
+
+   On 06/18/2070, total cholesterol 168, triglycerides 104, HDL 38, and LDL 109.  His Pravachol dose has been increased since this time.
+
+
+
+Assessment and plan:
+
+   This is a 59-year-old man with metabolic syndrome, diabetes type 2, hyperlipidemia, hypertension, obesity, and mild coronary artery disease that has been medically managed. He is doing well. He had an episode of atrial flutter for two days in 2069 but has not had any repeat episodes. He is currently not anticoagulated. Given new recommendations, his target LDL should be less than 70. He is due for a fasting lipid profile in one week. If his LDL is not below 70, then he should either be switched to Lipitor 80 mg day or Zetia should be added to his present regimen. He is slightly hypertensive today with a blood pressure of 140/75. The patient will check his blood pressure at home since he is somewhat anxious male. In the office today, if his blood pressure remains elevated, then I will increase his lisinopril to 30 mg a day. Otherwise, he is doing very well without any cardiac symptoms.
+
+
+
+Changes to Medications this visit
+
+lisinopril 20 mg   QD
+
+Glucophage 1 g   BID
+
+glyburide 10 mg   BID
+
+atenolol 50 mg   QAM and 25 mg QPM
+
+Lopid 600 mg   BID
+
+allopurinol 300 mg   QD
+
+omeprazole 20 mg   QD
+
+aspirin 81 mg   QD
+
+Pravachol 80 mg   QD
+
+Avandia 8 mg   QD
+
+
+
+Thank you for allowing me to participate in the care of this patient.  If you have any questions, please feel free to contact me.
+
+
+
+
+
+
+
+
+
+Steven Vega MD
+
+
+
+Signed electronically by   Steven  Vega MD  on  Feb 3, 2071     
+
+
+
+Signed electronically by   Xavier T  Huerta   MD  on  Feb 3, 2071
+
+
+
+Signed electronically by   Ilya Light   MD  on  Feb 2, 2071
+
+
+
+Signed electronically by   Ilya Light   MD  on  Feb 3, 2071
+
+
+
+Signed electronically by   Ilya Light MD  on  Oct 4, 2069
+
+
+
+Signed by  Ilya Light   MD  on  Oct 4, 2069
+
+
+
+Signed by  Ilya Light   MD  on  Feb 2, 2071
+
+
+
+Signed by  Steven Vega   MD  on  Feb 18, 2071
+
+
+
+Signed by  Ilya Light   MD  on  Feb 3, 2071
+
+
+
+Signed by  Steven Vega   MD  on  Feb 3, 2071
+
+
+
+This record was signed in the electronic health record system of Bethesda Memorial Hospital.
+
+
+
+
+
+
+
+
+
+\vspace{.4cm}
+
+\noindent The second example is a letter sent to a patient's attorney.
+
+
+
+Dear Mr. Smith:
+
+
+
+Re: X. Huerta M.D.
+
+I have been asked by Ilya Light M.D. to review the medical records of X. Huerta M.D. to determine if any information in his medical records warrants any further legal action on your clients behalf. The medical records that I am reviewing are from Bethesda Memorial Hospital and are dated 2069. I am only looking at the records as a medical record.
+
+
+
+
+Mr. Huerta is a 71-year-old man with an acute exacerbation of congestive heart failure due to a severe viral infection. He had severe pulmonary congestion that required intravenous diuretics and oxygen saturation below 90%.
+
+
+
+
+He also has diabetes type 2, coronary artery disease, hypertension, hyperlipidemia, and obesity.
+
+
+
+In 2064 Mr. Huerta was diagnosed with coronary artery disease and was started on atorvastatin at 10 mg a day.
+
+
+In 2062, Mr. Huerta had a mild stroke and a 45 years and was diagnosed with 2066 with diabetes.
+
+
+
+
+In 2068, with the letter with 31 with a mg, 207, 11, a comma 18, 19
+
+
+
+
+
+In 935 10
+
+The
+In the following 1724
+The following.
+In the
+The following the
+the patient's 19 the 3419 419, 119,
+11999,919999999, 1999999.
+9999999 dates 1999999999 names 99999 names and 1999999999999 names,999999999 names of 999919199999999999 letters, 999 names, please 3999.
+The 999999...
+95.
+
+199998
+name 1999, use 19 names: names: the names 5, names 11999 names 199 and the patient, but the names.
+The name, or name the 12 and 19. names, and name, the names, as, and names, and, and the [names of... (1, the, as…, and the 2. If, name...
+are 11, and 10, any day orification of the 90, including names and name...
+the name...
+[name, name... and 10 patient-21 and you: 1, names, the: 10:
+1, orally,...: 5 orally: 0: 
+
+ 120 are or 4. 
+are: and... include 4 [the are, remove: or, 3 of the 1 and ority (and, as the: (are the, the, and, a 1 and the 0.
+and and a, and include: the  are 2 (1 (
+1 20… and… 1 (1 (and, and the, and "and, 1, the, the, a, and, 0, 3,
+, the, or, the and 7, 1, 2, 
+[1, and are and, and of are, as, [1, and, 1 and, and, but, or, an and and, the, the [ and (... the: and: (make and the, the 1. with the “anities (AN "an and "…...1…0 0 are in the... [are of 0, [3 of the... (by [[0, the 8 in the... and, (le, [le, and [. 1, and of the,... of, An and (2-an or, and, are or would [are and or are an or in, an (2 ( 1 and and ( an, an, an, [and, an, 1, An, and and, and, a. 0, and, or or and- or, a, 2 and (0 and [0 or, An An and and, an, and an, and, an, an, the - the, 1, and, An, the and [An, an, and, an " an, an, and: An (an: an:, and- an and: 1: and:: An (3 and: [- -an- an in your: [: an: 2: an: and an: or: [ ( an " with with a: ( an: and of a an an are or an- an in the (. an-1-the and an (.- of the an and of an in. An An in the [. or, [ and-[ and, or, in are or [ and- or of the or [- [1 and and and and ( an- and are an are an-an an an ( an or  and an an and an of and or an 2-An An An-1 an are or of or of the  of  or and or ( or or in, and or,, in the. ( and an- of the of an of  of and of and, and, An An An or in a in in or and,, or of- or of a- or- or or ( or or, or, or, and- and of the of an of an, of a of  and,, an (, or (, an-1- and,- in- and (1 or in in or, and of the- or- and- -0-C or- - and, or - and of  of, and and,, or or or in,.  and and, and or-m or. and,. or, and a- or or or of -2-2 of a and  and,  are, are and or ( or ( of a of and of  of, of of the  ( and. and-P and,, and and, and in and and and and and (  with  and ( for  or and in or in..  ( and,  and. and and and and and " (,,  [ or ( or and [- and and. in- or in or or and and ( or or or and or- or " ( or [ in ( [- and of and or [ ( in and " and of  and or " and or- ( and and and- ( and. M- and ( and- A:- and. and and and and and with: ( and in in- and. and-0 in  and and and of  a-.. and ( and or-1 or in and and- and and of and,  of- of ( of of. of or. and and. and- and,. or or ( and and ( as.  of of, of of  of of  of of and of and and of as and- and (, 1 C and C- and in and and and, C, and as as and as and in., and in  and and or and and and ( C C of. and of or- of ( C (  in ( ( with B  and and  or or,  and   and and C   a  and   t and (, and and  as C ( with and or or  and ( and, C C and C and ( and [ and., (. or,, and and or a and and with and and and ( and (, and ( and and and, and, and in in in and and and (- and, and or  and t and, of ( and and ( C, (, as and  and or and, or with  of  of. and (.,,.  (, and and t,. ( and and, as  of  a a in and and  ( and  and w- and and and and, with,, and and [ and in, and,, C,,, ( and in [ ( and a a, and with ( and and in and of and in.. of or of of of of of [ a with with and and and and and, and in and t [ ( in and and. and. a and, a and in and ( and and. (, ( ( and of or and  in and, and and (. ( ( ( a in ( and or and but ( and. and or ( and and and as ( or. and and and but ( and ( and as ( in in of a- and, and,, and, of a of to of of of of of, of of of of of of of of., and and ( and, and and (,,  [ of, of and and and [. and in and M, ( and and of a of and and and, and. or of ( and  and of of, and of ( of, a, and ( of of, and and, ( a

@@ -1,0 +1,743 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2092-09-21
+
+ 
+
+MEDIQUIK Cardiovascular Division
+
+CVD TR1
+
+23 Tamworth Place                                      TRENT, SHIRLEY
+
+Galena, MN 64864                                           99210914
+
+(176) 232-6146                                           09/21/92
+
+ 
+
+ 
+
+Robert J. Trujillo, M.D.
+
+Department of Vascular Surgery
+
+Lenox Care Center
+
+21 Tamworth Place
+
+Galena, MN  64864
+
+ 
+
+Dear Dr. Trujillo:
+
+ 
+
+Thank you for referring Mrs. Shirley Trent, a 68-year-old lady
+
+with peripheral artery disease, on whom you plan to do
+
+revascularization of the right leg.  Her history is well known to
+
+you but I will repeat it for our records.  She has a long history
+
+of cigarette smoking with a 3-packet-per-day history for 30
+
+years, stopping 15 years ago.  She has developed claudication,
+
+particularly in the right leg, over the last year since her
+
+husband died, which has all the typical symptoms and is relieved
+
+by rest.  This seems predominantly in the right calf but is also
+
+in the right thigh as well.  She had segmental leg pressures done
+
+which shows some mild diminution in the left leg but an
+
+ankle-brachial index of 0.65 in the right leg.  An MR angiogram
+
+showed stenosis, although I do not have the full report on this
+
+as yet.
+
+ 
+
+She has intercurrent problems with insulin-dependent diabetes
+
+mellitus, which she has had for 10 years.  Her other cardiac risk
+
+factors apart from cigarette smoking include a family history of
+
+myocardial infarction in her father, and it is uncertain what her
+
+cholesterol level is.  She has no history of hypertension,
+
+although I am uncertain whether this has been checked in the
+
+past.  She has a past history of partial gastrectomy in 2059 for
+
+a bleeding peptic ulcer and this has led to some difficulty in
+
+swallowing tablets and keeping them down.  She also has a past
+
+history of a right middle lobectomy in 2079 for adenocarcinoma
+
+that had clear margins and did not require further adjunctive
+
+therapy.  She also had a cholecystectomy in 2079, which was
+
+uneventful.
+
+ 
+
+Systems review reveal no chest discomfort, dyspnea, ankle edema,
+
+palpitations, syncope, cough, sputum, hemoptysis, GI bleeding,
+
+weakness down the arms, face, or legs, seizures or visual
+
+disturbances, and all other systems are negative.
+
+ 
+
+She lives alone, and her current medications include insulin
+
+only.  She has no allergies.
+
+ 
+
+On physical examination, she is alert and orientated without any
+
+signs of jaundice, clubbing, or cyanosis.  Her heart rate was 85
+
+beats per minute with a blood pressure of 160/85 in both arms. 
+
+The jugular venous pressure was not elevated, and her carotid
+
+upstrokes were reduced, but she had no bruits audible.  Her apex
+
+beat was not palpable, and she had a normal first and second
+
+heart sound without added sounds, murmurs, or gallops.  Her chest
+
+was clear to percussion and auscultation.  She had no
+
+hepatosplenomegaly and no abdominal masses or pulsations.  She
+
+had the scars from previous operations present.  Her femoral
+
+pulses were absent on the right side and reduced on the left side
+
+without bruits.  She had reduced but palpable dorsalis pedis and
+
+posterior tibial pulses on the left leg but no pedal pulses on
+
+the right leg.  There were no trophic changes in her legs.  She
+
+had reduced sensation to pinprick in both feet to the mid calf
+
+level in a stocking distribution.
+
+ 
+
+Her ECG showed sinus rhythm without abnormalities.
+
+ 
+
+Assessment:  This lady obviously has severe claudication and
+
+requires revascularization, but is uncertain whether she has any
+
+myocardial ischemia.  I therefore think a stress test is
+
+required.  She also has difficulty in swallowing medications and
+
+this will prove a problem for the long-term management of her
+
+atherosclerosis, which I would like to further evaluate.
+
+ 
+
+Plan:  I therefore organized a dobutamine stress test to assess
+
+for myocardial ischemia and cardiovascular risk.  I have also
+
+asked her to start on a small dose of a beta-blocker for reducing
+
+her perioperative risk as well as treating her blood pressure,
+
+which is elevated.  I have also asked her to have a fasting blood
+
+lipid test today so we can assess her cholesterol level, as it is
+
+likely that she would benefit from lipid-lowering therapy.  I
+
+plan to evaluate all these in approximately a month or so after
+
+her operation so that we can manage her in the long term.
+
+ 
+
+I will let you know the results of her stress test when they
+
+become available.  Thank you for allowing me to take part in this
+
+lady's care.
+
+ 
+
+Yours sincerely,
+
+ 
+
+Dictated By: James Patel
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+______________________________
+
+James Patel, MBBS, PHD
+
+ 
+
+ 
+
+eScription document:8-6022994 TFFocus
+
+ 
+
+ 
+
+CC: Rose Samuel Isaac-Ly M.D.
+
+Internal Medicine
+
+20 Tamworth Place
+
+Galena, MN 64864
+
+ 
+
+DD: 09/21/92
+
+DT: 09/21/92
+
+DV: 09/21/92
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+\n
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+\n
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+\n
+ 
+\
+ 
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+\n 
+ 
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 1
+ 
+
+\n 
+ 
+\n 
+ 
+ 1
+ 
+ 
+ 
+ 
+ 1 
+ 
+
+
+ 1,2\ 3 lines
+
+
+
+3
+ 1,3.
+
+
+1,
+  
+
+1.
+2
+or
+11
+
+1
+
+1,2,3,2-name
+names and name and, and 
+name, 123,1
+1 1
+13 or 1. 1
+
+
+1 and, 1 and 1 or 101
+names of the first, third names, the following name,10 and name.
+The first names and 1
+...
+or 1. The name-12 
+[1 and 1
+1...or names or 911, or 1, and name, the letter.
+(and, and the letter, or the...
+and 1 or the 2... are
+are and the are the patient 5, and, etc, 25 characters, and 1-name, or 4, 12 (and:
+... and a...
+...:
+d, 111 (
+
+(1, the following::, but: and a “...: 1-1 are (
+
+[1... are... of name are 10, 20: 
+
+ 0, and include and, or, 
+
+( 1:
+or:  (d, or, 3, and, the...
+the 1 and (make, a (1: and: 5 (1,1 and are (3, 1 are...
+... and 1-1 and the:
+and, but, and are, and or and and, 4 and, 3, or and, 1 [1,  (make or, the 0, 2 and, an,... and, and, 4 of the, and, and, and, a, and, 0, and,  and, a of the and:, 3, and the (and, your... with [f... with 3 and the...1: names,... (le and... [0: are, are the 1 are-1...1 are (name-1 in "and 1-with and (0 or,  (and in the, 5,, 1, and, of the, anities and,  and,, 2, and, an (d in a-11 and or are the-le and, 0 or, and-le or, and, 1, the, an, 1, and.  and 1, 0 and, an,  an- 1 or,  or, or, (le of 0 or [of and, or an [1, and, the,,, and, "1, An, and,, and, 1 and, an, 0,, the, an and in the, an, (with: an an: (1-0 or: An: an:: an: 5 with the... (make an: an:  -: an (: ( and: an [[: an: -1 ( with [an-le an-with- an: an::  an  an 1 "- 0-0 an an or  an (. (. of the of. an- and- an in [ and and in [. in-d and or [- -1-2- are [, - or- and, an and, ( or-d-0, -an- an  in 0 and  an or and ( -1-an-1 or, and -an  of  or an or of  an or - an,, -1 and,  (- ( and- and an- of the of ( an of,. or an-an an or, or -  in an  or in -  ( (,  or  or,  1  and (  with-m-  of an-of of: of the of an : or  and ( -1 in in-1- or- or - - an- -1  or- or,  an-t- or an an an- - and  and- or of  and or or and in and,  for,, or,- and- or- - of an-0 or or- and or- for and- 2 or-  or, or-d,  (  for an of the of  and  of an of  and of  for  for, for for for for an- for a for for an, an  for -2 or, 0- - an and,- -, or and -h-d-1-0 or-  [ or  c- and or  and and- C in  or and.  for  and or  an c. -  or  or in an and for ( or, or  of  (, [ c-2, and,- and-. C c- C- [ C.  and ., -t- 2 or-1 c-  and- " and- and  and- - or- or- or and. ( and or or and or, and or, of the ( of of of our of the and-1  are- are and- are - or and are and  ( ( C C  for of of of  of- of of of-0 or- and- and- n- and or- or and in,-1- or - or and ( or-0 in-1 and - ( ( - or and c-  ( and of- ( ( of of 1- to and and (, ( ( in and, ( - and, or in and-1- or or- ( and- and, and in or-t- or and and ( and or ( and ( or (, [ and, or (, t in c and or and, and or and or and and and, and- or a (1-1 t ( or, C in and ( or- and, C and or,,  and (, ( and and and and, and and and,, and and, and and and- and and ( or, and of ( and [ and, as and in [- n, ( in ( V,, ( for ( (,,, and,,, of,1 a-2- and ( n and (- and and (- n-d for, for for for for, [, and, for,, C ( C and, ( and C C or-t (, and, and ( C and t and, [ or- or-1 and- to and and-l or and ( n and- and c t and and and [.- C, for,- and and and or and in- and in and in and,-t and, [2 and and or 1-0 ( c and c- and, [ ( and, ( and tr and or or,, tr and (- or- c and and or and or and and and or and,, c ( and-  on and, in and and for and ( and- as for- and, and, for and to, to, and (, and,,, ( and and n w c and (,,, c and or and. or in and, and, ( and ( ( 00 and for, for, and and ( and and is or or, ( and for, for, for for for for

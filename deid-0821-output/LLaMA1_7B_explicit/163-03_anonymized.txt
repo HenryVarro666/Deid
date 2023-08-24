@@ -1,0 +1,879 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2083-10-01
+
+
+
+Westwing Place Nursing Home
+
+356 Chablis Court                                    GERALD, MARION
+
+Doha, KY 63216                            48967301
+
+(638) 074-1457                                           10/01/83
+
+(449) 515-0294
+
+
+
+
+
+REASON FOR VISIT:  Follow up cholesterol and new problem of chest
+
+pain.
+
+
+
+HISTORY OF PRESENT ILLNESS:  Ms. Gerald is a 61-year-old patient
+
+with history of diabetes, hypertension, elevated lipids,
+
+hypothyroidism and I now have available old records from previous
+
+doctor, Yesenia Olive.  The following issues addressed:
+
+1.  Diabetes:  She is currently feeling well and denies any
+
+symptoms of polyuria and polydipsia.  Maintained on Glucophage
+
+1000 mg b.i.d.  Blood sugar testing at home once or twice a day
+
+is around 120.  We will be obtaining glycohemoglobin level today.
+
+ Has ophthalmological exam scheduled.
+
+2.  Elevated cholesterol:  With her diabetes, her target LDL will
+
+be less than a 100.  She is maintained on Pravachol 40 mg a day
+
+and LDL from 09/15/83 was 154 with a total cholesterol of 256. 
+
+We will initiate Zetia to add to the Pravachol.
+
+3.  Hypothyroidism:  Maintained on Levoxyl and TSH level is
+
+acceptable at 3.93 with a T4 of 8.5.
+
+4.  Hypertension:  Maintained on Avapro and verapamil and blood
+
+pressure is currently acceptable.
+
+5.  Question of rheumatological disease, elevated sedimentation
+
+rate, diagnosis of polymyalgia rheumatica has been considered in
+
+the past.  No new symptoms of muscle aches, but now report a
+
+history of recent chest pain.
+
+6.  Exercise-induced chest pain.  The patient has noted over the
+
+past month that she gets a pressure sensation in her mid chest
+
+when she is walking after about 20 minutes of exertion.  This
+
+subsides when she stops and rests for a while.  This has been
+
+reproduced for the last three times she has taken a walk with her
+
+husband.  Review of records from Dr. Olive show that she had
+
+thallium stress test 12/26/79 achieving 85% of maximum predicted
+
+heart rate with a workload of 10.1 minutes.  EKG showed 1 mm ST
+
+depression in leads II and V4 through 6.  The thallium scan
+
+showed slight apical ischemia and mild ischemia in the anterior
+
+walls suggesting minimal ischemia in the left anterior descending
+
+artery distribution.  She does not recall having symptoms at that
+
+time.  Denies palpitations, sweats or shortness of breath with
+
+chest discomfort.  There are some radiation into both shoulders
+
+and neck.  Multiple cardiac risk factors include elevated lipids,
+
+diabetes, hypertension and postmenopausal.
+
+
+
+CURRENT MEDICATIONS:  Levoxyl 50 mcg q.d., Pravachol 40 mg h.s.,
+
+Prilosec 20 mg q.d., Flexeril 10 mg q.d., Bumex 2 mg q.d., Avapro
+
+150 mg q.d., Verapamil of 240 mg b.i.d. and Glucophage 500 mg two
+
+tabs b.i.d.
+
+
+
+DRUG ALLERGIES:  None.
+
+
+
+SOCIAL HISTORY:  director/midwife for Iowa Clinic in Temescal Valley.
+
+
+
+REVIEW OF SYSTEMS:  Denies abdominal pain, change in bowel
+
+habits, fevers, sweats chills, weight loss; otherwise, as above.
+
+
+
+PHYSICAL EXAMINATION:  She appears in no distress.  Temperature
+
+of 97.8 degrees, BP 130/70 and pulse is 70.  Pupils are equal,
+
+round and reactive.  Conjunctivae clear. Sclerae anicteric. 
+
+Oropharynx benign.  Neck is supple.  No neck vein distention. 
+
+Thyroid is not palpable.  Chest is clear to percussion and
+
+auscultation.  Heart:  Regular rhythm, S1, S2 and no murmur, rub,
+
+thrill or gallop.  Abdomen:  Soft, nontender, active bowel sounds
+
+and no organomegaly.  Extremities:  No clubbing, cyanosis or
+
+edema.  Neurophysiologic:  EKG shows normal sinus rhythm.  No
+
+abnormal complex.
+
+
+
+IMPRESSION AND PLAN:
+
+1.  Diabetes.  We will check her glycohemoglobin and assure she
+
+has had an ophthalmologic follow up.  Maintain Glucophage.
+
+2.  Elevated cholesterol.  Add Zetia 10 mg q.d.
+
+3.  Chest pain.  Symptoms certainly suggest ischemia.  I have
+
+contacted Dr. Ng in Cardiology and he is arranging for an
+
+ETT MIBI and a cardiology consult.  I prescribed nitroglycerin
+
+1/150 to use sublingual q.5minutes. x 3 for chest
+
+discomfort and she will limit exercise until ETT is accomplished.
+
+ Suspect she might need catheterization and hesitant to add
+
+beta-blocker because of high-dose verapamil and risk of inducing
+
+heart block.
+
+4.  Hypothyroidism:  Adequate replacement dose on current
+
+Levoxyl.  The patient will see me back in four weeks' time and
+
+cardiac workup to be arranged for early next week.
+
+
+
+
+
+
+
+
+
+
+
+______________________________
+
+E Xochil Higgins, M.D.
+
+
+
+
+
+Dictated By: E Xochil Higgins
+
+
+
+
+
+eScription document:8-7850722 EMSSten Tel
+
+
+
+
+
+
+
+DD: 10/02/83
+
+DT: 10/02/83
+
+DV: 10/02/83
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
+
+
+
+
+date
+
+
+
+
+
+
+
+
+
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+words
+
+
+
+and a
+
+
+
+
+
+
+
+
+
+
+
+
+information
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+information
+
+
+names, do notations
+Information
+and doctors of the name
+
+
+names.
+information
+(or names of
+
+The following
+or
+
+
+19 or 11. This 1, 49 and date of the date,
+let, identify patient data, identify and the following date.
+The patient information
+
+
+
+
+
+
+...
+
+are 
+The clinically ident, but the patient... and, identify. The 
+
+The following
+...
+
+
+
+
+and, and, and [1, and name, and name...
+1 or... the clinique...
+
+are the clinically or indicate and, and or the are a, and
+[15, and a patient names.
+...
+
+
+
+
+
+names.
+
+
+...
+
+. and the name:
+name: the following patient names. 
+names of the following the following and the...
+1, 10: 1: 10 and are:
+
+are …
+of are (1 and the “[are or are:
+name the names and the...
+[the following, the [of the and, or 1: and, and the (are, orise, the or,
+1...
+[the:... and... and and the... (
+are and the (… are, the...... of the names of the 
+1 and and (... and, and are the or... and, or,..., or, the, or and, a and, the, and (1 (...1... (and, and, and...[are, 2, or, and, and, and, (3, 1, and, are, the, and 1, [1, a, and [..., and the and (: and...
+-
+: [...1. [...: 1... (1: and and. [are 1 are
+... are [[re or-1 and,... of the, [an, ([... and, the, 0,
+...,, and [, 1 of the of the " of the and,,, and, an and, and, and 1 and- 0 or an may or are (an or and, or, an  (an " and, an, [and, an-c, the, and, (An or, 1, and, 1 [an and, [an " or or, an, [an of the, and and or, (An, an, and or, [anine, an, and, an, and, (P, and, An C for and, (1 (d, the, “1-le: [: An An of a and, an of the: 3 " (3 in " [: 1 are: ": and in the:-2::  and-1:: an- -an-1 ": and- [ an an-1:,-and: or in or " are- are, and in- or and- an " (. and, and of a of (, (., the. or, and, and,,, and [, or,- and or or,, and or [- ( (- [ or- and or [ an or,, or- are or ( [ are of are,  an " and- an, (-, an,, an,, of the, an, and, (, of of a or ( but or,, or or or- an or and and an and,, and " of the of the an of the or of the of ( an are-2 or an or, are in or, an or of  or of or an or " or ( -, " (,, - or and [ or or of and, of a of the of the of  of ( ( and and or an and (,, or in the-, or ( and and of a or- an in and- and- an [ or-0- a- or and and, and of or of,, ( and,  and and and or and ority, or.-3 an, an, (,,  an of, of a and or and- ( for or an-1 a of and or an and, or,, and of or of  of, of a of " and of an of the of, an or [, an, a,, and ( c or and and and or, and an, - an c-1 or c or and ( are in and, and of [, of the in- and or  or and and-c in and (1 c c and [ or, an- [ and [ or an, and ( or or an- c and- or or [ in-1 and ( in and a or and of the in and a of  and and  and and and or  and and or a and and or and- and of and or and and a and ( or and-1 or. in and-2 and of and or and and of an of the of or and an  or and ( and and of the or or or and, and or of or- of of ( of and of of an or or or in, or ( or- and- and ( or, and and of, of of of and of and of of of the of or of the- and and and,, and  or  or or, and, and- or and or or,  and, a, or  c, a or,, and ( and-1 with ( and-1 and of or c of  of  and and - or an- or an ( and c or,  a (  of of  of the c of and and - an  c- and and c or, c or, a and and or, - and and or and in or and and a and ( and and and, and, an or, and,, ( or (, [ or an, ( c and a- and, in a in and in ( of and, and of and and, and w, and, and and,  and, and or  ( with and, and,,,, with,,,, and of ( and,, or, with, (,, and, ( or ( and a of ( or, of  ( ( c a and w- and hy c and w- ( [, and (, w of, and hy, (,, ch, hyp, (, hy- and or c and ( or and, a and in and and and or and and ( ( or and or and hy- and or-0 or, and, C with c of ( [ and ( and [ [. c ad and ( m c ad c and, a and in, [ of ( in [ c ( t g c c c- c- m ad and or- ( c n, w n ( or, n [, a, c, [ or and and c and or as and c and, and and and, a and  and and in m and t and and and and c, and and, and and and in or and and w m, and, and and,, and,, ( and and and h and a or h. and and and, as, h and and, a and and or and n- and a c,- and and ( and and and m- h and, and, and ( h and and and w (

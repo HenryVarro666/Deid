@@ -1,0 +1,308 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2081-06-22
+
+                     AH EMERGENCY DEPT VISIT
+ 
+BRANCH,EARNEST   530-23-69-1                      VISIT DATE: 06/22/81
+HISTORY OF PRESENTING COMPLAINT:  This patient was examined and 
+treated in conjunction with a resident.  Briefly, the history is as 
+follows:  The patient is a 47 year old male with end stage renal 
+disease on hemodialysis who was referred for abdominal discomfort 
+and fever.  His abdominal discomfort had begun within the preceding 
+24 hours and had gradually worsened.  He had pain in the left lower 
+quadrant radiating to the rectal area.  He did have one diarrheal 
+bowel movement.  He specifically denied bleeding. 
+PHYSICAL EXAMINATION:  GENERAL APPEARANCE:  The patient was awake 
+and alert, although somewhat sluggish and apparently uncomfortable. 
+VITAL SIGNS:  Blood pressure was 177/90, pulse 117, initial 
+temperature 103.3, respiratory rate 20.  HEENT:  Pupils were equal. 
+Sclerae were anicteric.  The oropharynx showed normal architecture. 
+NECK:  Supple.  CARDIOVASCULAR:  Regular rate and rhythm.  LUNGS: 
+The breath sounds were essentially clear.  ABDOMEN:  There was mild 
+to moderate diffuse tenderness.  No definite mass can be 
+appreciated.  Bowel sounds were diminished.  RECTAL:  Stool is 
+guaiac-negative, per the resident's examination.  EXTREMITIES: 
+Examination of the left thigh showed slight drainage at a recent 
+surgical incision site. 
+LABORATORY EVALUATION:  Electrolytes showed sodium 139, potassium 
+4.3, chloride 99, CO2 27, BUN 12, creatinine 2.2, glucose 230. 
+White blood cell count was 30,000, hematocrit 38.  Chest x-ray 
+showed no definite infiltrate.  Abdominal x-ray showed dilated 
+loops of small bowel.  EKG showed no change from previous tracings. 
+THERAPY RENDERED/COURSE IN ED:  The assessment and plan were 
+reviewed with the resident. 
+FINAL DIAGNOSIS:  I confirm the provisional diagnosis of abdominal 
+pain with question of deep venous thrombosis versus sepsis from as 
+yet unidentified source. 
+DISPOSITION (including condition upon discharge):  The care plan 
+was reviewed.  The patient was started on antibiotics and 
+ultimately admitted to the hospital for definitive evaluation and 
+further care. 
+___________________________________                    RD883/1008 
+FRANK E. BENDER, M.D.  FB25                             D:07/25/81 
+                                                       T:07/25/81 
+Dictated by:  FRANK E. BENDER, M.D.  FB25 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+*/
+                                                                 
+/*
+
+
+
+Record date: 2081-05-12
+
+
+
+Record date: 2081-06-02
+
+
+
+Record date: 2081-06-22
+
+                     AH EMERGENCY DEPT VISIT
+ 
+BRANCH,EARNEST   530-23-69-1                      VISIT DATE: 06/21/81
+HISTORY OF PRESENTING COMPLAINT:  The patient was referred from 
+his primary physician for a follow-up examination of his chronic 
+kidney disease.  He stated that he felt well and was not complaining 
+of abdominal discomfort.  He denied any bleeding or diarrhea in the 
+prior 24 hours. 
+PHYSICAL EXAMINATION:  GENERAL APPEARANCE:  The patient was 
+awake, alert and oriented to time and place.  PHYSICAL EXAMINATION: 
+The following are the key components of the patient's clinical 
+examinations:  HEENT, NOWN, CARDIOVASCULAR:  There were no 
+defects.  ABDOMEN:  The liver span was 29 cm.  The spleen was 
+mildy enlarged and there was a large mass in his lower abdomen 
+which appeared to be a retroverted uterus. 
+DIAGNOSES:  The diagnoses made by the examining physician in 
+accord with the patient's chief complaint and history are as 
+follows:  Chronic kidney disease.  Retroverted uterus. 
+DISPOSITION:  The patient was treated by the resident as 
+indicated above. 
+_________________________________________________________ 
+FRANK E. BENDER, M.D. FB25                            D:06/22/81 
+                                                        T:06/22/81 
+Dictated by:  FRANK E. BENDER, M.D. FB25 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+*/
+                                                                 
+/*
+
+
+
+Record date: 2081-04-17
+
+                     AH PATIENT REGISTRATION
+ 
+BRANCH,EARNEST   530-23-69-1                      ADMITTING DATES: 04/16/81
+HISTORY OF PRESENTING COMPLAINT:  There was no chief complaint. 
+The patient was admitted for a routine check-up, and no complaints 
+were noted. 
+PHYSICAL EXAMINATION:  The patient was examined by a resident. 
+The following are the key components of the patient's clinical 
+examinations:  VITAL SIGNS:  The patient was awake, oriented to 
+time and place and in no apparent distress.  HEENT, NOWN, CARDIOVASCULAR: 
+There were no defects or abnormal findings of any kind.  ABDOMEN: 
+The liver span was 29 cm.  The spleen was mildly enlarged and 
+there was a large mass in his lower abdomen which appeared to be 
+a retroverted uterus.  DIAGNOSES:  The diagnoses made by the 
+examining physician in accord with the patient's chief complaint 
+and history are as follows:  Chronic kidney disease.  Retroverted 
+uterus. 
+_________________________________________________________ 
+FRANK E. BENDER, M.D. FB25                            D:04/17/81 
+                                                        T:04/17/81 
+Dictated by:  FRANK E. BENDER, M.D. FB25 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+*/
+                                                                 
+/*
+
+
+
+Record date: 2081-01-17
+
+                     AH REGISTRATION
+ 
+HISTORY OF PRESENTING COMPLAINT:  The patient came to the office 
+for a check-up as indicated by the medical record.  The patient 
+did not complain of abdominal pain or discomfort. 
+PHYSICAL EXAMINATION:  The following are the key components of 
+the patient's clinical examinations:  VITAL SIGNS:  The patient 
+was awake, alert and oriented to time and place.  HEENT, NOWN, 
+CARDIOVASCULAR:  There were no defects or abnormal findings of 
+any kind.  ABDOMEN:  The liver span was 29 cm.  The spleen was 
+mildly enlarged and there was a large mass in his lower abdomen 
+which appeared to be a retroverted uterus.  DIAGNOSES:  The 
+diagnoses made by the examining physician in accord with the 
+patient's chief complaint and history are as follows:  Chronic 
+kidney disease. Retroverted uterus. 
+_________________________________________________________ 
+DR. FRANK E. BENDER FB25                             D:01/17/81 
+                                                         T:01/17/81 
+Dictated by:  FRANK E. BENDER, M.D. FB25 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+*/
+                                                                 
+/*
+
+
+
+Record date: 2080-10-23
+
+                     AH EMERGENCY DEPT VISIT
+ 
+HISTORY OF PRESENTING COMPLAINT:  The patient was examined and 
+treated in conjunction with a resident.  Briefly, the history is 
+as follows:  The patient is a 45 year old female with end stage 
+renal disease on hemodialysis.  The patient presented to the 
+Hemodialysis Unit on the morning of the 21st for dialysis as 
+indicated by the dialysis log.  She was noted to be in 
+moderate distress with abdominal discomfort and a temperature of 
+104 degrees.  Her vital signs at the time of presentation are 
+noted in the log and are consistent with a mildly hyperthermic 
+individual. Her abdominal discomfort began within the preceding 
+48 hours.  Her pain was described as cramping and radiated to her 
+right lower abdomen and back.  Her pain was moderate at best. 
+She complained of nausea and was vomiting.  She denied any 
+bleeding. 
+PHYSICAL EXAMINATION:  The patient was examined by a resident. 
+The physical examination revealed the following:  VITAL SIGNS: 
+Blood pressure was 163/112, pulse 112, initial temperature 103.5, 
+respiratory rate 28.  HEENT, NOWN, CARDIOVASCULAR:  The patient's 
+eyes, nose, mouth, lungs and heart were unremarkable.  ABDOMEN: 
+The patient's abdomen appeared to be moderately distended and was 
+somewhat tender to palpation with guarding.  Her bowel sounds 
+were diminished.  DIAGNOSES:  The diagnoses made by the 
+examining physician in accord with the patient's chief complaint 
+and history are as follows:  Abdominal pain and cramping with nausea. 
+The differential diagnoses considered in the patient were as 
+follows:  Inflammatory bowel disease. 
+_________________________________________________________ 
+FRANK E. BENDER, M.D. FB25                             D:10/23/80 
+                                                        T:10/23/80 
+Dictated by:  FRANK E. BENDER, M.D. FB25 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+*/
+                                                                 
+/*
+
+
+
+Record date: 2080-09-19
+
+
+
+Record date: 2080-09-27
+
+                     AH PATIENT REGISTRATION
+ 
+HISTORY OF PRESENTING COMPLAINT:  The patient was admitted for 
+observation after an overdose as indicated by the medical record. 
+The patient was examined by a resident and his chief complaint 
+was not noted.  The chief complaint was entered as "Overdose, 
+unknown".  The patient was admitted for observation. 
+PHYSICAL EXAMINATION:  The patient was examined by the 
+examinng physician.  The following are the key components of the 
+patient's diagnostic study:  VITAL SIGNS:  Blood pressure was 
+161/110, pulse 110, initial temperature 102.5, respiratory rate 
+21.  HEENT, NOWN, CARDIOVASCULAR:  The patient was in no apparent 
+distress.  The patient's eyes, nose, mouth, lungs and heart 
+were unremarkable.  ABDOMEN:  The patient appeared to have 
+some discomfort in his right lower abdomen.  DIAGNOSES:  The 
+patient's chief complaint and his diagnoses as made by the 
+examining physician are as follows: 
+_________________________________________________________ 
+FRANK E. BENDER, M.D. FB25                             D:09/27/80 
+                                                        T:09/27/80 
+Dictated by:  FRANK E. BENDER, M.D. FB25 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+*/
+                                                                 
+/*
+
+
+
+Record date: 2080-04-06
+
+
+
+Record date: 2080-05-11
+
+
+
+Record date: 2080-06-28
+
+                     AH EMERGENCY DEPT VISIT
+ 
+HISTORY OF PRESENTING COMPLAINT:  The patient had been admitted 
+to the hospital as indicated by the medical record and had a 
+septic urinary tract infection.  The patient had presented to 
+the emergency department after experiencing abdominal pain for 
+the prior several days.  She had not been seen by the resident 
+at that time.  She had been seen by the attending physician, and 
+had been admitted to the hospital.  The patient was examined 
+by a resident and his chief complaint was not noted.  The chief 
+complaint was entered as "Abdominal pain, vague".  The patient 
+was seen by the attending physician. 
+PHYSICAL EXAMINATION:  The patient was examined by a resident. 
+The following are the key components of the patient's diagnostic 
+study:  VITAL SIGNS:  Blood pressure was 90/68 and the patient 
+was mildly tachypneic.  Heart rate 92.  HEENT, NOWN, CARDIOVASCULAR: 
+The patient was in no apparent distress.  The patient's eyes, 
+nose, mouth, lungs and heart were unremarkable.  ABDOMEN:  The 
+patient appeared to have mild abdominal discomfort in the 
+lower left quadrant.  DIAGNOSES:  The diagnoses are as 
+follows:  Septic urinary tract infection. 
+_________________________________________________________ 
+FRANK E. BENDER, M.D. FB25                             D:06/28/80 
+                                                        T:06/28/80 
+Dictated by:  FRANK E. BENDER, M.D. FB25 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+*/
+                                                                 
+/*
+
+
+
+Record date: 2080-04-17
+
+                     AH PATIENT REGISTRATION
+ 
+HISTORY OF PRESENTING COMPLAINT:  The patient had been admitted 
+to the hospital as indicated by the medical record and had a 
+septic urinary tract infection.  The patient had presented to 
+the emergency department after experiencing abdominal pain for 
+the prior several days.  She had not been seen by the resident 
+at that time.  She had been seen by the attending physician, and 
+had been admitted to the hospital.  The patient is a 55 year old 
+female who had been seen by the resident.  Her chief complaint 
+was not recorded. 
+PHYSICAL EXAMINATION:  The patient was examined by the 
+resident.  The following are the key components of the patient's 
+diagnostic study:  VITAL S

@@ -1,0 +1,552 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2090-10-07
+
+
+
+
+
+ 
+
+NAME:     Olivo, Kimberly
+
+MRN:      3299811 
+
+
+
+INITIAL VISIT 
+
+
+
+This is a 69-year-old white female coming for her fu visit. 
+
+
+
+The patient has a history of type II diabetes mellitus and pituitary adenoma and
+
+recently was hospitalized at American Legion Hospital with general malaise
+
+syndrome and back/chest pain.  Initially the patient was seen at Neligh Clinic and cardiac ischemia was ruled out.  She was found to have a blood
+
+pressure of 250 systolic at Neligh Clinic associated with persistent
+
+headaches.  She was transferred to American Legion Hospital after being
+
+found collapsed on the floor of the hospital bathroom.  She was transferred to the
+
+Intensive Care Unit at Neligh Clinic and treated for tonic-clonic
+
+convulsions with diazepam and lorazepam. She also suffered a urinary tract
+
+infection in hospital, treated with Cipro.
+
+
+
+She was transferred to the American Legion Hospital on October 02, 2089,
+
+at which time she was awake but unable to give a history. 
+
+
+
+On admission to American Legion Hospital she had a blood pressure of
+
+127/70, pulse was 80, and temperature was 99.3.  She had a myxedematous face and
+
+was obese.  She was cardiovascularly stable.  Neurologically, she was able to move
+
+all four extremities with good strength and symmetrical reflexes.  Cranial nerves
+
+intact.  Initially, the impression was that patient suffered seizure secondary to
+
+elevated blood pressure.  Most likely, she suffered hypertensive encephalopathy. 
+
+Patient underwent neurologic evaluation including MRA of the brain, lumbar
+
+puncture, both of which were negative.  Electroencephalogram was  performed and
+
+showed no epileptiform foci and diffuse temporal slowing bilaterally.  The patient's
+
+alertness and responsiveness increased gradually during the hospital stay.  She had
+
+an episode of chest pain which was associated with some ST flattening in the lateral
+
+leads.  Acute cardiac event was ruled out.  The patient underwent a course of
+
+physical therapy and then, finally, was transferred to a rehabilitation facility.  A
+
+specific cause of the patient's seizure was not found although it was assumed that
+
+this might have been provoked by the hypertensive encephalopathy associated with
+
+use of ciprofloxacin for the treatment of the UTI which could have lowered her
+
+threshold for seizure activity.  Upon discharge, the patient was in stable condition.
+
+
+
+PAST MEDICAL HISTORY:  Remarkable for seizure, type II diabetes mellitus,
+
+panhypopituitarism secondary to pituitary surg, hypertension, right arm bone
+
+tumor excision associated with right radial neuropathy, and hyperlipidemia.
+
+
+
+MEDICATIONS:  See LMR.
+
+FAMILY HISTORY:  Negative.
+
+SOCIAL HISTORY:  Denies alcohol intake, smoking.
+
+
+
+REVIEW OF SYSTEMS:  Denies visual or hearing disturbance, headaches,
+
+weakness, numbness, seizure activity, chest pain, palpitations, syncope, dyspnea,
+
+wheezing, cough, coryza, nausea, vomiting, diarrhea, constipation, abdominal pain. 
+
+
+
+Positive for mild nocturia with no dysuria.  No polydipsia.  Positive mild
+
+paresthesias right upper extremity.  Occasional mid-morning reactions.  Home
+
+blood glucose monitoring b.i.d. with most glucose readings between 100 and 200. 
+
+Positive mild tiredness without any hoarseness, heat or cold intolerance.  Mild
+
+arthralgia.  No bleeding, rash, pruritus. 
+
+
+
+Diet:  Low salt.  Mets 2-3. 
+
+
+
+ALLERGIES:  Sulfa, codeine, morphine. 
+
+
+
+PHYSICAL EXAM:  General appearance:  Well-developed, well-nourished.  Vital
+
+signs:  Blood pressure 130/80, respiratory rate 18, heart rate 76, temperature
+
+afebrile.  HEENT exam:  No exophthalmos, no lid lag, equally reactive pupils,
+
+difficult to visualize fundi; pharynx clear; ears clear.  Neck:  No JVD, no bruits,
+
+thyroid within normal limits.   Chest:  Clear, no rales or wheezes.  Heart sounds
+
+normal.  No murmurs.  Abdomen:  Soft, nontender, no organomegaly.  Extremities: 
+
+No edema.  Neuro:  Awake and alert although at times forgets details of past
+
+history; no focal neurologic signs.  
+
+
+
+A/P:  
+
+1.   Type II diabetes mellitus.good control.  Plan - Continue diet. 
+
+
+
+2.   Panhypopituitarism secondary to  pituitary surgery for pituitary adenoma. 
+
+     Need to obtain record from surgeon for details on what type of tumor this
+
+     was.  Patient on replacement therapy with levothyroxine and prednisone. 
+
+     She will continue both with the understanding that should she become sick
+
+     for whatever reason she needs to double or triple dose her prednisone and
+
+     contact me.  She needs to wear a bracelet for this as well as for her diabetes. 
+
+     
+
+3.   Seizure disorder, ? etiology.  She saw the neurologist; she will need to remain on anti-seizure medications.  
+
+
+
+4.   Hyperlipidemia:  Plan - Check fast lipid profile.  Discussed with Dr Xavier;P:: lipitor 10 mg /d.
+
+
+
+5  Cryptogenic cirrhosis, LFT ok; discussed with Dr Xavier ; no absolute contraindication to lipitor.
+
+
+
+6  ? CAD x family; no clear documet; P: adenosine MIBI  since pt is diabetic and unable to perform exercis eETT.
+
+
+
+WT loss ? etiol; ct abd neg and cxr neg; P: colonoscopy.
+
+
+
+refuses vaccines
+
+
+
+To follow up in 2 months. 
+
+
+
+
+
+
+
+Isaac Ng, M.D.
+
+IN/rowe/yeater
+
+
+
+
+
+
+----------------------------------------------------------
+
+
+
+
+REPORT OF DIAGNOSTIC TESTS  ----------------------------------------
+
+
+
+Laboratory Data: 
+
+
+
+  HbA1c, fasting - 8.7%. 
+
+
+
+MUA, fasting - 49.8mg/dl. 
+
+PLT, fasting - 288K/cu mm. 
+
+
+
+BNP - 142. 
+
+
+   
+
+
+  INR, fasting - 1.2. 
+
+
+
+  PT, fasting - 20.2s.
+
+
+
+   
+
+
+BUN/Cr, fasting - 5.9/19.3.
+
+
+   
+
+
+  Creatinine, fasting - 0.81mg/dl. 
+
+
+
+   
+
+
+  UA, fasting - 4.3g/dl. 
+
+
+
+   
+
+
+  BUN, fasting - 127mg/dl. 
+
+
+   
+
+
+  Creatinine, fasting - 2.28mg/dl. 
+
+
+   
+
+
+   
+
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+   
+
+   
+
+   
+   
+
+   
+
+   
+
+
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+   
+   
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+...   
+   
+   
+
+   
+
+   
+   
+
+   
+   
+\[12
+   
+
+   
+
+
+
+   
+
+
+
+   
+
+
+   
+
+    dates,
+   
+names,
+
+
+   
+    patient
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+   
+
+
+   
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+patient information
+
+
+
+patient, please, patient data, etc. 
+names.
+The patient, the patient data
+
+
+
+
+
+The patient names
+
+
+
+##
+
+
+
+or the date patient
+
+
+
+name patient names
+
+names patient names
+
+let and patient name, or the  and the patient data patient patient names. 
+or the words, and be...
+
+
+10, and date, and date.
+or 
+(d
+...
+name, and name, name, or, and the name, and name or 2 or... and...
+(1, and [...
+
+
+…... or were the date or 00 (
+or, use the following,
+name, including names.
+... and names, as the...
+name.
+(name, patient...
+name 1 and 5: (name, the names, your words, 
+[1:
+...… 2: orifiable:
+pat, or......
+10 are:
+are of a...
+
+…...
+
+... or the are (are names... or the names.
+or, the following, butices, and and a:... the, and the (make or, 0 [[the orifically (and of (1 and, and…12 (
+
+1 (... include (1...
+…
+, 1 of " 
+
+…
+, and and... or, and,
+in, 
+... (0, or or, or, and, the, "
+(2, and and, 2 and, 0, as 4, 1, and are, and, and, and, 1, 11, and 1 and a, 1, (make " and, 1 (the-and: (1...with and the... 
+1. “ 11 “1...an and 20 1 or "0 are (name [are-2 (1 (1 of this, (and or 0, 1-le, 0, [. 1,. of the, and. and, the, and, the, an, a, have in your, are the are the-are (can and, an, an by the an 1 ( an and, 3, 1. an, and, anich, 2, an and, (an from 1, in the, 9 or and (1, and and of 10 and an of the and (1 and the and in the and, an, by and, 2, an "an of the, An An and 1 or 4 2, 9 "0, An: an, an or-an,  and of  (2 of: " and and-0 and : (1-the 0- 1 and an and and ( and : or a: an: an and 0-1-  ( and in an or...  in  an an an  are  or 1,  an. (, [.. of  of..  and in.,., [ and by the and, and, [ and and in  and and  and ( (-1  and an [  and or  and [0 in  an ( [ an [ an, and are  or an, an, and ( an ( and ", and of  and  an,  or by- of the an  of and ( in,  and and -d by (  and,, of the and of an of the " or or and “, and 0 or or 1  an  or   or of or  of, "  and 0 or ( , -  and [- and or  and of  of  of the  of   and  and, and in  and 0- -  or  and  or or or and and -le in ( or- and-  an - -  an and  and, an for the, and for and-  for and for and an 0 or - an, an and and,,  or- or- and, of  and 0  for,  and  or-  are  and and, of and  of or of  of and of  of the -,. 1,  and. and 0 for-,  and for,-and- -  and-  and-h-and and-  an  (   "  an and  or and, and  and or  and  and and [ or  (   [ or (  ( (  in -  [ an-m- and by and or in ( or or of and of  ( and and- and in by- and and-.- and (- ( 1- and ( and.-1-1 and- or for- or, or or ( and-and (-cl of of a-   "  and- and or-  l or c or  or an  of the of or of and of [ of the. and- or,  and of. and and-,  or and of and  of ( of of the of or of  of ( and, or, 0,- and and- and an- and  and and,. and of - and and- - or-1- and, (- and- ( (- (. ( of  of or or and of ( c and-m- ( and ( and, ( and and and -(0 of of ( or and and. 1-2 or ( or or,,  and  or are  and and, and and ( ( and,, and (,, are and and and and and, and and and-f and,, and or ( an and or in, and or c  a  and and  or and - and and  and  ( in ( and  and and or, and  and and c and or, and,,,,,, or ( or and and  and,,  and.  and and,, and and-b- ( a- and,-f,  of-0,-2  (0- and-d- ( (, (,,, and and and-b, and and c-p (- and to- or- ( ( in and (. and and (, and or or or- 2 in- and w or- ( and n b and, ( and and ( and of and,, and. and, or (- and b-t as, (,- and is,-  or- or and or- or- and - and-1 w- to and c, and, to as to, to- to to and to and and- or and and and and and with with and and as, and and and is _ to to,,- to- a, and-1 ( and w, to with,,, with and, and and, and or-1 (0 and, and-0 and to (, and with- and and and- or and, F (0  and and with and, and-10 and- or-0 w ( ( (- to and ( ( and, and, and and, 

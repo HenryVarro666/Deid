@@ -1,0 +1,593 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2076-04-19
+
+
+
+
+
+
+PRESTON, FRANCES
+05850080
+04/19/2076
+
+
+
+
+Louis Barron, M.D.
+Shelby Dental Care Center
+5601 Edwards Street
+Cozad, OK  53952
+
+
+Dear Dr. Barron:
+
+
+Thank you very much for your kind referral of Frances Preston to the Cardiovascular Division of Weston General Hospital.  I saw her in consultation this afternoon for her diagnosis of a recent myocardial infarction.  Please allow me to summarize her history for our records.
+
+
+Frances is a very pleasant 51-year-old Danish woman who has cardiac risk factors including hypertension, hyperlipidemia, and recently diagnosed glucose intolerance.  It appears that she had been having a several-month history of anginal-type symptoms, although a stress test obtained in March showed no significant ischemia.  On 04/09/2076 she was in New York helping a family member with start up of a restaurant, when she woke up in the morning with a sudden onset of chest discomfort and lightheadedness, and according to her daughter suffered a cardiac arrest.  She was taken emergently to Cabrini Medical Center where she was found to have an inferior wall myocardial infarction and underwent coronary stenting.  I do not have records from this admission that she does have her stent cards that indicate that she received a 3.5 x 23 and 3.5 x 13 Cypher drug-eluting stents to the right coronary artery.  Per her daughter's report, she had a significant lesion in another blood vessel, which was felt to require percutaneous coronary intervention.  Unfortunately, we do not have details of the remainder of her coronary anatomy.
+
+
+Since her myocardial infarction, she actually has felt quite well.  She no longer has the angina that she had prior to her MI.  Her major complaints are that she occasionally feels lightheaded and somewhat fatigued but overall feels well.  She is able to walk normal distances without cardiac symptoms.
+
+
+Her past medical history is notable for hypertension, hyperlipidemia, and glucose intolerance.
+
+
+Her present medications include aspirin 325 mg a day, Plavix 75 mg a day, metformin 500 mg a day, simvastatin 40 mg a day, nitroglycerin p.r.n., amlodipine 10 mg a day, hydrochlorothiazide 25 mg a day, and lisinopril 20 mg a day.
+
+
+She has no known drug allergies.
+
+
+Social History:  She is married and has three children.  She is presently accompanied by her daughter Landis who handles the majority of her health care.  Landis can be reached on a cell phone at 944-351-0904.  She has never used tobacco.
+
+
+Family history is notable for several aunts with myocardial infarctions and a sister whose has had a prior stroke.  There was a significant history of glucose intolerance in the family.
+
+
+Review of Systems:  Cardiac:  No chest pain, PND, orthopnea, dyspnea, or lower extremity edema.  Musculoskeletal:  No myalgias or arthralgias on lipid-lowering therapy.  All others are negative.
+
+
+On physical examination, she is an overweight yet well-appearing female in no apparent distress.  Her blood pressure is 131/86 and her heart rate is 61 beats per minute.  Her weight is 213 pounds.  Her neck shows 2+ carotid upstrokes.  There is a hint of a bruit in the left carotid.  The carotid upstrokes are full.  Her lungs are clear to auscultation.  The heart is normal to palpation, no thrills are palpated and the PMI is nondisplaced.  The heart is regular in rate and rhythm and a 2/6 systolic ejection murmur is heard best in the right upper sternal border throughout the precordium.  The abdomen is obese, soft, nontender with normal bowel sounds.  Her extremities show no edema.
+
+
+Her EKG in the office today shows normal sinus rhythm at a rate of 61 with a normal axis and intervals.  She has Q waves and T-wave inversions in leads III and F consistent with her recent myocardial infarction.
+
+
+I do not have a recent lipid profile on file.
+
+
+On 04/16/2076, she underwent an echocardiogram.  She has normal left ventricular function with a mild intracavitary gradient of 9 mmHg.  She has mild aortic sclerosis with a velocity across the aortic valve of 2.2 m/sec.  There are no significant wall motion abnormalities.  She has only mild mitral regurgitation.
+
+
+In summary, well we do not have records, it is fairly clear that Mrs. Preston has had an inferior wall myocardial infarction treated with coronary stenting.  She did receive drug-eluting stents.  The good news is that appears that her left ventricular function is very well preserved suggesting that she did not have a large myocardial infarction.  What is less clear, however, is the status of her other coronaries, there is some suggestion that she may have significant coronary artery disease at this time.
+
+
+From a clinical standpoint, I certainly do not think that she requires a cardiac catheterization at this time.  She is fairly asymptomatic, and is doing well from the cardiovascular standpoint.  I think what would be more helpful in guiding recommendation is whether she has significant underlying ischemia at this point.  To this end, I have arranged for her to undergo an adenosine PET scan to assess for residual ischemia.  We will guide our recommendations regarding cardiac catheterization based on the results of the study.
+
+
+In terms of her lipids, it appears that she has been switched to Lipitor.  The goal for her LDL should be in the 70s and her HDLs ideally be in the 40s.
+
+
+In terms of antithrombotic therapy, she did receive drug-eluting stents.  Therefore, she should certainly remain on aspirin for the remainder of her life and Plavix for an absolute minimum of one year.  After a year, it would likely be acceptable for her to stop her Plavix for brief periods of time should it be necessary for other medical procedures.  However, up until that time her Plavix should not be discontinued without a discussion with myself.
+
+
+She is on a very good medical regimen, although I think she would benefit from a beta-blocker.  The hydrochlorothiazide appears to be a new medication for her, and therefore I went ahead and discontinued this and started her on extended-release metoprolol at 25 mg a day.  This can certainly be cut uptitrated for better blood pressure control.
+
+
+I will call her daughter Landis with the results of her PET scan and further recommendations, and we will go ahead and make plans for her to see me again in six months.
+
+
+Thank you for allowing me to participate in her care.  If you have any further questions regarding her management, do not hesitate to contact me.
+
+
+
+
+______________________________
+Corrie Q Newland, MD
+
+
+
+
+
+
+
+
+
+
+eScription document:3-6567539 IFFocus
+
+
+
+
+
+
+DD: 04/19/76
+DT: 04/20/76
+DV: 04/19/76
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
+
+
+
+
+
+
+
+
+
+    and
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+or
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and
+
+
+
+
+The doctor
+
+
+
+The
+
+
+
+
+
+
+
+
+
+
+
+
+
+,
+
+
+
+
+
+
+or, and/or names, and, the name
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name: 
+or
+
+
+
+
+
+
+
+...
+
+
+
+names.
+let with a
+let the letter:,
+
+
+The letter and...
+
+(or, and/
+
+
+
+The...
+
+
+
+
+
+A. The patient.
+
+or (1, and any of date, and date names of...
+
+or, as [15
+name.
+... and... (…
+
+
+
+
+
+the patient, and a few
+(the patient-date oratory, 1.
+and, but the patient, names, including...the patient names of […, and the [name, and 1...and, [
+1, and the...the patient: your name...:
+andized characters to the... or, “…...1: 
+:...:
+
+are:…... and are and:...[…...
+
+are (
+
+or and and (
+(1, but, remove, the name. The (… orific, and (the, and:
+and, 1, and the 1 (
+
+...[and (the… and “(
+1 and are the and...
+... include a (...… (1 and and, and. An (1...
+, but, and, and [and in a (d, and, the…, and of [, and, the, or, the, an, (1. ….,...
+... and, or, the (make, and (
+[are of the, and, are, but, 1, as the... and, the, 1 and, 4, and:,
+make...and... and... with the and 1 (name: “an (ann and…
+: 4 (5 are (5 (le are-name... an of any name…… and or " by... of the and, "le, and, the, and [cats, or. of the of a, [, and and, the, and, anine, anine-an (are and and or (an or, the (make or (and-le of the and, the, (le an, ( an, and (ann of a, a, the, an, 2 of an (ann in the, an and, an an, or of 1- an and an, an an,. An Anine, "le-le an, and, anine, and and and, 3 and and, the, and-and, (1 and and, an, an and, "in,-2 an and:: An An: of an-4 of a::: anine-con:-make and,::- and: and and: : [- (anine, an " an or: ( an with a or-d ( and of an [ ( and-0-an ( are-d in the an-le-an in an of the, of the of the and,. an in, ( an, ( in the an. and, or (but and are in and or and [ [[ an or- or and in-0 or " an-d, " ( [-1 of the  or " or, or, an an-1 in (-d ( " or and are of " or of an an of and of for- and ( an for ( or (-and and by or or (, and, an or, and of a of a an an or ( and an, or, " an (, (-le or, an, of or- or of a of- 1 an- or (, for the an an- for and for an for the ( of an of a an of the for an for an for an and or and. and an and for the and or for, of for the for for for for for or, for for for for- for- for for- and-for for for for for for an for for for, for and, for or and-le or and in, ( ( and or-t and of our of ( and and of a. of (. of the and of the c. and and,  and of (c, C of the ( of an of the of of the of, of a- and. and,-1,, a a-a for and and ( and, for the and a of a ( -1 or ( and for- a- -1 of the of a and-1- to-0. or an-h (. or with c and-t-k-h ( and for or for an c- for-k of and an of- " of and of for of and or for and of or of- (- of c-to-m- and and to ( for (-to c of the c for the for for the for a c: and a to to-1. to c to ( a for and- and to to of a-c a to or of to to of- to or and or and and or and or- of an of or of of of of of an of to  of. and and of ( an,, and and and and, or of an of and of of of our of our of of of an. and and. or. ( and, c of and and an- the and and an an in and- an of. of our of or of and ( of ( (,-c ( and in a of and of an of ( of ( of of the or of, of an, in ( or- and in or of the and of ( of, of a- an of and of. and in of (- and- with and of and of of ( and a or and- a, or, c of and a a and and a and- a,- or of a and of ( a a and- a or or or and a in and, of and of- and for for for a for for and, for and, for for for or of her ( an, for and and and and ( and and in ( and of,, a ( a of, a of and in a and, a and and, a and and, her, a ( of an of a of of of the of the a a t c and ch a ( a-c- a a- a- and and of, and of and and and and and and, ( and and in a for and and in ( ( and, c, and and and and and t of and c- a and- c her-g and in and and- and a (,- for and and her and ( and, and and of a a for of a and an a and or, for ( and and, an m and ( a or of, of a and- a and and and or c- and- as - a- a, and a and and m and ( and- m of and and- and,, and for-m, a, a a and c to a- and and to a in a and a- and a, and a and and and a, and and and a a and a a, a and a- a of, a of and of of-g c and a a but- but and and and in a a and of ( a, a-g but and m, and a but so and and a and- a a a

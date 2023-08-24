@@ -1,0 +1,955 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2092-10-15
+
+EDVISIT^03689964^VALENZUELA, BRIAN^10/15/92^BENSON, KAILEE
+
+I saw this patient in conjunction with Dr. Otis. I confirm
+
+that I have interviewed and examined the patient, reviewed the
+
+resident's documentation on the patient's chart, and discussed
+
+the evaluation, plan of care, and disposition with the patient.
+
+CHIEF COMPLAINT:  A 55-year-old male with vomiting.
+
+HISTORY OF PRESENT ILLNESS:  The patient with end-stage multiple
+
+sclerosis as well as neurogenic bladder and chronic indwelling
+
+Foley who presents from the nursing home after 4 episodes of
+
+vomiting since 10:00 a.m.  He has had also progressive abdominal
+
+distention, he reports over the last 3-4 weeks.  Nursing note
+
+also reports decreased urine output for the last 2 days.  He had
+
+a KUB done at the referring facility that demonstrated a question
+
+of a small bowel obstruction but this film was not sent with him.
+
+ He also had a fever today per report.  The patient denies any
+
+abdominal pain, shortness of breath, chest pain, or other
+
+complaints.  He does have a history of an ileus and prior
+
+admissions for urosepsis with levofloxacin resistant E. coli.  He
+
+reports a mild cough.
+
+PAST MEDICAL HISTORY:  Remarkable for hypertension, multiple
+
+sclerosis, anemia, decubitus ulcers, neurogenic bladder, and
+
+urethral strictures.
+
+PAST SURGICAL HISTORY:  He is status post urethral stenting.
+
+Social history, family history, and review of systems are as per
+
+written note.
+
+MEDICATIONS:  Prozac, Actonel, ferrous sulfate, aspirin,
+
+multivitamins, lisinopril, Lipitor, and Prilosec.
+
+ALLERGIES:  None.
+
+PHYSICAL EXAMINATION:  The patient is awake and alert, generally
+
+chronically ill appearing, quite pleasant.  Vital signs are
+
+within normal limits as documented except for an elevated pulse
+
+rate of 120 beats per minute, respiratory rate of 24, room air
+
+saturations of 93% and a temperature of 99.2.  For full physical
+
+exam findings, please see the resident's written note. 
+
+Specifically, HEENT exam is atraumatic.  There is a 1-cm ulcer on
+
+roof of his mouth.  He has synechiae of his pupils that are 2 mm
+
+and nonreactive.  His extraocular movements are not alignment. 
+
+Neck exam is normal as documented.  Respiratory exam reveals
+
+scattered bronchi.  There is no chest wall tenderness. 
+
+Cardiovascular exam reveals tachycardia without murmur. 
+
+Abdominal exam is distinctly distended and slightly firm with
+
+hypoactive bowel sounds but no tenderness, no rebound or
+
+guarding.  Skin is intact, warm, and dry on my exam. 
+
+Musculoskeletal exam is nontender with no edema or bony point
+
+tenderness.  Neurologically, the patient has increased tone in
+
+his lower extremities and weakness of all of his extremities. 
+
+His mood and affect is normal but he is dysarthric.  He is
+
+neurologically, however, appears to be at his baseline.
+
+LABORATORY DATA:  CBC and electrolytes remarkable for white blood
+
+count 16.2, BUN and creatinine ratio of 40 and 1.0 respectively. 
+
+Last creatinine was 0.5.  LFTs and lipase are within normal
+
+limits as documented.  INR is 1.1.
+
+IMAGING STUDIES:  EKG demonstrates sinus rhythm with nonspecific
+
+ST-T wave changes.  Plain films of the abdomen demonstrates
+
+scattered dilated loops of small bowel but no clear obstruction
+
+consistent with possible ileus versus early obstruction.  Chest
+
+x-ray shows low lung volumes without any focal consolidation.
+
+IMPRESSION:  This is a patient with abdominal distention, is
+
+quite impressive as well as a firm belly with dilated loops of
+
+bowel on his KUB as well as history of vomiting earlier this
+
+evening.  He has had no vomiting here and does not feel
+
+nauseated, however, does not have an appetite.  He has had
+
+decreased urine output and managed to put out a total 25 cc of
+
+urine through his Foley since 2:00 p.m. today.  Presently, he was
+
+not tender over his bladder.  Upon flushing the Foley, there is a
+
+large amount of debris.  They came out and followed by high
+
+pressure urine that had malodorous character to it.  I think this
+
+patient likely has an ileus and urinary tract infection.  He
+
+received antibiotics wide spectrum including vancomycin,
+
+levofloxacin and Flagyl initially followed by gentamicin given
+
+his prior levofloxacin resistance.
+
+PRIMARY DIAGNOSIS:  Urinary tract infection.
+
+SECONDARY DIAGNOSIS:  Ileus versus SBO.
+
+The patient was admitted to the ED Observation Area for CT
+
+imaging, however will eventually require admission for this
+
+problem likely to Medicine Service.
+
+DISPOSITION:  Admitted to ED Observation Unit.
+
+______________________________
+
+BENSON, KAILEE MD
+
+D: 10/15/92
+
+T: 10/15/92
+
+Dictated By: BENSON, KAILEE
+
+eScription document:7-8396761 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+or
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and
+
+
+
+
+
+
+
+
+or
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\
+
+
+
+
+
+
+
+
+The
+
+
+
+
+
+
+
+
+
+
+
+(including
+
+, and
+
+
+
+
+
+
+
+or any
+
+date
+
+
+The patient
+
+
+
+
+
+
+
+patient
+
+
+
+
+
+
+
+
+
+
+
+
+date
+
+
+
+
+and
+
+
+
+
+The
+
+
+
+
+
+information of the patient
+names, the patient
+information patient information
+
+
+
+
+information and remove,
+, information, and, 
+information of the patient of information, information names.
+
+The 2
+The patient information, The information
+patient information, or the following information
+
+
+names and information. information, remove or the following information
+The information: 
+
+
+
+The name: The clin, or the clin.
+The information. 1 or the information.
+
+
+and...
+name and the name
+(names, and information, names of patient (or the information and and the [the patient.
+and the information, and the...the or and are, as would are, and are the patient names
+(
+
+, and any and identify with the patient, and patient name codes, and names of the name. The [the names.
+the patient data.
+
+the patient, name, patient names below, a, and: and...and name, and the following the patient names and 0 are the patient of the patient, [1 are, and names and [(name are are [... or (and names that are the 5 (d, and, or the morning, and last of the...
+andise last:
+le: (12, the or the and the: the and:
+and and the or the and (1 (1... are a patient numbers include the, 0 and, 1, (and 1, and or (and, as and 7, or (and... or, and (
+, and of, and, and,
+make and... (d., 11 and, and (and and, are, or, and, and, and, an, and, but, and are, as are and, the and ([of 1, the, 3 (the, the 1-and 0 (an-d. 5 ((...: an and... and. (0 2 are, 0- 1 are are-pat that of the or of the [by-1 and,, the, (and (or and. and [in.
+, 2 of the 1, and and, ( (1, an, an, and, an, anine of the are the are (an (make, 1 and and, and a-3, an, an, (an, an, an of 1, and and and (An and, 2 or and, an 2 or, 1 of the, and,, and and-1 of 1, an and 1 and, an [an, an, 3 and (and, 1, and, and, 0-ann and (d, an, (1 and an, with an and-2, 1 and of the: 1-3 of the: [:1-le [an ": and,::: anite-pat and: an: 1 and or: an an ( an with the (- an: " with (-in an-  in an or (-1 are an ( an- (. " by " ( (. of an of  of. of the or an and [ and. an, or,,, ( [,,, and-  or [ [, [ and  [  and,,  or "- or, and  [, an, an or ( and and and or, (  and,  or- an,, of the an ( - an, and of the of and " and or or " or of the or, and-an- an and,, and, of the and of  of or and, and or- an an, or- or- an in- or an in-  and, or of-  and ( or or or- or or or and, ( and  and- and- of  of the and of the ( and ( or in the in: an or and and and  in an and- and or and and- (-  or and and  or of -  and - 1 and ( and- and of  of the of ( and of a and of and ( or, and and an  or ( and  and  (-con, or of an of or of or  of  of an  an  and, an or and, of and and or of  are,-of of the, of  of of  of the. and of the and and and  and, and and  of, and,, [  -  in  or,- 1 and [ with an  and [ as- and - and or- and  and-1 and- [ and and- or or and-b [ [ ( ( ( and, ( (-c or-   or [  and- or and- -  in  or and and in and and of of  and ( as, and- - and and or-c-c in  and ( and of  and: and  (:- -   (- in ( and-m and in  of " of-of- - - -b of the or tine-b-c, of of the and of of the- of of of, of ( of the- and and, and and or  and- and (- ( of  of- of the of of  of of of ( and-  and,  and of B-  and and,-  and,  and  and or of ( and  B and in  or- in and and B B  and  or  and of  of of B of or of- t of c ( and in - and and-c-  (  and of  of  of of- and- or  or and in -  ( or, and and or,, or and or, or and and (- and in and  and,, and and, and 1, and- and in and and in, and, and and and in - and, and and  and, in in (   as and, and of and ( and  and  as and, and and, and and, and, and, and,,,, [ and, and and, and,, and and  ( and, [ and and,, (,,,  and  and 1 of,  and,, and, with, and ( [ and, as,,,,,-t ( of,,, and,, in, and and of, and, and - and, and,.,,, and, [-g-c-t  and and and and -1 and-d and and and (,-1 and and and,, and ( and ( and,, and ( and or and, in or in and- in " [ and, in or, or [ ( and  w and as and, and and and and, and and or, and and, and or and and and and and and, to, or and in, and to and as, and and and to and,, -2, and, or, and, and, and or, and and, and,, and, and,,, with,,,. or and and ( and in or and with,. as, of, and. and and, and in as and ( and  or and, m and and, and and and, -, and (- and,,, and,, t

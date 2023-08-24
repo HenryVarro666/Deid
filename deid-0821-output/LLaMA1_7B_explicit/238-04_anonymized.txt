@@ -1,0 +1,355 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2082-06-23
+
+
+
+
+
+
+      CARDIOLOGY
+      
+
+
+      BROADLAWNS MEDICAL CENTER
+      
+
+
+
+
+      Reason for visit:
+    Mrs Vanmeter presents for routine follow up of her CAD, HTN and hyperlipidemia
+
+
+
+
+      Interval History:
+    She presents stating that she is getting along reasonably well. Her main problem is burning in her legs and feet, also present in her hands. She also reports an increased frequency of her chest tightness, occuring mainly at night, sometimes before going to sleep, sometimes durign the night. This is responsive to 1 SL TNG typically, although sometimes is goes away without intervention. She denies SOB, PND, orthopnea, presycope or syncope. She has intermittant mild LE edema. She occasionally has palpitations, lasting ~ 5 minutes, resolving spontaneously. She cannot relate them to any time of day or activity, and they are not associated w/ lightheadedness or CP.
+
+
+Recently she called me w/ complaints of increased LE edema. This is minor on exam. Her echo showed preserved LV function and no significnat valvular disease.
+
+
+
+
+
+
+
+
+      Past medical history:
+    CAD s/p IMI in 2074, s/p stent placement x2 in 2074.
+HTN
+PAF
+Type 2 DM
+Sciatica
+Hyperlipidemia
+GERD
+Glaucoma
+Multinodular goiter
+
+
+
+
+      Medications (Confirmed):
+
+
+      
+acetaminophen and codeine (tylenol with codeine #3) tablets 
+Alphagan P  0.15% x 1 drop ou bid
+aspirin  81 mg QD
+fosinopril 
+Glucophage  500 mg bid
+Isordil  40 mg tid
+Removed - lisinopril  40 mg qd
+Lopressor  25 mg 1/2 bid
+nitroglycerin 
+Norvasc  5 mg 1/2 qd
+Pravachol  20 mg qd
+Trusopt  1 drop od daily
+Tylenol  325mg x 2 tabs po q4-6h PRN pain
+
+
+Allergies:
+      
+No known drug allergy   
+
+
+
+
+      Family history:
+    Mother died in her early 60s of "heart problems", not otherwise specified.  Father in mid 50s with "kidney problems".
+
+
+
+
+      Social history:
+    She is married, retired, comes originally from Bermuda. Has several children/grandchildren who help with her medical issues. She does not smoke or drink alcohol.
+
+
+
+
+
+
+      Review of systems:
+    Otherwise negative in detail.
+
+
+Physical examination:
+      
+-BMI: 32.6  Obese, high risk
+-Pulse: 57  
+-resp. rate: 18  
+-height: 61  in.
+-weight: 172  lbs.
+-General appearance:   No acute distress.
+-Skin:   No rashes, anicteric.
+-HEENT:   Unremarkable
+-Neck:   Carotids 2+ without bruits. JVP no jugular venous distention
+-Chest:   Clear to auscultation and percussion.
+-Cardiac:   Left ventricular impulse discrete and nondisplaced. Regular rate and rhythm, normal S1 and S2, with no S3 or S4. There were no murmurs, clicks or rubs.
+-Abdomen:   Normal bowel sounds, soft and nontender, with no hepatosplenomegaly or masses appreciated.
+-Extremities:   No cyanosis, clubbing or edema.  2+ pedal pulses. Mild fullness over the dorsum of the left foot. LLE varicosities.
+-BP: 130/65  
+
+
+
+
+      EKG:
+    SB. 52. Old Inf apical MI. No change from the prior.
+
+
+Selected recent labs:
+
+
+        Metabolic
+Date     NA       K        CL       CO2      BUN      CRE      GLU      CA       PHOS     MG       
+05/18/82 142      4.1      105      26.1     27       1.3      107      9.4                        
+11/14/79                                                                         3.4               
+04/21/79                                                                                  1.7      
+
+
+Date     URIC     
+05/18/82 6.8      
+11/14/79          
+04/21/79          
+
+
+Lipid/Thyroid
+Date     CHOL     TRIG     HDL      LDL      TSH      T3       T4       
+10/08/81 133      66       53       67                                  
+01/14/81                                     0.54                       
+05/23/78                                              109      10.1     
+
+
+Hematology
+Date     HCT      WBC      PLT      
+12/22/80 32.9     6.4      323      
+
+
+Immunology
+Date     HGBA1C   
+05/18/82 6.70     
+
+
+
+
+      
+
+
+
+
+      Assessment and plan:
+    Mrs. Vanmeter presents today stating that she continues to have some mild nighttime chest discomfort, responsive to SL TNG. Her last stress test was in January 2082 and was without ischemia with a posterobasal scar (Adeno MIBI). A recent echo in June 2081 done to evaluate increased LE edema was normal.
+
+
+Problems:
+      
+
+
+Coronary artery disease  -  She reports an increased frequency of her nighttime CP and takes SL TNG when with good relief. Takes it about once/month. These episodes only occur at night when she is in bed.  Her echo showed preserved LV function and no significnat valvular disease.  A repeat adenosine MIBI was negative for recurrent ischemia with an inferobasal scar and LVEF 54%. I advised her to take an H2 blocker before bedtime and if symptoms don't improve, seek a workup with her PCP.
+
+
+      
+
+
+Hyperlipidemia  -  Her last lipid profile showed that her LDL was in range at 67, and her TG were normal! I advised her about the metabolic syndrome and the importance of careful diabetic control as well as regular exercise.  Continue her present dose of statin.
+
+
+      
+
+
+HTN  -  Her BP is well-controlled today. Continue her current regimen.
+
+
+      
+
+
+Changes to Medications this visit
+      
+Glucophage 500 mg   bid half a tab
+lisinopril 40 mg   qd End: 6/23/2082 - Inactivated
+fosinopril 40 mg   QD QTY:90 Refills:1 year Start: 11/21/2072
+Norvasc 5 mg 1/2  qd half a tab
+nitroglycerin 0.4 mg  sl PRN QTY:100 Refills:3 Start: 08/20/2078
+Isordil 40 mg   tid
+Lopressor 25 mg 1/2  bid half a tab
+aspirin 81 mg   QD
+acetaminophen and codeine (tylenol with codeine #3) tablets 1-2 tabs  po q 4-6 hours PRN pain QTY:100 Refills:1 Start: 04/14/2081
+Pravachol 20 mg   qd
+Trusopt 1 drop  od daily
+Alphagan P 0.15% x 1 drop  ou bid
+Tylenol 325mg x 2 tabs  po q4-6h PRN pain
+
+
+Disposition:
+6 months with me
+
+
+      
+Barbara T. Sandoval, MD pager #19360
+
+
+      
+cc: Dr. Bryan Edmondson
+Document Status: Preliminary
+
+
+
+
+
+
+
+
+
+
+    <redacted> 
+
+
+        <redacted>
+
+        <redacted>
+
+        <redacted>
+
+        <redacted>
+
+        <redacted>
+
+
+        <redacted> 
+
+    <redacted>
+
+        <redacted>
+        <redacted>
+
+        <redacted> 
+        <redacted>
+        <redacted>
+        <redacted>
+        <redacted >medical
+        <redacted>
+        redacted
+        <redacted
+redacted 
+redacted 198
+
+
+
+redacted patients
+
+       
+
+        <redacted, etc.
+med
+        <medical date
+        <med date
+med
+
+date the patient
+
+med names
+redacted,
+red, 
+redacted and
+red 12, redacted.
+
+
+
+
+
+
+
+
+red
+
+
+med 
+med
+181,
+
+
+red 410 names, or redacted names.
+The following, red line
+
+
+
+red patient name: patient
+
+name
+
+med.
+ 
+
+[red names
+med patient data and 10, the names to be a single line names and the name, name, the names
+or names
+or and
+
+or... the 
+
+are
+...
+The past or the names.
+[1.
+and or 1. and 19 and, red, and, or, and/ 
+
+name.
+1, 1 or 5
+or...
+
+
+
+
+The...
+...
+and the...
+(are or the 40, and the last...
+name...d... the..., and the words, but and...:, and the following the following, and...
+
+...
+10 names: 
+113 and a, "patient.
+
+dream, the: are ident…
+1, orative of the…
+
+(
+[…
+...
+ 1 [... and the 
+
+remove the or the names, (follows:... orices and, but, and 
+the, and: [
+
+make-the... 10 of the, and...
+13, a are, the…
+the, include... 
+...... and and 1, and (and.
+and, 1, a, and, and the, and and, or, and, or, 4, (, " 0, and and, 0, an, [..., the, and the,
+  and are, [( and, and (0, are the, a and are 1 and...
+and of the: (1, you, the patient, the...
+make, 1-... (d (d.
+: ( 4 “ 4...... 11 [3- are a are are... 2 (are are of are of the... 2 by or and, a 1, 1. 2 orine, or, the. of " of "of, and (, or, an, an, and the and the  and, indicate are the are a, an or an (  and,  by ( an, an-1, and, a, 1 or, an, an of the, an, an, an an an,  an an [ an an an and [ an an 1 ( and, or or, an and ( an, An An An An An ( and 0, an, an, (and,  and of 1 and  and, a, an, the, the, and an, an an an: an, an of the an an an: an: an: [: " in ( 6-1, 1-1 (:: you, ( ( (:  (: -  and [ an:: an: an: an: an " an an " in  " -  an an [ [ -  are ( an  and in the are an and " and of " of " of the and of and, and. [ and  and an in ( [ and an (, [ ( [ are [ [ [ are [ ( [[ - [, or (  or ( and, an- (- an an of, an  are  ( an "  [ an, an, an and  (  " an- an-  of  of an of  of an of  ( an  " (,,  and in the and in,,  or an of a of an of  - of of the are,,. (, [ an or or,, or, an in  of  or or in,  - (  an or,  an,  an and,,  ( of  of  of  of  and  - and in the and,  and ( and in  in- at " at ( at a  ( " of the or-  of ( in-  or of  ( and an or, or,, and, ( and or or [,  -  - and [ and in, " (, [ ",, ( ( an 0. to, or or- or of and, t and  ( or  and and  ( an are, or of our  m of a of  of  and of and of  of,, and, (, an  ( and  an or -  or, are  an  in a  or  and  and, and - and and or  m and in. and and  or ( get and  in  al and,  - " or ( or [ or or or  and c c c - or or and an or in al  " an c,  and and of  c  c or of and of and of and - and ( h or - [ with, - c and and with and of: [ " an and  and ( and m c " c ( and  or - c in ( " and,  " ( or of  of c m   are 0 0 or c or ( and. c. - or - of and of of, of of of B or of. or, and, and,  and - and  c (  and  or of of ( of of of and of of of (, B - and. and.  -, B.  ( and, and and and B ( and  ( and or   and and and  or and B - and (  and and. C of c of and  and c t  ( and  al or ( and, ( and and ( and and c and c of,, c and. in,.,, and and  and  and or and (, or ( or ( and and,, or ( ( or and B - - c and. c and, and and, and ( and, c ( and ( and and a and,, B and m,  al, and,  and, or m, B ( e B, ( B, t,, or, ( ( and and,, (.,., ( ( m, M and with M and m in. c and, m e,,. and B. and, ( ( and of  of of ( m  M c m M ( M M, with [ and with [ with ( M B,, M, (, m,,,, ,, m, m,., ( (, " ( and " m  and her m  m " M m with m and "  or m m - with m - and ( c ( c ( ( m ( ( c s (.  m- [ M (, and,,, al. or  and a or m or ( ( " (. a or a or and a , a and or, - and ( or, and m and and ( m m,, m and m a m  m. a t , m a m or m ( a, a, e ( (, a al and, and  a, or and, m. s, and M m ( and and M and, M (, and m. M m M and and m. M. M and a  and m a and M a  a m, m M ( m and a (  m a and, and. m, -,, M (.

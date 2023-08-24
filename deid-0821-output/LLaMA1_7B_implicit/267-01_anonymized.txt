@@ -1,0 +1,96 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2096-02-15
+
+                     ST VINCENT EMERGENCY DEPT VISIT
+ 
+LAU,HELEN M.   544-41-32-1              VISIT DATE: 02/15/96
+PRESENTING COMPLAINT:  Syncope.  History and Physical reviewed.
+Patient examined with the Medicine Resident and medical student.
+HISTORY OF PRESENTING COMPLAINT:  Briefly, this is a 68 year old
+female with a history of coronary artery disease and syncope in the
+past who presents with two syncopal episodes today while in the
+Orthopedic Clinic.  The patient was in the Orthopedic Clinic having
+her trigger finger evaluated and had a digital block done with
+Lidocaine.  As she was walking out of the Clinic, she slumped to
+the chair, hit her head on the table and was out for a few minutes.
+Patient felt a pressure like sensation in the left chest with
+radiation to the neck, some shortness of breath and diaphoresis
+immediately preceding the event.  When patient came to was slightly
+disoriented and approximately five minutes later felt the same
+light headedness and again lost consciousness while sitting in the
+chair.  Patient had no fever, chills or recent illness.
+Past Medical History, Current Medications, Social History,
+Allergies all per Resident's note.
+REVIEW OF SYSTEMS:  Per HPI, otherwise negative.
+PHYSICAL EXAMINATION:  Patient's temperature was 98.2; Pulse 62;
+Blood Pressure 163/89; Respirations 20; Oxygen saturation 97%.
+General: Well developed elderly female in no apparent distress
+sitting on the gurney.  HEENT: Is unremarkable.  Neck: Supple.
+Chest: Is clear.  Heart: Is regular rate and rhythm.  Abdomen: Is
+soft, nontender.  Extremities: No clubbing, cyanosis or edema.
+Neurologic exam: Patient is alert and oriented x three, cranial
+nerves are intact, motor 5/5, sensation intact throughout.
+LABORATORY EVALUATION:  EKG shows normal sinus rhythm with no acute
+changes.  CPK was 98, troponin pending.  Other labs were
+unremarkable.
+FINAL DIAGNOSIS:  Syncopal episode with chest pressure.
+DISPOSITION (including condition upon discharge):  Patient will be
+admitted to the Hospital for rule out MI, Short Stay Unit, for
+further work up and care.
+Condition on admission stable.
+___________________________________                    XD305/7899
+IVAN UHER, M.D.  IU67                                D:02/15/96
+                                                       T:02/15/96
+Dictated by:  IVAN UHER, M.D.  IU67
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+The following fields are not used by the data loader:
+
+1. 123456789
+2. 123456789
+3. 123456789
+4. 123456789
+5. 12345
+6. 12
+7. 1
+8.
+9. 989
+"""
+    # We will use a custom loader for this test, since the test data file
+    # is not a valid CSV.
+    with open(data_file, encoding='utf-8') as in_handle:
+        in_reader = csv.reader(in_handle, delimiter=',', skipinitialspace=False)
+        for field in ('record date', 'ST VINCENT EMERGENCY DEPT VISIT',
+                       'HISTORY OF PRESENTING COMPLAINT',
+                       'REVIEW OF SYSTEMS', 'PHYSICAL EXAMINATION',
+                       'LABORATORY EVALUATION',
+                       'FINAL DIAGNOSIS',
+                       'DISPOSITION (including condition upon discharge)',
+                       'Condition on admission stable'):
+            for row in in_reader:
+                row[field] = unicodedata.normalize('NFKD', row[field])
+                yield row
+
+
+class TestLoadAndSave(unittest.TestCase):
+
+    def test_unicode(self):
+        # Load data with a unicode string.
+        data = load_data('test.csv', encoding='utf-8')
+        # Check that the unicode values were loaded correctly.
+        self.assertListEqual(data['record date'].values, ['2007-04-10'])
+        # Save data to ensure the encoding is retained.
+        save_data(data, encoding='utf-8', file_name='test1.csv')
+
+
+if __name__ == '__main__':
+    # Run the full test suite
+    unittest.main()
+
+

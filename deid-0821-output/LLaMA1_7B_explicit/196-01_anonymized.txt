@@ -1,0 +1,344 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2088-01-06
+
+CC: f/up of HTN and DM management
+
+
+
+HPI: 59 yo female who presents back to clinic with her
+
+daughter reporting that she needs medical clearance for
+
+eye surgery and cardiac testing had been ordered at HDC
+
+but she was unable to go.  Denies any CP.  DOE at baseline.
+
+Brings in her machine log showing FS's in AM 101-238
+
+with most values in 100's.  FS's in PM 92-235.  Reports
+
+no symptoms of hyperglycemia except fatigue.  Ongoing
+
+numbness and tingling in her LE's.  11/25 A1C 9.1, TChol 232.
+
+Has been started on Lipitor 10 mg po qd and Vit D 50,000
+
+1 cap weekly by Dr. Yap at MS.  Glyburide
+
+increased to BID.  Reports injecting insulin daily as directed.
+
+No prior auth yet for her Cozaar which she is now out of.
+
+
+
+================ Problems ================
+
+Menopause at age 52          
+
+H/O R sided sciatica          
+
+H/O pneumonia 1/2082          
+
+S/P vocal cord cyst removal          
+
+S/P cholecystectomy          
+
+S/P C section x 2          
+
+Diabetes since '67          
+
+Severe nonproliferative diabetic retinopathy with severe macular edema          
+
+H/O pyelonephritis          
+
+
+
+================ Medications ================
+
+ATENOLOL 100 MG (100MG TABLET  take 1  ) PO  QD 
+
+COZAAR (LOSARTAN)   100MG TABLET  take 1  PO  QD 
+
+DARVOCET N 100 (PROPOXYPHENE NAP/ACETAMIN... 1 TAB   PO  BID PRN pain
+
+ECASA (ASPIRIN ENTERIC COATED)   81MG TABLET EC       take 1 Tablet(s) PO  QD 
+
+GLYBURIDE 5 MG (5MG TABLET  take 1  ) PO  BID 
+
+IBUPROFEN 600 MG (600MG TABLET  take 1  ) PO  BID PRN 
+
+LANTUS (INSULIN GLARGINE) 84 UNITS   SC  QAM 
+
+LASIX (FUROSEMIDE) 20 MG (20MG TABLET  take 1  ) PO  QD 
+
+LIPITOR (ATORVASTATIN) 10 MG (10MG TABLET  take 1  ) PO  QD 
+
+NORTRIPTYLINE (NORTRIPTYLINE HCL) 25 MG (25MG CAPSULE  take 1  ) PO  QHS 
+
+PAXIL (PAROXETINE)   20MG TABLET    take 1 Tablet(s) PO  QD 
+
+PROTONIX (PANTOPRAZOLE) 40 MG    PO  QD 
+
+TYLENOL #2 (ACETAMINOPHEN W/CODEINE 15MG) 1 TAB   PO  BID 
+
+
+
+================ Allergies ================
+
+NKA: 				
+
+
+
+PEx: VS: Wt 183, BP 145/84, P 64 regular, T 98.8
+
+WDWN older female in NAD.  HEENT: anicteric sclerae  
+
+Neck: supple, no JVD.  
+
+Lungs: CTA.  CV: RRR, s1s2, nl, II/VI SEM at LSB  
+
+Abd: soft, NT  
+
+Ext: no c/c/1+ bil edema.  No foot ulcerations.
+
+
+
+EKG: NSR at 63, 0.16/0.12/0.47, +RBBB
+
+
+
+A/P:
+
+1. HTN.  Mildly elevated in setting of not having Cozaar.
+
+Prior auth requested, will use Norvasc 2.5 mg po qd
+
+in addition to Lasix and Atenolol until Cozaar approved,
+
+samples given to patient.  Dietary and exercise rec's reviewed.
+
+2. DM, stable, Glyburide increased at MS.  Dietary rec's
+
+reviewed.
+
+3. r/o CAD, patient unable to run given chronic joint pains
+
+and diabetic neuropathy, will schedule for pharmacologic
+
+stress MIBI for presurgical cardiac clearance.  Will follow.
+
+f/up appt given.
+
+4. Diabetic neuropathy, worsening, f/up at Montefiore Springs.
+
+
+
+Singh, M.D.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------ Clinical Note -------------------
+
+Record date: 2087-05-29
+
+CC: f/p of DM & HTN
+
+
+
+HPI: 62 yo female presents to clinic for followup after
+
+cardiac stress test.  Denies any CP.  DOE at baseline.
+
+Brings in her machine log showing FS's in AM 115-238
+
+with most values in 100's.  FS's in PM 100-230.  T's are
+
+117/75 60 94.  Reports no symptoms of hyperglycemia except
+
+fatigue.  Ongoing numbness and tingling in her LE's.  8/29
+
+A1C 7.4, TChol 205 
+
+has been started on Lipitor 10 mg po qd and Vit D 50,000
+
+1 cap weekly by Dr. Yap at MS.  Glucophage xl 500 mg po QHS.
+
+Glyburide increased to BID and Insulin started 200 units
+
+BID PRN.  Patient reports injecting insulin daily as
+
+directed, and has been taking Metformin xl 25 mg 1 tab
+
+b.i.d for the last 4 weeks.  She denies any other diabetes
+
+related complications, and reports being able to exercise
+
+lightly without symptoms, but is unable to run or jog.
+  Patient reports noticing some numbness and tingling in her
+
+lower extremities and has been using a cane.  Reports
+
+no recent history of infections, and says she has had no
+
+surgery within the last 6 months.  Patient reports no
+
+allergies, and is not taking any supplements.  Reports she
+
+is not a smoker.
+
+
+
+
+
+Past medical history as follows:
+  * Menopause at age 52
+  
+  * H/O R sided sciatica
+
+
+  * H/O pneumonia 1/2082
+  
+  * H/O pneumothorax 10/2079 
+  
+  * H/O CVA 4/2078 
+  
+  * H/O hip fracture 11/2077
+  
+  * S/P vocal cord cyst removal 2/2075
+  
+  * S/P cholecystectomy 5/2073
+  
+  * S/P C section x 2  
+
+  * H/O hypertension since 5/2086
+
+  * S/P diabetes diagnosed since 6/2075
+
+  * S/P diabetic retinopathy 5/2080
+
+  * H/O pyelonephritis 5/2078
+
+  * S/P pneumonia 2/2079
+
+  * S/P C section 2/2079
+
+  * S/P C section
+
+  * S/P C section
+
+  * S/P C section
+
+
+  * S/P C section
+
+  * S/P C section
+
+  * S/P C section
+
+  * S/P C section
+
+  * S/P C section
+
+  * S/P C section
+
+
+  * S/P C section
+
+  * S/P C section
+
+  * S/P C section
+  * S/P C section
+
+  * P C
+  * S/P C section
+  *P C section,
+  * P-section,  C section (C section, P section, P section, C section.
+
+
+
+  Puncta. S, P section of P section, section
+section 
+section
+CSECTIONS, P. C, and
+C., S, section,
+P section
+
+
+section, section,
+section, P.
+, P, PT, section, section 1,P.
+section, section
+names, section of, P, C section, etc. S. and section, etc, section names
+CMS.
+P.
+section of section of section of 
+
+The letter P.
+and section
+section of Pt section information section.
+information of the patient data names. P.
+P. 
+(patient section names: 
+
+P.
+
+section of the section of section or date, section
+
+
+
+
+P.
+information section names of names
+Pear code word names, P,P, P names:
+PAT: patient names...
+
+
+
+
+
+are P indicate...
+Pear...
+(P name...
+15...
+and the past, and 212 and, and the patient (name the last name and the patient and names, and names. or. (... and the 5...
+
+...or (are, and the past are orally
+
+
+10 (121 (1...name.
+
+patients, names. The following... and the...1: 1. This 1:
+:
+name and name:
+1:
+[:
+(
+:
+(
+d:
+
+[are-specific...
+
+
+1 (......
+111... and […: are or 1 (and... 
+
+(and the, remove the patient names, [[1 or the: the or, the,...1, or are,
+(
+[... the orify the or, (and, and the…, the and: [1 are a…  are (and and the 1 and, as the and and the or and, and,  (are, 1 and (and,…, (...,, 4, and, [and or in, and,..., the or [1, or the,..., 4, etc (( and, etc, (2, [and, 1 and, and, and and, and the, the [of, you and the 4 and...
+[: 1: [(1 and with... with the...  “... 1 " 1....1…...1 are (are in... [2 and inine of the and of your-by or, or, or, the, 3 the, 3. (and, and [. an, [.. (. of, and, (P (d, a, (d, an, are an (canically in " are and or,  (an or and the 3 (2 (an, (le and, an an and of, (and and,  and, and, (and and, a, an or and a, an, 1 (an, [of, a-  of, and and, an, a, [ an and ( 1,  and [ (, and, and, the an. or, the " an:
+ ( an, (1, "1- an, ( and: (an of a: (0 " 1:1: and: (1-0: :: (: an  or: - :: (: an:: an: - an  and- or " an or -... or (:  [0 are ( or or [ [: an or- [ [- (. of or of of  of and of the  an [. an and an [, [ and [ [ [[ in and and or and ( [ [ [ [ [ ( [: or  or or ( an [ [ an " an ( [ (  ( An are and (  or ( ( in (,  and [ or an, or or or  [ of [ or an and of  of a- (- an and- an or an- an and, an, ( or, and,  of the and an  of the, of [ ( ( or are,, are, an (, for or of  of  in an  for for or or an-  ( in, and or or, and and an an, of, and an of ( of the for and or  an. and and,: [ or  and or ( to or in the  to or to to or  (  to,  to  to - or-  or and  or, and ( of  of [ or, or or and or,,, and,  or or and and, and or,, or  of their of a and, -  or ( for and  or and ( - are or  or  are  are of  or of of our of of of of of the of the and of the of and and, of and and and (, and and  and, and  ( or,  and 1  - and ( C C, and  C and of  ( and ( or ( ( " ( or in and and  and C C An  and or in and ( or C or ( ( An or for (  to c " ( to  and ( C-1 (   to c m "  C  c or  and c and ( C- ( ( ( or: ( C ( and and of and C- C C C C and  and  and ( and and  or and and and: and or- or and ( C C of C  of " and 1 or and  C  or or  and and and or, or of C of  of, of of  or  and and  and  ( and - P  H and  H in   and  of  C C  of,  of of ( of C C and and,,, (  in  and   or and or C and or H, and and M  and [  or,  C and - and and H and or,  - C C of C H  I H C A C  and and  or and and of ( or or  of  and of or or (0 1 and in   M and and  or  or ( or,  H and or  I and I or C or in [ and C, ( [. H, H,, ( and  ( and and, and, [ to, M C M C,, m H and H and ( M or C and and M and, and M and m M and and M  and (  and  C,  ( H H and,,, and and,., and and, M and C and, or (, (, H and. and and. and C, a C C of ( M M M H,, [  H to and ( M PO in and  C in H to - and, M,, M, H and, H and and, and in and and and and ( H (, and H H, H M ( H ( M and. M and M ( M m and or and to ( C H C to m and [ M M I and or H and M and M C ( C. C M ( (, M in, and, and and, C and, M M ( H and ( for in for for  and and ( and H, as ( H, H H or and, M, M to to and to  and, as, and  M M or M or H m M to, M H a of H and ( M M and H, C to M M, and M M M and, M,. to m as and and M to to to M to to in and ( and and and H M M or and ( and M m M C M or ( M H C and M M M M, [ C M H M - M M M M A and to, M to M

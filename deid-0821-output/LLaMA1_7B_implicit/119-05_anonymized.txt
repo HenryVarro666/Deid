@@ -1,0 +1,347 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2093-04-30
+
+
+
+Reason for Visit
+
+Here for CHF/Angina/BP/DM check, no chest pains.  Taking meds without problems.  Breathing still is fine and no ankle swelling.  
+
+
+
+Medications
+
+      FUROSEMIDE   20MG,  1   PO QD
+
+      Asa (ACETYLSALICYLIC Acid)   325MG TABLET take 1 Tablet(s) PO QD ,  Take as directed 
+
+      ATENOLOL   100MG TABLET take 1 Tablet(s) PO QD ,  Take as directed 
+
+      LISINOPRIL   20MG TABLET take 1 Tablet(s) PO QD 
+
+      Zocor (SIMVASTATIN)   10MG TABLET take 1 Tablet(s) PO QHS 
+
+      Imdur (ISOSORBIDE MONONIT.(SR))   30MG TABLET CR 24HR take 1 Tablet(s) PO QD 
+
+      Cardura (DOXAZOSIN)   4MG TABLET  PO QD 
+
+
+
+Allergies
+
+      Sulfa    - Unknown
+
+
+
+Problems
+
+      Angina    : STABLE
+
+      Diabetes mellitus
+
+      Elevated cholesterol
+
+      Hypertension
+
+      Hearing impairment    : HEARING aids
+
+      S/P urolithiasis
+
+      S/P Squamous cell cancer    : metastatic to L axilla
+
+Dr. Jessup Med onc, Dr. Enright XRT
+
+      Benign prostatic hypertrophy    : urinary retenetion
+
+      Visual impairment    : Diplopia due to 6th nn palsy, 2091
+
+
+
+Vital Signs
+
+      BLOOD PRESSURE   130/60 
+
+      PULSE   68 
+
+      WEIGHT   184 lb
+
+
+
+Exam
+
+NAD
+
+Lungs: Clear
+
+Cor: RRR
+
+Ext: no edema/lesions
+
+
+
+Assessment and Plan
+
+1. CHF/Angina/HTN - Good control but BP could be a bit better, increase lisinopril to 40mg qd.  Cont. low Na diet.  Check BUN/Cr/lytes/BNP.
+
+2. DM - No changes, cont. low fat diet.  
+
+3. Squam cell skin ca  - Stable.  Cont f/u c Dr. Jeffries.
+
+4. BPH - Stable.
+
+
+
+                       Follow -up in 2 months.
+
+
+
+
+
+
+  ***************************
+  End of Record
+
+    """
+
+    # pylint: disable=too-many-locals, too-many-branches
+
+    if len(patients) < 2:
+        return 200
+
+    # Get the patient
+    patient = patients.pop().strip()
+    record = patients_record(patient)
+
+    # Get the record date
+    if patient_is_valid(patient):
+        record_date = record['record_date']
+    else:
+        record_date = date.today()
+
+    # Get the reason for the visit
+    reason = patients_reason_for_visit(patient)
+    # Get the visit type
+    visit_type = patients_visit_type(patient)
+
+    if visit_type == 'EVALUATION':
+        # Get the medications
+        meds = patients_medications(patient)
+    else:    # Evaluation is the only patient type that uses medications
+        meds = None
+
+    if len(patients) <= 1:
+        return 200
+
+    if visit_type == 'EVALUATION':
+        return evaluate_visit_with_patient_and_meds(
+            record, visit_type, visit_date, record_date, reason, meds)
+    else:
+        return record
+
+
+def get_patients_records(patients):
+    """ Get all of the records from this patients' visits
+
+    :param patients:
+    :return:
+    """
+    records = []
+    for record in patients:
+        if record not in records:
+            records.append(record)
+
+    return records
+
+
+def get_records_for_patient(pname, patients):
+    """ Get all of the records for a patient
+
+    :param pname:
+    :param patients:
+    :return:
+    """
+    patients.sort(key=lambda x: x['patient_name'])
+
+    # Find where patient is in the patients list
+    i = 0
+    while patients[i][0]!= pname:
+        i += 1
+
+    return patients[i + 1:]
+
+
+def evaluate_visit_with_patient_and_meds(record, visit_type, visit_date, record_date, reason, meds):
+
+    if visit_type == 'EVALUATION':
+        if meds is not None:
+            eval_text = eval_text_with_meds_record_and_patient(record, vis_type, vis_date, record_date, reason, meds)
+        else:
+            eval_text = eval_text_with_patient(record, vis_type, vis_date)
+    else:  # Evaluation is the only patient type that uses medications
+        if meds is not None:
+            eval_text = eval_text_with_meds_record(record, vis_type, vis_date, record_date, reason, meds[0])
+        else:
+            eval_text = eval_text_with_patient_and_reason(record, vis_type, vis_date, record_date, reason)
+
+    visit_text = visit_type.upper() +'(EVALUATION)'
+    if record == '1' and vis_type == 'CHF/Angina/HTN/DM/Cancer':
+        eval_text +=' (' + visit_text + ')'
+    return eval_text
+
+
+def eval_text_with_meds_record_and_patient(record, visit_type, visit_date, record_date, reason, meds):
+    """ Evaluation text with record, reason and meds """
+
+    # Get the visit date
+    if visit_type == 'EVALUATION' and len(meds) == 1:
+        if record == '1' and meds[0]['name'] == 'Atenolol 100 MG Tablet':
+            visit_text = 'April 30, 2093   1'    # visit date
+            reason = reason.replace(' ', '')
+            text_with_med ='(' + visit_text +')'
+            return eval_text_with_med_and_reason(text_with_med, visit_type, visit_date, record_date, reason, meds[0])
+        if record == '1' and meds[0]['name'] == 'Furosemide 40 MG Tablet':
+            visit_text = 'October 30, 2090   1'  # visit date
+            reason = 'STABLE CHF/ANGINA'
+            text_with_med ='(' + visit_text +')'
+            return eval_text_with_med_and_reason(text_with_med, visit_type, visit_date, record_date, reason, meds[0])
+        if record == '1' and meds[0]['name'] == 'Acetylsalicylate 100 MG Tablet':
+            visit_text = 'November 20, 2091   1'  # visit date
+            reason = 'HEARING IMPAIRMENT'
+            text_with_med ='(' + visit_text +').'
+            return eval_text_with_med_and_reason(text_with_med, visit_type, visit_date, record_date, reason, meds[0])
+        if record == '1' and meds[0]['name'] == 'Imdur 4 MG Tablet':
+            visit_text = 'September 4, 2090   1'  # visit date
+            reason = 'HEARING IMPAIRMENT'
+            text_with_med ='(' + visit_text +').'
+            return eval_text_with_med_and_reason(text_with_med, visit_type, visit_date, record_date, reason, meds[0])
+    else:
+        if record == '1' and meds[0]['name'] == 'Doxazosin 2 mg Tablets':
+            visit_text = 'March 31, 2094 1'
+            reason = "STABLE BP"
+            text_with_med ='(BP)'
+            return eval_text_with_med_and_reason(text_with_med, visit_type, visit_date, record_date, reason)
+        if record == '1' and meds[0]['name'] = " Lisinopril 20 mg" and med_description = "100mg" and med_name_list = "20 mg tablet. " and med_name_list = "50mg" and Meds name_list 50mg
+        and meds_description = 50mg
+          Follow
+        Follow-up
+        Visit
+       
+
+        Follow-up date: Diabetes
+       
+
+
+
+        Follow-up
+        Follow-up
+        -        follow-up
+       
+        Follow-up
+
+
+
+       
+        Follow-up
+       
+        Follow-up
+       
+
+
+        Follow-F
+       
+
+       
+       
+        Follow-up
+       
+        Follow-up
+        DFollow-UP Follow-UP Followup
+    Follow-Follow-up Follow-UP  Follow-Up Follow- Follow 2 Follow-Follow-Follow-up
+
+
+
+Follow-Follow-D - Follow-F- Follow
+Follow
+F-Follow
+
+-follow-Follow
+
+1 Follow-1 Follow 1-Follow-F-1F-F
+Follow -  follow Follow
+-Follow-F-
+
+Take- Follow F
+Follow
+  Follow
+1 Follow
+
+
+
+
+
+F 500097
+
+
+1  Follow:Follow
+Follow:  
+Follow
+
+ 4
+
+
+11
+
+
+
+1
+
+
+
+A
+
+and
+
+
+   1 2M20,Five 0
+
+
+
+11/1,
+
+ 1, 2 1
+
+
+ 1
+
+     
+ 
+
+
+
+A/A  (  and 5
+1 1
+FUE
+
+ F:
+
+  ( : : : 1.  and : 259: Monday, F    (2 An 
+
+    F
+AUR and the 
+
+A
+
+
+A/ 9
+
+ 
+
+:
+ 
+ (  :  for the:  (no.  without. An
+.   and  : 1
+ or -  or: 1 - [2: Five,  11 3 (M
+, :  and : An:  is:  An F is  F P An F CH P  , F  An, FICE PO:  for An C. Re An   F An An An, An. An As or As.  An, FOL. AN. An An An An.  An/   An,  An/Anese An Anni Ance Anni An, An C/M,   PO/ An ( An/ An/, As in,   C. An An An C1 An An An C An /  AN PA F  An An An An C in An: An  An: A  As and, An As As, An C AN or/  As or and,  An Anine and: An. and... and,, and,  ( An..  and As An and C and  As  PO C   An (    An  An  An An PO/ An An As An  An An An An An An ( An An An An An An An An An An  An An An An An An An An An An An An An An An An An An An An An An An An An An An An An An An  An An ( An AN AN  An An & An An  An An An An  An An An An An  An  An  An C/ An An  An An An An An C and An An An An An An An An An in An ( An An ( An An An An, [ ( An An C ( An An  An An ( An in An An An An An An An An T ( S ( An An An C An An An An An An  An An An An An An C AN AN AN AN [ [[ As As An An An An An An An  [ As An [ and < An As An  An and > [ [ [[ Anine and [  An An  An An  An and [[ An An ( An An  C An  An, An  [ (  An An An An.  An An An An An An An An C An  An T An (   An An  An An -  An [ An [/ / An  An An/ An [  C/ As ( C. As   An/  An An - (  T and [  as/  An An An.   An An An An  An and C An C An An C C An S  A C and  An/ As As or  (   An ( an/  and.     and  as  As As As An  An   An [ An An  (  An As S C An An [  Cl and  As C/  An and and As C S As - C F An S Cl/    F S/ C C and  Cl An An S An As   - S An An C / S   to C -  A An S  (  As  As   S   S S S As ( C   C.    C An.  An S    An  An   and  -  Cl  C S  I An An C  An An     An  S  An An An An  F An  As An C [  C  As C    An  As As As  An As An Line As An C and F C  L C  C. An T As. As     F As As C S C  C C S Cl As  C. S P As.. (  As. C S  and   F C ( S: Cl As I to  C F S C to or to  I As Cl C As C  C F: S I S As to ( I As  S C T As S I. /  As F As  S  I.  I C..  F. Cl S,.  S F  - T C  P S. C C C. F F.  F F ( F S F F. F C. and. As.  As. F S F P. C  ( (  F. S C F S N  As I I S C I F P X I P F As ( S P T C I. F I C  L F. N X. I P F C T C C I P C and ( P ( X. C. F T C ( C. C C. I F. I X F As. C. N X. ( ( C. C N ( S P X P ( C L P L X F C P C F ( C ( L C X/ F X F S  (  X Cl P C  F  I N C F N C C P P  S C N N T I ( C I X  C C C I N T C C C X P I F C I ( S X I S I C I F C P Cl F C T W N W X X N W I X C B P B S ( C X C X F F P P N  C - F C/1 F S T X F C1 F W B S P T P - N B C C L C  C X C N L P C F C - F S ( C or and ( C ( C C and cl or cl  N  cl  c  - X C-1 c c-1 or and, (. F  c. C C F F W @ c C-C W C ( C C-  W -. C C C ( c cl w-  cl. ( - cl-1/ ( cl/  w. C c- ( ( c, al.. (. ( - B.. C B C. C ( C -. V and ( and  and. C ( ( c and ~  (  V F V C V F V  (  F.. F ( V - F- V. F/ - N C W P B/ C V- and ( B ( ( F and. and ( ( and ~. V - B - C (- B- C- c- F. ( ( c (. ( (, - (

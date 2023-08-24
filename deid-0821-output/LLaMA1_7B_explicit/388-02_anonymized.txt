@@ -1,0 +1,219 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2072-07-30
+
+
+
+
+SCHLESWIG COUNTY CLINIC
+Walk-in clinic
+24 Weld St
+Grandview, NE  13472
+
+Xian, Imogene
+64187177
+07/30/72
+
+CHIEF COMPLAINT:  Ms. Xian is a 75-year-old female who presented 
+to the walk-in clinic this evening as a walk-in with a chief 
+complaint of bilateral foot pain especially in the toe area, and 
+she says that this has been going on for approximately two 
+months.
+
+ALLERGIES:  She denies any known drug allergies.
+
+MEDICATIONS:  At present, she is taking Glucophage 500 mg one 
+p.o. q.a.m, two p.o. q.p.m., Avandia 2 mg one p.o. q.a.m., Plavix 
+75 mg one p.o. q.d., glipizide 5 mg two p.o. q.a.m., and two p.o. 
+q.p.m., and Lipitor 20 mg q.d.
+
+REVIEW OF SYSTEMS:  The patient states that she has had constant 
+pain in her toes and at times with a feeling of tingling.  
+Otherwise, she states she has been feeling well.  She denies any 
+chest pain or heart palpitation.  She denies any shortness of 
+breath.  She denies any nausea, vomiting or diarrhea.  She denies 
+any frequency, dysuria or thirst.  She has a history of non-
+insulin-dependent diabetes at this time.
+
+PHYSICAL EXAMINATION:  Her temperature was 98.5 degrees p.o., her 
+pulse was 80, her blood pressure was 118/60 in her right arm.  
+Her weight was 117 pounds, which reflects a one-pound weight loss 
+since her last visit.  Her blood sugar, which was random, was 
+159, her last meal being at 12 noon.  Her son, who accompanied 
+her states that it is questionable whether she is taking her 
+medications as instructed and voiced an interest in having his 
+mother take insulin, which she has taken in the past.  Her heart 
+had a regular rate and rhythm at 80.  There was no evidence of 
+any peripheral edema.  Examination of her toes revealed presence 
+of some tinea interdigitally.
+
+ASSESSMENT:
+1.  Non-insulin-dependent diabetes mellitus, moderate control.
+2.  Tinea pedis.
+
+PLAN:  Medication refills were given for Glucotrol 5 mg dispensed 
+No. 120 with two refills, two p.o. q.a.m., two p.o. q.p.m., 
+Glucophage 500 mg No. 90 one p.o. q.a.m., two p.o. q.p.m., and 
+Avandia 2 mg No. 30 with two refills one p.o. q.a.m., and a new 
+prescription for Lotrimin AF 1% cream dispensed 12 g with one 
+refill, apply to the affected area b.i.d. for up to four weeks.
+
+
+
+
+Xian, Imogene
+64187177
+07/30/72
+Page 2
+
+The patient has an appointment scheduled with her primary care 
+provider Dr. Paul Shaw for 8/16/72, and was advised to 
+keep that appointment.
+
+
+
+Grace Vann, N.P.
+
+GV:arreola:06:278:08;37-60093.doc;DD:07/30/72;DT:08/01/72;DV:07/30/72;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+    """
+    assert re.search("^SCHLESWIG COUNTY CLINIC\s+(\d+)\s+Walk-\s+in\s+clinic\s+24\s+Weld\s+St\s+\nGrandview,\s+NE\s+13472\n\n", text)
+
+    # Parse and convert the date to a date object
+    date_obj = re.match(r"([\w-]+) (\d+)[-/]{3}([0-2]\d)[-/]{3}([0-2]\d)$", text)[1]
+    date_obj = datetime.strptime(date_obj, "%Y-%m-%d")
+
+    # Parse and convert the age to a date object
+    date_obj = re.match(r"(\d+) years old\s*$", text)[0]
+    date_obj = datetime.strptime(date_obj, "%d years old")
+
+    # Parse and convert the initials to an array
+    arr = re.match(r"([a-zA-Z])+\s*$", text)
+    # Check if the array is empty or contains only one element
+    assert arr, "There was a problem in parsing the initials"
+    arr = [a for a in arr.group(0).split(' ') if a!= '']
+    # Join the array to one string
+    arr = "\n".join(arr)
+    arr = arr.title()
+
+    # Replace the patient's age in the initials and replace her
+    # initials in the initials
+    age_int = int(date_obj.year)
+    if not age_int % 5 == 0:
+        age_int += 1
+    # Replace her age with her age in age_int and her initials
+    # with the corresponding initials
+    return arr.replace(date_obj.strftime("%Y-%m-%d"),
+                      date_obj.strftime("%d%d-%02d"))\
+          .replace(date_obj.strftime("00:00 AM"),
+                      str(timezone.localize(date_obj.astimezone(timezone.get_fixed_timezone(-8 * 3600)))))\
+          .replace(age_int, str(age_int)[1:4])\
+          .replace(arr, patient_initials[age_int - 5][0:2])
+
+
+def parse_text(text):
+    """Parses the patient's text file, replaces the patient's
+    initials, the patient's age, and the patient's date of birth
+    with a date object. The date object is later used to
+    convert the patient's age to a string.
+    """
+
+    # Replace all the patients names, ages and birthdays
+    text = text.replace('[P. Xian]', str(patient_names[1][0:2]))\
+       .replace('[A. Xian]', str(patient_initials[1][0:2]))\
+       .replace('[A. Xian]', str(patient_names[1][3:5]))\
+           #.replace('[P. Xian]', str(patient_initials[1][0:2]))\
+           #.replace('[A. Xian]', str(patient_initials[0][0:2]))\
+           #.replace('[A. Xian]', str(patient_initials[1][3:5]))
+       .replace(patient_birthdays[0],
+                      date_obj)
+       .replace(patient_birthdays[1],
+                      date_obj)
+       .replace(patient_birthdays[2],
+                      date_obj)
+       .replace(patient_birthdays[3],
+                      date_obj)
+       .replace(patient_birthdays[4],
+                      date_obj)
+       .replace(patient_birthdays[5],
+                      date_obj)
+       .replace(patient_birthdays[6],
+                      date_obj)
+       .replace(patient_birthdays[7],
+                      date_obj)
+       .replace(patient_birthdays[8],
+                      date_obj)
+       .replace(patient_birthdays[9],
+                      date_obj)
+       .replace(patient_birthdays[10],
+                      date_obj)
+               .replace(patient_birthdays[11],
+               .replace(patient_birthdays[12],
+                       .replace(patient_birthdays[13],
+                       .replace(patient_birthdates[14],
+
+                       .replace(patient_birthdates[15],
+
+               .replace[16, 17, 18, 19, 
+
+
+
+replace(replace [19
+   19
+replace(replace(replace, 1,
+19
+
+replace(or 
+
+replace the, 
+replaces the 
+Replace 10
+
+replaces and replace(1001
+replace112,34
+name, 1,2134,1011
+replace and 
+
+replace the
+Replace 1, replace.
+, 134, 1, 101
+
+replace names, replace 6512, replace or replace the, replace
+replace, the patient- replace
+replace 
+replace the 20, 1, 12 names.
+1.
+replace the patient names.1(1. 1.
+1, 7
+replace, and.replace 1, or identify data and replace, identify, 25 letter names and name names.
+, name, the name, and remove patient names. This, and patient names, or a 20-specific, 25-1
+and names.
+
+(...
+names, replace and identify the [names, name, or the names, the names, as the patient name and patient,... and names of the date, and the patient and name 35 are, or 1 or, and 
+and the date-the... 12 names. 1, 1, 25, as well...:
+1 and...
+[1-names (d, your names, a...: and your...: or, and...
+:
+1 and... (the (1 (are of the 1...of are are  are [1, or the (are: and [...the: "1, the or, and, and 
+and of: or or and the and, the, and [d are the and, indicate the and the, and (1, and the and... are, 1:
+[ are (1 are-1,... (1... and and a…, or and... and the, or, and, but and, and (0, the and, or (1 (1 or of the and, and, and [1 (30, the, [1, "the are the "in and and [, are, and, 1, [, are, and, and, and, and, 3 and the, the, the, ((1: the patient in the (... anize ([...
+with-d: "1... and and and. [1 and. [1 are, "may in the-name are-name of the (0-or by  or (,,, any, "and "make and (and,,. of the. of the and and, and,, [( (1, an, [and, an, an are, or-ann, (an, and, “c and-pat-an and in (1 and, an or [. 1. an, and, a, an, an - and, an, and and an and and and the, an and (an,, and, and, an, and, an, an, and and in, the, and, the "the 3 "C, an. an, and the and, the, 1, in those (1, and (an [2 of a, of the: ( an for the.: an [::: 0 and: an: [: ":: you: the,...: the: and and the an in the ( an,: an-le: [: an in an ( (. (-  an-an- an are ( in are-1 ( an-an or-the an of the of the... of [. or and and and, and or and or, (,, (, an or, an (, [ and [ and of the- or- an and, or... and or an- in the an an,, in are an- an in ( an in [ or ( in and or or, or and or and are [ and, and [ of [ of or of and an or, and " an or, or and (- and and (, and an and of the, of the an and - and, an and an and are or,. ( are,, in or in or or are  ( and in an, an and an- or in, - or an,, [ and -, an. of the of, and (,: an or, [., in or an and an and or an and and in the and-an- or, an (1, and- or or- an- an  or or an- or- and and ( in- ( and, and an and and or and and or " - and " or an - or or anized or an or of or or or- and ( and and- or and and-10 and and (, and-h or an or, and, or of an of of the of, and,, and an, and,,, an,,,, and,,, and,,, and, - ( and an c,  and- and ( ( and  and [ - ( and- c and and. an, and an an, ( or and in an and and and (- and an or ( and and- ( or- in or and or and and an ( and and and in and and and- or ( [ and [ ( or of- or of- and an, ( and or m ( or, and c (- c h (- and and and c or and an  and ( [ and [- al- al in- and or c and and, an an of c of the or- or "  and  ( and " or [ and and c (- and and of or or or of, of or of,,, that- and or and and and and, and and.  or and, and and of and of the or of  of and of an or ( ( and and and x or and and- x an  and and or and and,. and and  or, and,  x ( and and and or, ( x and.  - and  or of  or of and [ of and and c ( or  and c, and or [ c a in and ( and in and of and of a m an- m m and m or and,  and. and or and and (, and and and as and ( x and in or and and and (., and ( c and, and, and al and and, ( and a and a m and and, is m- m, a, x m or m and  or, cl and or and m and and and, m, or or and,  and (, m, ( c, and,,, and,,,, and, m [ m m, [ a, or, and and, and,, for m, (, and, al- of  [ t [ m [, and her m- her m- x c c t. x m ( m,. and,, m ( m ( c,, x-m or- and ( or [. [,, m a ( (,, m- her and and n al and her- n ( n and n and c- m ( [ a and [ c (. and is ( c in her is or her [ c [, and ( m ( me or  x in or ( ( ( ( and,, m and c m, me and c or and, a and c c m and c or and, m and, m (,, and [ and and, and and, and or t, [[, and or, m ( a, [ and and x a and, and n, a, n [, and x and and a,,. and ( a and t ( x, a and in or and and and in ab (,, ( b or- c a t b or c b (, c b and c- a [ or and and [, m b m and,,,,, [

@@ -1,0 +1,672 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2117-08-26
+
+ Usrey, Anthony
+MRN: 6444877
+DOB:  8/11/2062
+August 26, 2117
+
+Sisters Of Providence Hospital
+
+CC: f/u pancreatitis
+
+HPI:  55 y.o. male Columbian speaking (hospital interpreter present) presents for follow up.  He was admitted to PNC on 7/12/17 for further management of his pancreatitis secondary to an ERCP/spincterotomy that was preformed at an outside hospital.  He had a prolonged stay that included NPO, IVF, antibiotics, and TPN.  Further management included management of pulmonary edema and anticoagulation as the patient is on Coumadin at baseline secondary to a heart valve.  He was eventually transitioned to a diet and the TPN stopped.  He represents today for follow up c/o epigastric pain "nails" intermittently at night.  Pain noted on going to sleep but does not stop sleep and he does not awaken in the night from it.  He continues on his antibiotic and will complete its course.
+
+ROS:  no fever/chills, no nausea/vomiting, taking in good oral solids/liquids, occ abdominal pain at present none, no change in bowel or urinary habits.
+
+Exam:  
+Temp: 98.2F
+Abdo: slightly round, soft, nondistended, minimal tenderness LUQ, no masses, +BS
+
+Plan:
+1.  continue oral antibiotics til course is complete
+2.  return in 1-2 weeks for follow 
+3.  return sooner fever/chills, n/v, abdominal pain
+
+Case discussed with and seen by Dr Hugh Delarosa
+
+
+
+Helen Ochs NP
+
+
+
+### Example of a note for a visit on a different day (note: note is not fully filled)
+
+Record date: 2117-08-26
+
+ Usrey, Anthony
+MRN: 6444877
+DOB:  8/11/2062
+August 26, 2117
+
+Sisters Of Providence Hospital
+
+CC: f/u pancreatitis
+
+HPI:  55 y.o. male Colombian speaking (hospital interpreter present) presents for follow up.  He had a prolonged stay that included NPO, IVF, antibiotics, and TPN.  Further management included management of pulmonary edema and anticoagulation as the patient is on Coumadin at baseline secondary to a heart valve.
+
+ROS:  no fever/chills, no nausea/vomiting, taking in good oral solids/liquids, occ abdominal pain at present none, no change in bowel or urinary habits.
+
+Exam:  
+Temp: 98.2F
+Abdo: slightly round, soft, nondistended, minimal tenderness LUQ, no masses, +BS
+
+Plan:
+1.  continue oral antibiotics til course is complete
+2.  return in 1-2 weeks for follow 
+3.  return sooner fever/chills, n/v, abdominal pain
+
+Case discussed with and seen by Dr Hugh Delarosa
+
+
+
+Helen Ochs NP
+
+
+
+### Example of a note for a visit with a diagnosis (note: note is not fully filled)
+
+Record date: 2117-08-26
+
+ Usrey, Anthony
+MRN: 6444877
+DOB:  8/11/2062
+August 26, 2117
+
+Sisters Of Providence Hospital
+
+CC: f/u pancreatitis
+
+HPI:  55 y.o. male Colombian speaking (hospital interpreter present) presents for follow up.
+
+ROS:  no fever/chills, no nausea/vomiting, taking in good oral solids/liquids, occ abdominal pain at present none, no change in bowel or urinary habits.
+
+Exam:  
+Temp: 98.2F
+Abdo: slightly round, soft, nondistended, minimal tenderness LUQ, no masses, +BS
+
+Plan:
+1.  continue oral antibiotics til course is complete
+2.  return in 1-2 weeks for follow 
+3.  return sooner fever/chills, n/v, abdominal pain
+
+
+Case discussed with and seen by Dr Hugh Delarosa
+
+
+
+
+### Example of a note for a follow up (note: note is not fully filled)
+
+Record date: 2117-08-26
+
+ Usrey, Anthony
+MRN: 6444877
+DOB:  8/11/2062
+August 26, 2117
+
+Sisters Of Providence Hospital
+
+CC: f/u pancreatitis
+
+HPI:  55 y.o. male Colombian speaking (hospital interpreter present) presents for follow up.  He had a prolonged stay that included NPO, IVF, antibiotics, and TPN.  Further management included management of pulmonary edema and anticoagulation as the patient is on Coumadin at baseline secondary to a heart valve.  He was eventually transitioned to a diet and the TPN stopped.  He represents today for follow up c/o epigastric pain "nails" intermittently at night.  Pain noted on going to sleep but does not stop sleep and he does not awaken in the night from it.  He continues on his antibiotic and will complete its course.
+
+ROS:  no fever/chills, no nausea/vomiting, taking in good oral solids/liquids, occ abdominal pain at present none, no change in bowel or urinary habits.
+
+Exam:  
+Temp: 98.2F
+Abdo: slightly round, soft, nondistended, minimal tenderness LUQ, no masses, +BS
+
+Plan:
+1.  continue oral antibiotics til course is complete
+2.  return in 1-2 weeks for follow 
+3.  return sooner fever/chills, n/v, abdominal pain
+
+Case discussed with and seen by Dr Hugh Delarosa
+
+
+
+Helen Ochs NP
+
+
+
+
+
+### Example of a note for a follow up with medication changes (note: note is not fully filled)
+
+Record date: 2117-08-26
+
+ Usrey, Anthony
+MRN: 6444877
+DOB:  8/11/2062
+August 26, 2117
+
+Sisters Of Providence Hospital
+
+CC: f/u pancreatitis
+
+HPI:  55 y.o. male Colombian speaking (hospital interpreter present) presents for follow up.  He had a prolonged stay that included NPO, IVF, antibiotics, and TPN.  Further management included management of pulmonary edema and anticoagulation as the patient is on Coumadin at baseline secondary to a heart valve.  He was eventually transitioned to a diet and the TPN stopped.  He represents today for follow up c/o epigastric pain "nails" intermittently at night.  Pain noted on going to sleep but does not stop sleep and he does not awaken in the night from it.  He continues on his antibiotic and will complete its course.
+
+ROS:  no fever/chills, no nausea/vomiting, taking in good oral solids/liquids, occ abdominal pain at present none, no change in bowel or urinary habits.
+
+Exam:  
+Temp: 98.2F
+Abdo: slightly round, soft, nondistended, minimal tenderness LUQ, no masses, +BS
+
+Plan:
+1.  continue oral antibiotics til course is complete
+2.  return in 1-2 weeks for follow 
+3.  return sooner fever/chills, n/v, abdominal pain
+
+Case discussed with and seen by Dr Hugh Delarosa
+
+Plan:
+1.  continue oral antibiotics until complete
+2.  500mg amoxicillin bid for 1 month
+3.  75mg coumadin PO once per morning
+4.  125mg aspirin PO once per day
+
+Case discussed with and seen by Dr Hugh Delarosa
+
+
+
+Helen Ochs APN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\n,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+1. 20
+
+
+
+
+ 
+
+
+
+
+
+3 days
+17. 
+
+
+
+
+  
+
+ 24
+An 0
+
+
+
+
+
+An
+
+
+
+  
+
+An
+1
+
+
+2010
+
+
+
+
+
+ 1
+
+
+
+A 
+  
+
+
+ 
+M 201
+
+
+
+
+
+
+
+ 2
+ 
+ 00
+
+
+1
+ 
+
+209
+9
+2.
+
+20
+
+
+
+
+
+
+
+ 7
+2001
+1
+
+
+17
+
+
+
+
+
+0203
+
+ 20
+
+0
+
+0
+160
+
+.
+120.
+
+
+
+02. The 10 and on date on: 2:
+:
+ for a.
+ and the week, and 1520 and/20: An. 3 (2:2 (2, 3
+
+M
+1614
+12
+211201.  (1 2: 2
+, 1 (220, 32220
+2415: 0 (1:
+, 514,M:12611823.2.M, one and, a,110-2.141065 26020: 92
+ for a
+3,10,10 -30, 57,00017116110-12, 0 for the with a and (1015,1/02 for anient:31010 for the with the for a for the 210/6 for this and with the and and:  and. 3. An Day An August, January and and:1. (01,17.7 and 0053000160
+132/210301020006600510132211 An133020,823 1 (2,40010000101.022/7 for [3 with a. 2 for a in a after,  for the for 1 for0 An.  and 2. 1 and 1-1-5-1.0-1 1 and.1.2-1- 0. week, 1 and a on a for for 1 with for, for 2 for the. An and a for the.0,. [0  and [0 or, An for the for the 1 for an for: 5, a ( and (0 for a. [1-1 An: a: :1 An An: [ An An: 2120 for: a-1001 An: 0005-1
+5-11 in the1 in the:. in a- an0.-2. An An. 2 for-1-2 for a in. [ for and- 
+ An:
+ on- 
+-  for a for for
+ with  and for: to [ on to to to and for to, to for to with- to with- for on-  for and for in
+ for to on- for for and for for with for for with with and and [-60 and/20 for " [: and, a and a- I0-1 on in for- I12 after for-1, and- -1,2 I C2 I-2101242- and [3 and I2 I..- and and, and and and and to and for- to for for with, for for for of for. for in in in and. for.- C- and for for. and P H and and and. and and and and for-  and. up and, and and I on with and- and 2-1 I/ and  " or C. " and c. and. I and c I P P P I -- I I C2 and- P and ". N.- P " and- and and and- and I after with. with with with with on for for and and and for for.. - I C I. on and in. H and with with and N- I C C I C and I. up in up-  up up. I- - P I with H for and. N for for and, C for I H I for, I I I and and- I I. [1 [ for for for for with for C C for us and and for and and and for on for if for for H  for C for for for H and for  for for and and if for [ I C if and. C H I [1:  [: us us or if  [ if if if [ [0  C [1 and-  [ [ H1/0// -1- B  " I I- us- P C [ on with and with N on " C C for with for I for C-0 for I I-2 -0- I I I,0 [0 "2 "0 [ C C and [ C and and ( [ and [ C for-2 [-2 for [/ for and I C " PO with C and " [ c and [ " us " ( and- " PO. I [ I- " I. I C C H and " and- C and I on. on and- us- N- C on H- H I for I and for- and for and C I C I-. [ I C. [ up-1- I. on [ N, and [- C on up and P up N- [ and on and, R C and I C and C C R N [ C. N and N C C on- C I [- P and- on- " I on- C. ( - I- and C " and on C C on C I. on C C and " C P C " and [ with and N. C C and [ C [, C on,  [.,  or and N  and N,  and  or  and  and.  up [ c  for up  on for for for and for C for up for N ( for for for up c for for (. for C for N for for N C C,.  C or " and  and C N up and up c up and. c c and.  and and or and - and and  or or and  on and or of N- C- [- c (  and  C on  " N  C  -  or (- - and- if,- C [ "  [ [ C-    with and  N Ex with C (  on and ( C, and- C and
+ C or- (
+ 0-2,2 and and C and C, and N, and c ( ( N  C I C for with C C and for for and and C C [ [ c  for for C [ (- [ c ( C
+ ( [- N ( N / up N [ [ and  C  [, (, [ and- [[- - and - and- V ( [ I

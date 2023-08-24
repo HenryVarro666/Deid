@@ -1,0 +1,476 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2095-12-14
+
+EDVISIT^50294530^FOUST, FAY^12/14/95^FISHER, CARRIE
+The patient was seen in conjunction with Dr. Dickerson.  I confirm
+
+that I have interviewed and examined the patient, reviewed the
+
+resident's documentation on the patient's chart, discussed the
+
+evaluation, plan of care, and disposition with the patient.
+
+CHIEF COMPLAINT:  Chest tightness.
+
+HISTORY OF PRESENT ILLNESS:  Briefly, a 65-year-old female with
+
+hypertension and atypical chest pain who comes in with bilateral
+
+chest tightness since 11:00 a.m. and stated that she feels very
+
+lousy after taking her meds and daily has been getting chest
+
+tightness since her discharge recently in which she was admitted
+
+for weakness and hypertensive urgency.  The patient stated that
+
+she feels like a "dead mouse."  She admits to some headache,
+
+dizziness and continued chest discomfort despite medications. 
+
+She had a negative MIBI and neurological workup and has had
+
+significant adjustment for hypertensive medications.  Initial
+
+blood pressure is 239/99 upon arrival.
+
+PAST MEDICAL HISTORY:  Hypertension and reflux.
+
+SOCIAL HISTORY:  She lives with family.  No tobacco, drugs or
+
+alcohol.
+
+REVIEW OF SYSTEMS:  As documented per written chart.
+
+MEDICATIONS:  As per medication list.
+
+ALLERGIES:  Penicillin.
+
+PHYSICAL EXAMINATION:  Afebrile.  Vital signs stable except for
+
+high blood pressure.  Awake and alert female, in some obvious
+
+mild discomfort.  HEENT:  Atraumatic and normocephalic.  Neck: 
+
+Soft and supple.  Lungs:  Clear.  Abdomen is soft, nontender, and
+
+nondistended.  Skin:  Intact, warm, and dry.  Neurologic:  Alert,
+
+oriented, and moving extremities x4.
+
+EMERGENCY DEPARTMENT COURSE:  IV placed.  Labs sent.  EKG is
+
+done.  The patient concerned for hypertensive urgency given the
+
+chest pressure and dizziness.  We will give ____ 10 mg IV given
+
+the significantly elevated systolic despite compliance with her
+
+hypertensive medication regime to include lisinopril, Toprol-XL,
+
+hydrochlorothiazide, nifedipine, and apparently had a hard time
+
+with blood pressure control in hospital as well.  I spoke with
+
+PCP coverage.  Given the patient's symptoms and degree of change
+
+of medications, we would admit for further titration of
+
+hypertensive medications in addition, with cycle enzymes.  The
+
+patient understands and agrees with plan.
+
+PRIMARY DIAGNOSIS:  Hypertensive urgency.
+
+DISPOSITION:  Admit to ____.
+
+______________________________
+
+FISHER, CARRIE M.D.
+
+D: 12/15/95
+
+T: 12/15/95
+
+Dictated By: FISHER, CARRIE
+eScription document:5-4132381 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+Record date: 2095-12-15
+
+ADMISSION^50296731^FISHER, CARRIE^12/15/95^FISHER, CARRIE
+Admitted to ____ for further treatment for hypertensive
+
+urgency and adjustment of hypertensive medication regimen,
+
+including cycle enzymes.  The patient's vital signs upon
+
+arrival are ___, ___, ___, and ___.
+
+
+
+Record date: 2095-12-17
+
+VISIT^50302079^FISHER, CARRIE^12/17/95^FISHER, CARRIE
+I reviewed the patient's admission history and records.  The
+
+patient is alert and oriented.  Her vital signs on
+
+admission are stable.  She has no complaints of pain.  Her
+
+physical examination findings remain unchanged.
+
+I spoke with the patient about the plan of care and I believe
+
+all her questions were adequately answered.  The patient was
+
+admitted for hypertensive urgency and to further adjustments of
+
+medication regimen.  Her medications include ___.
+
+Her EKG shows sinus tachycardia with ____ mm.
+
+All her laboratory values are normal.
+
+She has not had any episodes of fainting or dizziness since
+
+admission.  The plan of care includes cycle enzymes.
+
+
+
+Record date: 2095-12-17
+
+VISIT^50301517^FISHER, CARRIE^12/17/95^FISHER, CARRIE
+I was paged to ___.  The patient's vital signs are
+
+____, ___, ___, and ___.  Her EKG is stable with sinus
+
+tachycardia and ___ mm.  She states she has had no episodes
+
+of dizziness or fainting since she was admitted to the
+
+hospital for hypertensive urgency and adjustment of
+
+medications.  Her medications include ___.
+
+The plan of care includes cycle enzyme therapy.
+
+
+
+ Record date:    
+
+DISCHARGE^50310345^FISHER, CARRIE^12/17/95^FISHER, CARRIEThe patient has been admitted for hypertensive
+
+urgency and adjustment of medication. I believe the patient
+
+understands the discharge plan, which includes cycle
+
+enzymes.  She will be discharged to home with the
+
+following medications: ___.  She understands that
+
+she must make follow-up appointments for cycle enzymes and she
+
+must follow-up with her primary care provider for follow-up.
+
+She states she feels much improved since she was admitted and
+
+she does not have episodes of chest pain, weakness or
+
+disorientation.  I will see her tomorrow in
+
+__________________________________.
+
+
+
+FISHER, CARRIE M.D.
+eScription document:6-2374423 BFFocus
+
+ ******** Reviewed by Attending Physician ********
+
+
+
+ Record date : 2095-12-22
+
+EMERGENCY DEPARTMENT^50426388^FISHER, CARRIE^12/22/95^FISHER, CARRIE
+The patient was seen with ___.  She denies any
+
+episodes of chest pain or weakness.  Her medications
+
+include ___.  The patient was discharged yesterday
+
+with a follow-up appointment in _____.  Her medications
+
+include ___.  She understands she will need to
+
+follow-up for cycle enzyme treatment at her follow-up
+
+appointment.
+
+
+
+ Record date:    
+
+DISCHARGE^50445678^FISHER, CARRIE^12/22/95^FISHER, CARRIEThe patient has been re-admitted for adjustment of
+
+hypertensive medications.  I believe he understands the
+
+discharge plan, which includes cycle enzymes and follow-up
+
+with his primary care provider.  The patient states he
+
+understands his medications include ___.  I
+
+will speak with _____ about his plan of care and he
+
+understands follow-up is needed with _____.  The patient's
+
+vital signs are ___, ___, ___, and ___.
+
+His EKG is stable with ___ mm.  The laboratory values
+
+are within normal limits.  He denies any episodes of
+
+weakness, chest pain or disorientation.
+
+
+
+ Record date: 2095-12-26
+
+VISIT^50462982^FISHER, CARRIE^12/26/95^FISHER, CARRIE
+The patient was discharged yesterday and today I saw the
+
+patient.  I was not paged.  His EKG is
+
+still stable with ___ mm.  The vital signs are
+
+_____ and he denies any episodes of dizziness,
+
+chest pain or disorientation.  I spoke with ___.  The
+
+patient is ___.  The patient understands
+
+he will need to follow-up next week for cycle
+
+enzymes.  He understands he must follow-up with
+
+his primary care physician and his specialist for
+
+follow-up.  I will continue following up with this
+
+patient.  I will continue to monitor his
+
+medication compliance.  His medications include ___.  I
+
+believe his plan of care is appropriate.  He will
+
+continue to see me for cycle enzymes.
+
+
+
+ Record date: 2095-12-29
+
+VISIT^50502382^FISHER, CARRIE^12/29/95^FISHER, CARRIE
+The patient was re-admitted for cycle enzymes for adjustment
+
+of his medication.  I believe the plan of care is appropriate
+
+for this visit.  The patient denies any
+
+dizziness or episodes of chest pain.  His
+
+medications include ___.  I will continue to follow-up with
+
+him and continue the cycle enzyme treatment.
+
+The patient understands the plan of care as
+
+outlined.  I will be speaking with the patient's
+
+primary care provider to ensure follow-up.  The
+
+follow-up appointment is in ___.
+
+
+
+ Record date: 2095-12-31
+
+DISCHARGE^50634176^FISHER, CARRIE^12/31/95^FISHER, CARRIEThe patient has been re-admitted for cycle enzymes for
+
+adjustment of hypertensive medications.  I believe she
+
+understands the plan of care and her follow-up
+
+appointments.  The patient denies any episodes
+
+of weakness, chest pain episodes or episodes of
+
+disorientation.  Her medications include ___.
+
+
+
+ Record date: 2095-12-17
+
+EMERGENCY DEPARTMENT^50768129^FISHER, CARRIE^12/17/95^FISHER, CARRIEThe patient was re-admitted for adjustment of her hypertensive medications.  I was notified
+
+to see the patient upon arrival.  Upon arrival, the
+
+patient was in ____ and she was awake.  The vital
+
+signs were ___, ___, ___, and ___.  Her pulse was
+
+___ and her blood pressure was ___.  There was no
+
+change of the patient since she was here for an initial
+
+admission for hypertensive urgency.  Her medications
+
+include ___.
+
+The vital signs remain unchanged with
+
+hypertension.  She has no complaints of
+
+weakness, chest pressure, dizziness or disorientation.
+
+I spoke with the patient regarding the plan of care
+
+and she was reassured that her plan of care is
+
+adequate.
+
+
+
+Record date 2095-12-20
+
+DISCHARGE^50910530^FISHER, CARRIE^12/20/95^FISHER, CARRIEThe patient was discharged and I believe the patient
+
+understands the discharge plan which includes
+
+follow-up for cycle enzyme.  Her EKG is ___ and
+
+the patient denies any dizziness, chest pain or
+
+disorientation.  Her medications include ___.
+
+The patient denies any chest pain episodes or
+
+weakness episodes since she has been discharged.
+
+The plan of care is appropriate and
+
+adequate.  The patient will continue to
+
+follow-up with me for cycle enzyme therapy and
+
+continue with her medication regimen, including
+
+her medication compliance.   She understands that the
+
+next follow-up appointment is in ___.
+
+
+
+Record date 2095-12-26
+
+DISCHARGE^51014782^FISHER, CARRIE^12/26/95^FISHER, CARRIEThe patient was discharged and I believe the patient understands
+
+the discharge plan, which includes follow-up
+
+for cycle enzyme and follow-up with his primary
+
+care physician and his specialist for follow-up.
+
+The patient's EKG is ___, and the patient denies
+
+any episodes of dizziness, chest pain episodes or
+
+disorientation.  His medications include ___.
+
+I believe the patient understands his follow-up
+
+appointment is in ___.
+
+
+
+Record date 2095-12-29
+
+DISCHARGE^51120747^FISHER, CARRIE^12/29/95^FISHER, CARRIE The patient was discharged and I believe the patient
+
+understands the discharge plan.  The patient denies any
+
+dizziness, weakness, chest pain episodes or episodes
+
+of disorientation.  His medications include ___.
+
+The patient denies any episodes of dizziness,
+
+weakness, chest pain episodes or episodes of
+
+disorientation.  His laboratory values are
+
+within normal limits.
+
+The patient's follow up is scheduled on
+
+1/3/96 at ____.  The patient understands this
+
+follow up appointment is in ___.
+
+
+
+ Record date 2095-12-31
+
+DISCHARGE^51231523^FISHER, CARRIE^12/31/95^FISHER, CARRIEThe patient was discharged and I believe the patient understands
+
+the discharge plan.  He denies any chest pain,
+
+weakness or episodes of disorientation.  His
+
+medications include ___.
+
+The patient has follow-up scheduled for
+
+1/3/96 at ___.  The patient understands the
+
+follow-up appointment is in ___.
+
+
+
+Record date 2095-12-30
+
+DISCHARGE^51279310^FISHER, CARRIE^12/30/95^FISHER, CARRIEThe patient was discharged.  I believe the patient
+
+understands the discharge plan for cycle
+
+enzymes.  She denies any dizziness,
+
+weakness or episodes of disorientation.  Her
+
+laboratory values are ___.
+
+
+
+Record date: 2095-12-31
+
+DISCHARGE^51372459^FISHER, CARRIE^12/31/95^FISHER, CARRIEThe patient was discharged.  I believe the patient understands the
+
+discharge plan for cycle enzymes.  She denies
+
+any dizziness, weakness or episodes of disorientation.
+
+Her laboratory values are ___.
+
+
+
+ Record date:    
+
+DEATH^51479836^FISHER, CARRIE^12/31/95^FISHER, CARRIEMr. Smith was transferred to ___ for further management.  His EKG

@@ -1,0 +1,329 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2097-06-29
+
+
+AMERICAN LEGION HOSPITAL 
+ 
+NEUROCRITICAL RESIDENT ADMIT NOTE
+
+Name: Ollivo, Kimberly
+
+MRN: 3299811
+
+Date: 6/29/97
+
+Time of Exam: 5:20 p.m.
+
+NICU day: 1
+
+
+
+
+Critically ill secondary to: 
+R. BG/thalamus hemorrhage with IVH extension, with potential for fatal neurologic deterioration
+
+Critical Care Min: 35 min
+
+
+
+
+History: Ms. Olivo is a 75-year-old RHW with DM, HTN and dementia, LSW at 11:00 a.m., then found by son at 1:45 pm to be less responsive with left-sided weakness. BP was 200/96 when EMS arrived. Here her SBP was in the 220s with heart rate in the 50-60s.  Her initial exam revealed somnolence, but able to follow some very simple commands like squeezing hand, nodding head; she had right gaze deviation, left hemianopsia, left facial palsy, left arm 
+and leg plegia, right arm and leg paresis, and dysarthria.  She received 10 mg of hydralazine for her SBP greater than 220.  CT revealed a right basal ganglia/thalamic hemorrhage with intraventricular extension including casting of the 4th ventricle, 7 mm mls to the left, contrast extravasation suggestive of active hemorrhage but no evidence of any vascular abnormality.  She was intubated for worsening mental status and had an a-line placed for Bp monitoring and management. 
+
+
+
+At baseline, Ms. Olivo is wheelchair-bound, according to her daughter, due to her neuropathy.  She is dependent for all of her ADLs and has a home health aide.  
+
+
+
+PMHx: DM, HTN, dementia, h/o sz d/o not on AED now, Pituitary adenoma, s/p hypophysectomy, hypothyroidism, COPD, dyslipidemia, obesity, fatty liver, fibromyalgia, arthritis, depression, anxiety, meningitis, Rt humerus fx/osteo/nonunion, Cirrhosis or unclear etiology with hyperammonemia, Neuropathy with paresthesias, presumably due to diabetes
+
+
+
+Home meds: Mirtazapine 15 mg daily, Namenda 10 mg daily, Potassium supplementation 20 meq daily, Levothyroxine 100 mcg daily, Metoprolol (unclear if metoprolol succinate or tartrate) 25 mg daily, Prednisone 2.5 mg daily, MVI
+
+
+
+All: Morphine ( Unknown ) Codeine ( Unknown ) ACE Inhibitor ( Unknown ) LISINOPRIL (cough ) CIPROFLOXACIN HCL (dec effects of sz med ) ATORVASTATIN (abnormal LFT )
+
+
+
+SH: Lives with her son in Ardmore. Has two sons and a daughter. Daughter, Yolanda, is the HCP (817-638-1328) and primary caregiver.  She quit smoking 16 years ago.
+
+
+
+
+24 hour events: admitted to NICU
+
+
+
+
+Flowsheet Data:
+
+VS: Tm  HR 
+52-70 SR SBP 223/90 &#224; 148/53 MAP  RR 19 O2 sat 100 % on FiO2 1.0
+
+CVP ICP  CPP 
+
+ICU Titrateable Drips: propofol
+
+Vent Settings: AC f12 PEEP 5.0 FiO2 1.0 PC 12
+
+TBB:  since MN 
+
+EVD output: 
+
+Maintenance IVF: D5NS 
+
+Nutrition:  npo
+
+IVF: D5NS
+
+FSBG: 
+
+
+
+
+Lines: L. Rad art line
+
+
+
+Significant Medications: propofol
+, RISS, peridex, synthroid, lactulose
+
+
+
+Significant LABS: INR  1.1 Plt 273
+
+
+Physical Exam 
+
+Cardio: S1, S2, reg
+
+Pulm: CTAB
+
+Abd: soft, hypoactive bowel sounds
+
+Skin:  erthematous lesions with centers of white rash in skin folds: neck, under breasts
+
+Ortho: R. arm fracture (old)
+
+
+
+Neuro Exam: Off sedation &#8211; no verbal response to noxious stimuli, intermittently extensor postures; minimally reactive small pupils, midline gaze in primary position, able to x-midline, no BTT, + R. corneal brisk vs. L., grimace to nasal tickle better on the L. than on the R., R. UE slight w/d to deep noxious stim, plegic in LUE., w/d briskly in the L. LE vs. RLE, toes up b/l
+
+
+
+
+Imaging/Studies/TCD: 
+
+Head CT/A (6/29):  Prelim read shows a right basal ganglia/thalamic hemorrhage (1.87 cm x 4.5 cm in largest dimension) with intraventricular extension including casting of the 4th ventricle, and mls of 7 mm to the left.  CTA showed at least 3 spot signs indicating active hemorrhage but no evidence of any vascular abnormality.
+
+
+
+
+
+Assessment: 
+Olivo is a 75-year-old right-handed woman with diabetes mellitus, HTN and dementia, and found with a ~ 11 cc R. BG/thalamic bleed with pan-ventricular extension with casted 3rd and 4th ventricles, and mild midline shift. The etiology appears to be hypertensive in nature; CTA was negative for a vascular anomaly. A mass lesion cannot be excluded at this time however, and will need an MRI. Her prognosis is somewhat difficult to articulate at this time using the conventional FUNC  (8) and ICH (2) scores given her clinical status and medical  comorbidities. 
+
+
+
+
+Plan:
+
+Neuro: ICH with IVH, prior h/o sz d/o not AEDs now
+
+-Serial neuro exams
+
+-repeat I-HCT in 6 h  (at 9:45 p.m.), 24 h (6/30/97 at 3:45 p.m.), and STAT with exam change
+
+-SBP goal &lt; 140 mm Hg
+
+-A-line
+
+-propofol for  BP control
+
+-HOB &gt; 30 degrees
+
+-no antiplatelet or anticoagulants 
+
+-labetalol prn, nicardipine prn
+
+-no need for AEDs unless declares self with new sz (has been stably off AEDs for prior h/o Sz d/o)
+
+-MRI to r/o underlying mass lesion when able
+
+-N. Surg c/s appreciated for EVD placement
+
+
+
+
+Pulm: 
+
+-intubated
+
+-wean as tolerated
+
+-daily CXR while intubated
+
+
+
+
+CV: HTN, HL, angina
+
+-BP control as above
+
+-Tn x 3
+
+-SBP goal &lt; 140 mm Hg
+
+
+
+
+
+
+RENAL: 
+
+
+-foley, strict I/O
+
+-no hypotonic fluids
+
+-D5 NS for now
+
+-trend UOP, Cr
+
+-renoprotection for iv contrast
+
+-replete lytes
+
+
+
+ID: 
+
+
+-follow U/A, temp, WBC 
+
+-nystatin for crural dermatophytosis
+
+
+
+GI/Nutrition: Cirrhosis
+
+-daily LFTs
+, NH3
+-lactulose at home dose
+
+-npo
+
+-IV fluids for now
+
+
+
+Heme: 
+
+-trend CBC
+
+-type and hold
+
+-no antiplatelet or anticoagulation for now
+
+
+
+
+Endo: DM, hypothyroid
+
+-synthroid 
+
+-Fsg q6h
+
+-RISS
+
+
+
+
+Skin:
+
+-Nystatin
+
+-turn and position q2h
+
+
+
+
+Ortho:
+
+
+-Old R. arm fx per family
+
+-baseline R. elbow XRay pending
+
+
+
+Prophy: DVT teds &amp; boots, fragmin if repeat CT stable in 48 h Sz - 
+GI PPI VAP peridex Restraints -
+
+
+
+
+CODE/Dispo: FULL/ICU
+
+-continue code status discussion with the family
+
+
+
+
+
+
+
+
+_______________________________
+
+Yuval Xaysana, M.D., Ph.D.
+
+Neurology Resident
+
+
+
+
+
+
+
+DNA
+1
+(
+(
+
+names the patient names: names (pat and patient and patient names, name
+1 patient names: (
+(d,
+
+
+are of
+(
+
+or names or names
+1.
+or, as a patient name or names. and the name, and the patient name... (and, and the following or the names, and
+and, and […
+[
+and the 
+are... or indicate and would the [and or [[1, and the words, and the names of the patient names of names, names and names and the, and:, the:, 19:
+[…. (...
+the...you and:
+
+(“
+and: “[…, orally, 0- are: [
+......1 are... are, and are and are [and [... or: 11 and:... (le names, and, the [and, or: or ((1 and, the or:
+... or (1, and, and...the...and-not and the…and, the 10, the are are the are 1 (…
+
+( 31 (1 and “ and and... and ority ority, 1. 5 (le, or, and... 
+...and,  (1, the (the, [, the and, and [
+...
+[ 1, a (
+[1, the, (1, 1, (2 (in, (and and would, the (of the, and "in, a and [, all:, the-get-... and:: 1. [(...... "and “:. and the. are are ([1 [have... are in  and, and-in the (by or (and, and by (in " [. 1,
+,
+., the, of the and..., or (,,,,, a and, an, and, an, an, may are, might "an-an, "and, 0 and 1, an, an,...s, an, 0, 1, and, an, and, and an and and, 2 or 5 or an, an, 1, and, an or and and of this of,, an ( an, the, and,  and, 0, and, an of “an, an and the, and the, an, an, an, an and an, an, 0,-pat and- -an of the: an: :: an-1-0-10:-0 [-an and ": " an and,:: an and:: an- an-with-d- an- an: ( - or- and::- an are- are an ( an are ( or-in-and an, an " an of an of an of it-  and and and [ and- and or:. and [ and, in and-  are in- or [[ [ and- and: ( " and an- [- and an-d- an- an ( an- in and, an [ an and (- an,,-an-2 an,  of, of the of an of an of and of an-  or of  or, [, and an or,, and,- of the an of " of an of, - " or, in an an [,,.,  of the or of and of- of-1 an, " or in - in -  in in the, - or, of and of,,- of  or  and and ( and,, - - (-  and or- and- and- or or of an or or-1- or-1- - -1-1 of, or an, of of, ( [- and,-  and, and- or and,, and, and, and ( and- or of  or, of, and- -f-c of the, an,, or-al or, and, or of of of of, of of, of of of of of ( of the-C of an [, ( and and (-  or- or and, and  and and or in and-2-and and ( or,  in and-1-0 or  or 2. or or and  [ and-  or and- - or (  " or or or, (, " C ( - - or, -c ( -  and-c or and-0 and or of  of of and of-1  and-1 c in-1- - ( and- "-: and  and- - and in- (-1 and-1-  or-C-c (-al-1 C or-0-c-c- or - or and or (- or- of - of of or of- of of, of, of, or.  and -,- and and and and and- or  or of of ( of of of the of of  of of of of and, and-1- and and  and - and -.- and and (,,-  and  and,  or and- and, (, and [ ",, and or t- of of of and of and:- and,- :- (, and and, and and and , and of or and-. ( and  and in and ( - - and or-  and, and t, and ( to, and- and- and to,, and, and- and and and and- and-2,,,-1 and (- or, P-2, - and,,-  and- and and- and- and, and- and and and, -2-1 and,,, and, (, and-, (,,,, or of,, of  and, and,,, and and and,,, and (,,,  and  of  of, of,- (,, ( - C ( (,-. and ( - and,,, and,,,,,, and-2,,, and C,,,-g., and, and,, C t. - and  or-1 C1 to-0 and ( and-2 C P and  and,,- PO, ( and and and- C- of- N of- or or- or- M,, to of or m,,,,2, M, and m and  ( and and, and- and ( to and and,/2,,  and and,,-  and M- and and- m- and- m and- ( (,  m- and- and M- M, M m- and m to, and M, ( and, and, (, and M, to., to  and ( and- and,.,,,,, m and, or m ( and, M1 and  and or or ( M M M and- N,,. M1 and (, M, and M

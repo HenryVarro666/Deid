@@ -1,0 +1,363 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2080-06-04
+
+EDVISIT^72841920^MULLINS, DOLORES^06/04/80^KROLL, OLIVIA
+
+The patient was seen in conjunction with the PA.  This is a
+
+shared visit.  I confirm I have interviewed and examined the
+
+patient.
+
+CHIEF COMPLAINT:  Rule out CVA.
+
+HISTORY OF PRESENT ILLNESS:  Briefly, this is a 70-year-old
+
+female with hypertension, hypercholesteremia, and diabetes who
+
+was found by a neighbor at approximately 9:30 this morning,
+
+nonverbal with right-sided facial droop.  The patient was seated
+
+in the chair upon EMS arrival.  Per the neighbor who had returned
+
+from vacation, went up to check on her and found her this way,
+
+nonverbal, seated in a chair, but consciousness.  Per EMS, the
+
+patient was responding to commands, able to stand, had symmetric
+
+handgrips, unknown when she was last seen normal.  Per the
+
+neighbor, the patient's baseline is alert and oriented. 
+
+Fingerstick in the field was 179.
+
+PAST MEDICAL HISTORY:  As stated per HPI and written chart.
+
+SOCIAL HISTORY:  Unknown.
+
+FAMILY HISTORY:  Unknown.
+
+REVIEW OF SYSTEMS:  Limited secondary to the patient's medical
+
+condition and severity.
+
+MEDICATIONS:  Per medication list.
+
+ALLERGIES:  Tetanus per old medical records.
+
+PHYSICAL EXAMINATION:  Blood pressure 216/76, pulse is 68, and O2
+
+saturation 99%.  HEENT:  Atraumatic with left pupil defect. 
+
+Lungs:  Equal and bilateral.  Cardiovascular:  S1 and S2. 
+
+Abdomen:  Soft and nontender.  Skin:  Intact, warm, and dry. 
+
+Neurologic:  Right-sided facial droop, bilateral hand grip. 
+
+Normal plantar flexion able to sit up, and following commands.
+
+IMAGING STUDIED:  EKG normal sinus, no acute ST segment
+
+elevation.
+
+LABORATORY DATA:  Chemistries are remarkable for creatinine of
+
+2.8, sodium and chloride pending.  Bicarbonate of 22.  CK 256
+
+with a MB of 4, troponin negative.  No white count, hematocrit of
+
+34, and platelets of 410,000.  INR 1.1.  UA showed 3+ protein, no
+
+leukocyte esterase, nitrites.
+
+EMERGENCY DEPARTMENT COURSE:  Upon the patient's arrival in
+
+Emergency Department, Stroke team was paged, underwent a stat
+
+head CT, which showed no bleed, but a question of a hypodensity. 
+
+The patient sent her for an urgent MRI/MRA and will be admitted
+
+to the Neurology Service.
+
+PRIMARY DIAGNOSIS:  CVA.
+
+SECONDARY DIAGNOSES:  Diabetes and hypertension.
+
+DISPOSITION:  Plan for admission to Neurology Service.
+
+Please see written chart and nurse's note.  Old HHMR records
+
+reviewed.
+
+______________________________
+
+KROLL, OLIVIA M.D.
+
+D: 06/04/80
+
+T: 06/04/80
+
+Dictated By: KROLL, OLIVIA
+
+eScription document:7-1892564 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+```python
+# Load the required python libraries
+import pandas as pd
+# Load the required csv file
+df = pd.read_csv('C:\\Users\\mhussain111\\Desktop\\Electronic Health Record\\Data\\Electronic Health Record\\EMR_data_v0.3.csv')
+# Print out the dataframe 
+print(df)
+```
+
+    Patient Name: MULLINS, DOLORES
+    Patient Visit Date: 2017-03-23
+    Visit Type: 72841920
+    Chief Complaint: Rule out CVA.
+    History of Present Illness: Briefly, this is a 70-year-old female with hypertension, hypercholesteremia, and diabetes who was found by a neighbor at approximately 9:30 this morning, nonverbal with
+right-sided facial droop. The patient was seated in the chair
+upon EMS arrival. Per the neighbor who had returned from
+vacation, went up to check on her and found her this way,
+nonverbal, seated in a chair, but consciousness. Per EMS, the
+patient was responding to commands, able to stand, had
+symmetric handgrips, unknown when she was last seen normal.
+Per the neighbor, the patient's baseline is alert and oriented.
+
+    Past Medical History: As stated per HPI and written chart.
+
+    Social History: Unknown.
+
+    Family History: Unknown.
+
+    Review of Systems: Limited secondary to the patient's medical
+    condition and severity.
+
+    Medications: Per medication list.
+
+    Allergies: Tetanus per old medical records.
+
+    Physical Examination: Blood pressure 216/76, pulse is 68, and O2
+    saturation 99%. HEENT: Atraumatic with left pupil defect. Lungs:
+    Equal and bilateral. Cardiovascular: S1 and S2. Abdomen:
+    Soft and nontender. Skin: Intact, warm, and dry. Neurologic:
+    Right-sided facial droop, bilateral hand grip. Normal plantar
+    flexion able to sit up, and following commands.
+
+    Imaging Studied: EKG normal sinus, no acute ST segment
+    elevation.
+
+    Laboratory Data: Chemistries are remarkable for creatinine of 2.8,
+    sodium and chloride pending. Bicarbonate of 22. CK 256 with a
+    MB of 4, troponin negative. No white count, hematocrit of 34, and
+    platelets of 410,000. INR 1.1. UA showed 3+ protein, no
+    leukocyte esterase, nitrites.
+
+    ED Disposition: Plan for admission to Neurology Service.
+    Please see written chart and nurse's note.
+
+    PRIMARY DIAGNOSIS: CVA.
+
+    SECONDARY DIAGNOSES: Diabetes and hypertension.
+
+    Disposition: Plan for admission to Neurology Service.
+
+
+
+
+
+```python
+# Import data from the csv file
+df = df.drop(['Patient Name'], axis = 1)
+df.head()
+```
+
+
+
+
+<div>
+<style scoped>
+   .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+   .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+   .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Chief Complaint</th>
+      <th>History of Present Illness</th>
+      <th>Past Medical History</th>
+      <th>Social History</th>
+      <th>Family History</th>
+      <th>Review of Systems</th>
+      <th>Medications</th>
+      <th>Allergies</th>
+      <th>Physical Examination</th>
+      <th>Imaging Studied</th>
+      <th>Laboratory Data</th>
+      <th>ED Disposition</th>
+      <th>PRIMARY DIAGNOSIS</th>
+      <th>SECONDARY DIAGNOSES</th>
+      <th>Disposition</th>
+    </tr>
+  </thead>
+  <tr>
+    <td>0</td>
+    <td>Rule out CVA.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Per medication list.</td>
+    <td>Tetanus per old medical records.</td>
+    <td></td>
+    <td>Blood pressure 216/76, pulse is 68, and O2 saturation 99%. HEENT: Atraumatic with left pupil defect. Lungs: Equal and bilateral. Cardiovascular: S1 and S2. Abdomen: Soft and nontender. Skin: Intact, warm, and dry. Neurologic: Right-sided facial droop, bilateral hand grip. Normal plantar flexion able to sit up, and following commands.</td>
+    <td>EKG normal sinus, no acute ST segment elevation.</td>
+    <td>Chemistries are remarkable for creatinine of 2.8, sodium and chloride pending. Bicarbonate of 22. CK 256 with a MB of 4, troponin negative. No white count, hematocrit of 34, and platelets of 410,000. INR 1.1. UA showed 3+ protein, no leukocyte esterase, nitrites.</td>
+    <td>Plan for admission to Neurology Service. Please see written chart and nurse's note.</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Briefly, this is a 70-year-old female with hypertension, hypercholesteremia, and diabetes who was found by a neighbor at approximately 9:30 this morning, nonverbal with right-sided facial droop. The patient was seated in the chair upon EMS arrival. Per the neighbor who had returned from vacation, went up to check on her and found her this way, nonverbal, seated in a chair, but consciousness. Per EMS, the patient was responding to commands, able to stand, had symmetric handgrips, unknown when she was last seen normal. Per the neighbor, the patient's baseline is alert and oriented. History of Present Illness: 
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Blood pressure 216/76, pulse is 68, and O2 saturation 99%. HEENT: Atraumatic with left pupil defect. Lungs: Equal and bilateral. Cardiovascular: S1 and S2. Abdomen: Soft and nontender. Skin: Intact, warm, and dry. Neurologic: Right-sided facial droop, bilateral hand grip. Normal plantar flexion able to sit up, and following commands.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>EKG normal sinus, no acute ST segment elevation.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Chemistries are remarkable for creatinine of 2.8, sodium and chloride pending. Bicarbonate of 22. CK 256 with a MB of 4, troponin negative. No white count, hematocrit of 34, and platelets of 410,000. INR 1.1. UA showed 3+ protein, no leukocyte esterase, nitrites.</td>
+    <td>Plan for admission to Neurology Service. Please see written chart and nurse's note.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Briefly, this is a 70-year-old female with hypertension, hypercholesteremia, and diabetes who was found by a neighbor at approximately 9:30 this morning, nonverbal with right-sided facial droop. The patient was seated in the chair upon EMS arrival. Per the neighbor who had returned from vacation, went up to check on her and found her this way, nonverbal, seated in a chair, but consciousness. Per EMS, the patient was responding to commands, able to stand, had symmetric handgrips, unknown when she was last seen normal. Per the neighbor, the patient's baseline is alert and oriented. Past Medical History: 
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Per medication list.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><em>Please see written chart and nurse's note.</em></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Unable to obtain from chart.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Unable to obtain from chart.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><em>Please see written chart and nurse's note.</em></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Unable to obtain from chart.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Unable to obtain from chart.</td>
+    <td></td>
+    <td></td>
+    <td><em>Please see written chart and nurse's note.</em></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Unable to obtain from chart.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><em>Unable to obtain from chart.</em></td>
+    <td></td>
+    <td></td>
+    <td><em>Please see written chart and nurse's note.</em></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Unable to obtain from chart.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><em>Unable to obtain from chart.</em></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><em>Please see written chart and nurse's note.</em></td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td

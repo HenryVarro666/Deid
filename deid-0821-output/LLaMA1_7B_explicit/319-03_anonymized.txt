@@ -1,0 +1,275 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2088-03-03
+
+                                                       Patient Name: WILKERSON,EDWARD [ MRN: 37199514MEDIQUIK ]
+
+                                                         Date of Visit: 3/3/2088
+
+
+
+
+
+MIMA PCP VISIT
+
+
+
+Health problems discussed:
+
+1. DM type 2. Fingerstick in the office today 130. At home, these have been mostly in the 84 -130s, but rarely up to the 180-190s. Last HbA1c was 5.8.
+
+--given outlier hyperglycemia and no hypoglycemia, increase metformin to 1000 bid from 1000 qAM/500 qPM
+
+--recheck A1c today
+
+--increase lisinopril to 20 daily given BP 142/66 today
+
+
+
+2. Lipids. Last dLDL 108. Denies any muscle cramps or weakness.
+
+--increase atorvastatin to 40 daily, check transaminases
+
+
+
+3. Weight. Has lost 11 pounds intentionally since September by doing more walking, eating fewer potatoes, red meat, rice.  BMI now 26.  Patient congratulated, encouraged to continue with his current diet and increase exercise as tolerated. Cautioned on caffeine given h/o SVT.
+
+
+
+4. SVT. To see Dr. Pate from cardiology in 2 days to f/u his SVT. No known further episodes since starting verapamil.
+
+
+
+5. Health maintenance.
+
+--due for colonoscopy: referred, given Rx for Golytely
+
+
+
+PE:
+
+Blood Pressure:   142/66   [Left Arm, Sitting]
+
+Pulse:   74   [Regular, Brachial]
+
+Weight:   191   [Pounds]
+
+NAD, does not appear to be responding to internal stimuli
+
+JVP 7
+
+CTA bilat
+
+RRR no mrg, no heave
+
+Abd soft, nt/nd, nabs, no mass
+
+No foot lesions
+
+Trace bilat ankle pitting
+
+2+ DP and PTs bilat
+
+
+
+______________________________                              
+
+
+
+Floyd Bobby Ventura, M.D.
+
+
+
+========================== Preceptor's Note ==========================
+
+
+
+Pt discussed with Dr. Ventura; I agree with his evaluation and plan.
+
+
+
+
+
+______________________________                              
+
+
+
+Nancy Elizabeth Roman, M.D.
+
+
+
+Record date: 2088-03-27
+
+                                                       Patient Name: GRAHAM,DAVID [ MRN: 57551512GREENOCK ]
+
+                                                         Date of Visit: 3/27/2088
+
+
+Health problems discussed:
+
+1. DM type 2. Patient is doing great.
+
+2. Lipids. LDL 117. Check lisinopril, metformin, atorvastatin.
+
+3. Weight. Patient doing well on diet and exercise.
+
+4. SVT. Patient doing well on verapamil. Referred to cardiology in 1 week for followup.
+
+5. Health maintenance. Due in 2 weeks for colonoscopy.
+
+
+
+______________________________
+
+
+
+Record date: 2088-03-27
+
+                                                       Patient Name: WILKERSON,EDWARD [ MRN: 37199514MEDIQUIK ]
+
+                                                         Date of Visit: 3/27/2088
+
+                                                         Date of Death: 4/9/2088
+
+
+
+Health problems discussed:
+
+1. DM type 2 2. Patient has had 2 recent hypoglycemic events and was admitted for 1 day with one of these. Patient denied any other recent episodes, but has had a fingerstick at home in the 80s on 2 recent occasions; 1/26 and 2/11/2088.
+
+2. Lipids. Patient was doing ok until this past Monday when he came in with an  LDL of 150 and a total cholesterol of 255.
+
+3. Weight. Patient has lost 24 lbs since January, 2088. He reports doing more walking, eating fewer potatoes, red meat, rice.  BMI now 26. 
+
+4. SVT. Patient has had 2 SVTs in the past 2 weeks that have resolved with verapamil.
+
+5. Health maintenance. Patient has not had a colonoscopy since his last one on 12/19/2087. He is currently due in 2 weeks.
+
+
+
+______________________________
+
+
+
+Record date: 2088-04-04
+
+                                                       Patient Name: GRAHAM,DAVID [ MRN: 57551512GREENOCK ]
+
+                                                         Date of Visit: 4/04/2088
+
+
+Health problems discussed:
+
+1. DM type 2. Patient doing well.
+
+2. Lipids. Patient has lost 5 lbs since 4/8, and had LDL 117.
+
+3. Weight. Patient doing well on diet and exercise.
+
+4. SVT. Patient doing well on verapamil.
+
+5. Health maintenance. 2 weeks due for colonoscopy.
+
+
+
+========================== Preceptor's Note ==========================
+
+
+
+Pt discussed with Dr. Ventura; I agree with his evaluation.
+
+
+
+______________________________
+
+
+
+Record date: 2088-04-04
+
+                                                       Patient Name: WILKERSON,EDWARD [ MRN: 37199514MEDIQUIK ]
+
+                                                         Date of Visit: 4/04/2088
+
+
+Health problems discussed:
+
+1. DM type 2.  Patient has had 2 hypoglycemic episodes in the past week: 1/30 and 3/3/2088.
+
+2. Lipids. Patient has had 2 recent LDLs 160 on 3/3/2088 and 147 on 4/4/2088
+
+3. Weight.  Patient has lost 16 lbs since 12/22/2087 and has been doing well on his diet and exercises
+
+4. SVT. Patient has had 2 SVTs in the past 2 weeks that have resolved with verapamil
+
+5. Health maintenance. Patient currently 2 weeks overdue for colonoscopy. 2088-02-19. Should be rechecked today.
+
+
+
+========================== Preceptor's Note ==========================
+
+
+Pt discussed with Dr. Ventura; I agree with his evaluation. Patient should be seen by Dr. Pate for further workup of SVT.
+
+
+
+______________________________
+
+
+
+Record date: 2088-04-04
+
+                                                       Patient Name: GRAHAM,DAVID [ MRN: 57551512GREENOCK ]
+
+                                                         Date of Visit: 4/4/2088
+
+
+Health problems discussed:
+
+1. DM type 2.  Patient is doing great!
+
+                                         Date of Death: 4/13/2088
+______________________________________________________________________________
+Health problems discussed:
+
+1. DM type 2. Patient is doing great.
+
+                          2. Patient did not make the appointment today due to the weather.
+
+                                                                                              3. 2088-03-27. Patient is doing great, with no health problems or complications.
+
+                                                                                              4. Lipids. 2088-03-25: LDL 119; 2088-03-20: LDL 117
+
+                                                                                              5. Weight. 2088-03-08: 224; 2088-03-20: 220; 2088-03-05: 222; 2088-02-22: 221; 2088-04-36
+
+                                                                                                       2088-02-25: 2088-02-20: 2088-02-2088-208 208888
+                888888 208888888888888888888888888888888888 888888888888888888888888888888888888888888888888888888888, 18 patients.  
+889888888888888988888888888888888 198888888888888888888888888888888.
+28888888888888888888,8888888 with, patient:1888:8, but
+18888... 5...
+(the are the day.
+A. (
+
+
+
+(888 and 0 names, and name of [... and names, etc., the...
+and. and the 1, and the 
+and [12
+the 8 or a few would be and
+(15 or [13 and... 17...
+
+
+dise-
+the names of the patient: 5, and the following names, and the following names...the 
+1:
+1, the names and 19 or: 1 or the…andist the...……10...
+are of 3 are: (and: 0...the 3 are... and... or ( 1 are the...[the 1, (the:10. and the, or (d and, [ 1, 0...1, 4, and (make:... (... (... 2...1, 1, [...1...,
+[ [... of "the, 2, and, the, (1, the and, [2,…, but and the and 1 and... (2. (... and,
+, 0, 1. last, 2.
+[1, 1, are, but, and 2 2, 4, and 0, 5, 0, [3 and 0, and "and the:...and the: (the 
+1:
+
+1 (... and: an " 1.
+make the [are the
+are... indicate are-are 2 1 and the..., or and (the [[ (0 (1 [[1. "and, (and. [of the, 1 and the and and of,  (1, a and, and, an, are (an, 0-2 are, 3, an,2 and (1 and a and, an, an- 1, (Anich, (An Anis, an and the an, an, an,..., and, an, an, an and [2, an, and of a, an, an, the " 0 An in, an and the "1, an, [1, 1 and, or an and, an, the, an, the,1, an " 1-and or an: an: and (and of the [[1: 11 an-an-  an and: an an and (1: and " and: and (: the-  and ( an " or ( [an " an [and-1 " 1 " and in 1 and are " [1- are  or ( an since or and ( in the of an of an of  and, or or [. and an, an [ an ( an ( [[, an  [ are [ are [and, [ or and or in [ and - (  or an - an [ an [-an an are ( [ 0 an or an ( an in an- an and ( - an or ( an in an, are, (and or or of ( of, or  an and or an [  or ( and ( an in or ( [, ( of the of an an an and and an of and, and,-2 and [ in an, an- an of or, an an or and, or, or an or- or an an or or an an or and, and an, [ of (-  ( of and and ( An in and ( or and  or and  ( or and or- An ( An  or ( and or or an or and or-2 or,  and an 2- or- or  and and ( and- an- and or ( or, or and and, or, and-1 and, and or or- (  ( or of [ of or an an of  or-3  or or- an or and or 2- 2 and of  of the of, and of and of of, of an,, 0 of [ and an 1 and and-an, in,, [ an, [ an and (1 (0 0 00 ( and an and and, ( of,1 an [1 in W M C in or  an an- or, C or- or or, ( or or [0 or An An ( ( or  [1 and an  [1 or 1 1 c or 1 or or  or of,1-  to 1 C-  to  or  [- and ( and and of and C: c: : and and to ( in and:1 in: and, c of and-1- and and of, and to and and ( to,1 or-2 1 to m, m and m or and and of of  of  of  of, to of, (, or- W  c and an  and ( and and 1 c of or of of of of of of of of of of, (0 and and [- and and. and, - W and ( and and [ or and, and or ( and,, ( (  or and  and and and and-  C,  and  and  of C of and of and  ( [  and  ( [, c ( and c ( 0  of [ C1 an an  C and  and  C  and ( and an in and  an and or and and or C and and or and  W  and and  and and W, C  [ W, W W, and and W or and and and, and ( (0 and  W. and,, W and and W and ( and and,  to (,  and to W and  and  ( W or and, and, and  and and and,,, and to,, (,, C ( and and ( and and, W., and,  in and and ( and and of C of ( ( [ W. c and in  and and C in and and c. or and,,,,,,, or, (,, c. C and and and t ( ( [, or and and or, and. ( and C and F0 [0-1. [ and m c  or c-b 0 and (0 [0 C to and to or C C to or C ( (0 C [t an C A or C C and an or or and (2 10 or,  for or to  F1 ( ( or A, and to for  and 1 and and, for and to for for for and and for for or and for and and for and  P and C, and and C and, A and, C (, and and a- to,, to- to and to to to to to to in. to to. and, in, ( in on and and ( and or  for and. to for ( C and a  and to, for to to to to to  and, and, to to, - N, [ for C to, [ ( (

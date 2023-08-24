@@ -1,0 +1,262 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2158-06-08
+
+
+
+
+-------------
+            Parkinson's Clinic             
+Trumbull Memorial Hospital - Corcoran District Hospital    (315) 433-0039 
+
+                                  Office Visit                                  
+
+
+Chief Complaint:  Increased falling
+
+History of Present Illness:  C/O increased falling. His legs buckling
+underneath him. He has occasional dizzyness. Denies angino, or sob. He does not
+use a walker. He arrived today in a wheel chair. They both state he leans
+forward and the he falls.
+
+Medications:  atenolol 25 mg: 1 tab po qd;  pyridoxine 100 mg: 1 tab po qd; 
+Sinemet 25/100: 2 tab po qid, 7:30A, 12, 5, 9P;  Sinemet 25/100: 1.5 tab po
+qid;  glyburide 2.5 mg: 1 tab po qd;  Zocor 10 mg: 0.5 tab po qhs;  gabapentin
+100 mg: 1 tab po bid;  folic acid 1 mg: 1 tab po qd;  Pletal 100 mg: 1 tab po
+bid;  pyridoxine 50 mg: 1 tab po qd;  metformin 850 mg: 1 tab po tid;  ASA 81
+mg: 1 tab po qd;  prazosin 4 mg: 1 tab po qd;  Lisinopril 2.5 mg: 1 tab po qd; 
+Zantac 150 mg: 1 tab po qhs.
+
+Allergies:   NKDA.
+
+Review of Systems:   The following systems reviews were contributory: endocrine
+[pertinent positives:  diabetes mellitus]; cardiovascular [pertinent positives:
+ hypertension, occasional light headed ness; pertinent negatives:  chest pain
+with exertion, chest pain at rest, dyspnea on exertion, peripheral edema];
+gastrointestinal [pertinent positives:  diarrhea] and urinary tract [pertinent
+positives:  nocturia, urgency].     The following systems reviews were
+noncontributory: general; psychological and musculoskeletal.
+
+General Examination
+-------------------------------
+
+6/08/2158 1:31 pm:  In his right arm,  his blood pressure was 100/42 and  his
+pulse was 60 per minute  when lying; his blood pressure was 80/40 and  his
+pulse was 64 rrr per minute  when sitting.  The orthostatic change was
+symptomatic.  He appeared well-nourished and well-groomed.
+6/08/2158 1:36 pm:  In his right arm,  his blood pressure was 90/40 when
+sitting.
+
+Rating Scales:
+UPDRS Subscale III (Motor Examination):  Subscale total score was 22 out of
+108.  This subscale was completed while the patient was ON.
+
+Tremor at rest was rated on a 0 to 4 scale (with 0 being absent): 0 in the
+face, 0 in the right upper extremity, 0 in the left upper extremity, 0 in the
+right lower extremity, 0 in the left lower extremity,.
+
+Action or postural tremor of the hands was rated on a 0 to 4 scale (with 0
+being absent): 0 in the right upper extremity, 0 in the left upper extremity,.
+
+Rigidity was rated on a 0 to 4 scale (with 0 being absent): 1 in the right
+upper extremity, 1 in the left upper extremity, 1 in the right lower extremity,
+1 in the left lower extremity,.
+
+The following movements were rated on a 0 to 4 scale (with 0 being normal): 
+    Finger Taps: 1 in the right upper extremity, 1 in the left upper extremity;
+    Hand movements: 1 in the right upper extremity, 1 in the left upper
+extremity;
+    Rapid alternating hand movements: 1 in the right upper extremity, 1 in the
+left upper extremity;
+    Leg agility: 1 in the right lower extremity, 2 in the left lower extremity.
+
+Each of the following was rated on a 0-4 scale (with 0 being normal):
+    Speech:  1 (slight loss of expression, diction and/or volume);
+    Facial expression:  1 (minimal hypomimia; could be normal 'pokerface');
+    Arising from a chair:  1 (slow or may need more than one attempt);
+    Posture:  1 (not quite erect, slightly stooped posture; could be normal for
+older person);
+    Gait:  2 (walks with difficulty but requires little or no assistance; may
+have some festination, short steps, or propulsion);
+    Postural stability:  1 (retropulsion, but recovers unaided);
+    Body bradykinesia and hypokinesia:  2 (mild degree of slowness & poverty of
+movement that is definitely abnormal; alternatively, some reduced amplitude).
+
+Assessment:  
+  1.  Parkinson's Disease:  Parkinson with decline in strength and endurance.
+It is possible that the added  Sinemet is causing a decrease in his blood
+pressure. I made a referral to Mary Darnell PT here at TMH. In addition Dr
+Edward Nguyen felt a slight reduction of the Sinemet to 1.5 tab QID may help his
+blood pressure with out changing his motor ability. RTC 1 month Dr Edward Nguyen
+and 2 months Genevieve Noland, NP
+
+
+Recommendations:
+
+Medication given:
+  Sinemet 25/100: 2 tab po qid.
+
+
+Medication changes included:
+   Stopped:
+  pyridoxine 50 mg: 1 tab po qd;
+
+  Sinemet 25/100: 1.5 tab po qid.
+
+   Started:
+  6/08/2158 Sinemet 25/100: 1.5 tab po qid.
+
+This patient's history, physical examination, assessment and recommendations
+were completed by  Genevieve Noland, NP. 
+
+
+
+
+
+*/
+
+#include <iostream>
+#include <iomanip>
+#include "patientdb.h"
+#include "patient.h"
+#include "clinic.h"
+#include "clinic_db.h"
+#include "diagnosis.h"
+#include "procedures.h"
+#include <fstream>
+#include <string>
+#include <vector>
+
+bool parse_file(const std::string &filename, Patient* patient);
+bool write_file(const std::string& filename, Patient* patient);
+bool write_file_to_db(const std::string &filename, Patient* patient);
+int get_file_count();
+Patient* get_last_patient();
+bool is_in_file(const std::string &filename, Patient* patient);
+
+Patient* create_patient(const std::string &first_name,
+                         const std::string &last_name,
+                         const std::string &date_of_birth,
+                         const std::string &gender,
+                         const std::string &race,
+                         const std::string &bmi,
+                         const std::string &ethnicity,
+                         const std::string &height,
+                         const std::string &weight,
+                         const std::string &married,
+                         const std::string &education,
+                         const std::string &address,
+                         const std::string &email,
+                         const std::string &telephone,
+                         const std::string &occupation,
+                         const std::string &home_owns,
+                         const std::string &employment_status);
+
+bool read_file(const std::string &filename, std::vector<Patient*>& patients);
+bool write_file(const std::string& filename, std::vector<Patient*> patients);
+bool write_file_to_db(const std::string &filename,
+                       std::vector<Patient*> patients,
+                       Clinic* clinic);
+int get_file_count();
+std::vector<Patient*> get_patients(const std::string &filename);
+Patient* create_patient();
+std::string print_patient(const std::string filename,
+                           const std::string &last_name,
+                           const std::string &first_name,
+                           const std::string &date_of_birth,
+									 
+                           const std::string &gender,
+                           const std::string &race,
+                           const std::string &bmi,
+                           const std::string &ethnicity,
+                           const std::string &height_cmn_cmn_cmn cmn_cmn_cmn_cmn_cmn_cmn_cmn_cmn_cmn_cmncmn_cmn_cmn_cm_n_cmn_cmn_cmn_cmn_cmn_cmn_cmn_cmn_cmn_cmn_n_cmncmn_cmn_cmn_cmn cmncmn
+Patn_cmn_cmn_cmn CM_cmn_
+_cmn
+
+\
+_n_n_n_ cmn_n_cm_
+_n_n_n_n.n_cmn_cm_C_n_n_n_n_n_n_n_n_Ccmn_n_n_n.
+_n cmn_n_n_n_n_n_n_n_n_n_n_n_n_n
+
+n_n 
+n_n_n_n_n_n_n.n_n 2n
+n_n and a 103.
+
+n
+A
+2n_n  
+n
+
+N _n
+n_ 19
+102
+
+ 9:n
+n
+M
+13:
+124:
+
+
+                 3.
+   
+
+
+The
+  
+
+
+
+
+     
+  
+
+ 12 days.  
+  
+   C: 5:
+
+  :                
+
+ 6
+
+  .
+131 11, 5.
+A. 3: the 5: 1.
+ 
+A day:  A
+week day today 20:
+The 2
+
+11 ( 
+  : 
+A:
+
+
+10
+   1
+  [   
+    (A
+
+   
+    
+       
+
+
+    
+:  
+  :
+... :
+: 0 and 0
+
+: An:
+ (1 1: 0  C. 1:   :
+:.   1
+.. 1.  - (c 
+.  [ : An.
+. An :1 -1-0:. An: An.  0 : An C:  and the,   and  Anis An. He An  An  An  ( 0 An.
+.   : A  - C.. An. An., a in  and... An. and.  → and a2 and0.0 An 0 An An Day   An1 1  An is: an is a a, An is.   An An F  An  An An An.
+
+.  An  Anni An P-  An An An An An An An  An. An An  C An An An An Anine An An 1 An in  An 0 in the an  An ( An An An An,.  An An  An and. an. and and. An, and. An 0 An. an. An An  an  an day, an, an, a an and in c and an  an and c an,  an. An. An  in c and is and an- and -c-p  c.  An An an c an  An and  an c a g. coc is ( and  an and g an g [: An cm  c-., ( c a. an: and: an,  c, p (  c:  and  ( an.. -c- an and an in  in an ( an day an an: [ an an: an  An C An An:  [ an and, an  An [  An in An An (  [  [  [ an p [ An An [ An An:  An [ [ An: [ An An:  an  - an  an [:  an a ( [. (  An :  an an-   an c an and [- c. an  an [ an in  an c.  an..  an cm an (...
+.  c an  c and. in c, and  c and c. c0 an c. an and-  c ( is  has   is  an cm is  m and  c, and c.  m and  m. m cm and m. - and and  and and cm M c cm- an. cm M. M. cm and M M an cm. cm c m- cm c, c m- m m c c [ c (  c c c c and c. cm c,  and.-.- c- and c- c.. and m c m  m c m an cm  - an mm c c c cm m c ( c c- c ( c m c c - cc- cc c and c and is  c g c cm c m c  an. c. and c  c mm  cp  and cm  cp- cp mm m  cp m m  and  c cm mm cm m cp c c c cp md p m c med cm cm  c md c m m cm- M-  c m cm cm  m  c  md c  m m  m cm c c m c cm c md cm-  c m c m cp c md  cm  M cm cm  c cm cm m c cm cm cm  cm S c m c S S-  c- cm- cp- S c- g- c cm (- S - cp - cm- cp cm cp c and  c m c m  cp g c c c cp- p c m c- g-  c. c  cm- cm  b  c c- M and c  m md cm md- cm m cm m-   S and -  m cp and cm  mm m m cm mm- md cm md mm- c c- c- c  c  m  m m c m p m- and and- and cm p-  and and - and  and  and cm m- c- and g cp and- and - and and- and- m- and and-  c and- - cm.  m. and  a- - - is and  and m- a- -  m md and M M m md m md and and- a- M M- M M M M and m- m m- [ [- and.   M .   a [- and- M- - ,. m and- m  - a - and- a, and a " and ". - and [ is and and- and- and or- a - " " - and- and- or- and- and.- - and - m- mm  and- c c- [ [.  - M- - m- md [ - m md and- mn- m c m-  [ m m - [- [  m,- m and - m- - M M  m- c-  and - - M m- c- - a- m- m-  m- M- m c- "- and. m- m- and "- a- m- c a- po and      "  M  " -    -   m-  - m-  a- po   po or b   and w,  M  w  m m m or M and.    m  m a m w and w or m n and ny n and,. - - N.  w m. n and m a   n and,  or. w and. n and  n w n   w  b and  n.  t  and  - ,  p and  n c or   m, and w.. and w  c and b  a  b n - n- am -  -  

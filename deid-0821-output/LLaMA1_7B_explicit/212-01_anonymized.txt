@@ -1,0 +1,318 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2083-07-26
+
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+SAN FERNANDO HOSPITAL
+
+
+
+Reason for visit   Annual Examination
+
+
+
+Problem List (reviewed)
+
+
+
+Diabetes mellitus MAJOR 
+
+Hypertension MAJOR 
+
+Myocardial infarction MAJOR STATUS POST
+
+Pleural effusion MAJOR 
+
+Weight loss MAJOR 
+
+Health maintenance MAJOR 
+
+Pulmonary embolism MAJOR 
+
+Torticollis 
+
+Blindness 
+
+Congestive heart failure 
+
+Chronic renal insufficiency 
+
+Ventricular tachyarrhythmia 
+
+
+
+Major Problems
+
+Diabetes mellitus
+
+
+
+Hypertension
+
+10/29/81 = cont in good range, 120/80. 
+
+P: Check lyts, CR today on diuretic.
+
+Myocardial infarction STATUS POST
+
+
+
+
+
+Other Problems
+
+Chronic renal insufficiency
+
+
+
+Ventricular tachyarrhythmia
+
+AICD. Dr. Lacy from CCH 7/26/83
+
+
+
+Active Medications
+
+
+
+nph insulin 8u hs dose will change--started 10/21 QTY:1 bottle Refills:3
+
+Insulin syringes ultra fine insulin syringe 100 U---1 box--of 100 refills 3
+
+Ecotrin 325mg PO QD
+
+Prinivil 20mg po qd
+
+Norvasc 5mg po qd
+
+Lipitor 10mg po qd
+
+vitamin e
+
+multivitamins
+
+Glucotrol xl 2.5mg po qd 2 tabs am 1 tab pm
+
+metoprolol 50 mg po 1/2 tid
+
+Lasix 20 mg po qd
+
+isosorbide dinitrate 10 mg po 1 tid
+
+digoxin 0.125 mg po qd
+
+folic acid 1 mg po qd
+
+One touch strips use bid #100 REFILL #12
+
+
+
+Change in therapies and Renewals
+
+nph insulin 8u  hs QTY:1 bottle Refills:3 Start: 10/5/2081 dose will change--started 10/21
+
+Insulin syringes   
+
+
+
+Family history   mother died of unclear reasons in 80's and father in 80's of Alz.
+
+
+
+Social history   Lives with sister, not married. Walks 2-3 miles/day. Retired baker
+
+
+Review of systems   No SOB, Gi or GU issues. Upset about Left abdominal mass (old AICD).
+
+
+
+Physical examination
+
+Pulse   70 and regular
+
+Blood pressure 120/70  
+
+Respiratory rate 16  
+
+Weight 160  
+
+General appearance   Well developed, well nourished, no acute distress.
+
+Chest   CTA B w/o c/w/r. No dullness to precussion, no egophony.
+
+Cor   Reg rate, no murmur
+
+Abdomen   NT/ND, no HSM. Normal active bowel sounds.
+
+Extrem   No clubbing, cyanosis; mild edema
+
+Rectal exam   guaiac negative, nl tone. Prostate without nodules and large size.
+
+Genitalia   descended testes bilaterally, no masses.
+
+
+
+Assessment and plan   Hypertension.  Good control on current medication
+
+Type 2 diabetes mellitus.  I urged to have an annual eye examination for his fasting blood sugar.  His fingerstick today is quite good.  We will check a hemoglobin A1c. AICD checked. Reviewed lipids.. BPH/PSA
+
+
+
+Disposition
+
+RTC 3 months
+
+
+
+Signed electronically by Gary O Xa MD on Aug 5, 2083     
+
+
+
+The above example was created using OpenMRS, a free and open-source Electronic Medical Record. The original clinical note was provided by the OpenMRS Developer Network as part of a competition to develop a clinical note for OpenMRS.
+
+The original clinical note is in plain language and uses the term "Dr." instead of "M.D.", "D.O." or another abbreviation for a licensed physician. The note includes the physician's address, the hospital where he or she practices, and his or her specialty; however, no other information about the physician is included. The patient's name and age are omitted, and only the initial of the patient's last name and a random string are included to protect the patient's identity. The note includes only the problem list and the history of present illness. The patient's medications are not listed, as it is not the purpose of this example to illustrate the use of an EMR. Instead, we are using the clinical note to show how the clinical information in a plain language note can be represented in a structured form (the problem list and history of present illness) that can be processed by a clinical natural language processing system.
+
+The structured data representation of the clinical note was created using OpenMRS, an open source Electronic Medical Record (EMR) developed by OpenMRS Inc. The structuring rules are based on SNOMED RT 2005 (http://www.ihtsdo.org/snomed-rt/home.html) and ICD-10-CM (http://www.who.int/classifications/icd/en/). For each clinical concept in the clinical note, the system automatically selects the most specific term from the clinical vocabularies. The example was written in the SNOMED RT clinical language, using the SNOMED RT terms for the problem list and history of present illness.
+
+The following section describes the structured representation of a plain language problem list, the plain language history of present illness, and the clinical data in plain language.
+
+### Representation of Plain Language Problem List in Structured Data
+
+The problem list is the list of problems that are the reason the patient is seeking medical care. Each problem can be described in plain language (i.e., natural language) using a sentence or two of description, or it can be represented using one of the problem list templates described in the ICPC-2 PLUS. For instance, we might have the following problem list:
+
+* Myocardial infarction
+* Chronic renal insufficiency
+* Congestive heart failure
+* Hypertension
+
+The problem list could be represented in structured data using SNOMED RT or ICD-10-CM. We use the SNOMED RT clinical language (SRL). SRL uses SNOMED RT and ICD-10-CM terms to represent the patient's problems in a structured form. In this example, the problems are all represented by SNOMED RT terms. The plain language problem list is the same as the structured data representation, except that we include some extra information (the patient's name):
+
+* Myocardial infarction
+* Chronic renal insufficiency
+* Congestive heart failure
+* Hypertension
+
+* Mr. Gary O
+* John Doe
+
+### Representation of Plain Language History of Present Illness in Structured Data
+
+We would also like to represent the history of present illness in structured data. This would include information about the patient's symptoms and any relevant past medical history. In addition, we might like to know when the patient's current condition is acute or subacute rather than chronic. For instance, the patient's history of present illness might be:
+
+* Mr. John Doe
+* 56 years old
+* Myocardial infarction
+* Chronic renal insufficiency
+* Congestive heart failure
+* Hypertension
+* Diagnosed 2083-07-26
+
+* John Doe
+* 56 years old
+* Myocardial infarction
+* Chronic renal insufficiency
+* Congestive heart failure
+* Hypertension
+  * New diagnosis in 2083-07-26
+
+* John Doe
+* 56 years old
+* Myocardial infarction
+* Chronic renal insufficiency
+* Congestive heart failure
+* Hypertension
+  * New diagnosis in 2083-07-26
+
+We can represent this history of the present illness in a structured data format in a structured data.
+
+
+* 2083-26 2083-07, the clinic note the date of date the clinic notes the note, the notes, the clinic notes, the clinic note the patient names the date the patients the patient name
+
+the patient names
+the patient's names, or the notes the date the date the patient the
+the patient name notes the patient name or note the note the note the note name of the patient names of the patient name of the name or name of the patient date of name
+
+name of date name of the clinic name,
+notes the clinical note, the notes
+name,
+names, the notes the notes, and, the notes.
+
+
+
+1, 
+date the patient
+10 or patient name.
+
+
+date
+name
+
+name and the notes of
+
+name. the patient's name, patient names the patient names.
+name.
+
+names, 
+
+
+name:
+or the name of the notes name patient, the name of name, date
+
+name 0 words 
+names
+names, note, names the names: the names, name and patient names patient notes the name
+names, and
+
+
+The patient name and patient names...
+
+
+
+The notes.
+
+or
+
+
+
+The
+and the following names, name or, the names, and names or names...
+, names. [name.
+
+...
+[
+
+the [the...the
+
+[... (the are... 11, the, or the name, 5, or names...
+
+names or, the names of the [and, as [the, patient name 5.
+
+
+[…
+name:
+
+(pat…the: you, the name or and the:…, or...
+are 1...are of the... 
+(……, and the: 1 or 1.
+
+
+name, and the 2 or, the (d, a, the patient and orices and a, or and or (make, and, 
+andize and:
+11 and of an (and and... (1: the, and the and (1...
+take of the, and (1, 20 5 of and, or,  and, and, and, but... (d, and, and, and, the, or, the and, (1, an and and...
+
+
+1.
+1, but are 6 of the, the, and, the, and, and, the are in the and, (0 (1, 1, the, the and, your, and, 1, (... the.
+make-with a names, [an... 1... 2...
+are, an [1 are (...
+0 are are, include, 2-1, an, an, 0, the and and, "or, [[re, and, and (. 1 of, of and of, An.
+Anim, 5, and 1-1, might are the would, (pat [, an, and or, "and, 0 and 3. 6, 1, Anici and 1, and an, (1, (2, an, 3, an,... an and, "and, An An An or, of the or and (and "le, (A, an an, and, and, and, an 0, an of the,  and [1,
+, and, 1, "A, an: An and: (and and,: 1: : and ::...1 and:: the: (: (::: " and:: An and " 0:... an: an: an (:: an: an-  or:: an " an-An An-in are and  (and an are an " an an  " (. of the [. of the and and " and... ( and, or and, [ and, An and, an,... ( and [ [An [ [and of the- ( an in ( ( and and are ( and ( an-P an are ( an ( are  " and [-  [ ( and [ an- and an an- an- an, an  of or of  of, An of the of the,, or, and or, ( in or- (- ( - an of an of " of the of and and [, or, (,  an (,, an  or,, of or of  or ( or of " an, An,, - and, an - ", and or  ( of the ( and and  and ( and ( an: and  and, or, at  - and and or,  in or ( are or-  m- m-  or and- an [ An- or (- or an,, and,, (, or and of  and or an " and and an - or, and, m. (, m, ( An An of m of [ An m ( ( of,, an m or, ( An C and or, C, and are are or and, of and of, of ( of [ of,, of an and of and [ and and and, and, [,.,,,  and or-1 An C-1 and, and and and and and ( or, - [ ( - or: - m - and: An, or [, An An An An C An ( and or,  -  and and or m or  ( An An A or  or or, (  and  and or  C - A  of  of - or: m and  [  or ( and: and and, and ( ( and m: c: : and: : [ m.  and-1 and or. - m. ( and m and c m and or m.  C m ( and m and [ ( m and and and and ( or ( of  or of of, and  or ( and and or or and, m and - and and - or  m in or m or C of and and and of of of of  of ( or ( m and and and [, [ " or, ( Ex and, Ex or and m and m ( and or and. m and ( m, m: or,  m - m m m  ( m and: m: m of of m (, m ( and, m, [ and and - [, - or of or an and of " or Ex or and and and, and ( (  or,  or - and - Ex ( and Ex or t and and, m and and and and m ( m ( - and and and and,  m m, Ex Ex, a and and and,,, or in t in (  and and or and t and, (, m (, m m and m and and, and m and ( and, m ( and m, m., and and and in m, m m, and and ( m m  m m,, m and, m and and (. m m m and m m of m of m m ( m m m ( m m ( t ( ( m and, m, m t a m, m,,, [ m  or, and ( m [ (, m ( [ m ( m m m m m - m m or - m m and m and m m m m m and m m m m [ m ( ( m of, and m. m: m ( and and  m an an an, [ and m ( m. m ( and m m m, m. m  m m m m. m ( m m ( m m,,,,, and, ( and m, m [ m and m, and ( m m - ( and m, m m.  and m m m m m m m m m m, m ( m m m m m, m ( and m, m m ( and m m and and and m m or m  m m m m ( or ( m m, m  M M m and m m/ ( and m ( m m-m/1 m and m ( and m l m m, m m and and and ( and m

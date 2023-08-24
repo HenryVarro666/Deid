@@ -1,0 +1,302 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2084-04-28
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medicine &#8211; Mediquik 6 Intern Admission Note
+
+
+
+PATIENT: Gillespie, Patrick
+
+MRN: 2571454
+
+ADMIT DATE: Tuesday 4/28/84
+
+PCP: Dr. Yakov Xie
+
+ATTENDING: Ward (Dr. Wiggins / Dr. Stone)
+
+CONTACT: sister Snow 241-904-0696
+
+SOURCE: patient and records
+
+
+
+CC/ID: cough
+
+
+
+HPI
+
+Mr Gillespie is a 53 yo man with a history of NIDDM and hypertension who presented to House Of Calvary Hospital today with a chief complaint of cough for the last 5 days.  He was in his usual state of health prior to that.  Cough has been dry; also notes shortness of breath with exertion and diaphoresis.  He notes intermittent palpitations and mild lightheadedness during the last few days.  He has had pneumonia several times in the past.  He denies fever, chills, SOB at rest, orthopnea, PND, chest pain, wheezing, hemoptysis, and sick contacts.   He reports compliance with his medications and no recent change in diet.  At Calvary, CXR was interpreted as bilateral pneumonia L&gt;R.  EKG revealed atrial fibrillation, of which he had no known history.  He was referred to the GRH ED for further evaluation.
+
+
+
+In the ED he was afebrile, HR 130s-140s (atrial fibrillation)  SBP 140s  O2 sat 99-100%.  On exam he had fine bibasilar crackles.  He was given levofloxacin 750 mg po, dalteparin 5000 units, diltiazem 10 mg iv and 30 mg po with lowering of HR to 90s, and NS 500 cc.  He was admitted to Medicine &#8211; Mediquik 77 for further management.
+
+
+
+REVIEW OF SYSTEMS
+
+General &#8211; +sweats, no weight loss/gain, no fever, no chills, no change in appetite
+
+HEENT &#8211; no neck swelling, no neck stiffness, no hoarseness, no hearing loss
+
+Pulmonary &#8211; per HPI, no hemoptysis, no wheezing
+
+Cardiac &#8211; +palpitations, no chest pain/pressure, no PND
+
+Gastrointestinal &#8211; no N/V, no diarrhea, no constipation, no BRBPR, no melena, no abd pain
+
+Genitourinary &#8211; no hematuria, no dysuria, no polyuria, no nocturia
+
+Extremity &#8211; no leg swelling
+
+Musculoskeletal &#8211; no back pain, no neck pain, no leg pain, no arm pain, no joint pain 
+
+Hematologic &#8211; no bruising, no bleeding
+
+Neuro &#8211; no seizures, no headache, no weakness, no numbness/tingling
+
+Skin &#8211; no new concerning rashes or lesions
+
+Exposures &#8211; no sick contacts, no recent travel
+
+
+
+PAST MEDICAL HISTORY
+
+NIDDM &#8211; A1c 6.4 last month
+
+Hypertension
+
+Hyperlipidemia
+
+Nephrolithiasis
+
+Neurofibromatosis
+
+Pectus excavatum
+
+Hodgkin&#8217;s disease &#8211; diagnosed in 2070; s/p XRT, chemo (bleomycin, adriamycin, vincristine, DTIC), and surgical 
+
+Resection; oncologist Dr. Bass at MAC
+
+Pneumonia &#8211; multiple times in past
+
+
+
+PAST SURGICAL HISTORY
+
+Left axillary biopsy
+
+L neck/shoulder surgery (to remove Hodgkin&#8217;s tumor)
+
+Surgery for pectus excavatum
+
+
+
+RECENT DIAGNOSTIC STUDIES
+
+Adeno-MIBI 2082: negative for ischemia, maybe a small inferior wall scar, LV fxn at lower limit of normal
+
+Chest CT 3/25/84: Homogeneous soft tissue mass in the right apical paraspinal region that is slightly fusiform in morphology (2.6 x 2.6 cm x 4 cm) with imaging features suggestive of a neurogenic tumor (ganglioneuroma, neurofibroma, schwannoma). No evidence of associated osseous change or extension into the neural foramina.
+
+
+
+MEDICATIONS ON ADMISSION
+
+ASA 81 mg daily
+
+Metformin 1000 mg bid
+
+Lisinopril 10 mg daily
+
+Simvastatin &#8211; not sure of dose
+
+Flovent 2 puffs bid (started 1 month ago for cough)
+
+
+
+ALLERGIES/ADVERSE REACTIONS
+
+IV contrast &#8211; SOB, nausea
+
+
+
+FAMILY HISTORY
+
+Mother &#8211; DM, died of sarcoma, Father - died of an MI, Sister with ITP, Brother and Sister have neurofibromatosis
+
+
+
+SOCIAL HISTORY
+
+Native of Edgefield.  Lives in Edgefield with his brother.  On disability.  Volunteers - animal rescue.  No current or previous tobacco.  Rare EtOH.  No illicits.
+
+
+
+PHYSICAL EXAMINATION
+
+Vitals  97.7  92  141/69  18  98% 3L
+
+General &#8211; obese, breathing comfortably
+
+HEENT &#8211; sclerae anicteric, MMM
+
+Neck &#8211; supple, no LAD
+
+Pulmonary &#8211; good air movement, no crackles or wheezes, decreased breath sounds at L base
+
+Cardiac &#8211; irreg irreg rhythm, no m/g/r, nl LV heave; pectus excavatum
+
+Abdomen &#8211; +BS, obese, soft, nontender, nondistended
+
+Extremity &#8211; warm, 2+ DP pulses bilaterally, trace bilateral lower extremity edema, no foot ulcers
+
+Neuro &#8211; CNs 2-12 grossly intact, normal sensation to light touch, 5/5 strength bilaterally
+
+Skin &#8211; multiple 5mm elevated round vesicular lesions on face, chest, and back
+
+
+
+LABS
+
+143 / 4.3 / 100 / 32.4 / 17 / 1.07 / 117     8.9 / 3.6 / 1.7
+
+LFTs wnl
+
+12.8 &gt; 39.8 &lt; 405   83% polys
+
+INR 1.2
+
+
+
+MICROBIOLOGY
+
+Blood culture pending (sent)
+
+
+
+RADIOLOGICAL STUDIES
+
+CXR &#8211; no acute abnormalities, severe pectus excavatum and rib deformities noted, unchanged from the prior studies
+
+
+
+EKG
+
+Atrial fibrillation, L axis deviation, narrow QRS, QTc 438, incomplete RBBB, no concerning ST segment or T wave changes
+
+
+
+ASSESSMENT AND PLAN
+
+53 yo man with NIDDM and HTN presents with 5 days of cough and mild SOB, CXR reveals possible pneumonia, also noted to have new atrial fibrillation.
+
+
+
+###ATRIAL FIBRILLATION &#8211; per patient, no history of a fib.  May have been triggered by pneumonia.  No chest pain to suggest recent MI.  No sign of PE.  Hemodynamically stable.  CHADS2 score 2, so warfarin is indicated for anticoagulation.  Unclear when this rhythm started, so will hold off on cardioversion.
+
+- Rate control with po diltiazem
+
+- Warfarin for anticoagulation; follow INR
+
+- Check TTE, TSH
+
+
+
+###PNEUMONIA &#8211; afebrile, but has elevated WBC count; also symptomatic cough and SOB, and history of pneumonia several times.  Will treat for community-acquired pneumonia.
+
+- Levofloxacin 750 mg daily; plan for 10 day course (4/28-5/7)
+
+- Check sputum and blood cultures
+
+
+
+###DIABETES MELLITUS &#8211; RISS, FSG; hold metformin
+
+
+
+###HYPERTENSION &#8211; will switch lisinopril to captopril 12.5 mg tid; also getting diltiazem as above
+
+
+
+###DYSLIPIDEMIA &#8211; simvastatin 20 mg daily (does not know home dose)
+
+
+
+###PROPHYLAXIS:  GI: none   DVT: dalteparin   BOWEL: Colace/Senna prn
+
+
+
+FEN: Cardiac, ADA 1800 calorie
+
+
+
+DISPO: to home once HR controlled
+
+
+
+CODE: Full (confirmed &#8211; does not want prolonged intubation)
+
+
+
+
+
+
+
+___________________________________
+
+Marion Costa, MD
+
+Internal Medicine PGY-1
+
+Pager 67531 
+
+
+
+
+
+
+
+122510
+
+date:
+198.
+day
+1
+04, a patient. This day:
+[A
+
+11231. In your: [35, and a and you: 30548. 7973399. An. This 0216: [A. This:  Ancient An Anterior: An:
+ine Anci An. An.
+ An [[ 50.1908 An: (10 An. An An.
+49:
+123. An, [A. An
+
+:
+[A day. 10: An1:
+0 and:13 (A An. An: An An A An: Anni An: An An PIN-1:
+ An 0 Anient An: An An 209: 4, [ An An An [1, a (An An:1 An: An An An An An P An An An PRI, An An An [9 An An An An An An An An Anistier An An Anient 301 An A [9::12: &00 &891360001 An An-An An An An An An An An An An An An Anient C a: A An An Anient An A An An Anistic An. An An A An An An Anist An An An An An ( An An An An Anist An An An An An An An An An An An An Anient An An An An [1 Anistic An An Anian An An An An An An An An An An An An [ An An C ( An An C An An. An  An A An An An An An An-1- An An An An An An An An An An An An An An An An An An An Anist An An An An An An An An An An An Anist An An An [ An An An An An Anistic An A An An An An Cine.  Anist An An [0 An An (0 An An [ An An An An An  An. An An Anine  and an  & 1 [-3.  & An Anist in. & a in a -c:. : An An. Anine: An An: An an. An-1-1: An An An An. An An [ Cine and. an an an anian A & An. An [ An Anist An A. An An. A1 An An An An [: An A An An Anist An a: An:  An. An: An An: An - C An An C A An C ( C an: An.  I an- I An An An An An An An An: An: An An An An C An: An An: C Anine an: A- An: I: An P. An: An Anine 1 and 0 An An An An C An I an in-I- I P- I Anine I- C a  I An An  L- A. Anist Anistian- B Anist  ( I - C. ( in ( ( L- L-  ( P. I [- L I. C. Anine, in  [ -  [ in-0 [2- L ( Line-1- [- a [2 to -..1-1. - a and - - a  - ma and I- I- -  c a - (. I  - ( I-. C C a. C- L c a-1 and -, c,  (- L T.- L. a- a- L, [-1,,  and (,, (, & - a in, L a. I.- L-1 -  a a- L C C a- T or- T- last and in L &  a-. S. C a : hr and. a in  c or. : C (. C. I S a. a L. S C. and.  C a L and. to  a- L- C for-C- C: - c a. C C a C C- L and c- or:- c: C: and for a. and to for- a to a [- a- - H:.- -1 -:  - I: - - c a a c: L. ( I a- a- C a  L C a-1 I a: [: S S a C: a- C of S a  c a - c a- C- S- I - I.  H- to- C. to- S to  C to - C - C H H a a-  a a- M1 H C a  C - I a C a ( - L. L as - I: L I I. I a I ( I- I and I C C a H C H- S a- H B C H I L ( S I ( I ( ( M a C ( I a  L S  I a ( a C0- M0 C0 (- C and ( H I. S - C- C C C L0 S  H L  H C - H C - I. H L- S. M. - H -- I/- H and,  C a M- H - C M- [, M M, [ ( H, M- H,, S. I. C S, H H L L- C ( L- H.  [- L - - and- - - H. C H  m, m- - M, H (. -. [ [ H, M. S,,- S (- - ( H- and,, - H of - H, H- H-- M- H -- of  of  of of, of or, c [, - ( I.. S H I, S ( S- and. S and I I- and, and or 1 ( a  I  and -.  -0  (.   or -,- C. -1- M - MM,,. C C, M M ( MC, M and MM I:, M:: - M - : H: -: (- R ( H- ( - C (- H, of -  of ( or and ( I. E-  C H or- or-1- C- H C and and R H ( and ~--  C  -- M--- E [- [  of ( of of- ( [, - ( ( C-:  I- C: M C- C C [ C  C I

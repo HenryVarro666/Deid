@@ -1,0 +1,261 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2063-09-04
+
+                           124-23-22-9
+ 
+ 
+She returns for follow-up visit.  She has essential hypertension
+and diabetes and is s/p a small CVA.  Medications currently include
+vasotec 20 b.i.d., chlorpropamide 250 b.i.d.  I once again
+encouraged her to take aspirin which she said gives her a funny
+feeling in her stomach, but she is now agreeable to taking 80 mg
+q.d.  Hydrochlorothiazide was stopped secondary to an episode of
+hyponatremia.  She said she has felt the best over the last three
+months and reports no cardiovascular or neurological symptoms. 
+Blood pressure 130/70.  No JVD.  Carotid impulses normal.  No
+bruits.  Lungs clear.  Cardiac exam normal.  Unremarkable abdomen. 
+Full pulses throughout with no edema.  ECG is within normal limits. 
+I have made no changes to her medical regimen and she will return
+to see Dr. Isaiah Viola in six months.
+ 
+ 
+ 
+ 
+                                              
+Otha V. Espinal, M.D.
+ 
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+
+
+
+*/
+
+
+using System;
+using System.Data.Common;
+using System.Data.Odbc;
+using System.Security.Cryptography;
+using System.Text;
+using System.Text.RegularExpressions;
+
+namespace DataAccess.Helpers
+{
+    /// <summary>
+    /// This class is used to help with data conversion. 
+    /// In addition to the standard functions, it supports the conversion between
+    /// a string and a binary data using MD5 hash function and a key.
+    /// It also supports the conversion between a string and a binary data
+    /// using Cryptography SHA256 hash function and a key.
+    ///
+    /// The key used for this hash is not stored in the database
+    /// but it is stored in the application configuration file. 
+    /// This is done to ensure that it does not fall into the
+    /// wrong hands (if the code is stolen). This also makes the
+    /// key unique per application and prevents the same key
+    /// being used in many different applications.
+    ///
+    /// The MD5 function uses the same hash key as the Cryptography
+    /// function and therefore this code can be used to convert
+    /// between the two functions.
+    /// </summary>
+    public static class DataConversion
+    {
+        // This function can be used to convert a string to a binary value
+        /// The value of key used to generate the MD5 hash value is stored in app.config
+        /// <seealso cref="Key"/>
+        /// <seealso cref="Hash(string, string, byte[])"/>
+        ///
+        /// <param name="input">The string to convert to a binary value</param>
+        ///
+        /// <returns>A 32 byte binary value of the string</returns>
+        public static byte[] ConvertStringToBinary(string input)
+        {
+            // This is the key used to convert to the binary value.
+            byte[] key = Convert.FromBase64String(DataConversion.Key);
+
+            // Convert to binary.
+            return Hash(input, key);
+        }
+
+        /// <summary>
+        /// This function can be used to convert a binary value to a binary string using
+        /// the MD5 hash function and a key.
+        /// </summary>
+        /// <param name="input">The binary value to convert to a binary string</param>
+        /// <param name="key">The MD5 key used to generate the binary string</param>
+        ///
+        /// <returns>A binary string value of the input binary</returns>
+        public static string ConvertBinaryToString(byte[] input, byte[] key)
+        {
+            return Convert.ToBase64String(Hash(input, key));
+        }
+
+        /// <summary>
+        /// This function can be used to convert a binary value to a binary string using
+        /// the Cryptography SHA256 hash function and a key.
+        /// </summary>
+        /// <param name="input">The binary value to convert to a binary string</param>
+        /// <param name="key">The Cryptography SHA256 key used to generate the binary string</param>
+        ///
+        /// <returns>A binary string value of the input binary</returns>
+        public static string ConvertBinaryToString(byte[] input, byte[] key)
+        {
+            return Convert.ToBase64String(Hash(input, key));
+        }
+
+        /// <summary>
+        /// Generates a binary string from an input string, using the
+        /// MD5 hash function and a key.
+        ///
+        /// This function can be used to generate data conversion
+        /// rules from SQL strings and other strings which have to
+        /// be stored as binary.
+        /// </summary>
+        /// <param name="input">The string to convert to binary</param>
+        /// <param name="key">The MD5 key used to generate the binary string</param>
+        ///
+        /// <returns>A byte[] of the binary string</returns>
+        /// <remarks>
+        /// <para>This function is used in the rule generation
+        /// functionality in this package to create the binary 
+        /// data for each rule.</para>
+        ///
+        /// <para>The MD5 hashing function is very quick to
+        /// generate binary from input.</para>
+        /// </remarks>
+        public static byte[] Hash(string input, byte[] key)
+        {
+            // Create a MD5CryptoServiceProvider object.
+            MD5CryptoServiceProvider cryptoService = new MD5CryptoServiceProvider();
+
+            // Use the MD5 hashing function to create binary data
+            // from the input.
+            byte[] hash = cryptoService.ComputeHash(Encoding.UTF8.GetBytes(input));
+
+            // Convert the binary array to a byte[] array.
+            byte[] binaryOutput = new byte[hash.Length];
+
+            // Copy the binary value to a byte array of the correct
+            // length.
+            for (int ii = 0; ii < hash.Length; ii++)
+                binaryOutput[ii] = hash[ii];
+
+            return binaryOutput;
+        }
+
+        /// <summary>
+        /// Generates a binary string from an input string, using
+        /// the Cryptography SHA256 hash function and a key.
+        ///
+        /// This function can be used to generate data conversion
+        /// rules from SQL strings and other strings which have to
+        /// be stored as binary.
+        /// </summary>
+        /// <param name="input">The string to convert to binary</param>
+        /// <param name="key">The Cryptography SHA256 key used to generate the binary string</param>
+        ///
+        /// <returns>A byte[] of the binary string</returns>
+        /// <remarks>
+        /// <para>This function is used in the rule generation
+        /// functionality in this package to create the binary 
+        /// data for each rule.</para>
+        ///
+        /// <para>The Cryptography SHA256 hashing function is
+        /// very quick to generate binary from input.</para>
+        ///
+        /// <para>This function is used to convert to binary from
+        /// strings which have Cryptography SHA256 keys stored in the
+        /// database. The Cryptography SHA256 hashing is done by the
+        /// data source, so the string has already been hashed before
+        /// it is put in the database.</para>
+        /// </remarks>
+        public static byte[] Hash(string input, byte[] key)
+        {
+            // This is the key used to convert to the binary value.
+            byte[] key2 = Convert.FromString(Key, System.Text.Encoding.ASCII);
+
+            // Create a SHA256Managed hashing object.
+            SHA256Managed sha256 = new SHA256Managed();
+
+            // Use the sha256 hashing function to create binary data
+            // from the input.
+            byte[] hash = sha256.ComputeHash(Encoding.UTF8.GetBytes(input));
+
+            // Convert the binary array to a byte[] array.
+            byte[] binaryOutput = new byte[hash.Length];
+
+            // Copy the binary value to a byte array of the correct
+            // length.
+            for (int ii = 0; ii < hash.Length; ii++)
+                binaryOutput[ii] = hash[ii];
+
+            return binaryOutput;
+        }
+
+        /// <summary>
+        /// The name of the key used to convert between a
+        /// string and a binary value (using MD5).
+        /// </summary>
+        /// <remarks>This is the key stored in app.config.</remarks>
+        public static string Key
+        {
+            get
+            {
+                // This is the key stored in the application configuration.
+                byte[] byteArray = File.ReadAllBytes("config/dataconversion.config");
+
+                // Decrypt the key using the key from config/dataconversionkey.txt
+                byte[] key2 = CryptoUtility.Decrypt(byteArray, DataConvertionConfig);
+
+                return Convert.ToBase64String(key2);
+            }
+        }
+
+        /// <summary>
+        /// This function is used to generate data conversion
+        /// rules from SQL strings and other strings which have to
+        /// be stored as binary.
+        /// </summary>
+        /// <param name="source">The string or byte array source to be hashed</param>
+        public static void HashRuleSource(string source)
+        {
+            byte[] sourceHash = ConvertStringToBinary(source);
+            string hashedInput = ConvertBinaryToString(sourceHash);
+
+            // Store the hashedInput in the database.
+            DataConversionDbContext.RuleSourceDbSet.Add(new RuleSource
+            {
+                DataConversionRuleSource = hashedInput
+            });
+        }
+
+        /// <summary>
+        /// This is the key used for the decryption function for
+        /// data conversion rules in the rule database.
+        /// </summary>
+        public static string DataConvertionConfig { private get; set; }
+
+        /// <summary>
+        /// This class is used to store data conversion rules in the
+        /// database.
+        /// </summary>
+        public static RuleSourceRuleDbContext DataConversionDbContext
+        {
+            get
+            {
+                DbContextOptionsBuilder<RuleSourceRuleDbContext> optionsBuilder =
+                    new DbContextOptionsBuilder<RuleSourceRuleDbContext>();
+                optionsBuilder.UseLazyLoadingProxies();
+
+                return new RuleSourceRuleDbContext(optionsBuilder);
+            }
+        }
+    }
+}

@@ -1,0 +1,320 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2092-09-18
+
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+HOLDEN DISTRICT HOSPITAL
+
+
+
+Reason for visit
+
+			
+
+  Followup of multiple issues.
+
+
+
+History of present illness
+
+			
+
+  Since his last visit, the patient has had two episodes of pressure in his chest.  This occurred approximately one week ago in the setting of walking up the stairs and carrying a heavy package.  He notes that his pulse went up to 101 and he had overall felt "tired in his chest".  He did not take any nitroglycerine, and his symptoms promptly resolved.  He has continued to notice episodes of intermittent rapid pulses with pulses up to 100.  He has had no syncope or near syncope.  Generally, he has been walking on the treadmill up to four to six miles a day several times a week.  Over the last few weeks, he has felt a little bit more fatigued and now can only walk approximately four miles.  He has not had any sustained palpitation, syncope, or near syncope, but has noted a slight decrease in his exercise tolerance.
+
+
+
+Problem List (reviewed)
+
+
+
+Coronary artery disease MAJOR 
+
+Hypertension MAJOR 
+
+Diabetes mellitus MAJOR 
+
+Carpal tunnel syndrome MAJOR 
+
+Allergic rhinitis MAJOR 
+
+Angina pectoris MAJOR STATUS POST
+
+Prostatic carcinoma MAJOR 
+
+Cerebrovascular accident MAJOR 
+
+Sleep apnea MAJOR 
+
+Gastroesophageal reflux disease MAJOR 
+
+Hyperlipidemia MAJOR 
+
+Colonic polyp MAJOR 
+
+
+
+Major Problems
+
+
+
+
+
+Coronary artery disease
+
+see HPI
+
+
+
+Hypertension
+
+The patient monitors his blood pressure closely at home and finds it to be at around 120/70.  He has not had any headaches or any other focal symptoms.
+
+
+
+Diabetes mellitus
+
+The patient checks his blood sugars at home, and they have been in the 120 range, he has been exercising more regularly.  He has had no symptoms of hypoglycemia and generally has been doing well
+
+
+
+Carpal tunnel syndrome
+
+Currently, he does not complain of any pain or paresthesias in his wrists.
+
+
+
+Allergic rhinitis
+
+He has chronic postnasal drip and nasal congestion for which he uses clarinexon a regular basis with some improvement. He has had no sinus pains, headache, or recent sinusitis.
+
+
+
+Angina pectoris STATUS POST
+
+Unstable angina 1/86 cath lad stenosis. ETT 1/84. ETT 3/2091 mild ant./basal ischemia
+
+
+
+Prostatic carcinoma
+
+The patient is followed regularly by the urologist and last had a visit in July 2092 with PSA in a very good range at less than 0.2.  He has no dysuria, urgency, frequency, or significant nocturia
+
+
+
+Cerebrovascular accident
+
+The patient has had no recent neurological symptoms or changes.  He had a mild aphasia which has totally resolved. He has had no headaches or any focal symptoms.
+
+
+
+Sleep apnea
+
+The patient had a sleep study in November 2091 due to excessive fatigue and snoring.  He was noted to have sleep apnea, and CPAP was prescribed.  He has  been using the CPAP ..
+
+
+
+Gastroesophageal reflux disease
+
+The patient continues on his ranitidine at night with improvement in his intermittent epigastric discomfort.No dysphagia, odynophagia
+
+
+
+Hyperlipidemia
+
+taking his medication, and  watching his weight
+
+
+
+Colonic polyp
+
+7/11/92 2 polyps excised transverse colon
+
+
+
+Allergies
+
+Drug allergy   ACE inhibitor-cough procardia-leg edema lopid-pancreatitis cardura-ankle swelling dyazide-elevated bun/creat edecrine-rash amox-vomiting norvasc-leg edema hctz-rash per derm catapres-rash aggrenox - pancreatitis.
+
+
+
+Active Medications
+
+
+
+Lipitor 10mg po 3 tabs qd dose has been  increased to 30mg 
+
+Glucophage 500 mg po BID take 1 tab  am and 2 tabs pm
+
+atenolol 25mg po bid
+
+glyburide tablets 1.25 po qd
+
+Isordil 20 mg QID
+
+Cardizem cd 180 mg PO QD
+
+Bumex 1 mg 2 tabs PO QD
+
+Avapro 150 mg
+
+Nitro stat 0.3mg SL PRN chest pain,max 3 pills & call pcp
+
+Coumadin 5 mg po as directed
+
+folic acid 1 mg PO 4 QD
+
+Clarinex 5mg po qd
+
+Zoloft 100 mg 1/2 tab po QHS
+
+aspirin 81 mg
+
+ranitidine hcl 300mg po qhs
+
+Nasonex 50mcg/spray nasal qd 2 sprays/nostril
+
+Advair 100/50mcg spray inh bid
+
+free text medications lipitor 10mg po qd as directed
+
+Continuous positive airway pressure use as directed
+
+Accucheck advantage glucose test strips use as directed qty:300 rfl:3
+
+
+
+Past medical history
+
+			
+
+  History of coronary artery bypass surgery in August 2081.
+
+History of carpal tunnel surgery bilaterally.
+
+History of prostatectomy in June 2088 for prostate cancer.
+
+
+
+Family history
+
+			
+
+  Mother with hypertension.  Father with hypertension and Alzheimer's disease.  Mother with a stroke and diabetes. Two brothers and a grandfather with colon polyps.  A grandfather with colon cancer.  A grandmother with breast cancer.  Two brothers with hyperlipidemia. Brother with prostate cancer.
+
+
+
+Social history
+
+			
+
+  The patient is a retired pastor who lives with his wife. He is active, independent, and cares for his grandchildren on a regular basis.
+
+
+
+Habits
+
+Activity level: active  treadmill 1-2 hours 4-6X per week
+
+Smoking status: never smoked  
+
+Alcohol use status: none/minimal  occasional.
+
+Drug use status: none  
+
+
+
+Procedures and Immunizations 
+
+Influenza vaccine STATUS POST [ 9/18/2092 ] 
+
+ Fluzone Lot #S3124HR Exp. 26 Jun 92 (l) Deltoid
+
+Left deltoid lot # STGLX647RM
+
+
+
+Review of systems
+
+			
+
+  The patient has had no fevers, chills, or night sweats.  He haschronic  bilateral nasal congestion .  He has no sputum production.  No joint symptoms, GI, GU, or neurological complaints.  No skin rashes.
+
+
+
+Physical examination
+
+Blood pressure 120/70  
+
+Pulse   72, irregularly, irregular
+
+Weight   182lbs
+
+General appearance   Well developed, well nourished, no acute distress.
+
+Heent   NC/AT, PERRL, EOMI, O/P clear without erythema or exudates.
+
+Neck   JVP flat; carotids brisk, 2+ bilaterally without bruits, no goiter.
+
+Chest   Clear to auscultation bilaterally.
+
+Cor   PMI at 5th ICS, MCL. RRR nl s1, s2 without m/r/g.
+
+Extrem   No clubbing, cyanosis, edema. Full pedal pulses.
+
+Neuro   Grossly nonfocal.  Speech fluent without paraphasic errors. Memory, excellent and intact.  Gait normal
+
+Foot exam   Negative
+
+Preventive eye exam   5/92
+
+
+
+Selected recent labs
+
+			
+
+  ECG new atrial fibrillation at rate 74. Right bundle branch block, no ischemic changes
+
+
+
+Assessment and plan
+
+			
+
+  The patient's symptoms and exam as well as EKG are consistent with atrial fibrillation.  Of note, the patient had a history of paroxysmal atrial fibrillation after his CABG.  However, he has not had any significant symptoms since that time.  He remains active without any evidence of congestive heart failure on exam.  He continues to exercise on a regular basis.  Given his slightly elevated pulse rate, his atenolol will be increased to 25 mg PO BID from one per day which is what he is currently taking.  His blood pressure is under good control.  Given his recent episode of repeat stress test will be sent.  If there is any prolonged episode of pain, he will come to the emergency room immediately.  He is encouraged to use nitroglycerine sublingually if he has any evidence or any chest pressure.  For his diabetes, his labs will be sent.  He remains on Coumadin for anticoagulation, and his INR has been therapeutic.  He will follow up in three months but sooner pending the above evaluation.  If he has any increase in his symptoms, he will be admitted immediately.
+
+
+
+Note transcribed by outside service
+
+			
+
+  Transcription errors may be present.
+
+
+
+Signed electronically by Riddle, Rhonda on Sep 25, 2092     
+
+
+
+...
+... or...... 
+1...
+1: are, and are of..., 121 and 
+1... (the names or, 1 [
+(
+
+remove of the, 1.  and the, the or: and [
+
+and, as the “indify-the patient, 1, but or 2-11, and are are and are,
+
+
+
+and 1 and, 211: and the... and...and, or, and or (in and, or, the, or or (and, and, or, or, or, and, and, an, 0, 1. [(and, and and, but, and, [, 1 of, and, 1, and, and, and are (11 or, and a or in (and the (the patient-get and: ((... (1. 20 words of “1. 1...0. 3 (1 [re- 0 are, 0 [ 1 of a (in or by [in, or, the... and, an [[le, ([re and of the. [, a of, a and and and, and, and [d 1, are, a have and are a and (and are ( and, an, (, the, an, (1, (and, a, a and 1 in, as 1. an, 1 and and, and, and, a, an and and, and, or, an, an,  and and, or a, 5 or a and, in the, in and, 1, a, and and, an, (and and, [2, [make, (le, the, and: An An C of the, 1 and ( of a: An: : 0 (1-2-an-[: 1: 1: 0 or: "[ an 1 an or and [an " or a-le- [ an and an: or " in and-and "  or ( [ (1-1 and-a " (. and an. of a of the, of the [. An. An, [[ and and [. ( and [-an, ( and ( An An An An ( [ ( [ [ and or- an, an (  and  ( and " or  " and an " an  an " ( an  (,, and-  and, [1- or of the,, [ of  of the of  of, of,, and  ( An and,  an and and of an of  of the ( of " of of the of and of " an in an ( in in and are and  on-an  or- of or in ( or,  an  An  or,  or,  an ( of and an of  of  of,  of ( or and, and or 1 of  of [ and or and or,  of an  of 0, -1 An and and An An An M- or,  and and ( or and or, of the an, An and and and [ and, and and  and ( an, [  or  and ( ( an and or, an of or, and and or or or  and  ( and are  a and and a or of or " of and of the of of  of of the of a of,, ( and, ( and and and or,, and or, and  and  and [ an and, and [1 a and  and  an and and a " a  ( " ( or ( and, C and ( or [ ( or or or or or or or an m an or-c, a and ", ( or and an [ ( a- an ( [ or or an a " an [ ( in  a of or of and of a or and or a c or ( and or a or ( m- [ and ( a m a ( and ( a and m and ( a and-1 and m and a- and  or a- and a- a of m of a a in and or an of  or- an and and a a and an, a, of  and a ( or of, a or. and. and a or  and and, and are, or, (, ( of a of of of of of a of  and of a  a and,  and a and, C. ( and or, and, (, a- or,, a a  or and  [ and and- a and ( d ( and ( week, or- of a of a a of C C,, a a and, ( or, and a [ and, a ( a, and of an- a and and a  and, a and (. ( and a and and, and (  a, a,, and and and c and and a- and and and, a,, or or and or and and, or a and and t a and ,, and, and a and, a and and and and ( or and, (, and and and and and and ( and and and  C in and and, a, and,,, and, and and in or and,, and a, and, and [ in and, and, and a ( ( a a and a or of of of a of a of a and C and C C and ( on, " C,. ( ( a and [ and, and,, a, and, or and and ( on,, and and and and and and and t and and " a and and a t t or a t a " C and- or and and- and, C m with and and and. or m and and a. and and and, and and on and or and ( " in a, and,  ( and t a " _ (. and " " a and- and m and- and,, a, " and and ( and and and and and. (. (, and and, and and and and ( and " and and " m a a a m ( and a a, a ( a  a c and, m and and or  and, and m a,, and, and and and on and a in and and a and and and in, and a and and. ( of in. m- ( or. M a m and,1 m and in " ( and m in, and a (. and and, and m,, m

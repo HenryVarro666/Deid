@@ -1,0 +1,758 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2066-01-13
+
+
+
+Patient is a 67 yo  M who presents for yearly physical exam and followup of medical problems:
+
+
+
+Issues addressed today:
+
+Coronary artery disease : asympt, followed by Dr. Arval Yingling.  Walking without diff.  Denies chest pain, sob, nausea.
+
+
+
+Hyperlipidemia : on lipitor20 mg and lopid 600 bid. TGs high last check - working on diet/exercise.  He is fasting today for blood draw and sgpt/cpk chck
+
+
+
+glucose intolerance : has been controlled on diet/exercise. Experiencing some increase in urination, gained a few lbs over holidays.
+
+
+
+Impotence :  viagra prn
+
+
+
+Complaints today include: above. Full ros obtained and o/w negative.
+
+
+
+Current medications:Medications
+
+Asa (ACETYLSALICYLIC ACID) 325MG TABLET take 1 Tablet(s) PO QD , Take as directed 
+
+Viagra (SILDENAFIL) 100MG TABLET take 1 Tablet(s) PO x1 PRN prn , do not combine with nitroglycerin
+
+Metoprolol TARTRATE 50MG TABLET take 1 Tablet(s) PO BID 
+
+Lopid (GEMFIBROZIL) 600MG TABLET take 1 Tablet(s) PO BID 
+
+Lipitor (ATORVASTATIN) 20MG TABLET take 1 Tablet(s) PO QD , Take as directed 
+
+Arthrotec (DICLOFENAC/MISOPROSTOL) 75 MG SL BID 
+
+Protonix (PANTOPRAZOLE) 40MG TABLET EC take 1 Tablet(s) PO QD 
+
+Folic ACID 1MG TABLET take 1 Tablet(s) PO QD 
+
+
+
+Allergies
+
+Penicillins - Angiodema, Hives, 
+
+Erythromycins - Hives, 
+
+Iv Contrast - convulsions, Hypotension 
+
+
+
+Social History:
+
+Single, divorced. 3 children, 4 grandchildren.  Retired, used to do immigration policing.  Lives in Havre De Grace with his brother.  Dating current girlfriend x 3 years now, sexually active.  Walks avidly.  Daughter keeps him busy doing odd jobs.
+
+
+
+Quit smoking 2061.  Smoked 1 ppd x 30 years.  Occ etoh.  NO illicit drugs.  Occ wears his seatbelts.  Exercises regularly.
+
+
+
+Family History:  Mother died of cancer - pancreatic cancer.  Father died at age 29 of alcohol related problems.  Brother (half) died at age 51 of pancreatic cancer.  Other brother has lung cancer - smoker.  Sister has hyperlipdemia.  Negative for early CAD, stroke, HTN, DM, bleeding/clotting disorders, breast cancer, colon cancer, skin cancer.  FH otherwise negative.
+
+
+
+PE:
+
+Vitals: bp 110/70  Wt 183 lbs  Ht 65 inches
+
+
+
+Gen: NAD.  A&Ox4.
+
+Affect: normal
+
+HEENT: PERRLA. EOMs intact.  Oropharynx clear
+
+Neck: supple, no adenopathy, no thyromegaly or thyroid nodules.  NO carotid bruits
+
+Lungs: CTAB.  No crackles or wheezes
+
+Cardiac:  RRR.  No m/g/r
+
+Abdomen: soft, ND, NT, nl BS.  No masses or hsm
+
+Ext: no edema.  Pulses 1+ bilaterally. Feet warm. Monofilament normal.
+
+Back: no flank tenderness, no spinal tenderness
+
+Rectal:  Heme negative.  Prostate mildly enlarged - golf ball size, no nodules.
+
+Skin:  no unusual rashes or lesions noted.
+
+Neuro DTRs 2+ bilat, strength 5/5 bilat, gait nl
+
+
+
+A/P:
+
+
+
+Coronary artery disease : asymptomatic, cont medical management.
+
+
+
+Hyperlipidemia : on lipitor20 mg and lopid 600 bid. Will plan recheck f. lipids, sgpt, cpk today and adjust meds as needed
+
+
+
+glucose intolerance : counseled diet/exercise. Check glucose today
+
+
+
+Health Maintenance
+
+Prostate exam 01/13/2066 smooth, mildly enlarged - golf ball size 
+
+Stool Guaiac 01/13/2066 Done - negative 
+
+Influenza Vaccine 01/13/2066 
+
+Cholesterol 01/13/2066 Done/scheduled 
+
+Rectal exam 01/11/2065 prostate smooth, mildly enlarged - golf ball size 
+
+M-alb/creat ratio 10/11/2064 8.0 
+
+Pneumovax 01/11/2064 Done 
+
+Smoking status 01/13/2066 Past smoker 
+
+UA-Protein 04/08/2065 :N 
+
+Colonoscopy 01/04/2062 polyps removed per patient - repeat in 5 years 
+
+Ophthal Exam 01/13/2066 Done/scheduled 
+
+PSA 10/17/2064 1.6, fPSA 0.39 
+
+Urine Culture 03/22/2065 see report in Results 
+
+Td Booster 12/04/2064 injured finger 
+
+Triglycerides 04/08/2065 279 
+
+TSH 09/23/2065 1.65 
+
+Cholesterol-LDL 04/08/2065 86 DESIRABLE: <130
+
+Microalbumin 10/11/2064 0.9 
+
+Hct (Hematocrit) 09/20/2065 41.0 
+
+Hypoglycemia Assessment/Counseling 01/11/2065 
+
+Complete Physical Exam 01/13/2066 
+
+Cholesterol-HDL 04/08/2065 35 
+
+Hgb (Hemoglobin) 09/20/2065 14.6 
+
+HbA1c 09/20/2065 6.50 
+
+
+
+Flu vaccine given today
+
+PE 1 year
+
+f/u March-April
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+words
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+line
+
+
+
+
+
+
+
+
+
+
+
+
+
+patient
+
+
+
+
+
+
+
+
+
+names of the following
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+information.
+
+
+
+
+
+information
+
+
+ident information and identify information
+information
+
+information 
+information information line and identification
+
+ident 
+ident
+
+
+
+
+
+
+ident
+
+
+
+
+information
+
+
+
+[date identifiable, identifiable information
+names
+let, identify 1, identify, identify, and patient.
+The patient information, and identify
+
+and information
+or 0...
+
+
+
+and, 
+The following information
+
+
+or or
+
+name (and names, and, and name and date and and, name and the letter, and and and... 
+...
+
+
+... (…...
+(...
+
+are
+
+(1 or the or, 2 and 8.
+and, and names and, names, names, 0 (names, or.
+:
+:,
+[d...
+names and the patient names, the following the patient names and: the patient and name or:
+[1, the... (are or: 6, or:
+
+...: and are the 0:
+…
+... or: are are are: and the (and: (...(the, the [… (the and, or, the, a, and:
+make,
+andized, and the and ((1, the (and and…10 and, and the... include... 2...
+… (name-…. The - (and,... orific... (are... 0, are, and (...,
+, (and, and.
+, and, and, a or, and, 1. 1.1, (pat, (1. and the, 1, are, and, and, and, [1, and and,
+1 are and are and, or, a, "and, and, the...: and and and:...:...an...with [1 and and [patient: an and and,  [1 are [2 (indine are, indicate of... of  (name of 1 or " by or in,, the, the, 1 [le,.
+, of the of the or. and and and or,, an. an, 0 and,, an,, are (an may are (make of, ( and and,, 0- and-1, 1,, and and (.,, and and (and,, an, and and ( an and (1 an and, [ an, or, or, an and of, an an and, of, An, and,, and an, or,,,,, An, " and An An and, and and and:, " an. (and (: and-  "1 or (le- an: - an,- an and and an::: An (  (:: -d (:: or ( or (-: " and or: ( an:: - or an: and or- ( and and ( and " with ( or or: an: an or in or-0 an are and are or ( [ an and, and  an an an of the of and of., an in and and an- an an [ (,,, in and or [ or [,-  are [ an or [- or an an and an and and and ( and are are " - An and an and an and or - an  an,, (- an- an - an- are and or- [ or, are and of a of the of,, an or and -, and, or  or ( ( and, an an ( of " of an and " " an - an  " and ",- an in, ( are (- or  of an or An  an an an or or or or an or, an an, or [ - ( [ or an - an an an of " of, and, [ -, or and and or and - and (  An An and, or  are ( or  and  or and [ in "-  or (  an in  and-  and and  An C or ( and or, and  and and, or - and and An or, - and and and and,  ( or, ( ( or an  are or of  for  and of for ( 1 or,  An ( 0 ( and an an c of and, of of  of  of,,, of, (,  or  and and and  and ( ( and and, and  (0, and or  and and or - an- and an or or,, an-M  and and C An An An P and and ( and or [ or an or and or, ((, ( ( An - ((  or or or  an-  C ( an [ and, ( or or and and  or  or ( m or of and  "  and-1 and 1- and 1 " and  and - C 1 and   ( :: C or and ( or c and  and and  c or or and and c c of or and  " and - and or  [ and " c or- or an an ( or... of [ of [ of of  of or, (  and and or  -  and, and  ( C  and  or and C of  of of of or c c and C and c,, - and  and  -  C An C,, and an  and ,, and. ( or and ( or,  C [ or   [  and, and, or  of and of -, of c - C  -  or (, , and ( and -, ( and  of - 0 an or   an, or or, or  and and an and, or and an,  (   ( C  - -, -  c, C in, and and and C  and,,  and ( and or ( and and  and    ( C (  ( and ( or, or and and, (, and,,, and, t  and, t and and and  and and and,, or t of and and, or of and, [ and  for and,,, [,, C C and. and and and and a,  and of of t and and ( and.. (. c. and ( and. T (,, ( and of ( and and and and,,,  or [, [. and and. C ( and.,. C, -, and or ( C with ( and.  and m - - C C and, t c,, T M and and ( C and A and and, T - and and and and C C or C and, C C ( ( and ( or and. ( T  T and. T A T, C or, and, and (, and,,,, A ( and and and,, and and ( C T C P. ( and and and and and, ( and C A ( a and and a, C A of, ( and c and. C Cl, ( A and c, and,, and M. and M, C (, and M, ( and, C M, ( C, and C ( or. and, Cl M, Cl and and C, ( A, C T and and ( A for, for. and (, P and., C F,, C

@@ -1,0 +1,378 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2083-08-26
+
+                     SILVER RIDGE EMERGENCY DEPT VISIT
+
+ 
+
+OROZCO,KYLE   560-40-78-5                     VISIT DATE: 08/26/83
+
+This is a preliminary dictation. 
+
+PRESENTING COMPLAINT and HISTORY OF PRESENTING COMPLAINT:  This 
+
+patient is a 58-year-old male with a history of hypertension and 
+
+diabetes who presents with fever and chills.  He is four weeks 
+
+status post revision of an aorto-bifemoral bypass graft, which got 
+
+infected and had to be revised.  He has been doing well, but now 
+
+presents here with a low-grade fever to 100.9 degrees F. (he states 
+
+his maximum temperature at home was 101 degrees F., while he was 
+
+taking Advil for the fever).  He presents for evaluation.  He has 
+
+had no drainage from the site, and has been home on IV Nafcillin 
+
+for the past two months secondary to his graft infection. 
+
+PAST MEDICAL HISTORY:  As above. 
+
+MEDICATIONS:  IV Nafcillin, Lasix, Zocor, and insulin. 
+
+ALLERGIES:  No known drug allergies. 
+
+PHYSICAL EXAMINATION:  The vital signs include a blood pressure of 
+
+179/85, a pulse of 91, respirations of 20, and a fever to 100.9 
+
+degrees F.  The HEENT examination is normal.  There are some 
+
+crackles at the left base, but the lungs are otherwise normal.  The 
+
+heart has a regular rate and rhythm.  The abdomen is soft and 
+
+non-tender, with good bowel sounds.  There is a right groin mass, 
+
+questionably a hematoma, with good pulses however.  The extremities 
+
+are well-perfused. 
+
+LABORATORY EVALUATION:  The electrolytes, BUN, and creatinine are 
+
+normal.  The blood sugar is 180.  The white count is normal at 3.7. 
+
+The hematocrit is 29.  The PT/PTT are pending.  The urinalysis is 
+
+negative so far, with microscopic pending. 
+
+THERAPY RENDERED/COURSE IN ED:  The patient was seen by Surgery. 
+
+The consensus was to order a CT scan of the abdomen, since the 
+
+patient had a fever at that point, and so the CT scan is pending. 
+
+Thus, the assessment was that this was a 58-year-old male with a 
+
+history of a recent revision of an aorto-bifemoral bypass graft, 
+
+who had been on two months of IV Nafcillin, and who presented with 
+
+a fever.  Laboratory studies are done and cultures sent.  A Surgery 
+
+consultation and abdominal CT scan were ordered, and results were 
+
+pending.  The patient was admitted to the Emergency Department 
+
+Observation Unit awaiting the scan, full evaluation, and 
+
+disposition.  The patient was signed out to the 3 p.m. attending. 
+
+CONSULTATIONS (INCLUDING PCP):  Surgery. 
+
+FINAL DIAGNOSIS:  Fever. 
+
+DISPOSITION (including condition upon discharge):  The patient is 
+
+admitted to the Emergency Department Observation Unit in stable 
+
+condition. 
+
+___________________________________                    VF918/05141
+
+PERRY UPSHAW, M.D.       PU38                           D:08/26/83 
+
+                                                       T:08/27/83 
+
+Dictated by:  PERRY UPSHAW, M.D.       PU38 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+                     PATIENT INFORMATION
+
+                     PATIENT NAME: 
+                     KYLE OROZCO        PATIENT ID: 296259
+
+                         GENDER: 
+                         M
+
+                     AGE:  
+                      58
+
+                         ETHNICITY: 
+                         H
+
+                     RACE: 
+                      
+                         PRESCRIPTION INFORMATION: 
+                         NONE
+
+                        MEDICATIONS: 
+                         NAFCILIN (INJECTABLE)                                                                            
+                         LASIX (INJECTABLE)                                              
+                         ZOCOR (INJECTABLE)                  
+                         INSULIN                                              
+                         PERCOCET
+                         PERCOCET (PRN)
+                         LORTAB ACET
+                         LORAZEPAM PRN                                              
+                                                                                        
+                         OXYCONTIN PRN
+                                
+                         DURAGESIC (PATCH)
+                         OXYCONTIN SQ
+                         TORADOL IV
+                         TYLENOL PRN
+                      
+                         PHENERGAN PRN
+                         TYLENOL PRN
+                         TYLENOL PRN
+                         TYLENOL PRN
+                         PLAVIX
+                                
+                         HYDROCODONE/ APAP/ ASPIRIN PRN
+                         LORATADINE
+                         LOPRESSOR
+                         LOPRESOR
+                         PERCOCET PILLS PRN
+                         METHADONE
+                         VASOTROL
+                         TOPROL XL
+                         LORATADINE
+                         LOPRESSOR
+                         LOPRESOR
+                                                                  
+                                                                    
+                         PRESCRIBERS:
+                        SURG 89355000
+                         GEN MED 8305000
+                     
+                         FORMULARY:
+                     
+                         PATIENT DIAGNOSE
+                        CANCER
+                        
+                                    
+                         PATIENT ALLERGIES AND SENSES:
+                         NA
+                                                                 
+                         RECOMMENDED MEDICATIONS
+                       NA                                                                
+                      
+                         MEDICATIONS TO BE DISCONTINUED:
+                                   
+                                    
+                         MEDICATIONS THAT NEED TO BE PULLED AND/OR RESCANNED
+                                   
+                                    
+                         MEDICATIONS TO BE PULLED
+                               NA              
+                             
+                             MEDICATIONS TO BE RESCANNED:
+                                                    
+                           
+                         PHARMACIST RECORDED INTAKE
+                           NA
+                         PRESCRIPTION DOSAGES
+                           
+                                   
+                         PATIENT DIET:
+                         NA
+                         PATIENT LABORATORY RECORDED INTAKE
+                         NA
+                         PRESCRIPTION DIETS
+                                   
+                                    
+                         
+                        MEDICATION INTAKE INDICATED:                                                              
+                        NONE
+                                           
+                           
+                         PRESCRIPTION INTAKE INDICATED:                                        
+                        NONE
+                              
+                             
+                         DIAGNOSES:
+                        HYPERTENSION
+                        DIABETES
+                        PANCREATIC CANCER
+                        MALNUTRION
+                         
+                                                                                            
+                      DIAGNOSTICS:
+                         BMI
+                         AST, ALT, GLOB, PLT, GLU, K, CREA, CR, URIC ACID
+                                                                                              
+                                        C-ANCYTS
+                                                                                                
+                                            BLOOD GAS
+                                                                                            
+                        C-ANCYTES
+                         MU
+                         
+           
+           
+                                                                  
+                                                                 
+           
+                                                                                 
+                                                                  
+                                                                 
+           
+                                                                  
+                                                    
+                                                                 
+                                                     
+                                                       
+                                                       
+                                                    
+                                                    
+                                                    
+                                                     
+                                                    
+                                                                      
+            
+                           
+                                      
+                               
+                                       
+                                   
+                                           
+                               
+                                            
+                            
+                           
+                            
+                                      
+                             names
+\t\n,
+\n,
+\n,
+    and   
+                
+             names
+                
+                
+                
+           .
+
+
+
+
+
+
+
+\r...\n
+
+            
+
+
+
+
+
+            name
+
+            
+
+
+
+            and/date of date
+
+
+
+
+
+name
+
+
+
+names,
+
+names,
+patients and so that, names
+
+
+
+
+
+
+names,
+
+The name,
+
+\
+
+names,
+The doctor.
+
+
+name
+
+
+
+and
+
+names:
+
+names and date
+1,2 and/person names
+names, names, names
+
+
+
+The patient names,
+names and the names
+
+names. The date or 1, date names
+
+names or [1, date
+names names (names.names, names. the names
+the name
+names:
+name, and date the 5 lines of names of date of names, and the name of names
+or the name, but or... names of names
+name, date, and name the names, the names. or, or, or name.
+(1...
+and...
+
+... and...
+
+
+the 11.
+The name and are... (10 and the 3 and the patient identifier names.
+names and names, names, etc of the [name and...
+. 1:1:
+name:
+and, the following patient, you, and: words, name of:, the “1:... or 1 or a few or […: 16:...of are... 1, or...
+1... or the name 1 are, or (
+the,  and, 3 of a patient or:
+
+The or, and, [and, or, the, 8, the: "that and of the or, "…the: and (are and would... 20 6, and (... and, oratory and...
+
+(
+, "and, and, or, "in or, 
+.
+, and and (2 or, the [, 20, and, the, and and, and, 1, 1 (1 and (1, 1 (1 and and are, and, and, are, and and can, the (1, the,  ([and,
+: 1 and, an (1 and the patient,1...patian "
+“ and:1 "2 and. are...1-conise, are are are-1 that are, the (1 of the or : or,  (1-1 or. an, an, (pat.,. (of the. of the [an, and, and, the, 2 (an, and ( anine- an an are the may and the (an-ann, the and 1, and an and... an, 1 
+-- an and of the and 1 and 1,  an an of the, or and an, an (and, 0, 2, an-of or-an- and an, an, and, the, and, 3, 9, an and and, and, and, a, C, 1, an, “0, an and, 1-1, an and-an-an of 3-1: and-and and:: : “ an:: ( : " : and:  and-the: and-an-le,-conise: an ( an " with an: an an: " an in the,: ( or - are-in-and-any or [-1,. of. of the and.. [and, and and [. in an  in and ( ( or or in an and ( [ and [ and in [0 and or 0 (,,-an and-  an  and-  and-  “ an  ( and,- an, an, and ( or [ -1 ( or of and of  of the an of ( and, -an [- and,  and ( and - and ( and and ( of [.  of the,  or [ and,, (- are  or in, or an and  of (- or or or-  or and an or,  an and- an- ( and and-  and (, by  of " and by- an an  [ and-1  an and, in or  and  an in  of a  or  ( or or  an-1 ( and and  an,  of an and-  and, ( ( of the and. and or, and- an and (- and or, and,- or- or and of - of  of an or0 (1 -1- an and- and (- and, and of an,  of, of the of an of and of  of  of,,, and- an, and- and.,, and,  and (  ( [0-1 [ an  or- 10-1- an an of an- -1 and and and  and - an and ( and- and-  an an an- ( or and  [ or [ or  or ( ( -1 in an and ( or- and, an " of  and of ( and of [- and  and [ -1-1 and- and- and- and- ( - and: or and an (:-1-1-2-1 or.- ( c and and. an and and " of an- and of and  and-3-c-  and-h- - and  of the of an of and of of ( of, and of  (,, and to and and and (, a-  and-0 and of the of ( of  of-1 of (- (1 and and.- or -, and an.,- or  and an and an,, and an and and,  and,  (- and-1 ( and and - and and of of and of of and ( an or and, and ( and, and-0 (- and and and and of  of. and (-1 and-  ( ( and and ( and or, (  by, and- or an an. or, or [ or. and and, and and and-c and ( and and  and [ and a, and (0 and or,, by and,, and or an, an or- and a and and and, and and ( ( and and, and,-2,, and, and, and and and, (, and and,,, or and and or (,, and and and and,, and and and, and,, of and of a of of the of or on and,,- and,  and and and and ( and, and of, and,,,, and (, and and and and and in, and-h- ( ( and, ( or and and an and [ or or and ( and t ( ( an ( and ( to [- ( and and, and, and of and and and and, and ( and and and ( and and ( and ( ( and [ and, or (, _ and, [ and (, and, and or and ( and a and and _ [ C, and and, and a _ ( and and and, ( and, and, and and, or and ( and, and and and, and and and,, and _ (, [ to of a  as, and ( on,- on and, and as and and, [, a and and, and (,,, and and, and ( and, and to and ( and,.,,, and and and  ( and ( and, and. a is,, is and and, and,,,.,,. ( for an,,, for

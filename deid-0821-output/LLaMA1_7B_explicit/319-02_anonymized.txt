@@ -1,0 +1,932 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2087-03-11
+
+Telephone call from pt
+
+Complaining of brief episodes of feeling faint, sweaty on the back of his neck yesterday and today. Sxs resolve when he sits down and rests a few minutes. No associated sxs headaches, ataxia, vertigo, nausea, palps, CP, SOB, URI sxs, fever, trauma. Checked fingerstick when sxs developed today, 125. Drank orange juice, but sxs persisted, resolved after approx 1hr.
+
+Problems
+
+Elevated cholesterol 
+
+PSYCH DISORDER: ANXIETY,PARANOIA, DEPRESSION 
+
+PERSONALITY DISORDER 
+
+H/O hematuria 
+
+H/O breast mass 
+
+Hypertension 
+
+Borderline diabetes mellitus 
+
+Overweight 
+
+Erectile dysfunction 
+
+
+
+Medications
+
+Risperdal (RISPERIDONE) 3 MG PO QD
+
+Tegretol (CARBAMAZEPINE) 400 MG PO QD
+
+Paxil (PAROXETINE) 40MG, 1 Tablet(s) PO QD
+
+Depakote (DIVALPROEX Sodium) 500MG, 2 Tablet(s) PO QD
+
+Thorazine (CHLORPROMAZINE Hcl) 25MG, 1/2 Tablet(s) PO QD
+
+ASA 81 MG PO QD
+
+Hctz (HYDROCHLOROTHIAZIDE) 25MG, 1 Tablet(s) PO QD
+
+LISINOPRIL 10MG, 1 Tablet(s) PO QD
+
+Folate (FOLIC Acid) 1MG, 1 Tablet(s) PO QD
+
+Lipitor (ATORVASTATIN) 20MG, 1 Tablet(s) PO QD
+
+METFORMIN 500MG, 1 Tablet(s) PO BID 
+
+
+
+He declines appt today for eval. Urged to come to ED today for eval if sxs worsen. Otherwise, agrees to urgent care appt tomorrow at 2:50pm.
+
+
+
+
+
+_____________________________________________
+
+Patricia Y Whittaker,N.P.,M.S.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------END PHYSICIAN NOTATION--------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------START PEDIATRICIAN NOTATION---------------------------------------
+
+
+Record date: 2007-05-10
+
+Tel: 4841563
+
+Sex: F
+
+Age: 12
+
+Ht/Wt: 5'/51"
+
+Pt. of care: 2087-04-27
+
+Sx: Masturbation 2 times/wk: 1 week
+
+Pregnancy: no
+
+Sx: Masturbation 4 times/wk: 1 week
+
+Sx: Oral sx 3 times/wk: 1 week
+
+Sx: Vaginal sx 1 time/wk: 1 week
+
+Sx: Anal sx 0 times/wk: 1 week
+
+MH: no
+
+Medications
+
+Sexually transmitted diseases
+
+Sexual abuse
+
+Drug abuse
+
+--------------------------------END PEDIATRICIAN NOTATION-------------------
+
+
+Record date: 2007-05-12
+
+Tel: 1335173534
+
+Sex: F
+
+Height/Weight: 5'/150
+
+Pt. of care: 2087-05-12 13:15
+
+Sex: masturbation 2 times/wk: last 3 days
+
+Pregnancy: no
+
+Sex: masturbation 3 times/wk: last 3 days
+
+Sex: Oral sx 1 time: last 3 days
+
+Sex: Vaginal sx 1 time: last 3 days
+
+Sex: Anal sx 1 time: last 3 days
+
+HIV
+
+Blood transfusion
+
+Sexually transmitted diseases
+
+Sexual abuse
+
+Drug abuse
+
+------------------------------END PATIENT NOTATION-----------------------
+
+
+Record date: 2007-08-10
+
+Tel: 1234567890
+
+Sex: M
+
+MH: no
+
+Drug abuse: none
+
+HIV status: no
+
+Blood transfusion: none
+
+Sexually transmitted diseases: none
+
+Sexual abuse: none
+
+Sexually active: yes
+
+--------------------------END PATIENT NOTATION----------------------
+
+
+-------------------------------------------------------------------------------------
+
+
+
+Record date: 2007-08-24
+
+Tel: 45678
+
+Sex: M
+
+Sx: Masturbation 2 times/wk: 1 time in the past month
+
+Ht/Wt: 5'/63
+
+Pt. of care: 2007-08-24 14:33
+
+Blood transfusion history: no
+
+Sexually transmitted diseases history: no
+
+-----------------------------------------------END PATIENT NOTATION--------------
+
+
+
+
+Record date: 2007-08-27
+
+Tel: 484156945701231911
+
+Sex: M
+
+MH: no
+
+HIV: no
+
+Medications
+
+Sexual abuse: none
+
+Sexually transmitted diseases: none
+
+------------------------------END PATIENT NOTATION------------------------------
+
+Record date: 2007-08-28
+
+Tel: 484873192
+
+Sx: Masturbation 0 times/wk: last 3 times in the past 2 weeks
+of time: 3 weeks: in the past 4 weeks in weeks: in weeks: in weeks: in weeks: in weeks, in weeks: in weeks: in weeks: in weeks: in months
+:  in weeks: in months:
+
+
+
+
+
+
+
+
+: in weeks: months
+in weeks: in
+
+in weeks: in weeks:,
+in months, or weeks: in weeks, in weeks in weeks of in weeks, in years. in the
+in weeks in weeks: weeks in weeks,
+in weeks, weeks in words in years, weeks,
+
+in words, etc., in the weeks of in weeks:,
+in words: in words. in words,
+in words, in weeks in words, and 
+in words, words.
+words in years, in words words
+ter words, words, please words, words words, in words.
+words, in words patients, in words: the names
+
+in words, in words, 
+years, in words,
+in words:
+in words in the words, in words in words:
+
+in words and words, the patient, the words,
+and the patient in words, words and words
+in.
+
+words in 
+words, words in the words in words in the names, in names
+The names, and names, or, as [the names, and [
+...
+
+10, and...
+and a...in...
+The are, but, or...
+by the, the words and any.
+
+the patient, and patient names, the name, and the names, the:
+The...the...1:1.
+d: the patient and the...the [you's... (the patient: 1:
+…: the... [1: (in the patient:…
+... 1 of the 10 are [1 are are 1 are... the... 1 and the and the, or, the [[10 (the (1, but…, the, or 2:
+(1 (1 (make: and [[(1 (the and the... are [1 are … 1... [1-1, the and,... 10 or,  (and, and 5, and, or, or, or, and, 1, as, and [, [[,... or the, [0, [, as...
+, and...and, the, and and [, and are, and in and 0, 1, 1, and a...  (1, and the, (: the and the...:  in the and: the (anize 2 [(1 “c "1 " and and...…. (1 [1 [re are-pat... are and-1 or of "and of  in [ or "... or,, the, (1. [, and, and, an of " of the of (. (,, or, but, and, and a (d, are the-le are  are a are an, and, a, an, or ( an... the, a ( and an,, and ( an ( an (  (an,,,  and and, ( and, an,  or, or and an,,, an of " or ( an or of,,, [1 and, (, or, and, 1, " and,,,  and [, ( (1, and, ( and,  (le (1, -le or, and..: - : (: : -: an... [::: :: ( and- an:: [ [:: an [: an and: an: :: ( and (: in a: and ( or (- and  [ and or- are- " an and,  and an  an an and of the of the [ and, (. or in the, and and and,, and,  -, [-  and  ( [,: and,, [ and.○, and: in  ", [,, " or (,, an and and ", - ( an [ an  an  or and- (  or,, " of,, ( and of or, of, and, -an of and, and and,, and,, an, of or of and of ( of, [ of of (, or an,,, an and ( ",  in  are,, (, an or, or  or an,, (,,,, in [ and or  of, of of in: and of and of and. Archivlink and ( and or - ( or (- 0  and " are 1  in " and  and or [- or 11 (, [ ( an- -  and, and, [ of and of  and, and an are ( or, and or " of and or [ are or and, (, and and of and of, or or and and, An C0 ( [ and, 0 ( or an and were, are of [ of  and of the of an of the of, [ and of and of the of the of C and, and and and and, and and and, and  and, and an and an and an and and, and,  and ( tom in and in, tom [0 tomine tom of an ( an or An An An An and  ( ( and an, and ( and or and and. and in, an C and, and and an an [ in the and and in an in and are an of an  of the of [ an or m p and ( an ( C C ( c: ( C.: C: C ( an: m a ( [ C t (: and ( C tine or and C ( c ( or an C of the  ( tom and [ ( and tom and tom or and and and and and, An An of and of, of, of an of an and [ ( [ or and, and An and ( and an, ( or ( or, and of C of ( of An of of an of ( of M An M (,,, (,, [ ( C an,, an, M (,, an, M An or., (, or C ( H ( ( M, [ [ or [, and M or of, of C of ( C H C M ( ( M (,, and C of an, and of of ( C of an [ an an M ( C an in and H, [ and ( ( C An C an, ( H of an an m t m or and, H ( M or C t or M ( m m or ( H [ H t and H C ( H and an, an m. [, ( ano. ano (, ( H H an C m H an, and and an ( and, H C H and and and and for,,, and, (,,,,,, m, and, H (, H. and H and H, H, an (,,.., an an an m. ( an m. C T.. an M M of m of ano, H C m H (, (, M of m. C, M [ H,., ( C. an t and (, m for. an, ( C, C C ( an. m. ( H C ano. an m. ano M m M H m an M H M M C M H ( and, ( an and m t m, ( ano an ( ( ( C. ( an _ M ( t C ( H [ m. m ( ( t.. ( H an ( H an (, ( H an, [ C As H (, an M M, H ( C M C C (, an an t M C and ( C T C H As (, ( A M T H ( C C M C, C An C and ( and C C of and of t and of M of, H of C, H of m t M and A and and _. T, As A As Cl and As M As C A C M ( P T ( T T C P C T, C P P, Cl., As ( As As

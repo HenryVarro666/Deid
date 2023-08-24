@@ -1,0 +1,234 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2126-01-04
+
+This is an urgent care visit for Mr. Valdivia.he is c/o URI like sx with nasal congestion, non productive couch and sore throat for several days. he is also c/o pressure in his sinuses and congestion in his eyes with excessive tearing. He has also been c/o progreesive SOB, he is diabetic with CAD s/p CABG and states that after his cardiac rehab finished about two months ago he sarted c/o progressively worsening SOB and he is now back to the level he was at before his surgery with SOB developing after walking for 50 yards. he has been compliant with his medications and contacted his cardiologist regarding these sx and was told he should be seen today by the cardiologist covering for his regular cardiologist who is away, but he refused and opted to wait till his cardiologist comes back next week. he denies any chest pain, but admits to bipedal swelling frequently. 
+
+ROS: negative in detail except as above.
+
+PROBLEMS
+
+Retinopathy  s/p treatment, Dr. Lau, HWS
+
+Hypertension  
+
+Obesity  
+
+Hyperlipidemia  
+
+Peripheral vascular disease  claudication
+
+Insomnia  since service.  NTI helped a little in past, not after a while.
+
+Impotence  w/u neg 5/23-treated with viagra with good result
+
+H/O Low back pain  treated with PT in the past; c/o 10/24-treated with nortryptiline
+
+PTSD  
+
+Glaucoma  Dr. Massey, HWS
+
+Tachycardia  (sinus)
+
+Coronary artery disease  s/p CABG 5/25
+
+PAST Medical History  Tinea corporis resolved 18Axillary intertrigo 4/19h/o Substance abuse, distantR leg Fx x2Pneumonia in serviceEtOH sober 2114greater then 
+
+Social history  Lives alone, seperated from wife 19, still work together at CNET (manager), along with son.  24 Working less.  Dating monogamously Laura 23greater then .  No pets. Grew up Brownstown, BS math Brown U., near MA math.  Served in Air Force in Canada, pilot.  
+
+Family history  (+)(-)prostate/colonCa/CADPGP d 80s ?cause, MGF d90 age, MGM d73 CVAM d 73 stomach Ca, OA, obeseF d 84 multi-infarct dementiaS b66 DMS b74 DMSon b93D b94 GC due22D Fran b03 Abn pap24 Nephropathy  3/25 UTPro/Cre 2340/2.3 Diabetes mellitus  Type 2
+
+MEDICATIONS
+
+GLUCOPHAGE (METFORMIN) Variable      PO  
+
+ZESTRIL (LISINOPRIL)   10MG  1 Tablet(s) PO QD  
+
+ASA (ACETYLSALICYLIC ACID)   325MG  1 Tablet(s) PO QD 
+
+LIPITOR (ATORVASTATIN)   20MG  1 Tablet(s) PO QHS 
+
+TOPROL XL (METOPROLOL (SUST. REL.))   200MG  1.5 Tablet(s) PO QD 
+
+FUROSEMIDE   20MG  1 Tablet(s) PO QD 
+
+NPH HUMULIN INSULIN (INSULIN NPH HUMAN) Variable      SC   
+
+insulin syringes USE AS        disp #100 order number 38/48
+
+ALLERGY
+
+NKDA    
+
+PE: in no acute distress.
+
+VITAL SIGNS
+
+BLOOD PRESSURE  150/90 repeat BP 150/90
+
+TEMPERATURE  97.8
+
+Perrla eomi, throat: erythematous with lots of secretions but no pus or whitish lesions. sig nasal congestion moderate sinus pressure on percussion no pain. lungs: minimal bibasilar crackles. CVS: s1s2 rrr. abdomen: obese soft NT good BS. ext: minimal pitting edema.  neuro: non focal
+
+A/P:
+
+1) URI like sx with pharyngitis and some sinus pressure. will get throat cx to r/o strep throat. will also give a course of zithromax 500 x1 then 250 qd for 4 days. pt to call in AM to get results of throat cx. will give cepacol OTC for sore throat relief and afrin spray for nasal congetsion.
+
+2) SOB/CVS symptoms I advised the patient that he needs to go to the EW now to be evaluated for his cardiac symptoms and explained to him that his diabetes, his Hx of CAD/CABG and the recurrence of his sx  puts him at a significant high risk . I offered to send him by ambulance from here, he did not want to go to EW, did not want an ECG stating that he will see his cardiologist next week. he clearly understands the risks and benefits including the risk of death if he does not go to EW today.
+
+3) increased BP, he said he is compliant with his meds,he agreed to come back in Am for recheck.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4) Hx of low back pain with no radiation. will give him a prescription for nortriptyline 25mg  qhs and a prescription for physical therapy 4 times a week for 4 weeks.
+
+5) PTSD, will refer to a psychiatrist.
+
+
+
+
+
+
+
+6) NTI, will continue as he has been taking it.
+
+7) will continue with the 25mg of zithromax 500mg qd.
+
+12) HB/S: normal.
+
+13) HC: normal
+
+14) ROS: negative. (see above)
+
+15) HX: 1/22, tinea of axilla, treated, 2.12-20x, 
+                  2.25-23x, 2.35-20x.
+                     2.35-20x, 2.44-23x, 2.51-23x.
+                     2.61-23x.
+                     2.70-24x.
+                     2.71-23x.
+                     2.79-22x, 2.81-25x.
+                     2.89-22x.
+                     3.00-19x.
+                     3.15-27x.
+                     3.20-20x.
+                     3.21-18x.
+                     3.25-23x.
+                     3.34-23x.
+                     3.47-32x.
+                     3.48-27x, 4.07-26x.
+                     4.09-27x.
+                     4.18-25x.
+                     4.37-19x, 5.03-24x.
+                     5.07-22x.
+                     5.15-22x.
+                     5.20-20x, 5.32-23x.
+                     5.41-22x.
+                     5.50-23x.
+                     5.52-22x, 5.74-22x.
+                     5.75-23x, 5.94-21x.
+                     5.99-22x, 6.12-21x.
+                     6.20-24x.
+                     6.33-24x.
+                     6.44-27x.
+                     6.59-29x.
+                     6.75-29x.
+                     6.99-30x.
+                     7.15-28x.
+                     7.35-27x.
+                     7.41-24x.
+                     8.00-30x.
+                     8.17x. 
+
+                     8.11x.
+                     8.
+
+                
+                 110x.
+                 880
+
+                 10.
+
+                 80120x.
+
+
+
+
+
+
+135.
+10130
+
+
+
+
+120.
+2.
+112, 12
+120s.
+1801259.12.101.201115, 1010. 
+210114.
+
+
+1.1
+
+14, 14,
+123
+123
+1212
+342
+11222 and 124 and 14 names, 14
+15,24.
+201, or 2
+2.
+1.
+11112323, 0.
+
+10 or a letter 25 letter names. 1, the letter, the names.
+
+
+1, 10 or 5...2, 1,12 of 12. 1, 17. 2, 10...
+and the name 1, 1, 1.
+
+
+(or and the last and the last.
+The letter or, coded, or are 125, but are or, the last, as the date, the 0. 
+(the names, name and name of...
+
+.
+: the following, as a 01 and your name: 1, the patient names, the, 31 or name: 610: [1... are the patient, 0s......
+…
+:12...
+by the... and the… 1 and the...
+(noted, or, and the following, and the following (…or. and (and (the:1 and are the, the 2 (d 
+and or...
+... and 
+
+and or...
+11-11 (… and...
+The 1…, and (…, and the...1 (2, 1, or, 7, 1, and (and (...1 and the, or, and, and and, and (2, 2, and are and are and 2 and the, and and (and and the [and and, are, and and and, and are a (1 or of a and, the and, the and the and a and the (c ([:... with the (1 with a "1: and:... 4 " and the [0 are... (3-1 are are are in the (1-and, "by 1 [in the ( 6 or [1, (d, orices (d, the, of the. 1 and and, an, an (2 an, are, an, an or an would the or are a, are an (an an an (1 (1 and, an, a-an, a, an, the, and, and a, 3, an, the and, 1 an an, an an, or an, 1, an, an an and, or an, the an in, and, and, the, 1, an and the, and (  (1 and the, the, and the: and the and the, (0-2, an, (1 an, an and 1: the and the: : and: 1 or: (1 in your: the-the: ( an and: ( an... [1-  or:  an:
+ an-d -1 an an with or an: an and of an are ( or are [0 are- are an in the and-an-p or of it of and ( and the, in the an and and [ and,
+, the, [ an... (, and  and are and and in [ or...: and, an, [ an in or in the an and are ( an ( an,  in ( and, an and and, an and... ( an-an- or or, an or ( are of the are of of the and of an, and of a an and and ( ( and in, ( by the and, or an and of of a of the an an ( an and,. an,  or an in  (  or of  ( an of in or an or in the or or- [, or  and, or or, and - an and, of,, and  of the  ( and and and and in and an in and - in, ( and in and and  are or in or of  or,  and- and, and in  an-1 and ( ( or,, and, or  - of  and and and, (, or. and  and,, or or, or  or ( or or of or and of and of and, of and, or  ( an.  or  and,, - or an of the and of of the of of,, of  of the to of and- to of and and and,,, to, (,, in, to  an,  and and to to, c ( for an ( for and, for to of for for for for for for to for and for to to and- to to (, or and or ( or and and, - to., to an to and ( and ( ( c and  or ( -, or, c c of  c,, of and or of the c ( ( (, - to ( to and, c c- c- and (- c and: and c  and c (- -0 (- - - and,,,,, of c and or of the of the and (  " and ( C and " c, or or [ (- and of or of or of [ in and of ( c- c c or (,, ( ( ( and-, and or and ( and, C ( or or and to or- (  or or and- and, C  c or- [  and, and,,. (, -  and  to to and to for to or to  - ( or,, and ( (: ( and ( of or of and of of ( H and and, (, and and,,, c,,,  and or (, ( or, C and  to mas- ( ( or, [ and (. and, c- and or and or and, and, and,,,,  and and (  and, and C c ( c, (, ( and and and and ( and ( and, c. or, C ( (, ( or c ( and, c in, ( and  ( and and and. 0/ and-  C-, and,,,, C and,,,,, C, (, H ( ( H c and, (,,, c L and,,,, H C- L (, L for- C for C H C.- H A and,,, H, (,, and to and,, and,,, c and, or. ( C H H- for, to, for, for ( to H and c. to for " and to c for a c to c and and and c ( I for and, to c and ( to and for ( to to  to for for C H I H and and,.. c H and (, a c or and ( H c  c. and, (, or c w ( and and, H P A and ( P ( H, to C ( ( for H, for or ( c to for, to for or c c to, to or to H for for to c to to to to to ( to and c c to a to or a, to, for to, to and a, to for for for a for to c for for, a for c for  and to for or,, ( for, a a to a or C and c ( H and H a and,, c a c and, and and (,, to

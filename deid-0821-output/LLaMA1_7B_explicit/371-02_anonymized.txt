@@ -1,0 +1,694 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2076-03-23
+
+
+
+
+
+                                      Lakeview Clinic Note
+
+
+
+Patient comes in today for follow-up of recent hospitalization for L1 fracture following a fall. She was in her usual state of health until 2 months ago when she suffered a mechanical fall while visiting family in South Korea. She sustained an L1 fracture without surgical intervention, and returned to canada where she presented to the ED on 3/9/76 wiht back pain, L1 planar fracture with evidence of minimal cord compressionl She was admitted and seen by neurosurgery who felt that there was no acute indication for surgery. Since then, she has had continued pain in her back with occasional burning in her feet but no numbness or tingling. She would like to undergo surgery at this point because her pain is intolerable. She is in contact with a neurosurgeon at this time regarding when to proceed with surgery.
+
+
+
+She is otherwise doing well. ROS positive for chest tightness with walking one block with some feeling of being "winded." She does not have this feeling at rest, and states it has been ongoing for the past year. She describes some peripheral edema, as well as PND.
+
+
+
+Also c/o left eye tearing and R ear itching. no eye pain or change in her vision.
+
+
+
+
+
+Problems
+
+Hypertension 
+
+Elevated cholesterol 
+
+Cervical polyp 
+
+endometrial polyp 
+
+osteoarthritis 
+
+Sleep apnea 
+
+
+
+
+
+Current Medications:
+
+DIOVAN 80 mg PO QD
+
+Nexium (ESOMEPRAZOLE) 20 MG PO QD x 30 day(s)
+
+HYDROCHLOROTHIAZIDE 25MG, 1 Tablet(s) PO QD
+
+Celebrex (CELECOXIB) 100MG, 1 Capsule(s) PO bid
+
+Levothyroxine Sodium 125MCG, 1 Tablet(s) PO QD x 30 day(s)
+
+Caltrate And D 2 TABS PO qd x 30 day(s)
+
+Percocet (OXYCODONE+APAP) 325-5, 1 Tablet(s) PO Q6H x 20 day(s)
+
+Lopid (GEMFIBROZIL) 600MG, 1 Tablet(s) PO QPM x 30 day(s)
+
+Lopressor (METOPROLOL Tartrate) 12.5MG, 1 Tablet(s) PO BID x 30 day(s)
+
+fosomax 70 PO qwk x 30 day(s) 
+
+
+
+Physical Exam	
+
+
+
+VSS:       BP144/76 , wt 209 lbs     
+
+HEENT:   no mouth lesions
+
+Thyroid:   no thyromegaly
+
+Chest:     scant crackles at bilateral bases
+
+Heart:      regular rate and rhythm, S1 and S2 normal, no gallops, no murmurs  
+
+Abd:        soft, NT/ND
+
+Extr:        1-2+ ankle edema, brisk capillary refill
+
+
+
+
+
+Recent Relevant Data:
+
+random glucose 148
+
+Hemoglobin A1c: 6.8
+
+CBC, chem 7, tash, cholesterol all WNL in march 2076. iPTH 41, alk phos hi at 129, nl LFTs, ESR 34
+
+SPEP negative, bone scan with osteopenia, mammogram negative
+
+CXR with ? of confluence of shadows vs nodule at 2nd rib space, favor shadows, ecg with T wave abnormalities and low qrs voltages
+
+ETT 2074 10 min 82% predicted negative for ischmia
+
+Echo 2074 EF 60%
+
+Assessment and Current Plan:
+
+67 yo F with recent L1 planar fracture and multiple medical problems including HTN and new DM
+
+1.  Neurosurg for possible surgery later this month, percocet for pain control
+
+
+
+       - will need PFTs pre-op given some c/o DOE
+
+2.  CV:  will also need nuclear study of heart given anginal sx's and new T wave abnormalities on ECG. Cannot do ETT given resting ECG abnormalities, and will need pharmocologic stress given she cannot walk from back pain.
+
+- will start her on lasix both for BP and for diuresis as she appears volume overloaded.
+
+- will rpt echo if dobutamine MIBI not informative
+
+       
+
+3.optho referral per pt request for eye tearing
+
+
+
+        
+
+4.elevated gluc and A1c concerning for new DM. However, given only 1 high b.s documented and A1C borderline elevated, I have advised her that we can probably control this with diet, exercise, and wt loss.She will see nutrition to help her avoid high carb foods and to lose wt . If this fails to control her DM we will start her on Metformin. She will need optho eval for this reason as well.
+
+
+
+        5. Pt with strong fhx of uterine ca, wishes to see GYN regarding screening for this. She denies sx's of      vaginal bleeding at this pt.
+
+
+
+         6.consider rpt CXR given ?of shadow vs nodule.
+
+
+
+         7. will review HM at next visit
+
+
+
+Patient will return for a follow-up visit in clinic in 1 wk for chem 7 and 1 month to see me re bp and volume status .
+
+
+
+
+
+========================== Preceptor's Note ==========================
+
+
+
+67 yr old woman with recent L1 fracture, with minimal cord compression, has had persistent pain and is in contact with a neurosurgeon for consideration of surgery.  Also has had some exertional chest pain in last yr, and has baseline EKG T wave changes, and is unable to do treadmill due to back pain. Will get dobutamine MIBI study.  Repeat CXR as above in resident's note.
+
+
+
+
+
+================= Resident's Note ===================
+
+
+
+This patient is 67 yrs old with recent L1 fracture without surgical intervention. She presented to the ED with pain 2 months ago with no neurologic deficits.  The neurosurgeon decided at the time not to operate as the fracture did not appear to be acutely unstable and she was otherwise doing well. She has had pain in her back which has worsened in the past month.  She also has peripheral edema, PND, chest tightness with walking one block, and occasional burning in her feet.  She will have a dobutamine MIBI.  She has a history of hypertension and osteoporosis (but not recent). She was diagnosed with diabetes 2 months ago, but is currently not on treatment.  She is otherwise doing well. ROS positive for chest tightness with walking one block with some feeling of being "winded." She does not have this feeling at rest, and she states it has been ongoing for the past year. She describes some peripheral edema, as well as PND.  She has no family history of osteoporosis.    No eye tearing. No ear itch.  No ear pain or change in her vision. No chest pain.  No family history of HTN.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+She is otherwise healthy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{tabular}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+names (doctors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+or
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+words
+
+let the 
+
+The doctor
+
+
+
+
+
+do.
+
+
+
+
+
+
+
+and the date
+
+
+of the patient
+and
+date and
+or the
+
+
+
+
+
+the clinical 
+
+
+do 
+(...
+
+patients and/date patient
+and patient, or the patient, but the patient (are
+...or 
+and 
+
+.
+or.
+
+11
+
+
+or, and, and remove, and... and the [… and and, and
+and, and, and the [... [...
+
+
+[…
+
+are... of the patient...
+or,
+
+
+or.
+...
+
+[1.
+The…
+
+(1, and the
+...
+...
+:
+1...
+
+
+names, names of the names in the patient: patient’, 2, your, and, but…
+The…
+
+(…
+:
+
+
+
+[11 (...…:
+and and... are: 
+
+
+
+or names, and are or...
+remove or, the following (1, or...
+the or, or and the...
+are.
+
+1, the "the 3 of the “the and the…and, the,... the 0 are (...
+make-
+1 of the, the, 120, oratory,... and, and 6, the, 
+...
+
+
+
+, 1 and, and or of... and, or the, an, 0, an, or, and... are of the [and, the are, the, and, and the, and are, and, 
+
+and are, an... of the…, 1: (... the...:
+c: anities, anite and with the…. "... "an... and. 1...
+...  are... an (d are- 3 are-and in... an…
+ by the-in, an, a,
+,
+. or (s, (d. 1 of the, and,, and, the, [and an (2 an and, an, anise, can an may, an and are (in of a and, an, an and-1, (le- an, 1, an, [an (,..., 3 of  and, an and, 5-in, and, an, an of it, 2, and, ( an, an an of the and,,, an, an, 3, "1, [in, an (pro an: 7 and: "an, (and, the "1 and an,, of the (make in  (: an, of -1, and-1 (: and- : " (-
+: the-and: "an:
+: " 1 an or an in  or: an and ( an an " - an- an- ( an and-an are 1 are " and ( an and  an and an an an and of it of an of an [ an ( [. and, and,,, and... and or [[ an [ ( and, [ and, and " or and [ [ an an- and- or an-d- [ an, an an are " - and,  an " an,... ( and  " - an of  ( are (,  of  of are of a or, ( of, and ( and, ( in the, in,, an,,,, in,- of the of the ( and and  and  and  and, [- or, and, in-  (  or of the for or or- or of  an,, or,,  in,-  of - of,  of- of the-1  (, (,,  or, and,,  " of (, or and of and  of the of ( "- (- an ( - and- [ ( [1, and and and - and, and,, and and, and. ( or  or and, and (  and, (, or and for of and, of and  of or,0 of for, 0 -le of " C,,,, C of the,  of, of ( of an of the and of and (,- and,,,, and, (-c of, c-t  and -. -  or  (  in  in and -,- or of 1-P C An C An- and-1-  - [ - and or ( - - ( or- or (,  ( ( or  C  C " c  [  c -  ( -  c, " or ( m or of ( or " ( c 1 C - C-0 C C C C " ( " ( C-  " and  C C : and  and and  and  or - C (-1  c c and ( C and and- " "  ( or “1 and  or or -  or and or,  or, and and for of, for of  for (,- and or c and or - (- C C,.  and, or of of C of and of  of of of and of of of  of  and -  C  and  or  and,  C in  or,,. and  and. ( and and ( ( ( - and  c (:  -  - - c- of of -  c " -, and and  or ( and, (, - C C and an of  an C (1,, C in ( ( - or., ( and. an,  or and, - and and ( or- and and in and [ and- P,  and ( C, in, and,, C (- and in- and, and (- or- ( and and  in- - in- to   and to- - and,-1- -,  and, (, ( -,,,,, and-, and of  ( C (, and- or,- - and,- C,., for,  and for and for, for  for (, C- c-  in c-  - R - C,, for for and, - for and, and -,,, P., C, and -  M in- ( (, and C C in or (  ( M P ( and- P - and- or- ( M and and ( and and to ( (, and, to - and.- M- (, C and. and,, and ( C ( M of. of ( ( (- and and, m,  and, ( ( and- w.,,, C and and, and,  - and for for and. and, for  and- M - for,, ( and,  a m-  m, M- and M C  to and ( ( and, - and a  a and,1 and of, and of, (, (, ( and, and. - and, and, and and and, for for for ( M (, and C. C  M and or  and,-1/ and and, and, and of (,, of  of,

@@ -1,0 +1,314 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2120-09-08
+
+                     MARY EMERGENCY DEPT VISIT
+
+ 
+
+RODRIQUEZ,JACOB   863-35-65-5                       VISIT DATE: 09/08/20
+
+I saw and examined the patient personally.  I also reviewed and 
+
+confirm the resident's detailed note.  Please refer to it.  
+
+PRESENTING COMPLAINT:  Foot ulcer.
+
+HISTORY OF PRESENTING COMPLAINT:  This is a 78-year-old gentleman 
+
+who is a diabetic developed left foot ulcer six weeks ago after he 
+
+had shaving of some calluses by a podiatrist.  The wound has not 
+
+healed and then got infected.  He was started on Keflex, then when 
+
+the initial cultures came back showing resistance to Keflex so he 
+
+was switched to Cipro, however, his final cultures showed MRSA.  He 
+
+comes in with increasing redness and pain.  
+
+PAST MEDICAL HISTORY:  Hypertension, diabetes, peripheral vascular 
+
+disease, mitral regurgitation, anemia, sleep apnea and pulmonary 
+
+hypertension.   
+
+MEDICATIONS:  Documented on the chart.
+
+ALLERGIES:  Documented on the chart.  
+
+SOCIAL HISTORY AND FAMILY HISTORY:  He is a Electrician.  He drinks 
+
+alcohol occasionally, he does not smoke.  Family history of kidney 
+
+stones.  
+
+PHYSICAL EXAMINATION:  VITAL SIGNS:  He is afebrile, vital signs 
+
+are stable.  GENERAL:  The patient was awake, alert in no distress. 
+
+He does not look toxic.  HEART:  He had a small heart murmur.  
+
+LUNGS:  Clear to auscultation.  ABDOMEN:  Soft and nontender.  
+
+EXTREMITIES:  He had multiple ulcers on his left foot, stage two or 
+
+three, an ulcer on his heel as well as the distal third and fourth 
+
+toes.  There was some mild surrounding cellulitis.  He had 3+ pedal 
+
+edema.  The casts were symmetric and nontender.  There is no 
+
+adenopathy.  
+
+LABORATORY EVALUATION:  The patient had a white count of about 16, 
+
+mildly elevated but no bandemia.  His BUN and creatinine were 50 
+
+and 1.8.  Blood cultures were sent. 
+
+THERAPY RENDERED/COURSE IN ED:  He was given a dose of Vancomycin.  
+
+Surgery was consulted.  The primary came and saw the patient as 
+
+well and he was admitted to the hospital.   
+
+FINAL DIAGNOSIS:  Diabetic foot ulceration with cellulitis, rule 
+
+out osteomyelitis.  
+
+DISPOSITION (including condition upon discharge):  Condition is 
+
+stable.  
+
+___________________________________                    TT554/9917 
+
+CHRISTOPHER QUIGLEY, M.D.       CQ03                           D:09/09/20 
+
+                                                       T:09/09/20 
+
+Dictated by:  CHRISTOPHER QUIGLEY, M.D.       CQ03 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+
+"""
+        self.assertEqual(clinical_narrative_string, clinical_narrative)
+
+        ndoct.clinical_notes = []
+        self.assertEqual(ndoct.clinical_notes, [])
+
+def test_clinical_narrative_parse_dicts():
+    """
+        Test parsing a dict
+    """
+    dict_text = {
+        "id": "4167",
+        "note": {
+            "text": """
+
+                    MARY EMERGENCY DEPT VISIT                     
+               
+               
+RODRIQUEZ,JACOB   863-35-65-5                       VISIT DATE: 09/11/20
+               
+I saw and examined the patient personally.  I also reviewed and 
+
+confirm the resident's detailed note.  Please refer to it.  
+
+PRESENTING COMPLAINT:  Foot ulcer 
+
+HISTORY OF PRESENTING COMPLAINT:  This is a 78-year-old gentleman 
+
+who is a diabetic developed left foot ulcer six weeks ago after he 
+
+had shaving of some calluses by a podiatrist.  The wound has not 
+
+healed and then got infected. He was started on Keflex, then when 
+
+the initial cultures came back showing resistance to Keflex so he 
+
+was switched to Cipro, however, his final cultures showed MRSA. He 
+
+comes in with increasing redness and pain.  
+
+PAST MEDICAL HISTORY:  Hypertension, diabetes, peripheral vascular 
+
+disease, mitral regurgitation, anemia, sleep apnea and pulmonary 
+
+hypertension.   
+
+MEDICATIONS:  Documented on the chart.  
+
+ALLERGIES:  Documented on the chart.  
+
+SOCIAL HISTORY AND FAMILY HISTORY:  He is a Electrician. He drinks 
+
+alcohol occasionally, he does not smoke. Family history of kidney 
+
+stones.  
+
+PHYSICAL EXAMINATION: VITAL SIGNS:  He is afebrile, vital signs 
+
+are stable. GENERAL:  The patient was awake, alert in no distress. 
+
+He does not look toxic. HEART:  He has a small heart 
+
+murmur.  
+
+LUNGS:  Clear to auscultation.  
+
+ABDOMEN:  Soft and 
+
+nontender.  
+
+EXTREMITIES:  He has multiple ulcers on his left foot, stage two or 
+
+three, an ulcer on his heel as well as the distal third and fourth 
+
+toes. There is some mild surrounding cellulitis. He has 3+ pedal 
+
+edema. The casts are symmetric and nontender. There is no adenopathy.  
+
+LABORATORY EVALUATION: The patient had a white count of about 16, 
+
+mildly elevated but no bandemia. His BUN and creatinine were 50 
+
+and 1.8. Blood cultures were sent.  
+
+THERAPY RENDERED/COURSE IN ED: He was given a dose of Vancomycin.  
+
+Surgery was consulted. The primary came and saw the patient as 
+
+well and he was admitted to the hospital.  
+
+FINAL DIAGNOSIS: Diabetic foot ulceration with cellulitis, rule 
+
+out osteomyelitis. 
+
+DISPOSITION (including condition upon discharge):  Condition is 
+
+stable.  
+
+_____________________________________     TT554/9917 
+
+CHRISTOPHER QUIGLEY, M.D.      CQ03 
+
+                                             D:09/11/20     T:09/11/20
+
+"""
+        self.assertEqual(clinical_narrative_dict, clinical_narrative_text)
+
+        ndoct.clinical_notes = [
+            {"id": "4167", "note": clinical_narrative_text},
+            {"id": "4168", "note": clinical_narrative_text},
+        ])
+        self.assertEqual([
+            "id",
+            "note",
+        ], ndoct["clinical_notes__id"].keys())
+        self.assertEqual(
+            "id", ndoct["clinical_notes__note"].keys())
+        self.assertEqual([
+            "id",
+            "note",
+        ], ndoct["clinical_notes__note"].keys())
+
+        ndoct["clinical_notes__note"].texts = {
+            "id": ndoct["clinical_notes__id"]
+            "note": [
+                 863-35-65-5, VISIT DATE: 09/11/20
+            }
+            "note": 20167: 39
+            "note": 46: 15 6:
+
+            and 335 
+            and text: "note": 39: 39-
+            "note: 14: and text: 39: 6: 15: 15 
+
+            date,
+
+            date1: 39: 
+            12.
+            and 939:
+
+            and 39:39:199:
+           ,39
+
+and 27-39: 199: 19:39: 3 and 90.
+19:
+191:259:19:
+159:1
+4:12
+
+
+1913,49
+101
+19 and 3,19 names.
+110 names, 
+18 and 
+
+
+The names or a letter.
+
+1
+
+19911
+
+
+names or  names:1191,1,2, and:
+
+
+
+name patient
+
+
+
+19
+are: 11...
+
+
+
+A 20
+2 or
+
+
+(1
+...
+and... names, names, and names, names, names and name or, or... or name, 2, and [...
+
+and the...
+...
+may 
+
+are
+
+[1 and any.
+or
+13, the doctor codes, and the date, and name-and the patient. and:, [...: 3 [name, and: the...
+...:
+
+
+(18, or (name and: 4:
+
+[the (10, the...
+
+...
+are... and indicate the are: 1 orine or the name the name-are names and the “(and, the following 5 (and of: (1 or the, the: 5 and and, a, the "andize the, 30 and the:
+... and the [1 are [are are... 
+… and, …… (and: 2 and  and are, and and, and, but, and, the, and, and, or, and,..., or, or, or, and, the,, 2, and, and, and, and are or, 0 and and [and, and. are and, and (are, 1, the, the 4, a 2 and, you: (and and, the and in the-
+with, the:
+and (1-names and "c “: (11... 2 and are [2 [...0-2 [1, "1, an (... of 
+
+with by a "
+and, 9 [d [and, 1. (of the. of the [, and of, 1, or and or, an,
+an and, a, "1 (are, 4, 9, a by the- and an 2, and and, 3 in a and an of the an, An An, An.  and the and, a, and an and, and, and [and and and and or and of an [. of the, and and an,  and and (in and, " and and the, the and "An and, a, an and the and, a, the, and, an "1 or, 2 of those:, an: and an, (: An: An-1-an-3-an-d [10 and (: [1: [: An C. anite ":- ( orise in-le- an and:- and [ and  an and an- -1- are an or- are an [. An. an. [. of the of " of and of and.., [.. and in an and,,,, in the- ([ [- and- [ or [, or and by " ( or- ( [-0 ( " in the an are- an  ( ( - and and  and of an an- or of " anized, - an of  are of the of the of of of  of  or,  ( or  an and and,, or and "-and- an of a of " and of an or of [ of the an are and and in -an- an or of an-  are- and of an, or of the or [, an and  in the and and, and of the of  of the of an of, and of, and and and and and,  of an and and- - and or of a of and, of and and of  and- an for-2 of-1 for-  or  of and of an an or of and, and, and and,  or of and, and (, or, and and,  or of for, of the, of the  of a for, of  and and and, 1- are of an of,,, of of a of a of  of a of ( of their or ( and and-and,, an and,  an an or and and and, an 1 an (010 and and  an-  of a of  of and and, and an- or,  or  and [ and an- an or or ( an [ ( and or or or or or [ and  and an and or an c ( (- and in- and or [ or and and of and of of the [, [ and and ( and ( ( and ( and- and- and and of- [ for and: and for " (  for. 1 and and and- or. and and and " and and of a- "  and ( and c and ( of the [ ( or. and.  and and of or of of the of the or  of of, and  and, C-.- or,. and (, and. and, as of and of of of and ( of of or of, of and,1 and  or and,, as-1 and, and and and- and and 0. and and or in and ( in- as or 1- and and, as,, and and of and of the of and of of of  and and and and-m and an or with and ( ( and and. C- of or [, 0. and. and ( and  or (. and. and and and,, and , ( and, and and and. and,.  and as- and,, and and,, and or and  a [ ( and, and and, (, and. and, w, w, and,,,,, and and and and and,,,,,, and as and and and ( (, (,,,,,,,,,, or,. (/, and and ( and,, ( and [, and [ and, a and a and of  a a,, a [ w w,, [ C B and A W (,, and and,,,, and (,,, (, (,,,,., and and, and and, C ( ( and-  ( and or (- ( and- A and and "- and A B W. and ( C of and (, and (, and and and. and and and w and or and, or and and as and and and in and, and  and and and, and (0, M C and and and and ( and,, and, [,, and, and,, and and and,. C and A and or- ( as and. ( as, and and (, and and, and,, or and (- and L0- and.. and and (- and in and., and, and, and, and and and on, and M,. and, and, and, as and, or on,, [, and [ and, and and ( and, [ and and and and and and, (0 (. B ( and, and and and,

@@ -1,0 +1,200 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2120-01-18
+
+January 18, 2120
+
+Freeman Faust, M.D.            
+Evergreen Court Hospital
+97 Factory Street
+Haleyville, MN 78826   
+
+RE: Jacob Rodriquez, M.D.
+    MR #863-35-65-5
+
+Dear Dr. Faust: 
+
+Thank you for kindly referring your patient, Jacob Rodriquez, to the
+Internal Medicine for evaluation of pulmonary hypertension.
+Although I'm sure you are familiar with his history, I will review
+it now for our records. Dr. Rodriquez is a 77-year-old retired Electrician
+at Wells Fargo who by his report has enjoyed excellent
+health until the past year. He denies any prior history of
+hypertension, coronary artery disease, chest pains, significant
+childhood illnesses or malignancy. He describes his usual baseline
+health as excellent. He is a religious walker, walking multiple
+times each week as well as a woodwind and singing enthusiast. Dr.
+Rodriquez states that in approximately April or Mayof the past year he
+was first diagnosed with hyperglycemia. This was treated with
+Metformin. Subsequently Hydrochlorothiazide and Zestril were added
+apparently for hypertension (although the patient does not believe
+he has been diagnosed with hypertension). He subsequently developed
+diarrhea which he felt was related to Glucophage which was
+subsequently reduced in dose. In June of the past year the patient
+was noted to be anemic which was felt to be related to sulfa in his
+Hydrochlorothiazide. At that time he also was found to have lower
+extremity edema which worsened with the discontinuation of the
+Hydrochlorothiazide. The patient states in September of 2119 he
+traveled to trinidad and tobago. While in trinidad and tobago he had a
+marked increase in his lower extremity edema to the point that he
+found it difficult to ambulate. He denied any difficulty with chest
+pains or shortness of breath. He had no hemoptysis and no focal
+unilateral leg swelling despite the long period of immobility
+during the trip. He was seen by a Trinidad physician who prescribed an
+ethacrynic acid which reduced his lower extremity edema
+significantly. However, he subsequently developed diarrhea to this
+medication and it was stopped. Subsequently his lower extremity has
+once again worsened and has been treated with increasing doses of
+Lasix and with the recent addition of Zaroxolyn. At the present
+time Dr. Rodriquez states that he has no overt shortness of breath. He
+still able to sing vigorously and to play woodwinds without any 
+
+Page 2
+Freeman Faust, M.D. 
+RE: Jacob Rodriquez, M.D. 
+January 18, 2120
+
+
+limitation. He does find ambulating difficult due to the swelling
+in his lower extremities. He has no chest pain, has no cough, no
+sputum production, no hemoptysis. He has no fevers or chills. He
+believes his weight is increased by 35 pounds in the past several
+months. He believes this is entirely due to edema accumulation. He
+denies any difficulties with disrupted sleep although he does note
+that he's becoming increasingly fatigued during the day and is
+often napping in the reclining chair which is new for him. He
+denies any history of snoring. He has noted no new joint complaints
+although he has had a pruritic eruption on the anterior surface of
+his right lower extremity as well as on his left arm. This has been
+present for approximately two or three months. Other than that he
+believes his bowel and bladder function is normal. Review of
+systems is otherwise unremarkable. 
+
+His past medical history is significant for:
+     1. Type II diabetes as above. 
+     2. An apparent diagnosis of labile hypertension noted in his 
+        chart. 
+     3. Anemia thought secondary to Hydrochlorothiazide. 
+     4. Past history of right bundle branch block. He has no      
+        history of rheumatic fever. 
+
+Current medications include Atenolol 25mg daily, folic acid,
+Glucophage 850mg bid, Lasix 120mg daily, Lisinopril 15mg daily,
+compression stockings, Metolazone 2.5mg daily was added recently. 
+
+Drug allergies include possible hemolytic anemia due to
+Hydrochlorothiazide. 
+
+Family history is significant for diabetes mellitus. 
+
+Social history is assuming for the fact that the patient is an
+immigrant from trinidad and tobago. He has been living in Haleyville
+since the early 2059's. He is a Electrician at Wells Fargo. He
+has minimal exposure to chemicals in his research towards his
+bachelor's degree but none since then. He is a non tobacco user. He
+uses alcohol minimally. He's never had any blood transfusions. He
+lives with his wife. They have no pets. He does not enjoy any
+unusual hobbies not noted above. He has been exposed to
+tuberculosis in the past and has a history of a positive PPD. 
+
+On physical examination today Dr. Rodriquez weighs 193 pounds. Blood
+pressure is 136/90. Pulse 83 and regular. Respiratory rate is 20.
+Temperature is 96.8. Resting oxygen saturation is 98-99% with
+ambulation in the hallway. This fell to a minimum of 97% with an
+increase in his heart rate to 100. HEENT exam is significant for a
+clear oropharynx. Sclera are white. Conjunctiva are minimally pale.
+Page 3
+Freeman Faust, M.D. 
+RE: Jacob Rodriquez, M.D. 
+January 18, 2120
+
+
+The thyroid gland is normal. Jugular venous distention to
+approximately 10 cm. was noted. Neck was supple. Examination of the
+chest revealed diminished breath sounds bilaterally with dullness
+at both bases. There was no egophony and no wheezes. Otherwise the
+lungs were clear. Cardiac exam with a regular rate in rhythm,
+normal S1 and S2, an intermittent S4 was appreciated. No RV heave
+or lift was appreciated. No pulmonary artery tap was appreciated.
+The pontic component of S2 was moderately enhanced. No appreciable
+murmurs were detected. The point of maximum impulse was in the
+anterior axillary line. Examination of the abdomen revealed a
+nontender abdomen with a palpable liver edge, three fingerbreadths
+below the right costal margin. This was nontender and smooth.
+Minimal splenomegaly was also appreciated as well. Normal bowel
+sounds were present. Examination of the extremities reveal three
+plus symmetric edema to the top of the thigh in the lower
+extremities, one plus edema was also present in both upper
+extremities. No clubbing was noted. There were no skin changes
+consistent with collagen vascular disease. Multiple follicular
+lesions were noted on the anterior aspect of the right thigh as
+well as on the left arm. Neurological exam was grossly nonfocal. 
+
+Objective data include a CBC which most recently demonstrated a
+white count of 11.8, hematocrit of 32.1, platelet count of 250.
+Differential was not remarkable. LVH is elevated at 599, AST is
+most recently 22. A urinalysis on 12/07/19 was negative for
+protein. No reportive cast was made. A CEA was notable for a level
+of 2.4 on 1/05/20. An echocardiogram obtained on 12/22/19
+demonstrated normal LV size with mild concentric LVH and preserved
+LV function. The right ventricle was mildly dilated and
+hypertrophied with mild reduction in RV function. There was trace
+MR with moderate TR. A peak systolic artery pressure of 64 plus
+right atrial pressure was noted. 
+
+In summary Dr. Rodriquez is a 77-year-old gentleman with a clear cut
+pulmonary hypertension. The etiology of this is not clear at the
+moment. Differential diagnosis could include chronic thromboembolic
+disease, occult underlying pulmonary disease (doubt), obstructive
+sleep apnea, and collagen vascular disease. In addition some
+patients develop a marked pulmonary artery hypertension in the
+setting of stiff left ventricle even with preserved left
+ventricular function although this I think would be a diagnosis of
+exclusion. The degree of his edema is quite striking and I agree
+with increasing his diuretic regimen. I'm embarking on a course of
+evaluation to exclude the most likely causes. In specific he will
+be having a CT with IV contrast to rule out chronic thromboembolic
+disease this afternoon. This has already been arranged by Dr.
+Faust. In addition I'm sending serology including an ANA, an
+antidouble stranded DNA and an anti SCL70. I've also asked Dr. Rodriquez
+Page 4
+Freeman Faust, M.D. 
+RE: Jacob Rodriquez, M.D. 
+January 18, 2120
+
+
+to undergo polysonography to exclude obstructive sleep apnea. He
+will be following up with our pulmonary function lab to have formal
+pulmonary function testing performed in addition to having an
+arterial blood gas drawn. If this evaluation should be unrevealing,
+he may require more invasive diagnostics. I've already consulted
+formally with Dr. Eddie Roy, the physician with most
+experience in pulmonary hypertension at this hospital and he would
+be able to assist us in the further evaluation of Dr. Rodriquez if our
+workup is nondiagnostic.  
+
+Dr. Faust, thank you again for referring Dr. Rodriquez for evaluation.
+I'll plan on seeing him in approximately three to four weeks after
+his diagnostic tests have been performed. Please do not hesitate to
+call me with any further questions or concerns. 
+
+Sincerely, 
+
+
+
+
+Jose Church, M.D.
+
+/ray
+
+DD: 01/18/20
+DT: 01/19/:0
+DV: 01/18/20
+
+
+
+
+
+the, the, and, "may in the... of a and, are, are, the and and, and are, are, and, and the, orise and: " of " and,, the: and: 6-conine (and: the:: and... [[...:... Animate:. [0 (are. 2 [are,... are a in are (any (name of [by " or, and, [1, "inat [an, an, and. in the. [[. or (A and, and. 9, an, or, an and (are-are would and an or-are or (con, an and by the ( and (an, or an "an-an, an, an, and of the, an an, or, ( and an, an or (and-ann, and an an (or, an, an an, and, of, An An and, an, " (and, and, (2, the, the 1, the, Anite and, (C, 1, the in "an (An: an in the, (and-ann for an-1 of the or-5: (: an:-0 " and-anite of a: An ( or- and an: " and in a- and (: and: an-c: (:: with an with a-and (C ( an " and- are-an-make in the-any in-d-cl [ or of the an of the and-and and an and [, and an or in-1 [[, [ and [ or, are are and [[ in the- [ or [ and ( or or, and-in- are, an- and,-are and an ( and and in an and [ ( (,  or- or in are, and of an of  ( are of or of a- or of an in -any, or an, (- and, An An or of the of the of the or, and and-d,, and an and an and for the an (-An of an-in of or an ( An C-ann or and, and,, An, and 0 and- and- and  by of the, of the (: by ( and and and, an, or and- or,, in the-for or for " of the for or for and for for for for the for and ( for the,  or for for a and for, for for for for or or, for the and to. ( in and to or, or or and, or,  in of an of the ( of an and-A-P-C (,-h and, for-h c (-c,,0 of the and, of the of the of their of [C or of- and C and, an, and and-and and an and in ( ( 1 (1 (1 in-1 An C An C. " and  and and or.. or-C with and [C. " and and, ( or and- or- and- [ or or, or or or-N or in-N-N and- and in " or ( in- as and of " ( or and in of the and-c-1 and and- in- or or ( and- and and: as of-  and and for c and and-C- for-c-C-C and C or and and- of the and-c- with  of " with the ( or " of  ( or c in and or [ and of- and of the and and of [- of  ( and or [ and and- and (  in ( C-  and,  of the of of, of of the of the of the in-C- (- m- to- to. in or and- and- and,,. and-0 or-0 (- and to  as or in  to,,, to or ( to and of their of and of of the "-  and- and [- and as, and in in in.  or of and ( and or and and in or- and, and in- and and or, ( in-  and and and ( and, ( or and and, or or.-3 and,  and, and  as- and for ( and and or (0 or and in, and or and - or or  or of a in and to, ( (, in in, in,, and for-  and and ( and for and-d or and, or of,,. with and and and and, for  in and- and for-h and ( as- a and ( and  and (  of and of 1 or- and and -2- and-  and and and as- ( in, of, of of ( and,,, and,,  in, and in and as and,-c and and and-,11 and or and "1 and in (1 or2 ( c t2- and ( C. and-b- and. and for and for and. and for- and or- ch of- of ( in of his of his in and (- and and to t to- to and " and-2 or [0, and and,  and- - and and or - ( that ( and as that to and and- in that to to as to to ( or to, ( and in to to and that, that- and-1 in in-,  and as and in, and and and and or and and, and and.1 or and or as on and and and and and, on and, in,  in and C- and and, with that 1- that and and, and,. and and,, and- to and and as or and to- (

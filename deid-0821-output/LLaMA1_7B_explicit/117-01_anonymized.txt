@@ -1,0 +1,464 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2065-09-20
+
+Melissa Cummings
+
+HGH Unit No: 265-01-73
+
+
+
+SAINT VINCENT HOSPITAL
+
+
+
+ADULT MEDICINE
+
+
+
+
+
+Date: September 20, 2065
+
+
+
+Weight: 125.
+
+
+
+The patient returns from Paraguay.  States while there, had problems with her stomach. Was treated by MD there with what sounds like GERD but was ? attempted to be treated for H. pylori.  Brings in medicines, all of which she took for one week.  They are Flagyl 500 mg b.i.d., Metoclopramide 10 mg q.i.d. PC, Patoprazol 40 mg q.d.  All have been completed.  
+
+
+
+CURRENT MEDICATIONS: Lipitor 20 mg b.i.d., atenolol 25 mg b.i.d., Zestril 20 mg q.d., Glyburide 25 mg tablets 2 tabs b.i.d. (Patient occasionally does not take pills at supper as she is still fearful of hypoglycemia), clonazepam 1 mg b.i.d., NTG p.r.n., Bayer aspirin and eye drops.  
+
+
+
+(1)	Abdominal pain: Off medicine.  Symptoms have resolved.  Currently on no treatment for GI symptoms.
+
+
+
+(2)	Diabetes mellitus: FBS  126, 137, 149, 120, 139, 135, 116.  10:00 p.m. 226, 8:00 p.m. 201, 8:00 p.m. 151.  The patient does not check prior to supper.  States she is fearful she will die during night if sugar gets too low, therefore, occasionally does not take pills before supper and gets higher readings at night in the 240's to 260's.  Generally avoids sweets in diet. Takes evening pills with dinner at approximately 4:00 or 5:00.  
+
+
+
+(3)	RHCM: Was scheduled Dr. Yelverton for a sigmoidoscopy 9/16.  Apparently is office called and cancelled it and patient is waiting to be rescheduled.
+
+
+
+(4)	HTN: No chest pain, shortness of breath or palpations.  
+
+
+
+PE:	Blood pressure, right arm: 142/80.  Chest is clear. Cardiac regular rhythm at 66, no murmur or gallop.  Extremities: No edema. Labs from 7/27: Hemoglobin A1C 8.5 (197), BUN 13, creatinine 0.6, lytes normal, SGOT normal.  CBC normal.  
+
+ Melissa Cummings
+
+HGH Unit No: 265-01-73
+
+
+
+SAINT VINCENT HOSPITAL
+
+
+
+ADULT MEDICINE
+
+
+
+
+
+Date: September 20, 2065
+
+
+
+Page 2
+
+
+
+
+
+
+
+A/P:	(1)	Diabetes mellitus: Irregular control secondary to patient s self-adjustment of medicine.  Have asked patient to check blood sugar pre-breakfast/pre-dinner.  If sugar below 100 pre-dinner, may decrease Glyburide evening dose.  If sugar 100 or greater, continue the 10 mg dose with supper.  
+
+
+
+(2)	HTN: Reasonable control.  Continue current treatment.
+
+
+
+(3)	Epigastric pain: Currently stable, monitor.
+
+
+
+(4)	Routine health maintenance: UTD.  Mammogram normal.  
+
+
+
+(5)	Return to clinic in three months to Dr. Eng.
+
+
+
+
+
+Kimberly I Kidd, RNC, ANP
+
+
+
+KI/espinoza/nolen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Record date: 2065-09-30
+
+Melissa Cummings
+
+HGH Unit No: 265-01-73
+
+
+
+SAINT VINCENT HOSPITAL
+
+
+
+
+ADULT MEDICINE
+
+
+
+
+
+
+Date: September 30, 2065
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page 2
+
+
+
+
+
+A/P:	(1)	Diabetes mellitus: FBS 151, 164, 163, 187, 205, 170, 154, 226, 164, 167, 201,220, 224.  
+10:00 pm 253, 8:00 pm 233.  Patient continues to take Glyburide at dinner with dinner, not pre-breakfast as was advised.  Sugar 80-100.  
+
+
+(2)	HTN: Reasonable control.  BP 131/78.  Chest is clear. Cardiac regular rhythm at 66, no murmur or gallop. Extremities: No edema.
+
+
+
+(3)	RHCM: Patient continues to avoid sigmoidoscopy.  Patient has been seen by nurse on several occasions and continues to refuse.
+
+
+
+(4)	Epigastric pain: Currently stable, monitor.
+
+
+
+(5)	Routine health maintenance: UTD. Mammogram normal.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(6)	Hypoglycemia: Patient continues to not take pills prior to supper.  Patient also does not eat dinner and states, "Sugar gets too high."  Asked to stop taking pills with dinner.  Recommend she eat dinner with supper.  Asked to call with any further questions or problems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Record date: 2065-10-07
+
+Melissa Cummings
+
+HGH Unit No: 265-01-73
+
+
+
+SAINT VINCENT HOSPITAL
+
+
+
+
+ADULT MEDICINE
+
+
+
+
+
+
+Date: October 7, 2065
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page 2
+
+
+
+
+
+A/P:	(1)	Diabetes mellitus: No chest pain, shortness of breath or palpations.  
+Blood pressure, right arm: 147/75.  Chest is clear. Cardiac regular rhythm at 63, no murmur or gallop. Extremities: No edema. Hemoglobin A1C 8.8 (187), BUN 11, creatinine 0.5, SGOT 29, Lytes normal. CBC and mood stable.  
+
+
+(2)	HTN: Reasonable control.   BP 159/77.  Chest is clear. Cardiac regular rhythm at 63, no murmur or gallop. Extremities: No edema. Mood stable.  
+
+
+(3)	Hypoglycemia: Patient has now been taking her morning dose at breakfast time 8:00 am with breakfast.  BG is approximately 139.  Patient continues to avoid supper.  Asked to stop taking medicines pre-supper.
+
+
+
+
+
+(4)	Epigastric pain: Currently stable, monitor.
+
+
+
+
+
+(5)	Routine health maintenance: UTD.  
+
+
+
+(6)	Hypoglycemia: Patient continues to avoid meals at the present and does take medications with supper.  
+Recommend she take her medication after dinner.
+
+
+
+
+Recommend she eat dinner.  
+
+
+
+Page 3   
+
+Recommend she eat dinner.  
+
+(7)	Hypoglycemia and take her medication with dinner.  
+
+Recommend she take her meal.   
+
+
+
+Recommend you take her medication.  
+
+
+
+Recommendation
+
+Recommendation
+
+
+
+
+
+Recommas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References
+
+
+
+
+
+
+Recommend...  
+
+
+Recommendations.
+
+
+
+Recommendation
+
+
+
+
+
+
+Recommend.  information, information, or names
+Recommend
+
+References of a 
+Recommend
+Recommendations, 
+names 
+
+
+Recommand  information
+Recommend names of names
+
+
+Recommend the patient information, patient, information of a letter or names of information
+of names of names
+
+or.
+recommend names, 
+or codes and patient and patient names, patient names, patient.
+patients, the following patients: patient names and information.
+
+
+
+
+
+
+
+
+
+Representing
+Represent, patient 
+The 10 or the 
+(or names:, or the letters. 
+The names of the patient names, patient names.... 
+
+The clinically 10 and names of the patient.
+15, 
+The names or a 
+or names (name, and name 1, and names...and, or 9, the name 3.
+[…, etc, and 3, and the clinical or [
+
+may are or [and a…, and or [and, 30 orally, and names of names, and, and name and any. The…. 1, the following, 1, and the names in: the following (le and the following, as 0 or: 3, 0 (... are the... are: [1 are (are are the are are the … or the "le and (... and or the,... or, the [and the following, and...or of (and, and and, a: the or are:...
+andized, 20 and a... 0 and a…
+are: the (are (the and are the " are (and,... (1 (... and and the... 1 or and the and, 1, are and, the, and, and, and, but, and and the (... the, (, 2,
+and, anine, the, or 3, and and, and, and and 2, 2, and (2 and, as 2 in, and, 0 of " and the... [1 ([f,...
+:...
+... (... [1 and... [d.
+and "pat (...1. 1 (3... 1 [2 [0-name  are and- 2 ([, by a (and or,..., the [and (name orine [. [of the of the [.
+. and and and, and, [, and and and, an, indicate (may, an would-are- are, are,... (1 from (1 3-an, an ( an an,, and, [name, an 1,, an, are, and, and, an an and, an, [and...  and, and an and of a  (an and,,  and, and and and, and,,,,, an,,,, and and and, An., or and, (le,, (1, "le and, (an, an for,: : An of "  and and: [1: and...: “1-0 [: [: (- ( " - and and: " and: An: [: :: or: " or: or- an (::  (.: or in:  are- [ [ or " ( an: and: [- (,. ( of ( an of an of, of [. (. an and and or an, and [ and ( or and ( or, and [ in or. or [:... [ and and: and,, and, [ and: or ( an - an and are are ( ( "  an [ ( [ and,, an or or, [,, of, ( ( ( ( of an of an of and ( ( and an (  and or - in,,,,,, ( of the of the of - of the, of, of, ( are,,,, ( are. and of an or ( or of the or of or ( for " ( and (  and - ( - in,  and, - and - of, - of and of the [ ( -  an [ and or,, and (  and  or, or and " an ( and and for and and or of, or or [ an  ( and,,  ( or and ( and,  and, or, and (,  or or, and or and, or. (, ( and or an or and, and,, or or of  or of,,  are and of a or and and and for ( for and and, are or of of of ( [ of of of of c of and and [, of the of and an,,., of., and and,  and,  are and and, ( an ( and cine, ( and and and and,,., and of and ( and and ( ( and. [ an, and, [ and and with ( and with and an c an and and for.,, an ( an c " for or and for and for or. for and and of [ c and of or of of c of of ( and and and or and and and c and an (, ( c and: and of c of and and: ( and and and m c ( are are and ( and and are of c c and and, an and and of an ( m c or and and and " and and ( c an c and or., and or of, of and of, of, or, ( ( ( and and c- and, and and, m, and and (, or,. of of and of and of  of of, of c or d, c and and and an and c and ( c and and and and c. and or or.,, ( or  or ( ( and m and or c ( and: [ (, and of m of and of or of of and c an. and " c and ( an and ( an ( or an and and of of  g m or.  m and. and and, c or and, and/ and or and and of of m and of, or m and and ( m ( or, c and and, and. of and, (. ( and and, ( and, m and and and and, c and  m (,, or and or and and and and, and m and and and ( and, and ",, and and and or. and,, and c, (,, and, (. and, and and h d, m,. ( (,, c,, and, and ( for ( and of a of and for m and for m m for c and for and. m, ( and and for. ( m for, m c c, (. [,,, (, (, and per,, or or, for, m and m/ c and and c and m and ( c for and and m or m and and m/ and and t m and m ( c c, (, c h [ t,, or c or t and and and ( a a or m and, ( ( m and (  ( ( and t ( d t d c,, c and,,,  ( and, and, and and, m, ( and,,,, and and and and and,,, or, or,,,,, a, a and and, m ( and and and and ( and c and, or, (,,., and,, c c, and, and ( (, ( c a c c and, and, ( a, and or. or m or,., c or and (. p and m, and P, c m (,,,,,, (

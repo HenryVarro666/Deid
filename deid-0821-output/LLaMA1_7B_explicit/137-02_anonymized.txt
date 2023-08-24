@@ -1,0 +1,201 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2068-12-12
+
+
+
+
+
+
+
+Eudowood Services Physician Group
+128 Williams Ct              M OSCAR, JOHNNY
+Hyderabad, WI  62297                    76324418
+547-598-7353                     12/12/2068
+
+
+
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 59-year-old white male who comes to the office for reevaluation regarding his diabetes.  He also has high blood pressure and coronary artery disease.
+
+
+Diabetes.  The patient is trying to adhere to his diet.  He stays on his usual medicines, which include Glucophage and glyburide.  He takes an aspirin regularly and he is on his blood pressure medicines.  He does not smoke.  He follows closely his foot regimen and had not noticed any difficulty.  He sees a foot doctor.  He has not seen an eye doctor recently.  He has not been to the Jay Hospital for his routine followup and says he will start setting up appointments with the diabetes group out in Littleton, Wisconsin where he lives.  The patient specifically denies any increased thirst or urination.  His blood sugars taken at home are approximately 140-160 on a fasting basis.  He has not had any episodes of hypoglycemia.
+
+
+Coronary artery disease.  The patient is also followed by Dr. Garza.  He does stay on his Plavix and aspirin and also is on other medicines including atenolol, hydrochlorothiazide, Norvasc, Vasotec and he has not needed any nitroglycerin.  He still does complain of some nonspecific chest type discomfort for which he was evaluated by Dr. Garza last spring.  He had a cardiac catheterization.
+
+
+Elevated cholesterol.  The patient does take the Lipitor.  He does not have any muscle aches.
+
+
+Slightly elevated liver function tests.  He had a history of fatty liver.
+
+
+Obstructive sleep apnea.  The patient refuses to take CPAP.
+
+
+REVIEW OF SYSTEMS:  Reveals no headaches, no difficulty with the ears, nose or throat.  No neck pain, no chronic cough or sputum production and no chest pains or palpitations.  No nausea, vomiting, black or bloody stools.  No burning on urination.  His weight has been fairly stable.
+
+
+PHYSICAL EXAMINATION:  Showed a pleasant white male in no acute distress.  Blood pressure taken by me 132/76, pulse 72 and weight 206 pounds.  Skin was moist and warm without any specific lesions.  Head, ears, eyes, nose and throat were normal.  Neck showed no thyroid nodes or tenderness.  No bruits were heard.  Lungs were clear to percussion and auscultation.  Heart showed a regular sinus rhythm.  S1, S2 were normal.  Abdomen was soft, no liver or spleen was felt.  Chest wall without any pain secondary to his prior coronary artery bypass graft surgery.  Extremities showed pulses to be satisfactory.  His feet were warm.  There was no sign of infection.  Neurologic, well oriented.  Light touch was found easily in his feet.
+
+
+IMPRESSION:  Overall, the patient is satisfied with his health.  He has followup appointment with the cardiologist and needs to follow up with the eye doctor as well.  He will set up a diabetes follow up at the Rappahannock Medical Clinic.
+
+
+DISCHARGE DIAGNOSES:
+1.  Diabetes mellitus, on oral hypoglycemic medicines, will recheck his hemoglobin A1c, recheck his urine and urine for protein.
+
+
+The patient does take his enalapril regularly as well.
+
+
+2.Coronary artery disease on multiple medicines without any severe angina.  He is followed by Dr. Garza.  His weight has been fairly stable.  He has not needed to use his nitroglycerin.
+
+
+3.Obstructive sleep apnea.  The patient refuses to take the therapy.
+
+
+Elevated cholesterol, on Lipitor.
+
+
+Essential hypertension on medicine.
+
+
+Left kidney mass.  Dr. Jefferson did not feel this was any real finding.
+
+
+Follow up will be in four to six months in my office for a comprehensive exam.
+
+
+Routine laboratory test including CBC, hemoglobin A1c, comprehensive metabolic profile, lipid panel, urinalysis, TSH, urine microalbumin and PSA were ordered today.
+
+
+
+
+______________________________
+Todd Brandt, M.D.
+
+
+
+
+
+
+
+
+
+
+eScription document:4-4822140 CSSten Tel
+
+
+
+
+
+
+DD: 12/12/68
+DT: 12/12/68
+DV: 12/12/68
+
+
+
+
+
+
+
+
+Eudowood Services Physician Group 7324418 763-24418 Hyderabad, WI 62297 547-596-7353 12/12/2068 12/12/2068 Record date:
+
+
+
+
+Record date: 2068-12-12 12/12/2068  12/12/2068 12/12/2068 12/12/2068  12/12/2068 Record date:
+
+
+
+Record date: 2068-12-12
+
+
+
+
+
+
+
+PATIENT HISTORY.
+
+
+
+The patient is a 59-year-old white male who comes to the office for reevaluation regarding his diabetes.  He also has high blood pressure and coronary artery disease.
+
+
+Diabetes.  The patient is trying to adhere to his diet.  He stays on his usual medicines, which include Glucophage and glyburide.  He takes an aspirin regularly and he is on his blood pressure medicines.  He does not smoke.  He follows closely his foot regimen and had not noticed any difficulty.  He sees a foot doctor.  He has not seen an eye doctor recently.  He has not been to the Jay Hospital for his routine followup and says he will start setting up appointments with the diabetes group out in Littleton, Wisconsin where he lives.  The patient specifically denies any increased thirst or urination.  His blood sugars taken at home are approximately 140-160 on a fasting basis.  He has not had any episodes of hypoglycemia.
+
+
+Coronary artery disease.  The patient is also followed by Dr. Garza.  He does stay on his Plavix and aspirin and also is on other medicines including atenolol, hydrochlorothiazide, Norvasc, Vasotec and he has not needed any nitroglycerin.  He still does complain of some nonspecific chest type discomfort for which he was evaluated by Dr. Garza last spring.  He had a cardiac catheterization.
+
+
+Elevated cholesterol.  The patient does take the Lipitor.  He does not have any muscle aches.
+
+
+PHYSICAL EXAMINATION:  Showed a pleasant white male in no acute distress.  Blood pressure taken by me 132/76, pulse 72 and weight 206 pounds.  Skin was moist and warm without any specific lesions.  Head, ears, eyes, nose and throat were normal.  Neck showed no thyroid nodes or tenderness.  No bruits were heard.  Lungs were clear to percussion and auscultation.  Heart showed a regular sinus rhythm.  S1, S2 were normal.  Abdomen was soft, no liver or spleen was felt.  Chest wall without any pain secondary to his prior coronary artery bypass graft surgery.  Extremities showed pulses to be satisfactory.  His feet were warm.  There was no sign of infection.  Neurologic, well oriented.  Light touch was found easily in his feet.  The patient does take his enalapril regularly.
+
+
+IMPRESSION.
+
+
+
+Overall, the patient is satisfied with his health.
+
+He has followup appointment with the cardiologist.  eye doctor.  The
+  There will need followup with the eye doctor.   He is no signs and symptoms of infection doctor.   signs of infection and
+  PE/MRI, no followup with the patient.   the patient has follow up no signs or symptoms.
+
+
+  signs infection is no signs of signs or signs no signs in signs of signs signs of no signs in signs signs of signs of signs of signs signs of signs of signs of signs, no signs of signs, signs signs of signs of no signs signs.
+
+signs of the patient signs, no signs, signs of signs of signs signs, of signs signs, signs, signs of signs no signs of signs no signs or signs, no sign or no signs of signs signs of signs of signs of signs signs signs of signs of signs of signs of signs of signs of signs, signs of signs of signs of signs of signs of signs of signs of signs of signs, no signs of no signs of dates of signs or signs of signs of signs of the signs of signs of signs of no signs of signs of signs of signs of signs of signs of signs of signs of signs of signs of signs of signs of the signs of signs of signs of signs of signs of signs of signs of signs of signs of signs signs of signs of signs
+name of signs of...
+signs of the name signs of signs of the patient names of signs, sign of names the signs of signs of any are the patient ident of the clinical name.
+11.
+(d.
+
+The name, the date of the first name, or the names, and the name of a, name, signs of and...
+and the names.
+the and the [
+... or are the letter, orally... or and names (or, and, and the names, the date, the patient names. 
+[….
+
+
+
+[name, as a 2... 3-specific names and, name names of the patient names and... of... (name.
+[...….
+
+are and the... of the …
+ 
+
+[...
+name and [the “ 1 are and... are names, 1, 
+(and the, 3 and  and the name, [[
+: 
+are: 
+
+
+(
+andise the...
+and of “the or 
+1211 are the ( 6 (
+are of a, the (
+and (
+in: […
+...
+. and, as, orise. An, or, and, or, and, as [the 
+,
+[, and, an, the,
+make, and, 3, 1.
+. An, 0... and,  and, and, 1, but, but and, and and (2, a, and, [, the and, the
+(d: the
+[1 and the with the (1: "10 (1 “... and. 3 [1 are [are-
+[ are a and would, 0 or the, 1 or (1 [[ and a...
+, the, a, (le, an of the. (and of  of the, 3, an and, (an, an, the, 3 of the (ann or (ann (an of and and, and (2 or, and, an, an-s, 1, an, an, the, and, the, an, the, an,
+, an-in, or an an, and, [2, an, of the, of " an and anine (anine and an, 3, and, 2 or, the, and, an an [An, the, " 1, (and (and, the, an: an-1-ann of the (2-and:: an [1 or-re an "1 ( [::::: - (:-and- and and [: the-1 "an:: an (:-1 with the or an with an: an or and an ( " (:  are-an-an-in and-and ( an of the of our of a of a or of the, and and in and or- and in, or [[, or in an, are [-per- or ( and [ and-1-an, ( an [ ( are an- an " are an,, are and, " an- an, - An An An An An or, or-  or,, or ( ( or of of an and or of the, in the or or,, the, and and and- an an or, and ( of the of " of a an and or [ and ( in or, and (, ( or, in the, or an of, of  an or an an,,  (, or or (, and or,, of the of a of  of the of  ( and an and  or or, or or-1 ( and- in the-  and of, or of the of a or or-w-d-  and, and, and and an and or, or of,, [, or  or and and and an-le in an an and, or or and or ( an- of the or of (0 or of the of an of  and,, and-1 or, 0., are, and of the are of the, and were of the, of the, and and, and, and,  are and, are and, and and and and are are, [, ( and-d-an or, an for the, and, of,, and and. or in a, in or in the or-  or ( and an an,, [, and or. or, or. or, in the ( or in w for or for and [ for or for in for ( in or or and of of of " and of the and  and- and  for a and ( and in and ( are of the- and and and and ( in the in the in: and or-0 or and: and or and or and- and of and and of and or, " and and in and for the for the or and ( and, of ( of an of an, or of the, and, or in,. on or, and on and., and and or - or and of the and of and of the of of  of and and and  for,, and or for ( for the,., and and, or and and and (, and,,. or. in in and,, and, and and, (  ( and and- and of, of, and  and and and,, and, and and and,  and for or and and, in,  in in and- and, and on, and and,.  and or and- and,,,, or or and [ and and, on in and and on and and c or,,, in in and or and on or and with and  ( in and  and, and and c, and and or,- or and on or and, and,, and or, and, and, and, on, and [,,,, or, in as and, and, as,,, of,, and, and, and,. or (, ( and,.. ( or and, or in ( on and,, and a to, and., and and and,, c and and, as,,,,, (, and as in,, and. in and., as, ( and on in and (.,, [, or on. [ and c and and and c in c on,- on c as, ( ( (, and, and and on the on a and, and. and ( or and in, and, or,, on or, and for in,, with a (, and and on,,,, and ( and,, and,,,.,.. and,,,, and and, and, and ( c and,, and and or and,, on,, and in,, and,, as c as, and ( and and and, in,,. and ( or (,, and and,, and, and and, and,. and, and and and and or, on,,, and and  and and and c-  in,, and in and or in or or, on (- and, ( and, on and (

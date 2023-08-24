@@ -1,0 +1,392 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2089-06-27
+
+
+
+                          OFFICE NOTE
+                                
+George, Rickey
+MR #113-14-14
+06/27/2089
+
+COMPREHENSIVE EXAM. 
+
+PERSONAL DATA AND OVERALL HEALTH:  Now 63, despite his multiple
+medical problems, he continues to spend spring in West Virginia and remain
+reasonably active.  Wife very helpful in cooking appropriate
+meals and helping with day to day issues.  
+
+ONGOING MANAGEMENT/MULTIPLE MEDICAL PROBLEMS:
+    1.    Health maintenance.  Eye exam. Continue to recommend annual
+    exams with Dr. Ortiz.  Influenza vaccine advised, Winter 89.
+    PSA sent.  
+    2.    Preventative counseling.  Continues to swim in a pool, no
+    alcohol, no cigarettes.  Advised regular skin checks.
+    Avoidance of sun.  Rectal exam neg.  Smoking status: none
+    smoker.  Stool guaiac test: home with stool guaiac cards.  
+
+PROBLEMS:
+    1.    CAD.  He continues to do quite well with no evidence of
+    current symptoms of angina.  He is s/p CABG and most
+    recently s/p stent distal LCX 10/87.  
+    2.    CHF.  He has severe ischemic cardiomyopathy with chronic
+    CHF.  His most recent echocardiogram 4/88, showed a severe
+    depressed LV systolic function with estimated EF of 30% with
+    global hypokinesis and antero-apical akinesis with moderate
+    LV enlargement and mild concentric LVH with left atrial
+    enlargement, dilated aortic root, mild AI and trace MR. 
+    despite this, since getting on a stable dose of Lasix and
+    Carvedilol, which was added during his hospitalization for
+    CHF in 10/87, he has done well and currently denies symptoms
+    of orthopnea, PND or edema.  
+    3.    S/P AICD.  He is s/p recent admission to MCH, 6/17 through
+    6/19/89 for replacement of his cardiac defibrillator.  He
+    did well without complication and he continues to follow up
+    Dr. Cook on a regular basis.  He has had no VT, VF, which
+    has been symptomatic or which has caused triggering of his
+    AICD.  
+    4.    S/P DDD pacemaker for sick sinus syndrome, 7/83.  Continues
+    to do well, again, with close monitoring by Dr. Cook. 
+    5.    Hypertension.  Blood pressure is excellent on current
+    regimen and will continue same.  
+
+George, Rickey
+MR #113-14-14                 -2-            June 27, 2089
+
+    6.    Diabetes mellitus.  He continues on oral agents, watching
+    his diet and exercising as much as he is able.  He does not
+    monitor sugars often but he reports when he does have them
+    done, sugars are typically fasting 100-150 and no symptoms
+    of hypoglycemia.  Will check HBA1C and urine for micro
+    albumin today.  
+    7.    Cerebral vascular disease.  He is s/p cerebellar CVA, 7/80
+    with mild residual dysarthria and right sided weakness but
+    has had no new neurologic events. His most recent carotid
+    artery duplex study was from 5/88, showed a 60-80% stenosis
+    of the RICA but I don't actually hear a bruit on his exam
+    today.  He continues on Coumadin anticoagulation.  
+    8.    Hypercholesterolemia.  His most recent lipid profile is
+    quite improved with Lipitor with a total cholesterol down to
+    136, triglycerides 313, HDL 25, LDL 48 on 6/11/89.
+    Unfortunately, since his HDL remains low, which is
+    suboptimal, but he has not tolerated Niacin in the past. 
+    9.    Peripheral vascular disease. He continues to have bilateral
+    femoral bruits and diminished peripheral pulses but because
+    of his limited walking ability, he currently has no symptoms
+    of claudication. 
+    10.   Osteoarthritis. He is s/p left TKR by Dr. Robles last year
+    and is now doing quite well.  Notably, he would require
+    antibiotic prophylaxis for procedures.  
+
+REVIEW OF SYSTEMS:  He denies chest pain, shortness of breath,
+abdominal pain. He continues to have a rectal fistula.  Last
+year, had a negative Barium enema study and several years ago a
+sigmoidoscopy because of guaiac positive stool but this is
+presumably secondary to the rectal fistula, which intermittently
+bleeds.  He has had no recent edema in his legs. His left knee is
+doing quite well and he is working to strengthen the thigh
+muscles. He has nocturia one time per night. He has stable
+impotence, some decreased interest as well as some decreased
+ability to have erections, though he can still have a partial
+erection. Generalized decreased energy level.  
+
+PHYSICAL EXAM:  Blood pressure:  136/60, pulse: 60 and regular. 
+Weight: 181. General: amazingly well appearing.  Skin: no
+suspicious lesions.  HEENT: oropharynx edentulous, no lesions. 
+Lungs: clear to A&P.  COR:  carotids 2+, no bruits appreciated by
+my exam.  JVP flat. Thyroid: no thyromegaly. Nodes: no
+adenopathy.  COR:  s/p median sternotomy scar.  Pacer left upper
+chest wall. AICD with fresh Steri strips in place. No evidence 
+George, Rickey 
+MR #113-14-14                 -3-            June 27, 2089
+
+of erythema.  Left upper abdomen.  S1, S2, 2/6, HSM,  apex no S3,
+or diastolic murmur appreciated.  Abdomen: positive bowel sounds,
+soft non tender, no HSM or masses.  Rectal: mildly diffusely
+enlarged prostate without nodules, no rectal masses. Stool brown,
+guaiac negative.  Extremities:  scar over the left knee, no
+peripheral edema.  
+
+DISPOSITION:  Follow up with Opal Fierro.  Flu shot in the
+winter, sooner PRN. 
+
+
+
+
+Opal Fierro, M.D. 
+Dictated/Not Read
+
+OF/valle
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    """
+
+    # --------------
+
+    # The following are all in the form of the following:
+    #     'M.D. Name' 'Date'
+
+    # This is what is in the file that was generated
+    # for me on 7/1/2016 and I have not changed anything
+    # from what is below.
+
+    #
+
+# M.D. Name
+# 'Date'
+
+
+#
+
+    # I don't see any way for me to delete these two lines of
+    # text that came with the file that was generated for me
+    # on 7/1/2016.
+
+    
+
+    # This is what is in the file that was generated
+    # for me on 7/1/2016 and I have not changed anything
+    # from what is below.
+
+    
+
+    #     'M.D. Name' 'Date'
+
+    # This is what I want to be able to delete
+
+    #     M.D. Name
+    # 'Date'
+
+
+#
+
+    #
+
+    # I don't see any way for me to delete these two
+    # lines of text.
+
+
+    
+
+    #
+
+    # This is what is in the file that was generated
+    # for me on 7/1/2016 and I have not changed
+    # anything from what is below.
+
+    
+    # 10/07/2004
+
+    # M.D. Name
+
+    #
+
+
+    #
+
+    #    Date
+
+    # This is what is in the file  that was generated
+    # for me on 7/1/2016 and I have not
+    # changed anything from what is below.
+    #
+    #     M.D. Name
+    # Name  
+    #
+    #     M.D. 
+    #     Name
+
+
+
+    #
+    Name
+
+
+    #     George M.D. 3,  
+    Name
+
+
+
+Name  #  
+
+    D. N.
+    N
+
+
+    MON.   MON
+
+
+
+
+
+    
+
+   
+    D.N.  N.   N. 
+
+    N
+. Name. M. N  M. Name    M.  N.
+. N  Name
+M.
+
+    M.  N N.  N.
+
+
+
+
+
+Name
+
+
+
+
+
+    2 M. 1.
+   N. M.  N   N
+M N.
+
+
+M.   M.  N. 2 N (M.
+M.
+N
+N.   M.
+
+
+
+
+N. M. N
+
+
+
+
+N-M
+M
+N  M. N.
+N M
+N.
+
+M.
+1.
+N.
+
+
+
+N
+N
+M:   DON DATE 3.
+The  M.
+
+M.
+R
+M
+P
+ 19
+
+M
+
+20
+20
+2
+[1
+1
+CO:
+Most, MU
+PRE:
+DATE
+DATE
+CO
+
+
+
+D RECO
+(3010. The date:
+Invest
+
+
+10. 
+16. The date:  and/date and   and so:
+
+(A
+
+
+16 20. This
+20
+
+The  [A (1
+M: A: 8809
+2990 19 (3 -  [A
+ 3:
+A: 1321: B RE:
+1: [DE: 9. M FIVE:
+A MENT IN RE F CH SI CH BIF IN CH: (2:. 
+A:  9/ 7: " 9/ 20, and 9.12: 27.
+to: 1329 9988: 9 98 811
+:  1: IN M A MO CH A MO RE CHIVE RATIVE AND RE AND. 0 and  and  1. 2-f and. 1, [8.9.  (89 and:90 and. 9 (1-7/9/ 2 (A An An Anative.3, a: A and the. An.  C: 5-1 and: 1: 901-0 (7. -85-621:00-8 and AN CO: Anive An Anive : : LE F RE MO AN AN MO AN AN CO A AN RE C0 AN AN EN79. and0 and, 80.5-8-9.9 (-8 in a 9-4,. and., and (to (an:. -7-6-CO, 9.99.7 An0 0.15-0-5 8 A and 80 and a [9-  [. -0 [to-to. with a [28. 5.6 and.0-8.98-788. 9: 2  and 1 in a- -8-1-8 and 0 in the. 2. (3-8.20-00-9- - -1- -3 0-  in a [ 9 -2:   -9- [. 8,8 - -2 and-3- and (-0, [0, :. and. An: (, (0,0: [ to, a. -to.- - 1 1-  in [  to- to. to [  in a. to. with to in  with, in in.  with, [2. with,0 [2 with-0 with0 in2 in to with with00 2-0- 2-0-0 and:-1 in: and to in, to and-0 and and ( [.-1 and [1 with and, [0 in ( and. -2-9. -0 -0- for and. and for [ and. for the-  and.. - [-  -  - [[,  to. to [ [0  to.. to ( in. [- in- to and to and and [. to, [2., and and. (- . - [- - - -1-. - and.  to [1, and- C a [ S- C.- - C. 0- C (0- -,.- C- C.. (.-and in with and. ( C (0 (.  -0 and  C. and.- S and ( [. [ and.  C:. 0-1-2- C.  C in - and-1 " and- and [0-1.- -0 for.0 and and and in " with for. and  -0  [- [- C. C C-  "- and C.-1 - - and - and [ to- to:- and: to  [-  [- [: -  and- and- :  C- a [:, and C and - a-2- and- - and- [ and- - and [ and- A - in-  and in- - and S-2 and- -2-0 and 0 2 - "-1- -10-9-1- A, and C (- C.,0- and in. C a,- C.-1- C- for- - and for and-c- for, to ",.-2 for-1 of  and of of the of- for- for C a for and of the of of of of of of and of of of of 0 of C.  a -2 with.  a. and  with of- C of -. with-20-1 for- for- for, C- in- a and -0 and and and. and,. and- I and and- I.- and for and- an A A A-. c. [-2 and, and. C and,,  (,.- a- and- [- - and---0 -.,-0. C.- and. with, a.,. and..-. [ and,-0-2 C of [0 A of a- and. and-  and--2- a of of, of of and of, of or, and and.-  and -0-2 and-- and., of. of of, of and of- of-  of and of,  of, a  of, and of in- and -,,  of. of of- of  of  and and,  and and C and and- with and -- and- a: a and and and and and and a -  -, C- a of of C of  and of of,  a, and: and, and - and and  C- c: -- a, of and of, of A of of  and, of  of c of of, of of of c, of of a of of of- of and and (- and a, and (, and- and: -- C, in to and, of- of and a of and of of of,: of of of of of and of of a of of the of  of: of of of of of of  and of

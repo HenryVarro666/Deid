@@ -1,0 +1,325 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2067-06-18
+                     JELLICO EMERGENCY DEPT VISIT
+ 
+FOY,KEONTE H.   732-35-79-0                   VISIT DATE: 06/18/67
+PRESENTING COMPLAINT and HISTORY OF PRESENTING COMPLAINT:  This 
+patient was evaluated in conjunction with a resident.  Briefly, the 
+history is as follows:  This patient is a 54-year-old black male 
+with a history of insulin-dependent diabetes mellitus, who presents 
+with acute, severe substernal chest pain.  This pain began 
+approximately five hours prior to presentation, but accelerated 
+within the previous one to two hours.  It is accompanied by 
+diaphoresis, but not by shortness of breath or nausea.  The patient 
+does have a history of prior CVAs, but no history of previously 
+documented cardiac disease. 
+PHYSICAL EXAMINATION:  On physical examination, the patient is in 
+acute, severe distress.  He is diaphoretic and somewhat pale.  The 
+vital signs are as recorded in the Nurses' Notes but are stable 
+initially.  The HEENT examination shows the sclerae to be 
+anicteric.  The oropharynx is somewhat dry.  The neck is supple, 
+without venous distention.  The breath sounds are clear 
+bilaterally.  The heart shows a regular rate and rhythm with 
+somewhat distant tones, without discrete murmur.  The abdomen is 
+slightly obese and soft throughout, without tenderness.  The 
+extremities show no discoloration or edema. 
+LABORATORY EVALUATION:  The electrocardiogram shows an acute 
+anterior myocardial infarction.  Other laboratory studies are 
+pending at this time.  A chest x-ray has been obtained, though it 
+has not been processed at the time of this dictation. 
+THERAPY RENDERED/COURSE IN ED:  The patient was treated with 
+aspirin and nitroglycerin en route.  He was started on a 
+nitroglycerin drip, which was incrementally increased to 80 
+micrograms per minute.  He was given morphine sulfate in 2 mg 
+increments to a total of 10 mg.  He was given 5000 units of 
+intravenous heparin.  He was given 2.5 mg of intravenous Lopressor. 
+The Cardiology Service is here with the patient and he is being 
+taken to the Cardiac Catheterization Laboratory for immediate 
+angioplasty. 
+FINAL DIAGNOSIS:  Myocardial infarction. 
+DISPOSITION (including condition upon discharge):  As above. 
+Please see the handwritten record for further details. 
+___________________________________                    HA304/1577 
+EDGAR BELTRAN, M.D.  EB83                                D:06/18/67 
+                                                       T:06/18/67 
+Dictated by:  EDGAR BELTRAN, M.D.  EB83 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+"""
+
+
+
+# -----------------------------------------------------------------------------
+#                                     CLASS METHODS ------------------------------
+# -----------------------------------------------------------------------------
+
+
+def write(filepath, data):
+    """This function will write the filepath and data to disk using the
+    write() function."""
+    try:
+        with open(filepath, 'w') as f:
+            f.write(data)
+    except Exception as e:
+        print "An error occured: {0}".format(str(e))
+        traceback.print_stack()
+
+
+def read(filepath):
+    """This function will read the filepath and data from disk using the
+    read() function."""
+    try:
+        with open(filepath, 'r') as f:
+            return f.read()
+    except Exception as e:
+        print "An error occured: {0}".format(str(e))
+        traceback.print_stack()
+
+
+# ----------------------------------------------------------
+#                                       PUBLIC PROPERTIES
+# ----------------------------------------------------------
+
+
+class Record(object):
+    """This is the main class that is instantiated from the Record class."""
+
+    def __init__(self, patientName=None, patientAge=None,
+                 patientGender=1, patientDOB=None,
+                 patientDiagnosis=None,
+                 patientPresentingComplaint=None,
+                 patientHistory=None,
+                 recordCreationDate=None,
+                 recordLastModifiedDate=None,
+                 patientVisitDate=None,
+                 recordLastEditedDate=None):
+        if patientName is None:
+            # Patient does not have a name
+            self.patientName = ""
+        elif type(patientName) == int:
+            # Patient has been assigned a number
+            self.patientName = "Patient " + str(patientName)
+            # print "Patient {0} assigned a {1}".format(patientName, patientAge)
+        else:
+            self.patientName = patientName
+        self.patientAge = patientAge
+        self.patientGender = patientGender
+        self.patientDOB = patientDOB
+        self.patientDiagnosis = patientDiagnosis
+        self.patientPresentingComplaint = patientPresentingComplaint
+
+        if patientHistory is None:
+            self._patientHistory = ""
+        elif type(patientHistory) == int:
+            # Patient has been assigned a number
+            self._patientHistory = "Patient " + str(patientHistory)
+        else:
+            self._patientHistory = patientHistory
+
+        # If the patient has a diagnosis, record it
+        if self.patientDiagnosis is not None:
+            self._diagnosis = self.patientDiagnosis
+
+        if recordCreationDate is None:
+            # Patient is not in the system yet
+            self._creationDate = None
+        elif type(recordCreationDate) == int:
+            # Patient was assigned a number
+            self._creationDate = str(recordCreationDate)
+        else:
+            self._creationDate = recordCreationDate
+
+        if recordLastModifiedDate is None:
+            # This is the initial record
+            self._lastModifiedDate = None
+        elif type(recordLastModifiedDate) == int:
+            # Patient was assigned a number
+            self._lastModifiedDate = str(recordLastModifiedDate)
+        else:
+            self._lastModifiedDate = recordLastModifiedDate
+
+        self.recordLastEditedDate = recordLastModifiedDate
+
+    # -------------------------------------------------------
+    #                       PRIVATE ATTRIBUTES
+    # -------------------------------------------------------
+
+    # This is the last edited date for the record.  It is only set
+    # when the record is last edited.
+    privateLastModifiedDate = None
+    privateModified = False
+
+    # --------------------------------------------------------
+    #                               GET & SET ATTRIBUTES
+    # --------------------------------------------------------
+
+    def getPatientName(self):
+        return self.patientName
+    patientName = property(getPatientName)
+
+    def getPatientAge(self):
+        return self.patientAge
+    patientAge = property(getPatientAge)
+
+    def getPatientGender(self):
+        return self.patientGender
+    patientGender = property(getPatientGender)
+
+    def getPatientDOB(self):
+        return self.patientDOB
+    patientDOB = property(getPatientDOB)
+
+    def getPatientDiagnosis(self):
+        return self.patientDiagnosis
+    patientDiagnosis = property(getPatientDiagnosis)
+
+    def getPatientPresentingComplaint(self):
+        return self.patientPresentingComplaint
+    patientPresentingComplaint = property(getPatientPresentingComplaint)
+
+    # This is the diagnosis from the record if we have been able to find it
+    # If it has not yet been entered, this will still return None.
+    def getPatientDiag(self):
+        return self._diagnosis
+    patientDiag = property(getPatientDiag)
+
+    # This is only used for initial records.  After the record is created,
+    # the record's last modified date is written to disk and this becomes
+    # self._lastModifiedDate.  This function returns the last modified date
+    # for the record
+    def getPatientDate(self):
+        return self._creationDate
+    creationDate = property(getPatientDate)
+
+    def getPatientLastMod(self):
+        return self._lastModifiedDate
+    patientLastMod = property(getPatientLastMod)
+
+    def getPatientLastModifiedBy(self):
+        return self._lastModifiedDate
+
+    patientLastModifiedBy = property(getPatientLastModifiedBy)
+    lastModifiedBy = property(getPatientLastModifiedBy)
+
+    def getPatientLastModifiedBy  = property(getPatientLastModifiedBy
+    = patientLastModifiedBy  =
+    = property(getPatientLast ModifiedBy =   =  12
+
+
+    =    =
+    =    =   =    =     =  = 30
+    =  =  =
+    =   =    =    =
+    = = (2   =    =   =  =  = 
+    = =        =  =  =
+
+    =
+    =
+        =  = 
+
+    =  = =
+    =  = =  =  =. 201
+        =  =  =  =  =  = =  =
+
+
+    =  =
+
+    
+= =  =  = 
+
+
+        =1 =   
+
+1
+
+= 2
+JUN   
+
+           
+             
+=   2
+            =
+             = 
+
+
+     = 2
+
+
+
+
+111
+ 
+
+
+10
+1
+JAN_    
+                
+
+3 11
+ 5
+
+
+1
+
+1
+
+1
+
+
+1= 
+JAN
+1
+                
+1
+JAN 2
+J
+With 
+
+0        
+The
+18
+100
+
+A-12, which
+A-1
+The
+B
+The 
+A DATE
+1191
+
+0, which with 2 with, a  with,
+With-1
+
+The date and the following date and a (1, and a few...
+2: 81. The  9
+11 9 
+
+119  [Medic M, MIC PRI
+
+HOS
+(112
+MA PULIC: 
+M H: . 121116,11
+0 date 261109:20100:  28 A
+MED M16
+
+2
+12
+1:
+The, with with the with with a, with the a
+A MOT PRE DATE MIC 7817:12
+0020000,16
+[60, 8
+14, 808 Anified M
+(dime, 6
+with
+680000000-7700, 7 [3 to the: with one,1 with one-8/1/1/11-1-9 and. An [0.A, -2/2-8-1. An:. and a and, an diagnary with with the with with a with a. Anistr Anicial Anistr. (5. 1-2-4 1.00-11-10/0-0006, 00-10 to [[1, 8, 18
+01.  and -11-6: with a-with. with the. with a,20-18 -2..1., an (an. -old,,. -1 with-with- 0-2-2 with the with the with  with with  with the with with a with  to a-an to the to  to a-6 on to the to with to with to with a with  with with a-7-[. to -and to: a and with with the with a with with with with an: with with-ann with the,,-to-to-to to to-to to to a to to a to an to an-to-  an one. to [ann-to-to,, the to: with to an with, with, [  [ an  [ and an- to the-an [ to with: a to a to with with with an to: an: [ [: an [,  and [, with with: with [ with with with, with with with a with with with and an- [-an-, : ANist  with- an- and,- an- an, anine:, [[ - [:- [, C:  an.  [ and- [3 [ an- - 1-00- -2 [- and [ an- [. an- prior an- - [ and after, [- anism - H to to- AN - (- with with in with to with with with-   an-0. 000000- and- an.- prior- and in- prior [- and [- [ -M I -B-1-with with with with with with with, with- with an,-O-O-H- and - [[-,-,- - an an, O-  and- to-P C I or,- and-O and (-O-O-,,,,,, O of the- and and- and- and-and- and-and- an- I, I [0 H and to and (- an. and- and-[ and-I-R- and and with with with with with an with, with H with and with and and to V H with and with with with with with with with with V-1- an- one-0-- an-/- H- and H H and- I,- (- to, and,, (, ( (  and (/- ( and ( and.- and (-1, and and- it H- and and- it- H and-H-C: and H C and- to: to and (-: [-:, [ C H ( H/, ( [ and ( H C and I, CH., H C ( and H [ ( A of V of H and H CL H and H and- and C of ( [... H of (... of H and H- and [ to to and- to to to to to to to to (/ to-1 ( to:/ and [ of::/ to:// H to C to [ C:::: (:: C (::: H:::: an to and- I::: and: C-0 H C (: and and and- H and: and- and: H H- and.- and c c- and C and and C C to and C and. and ( to H C H, and  and ( H00 L0 C.. of. of: of- and-. and and (-  and H A and- and or- H- C- and C and. ( ( C-: and and (-- and H or - ( C0- C- C ( C [ C H- and or- C and (- and- and C- [0 and. H and T E. T A T and C- to and and C- and H or and C ( and H, H of and and of of and of and, CH and of an and of and- H to and and to and- and H. (- C- a H of of C or of ( of, of of of of ( H or and and and and- H. and and-8 M and of H and of-2 of of of an23 and and2/1 C0 M (1- H-2 A2- a- of-0 or and- an and-1- and [-0--5-0-4 of: of of of of of of:- an of an-0:: :::: ( and:::: of: a of the:: of::/::: and::::0:1::::100:: of::::/:--0:::--:- of:::: of:: of C::::::::0 C2:::::: of:::: of: of: of:1:

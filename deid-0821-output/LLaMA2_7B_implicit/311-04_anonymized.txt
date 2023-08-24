@@ -1,0 +1,480 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2089-11-05
+
+EDOBS^43294739^FINNEY, INDIANA^11/04/89^YEAGER, HAROLD
+
+I saw this patient with Dr. Sawyer.  I confirm that I have
+
+interviewed and examined the patient, reviewed the resident's
+
+documentation on the patient's chart, and discussed the
+
+evaluation, plan of care, and disposition with the patient.
+
+CHIEF COMPLAINT:  Heart is racing.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 52-year-old female
+
+with history of diabetes mellitus type 2 and sarcoid, who
+
+presents with onset one hour prior to admission of left arm
+
+pressure and heart racing.  The patient denies shortness of
+
+breath.  She has no nausea, vomiting, and no fevers or chills. 
+
+She says that she has occasionally had these symptoms in the
+
+past, they have already stopped on their own.  Tonight, they
+
+lasted for approximately 30 minutes prior to calling EMS.  En
+
+route EMS took 12-lead ECG showing a rate of 150, suspected a
+
+flutter and was given 20 mg diltiazem by EMS with no response. 
+
+She describes feeling in her left arm as dull pain, it is 3/10,
+
+and it has not made better or worse by anything.
+
+PAST MEDICAL HISTORY:  Please see paper chart.
+
+SOCIAL HISTORY:  Please see paper chart.
+
+REVIEW OF SYSTEMS:  Please see paper chart.
+
+MEDICATIONS:  Please see paper chart.
+
+ALLERGIES:  Please see paper chart.
+
+PAST SURGICAL HISTORY:  None.
+
+FAMILY HISTORY:  Reviewed and noncontributory.
+
+PHYSICAL EXAMINATION:  A middle-aged African-American woman,
+
+awake, alert, and in mild distress.  Exam limited by obesity. 
+
+Exam is significant for neck; normal to inspection, supple,
+
+nontender, and unable to appreciate JVP.  Respiratory:  No
+
+distress.  Chest:  Nontender and normal breath sounds. 
+
+Cardiovascular:  Tachycardic at 115 and regular and 2/6 systolic
+
+ejection murmur, no gallop, and no friction rub.  Abdomen:  Soft,
+
+nontender, no organomegaly, and no masses, otherwise, as
+
+documented on the paper chart.
+
+IMAGING STUDIES:  ECG shows a flutter at 150 beats per minute in
+
+ECG #1.  ECG final shows a sinus rhythm at approximately 60 beats
+
+per minute with no signs of ischemia.
+
+IMPRESSION:  The patient is a 52-year-old female with a history
+
+of occasional brief palpitations now with one hour of continuous
+
+palpitations and ECG consistent with atrial flutter.  She was
+
+given 20 mg of diltiazem IV by EMS.  In the Emergency Department,
+
+she was given 20 mg without significant response, followed by 40
+
+mg ID and was achieved a good response.  As the patient required
+
+a significant amount of diltiazem to slow her rate and convert
+
+her and she is also feeling somewhat nervous, we will keep her in
+
+the Observation Unit overnight.  She should get an oral dose of
+
+diltiazem overnight.  She should get cardiac monitoring in the
+
+morning.
+
+PLAN:  To discuss with KEKELA Cardiology and obtain consultation as
+
+to possible discharge on beta-blockers versus calcium channel
+
+blockers.  If the patient does not have a new symptoms she would
+
+be stable for discharge in the morning.
+
+PRIMARY DIAGNOSIS:  Atrial flutter with rapid ventricular
+
+response.
+
+SECONDARY DIAGNOSIS:  Left arm pain.
+
+CRITICAL CARE TIME:  35 minutes.
+
+______________________________
+
+YEAGER, HAROLD M.D.
+
+D: 11/05/89
+
+T: 11/05/89
+
+Dictated By: YEAGER, HAROLD
+
+eScription document:0-6602107 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+```
+
+### Episode 2
+
+Record date: 2090-10-23
+
+EDOBS^43294739^FINNEY, INDIANA^10/23/90^YEAGER, HAROLD
+
+I saw this patient with Dr. Yager.  She is being seen at our office
+
+for routine care and is not in the ED.
+
+CHIEF COMPLAINT:  Palpitations.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 54-year-old
+
+female with a history of sarcoidosis, diabetes mellitus type 2
+
+with no history of coronary artery disease (CAD).  She has not
+
+been seen in our office for over three months.  She reports that
+
+she was recently on a 4-week vacation and that she has had
+
+palpitations since coming back.
+
+PAST MEDICAL HISTORY:  Please see paper chart.
+
+SOCIAL HISTORY:  Please see paper chart.
+
+REVIEW OF SYSTEMS:  Please see paper chart.
+
+MEDICATIONS:  Please see paper chart.
+
+ALLERGIES:  Please see paper chart.
+
+PAST SURGICAL HISTORY:  None.
+
+PHYSICAL EXAMINATION:  A middle-aged African-American woman,
+
+awake, alert, and in mild distress.  Exam limited by obesity. 
+
+Exam is significant for a JVD 3.5 cm.
+
+IMPRESSION:  This patient has a JVD of 3.5 cm.  She was seen in
+
+our office on October 14 and 22 and has not been on a beta
+
+blocker since. We will continue her on a beta blocker and get
+
+an ECHO in the next few months.
+
+PLAN:  To continue with beta blocker.  She has a follow-up
+
+appointment scheduled.
+
+PRIMARY DIAGNOSIS:  JVD.
+
+SECONDARY DIAGNOSIS:  Palpitations due to sarcoidosis.
+
+CRITICAL CARE TIME:  40 minutes.
+
+```
+
+### Episode3
+
+Record date: 2091-10-08
+
+EDOBS^43294739^FINNEY, INDIANA^10/8/91^YEAGER, HAROLD
+
+I saw this patient with Dr. Yager.  She presented to her
+
+primary care physician on the 5th of October for palpitations and
+
+shortness of breath on exertion and the patient was transferred
+
+here to the hospital for treatment.
+
+CHIEF COMPLAINT:  Palpitations.
+
+HISTORY OF PRESENT ILLNESS:  The patient was a 54-year-old
+
+female who presented to her primary care physician on the 5th
+
+of this month with shortness of breath.  She has history of
+
+diabetes mellitus type 2 and sarcoidosis.  She has also been
+
+treated for COPD for the past 2 years.  She was admitted and she
+
+also has an EKG of the past that does show an atrial flutter.
+
+PAST MEDICAL HISTORY:  Please see paper chart.
+
+SOCIAL HISTORY:  Please see paper chart.
+
+REVIEW OF SYSTEMS:  Please see paper chart.
+
+MEDICATIONS:  Please see paper chart.
+
+ALLERGIES:  Please see paper chart.
+
+PAST SURGICAL HISTORY:  None.
+
+PHYSICAL EXAMINATION:  A middle-aged African-American woman,
+
+awake, alert, and in mild distress.  Exam limited by obesity. 
+
+Exam is significant for JVD of 4.2 cm.
+
+IMPRESSION:  The patient is here to continue her beta blocker,
+
+which she is on at home.  We are continuing to follow her closely
+
+for the COPD and her shortness of breath.  She will follow up
+
+in our clinic on the 16th of October for her beta blocker, and we
+
+will follow up on her shortness of breath.
+
+PLAN:  To continue beta blocker and follow up in our clinic on
+
+the 16th of October.
+
+PRIMARY DIAGNOSIS:  Palpitations, shortness of breath.
+
+SECONDARY DIAGNOSIS:  None.
+
+CRITICAL CARE TIME:  50 minutes.
+
+```
+
+### Episode4
+
+Record date: 2092-10-20
+
+EDOBS^43294739^FINNEY, INDIANA^10/20/92^YEAGER, HAROLD
+
+I saw this patient with Dr. Yager.
+
+CHIEF COMPLAINT:  Shortness of breath.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 56-year-old
+
+female with a history of diabetes mellitus type 2 and sarcoidosis.
+
+She is here to continue her beta blocker, which she is taking
+
+at home for palpitations.  The patient denies fevers, chills,
+
+cough, hemoptysis, chest pain or pressure, and she denies nausea
+
+vomiting or change in her appetite.
+
+PAST MEDICAL HISTORY:  Please see paper chart.
+
+SOCIAL HISTORY:  Please see paper chart.
+
+REVIEW OF SYSTEMS:  Please see paper chart.
+
+MEDICATIONS:  Please see paper chart.
+
+ALLERGIES:  Please see paper chart.
+
+PAST SURGICAL HISTORY:  None.
+
+PHYSICAL EXAMINATION:  A middle-aged African-American woman,
+
+awake, alert, and in mild distress.  Exam limits by obesity.
+
+Exam is significant for a JVD 4.0 cm.
+
+IMPRESSION:  The patient is here to continue her beta blocker,
+
+which she is taking at home.  She does deny shortness of breath
+
+on exertion, but she also denies any shortness of breath.
+
+PLAN:  We are going to send her home with the following medications.
+
+Beta blocker for her palpitations, 25 mg twice a day.  We will
+
+follow up in our office on the 7th, and if there are any questions
+
+we will give her a call in our office.
+
+PRIMARY DIAGNOSIS:  Palpitations.
+
+SECONDARY DIAGNOSIS:  None.
+
+CRITICAL CARE TIME:  55 minutes.
+
+```
+
+### Episode5
+
+Record date: 2093-10-16
+
+EDOBS^43294739^FINNEY, INDIANA^10/16/93^SCHULMAN, JOSEPH
+
+I saw this patient with Dr. Schulman.  Her history is as follows.
+
+The patient is a 57-year-old female who had a history of
+
+sarcoidosis, diabetes mellitus type 2, and COPD.
+
+CHIEF COMPLAINT:  Shortness of breath.
+
+HISTORY OF PRESENT ILLNESS:  I have been seeing the patient
+
+since 1990 for palpitations.  The patient is not in pain. She
+
+denies any fevers or chills.  She denies any cough, hemoptysis,
+
+chest pain or pressure, nausea, vomiting, change of appetite,
+
+and abdominal discomfort.
+
+PAST MEDICAL HISTORY:  Please see paper chart.
+
+SOCIAL HISTORY:  Please see paper chart.
+
+MEDICATIONS:  Please see paper chart.
+
+ALLERGIES:  Please see paper chart.
+
+PAST SURGICAL HISTORY:  None.
+
+PHYSICAL EXAMINATION:  A middle-aged African-American woman,
+
+awake, alert, and in mild distress.  Exam limited by obesity.
+
+Exam is significant for JVD 3.5 cm and an increased jugular
+
+vein.
+
+IMPRESSION:  The patient is here to continue her beta blocker,
+
+which she is taking at home.  She is having no problems with
+
+shortness of breath on exertion at this time.  She denies having
+
+any shortness of breath.
+
+PLAN:  To follow up on beta blocker.  We will follow up on her
+
+shortness of breath and if she continues to do well, we will
+
+follow up on her palpitation next year.
+
+PRIMARY DIAGNOSIS:  Palpitations, shortness of breath.
+
+SECONDARY DIAGNOSIS:  None.
+
+CRITICAL CARE TIME:  160 minutes.
+
+```
+
+### Episode 6
+
+Record date: 2095-04-26
+
+The patient presented to her primary care physician on the 27th
+
+of February with complaints of shortness of breath with exertion
+
+and cough. The patient presented to the hospital and was diagnosed
+
+with COPD and she was also placed on a beta blocker for her
+
+palpitations and was admitted to the hospital.
+
+CHIEF COMPLAINT:  Palpitations.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 54-year-old
+
+female with a history of diabetes mellitus type 2 and sarcoidosis
+
+who was here with a chief complaint of palpitations.  She is
+
+now on a beta blocker and she is doing well.  She does deny any
+
+cough, hemoptysis, chest pain or pressure, and nausea,
+
+vomiting, or change of appetite.
+
+PAST MEDICAL HISTORY:  Please see paper chart.
+
+SOCIAL HISTORY:  Please see paper chart.
+
+REVIEW OF SYSTEMS:  Please see paper chart.
+
+MEDICATIONS:  Please see paper chart.
+
+ALLERGIES:  Please see paper chart.
+
+PAST SURGICAL HISTORY:  None.
+
+PHYSICAL EXAMINATION:  A middle-aged African-American woman,
+
+awake, alert, and in mild distress.  Exam limited by obesity.
+
+Exam is significant for JVD of 4.0 cm and increased jugular
+
+vein.
+
+IMPRESSION:  The patient is doing well.  She has been on
+
+beta blocker for 2 months.  She will be seen in our office in
+
+the beginning of August and her follow up is scheduled for the
+
+beginning of October.
+
+PLAN:  To follow up in our clinic on the 10th of August and to
+
+follow up on beta blocker, and her palpitations, and shortness of
+
+breath.
+
+PRIMARY DIAGNOSIS:  Palpitations.
+
+SECONDARY DIAGNOSIS:  None.
+
+CRITICAL CARE TIME:  21 minutes.
+
+```
+
+### Episode 7
+
+Record date: 2099-08-04
+
+EDOBS^43294739^FINNEY, INDIANA^8/4/99^YEAGER, HAROLD
+
+I saw this patient with Dr. Yager.
+
+CHIEF COMPLAINT:  Palpitations.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 59-year-old
+
+female with a history of sarcoidosis and diabetes mellitus
+
+type 2.  This patient was seen in the

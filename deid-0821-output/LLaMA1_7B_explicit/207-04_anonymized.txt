@@ -1,0 +1,355 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2082-08-19
+
+EDVISIT^55931516^Orta, Phil^08/19/82^IP, INDIGO JOHN
+
+The patient was interviewed and examined by the resident.  He 
+
+was also interviewed and examined by me.  Resident's note
+
+reviewed by me.  The patient's medical management was discussed
+
+with the resident.
+
+CHIEF COMPLAINT:  Chest pain.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 59-year-old male
+
+who presents to Mamaroneck Health Emergency Department on
+
+08/19/2082.  He has history of coronary artery disease and status
+
+post cardiac catheterization in 2062, now presents with dyspnea
+
+on exertion worsening during throughout this week.  No PND, no
+
+pedal edema, no fevers or chills, no nausea or vomiting, no chest
+
+pain, no dysuria, no dyspnea at rest, and no pleuritic chest
+
+pain.
+
+PAST MEDICAL HISTORY:  Hypertension and coronary disease; has had
+
+a negative stress test in 2080.
+
+SOCIAL HISTORY:  Past tobacco use, occasional ETOH, no IV drug
+
+abuse.  He is unemployed and lives alone.
+
+SURGICAL HISTORY AND FAMILY HISTORY:  Noncontributory.
+
+REVIEW OF SYSTEMS, MEDICATIONS, AND ALLERGIES:  As noted in the
+
+patient's chart.
+
+PHYSICAL EXAMINATION:  The patient is awake and alert, in no
+
+acute distress.  Temperature 97, pulse 63, respiratory rate 20,
+
+blood pressure 134/64, and O2 sat 98% on room air.  HEENT: 
+
+Atraumatic.  ENT, normal inspection.  Pharynx is normal.  Neck is
+
+supple and nontender.  Respiratory exam:  Chest wall is
+
+nontender, normal breath sounds bilaterally.  Cardiac exam: 
+
+Regular rate and rhythm, no murmur, normal pulses throughout. 
+
+Abdomen is soft and nontender.  Skin is warm, dry, and intact. 
+
+No lesions or rashes.  Extremities are nontender.  No clubbing,
+
+cyanosis, or edema.  Neurologic exam: Cranial nerves II-XII
+
+intact bilaterally.  No motor or sensory deficits.  The patient
+
+has a foot drop on the left.
+
+LABORATORY DATA:  Significant for white count of 6.3, hematocrit
+
+39.9, sodium 136, potassium 4.9, chloride 102, bicarbonate 26,
+
+BUN 17, creatinine 1.1, and glucose is 73.  First troponin is
+
+less than assay.  The patient has a CK of 1028; has persistent
+
+elevated high CKs.  UA is negative.  Urine tox negative.  EKG
+
+shows first-degree AV block, sinus rhythm, otherwise no acute
+
+ST-T wave changes.  Chest x-ray is negative.
+
+PRIMARY DIAGNOSIS:  Dyspnea on exertion, concern for this being a
+
+ ******** Not reviewed by Attending Physician ********
+
+coronary artery disease history.
+
+DISPOSITION:  The patient is being admitted to ED Observation for
+
+rule out MI by enzymes and for exercise stress test.  I reviewed
+
+and confirmed the findings with Dr. Irizarry who is the resident
+
+taking care of the patient with me.
+
+______________________________
+
+IP, INDIGO JOHN M.D.
+
+D: 08/19/82
+
+T: 08/19/82
+
+Dictated By: IP, INDIGO JOHN
+
+eScription document:2-6098361 BFFocus
+
+
+
+
+
+"""
+
+# ----------------------------------#
+#   The test data file
+# -----------------------------------
+
+
+test_datafile = """
+
+
+Record date: 1998-07-17
+
+EDVISIT^37880563^Mullen, James^07/17/98^IP, INDIGO JOHN
+
+Patient's history includes a recent MI and is known to have a
+
+history of CAD and hypertension.
+
+PATIENT DIV:
+
+CHRONIC DIAGNOSIS:
+
+CAD - CORONARY ARTERY DISEASE
+
+HYPERTENSION - BLOOD PRESSURE TOO HIGH
+
+DIABETES - BLOOD SUGAR TOO HIGH
+
+
+PAST MEDICAL HISTORY:
+
+CORONARY ARTERY DISEASE - CAD
+
+HYPERTENSION - BLOOD PRESSURE TOO HIGH
+
+DIABETES - BLOOD SUGAR TOO HIGH
+
+
+SICKLE CELL ANEMIA - HAVE SICKLE CELL AN
+
+HEMOLYSIS - BLOOD SUGAR TOO LOW
+
+
+SOCIAL HISTORY:
+
+PAST TOBACCO - USED TO SMOKE
+
+ALCOHOL - DRINK BEER OR WINE OR LIQUID
+
+ETOH - ETOH IS ALCOHOL
+
+NICOTINE - USE NICOTINE
+
+NO IV DRUG - USE NORMAL MEDICATIONS
+
+NO OPIOID - NOT USING OPIOIDS
+
+CANADIAN POT - USE MARIJUANA
+
+
+REVIEW OF SYSTEMS, MEDICATIONS, AND ALLERGIES:
+
+GENERAL - GENERAL SENSATIONS
+
+PAIN - PAIN IS WHAT PEOPLE FEEL WHEN THEY GET HURT OR
+
+INJURED
+
+PAIN - FLANK PAIN IS WHEN YOU FEEL PAIN WHEN YOU PRESS
+
+YOUR FINGER ON YOUR SIDE
+
+
+PHYSICAL EXAM:
+
+HEENT - HEAD, NECK, EYES, EARS, NOSTRILS, THROAT
+
+HEART - HEART
+
+RESPIRATION - THE WAY YOU BREATH
+
+BREATH - AIR OR GAS YOU BREATHE IN YOUR LUNGS
+
+
+GENITOURINARY - GENITAL - RELATED TO BOTH PENIS OR
+
+VAGINA
+
+GENITOURINARY - URINARY TRACT - RELATED TO BOTH PENI
+
+SS
+
+GENITOURINARY - BLADDER - RELATED TO BOTH PENIS OR VAGINA
+
+GENITOURINARY - MIS
+
+GENITOURINARY - BOWELS - RELATED TO BOTH ANUS OR
+
+STOOL
+
+GENITOURINARY - UR
+
+
+ABDOMEN - ABDOMEN - RELATED TO BOTH ABDOMEN OR BELLY
+
+
+
+GENERAL EXAM INCLUDING EXTREMITIES AND SPINE - GENERAL
+
+EXAM OF EXTREMITIES - EXAM OF YOUR HANDS AND FEET
+
+SPINE - SPINE IS YOUR BACK
+
+SKIN
+
+
+
+
+LABORATORY DATA:
+
+BLOOD TESTS - DRAWN OR GIVEN BY A DOCTOR TO SEE IF
+
+THE PATIENT IS SICK OR HAS THE SAME SYMPTOM
+
+LABORATORY DATA - TESTS OR LABORATORY DATA - DATA
+
+FROM A LABORATORY - TESTS
+
+UA IS POSITIVE FOR HEPB
+
+T
+
+AIDS ANTIBODIES - ABSENT
+
+STDs - SYPHILIS
+
+STDs - HIV
+
+STDs - HIV
+
+
+STDs - HIV
+
+STDs - HIV
+
+STDs - HIV
+
+STDs - HIV
+STDs - HIV
+
+STDs - HIV
+
+H
+BLOOD GROUPS - GROUPS - GROUPS
+
+BLOOD GROUPS - GROUPS
+
+STDs - GROUPS - GROUPS - HIV
+STEM
+BLOOD Groups - HIV
+
+BLODs - BLOD
+BLOD
+
+HIV, BLOD
+BOLD
+BLOD
+
+BOLD,BOLD. 
+BOLD, 4BOLD, 
+
+12BOL. 12BOLD names
+BOL and 
+1BOLD.
+BLOD,
+
+BOLD
+D.  DD or BD, and BOL. 
+D or BOL
+B,D.B
+D
+B. 
+BOL. 420..
+B.
+
+BOL.
+
+D...
+B.
+
+B.
+D.
+Birth.
+D.
+D.
+
+... and D.
+D.
+...
+D.
+B. names.
+B., BD, B.
+
+B. 12 B or a patient-dise. DD and, and D.
+B, or DD...
+
+D.D.
+names of names (D, D and D...
+name of...D
+D....
+D, d...
+the 1, and 0 or the patient.
+(the [1... 3.
+(or name, or names, and the names, name, as and date.
+D. 1.
+or the date of... (
+
+
+The [1.
+or, and the letter and a letter, orations, and orations...
+
+names, the 14, 
+The...
+[11, the patient-1, [the patientized patient names
+names...
+names, you: patient-specific:
+
+[1 (the "… 0 patient.
+
+are, or: 
+
+
+10...1 (the or [
+or and: or 10: the date, orise 0, your, the names or, or: [...
+or (1: the (dise (and, indicate the, and “theize the: (...: and "…, 10 and and the are (...and are the, the 11 or, 1 (and and 0 in  and,
+, or the 1, a, but, and, and 1 or (1, the, or, 3, a, and, and, and and, 2 and, 1. 0 (and, "and, 2, and, are, and, are are, an or, 1 of the " and and " and and, the and-and, the 8 [with the and and 3 "inities “and patient and: the (0.
+[2, the are in the-are-and of 0 or in the " 1 or... by [1, 9, 1, anine,
+in, 1 of the of the. and (, (and [1 of an, and, anine, 0, an might an are the are in the, an an 1 (an in the, an, an, an, "and, the (of. an, an and, an, an, (P of "le, and, (and or, an, or, 9, of 0 or, of, an, 2, or and, [le-and, "1. An An and the, An, An (C (1, 19, an, an, an and, An An (0 orist-an-1 of an (1 of [: 9-19-and: " and:
+: 0: 2, 0: 1 and an [2, and in an an or-  and and or and an and (1: of " (1-P and are are and-1 in  and an-in, an (. of  of. and, [.. or [ [and an and and, (,,,, An An An An An ([ or or and, ( or- or, (1 or [an-P and are an an and an an, an an an an an, or an ( and an-an-an-2 [ of an,- an of an or of  of and or of  ( and, an,,,-1, " and an, of an of an of or of the  and " of an of an [, ( in are or an an- - or  of  an or or an an an or an- an or an,, an  or or and of  or of the " and of the of the of  and and, ( or and and,: and in ( and- and- or-, or of  of an or- or -0 An An C An An of an-an  and and and in- and ( or of, ( and or,  and and, [ and and, in in, in, an an-1 an. of,,, of, of or, of, an (,, and an and, cine and and, ( an, and of, of the of the of the of of  of of  of and and (, or with with or and and and or, or, or and ( and, to, and (-2 and with an or and in and-c or of ", and  ( or and, [ and and,  an-1 " and- or or and and-1 and or [, and and, and- and [ ( or-1 " and or  an and, and and  c and ( or, ( (-1 and and c and (- c ( or c- or and or c, of: of c-  an c of  and  and ( : ( and- and: (: and c and (- and of  of an of (-2 " of the and of or ( or an c ( of an and of and ( of and of or and of [ of an of- and ( (, [, - or-  or or and-  of,-C of of  of of of an of 1 or c-1 and -  and,,, and -  - and and or,,, or or ( and, and c- and and, - and. and- and and -, and and of of of of an of  an and-C and and [ or  and or or of,  and, and of an an of or an- c- and and an an or  [ or and and  or- or- or or of w- or c an,,- and, or ( and and and and and and-  and and and, and [ and and or  or and and, and an c.- and and and, and an ( and and and to and and and, and and,, and, or and and and and and  and and and (,, and and and,,,,, and and, and, ( and ( and,,,, and ( and,  or c, ( w and-c and of-2, c- and h-1,-t and, c-f (-c and,,, and,, and,,, and- and c ( (- and or and [and, and and [ or and, - and -  and [- 2 c-  or and-c and and and (,-and and and- and and and and- or [ c an t ( and- and or or, (,, and (- or c (, " and- C or C (- c c- n, and and and,,, and and, and [, and, and,, (- and,, and and and and and (, and,- _,, to,- of- and of and of to and ( and and and,,-1- or- and, and- ( and, and, C and, and, [ and C,, and,- [ C, and,, and and and. and,- and and-1- and and and, and-0 and- B M- or- and, and and and- and,, 

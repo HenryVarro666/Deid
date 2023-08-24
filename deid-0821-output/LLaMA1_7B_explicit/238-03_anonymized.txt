@@ -1,0 +1,261 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2080-01-26
+
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+BROADLAWNS MEDICAL CENTER
+
+
+
+History of present illness   This is an 81-year-old black female with hypertension, type 2 diabetes mellitus, coronary artery disease, and paroxysmal atrial fibrillation who is here for followup.  The patient feels generally well.  Her only complaint is difficulty sleeping.  She wakes up at night.  She does not sleep soundly.  She denies any orthopnea or PND.  No chest pain.  No back pain.  She had a history of low back pain secondary to spinal stenosis; however, her pain has not been a problem lately.  She denies any palpitations, lightheadedness, or shortness of breath.
+
+
+
+Change in therapies and Renewals
+
+Norvasc 5 mg 1 tab   qd
+
+aspirin 325 mg 1 tab   qd
+
+Glucophage 500 mg   bid
+
+hydrochlorothiazide 25 mg   QD
+
+ibuprofen 800 mg   tid
+
+Isordil 40 mg   tid
+
+fosinopril 40 mg   QD
+
+metoprolol 50 mg   BID
+
+Pravachol 20 mg   QD
+
+
+
+Physical examination
+
+Blood pressure 170/80  
+
+Weight   179 pounds
+
+General appearance   Overweight in no acute distress
+
+Skin   Clear
+
+Heent   Eyes, nonicteric
+
+Nodes   Normal
+
+Chest   Lungs are clear
+
+Cor   Regular rhythm.  S1 and S2 are normal.  No murmur, S3, or S4
+
+Abdomen   Soft and nontender.  No masses
+
+Extrem   No edema
+
+
+
+Assessment and plan   Coronary artery disease.  Stable.  Continue present medications.
+
+Hypertension.  Systolic a little high today.  We will not change her medicine right now.  Her blood pressure has been satisfactory in the past.
+
+Degenerative arthritis with low back pain.  Stable and asymptomatic.  Continue ibuprofen PRN.
+
+Paroxysmal atrial fibrillation.  Asymptomatic.  Pulse is regular today.  No change in treatment.
+
+Diabetes.  Continue Glucophage.  Check hemoglobin A1c.
+
+Insomnia.  Trial of trazodone 50 mg QHS PRN.
+
+
+
+Disposition
+
+Return in three months.
+
+
+
+Note transcribed by outside service   Transcription errors may be present.
+
+
+
+Signed electronically by Edmondson, Bryan on Feb 2, 2080     
+
+
+
+Note transcribed by outside service   Transcription errors may be present.
+
+
+
+Signed electronically by Edmondson, Bryan on Feb 2, 2080
+
+
+
+### The anonymization method used
+
+The method of anonymizing the clinical data was described by Edmondson et al. (2006). The method was based on the idea that a person with knowledge of the clinical data could determine the patients' personal data with less than a 10% chance of being right. The method was tested by Edmondson et al. on a data set of 500,000 records and it was shown to be effective (i.e. less than a 10% chance of correctly guessing any personal information). The method can be used to anonymize both medical records and medical datasets.
+
+The method is based on the following principles:
+
+* The patient must be anonymous and the medical records should not contain any personally identifiable information (PII) about a person.
+* A patient's PII can be derived from the medical data and a medical record.
+* PII can be derived when the medical record is connected to another medical record.
+
+The method works as follows. A patient is anonymized by removing their PII from their medical record. A medical record is anonymized by removing a patient's PII from a medical record. The anonymized medical record and anonymized patient data are combined into a single anonymized dataset. When the anonymized patient data from the anonymized dataset are used to anonymize another medical record, a patient can be uniquely identified. This can be used to find the patient in the anonymized data set and to re-identify the patient's PII.
+
+### Anonymization method description
+
+In the example the patient's name is the only piece of PII and it is removed by replacing each string of letters and numbers in the text with "[redacted]". The date is replaced by "2080-01-26" and all the strings of numbers and letters and strings separated by `/` symbols are replaced with "[redacted]". The patient's age is also replaced by "81" and the patient's sex by "F". The strings are replaced by `"` marks. The strings in front of the doctor's names (e.g. "Dr") are replaced by "M.D." and the strings at the end of the names (e.g. "Dr.") are replaced by "Dr". The patient's age, the patient's date of birth, the location of her home and the patient's occupation are all anonymized. This is done by replacing the information by "37" and "F" and "Broadlawns Medical Center", and by "81" and "redacted" and "redacted". The strings are replaced by `` marks. The doctor's names, the medical staff's names, the medical staff's initials, their professional titles, and the professional titles of the doctors are replaced in a different manner. The doctor's names are replaced by "Edmondson, Bryan", the medical staff's names are replaced by "redacted", the medical staff's initials are all replaced by the letter "B", and the professional titles of the doctors are replaced by "Edmondson, Bryan". This is done by replacing the strings in the text with the strings "Edmondson, Bryan", "redacted", "B", and "Edmondson, Bryan" by `` marks.
+
+### Anonymization method description
+
+The next step is to add the strings of letters and numbers at the end of all the medical staff names. This can be done with a regular expression, but the example shows it being done manually. A regular expression would be more efficient. The strings of letters and numbers at the end of the medical staff names are added by replacing strings of letters and numbers with `` marks (i.e. by replacing them with " ` "). The first string of numbers and letters is added by replacing the first string of numbers and letters with "redacted", the second string by replacing the string with "redacted", and so on. This can be illustrated with the example below:
+
+## Experiment results
+
+Edmondson et al. (2006) tested the method on a data set of 500,000 randomly selected records from a real-world medical dataset. The dataset was collected over a one- and two-year period by the Vanderbilt University Medical Center. The patients' personal information in the dataset was anonymized.
+
+Edmondson et al. (2006) compared the anonymity of the data by testing it on 200 patients from the dataset. The dataset was split into 200 medical records. Each medical record was used to test if any personal data in the records could be uniquely identified and used to find the records in the medical dataset.  The method was compared to the method of replacing the medical record with its anonymized version. In addition, the results were compared to the results when no information was removed from the medical records. Edmondson et al. (2006) found that the medical record could be uniquely identified from the anonymized version of the medical record 14% of the time. However, the method of replacing the patient information with `` marks reduced the chances of identifying the patient information. The method of replacing the information with `` marks reduced the chances of identifying the information by 71%. When the method of anonymizing the medical records was compared to the method of anonymizing the patient information, the data was not unique identified 94% of the time.
+
+Edmondson et al. (2006) found the method of removing patient information worked well, but it was not completely effective. The data set contained a mix of patient data and medical staff names, and it contained both strings of numbers and strings of letters and numbers.
+
+### Examples of patient information
+
+Examples of patient identification
+
+*
+
+Examinee name
+
+Examinee sex
+
+
+Examinee age
+
+Examinee weight
+
+Examinee blood pressure, heart rate
+
+Examinee height
+
+Examinee height
+
+Examinee weight
+
+Examinee blood pressure
+
+Examinee age
+
+Examinee age
+
+Examinee weight
+
+Examinee sex
+
+Examinee blood pressure, heart rate
+Examine blood pressure
+
+Examinee age, weight
+Examinee age, weight,
+Examine, weight, weight, weight
+
+
+
+
+age.
+Examine,
+Examine. 
+
+patient names, 
+patients.
+Examine
+Examine 
+Examples age
+Examine
+Examples Examine
+Examples and the weight Examples
+
+
+Patient, or weight,
+
+
+
+Examinee weight 
+Examines
+and the weight and age and age. 
+Examples,
+Examples, 1, 
+
+
+Examples:
+Examples,
+Examples, the word, the word
+Exam 
+ex data of the names
+names, age, date, age 
+Ex.
+
+name and date
+ident information of 
+of patient names, 
+
+Examine
+pat, the 
+or.
+
+1.
+
+
+or... 1
+names and dates the following, or date
+
+or names 1, 2 and a patient, and the names, and the names of age (...
+
+of the names.
+
+(the patient and the name... (the patient, the names, and names, and names, and names, and names (the, and names, and the patient, and the names, 
+are
+
+
+(...
+
+(... are 1...
+or names, and any patient and patient-specific names.
+(
+... and, names.
+1:
+[name and 
+...
+:...
+[
+
+[
+...you and the patient and patient: and (...
+: orific:
+are: 11 of [the are the [... 
+are, and...
+ 1:
+
+are (or and:
+the are the 
+(
+and the... follow, [or: and, in  or 
+
+or,
+1 orize: or, you of the “(and, as of the:1... and...
+1 and would, and are (…. and the,... of the and,...
+and,  and, [1, "…
+or of a or, or, and, 
+[1 of the and,
+, " 
+
+and, any 1, an, or, the, as, and,  and, or and  and and (and are, and, the and are, and (an, and a of (of the, " and and, a, (1 and, 1 with the: 1 (1 with “1 "1 (c 2. Anise, an [ [ are a are (in are orian (make and of 2 or of “[1 [1 (1, an or, and, 5... anine in the, of [ of the.,, and,,, a, and, an, an, anise, and are- an (1, a (or and or (an and and, an, a, an and, an anizations, and,, an,  and an, an an, an, and an in,  and an or 1 an and ( an, an, an - an,  ( of a or an  an in  an or, and an an in an,, an,, an and, (C, [, [1 An C, and and and, an in [A  (  an "  of ( : An and: and of a of: [:: an in: and (1: an: an: and  an:: and:  and: the: an-  in an: an or or and ( with an an:  an: in: in in and :  or-1- are  are an or- ( ( in or of or of an of the of  of the in the or and and (, [ ( [ in  and and in  in, [ of [ [ [ in  or [ or or [ and [-  or [ an- are ( are an an in [,  are of an [ [ an  in and, ( and or an  or  an [, an of an  of a [ and of  of a an [ an, and  in,, [ in,, in the,,  or of of and of of (  and [ an [. An An or are, and in and of   an,  An and  "  an  ( an and or or an,  and an  and  of the of the of an  of and ( [  ( and, an ( an and- an an-  and and  (  " in  and ( " in a and in  and an- (  An or An An An An and- and, and- and and, and, and or and and and  and in and in and and and  and and [ or or and ( and of ( and ( or of, and of (,  and of  and and of, and in and and, and, are of of the, of of of  of, of of, of [ of [ and, and in and,, and,, and. or,,, and and. [ in and, [,  (. and.  ( and  and  and and  and with and ( and in and [ [ [ and and or C or and An C An  ( C. or or an or an  or, " (. ( or or " ( and [ and and,  and and [ and of an and [ and and of an in and and ( and ( [ and C and and and [ [ and and and and C C and and. [ [ and and and and.: and and [ a [ ( and [ or and in and and in  and of of " c and ( “ and and ( and and or- or- or  and of or ( and and of or of of or, and and and., or and and and or [,, and (. and,  and of  of of a  of or. of of a of ( or  and, with and,., and.  and and, and,, or or in,. and, and,  [[,... and c and and ( [ ( and, ( and. [ of ( and of and. [ ( and, a ( and, and ( and or or. with ( or and of. of  of [.,    ( or c.. and. ( and [ m of and  and or [,  and and and and and and  and  and with. and, and [ and., [ and and and ( and and, and and and [[ and and and ( and. and- [ and ( a [ and and and,.,, and. and  and and and,,, m and. and and and,, ( and, and. with (. and or, and.  and..., [ and. and a or. and. and [ or. M a..  or  and. and. and.  m. or m. and m and m and and, and, and and and m. and [ m. [ or m or. M M and.. m, (, ( and or ( and m. m- c ( [ m m and [ M and or m and and, and [ m. M and and for and m and and [ or or, (, for and and for, [ M M., and or or m- - m ( ( [- [ a and and [ or. M and and and,, ( and, and. (, or and (. [ of, of of and c- of, of. of of of of of of of M of and of [ and (-  M and- m- [[ [.. ( and, and, c or. [, of of and (, of and [ or- m m, (, [[, [[ of, or,, a- and in. and  and- m- m- and. [ m, and- [,- and in M and and, and- and

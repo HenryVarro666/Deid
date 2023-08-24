@@ -1,0 +1,335 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2081-06-22
+
+                     AH EMERGENCY DEPT VISIT
+ 
+BRANCH,EARNEST   530-23-69-1                      VISIT DATE: 06/22/81
+HISTORY OF PRESENTING COMPLAINT:  This patient was examined and 
+treated in conjunction with a resident.  Briefly, the history is as 
+follows:  The patient is a 47 year old male with end stage renal 
+disease on hemodialysis who was referred for abdominal discomfort 
+and fever.  His abdominal discomfort had begun within the preceding 
+24 hours and had gradually worsened.  He had pain in the left lower 
+quadrant radiating to the rectal area.  He did have one diarrheal 
+bowel movement.  He specifically denied bleeding. 
+PHYSICAL EXAMINATION:  GENERAL APPEARANCE:  The patient was awake 
+and alert, although somewhat sluggish and apparently uncomfortable. 
+VITAL SIGNS:  Blood pressure was 177/90, pulse 117, initial 
+temperature 103.3, respiratory rate 20.  HEENT:  Pupils were equal. 
+Sclerae were anicteric.  The oropharynx showed normal architecture. 
+NECK:  Supple.  CARDIOVASCULAR:  Regular rate and rhythm.  LUNGS: 
+The breath sounds were essentially clear.  ABDOMEN:  There was mild 
+to moderate diffuse tenderness.  No definite mass can be 
+appreciated.  Bowel sounds were diminished.  RECTAL:  Stool is 
+guaiac-negative, per the resident's examination.  EXTREMITIES: 
+Examination of the left thigh showed slight drainage at a recent 
+surgical incision site. 
+LABORATORY EVALUATION:  Electrolytes showed sodium 139, potassium 
+4.3, chloride 99, CO2 27, BUN 12, creatinine 2.2, glucose 230. 
+White blood cell count was 30,000, hematocrit 38.  Chest x-ray 
+showed no definite infiltrate.  Abdominal x-ray showed dilated 
+loops of small bowel.  EKG showed no change from previous tracings. 
+THERAPY RENDERED/COURSE IN ED:  The assessment and plan were 
+reviewed with the resident. 
+FINAL DIAGNOSIS:  I confirm the provisional diagnosis of abdominal 
+pain with question of deep venous thrombosis versus sepsis from as 
+yet unidentified source. 
+DISPOSITION (including condition upon discharge):  The care plan 
+was reviewed.  The patient was started on antibiotics and 
+ultimately admitted to the hospital for definitive evaluation and 
+further care. 
+___________________________________                    RD883/1008 
+FRANK E. BENDER, M.D.  FB25                             D:07/25/81 
+                                                       T:07/25/81 
+Dictated by:  FRANK E. BENDER, M.D.  FB25 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+ 
+
+
+
+                </div>
+
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Patient ID</th>
+                                <th>Date of Record</th>
+                                <th class="text-left">Clinic</th>
+                                <th class="text-left">Provider</th>
+                                <th class="text-left">Referral</th>
+                                <th class="text-left">Reason for Visit</th>
+                                <th class="text-left">Notes from visit</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <a href="/cases/1032"><?php echo $case['id'];?></a>
+                                <div class="pull-right">
+                                    <span class="text-right"><?= $date->format('d/m/Y')?></span>
+                                </div>
+                                <div class="pull-right">
+                                    <span class="text-right"><?php echo $case['clinic'];?></span>
+                                </div>
+                                <div class="pull-right">
+                                    <span class="text-right"><?php echo $case['provider'];?></span>
+                                </div>
+                                <div class="pull-right">
+                                    <span class="text-right"><?php echo $case['referral'];?></span>
+                                </div>
+                                <div class="pull-right">
+                                    <span class="text-right">
+                                        <?php  echo $referralReason->description;?>
+                                    </span>
+                                </div>
+                            </tr>
+                            <?php  if (count($visitNotes) > 0){?>
+                            <?php foreach($visitNotes as $note){?>
+
+                                <tr>
+                                    <td>
+                                        <?php echo $case['id'];?>
+                                    </td>
+                                    <td
+                                        <?php if($note->visit_date->format('m') == '0' || $note->visit_date->format('m') == '1' || $note->visit_date->format('m') == '2'){?>
+                                        class="text-left text-info"
+                                        <?php }else if($note->visit_date->format('m') == '3'){?>
+                                        class="text-left text-primary text-left"
+                                        <?php }else if($note->visit_date->format('m') == '4'){?>
+                                        class="text-left text-info"
+                                        <?php }else if($note->visit_date->format('m') == '5'){?>
+                                        class="text-left text-danger text-left"
+                                        <?php }else if($note->visit_date->format('m') == '6'){?>
+                                        class="text-left text-success text-left"
+                                        <?php }?>
+                                    </td>
+                                    <td
+                                        <?php if($note->clinic->name == 'PACU'){?>
+                                        class="text-left text-info"
+                                        <?php }else if($note->clinic->name == 'Surgery'){?>
+                                        class="text-left text-info"
+                                        <?php }else if($note->clinic->name == 'ICU'){?>
+                                        class="text-left text-danger text-info"
+                                        <?php }else if($note->clinic->name == 'ED'){?>
+                                        class="text-left text-primary text-info"
+                                        <?php }else if($note->clinic->name == 'CICU'){?>
+                                        class="text-left text-info text-left"
+                                        <?php }?>
+                                    </td>
+                                    <td
+                                        <?php if($note->provider->name == 'R. NP' || $note->provider->name == 'R.N'){?>
+                                        class="text-left text-info"
+                                        <?php }else if($note->provider->name == 'MD'){?>
+                                        class="text-left text-danger text-info"
+                                        <?php }?>
+                                    </td>
+                                    <td
+                                    <?php if($note->referral->name == 'Clinic'){?>
+                                    class="text-left text-info"
+                                    <?php }else if($note->referral->name == 'ED'){?>
+                                    class="text-left text-info"
+                                    <?php }else if($note->referral->name == 'CICU'){?>
+                                    class="text-left text-danger text-info"
+                                    <?php }else if($note->referral->name == 'Surgery'){?>
+                                    class="text-left text-danger text-info"
+                                    <?php }?>
+                                    >
+                                        <?php echo $note->notes;?>
+                                    </td>
+                                </tr>
+
+                            <?php }?>
+
+                            <?php }?>
+
+                        <?php }?>
+
+                    </tbody>
+                    <tfoot>
+                        <td colspan="11" class="text-right">Total number of visits =&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-muted text-danger"><?php
+                        $casesCounted = 1
+                      </span>
+                    </td>
+                    </tfoot>
+                    <tfoot>
+                        <input type="textfield"
+                        <tfoot> 08
+                        <tfoot> 01 23
+                        <tfoot>
+
+                  
+
+                        <tfoot>-01
+ 3
+
+                        <tfield:0
+
+
+                        <tfoot.
+                 3
+
+                        <tfoot>    <t
+                    26,0
+\t 1
+            0
+
+
+
+
+
+
+                       
+                    0  0  
+                
+
+1
+
+
+            1
+0
+
+
+
+
+
+
+
+201
+April
+
+
+
+
+
+
+1
+
+
+
+       
+
+
+24
+A HEM
+
+
+3
+1
+
+0
+
+ 9
+
+
+
+0
+2
+
+A
+The previous
+1
+
+M
+0
+1 2
+5
+M
+15
+The 1
+
+F
+ 
+0
+1 
+1
+
+0:
+0
+
+0
+A 0: 20
+2  20  30
+The
+0
+
+1
+ 
+
+ 20
+
+1
+1 1
+
+DATE DATE (1
+  
+A
+0 A 18
+2
+The preceding 10  
+21
+
+A20
+1
+M 3
+
+The record - A.
+
+DATE 0
+DATE (DATE DATE
+0 0
+with
+
+
+The patient with today
+1:
+
+
+The.
+M1
+DATE
+The date date
+A.
+
+The date.
+1:
+A few on 
+20. 1 2.
+It (M
+Mine. 10
+
+101
+
+
+M:1
+ 09
+
+3
+1 DATE. A DA. 1
+  
+1:  131 9
+DATE
+1710779198:
+[121
+The
+
+[12507
+
+161111:1 (1 with the with a:  :
+
+[17
+[
+The:1/20 (1. 2, 11
+
+
+22: a date.113, 0, 9
+16.   with the
+[11 day
+00 day day 120201122 for a with the on with a, 1 0 with the and the, the: the and a1 with the with a with the with a00. a2011/312.221001 and211 Anical with the AnIST with a: RE SIOL AVER ALICE SISISIS and1,0 (1 00 1, 2-1,111-1011602 An01 11 2 An with a [1020010 for a1 for  for a10 for the with the with a. with a with a: a: anistic -2 (anog. An2042. 1,11 and a1. and and with the with a with a (0 with anist with. with 1 with with a with with with with the a with A2 wasian  week and week and1 weekian  and  with with with with with with with with  with with a with the  [00. 2 and for and with with with with with [ with a with the with the in  and: [[ian and a by:   winal for  for the  by  with a: 0 Anish  An An An An Anistic. 0 and0 and: an and:  AN with with an with with  a.  with an [ [. [ [ [0 [1 [2: [. with with with with with with the with with with [::
+ for a :  and: and with for a with with with [ with a with an with with the with for for an an, an for and...2 by for a for: with with with an with with with with with with., [.: and... [. and.  [: and H by [ for and for a [ for for and [0 for to for a [000-2 in-1 and H- 2 and with with an and  [- B and anistic [ and and " and: H- and:: and with with with with [ with with, with " and [1 and and and.0-1,:0-0 [- [: - H with. [ and H HIS- a and and (: and and... with with a with with with with with with with with with and with and  "- and and-0. and-2 "- and [- in H and H and " and-  and  and  and-2- and in an [-0-- [ and with- with. with with with the, ( and " and:  - [: [-...: -.. [ rient,-an H H. - and ( and- H-0 (-000 with- with with with with with with to with and with with a and ( H0-0-0 or.  an and an. with  with and with with ( and and to and... and  and and-0 and. - a- B and an with and with B with with with and B/ O C and  " and- and  [ H and - and- [-1 and and 1 or B and: :: -1 - and -0 and B:0-1 and  B B: B and ( b and B: and B:: B. and [: and-  and : [[: : B H. R: 	 B H-  - B H H  B-1-1-1 [ and and " and ( and  and and, and and on and-	 and -1- and [2-0-0 [.-b (: [: and::::::.:: [::::-0: and: B-::: (: to to::: for to for:::-10 to for::: ( and:: [: to: a to and and and to to to: and: to h to and and and ( and and and [ and and  and (0 and to and to:: to. to: and and: and ( per and::: C or ne:  on: and: and:: and:-::: : and: and::	 ::  : A:: ::  [ (: and:  and to to to:::  and-  [:  with  R " R to  [: and on with and in and to- and- with with to with with and with or R with and [ to " to [[ and [ with [- and with with  with and with B and R for w. and " R to: and-1-2 to0-0 r0-6-0. C R B A and ( and R. and to to. to to to and to to and to or to or. with-4.0 to and and or c r. and and r0- to-2-822-2 an an [0 and [ rator ( and- [ and or r3-4-0 and-2201211 (-4 " [: (:::: :-15: R::0-2-1:1 an (:: [ C:: -: and:- w:-:::-0301113263::: R: ##:::: R-0:-9 [[:::: R-:  ::- R: C R: [[ R::100:6::5:::1:0 (-::::>::-: ::

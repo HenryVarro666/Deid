@@ -1,0 +1,84 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2070-01-23
+
+71 year-old gentleman presents today for follow-up of several medical issues.  Physically, feeling well.  Concerned because of a change in previously noted pulmonary nodule.  He has a pet CT scan pending for March.  He reports
+  No recent flank or back discomfort.  He reports no dysuria.  Reports that his morning sugars range between 110 and 148 based upon meals.  He reports no polyuria or polydipsia.Review of systems is otherwise negative.  Past Medical History:Coronary artery disease : inf MI 11/2061. Cath - 3v disease with 50% LAD, 40% diag, 100% distal cx, 100% prox RCA - collat from L. Medical management since well-collateralized. Dr. Arval Yingling10/64: doing well on current meds, no chest pains. Walks 5 miles without difficulty.6/66: asympt, K4.0, Cr 1.1, u/a neg prot7/67 116/82Hyperlipidemia : on lipitor20 mg and lopid 600 bid. Prior HDL 19.8/67 TC 170, TG 162, H40, L98, ratio 4.3diabetes mellitus type 2 : progression to diabetes 7/67- HbA1c 8.10 - start metformin. Followed by diabetes center.Impotence : 10/64: testosterone level nl. + success with Viagra 100 mg prn, not on nitrates. Gave samples of Levitra 10 mg to use prn. #6.1/65: Viagra prn - gave sample pack and Rx todayClaudication : 3/65: symptoms of le pain on ambulation, minimally symptomatic. Medical managment, no studies unless progresses.H/O Pancreatitis : 3/65: + FH pancreatic ca. chronic, noted on CT abd for eval of kidney stones - no stones noted. Presented with R flank pain - sxs resolved with toradol, inc fluids. Amylase 117/lipase 4.7. 4/65: counseled. To stop all etoh - drinks 6 vodkas on Fri. Referral submitted to GI6/65: saw GI - going for scope to eval pancreas - normal appearance of pancreas, no evid of chronic pancreatitis or mass? Kidney stone : 3/65: R abd/flank pain with nausea. u/a + blood, cx negative. Better with toradol, inc po fluids. CT renal negative for stonesH/O Rib fracture : 2/2066Dyspepsia Chronic obstructive pulmonary disease : and interstital fibrosis on CXR 8/67. Sxs - increasing sob, cough. Gave albuterol inhaler to use prn and referred to pulm 8/67Macular degeneration Asbestosis Positive PPD : Patient has declined treatmentPulmonary nodule : On CT scan, June 2068. Repeat January 2069
+AllergiesPenicillins - see comment, : Angiodema, Hives. anaphylaxis, angioedemaErythromycins - Hives : Iv Contrast - convulsions, HypotensionGLYBURIDE - irritability, sweating, Codeine - nausea, 
+Health MaintCholesterol-HDL 12/05/2069 29 Cholesterol-LDL 12/05/2069 34 DESIRABLE: &lt;130 Colonoscopy 05/13/2067 see report in Results Influenza Vaccine 10/02/2069 M-alb/creat ratio 03/13/2069 11.4 Microalbumin 03/13/2069 0.9 Ophthal Exam 09/23/2070 PSA 05/25/2069 1.54 Td Booster 12/04/2064 injured finger 
+MedicationsAlbuterol inhaler 1-2 PUFFS PO QID PRN prn cough/sob #1 Inhaler(s)Asa (ACETYLSALICYLIC ACID) 325MG TABLET Take 1 Tablet(s) PO QD , Take as directed Colace (DOCUSATE SODIUM) 100 MG (100MG TABLET Take 1) PO TID #40 Tablet(s)Flomax (TAMSULOSIN) 0.4 MG (0.4MG CAP.SR 24H Take 1) PO QD x 14 days #14 CAP.SRFolic ACID 1MG TABLET Take 1 Tablet(s) PO QD #90 Tablet(s)Glipizide 2.5 MG (5MG TABLET Take 0.5) PO QD , this replaces metformin while creatinine is elevated #30 Tablet(s)Halflytely AND BISACODYL TABLETS (BISACODYL-PEG ELECTROLYTE SOLUTION) COMBO. PKG 5MGX2-210G COMBO. PKG PO as directed , Please follow the instructions provided in your packet from GI Associates #1 UnitLipitor (ATORVASTATIN) 80 MG (80MG TABLET Take 1) PO QHS , Take as directed #90 Tablet(s)Metformin 850 MG PO BID #180 Tablet(s)Naproxen 500 MG (500MG TABLET Take 1) PO BID PRN , take with food #30 Tablet(s)Niaspan (NICOTINIC ACID EXTENDED RELEASE) 1000 MG (1000MG TABLET SA Take 1) PO QHS #30 Tablet(s)Percocet 5 MG/325 MG (OXYCODONE 5 MG/ACETAMINOPHEN 325 MG) 1 TAB (5MG-325MG TABLET ) PO Q4-6H #40 Tablet(s)Prilosec OTC (OMEPRAZOLE OTC) 20 MG (20MG TABLET DR Take 1) PO QD #90 Tablet(s)Pyridium (PHENAZOPYRIDINE HCL) 200 MG (200MG TABLET Take 1) PO TID #9 Tablet(s)Toprol XL (METOPROLOL SUCCINATE EXTENDED RELEASE) 200 MG (200MG TAB.SR 24H Take 1) PO QD #90 Tablet(s)Trazodone 50MG TABLET PO HS PRN prn insomnia , Take as directed #30 Tablet(s)
+Physical exam: In no acute distress.  Blood pressure is 126/78.  Pulse is 70 and regular.  Respiratory rate is 15.  HEENT: Pupils equal round reactive to light.  Oropharynx is moist without erythema or exudate.  Neck: Supple without JVD.  Lungs: Clear to auscultation bilaterally without wheezes, rhonchi or rhales.  Cardiac exam: Regular rate and rhythm, Normal S1 and S2 without murmurs, rubs or gallops.  Abdomen:  Soft, nondistended, nontender.  Positive bowel sounds.  Extremities: Without clubbing, cyanosis or edema.  Distal pulses 2+ palpable.  Assessment and plan:1. coronary artery disease: Blood pressure and target.  Continuing current antihypertensive regimen.  Cholesterol most recently checked was a target as well.  Continuing current dose Lipitor.2.  Diabetes: Current on routine screening.  Checking hemoglobin A1c and electrolytes today.3.  Pulmonary nodule: Reviewed significance of findings with patient.  Plan at present is to arrange follow the based upon results of PET CT.4.  Sclerotic lesion: Noted on abdominal CT, a questionable sclerotic lesion was noted to the left femur.  Checking plain films of the femur to better characterize this finding today.5.  Health care maintenance: Otherwise current.  I'll see the patient in follow up in four months or sooner as is indicated
+
+
+
+
+
+
+The findings the following name, initials
+6. 
+7.
+7. 8. 8
+the 
+the name and 8 the patient, name, name, 8 8.
+the
+The
+The 8
+patient 90.
+90. 9.
+
+
+the name
+.8.
+
+The
+the 
+The name. 9
+the name,
+Name, 9
+9. 1, 5. 1
+
+the name, name or the 1 12.
+9.
+9.9
+
+999
+12,9.
+9, name, 9, 10 name (10, 9, 9-11, 9.
+
+
+
+9
+1.
+
+2. 100 55.9 with your name, date the patient's names (the patient  and 1.
+and 1, 4.
+
+
+2. 18, and 
+2 months of age.1.
+(0s.
+(2, and 1 and names and the patient and name or... and the name. The 10, 5. or the patient, and are 1...
+
+are, but the following or... and 5, 11
+
+1, 
+
+
+(d, and...
+1...
+the and the... 8.
+the patient 25...you:
+1:...11-
+and, the …: the... (0...
+The (
+(are: 0 are the... 1 are...
+The  are... or the... are 1 and...the [... the...the names, andist (
+The: or the…the... [and: (andize,
+1, the 1-11 or and the...1 and the (… 4 the… …1…
+and are-
+[... 1 and (and and (1 (2 are,1 and are 4, or or,1 (... of, and, and, and, and, 1, and, but...…. (the, the, and, and the, and are (in, but, and are, and (are.
+, but and, and... and and, and, [the of the " and, and a... and... the... (d [[... and with (...: the 1:
+ and: “... (0...... [1… are
+0-3...-  are and, are of…, or,  [with a,, the, or [1 and, [dine [[and, 1, of the of and and, the, are of the in the or, and, and (1-conine are, may-con are-ann of the [an-1-an-1,...1, and or, [1, an, an, and, an and, and and a and,  and, 1 (and and, and, (an of, and, an and, and -  or and and the (1 and (and, and and, an,  and " an: and,  and and: an-1,  and and-and and-in, 1-an-1:: 1, and of [1-1 "0 (0: : : : an:-1: : an::: - and "1 or and:: (: - an-2:: -an " (1-or an in " or are " or [an and-1-0 and, are-and-1 and of  of the of an or, or and (. and- or - and, [ and,  or  and- or and  ( are- [1- 1 " an -0 or-0-0- are- or (:  are, and- an, - an an [ an  and an- an - or- or  and and-1  of the, of the- an or " [,   and- or or- and- or-an " and of  an and an and, and  an,  - " an, an in,-  in, -0- in- and or and  or  and, an an an in [ - an, an an, of, of " of  of. -, an ( an, :- - and - in, - and an-, [ (  and- or- or [- and ( and an-0- -- and in and, or  - and  or - and or, and an, ( and, - and, - and, or (, of, or an an of (, - or  or or and, (, (1 and, and,,, and-  of, [ of and and  and ( and of the, of, of, an ( and of- and, [ and - [ and [ and- [-1 [ -  [ and,  [ -  and of, and  or- and and- or in an in an or- [ [ and an c and, [-1- and and or or ( or [ an  and and or or an- and in [- [ or in in [ ( and and in or of - and [ - an and c  m, [ and and and or ( and and and " -1 and c and and ( ( and, and -1  (1 or and-2-  and " and and in an of-1 c of " - ( [, - " ( c in (  and  and - and an  or of, and  of -, or, ( and, an- and and and c-  c-  and and, of  of of  of of of  and, and  - ( m and- [ and an- and  and and and (  and and, n and,,,  n,-2-2,, and or [ ( and, or, [ or and and and of or or and [ ( c and and n (, [ and and,  and and " and of and an of, and and or or   and and  (,, ( and in, and or an,, and or -, - and,, and and and, c, and  and and and  and [ and and and, and,,, or,, n- and,, and,  n and in, and and,, and, c,,, c, and,, and [ (, ( and and,-,,,,,,,,, c,, -, and,-0,,,, and,,,, [1  and c of to or. and or and, [ c for m to m for and and and, [,,,,,, and,..,,, and c,, and, M and and and,, m, M and, and and and and to-, to and  to. ", C. C or c and and and n:, C C and C C C, and - - and [ (1 C (,, and and " and - (2 and,, and C,, C C and C to and to, and and, and and and, C c,,, - and and, and,, (, and ( and and,,,, M and - ( M, and and M,,1 M,, m, and, and m- and to to and- to for for-, and ( and to,, to, and,,,,, - and - M, and and. and, and C, ( and, C0, C, and for, H H, H-1- and and and,, H for,,, CA,, and, and and C,

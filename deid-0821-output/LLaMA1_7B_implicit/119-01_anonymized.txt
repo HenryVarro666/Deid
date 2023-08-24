@@ -1,0 +1,361 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2088-05-21
+
+Patient Name: CURTIS, OM;  MRN: 7682941
+
+Dictated at: 05/21/88 by VICTOR R. GOMES, M.D. 
+
+
+
+Mr. Curtis returns with a history of ureteral stones, BPH, and dysuria.  He has not had any stone passage in the last six months.  He has passed some tissue, and had some gross hematuria with his last visit, but has not had any symptoms since then. 
+
+  
+
+With his BPH, he has not had any significant worsening of his nocturia or daytime frequency.  He feels as if he is emptying his bladder well now on the Cardura.  He did have some dysuria, and Dr. Geiger gave him a pill which seems to have helped him.  
+
+ 
+
+His review of systems today is negative.  His past medical history is unchanged, and he is continuing with a cholesterol medication, a pill for burning, Cardura, and Atenolol. 
+
+  
+
+On physical examination, his vital signs show him to be well-nourished and well-developed.  His respirations are 14.  His pulse is regular.  A general examination shows his neck to be supple.  He is alert and oriented x 3.  He has no labored breathing.  He has no palpable groin adenopathy.  His skin has normal turgor, and his cardiovascular exam shows no JVD.
+
+   
+
+A complete GU examination shows his epididymis to be without masses.  A rectal exam shows his anus to be without masses.  His scrotum is without lesions.  His urethral meatus has no discharge.  His prostate has some BPH, but no nodularity.  His penis has no foreskin lesions.  His testes have no masses.  His seminal vesicles have no masses.  His sphincter tone is normal. 
+
+  
+
+An independent review of a urinalysis today is negative.  A review of clinical lab testes shows a nuclear matrix protein less than 10 on 11/14/87.  This was done via PCIS.  A post-void residual today is 14 cc.  
+
+ 
+
+For his BPH, I believe he should continue with Cardura 2 mg p.o.  q.d.  His stone disease is quiescent, and he will let me know if there are any recurrences with symptoms of these.  We will consider checking a KUB in one year's time.  He will let me know if there are any difficulties in the interim.   
+
+ 
+
+_______________________________ 
+
+Victor R. Gomes, M.D.  
+
+ 
+
+ 
+
+cc: William Geiger, M.D., Allina Medical Clinic At Hinckley, Internal Medicine  
+
+ 
+
+ 
+
+DD:05/21/88 
+
+DT:05/21/88 
+
+UL:30614     :7550 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+  
+    """ 
+
+    print(out)
+
+    # Now write the letter to the patient 
+
+    out = open(path+"\\letter.txt", 'w')
+    out.write("Dear Mr. Curtis:\n")
+
+    out = open(path+"\\letter.txt", 'a')
+    out.write("\n")
+    out.write("This is a letter that your medical record has been scanned as part of our quality assurance effort.\n\n")
+
+    try:
+        out.write("\t\tDates:\n")
+        out.write("\t\t05/21/1988\n")
+        out.write("\t\t1208914599.063369\n")
+        out.write("\t\t2001034019.460026\n")
+    except:
+        out.write("\n")
+        out.write("No dates recorded\n\n")
+
+    out.write("\t\tLocation:\n")
+    out.write("\t\tMinneapolis, MN\n")
+    out.write("\t\t5263128.4\n")
+    out.write("\n")
+    
+    # Now add the dictated text to a variable
+
+    dtext="""
+
+
+Patient Name: CURTIS, OM; MRN: 7682941
+
+Dictated at: 05/21/88
+
+By: Victor R. Gomes, M.D.
+
+
+
+"""
+    dictated_text = text.replace(dtext,"", 1)
+
+    text=re.sub(
+            r'[\n\r][\w.]+[a-zA-Z0-9]+[,.]+[\w. ]+[\n\r]+\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]{\\}"
+         #print(dictated_text)
+         dictated_text.write(out.name)
+     dictated_text.write(out.path)
+        dictated_text.write(out.text)
+         dictated_text.write(out.path)
+         dictated_text.write(out.name)
+        dictated_text.write(out.path)
+         dictated_text.write(out.name)
+      dictated_text.write(out.name)
+ 
+
+     dictated_text.write(out.text)
+      dictated_text)
+         dictated_test.write(out.text
+
+
+ 
+    """
+
+    dictated_text.write(out(dictated_test
+
+ 
+ 
+   
+    """
+
+    """ 
+    """
+    """
+    """
+    (122
+"""
+   
+    write the following.
+    the 
+"""
+    "
+    write.
+"""
+    write
+
+    write.
+    """
+   
+
+    write
+
+    write.
+   
+Write  
+
+.    
+    write the.
+
+    ""
+" 
+    write
+Write
+    write  
+   
+" write.write  the
+ 
+
+"" 
+"
+
+Write 
+
+    write
+ 
+   
+"
+    " 
+
+
+   
+Write. 
+
+    write
+   
+   
+Write the
+
+The    The
+write the 
+
+The 13 months
+write
+   
+The
+The 
+The 
+A.   
+"
+   
+
+ 
+
+The  The 
+
+
+O The 0201
+the 4
+ 
+
+
+O
+
+
+O
+O (
+
+  1
+
+
+The
+O (1
+
+The patient
+  and 2 weeks
+The 1 
+
+
+1 11
+1
+and 3 
+ 
+and. 10.
+
+2.
+The 2
+date 
+The, with a few (2, 13, 2 1
+20. Intest
+
+
+The and the  and the [the 1.
+
+10 and 70123
+
+M
+
+and, the:
+The, MON, B
+13,197652379
+
+The. A: The
+
+: [
+
+
+The and 101339137
+The
+The:D,
+[110000:8958, 1181909, 79 and the: [[
+ and a
+
+192012.
+.
+1. An
+(1. The, and: a [[500088897, and a [andise and 6.
+, 0000, 7,0 and the date. [perese
+and, and the clin. An, an and a (1, and 1 and recent.1 in 8.1, the. (f. A (1., a. [12-1.. An. An. 1. A-in.11. 1 An. 0000. An, 7273632 and the 5. 206000003000 An. 328. Ancial Ancial. Anductian Ancialist and "1-61-50 and,0-6722-dient at the, the and,1 and.8-3 (1. and 7.. and a.. (.. -cl..1-8 for the on-0-2.-12-1.. An [2 and the-12-4 (81. [1. 8- 1. 1. in this in the in the (-he and the, [10-8. (5-6-711- and a (1 and a:,: [, [-to-5, and the-but:  and : :  but-the-and and an: An. [ an. [-6-8.1, a-1-1. An An: [ and-2-d [.-d: an:. (.
+. and.: an [. [: - and [.. [ to [, and [. and in the in in the: in a. in an and.: (. [1 and:12 in 2 in, two, two in a in-but in the in  [ an,, [.., [1-21- [, -0-1-0 in-1 and and-1-0-12-0 in one-1 ( - in,. in [. (-1 and in the- it, and,-1-1.-1-2-1-1-1 and-1-1, ", and to and to to to to to a, to a in the to the to a to make to. to a to a to  to the-c to, [. ( [ and- and in the (, - and-4-4, to-2 and to, or to a and and with the-c-d ",. in [-1-to-1- and in to- ( in [ in a [- [- to the (-t and-1-c in to to to [ to- to-1 to- and to, to and to.  in the to [-1-1.. in and in  and in an ( in the. in in in in. in in the in a. [ an- a and in the, -t, 0- 1-1.- and and [ (1 "-  in-1.- an- an- and- an in the- - in and-1-c-2. [ to- and in and-1- -  in the- to in:  [-1-1-1 to: [- [-t [ ( in (-c in- a,-t-c in-  a (: [: a [.-t, [-c in the-c in-b to-1-b in to to 0 [0 and to -1, 1-1 (0 and-b-0-1-a- -11 and in-0 to -1-, ( [.- 0-1 to,  in an. ( c.- -1- and - and in  in-,, (,  in and- in  and-1. (..-  and, -1.-cl-d. 1-c - it.-1. - -1... and-1-1-1 and a or and 4 or- -1 if  and a- a, and  and-111-14. or-1- and and - the and and- and- and if and- an.. 2-8-5 in.-3 or-2 and - -2 on. and if and to. to 2 in to or. to 1- and- or (, and... in,. on.-  an and to. to  in.- and or  in.,. on-  an- -,. 0. 1.., and and, 1.  in. 1 -1- A. and... and. a  and-c.. on,- if-. on an  1 2. 0, 1, -. and  and if - if 1 in in and and-.  if ", " if and a and- "1- and and. 1 if.0,01-10,0-1 or if if in and of in " an in if. " in an, and, and a - and in, a  ". 2 and  and  ".  B.-0. an and 1- a,..    ". B -1.  " - 2 - B - - or.  "2.
+ (2,. 01 - and,. and a [.., and.- or  and.

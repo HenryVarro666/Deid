@@ -1,0 +1,297 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2083-03-08
+
+Narrative History	
+
+The patient is here today for the following issues:
+
+1. Patient's father recently died - massive MI.  Klonipin has been helping patient at night.  She tried it during the day but too sleepy.
+
+2.  She has had persistent chest pain and sob since Father's dealth.  She tried SLNTG without improvement.  HAs have also returned.  
+
+        Pain not worse with exertion.  
+
+        3.  Patient asking about IUD removal.
+
+        4.  Patient has lost 90 pounds so far.  Appetite is down and smaller portions.  
+
+        5. Diabetes - Dr. Rivers started glucophage 825 BID but she doesn't take it all the time.
+
+       6.  She admits to not taking her lipitor - worrries it had some effect on her vision.
+
+
+
+Problems
+
+Diabetes mellitus 
+
+S/P Abortion : SPONTANEOUS 4/80
+
+Chlamydia : CERVICITIS-TREATED
+
+H/O Abnormal pap test : '76 S/P COLPOSCOPY IN PAST; RECENT PAP NORMAL
+
+Positive PPD : NEG CXR
+
+PARONYCHIAL INFECTION : LEFT HAND 78
+
+Ectopic pregnancy : 74
+
+Coronary artery disease 
+
+Anemia 
+
+Shortness of breath 
+
+Hypertension 
+
+Gastroesophageal reflux disease 
+
+Elevated cholesterol 
+
+Hyperthyroidism 
+
+Obesity 
+
+
+
+
+
+Medications
+
+ATENOLOL 100MG, 1 Tablet(s) PO QD
+
+Asa (ACETYLSALICYLIC Acid) 325MG, 1 Tablet(s) PO QD
+
+Klonopin (CLONAZEPAM) 0.5MG, 1 Tablet(s) PO TID
+
+Lipitor (ATORVASTATIN) 20MG, 1 Tablet(s) PO QD
+
+Imdur (ISOSORBIDE MONONIT.(SR)) 30MG, 1 Tablet(s) PO QD
+
+Nexium (ESOMEPRAZOLE) 40MG, 1 Capsule(s) PO QD 
+
+
+
+
+
+Allergies
+
+NKDA 
+
+
+
+
+
+Review of Systems	
+
+Unless mentioned in the history above the following ROS were asked and are negative:  Constitutional, Respiratory, Cardiac, GI, Endocrine, GYN, Musculoskeletal, Psych - no SI.  
+
+Vital signs
+
+BP 120/75, Wt 228 lb 
+
+
+
+
+
+
+
+Physical Exam	
+
+108/70
+
+GENERAL: 	Healthy appearing overweight female
+
+NECK:	            No thyromegaly, no nodes
+
+CHEST	            Clear lungs, NL frame
+
+COR:		RRR, NL S1S2, no murmur, rubs, or gallops.
+
+                        BIMAN c no adnexal masses, no CMT
+
+EXT:		No edema
+
+NEURO:           NL MS, NL gait
+
+
+
+Labs reviewed
+
+EKG done and unchanged from 8/82
+
+Assessment and Plan	
+
+1.  Chest pain, Headaches and shortness of breath - No evidence of USA.  All likely secondary to anxiety and grief over father's death.  Patient reassured.  Will continue cardiac medications.  Return to cardiac rehab on Thursday.  Will add .5mg klonipin during the day as needed.  Continue 1mg klonipin at night.  Patient declines psychotherapy.   Also, will restart nexium as some of chest pain may be recurrence of reflux.
+
+2.   DM - Encouraged patient to take glucophage as prescribed.  She is worried she will always have DM.  Discussed with patient importance of controlling BSs now and losing remaining weight.  She will continue to monitor home FSBS.
+
+3.  Obesity - Impressive 90 pound weight loss.  Patient very encourage.  Continue with smaller meals.
+
+         4.  Hyperlipidemia - Patient will restart lipitor.  Follow up fasting cholesterol and SGOT.
+
+        5. CAD - Continue Imdur, aspirin and lipitor.  Cardiac rehab.  Follow up if new chest pain.
+
+        6. IUD - Discussed briefly.  Stressed importance of no pregnancies with CAD.  She wants to rediscuss at end of year.
+
+        7.  History of hyperthyroidism - Recheck. 
+
+
+
+
+
+ 
+
+        8.  Chlamydia cervicitis - Patient is asymptomatic but will recheck in 2 years.
+
+        9.  PCOS - Follow up in 9 months and repeat pap if no menstrual period or new abnormal pap.
+
+        10.  Abnormal pap test - Recheck pap in 9 months.  No need for colposcopy.  
+
+        11.  Diabetes, Hypertension, Hyperlipidemia - No change.  Follow up with Dr. Rivers.
+
+        12.  Anemia - Repeat hemoglobin and ferritin in 3 months.  No need for transfusion or iron.
+
+        13.  Shortness of breath - Follow up pulmonary function test and echocardiogram in 6 months.
+
+        14.  Gastroesophageal reflux disease (GERD)  - Reassure patient that GERD will not cause weight gain as she is losing weight.  Recheck FBS in 6 months if still symptomatic.  Continue Imdur.
+
+        15.  OB/GYN - Recheck with Dr. Rivers. 
+
+
+
+
+
+ 
+
+          16.  PPD - Negative, negative tetanus.  Recheck 12 months.
+
+          17.  Paronychia, eczema, hyperhidrosis - 
+
+          18.  Hypertension - 
+
+          19.  Asthma - 
+
+
+
+
+        20. Allergies - 
+
+        21.  Medication - Continue all as prescribed.
+
+Reviewed medication history: 
+
+ 
+
+        22.  Allergic response to Atorvastatin (Lipitor).  Discussed with patient that it can be discontinued.  Patient prefers to take aspirin and continue Lipitor.  Will continue Lipitor, aspirin, klonipin and 
+Imdur.
+
+         
+         
+         
+
+
+
+
+
+
+
+          23.    Patient is very concerned she will always have DM.  Explained importance of controlling BSs now. 
+
+
+
+
+
+          24.    Continue to monitor BSs at home. 
+
+          25.    Hyperlipidemia.  Continue to lose weight and restart Lipitor.  
+
+          26. 	  Cardiovascular disease. Continue to monitor for new chest pain.
+
+         	    		   		   		   		   		   	       
+          27.    CAD - Continue Imdur, aspirin and Lipitor.  Continue cardiac rehab. 
+
+         	    Reassure no need for additional cardiac testing.  
+          
+
+         	    		   		   		   		   	       
+         	     
+         28.    IUD - 
+
+         29.    Obesity - Encouraged patient to continue with small meals.
+
+          30.   Hyperlipidemia - Continue to take Lipitor and continue to lose weight.
+
+          31.   Diabetes, Hypertension, Hyperlipidemia.
+
+          32.   Chlamydia, Cervicitis-treated.  Recheck in 2 years. 
+
+          33.    PCOS. 
+
+          34.   Abnormal pap - 
+
+          35.    Cervical cancer. 		
+
+          36.    Pregnancy.  
+
+          37.   Pregnancy.  
+
+          38.   Abnormal pap test. 	
+
+          39.   Abnormal pap. 
+
+          40.   Abnormal pap -
+
+          41.   Abnormal pap test.  
+
+          42. Abnormal pap.  
+          43.   Abnormal pap 444.   45. 40. 40.  46.
+          4.
+          47. 48. 49. 11.  24.  34.
+          44.  44.44,4.  42. 44.  4. 4.  
+46.  12. 2. 49.  1.44.4444.444. 444.
+4434.
+44443.4.
+4.
+44.
+4.44.44-144. 444.4
+44.44.
+44.4444.444 names, names, names.
+name.
+
+
+
+444.4,4's, or a...44.
+
+44. The 44.
+or...12 and 
+names 
+names and doctors, patients name and the names.
+(2 names:14, 2 and...
+(4. The are and indicate or a few, and the names, the names, or 
+11 or 
+... or name 3, and date, 3, and the names of the words, as 1.
+
+...
+
+... 15 (the or 10 are or a few and are, the last, and, 3. 
+names or name.
+dreams, and the [d (your:, 4:
+
+d 111 patient... and you and the patient, a…the patient and patient, or...1 or: the... (
+d (
+
+: 20...
+of the, or (1 are...
+[[ 1 are or: 21, and 1, removeable or and:
+
+
+[the, or, 1, and...
+
+are, orise the [...the [1 or: and the 1 and the: 2...1 1 are the, or the and the names of... of 2 and the, as "1, and,  and, and the, and, or (and, and... and and,  [...and, "in, and, and, the, 
+(
+and, [and the in the (or (in, 1 and, as and (and, 2 and, 2 are 1 of 3 or and, "and and, 2 in this, and (d with the: "and (candist... 1: 2... in...... (2-1 [1 and "1... 12 are of the (1 or... (2 or or "1 and (c of 5, 2, and (d. 1 of the of the and (, and, the, and, 2, 4-1 are, have are the 1 in a (2 of the and, 1 or, "and, [ann, an in, a (M. [1 and, 1 An, (in  in,  and  (1 or or, an an (an since (0, an and - and or, and (  and, and an or 1 (  and, and, and, [and, 1, an of and and: and and, " and:, ([1 in "1,  "and, of: (An, 1 (: ( and [1 and: 0 : an: " and and an: an :  [-  " 1 [1: an:  ( (an::  " - [ with ": an or and: an " ( are ( [ (: [ [ and an are an and  [.  - an of the of " and ( an [. An., [, and, in [ and,, [ and... and are in [ are and, [ [ and [ [ or [ an ( and, and [- and ( - [, (,,  An An An ( an,  (, ( and and,, an - [ [,, are and "  of  or of  of ", of  or and,,, and [,,,, - or and " of and- [ of the of the of  [ or and,, An An An are or or " in,  of an in the or or (, or  -  " ( - or (,, (- an of, [ of,  of  and and, and, [  An,,, [  in [ An,  - and  and in and of "  or ( or - [, and,,  or or, and [,  and ( and, An An of  - [ and and,  and, (,,  [ or and,, anics,  ( of,  of an or (, ( of and of, of, ( and ( and C  ( and (, - of,, of of and of and of of a of the of ( and and, (,, [ and [ An,,, and and (, and and ( an [ and or - and - [ and, ( [, ( and and ( and ( and  and  ( and - ( (  or ( or ( and ( or, ( ( and ( and and (  ( and and or [ An (, and ( or [ ( or " [ (  and ( - and and ( and or ( [ [ [ [ ( ( C C and -  [  and  [ (, ( ( :  and, ( and [ and: C  and An An An for and - and or [ C C and "( and:  m an- : [ and and  - and  or  -  or and (,  of  of,  of  of  of the and or,, and, An.,,, [ and,,  and and ( of, of of  of of ( An C (.  and and, H ( -, or - (, - and and and, [ (, [  and   ( and  or and " ( and (,, :, and and  C ( of: of the (, of  C ( or ( and ( and  C,,, and and - or or  or of and  or  and (,, (  ( and ( [ ( (, and and, and or and and,,, and  or and, ( and  ( (,, and ( and,, ( ( C, and and [ - and ( or,  (, or,  and , and and and and (  - (,  and,, and,,, (,,, and in ( and (, H, ( and,,, and ( C and.,, H (, C ( and and  [,, and. ( and. C.   and a or m H and m m m (, m ( and, and. and. and, m m m m of m, m ( H m and,,, m., m, -, (,,, and, as m (, ( m - and. M,,, ( H H ( and H and ( C, and (, and and (m, and ( H and and and - and, C ( A, and H, and ( m and and, ( and, ( H and and and in, H,  H, H and, and M ( and and and and -, ( (,, and and ( (, ( ( m m, and and, m ( ( and ( and, m, ( and and and,, ( ( at, and, and and, ( H and, and M and and and, and ( and, m,, and m, m m, m,, m. and or, ( and and. M M and m m m, or M H m m C H H M C m m m and m for, M m, M and, (,, and and,,

@@ -1,0 +1,533 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2086-08-28
+
+ 
+
+                           OFFICE NOTE
+
+                     Floyd County Hospital
+
+                       05 Greeley Street
+
+                       Palm Springs, CO  19496
+
+                                
+
+Tanner, Yul
+
+MR #099-04-65-0
+
+08/28/86
+
+ 
+
+I saw Mr. Tanner today for a routine follow-up visit.  I last
+
+saw him in November of 2085.  In May he presented to the
+
+emergency room with dehydration and hyperglycemia.  Diagnosis of
+
+non-insulin dependent diabetes mellitus was made.  He is now on
+
+Glyburide and metformin.  His renal function at that time was
+
+normal with a BUN of 15 and creatinine of 0.90.  His potassium at
+
+that time was 4.6.  Otherwise, he is doing pretty well.  He has
+
+lost about 40 lb.  He has seen a nutritionist regarding dietary
+
+counseling.  
+
+ 
+
+Today his weight is 258 lb.  Blood pressure 120/80.  Heart rate
+
+100.  Current medications lisinopril 40 mg p.o. q.d.,
+
+hydrochlorothiazide 12.5 q.d., Glyburide 5 mg p.o. q.d.,
+
+metformin 500 mg t.i.d., diltiazem 180 p.o. q.d.   Urinalysis
+
+shows 3+ blood, 4+ protein.
+
+ 
+
+IMPRESSION:  #1)  Thin based membrane disease with persistent
+
+hematuria and proteinuria.  #2)  History of renal ________.  
+
+#3)  Type 2 diabetes.
+
+ 
+
+PLAN:  Continue current medications.   Continue high water
+
+intake.  Encourage weight loss and compliance with his diet.  
+
+ 
+
+I spent some time talking to him about the importance of weight
+
+loss and controlling his diabetes given his underlying kidney
+
+disease.  Follow-up visit in nine months.
+
+ 
+
+ 
+
+ 
+
+Edward Yim, M.D.
+
+ 
+
+/pina
+
+cc:
+
+Harry Truong, M.D.
+
+Floyd County Hospital
+17 Greeley Street
+
+Palm Springs, CO  19496
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+                           OFFICE NOTE
+
+                     Floyd County Hospital
+
+                       05 Greeley Street
+
+                       Palm Springs, CO  19496
+
+                                
+
+Tanner, Yul
+
+MR #099-95-70-0
+
+08/28/86
+
+ 
+
+I saw Mr. Tanner today for a follow-up visit.  I last saw
+
+him in November of 2085.  In May he presented to the
+
+emergency room with dehydration and hyperglycemia.  Diagnosis of
+
+non-insulin dependent diabetes mellitus was made.  He is now on
+
+Glyburide and metformin.  His renal function at that time was
+
+normal with a BUN of 15 and creatinine of 0.90.  His potassium at
+
+that time was 4.6.  Otherwise, he is doing pretty well.  He has
+
+lost about 40 lb.  He has seen a nutritionist regarding dietary
+
+counseling.  
+
+ 
+
+Today his weight is 258 lb.  Blood pressure 120/80.  Heart rate
+
+100.  Current medications lisinopril 40 mg p.o. q.d.,
+
+hydrochlorothiazide 12.5 q.d., Glyburide 5 mg p.o. q.d.,
+
+metformin 500 mg t.i.d., diltiazem 180 p.o. q.d.   Urinalysis
+
+shows 3+ blood, 4+ protein.
+
+ 
+
+IMPRESSION:  #1)  Thin based membrane disease with proteinuria,
+
+hematuria and an elevated potassium.   #2)  History of recurrent
+
+infections.  #3)  Diabetes.   #4)  History of renal ________.  
+
+#5)  History of urinary tract bleeding.
+
+ 
+
+PLAN:  Continue current medications.   Continue high water
+
+intake for proteinuria.   Encourage weight loss as much as
+
+possible.   Encourage compliance with diet and medication.  
+
+ 
+
+ 
+
+ 
+
+Edward Yim, M.D.
+
+ 
+
+/pina
+
+cc:
+
+Harry Truong, M.D.
+
+Floyd County Hospital
+17 Greeley Street
+
+Palm Springs, CO  19496
+
+ 
+
+                     OFFICE NOTE
+
+                    Floyd County Hospital
+
+                       05 Greeley Street
+
+                       Palm Springs, CO  19496
+
+                                
+
+Tanner, Yul
+
+MR #099-16-03-97
+
+10/28/86
+
+ 
+
+I saw Mr. Tanner today for a follow-up visit.  I last saw
+
+him in August of 2087.  In January he presented to the
+
+emergency room with fever, tachycardia and abdominal pain.  Diagnosis
+
+of a renal abscess was made.  I placed a tube and drained 220
+
+cc.  Antibiotics were given.  Urinalysis at that time showed the
+
+abscess was drained.  He was discharged on oral antibiotics.  
+
+ 
+
+Today his blood pressure was elevated, but his pulse is normal.
+
+ 
+
+Urinalysis shows a positive leukocyte esterase with a
+
+leukocyte count of 7+.   His blood count shows hemoglobin of 14 and
+
+hematocrit of 44.   His potassium is 5+.  Otherwise he is doing well.
+
+ 
+
+IMPRESSION:  #1)  Abscess of the kidney.   #2)  Infection of the
+
+kidney.   #3)  History of recurrent infection.   #4)  History of
+
+infection.   #5)  History of urinary tract bleeding.
+
+ 
+
+PLAN:  Continue current antibiotics.   Continue high water
+
+intake.   Encourage weight loss as much as possible.   Encourage
+
+compliance with diet and medication.  
+
+ 
+
+ 
+
+ 
+
+Edward Yim, M.D.
+
+ 
+
+/pina
+
+cc:
+
+Harry Truong, M.D.
+
+Floyd County Hospital
+17 Greeley Street
+
+Palm Springs, CO  19496
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+/pina
+ 
+
+cc:
+
+Harry Truong, M.D.
+
+Floyd County Hospital
+17 Greeley Street
+
+Palm Springs, CO  19496
+
+ 
+
+                     OFFICE NOTE
+
+    Floyd County Hospital
+    Greeley Street  17
+    Palm Springs   CO  19496
+
+ 
+
+Tanner, Yul
+
+MR #099-08-18-94
+
+12/25/86   (12/25/94)
+
+ 
+
+ 
+
+ IMPRESSION: #1)  Hematuria with blood and protein  #2)  Hematuria  #3)  Kidney abscess #4)  History of  #5)  History of  Kidney
+
+abscess #6)
+
+ 
+
+PLAN:  #1)  # 
+
+  
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+\ 
+ 
+
+ 
+ 
+
+  (s,
+ 
+ 
+
+ 
+ 
+
+...
+ 
+ 
+
+ 
+ 
+ 
+  (not to
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+10123
+
+
+ 3
+1
+... 1,2
+
+19
+ 12
+11
+ 199111
+names
+111 data fields 
+
+11
+names, 19, 12, 4,1, 110
+1 0 names:
+101
+0 names. 
+1, 10
+
+111
+11 
+pat names 19, s, names, or names
+
+names:
+111
+...
+
+1011 or are (11 or 11...1.
+1.
+12-3 and name and names on line, etc, the date, or, and name...
+and, and/the patient, name, or the doctor, and the...
+The, and identify the are, but would are, or...
+The (1, 121, 23, and a few, name, 10.
+name:
+
+
+
+
+the following information, you and:
+(name-15, and:
+
+orize, the...
+and,1 (
+11...
+the orifically 
+
+: indicate, are:
+by [1 are 
+...
+or: 1 (the names of... [...  or the patient or (1 and (…, the, and the are and, indicate the (make and the: and...and, the (1, or 1 and 1 are (
+1 are,..., 1, as... and and,
+( 1, 1, and, and,1, but, the, or, the, and (and or, 1 or, the and, and, as, as, the [, the, 1, 1. 1 are 
+, 1, and, 1, "0, 1, 1 [3, and, an and you and and (0 and the, the...:
+make, a and: an...
+: 4: anite and 1.
+0 "1-1 are [2 [
+ 1- 5 of 1- 1 or (
+ (1, "1 [1,
+. 9, 1, the, the [. of the, [P of a, 1, an, and 6 and 8, an are the 20 are and a, or (4, "0 "an-2 an-anine, an, an, 0 (an 1, an and, or in, an, an, an-an or, an or (an of and an (1, an of ( an and and-0 (3 and 0 or, an, 1, 1, an, an, 2, 1, 1- 4, an, an- 3-d-d-2 for the - an, and an-1.: 1: "1 an take: 1: "1 (: an: 2- and: 10 " and-1 [9  an an-3-  an-an or an- or of  "1 or-le: an are  “ and and and 1-  ( ( and of " of the " and of the "., and-  and, [ and,  and or,, ( - or [- [ [ and-  and, [, an,, - an ( ( (  an are  are in " - and " and,, an,, [  an- - are, and an, an, of  of, an and 2- an - an, - and,,,, an and,  of  of the- " of the and and  and (, or,  and are or-  in  of a or  or of an an- and an (,- or  - or  an  and and [ of  of the of the - and [ or an, (. : and or and an  in,- and  and  or for or  and or in a, [ of the in -2 of the 1-  and,,  or  for of  and or, ( an  and and or- or and ( and, (- an- ( and an an  of, an of a  for-  for ( and an t for-  and for, for, and ( t and or of and of ( of t of a of the of and of and- and (  [ and  and and- and ( an and, and an, t and and ( t in, and ( c in- t t and- and in of, of,  and or [ -  or- ( an and an and - or or or t- [  - and [ t or [ and " or t c- or and ( t or t m and t c t in for, t and and t and of and of t ( and, m- tine, tines ( and - and c of ( of, t and (:  t c t-1-  (0-1 tine- t. and ( t. and of the t of (0 t. c tine t and and c tine c, t, t of t of of or t of of and of and and, t t and t and ( t.,  and t and- c t t of of c of, of- of- and t ( t- and- and t, and-, t and,, and t a- or t and and or or c t t and- t t and  and- ( t t or t ( m t. - t t t c of of a t ( t t t and t  - t t t ( t, t t of and and _ t t and t- t t t t and ( t t- a. t t t.,  or t t, t t.,  t, n. or, t t t. n t, t t or or 0 ( t, t t t t t t t c c t and t ( t c t t t t ( t t t in, t m, t t (, t- t t t and t t, t and t t t t t t and t of t t, t t t t t t- t t- t t t t and,, t. and t and t t a t.  t,, t t t. t t t d t a t. t tine and t t of t and t t t- t t t t t m and t t t t m t ( t t t t t t t t t c w t t t t c t t w t t t t t. t t t. and t t t t and _ t t t t t t b and t t t t. t m t t in t t t t t t t m. t t t t t d t t t. t c and t b t, and t t t and t, t m c. t t t t t t t _ and t and t t t t t t a t- an t up t t t t t. t, t t, _. t and t t, t and and t a t,, t, [ a t t t c t t _ _ t t t. _ and t c a and t t t t and t t t t m t. t t t and t a t, t t a _ t m t and _ and ( t

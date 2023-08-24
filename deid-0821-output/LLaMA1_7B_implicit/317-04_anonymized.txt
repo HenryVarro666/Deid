@@ -1,0 +1,443 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2078-09-26
+
+
+Date 09/26/2078                                 Surgery ADMISSION NOTE
+ 
+
+
+PATIENT: Hendricks, Hannah
+
+MRN: 75322175
+
+Attending: Shea
+
+
+
+CC: L foot pain
+
+
+
+HPI:  52 y/o F with Hx of HTN, hyperlipidemia, PVD, s/p R fem-pop bypass and L fem-DP bypass, both in 2066.  She was doing well until April 2078, when she presented with a non-healing ulcer and gangrene in her L third toe and subsequently underwent a redo L fem-anterior tibial bypass using R basilic and cephalic veins on 5/3/78.  On 6/11/78 she had graft scanning, which indicated a widely patent left leg graft and ankle-brachial indices at that time were normal bilaterally.  However, she presented on 9/17/78 c/o L foot pain.  On physical exam, she was noted to have a very small pinhole ulcer over the plantar aspect of her left great toe.  She now presents with increasing pain, &#8220;32&#8221; on scale 0-10 that is constant in nature, with occasional sharp spikes in intensity.  She also confirms loss of sensation and motor strength in the L foot, but there is no paresthesia.  She denies CP, SOB, N/V, flank pain, or any urinary Sx and has no history of cardiac disease.
+
+
+PMH: 
+
+- diabetes type 1 since age 10
+
+- PVD
+
+- HTN
+
+- hyperlipidemia
+
+
+
+
+PSH:
+
+- L fem-anterior tibial bypass - 5/3/78
+
+
+- Right fem-pop bypass - 2066
+
+- Left fem-DP bypass &#8211; 2066 
+
+
+
+MEDS: 
+
+- Atenolol 25mg PO QD 
+
+- Valsartan 160mg PO BID
+
+- ASA 325mg PO QD 
+
+- Oxycodone 5-10mg PO Q3H PRN pain
+
+- Vitamin C 500mg PO BID
+
+- Folic Acid 1mg PO BID
+
+- Colace 100mg PO BID
+
+- Neurontin 300mg PO TID
+
+
+
+ALL: Percocet - nausea  
+
+FH: Brother died of heart attack at 48, father had MI x3; no one else in the family has had either DM type I or PVD
+
+
+
+SH:
+
+Lives in Morehead, WI with her partner. Smoked for 3 years in her early 20's, but there is no recent EtOH/TOB/IVDU.  Works as a Senior Manager of Broadcasting.
+
+
+
+PHYSICAL EXAMINATION:
+
+VITALS  97.8           74        136/48      
+18       95%RA    FSglucose 74      
+
+General &#8211;  NAD, well appearing
+
+Pulmonary &#8211; clear to auscultation bilaterally, with no crackles or wheezes appreciated
+
+Cardiac &#8211; regular rate and rhythm; S1 and S2 normal; no murmurs, rubs or gallops; 
+
+Abdomen &#8211; soft, non-distended; non-tender without rebound and guarding
+
+Extremity &#8211; Warm bilaterally; well-healed bypass incisions bilaterally; L foot erythematous, mildly edematous; no clubbing, cyanosis; ulcer on the L big toe and a small dermal hematoma on the L 5th toe; tissue loss of tip of 2nd and 3rd toes, tip of 3rd toe with blackened, necrotic tissue, no drainage
+
+
+
+Pulses:                                    Fem        Pop         DP                                           PT
+
+R                                             2+           2+           2+                                           2+
+
+L                                             2+           2+           non-dopplerable  non- dopplerable
+
+
+
+Neurology &#8211; CN II-XII grossly intact, 5/5 motor strength and normal sensation bilaterally including L foot
+
+Mental status &#8211; alert and oriented x 3
+
+--
+
+LABORATORIES: 
+
+Chem 7, CBC, coags, clot ordered
+
+UA negative
+
+--
+
+EKG: Sinus; rate ~75; normal intervals; normal R wave progression; T wave inversion in V1; no ST segment changes; overall comparable to previous EKG
+
+--
+
+RADIOLOGICAL STUDIES:
+
+CXR 09/26/2078: (Prelim) Lung fields clear, no effusions
+
+
+
+09/26/78
+
+Type:  Arterial Ultrasound Tests
+
+The following are the velocities in cm/s, proximal to distal:
+
+COMMON FEMORAL             200
+
+PROXIMAL ANASTOMOSIS       307
+
+PROXIMAL GRAFT             84
+
+PROXIMAL GRAFT             211
+
+PROXIMAL GRAFT             318
+
+PROXIMAL-MID               94
+
+MID THIGH                  26
+
+DISTAL THIGH               13
+
+PROX TO DISTAL ANASTOMOSIS 5
+
+DISTAL ANASTOMOSIS         40
+
+Brachial pressure=152 / Right ankle=141 abi=0.92 / Left ankle=30 (anterior tibial) abi=0.19
+
+
+
+Date:  09/17/78
+
+Type:  Venous Ultrasound Tests
+
+There is no evidence of thrombosis in either the right or left common femoral, superficial femoral and popliteal veins. There is no gross evidence of deep vein thrombosis in the left calf.
+
+
+
+Date:  06/11/78
+
+Type:  Arterial Ultrasound Tests
+
+right brachial pressure 168 mmHg   left brachial pressure  169 mmhg
+
+right dp                154 mmhg   left dp                 143 mmHg
+
+right pt                156 mmHg   left pt                 151 mmHg 
+
+
+Patent arterial bypass graft with no evidence of hemodynamically significant stenosis.
+
+                
+
+ASSESSMENT AND PLAN:
+
+52 y/o F with Hx of diabetes type I and PVD, s/p several bypasses, presenting with worsening L foot pain of two weeks duration.  On physical exam, L foot is exquisitely tender and while it is warm to touch, it is erythematous and there is an ulcer on the plantar surface of the big toe.  In addition, ABIs from today show L ankle ABI of 0.19.  The etiology of her pain is an occlusion of the L fem-anterior tibial bypass vs. diabetic neuropathy, however, she has been taking neurontin without relief and the diabetic neuropathy is less likely.
+
+
+
+- oxycodone for pain control, continue neurontin
+
+- continue home atenolol, ASA, Valsartan
+
+- NPO from midnight, pepcid
+
+- check chem7, CBC, coags
+
+- has an insulin pump
+
+- angiography vs. angioplasty tomorrow
+
+
+
+_____________
+
+Hayden Shepherd
+
+MANAMANA IV
+
+01722
+
+
+
+Patient seen and examined. Agree with medical student note above. Briefly, 52yF with DM I, HTN, hyperlipidemia s/p bilateral revascularization procedures for PVD presents with complaints of left foot pain limiting walking to several feet as well as with small ulcers on her toes. ABIs are very diminished on the left and graft scan shows elevated velocities at proximal anastomosis. She is admitted in anticipation of angiography in am. 
+
+N: Cont oxycodone, neurontin
+
+CV: Cont home meds
+
+Resp: F/u final CXR read
+
+GI: Diabetic diet; NPO after MN
+
+GU: D5 &#189; NS @ 100 after MN; foley to be placed at 6AM
+
+Heme: SQH 
+
+ID: No issues
+
+Endo: Patient has insulin pump and knows to adjust this when she is NPO 
+
+Other: Consent for angiogram in chart
+
+Discussed with Dr. Weller, vascular chief resident, who agrees with assessment and plan. 
+
+
+
+______________
+
+Kathryn Brewer, MD
+
+PGY 2
+
+Pg 68283
+
+
+
+
+
+Skin,
+
+
+
+
+N
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+March
+
+
+
+
+
+
+
+201
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20
+
+ 
+
+and 
+Pt. 1
+
+
+
+0
+
+20. 3010
+
+1
+
+  131
+    
+ 1
+ 0
+
+1
+   S: 1
+ 
+1 2: 
+
+ 0 020 
+ 20
+:00
+A 1
+ 0
+
+
+
+
+
+ 4 
+ 20
+10
+10 1 3: 2 1
+ 0
+
+  3
+ The 10
+
+  :
+  15
+01. 1: 1, 
+
+
+
+
+. The patient
+
+ 4, which.
+. This, and, 6 &1099
+.
+date and a.
+. 9: and: 1: 3 & 5 and 32 day and Saturday: 
+
+  [3
+ & 0 (1,  & 1.
+ 1367010111:10: An: A: ABS: An: An:4:13688
+ ( 68137: : 0: 23,1404321, 2, 4:  [0, : [0: 6A &060 &88888-28 (8: : 2, 18: An: 020: [: 8 (60: [4, 00 000, An &2000010000, 00 An 02, 2, 01st, 6, 111 & (1, &.1 0. 2: 8. 55003000116, a, 10:1, 2, 20: 6000011005 5-6 &5 [0-03201 An18 An5 An An An An An An00 An0 (2, a ( An10 6 An,6 in0038 Anine 1 1 & [3 and [  & & a patient:1 in an [6, 78,7888 &8 &3 &,3, -0 (, an, an [3 &07087800 &5,0 [101 in [1 a & 0 and the-  &0/6-8  in a in [1 in a [ a and-c and. & & ( &10-90,3 &6,8 in [810 and,1:1,0- 5,1 & in & in a, ( & [, An: An in (: ( [ ( An in: a: &,39 An -5-20-  &-0-0 An, a-1 [21, &1. in [ An00,1,10 [,.,  in & a [ &:  [: An - in:0:0 in: B: An [ - An:  and [ [, C &0 [ [0, -00,1 An An An An An An: An C in in the - [ in: 0 An & an, [6, [1 &. An in1, & in [ & & [1 [1,1000 [0 [0 &0-10 I in [ & in in [0: a in in the in ( in10,000 [ (. C, &. M in- Cient in- [, ( - in in Cine-.  ( [.,  [-M, (-0 I. in in in- [ is [-0 in a ( a- [ C-1- was in [2 C C I, P- I ( C and [ and ( and & and [-0 and & &- and with and [-  and- with C with C0 (. &000000 C-2 & &1 and0 in. & to ( to-1 to.0 to,. ( and. to a- in. C- I-g and- in to in the in a- to C. in in in C in- a, C in a. C in and in the a. a 2.1-4 0 I0 I1 and and and I and a I1 I C I ( and-3. C20. I00,0 and and I3.1 and. and and.3 and in in-3.6 in ( in and1 and and a "10 C, C. 1-1 - a in: to a. 1:1:100 [0 (1- in and in and in and- I and1 and I in0-104010 and,201, and  and-10 (021 I, 1 and I34416210122 I0.02 I-0 (0.10 414000 (20-0101 and I (, [00,1 and and. and. I and. [. of  of the of of of. I of  of. C,10 [1 and0. I00 and I. and-0-0-0, F and and0,0,0 (4-2, and0 and, 1-0 of,-1.-2,2 11300  and, 1 2-5-1, C I, 0-0 and-. in and  a a //- and.- I ( C/ (  and. 0,2 and and1, ( a a-  and0 I,2, 2 and C-4,., and0. and C with 2, I, C, a and0 12, (0-  and- and 0 of and  of and and [0 (1.002  and and 10 I- I and and and-1. I-1 W0 and1-1 as0-1 and (0- C as 1 and (, and and and- I and- a, and- and and- W. M, C- M C W W I and M-1., W and and F- W and, I W and. C W and W (.- MD W W C and C W W F W W W C/ a W. M/ C W C I. W W. M1/ I0-4/1/// M./0 C and W of and P W or (0 M- M M M W and M W0 MM F M W F M M F  and of of 0 W and C and, C. C0 and ( V and and a V1 C1 C1 W V F. P  - C V W W V W PO W and -0 V W F V W W W V  W V V- M -0 M- C. F. T V C C M W/ and M-  V C-

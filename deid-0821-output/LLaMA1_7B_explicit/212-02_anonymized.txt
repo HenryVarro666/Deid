@@ -1,0 +1,436 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2084-07-30
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+SAN FERNANDO HOSPITAL
+
+Reason for visit
+	
+  tc to review blood sugars and insulin titration
+
+History of present illness
+	
+  S pt says he started Lantus 10 units at bedtime on 7/21/84 and his blood sugars have been am fastings a range of 114-213 and pm 180-270. 
+
+Changes to Medications this visitLantus 16 units  sc qhs - change. (QTY:3-month supply Refills:3) do not mix with other insulins in same syringe 
+
+Assessment and plan
+	
+  P I will increase his Lantus to 16 units at HS according to insulin titration algorithm and will call him in 1 week to further review blood sugars and titrate his insulin dose.
+
+Disposition
+
+
+Ximena M. Gillespie, RN
+
+Signed electronically by  Ximena M. Gillespie, RN
+Document Status: Final
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\begin{figure}[htbp!]
+\centering
+\includegraphics[width=0.48\textwidth]{figures/Figure_6_1_redacted_note_with_redactions_and_annotated_with_annotations.png}
+\caption{The clinical note (redacted) annotated with our three types of annotations: (1) the patient's age (annotated as [redacted]); (2) the patient and doctor names (annotated as [redacted]); (3) the patient's insulin titration algorithm (annotated as [redacted]).}\label{fig:redacted_note_annotation_example}
+\end{figure}
+
+\subsection{Annotation and Evaluation}
+In the annotation stage, each document is assigned with a random integer from $1$ to $50$. The integer is used to determine which of three types of annotations the document gets, i.e., a random number $r$ from $1$ to $5$ denotes patient age (annotated with age $[r]$\footnote{For example, the age $[1]$ is annotated as the age of the patient.}), a random number $r$ from $5$ to $15$, denotes the patient and doctor names (annotated as $[r] [doctor]$\footnote{For example, the age [1] and doctor [doctor] is annotated as the patient's doctor.}), and a random number $r$ from $15$ to $50$ denotes the patient's insulin titration algorithm (annotated as [redacted]), as shown in Fig.~\ref{fig:redacted_note_annotation_example}.
+
+\begin{table}
+\captionsetup{font=footnotesize}
+\scriptsize
+\centering
+
+\begin{tabular}{cc}
+\toprule
+\textbf{Document} & \textbf{Number of annotations}\\
+\midrule
+$1$ & 23\\
+$2$ & 19\\
+$3$ & 30\\
+$4$ & 17\\
+$5$ & 16\\
+$101$ & 26\\
+$102$ & 18\\
+$103$ & 14\\
+$104$ & 19\\
+$105$ & 8\\
+$106$ & 30 \\
+$107$ & 22\\
+$108$ & 9\\
+$109$ & 4\\
+$110$ & 17\\
+$111$ & 13\\
+$112$ & 13\\
+$113$ & 7\\
+$114$ & 8\\
+$115$ & 19\\
+$116$ & 17\\
+$117$ & 17\\
+$118$ & 11\\
+$119$ & 16\\
+$120$ & 15\\
+$121$ & 21\\
+$122$ & 16\\
+$123$ & 17\\
+$124$ & 19\\
+$125$ & 19\\
+$126$ & 7\\
+$127$ & 16\\
+$128$ & 13\\
+$129$ & 12\\
+$130$ & 11\\
+$131$ & 10\\
+$132$ & 9\\
+$133$ & 15\\
+$134$ & 16\\
+$135$ & 17\\
+$136$ & 20\\
+$137$ & 17\\
+$138$ & 20\\
+$139$ & 12\\
+$140$ & 30\\
+$141$ & 27\\
+$142$ & 7\\
+$143$ & 19\\
+$144$ & 4\\
+$145$ & 20\\
+$146$ & 26\\
+$147$ & 20\\
+$148$ & 4\\
+$149$ & 21\\
+$150$ & 17\\
+$151$ & 29\\
+$152$ & 27\\
+$153$ & 36\\
+$154$ & 13\\
+$155$ & 19\\
+$156$ & 10\\
+$157$ & 12\\
+$158$ & 8\\
+$159$ & 21\\
+$160$ & 27\\
+$161$ & 33\\
+$162$ & 30\\
+$163$ & 14\\
+$164$ & 11\\
+$165$ & 7\\
+$166$ & 16\\
+$167$ & 5\\
+$168$ & 21\\
+$169$ & 24\\
+$170$ & 18\\
+\midrule Average & 19.2\\
+\midrule
+\textbf{Std. Dev} & 4.5\\
+\midrule
+\bottomrule
+\end{tabular}
+\caption{Statistics of the number of annotation types for 170 notes.}\label{table:annotation_types}
+\end{table}
+The annotation of the clinical note by the human annotators is performed manually by the researchers. We manually annotate each note with one of the following types:
+\begin{itemize}
+\item \textbf{Patient age}: the type of annotation that the researchers use to annotate the patient's age, e.g., the age [redacted] in this clinical note, is annotated as the type of annotation [redacted].
+\item \textbf{Patient and doctor names}: the type of annotation [redacted] patient and doctor names, e.g., [redacted] is annotated as the type of annotation [redacted].
+\item \textbf{Patient’s insulin titration algorithm}: The type of annotation [redacted] is annotated as the type of annotation [redacted].
+\end{itemize}
+We provide the annotation type annotation in our dataset and we use it to compute the accuracy for the annotation.
+We use the same set of annotations as the type of annotations for the patient's ages.
+
+To measure the agreement, we use the same set of annotations as the type of the annotations for the patient's names and doctor's names.
+To measure the agreement, we use the same set of annotations for the age.
+To measure the agreement, we use the same set of the agreement, we use the same set of annotations.
+To measure the agreement, we use the patient's name. Note:  To measure, we use the patient's, note, To measure, the name, or, the date, the name, To name or names, and age and the dates, the ages, the names and the name, the names, and the names. To date, the name and date, the name, and the ages of the dates.
+
+name, dates the name, To name, and date name
+
+To date name, and names. Note and name, name.
+
+The name, and name and names, the date, the dates.
+date the name, the names, names, the first name, date the date, name, names, To and name, the patient name.
+date of date, To, To name name, name.
+
+
+patient, date the patient names of names date.
+
+names.
+
+name, the date and name and name: and name names and name date name, names
+the name, and name, name the name.
+
+and names, date, the name the name or name and date, name
+names and names (name, date, name, the last name and date 2.
+name, 
+the name...the patient and names and 2, or date the letter. the 5 days of the name, as, date, the name, names (name, and the date 11 (or 5, and the 10, and the patient and the date... or 2- are, and the 3, name (or 2, the patient, name, names, and...
+name, names, the words or and:, the... and the...
+(pat names and names, and you, your patient, and...theist:, and “:17… or...
+120 are,
+(d, orifically... 1... (... (or: 1 are the names or 3 or, and and...
+, and the: (or, the or:
+, 
+
+are, the and the 0 or, and (take: (are and 4 of...and: and the…. 1 of the (……,... 1-name (...
+1.
+1 and, or,
+and, but, and, and, 6, or, and, 0, and, and, the date, but, (1, (0.,, 0, a, and, and (1, 1, or are, (0, and or, (3, 1, the, the and or of a of “: and, and " (and, and the: 1. and: "c. [: 1. 1. 3…2 (1
+[ are (1 3 (are are or that of 3 (1 or by (1, [2 of 3 5 3, 1, 1. of the of the of. 3, and, or 7, 2, the, anine, are, an, are a-1 and 2, an, 1- 1 and, an, 0s, 1. 1, and, an 1, 1, and, 2 and 1 an and, or,  and and of an of this 1, 0 (and 0 in 1-in, in, an, 1, 1 an, 3,
+ and, 1, 1 and, an, anine: [, 1 of the (3 of 1- and: an of 1: and, 6: 0s of: and-2: "[0: 1 " ( ( (1 (2 and " an or: 1: " 1:
+ an with :: 3 an of the [ 2 are an " or 1 (
+-1 and  [.
+ of an of “. of the or. and [. [. an ( and [
+ [ and [ [  [, [  [  ( [. [ and [ and- ( an and [ and [ and [ an, [ an an
+,
+  an [,,, [ [ ( and ( [ an an an [ of [ [ are an,
+ [, of [ of and of an of  of [  or
+,, [ and and [ an and [, and [ of the [ of, of an of [ and an, an (, an an, [, an,  are of [ of  of  or  ( and:  and, an  [ or,,  of [ ( [ of [ of (. of (, ( (,, [: ( an, [ An  and [ an ( in  an " [ An or of  and of ( An [ an,
+, t and- an ( or  or or and to, and and or and and, an ( and, [ an, [ and an. and, or and an and of, and  t or  a ( of 1 or  and and and and  t, are [ to an t of, of of an of  of of ac of  of  of, of [ to,  and an,  for of  of  and, (  a  and [ to  t to  and to, to  for, for.  t of [ ( to,  [ ( [ to for ( and to t ( for to [ ( to t [ [ [  and [ or or [ ( 1 [  [ and [ an and for and  to t c  c [ for [ or or - of and of to: for by [ c for [ [ t [ [ to [: ( of to [ to (  a for and c for c to and ( to: [ for [0 c to for and for-1-1 a t of t of [ or [ or-  ( t t ( [ or 0- of- of, of of of, of. of an, (, or of- (-2 t, (, or ( to t and of  of and of of or, of ( of of of of- (. and, and and in- or (- ( (, by  (. or (,  ( or  t (- [ or to,, to and  [ and-  or ( and of of ( of and of [ of or of t (, ( t- ( ( ( by of,  t of of or of of of or or-1 [- or or - and or ( and an- t and t by of  of or by  as  as an, (  (, and,, in, t and, t ( or, in ( by by or  or a (  a or, and t and [ t ( or and and or ( or, and-  t  t ( a  t and, [,, a,, and and (, [- t and and, from  (,  from from a,, ( and, ( or and and ( ( or,, and and a-  a  t. ( a a [ ( X- (  ( t ( X with, ( t, (, and of a ( and ( t,  as as and, as with as and a or, [ and and, and in and or, t  t with 2 ( ( and a ( X t t- and ( [ and ( as ( as as of a an and an as in [ as and with as as- and and-1, a-1 and ( an- to (  (  or as a and  and ( to (, and, to, to as to and,, to [ to for, for to,, and for in to and- as for, to as and to to  and  to, [ a, a, an t and,,  (, - to a to an, and- and to (, to,,, as and  as as ( and as, and a and and, a as as, ( and  to a,, to and  and to  as and to- to,, to or to., and,,,,, [ as (

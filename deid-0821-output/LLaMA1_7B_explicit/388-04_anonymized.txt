@@ -1,0 +1,318 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2080-06-15
+
+
+Walk-in visit because of  
+Pt of Dr Shamar 
+Seen in the EW bo  HA , work up negative. Basicallty the diagnosis was anxiety. It seems she's very lonely here,  lives with son who works long hours.   In the EW  it was recommended she antecipates her trip to Ghana because she  feels much better there.   Sent for fup with pcp . 
+Symtpoms all resolved . Son needs a letter to  antecipate her airplane ticket 
+She ahs no new complaints. 
+
+
+Problems
+TOXIC NODULAR GOITER 
+ARTHRITIS 
+CVA : In year 2071.
+Hyperthyroidism : I-131 5 years ago.
+Insulin dependent diabetic 
+Hyperlipidemia 
+Hypertension 
+h/o urosepsis 
+ 
+Medications
+Actos (PIOGLITAZONE) 15 MG (15MG TABLET Take 1) PO q.d. #90 Tablet(s)
+Calcium + D (600 MG ELEM CA) (CALCIUM CARBONATE 1500 MG (600 MG ELEM CA)/ VIT D 200 IU) 1 TAB PO BID #3 Month(s) Supply
+Enteric COATED ASPIRIN (ASPIRIN ENTERIC COATED) 81 MG (81MG TABLET Take 1) PO QD #90 Tablet(s)
+Insulin NPH HUMAN 17 UNITS SC as directed , 15 units in the morning and 5 units at night #3 Month(s) Supply
+Lancets ONE UNIT (Take 1) PO bid x 90 days #180 units
+Lipitor (ATORVASTATIN) 20 MG (20MG TABLET Take 1) PO QD #90 Tablet(s)
+Lisinopril 10 MG (20MG TABLET Take 1) PO QD x 90 days #90 Tablet(s)
+Lopressor (METOPROLOL TARTRATE) 25 MG (25MG TABLET Take 1) PO BID #3 Month(s) Supply
+Micronase 5 MG PO QD #90 Tablet(s)
+Motrin (IBUPROFEN) 400 MG (400MG TABLET Take 1) PO BID #30 Tablet(s)
+Onetocuh Ultra Soft Lancets ONE TOP As directed , Use as directed #1 Box(es)
+Onetouch Test Strips ONE TOP as directed , Use as directed #1 Box(es)
+Plavix (CLOPIDOGREL) 75 MG PO QD #90 Tablet(s)
+
+
+Social history:   smoking ( - )
+
+
+ROS: 
+Constitutional: Feels well.  Energy: good. Wt: stable       
+ENT: no hearing loss, no ear pain, no nasal discharge   
+Skin: no rashes, itching  
+CV:  no chest pain,  no SOB, PND, DOE, no edema  
+Respir: no cough, no wheezing   
+GI: no nausea, no vomiting, no abdominal pain, heart burn, nl BM  
+GU: no dysuria, no frequency, no urgency. 
+
+
+PE:    Appears     well.  Legally blind. 
+Vital Signs
+BP 151/68, P 88, Wt 140 lb
+FINGER BLOOD GLUCOSE 90 
+O2 sat 99         
+HEENT: NCAT, EOMI
+Neck: no  cervical adenopathy 
+Lungs:  clear bilaterally
+Heart:  regular, normal S1 and S2.
+Abd: Soft, non-tender. 
+Extr: no edema. 
+
+
+ASSESMENT AND PLAN: labs reviwed
+DM : check A!C today
+HTn :    increase lisinopril to 20 mg, check chem 
+HL;  check  cho profile on lipitor. 
+Anxxiety: letter to  antecipate  her  trip 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------
+
+
+
+""" % (patient.name, time.strftime('%Y-%m-%d %H:%M'), time.ctime(), patient.id, patient.date_of_birth, patient.sex, patient.height, patient.weight,'','', patient.age, patient.race, patient.ethnicity, patient.payer_id, payer['name'], patient.doctor_name, pager_name, patient.medical_staff, patient.specialty, patient.address, patient.phone, patient.phone2, patient.email, patient.dob, patient.dob2, patient.gender, patient.race, patient.ethnicity, patient.age, patient.dob2, patient.dob, patient.age_18_years, patient.dob, patient.dob_18_years, patient.dob_21_years, patient.dob_18_years_21_years, patient.dob_21_years_18_years, patient.gender_female_male, patient.gender_female, patient.gender_male, patient.ethnicity_caucasian_asian_african_other, patient.race_caucasian_other, patient.practice_type_internal_practice_hospital, patient.doctor_specialty, patient.hospital_specialty, patient.doctor_subspecialty, patient.doctor_name, patient.medical_staff, patient.address, patient.address2, patient.city, patient.state, patient.zip, patient.country, time.ctime(), patient.id, patient.date_of_birth, patient.sex, patient.height, patient.weight,'','', patient.age, patient.race, patient.ethnicity, patient.payer_id, payer['name'], patient.gender, patient.dob, patient.dob2, patient.dob_18, patient.dob_21, patient.dob_years, patient.dob_18_years, patient.dob_21_years, patient.dob_18_years_21_years, patient.dob_21_years_18_years, patient.gender_male_female, patient.gender_male, patient.gender_female, patient.ethnicity_white_hispanic_asian_african_other, patient.ethnicity_caucasian, patient.ethnicity_black, patient.ethnicity_white, patient.ethnicity_asian, patient.ethnicity_other, patient.practice_type_other_internal_practice_hospital, patient.doctor_name, patient.medical_staff, patient.address, patient.address2, patient.city, patient.state, patient.zip, patient.country, patient.id, patient.date_of_birth, patient.sex, patient.height, patient.weight,'','', patient.age, patient.race, patient.ethnicity, patient.payer_id, payer['name'], patient.gender, patient.dob, patient.dob2, patient.dob_18, patient.dob_21, patient.dob_years, patient.dob_18_years, patient.dob_21_years, patient.dob_18_years_21_years, patient.dob_21_years_18_years, patient.gender_male_female, patient.gender, patient.dob, patient.dob2, patient.dob_18, patient.dob_21, patient.dob_years, patient.dob, patient.dob_18_years, patient.dob_21_years, patient.dob_18_years_21_years, patient.dob_21_years_18_years, patient.ethnicity_white_hispanic_asian_african_other, patient.ethnicity_caucasian, patient.ethnicity_black, patient.ethnicity_white, patient.ethnicity_asian, patient.ethnicity_other, patient.gender_female_male, patient.gender, patient.dob, patient.dob, patient.dob18_18, patient.dob2, patient.dob218, patient.dob218, patient.dob218, patient.dob2
+
+--------------------------------
+
+
+
+-------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------
+
+
+
+
+The following words in the following
+
+
+
+
+
+
+The words and words
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+or
+
+
+
+
+
+
+
+---------------- lines or lines
+
+
+
+
+
+
+
+
+
+
+
+
+of lines
+of the words
+and
+
+
+
+
+
+
+
+
+or 
+
+
+
+
+
+
+and
+and so many lines
+
+
+and
+
+
+and lines
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and
+
+
+
+
+words
+
+
+
+
+
+
+
+
+
+name lines of lines of, the patient
+
+words
+The patient and patient data line and date
+
+
+
+
+and the name, date and date.
+
+
+and.
+
+
+
+[and a word
+
+10, 
+names.
+words and names, and, the words, or
+names the lines
+or lines
+and
+and 
+10 the names.
+...
+The letter 
+or, the patient names
+the
+and line
+and or name
+(s, and name, and, and name
+and, and the line and the patient and
+The...
+
+, the...
+The are, etc are... and are...
+are (or and the...
+the and
+
+10
+
+120 the date
+
+[the words, and/the:
+: 1: your name- and the patient name (12: 7 and the following, and the...1 (... orifically-
+d, but the patient:
+(11 of the, the [the, 
+... (and are: the (... [(and (and the 2, the or (the. 1: and and 
+and, the, or 1 or: the 4, 11:
+( (
+[131 and (2, and, 
+[… (1-
+..., and the, and " and the… and, and, 3, 0 and, the, or orise, (and, [ and, 1, (...and, 1, 
+
+(1, 1 and, but and are, and and [ 1 of , are,,, are and the,  are in the and,
+:, a, the, [and the in, (1 (... (
+...
+make, [and and [1... 0 ( 1 (1. An An... are and the (1 (1 [ are 1 1 of the (name  ( (and the (, and [,... the, or, 1, [le... ([.. 1, and, and, and and and, an, an, and 1, ( an an an, would and, an an, an,
+- an or  (an and the, an, an and  an,
+ an of  and and,  and,, an, and the, an  an,
+ an or or and and, and, an (  an of the,  and or, An, 0,,,, the, and,, and,  and an, ,,, An  an. (an,, the, in the,, ( an an ( (0, and of-, (.  " - an-1 - :  [: - - and " -  and... ::  or- an or "... - (: an [: (- an-1- an in: and an- an are in- " or an an- an- ( an  ( and an an and the, and an of or of the or,.  or,, or ( and, [ and or and, [ an or [ and in an- and an in or [ [ ( or - and  in the and [ and,,  ( an, and are in and an an an -,,, an or- and  an are ( of  an, and, of  an-  of the of - an  and the  and- an, or " and,, of an of the of the of the an of an,, an  ( an  are or an and of  in, of and  (,  or, or an or  and, or, - or, of - of the of,- and - ( of  An: - ( : and in -  are,  and and    - of -1 of, (, and or an  of  ( An-  an of. of - an of or,,. and  or and and,, ,  and,,, or and,,  - and of or and and of.,, of an., of or,.  or  and.. or of  of of of,. of  of of  and. of  of a ( and and,, and  or and, or   or. or, an or, an, an,  in,  and an [ [ and in, and or  and -1 is  or- and  or  and - or or and ( ( an an,  [ ( ( or and or and an and c an  an in and, An C  c, c in or of ( c  c ( ( and (.  a c. An M C and and  and c c and ( - [ C and  C and  and  c an  or: C  and (    An  or ( and (  and of " An. C C ( C C and ( and an or [ and and or or or or, C of of  of or an of [  (  C, (, C and (.  and and, and,, (, C of  of of or of  of of. and of  and.   m and and m c  - C, M M  C and or.,,, (. ( and (  and  and,  ( m   (, of and c of of and  - and t of C C M, and ( and M  ( or, or m and  of ( and   in  ( and.  or ( (, (  C (, T or and and or or, and or, ( or [ and (  or - [ and, and, C and ( or, (  or,, C, [, and,., and  in   and ( in , - and (  (, or, ,, and  - , and, and,,  and and, (, t, and,,, and,,, C   or  and - and,,,,  ( , ( C , .  and ( C,.  and -., and M or , - M,, and,  (,, C, C,  C - P ( C, and, and,,,,, and ( M or M,,   -  I. M  C and C  C and and C  and C,, and ( (,   and C, M C, and,,  M, (,,,,, and C M,  C and ( M - , T, C and,,, and, (, and and (,,, . and (, a, and,, and, and and,  and and. M,  M C C.,,,, and,  C C , M, (, a,,, or,,,, C (, M.,. a  (  ( or C ( and a and, and,, or m, M (,,, C (, and C C and ( and,,, or  and,, M M, and

@@ -1,0 +1,273 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2092-08-16
+
+EDVISIT^06129040^MACK, ROSE^08/16/92^GRAHAM, ANGELA
+
+This patient's visit was shared with PA, Quiring.  I also
+
+personally interviewed and examined this patient.
+
+HISTORY OF PRESENT ILLNESS:  This is a 50-year-old female with
+
+past medical history of type 1 diabetes, peripheral vascular
+
+disease, and hypothyroidism who presents for evaluation of an
+
+infected left heel ulcer.  The patient is status post bypass
+
+grafting in her lower extremities and skin grafting of a
+
+nonhealing ulcer on her right heel.  Since that time, she has
+
+developed a chronic nonhealing ulcer on the left heel, which has
+
+been followed closely by VNA.  Today, she was seen by her VNA who
+
+was very concerned about redness and swelling of her left foot
+
+with redness that extended underneath the plantar surface of the
+
+foot and over the dorsal surface and concern for infection of
+
+this ulcer.  The patient has minimal sensation in the left foot. 
+
+She states sometimes she can feel a pressure sensation.  She does
+
+have some pain when she tries to weightbear, has not noted any
+
+fevers, has noted some chills and states that her fingerstick
+
+earlier today was elevated.  She denies any abdominal pain,
+
+nausea, or vomiting.  She does note that her foot does appear to
+
+be somewhat slightly more swollen but has not noticed redness up
+
+until today.
+
+PAST MEDICAL HISTORY:  Positive for hypothyroidism, type 1
+
+diabetes, and peripheral vascular disease with a nonhealing
+
+diabetic foot ulcers.
+
+PAST SURGICAL HISTORY:  She is status post femoral bypass
+
+grafting, thyroidectomy, skin grafting for nonhealing wounds, and
+
+right foot debridement in the past.
+
+SOCIAL HISTORY:  She smoked in the past, does not drink.  She
+
+lives with family, is followed by a VNA, and is not working.
+
+FAMILY HISTORY:  Reviewed and is also positive for diabetes.
+
+REVIEW OF SYSTEMS:  All other systems reviewed and otherwise
+
+negative except per the HPI.
+
+MEDICATIONS:  Insulin.
+
+ALLERGIES:  She has an allergy to codeine, aspirin, erythromycin,
+
+oxycodone, and sulfa.
+
+PHYSICAL EXAMINATION:  Her temperature is 98.6, her pulse 105,
+
+respirations 16, blood pressure 117/70, and O2 saturations are
+
+100% on room air.  The patient is awake, alert, frail, and thin
+
+female.  She is in no respiratory distress.  Her head examination
+
+is normocephalic and atraumatic.  Her conjunctivae are slightly
+
+pale.  She has moist mucous membranes.  The airway is patent. 
+
+Her neck is supple with full range of motion without any pain. 
+
+The trachea is midline.  Her lungs are clear to auscultation
+
+bilaterally with equal breath sounds.  No respiratory distress,
+
+no accessory muscle use, and no chest wall tenderness.  Her
+
+cardiac examination is tachycardic and regular at about 100 with
+
+a 3/6 systolic murmur.  Her abdomen is nondistended, soft, and
+
+nontender.  No guarding and no peritoneal signs.  Her skin is
+
+remarkable for healing superficial ulcers on the right heel.  On
+
+the left heel, she has a superficial ulcer with a dark eschar,
+
+which is approximately 4 x 4 cm in diameter.  There is no
+
+purulent discharge around the area; however, the skin of the left
+
+foot is fairly violaceous and warm on the plantar surface of the
+
+foot surrounding the ulcer extending up the lateral aspect of the
+
+foot to the anterior aspect of the left ankle was demarcated in
+
+the Emergency Department.  There is no other break in the skin
+
+visualized.  Her back is nontender with full range of motion. 
+
+Extremities are remarkable for lower extremity atrophy.  She does
+
+have 1+ edema of both feet.  She has minimal sensation on
+
+palpation of her feet with no obvious tenderness on palpation
+
+over her left foot.  Her pulses are trace.  She is alert and
+
+oriented x3, has a depressed affect.  See the PA note for
+
+remainder of the details of the physical examination.
+
+EMERGENCY DEPARTMENT COURSE:  The patient had IV access
+
+initiated.  Laboratory studies were sent including blood
+
+cultures.  She was started on IV antibiotics, vancomycin, and
+
+gentamicin and was consulted to Vascular Surgery.  Her feet
+
+remained elevated.  She had a plain x-ray performed of her foot,
+
+which showed no obvious evidence of osteomyelitis and no
+
+subcutaneous gas.  Her laboratory studies are remarkable for
+
+hyperglycemia and she was started on IV fluids.
+
+DISPOSITION:  She is admitted to Surgery.
+
+DIAGNOSIS:  Left foot, nonhealing ulcer with left foot
+
+cellulitis, and peripheral vascular disease.
+
+See the note for details.
+
+______________________________
+
+GRAHAM, ANGELA M.D.
+
+D: 08/16/92
+
+T: 08/16/92
+
+Dictated By: GRAHAM, ANGELA
+
+eScription document:3-3296461 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+ 
+  14:53:04:161 14:53:02:252 14:52:59:242 14:52:57:241 14:52:55:240 14:52:47:230 14:52:41:232 14:52:25:236 14:51:53:239
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+ 
+        <saml2p:AuthnStatement xmlns:saml2p="urn:oasis:names:tc:SAML:2.0:protocol">
+
+            <ds:SigningAlgorithm Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+
+            <ds:KeyInfo KeyInfoFormat="http://www.w3.org/2000/09/xmldsig#keyinfo-ec">
+
+                <ds:X509Data>
+
+                    <ds:X509Certificate>MIICjCB6qCgAwIBAgIJADz6XQ068+cXMA0GCSqGSIb3DQEHATAeBglghkgBZQMEUxCzAJBgNV
+
+BAYTAkFVMRMwEQYDVQQIDAhSzVWZGUiIHTALBgNVBAsMTk5JTASMBgGA1UEAwwRU1IQRVJVc2VybmF0aW9uZDEgMA0GCSqGSIb3DQEBAQUAA4GBAI0
+
+CiR8Xu1Y6022286438030203110009314059349318475362427091733041517320304143874797262846694534678369638791884894028203623036919734151916231299657563268591265919978241965997965753693203429399223322161062201841181488309956121965979993785924323392432
+19914914151123123212311351131130133131 names, names:3541113132313 lines 50101.
+302415121113311
+151234 information codes, and the date numbers 1,34, or (name of 3
+12,3.
+
+1010. 10.
+1993
+(3
+19 or date 120 names (name codes and names 
+names 12: or
+names and names.
+The clinical data 12 or the patient name and 5
+
+
+
+
+190 or 21.
+and 111. and name the date, and date of the first or the date, and name, and the patient, and date, and the patient-1...
+
+.
+and a patient, and the patient, and or, or, and the past 1, 9 oratorized names of the name and 2.
+[...: 12.
+[1: and a patient names are:
+
+names with the name and... and the...
+[:, 10 and [1: the [0 are orally orifically indicate...
+[10 and the name and indicate (the 4...the: or: or:... and 3...the:, 8, and " or (...
+(1, “1, but the (d or, the “make the, “make.
+1, a few:
+the 1...
+
+and (1 and are and…, 2 (13, and the. An and a, " and, or, and (1,1, and, the and, and and the, and (2,
+1, and, the, and, and, or, 1. (and (and the or, and, and, an, 2 (1 in the in the, the, are and are the. and, [1, you, any (: (...1 (make and 1 and and:
+...: an [: 1. (patient and: 1. 1 are a or-le are-name of the name of the "1, the (1 and (the, the names, and (patine of [, [. of the and the., and, and, and, [, an, an, an,
+, the, would or and the-con and or (2 (4, the (an, an "an 1, an, and the, an, 1 or, Anis (., 6, and and, [1, [ an, an, " an, " of 4 [1.  of the of the,,,, and the, or, an, an, 2, the, or, (, 0 and the, [2, 2, a, "with "2 and (2: the "11, "12 of 3 and: (2: [1-3 and: 1 and::: a ( " [: 1 (2 " an and: and: an " [ and [ ( ( with: with a-le-an "  of " an and are, [2 and-le- an-1 an, or (. of the of the of and in the an and the an and ( in the [. (, and [ or, (- and in and [ in  in or and of [- an, or ( [ an [ ( an ( an or- an and in ( - an and an-  (  and-2 of the, or - an of ( in or, of the of  of the of and (  an and, in  and, or. by  and and (,,, an of the of the and of the of “ or and and and and and, are- - and in a-  in, are or or or of the by  or or in  and and by,  with or or ( and ( and of the and of the of  of the and,  in by, and, (, in-m or and and in the and, [ of an of a-in ( 0- or-1 (- and  or- - (,  or of and,,,, (, ( and of, of [, and  or, " and and and-m and of a, ( and,  or of and for for for (  of  for  ( (, and,,  and of, of the of, of of of an-of of, of an of,., by and, (,, and, c and or,  [, and by, -1 c and  and,,, - ( and or or,  of a of the, 0 or, and or or [ an an [,,  or an,,,, [ or or or, ( or about and  an- - and in- [ and,  and ( and and of [- and of or,,, and and  (, c- and and  [ ( (,: ( (- c and " and: an (: (.: -1, or ( or and. -c " or of the of  and-  in ( by-  by an and and and (- or in or or,, of ( and of and or or of and, (, or  and  in.,  and-  and,,- by of of of and of of and of of of and or an  (- an- or or and, and and and and, and and in, (,, and and,.,,  in the, and, or and,  or, ( (- and of of and (  or by ( [- or or and an in- [, and and and or of, of the of and and or an. or ( and  and by,, or and,, and (,, an and or and and and,, and  [, and or [,,,. and-b,, as and or ( or in a (, or and ( and, in, ( and and and,,, and or,,, and and  and and and and and,, and and,, and,,, and and,,,, and and, and, with,, and,,,,,,,, or, and,,,,,, (,, ( a and or, and ( or and, and ( w,, ( w,, [,,,,,,, of,,, V V,, and-  and and [c,., and, and, and, t,, and V ( and,, or,  [ and c, V with and, V (, and, t w, and or (,, and and, and and-c V, and,, and,, and, and and and, and,, with the V, or [ the and V and and and and and and w or, about,, w, ( and, ( V and and and, ( w and ( as and, ( and, and,, [ to as and,,, and, and in, a,, and, and, and, and and as in,, in, and,,,, ( and and (, and, and and, and, or,- and ( or or, or,, and w  (  and V and and w, and and, ( and, and,, [, and, and  ( and and,

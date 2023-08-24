@@ -1,0 +1,367 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2096-03-16
+
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+MISSOULA CLINIC CENTER
+
+
+
+Reason for visit
+
+	
+
+  88 year old man h/o type 2 DM, CAD here for follow up
+
+
+
+History of present illness
+
+	
+
+  He missed his last appointment, but today he states that he has been feeling fine. He reports no chest pain, no dyspnea, no palpitations, no orthopnea, no PND. He is ambulating around the house without a problem. He has some occasional leg pains, but he now takes acetaminophen instead of nitroglycerin. He reports no recent ankle swelling, because he states that he elevates his legs. 
+
+
+
+He cares for his wife- doing chores around the house, such as washing dishes or making the bed. The only thing he reports being unable to do is lifting arms over his head (old problem).
+
+
+
+Major Problems
+
+
+
+
+
+Coronary artery disease
+
+s/p anterior MI 2082, LAD PTCA 2082. Cath 90% RCA, occluded OM2 2082. Echo 2087 EF =67%, no WMA (previously had apical dyskinesis). R/I'd for NSTEMI (TnT 1.35) in setting of 4 U GI Bleed (11/92), complicated by CHF. Last LDL 59 on lovastatin.
+
+
+
+Osteoarthritis
+
+Severe DJD of bilat shoulder -limited abduction 80 degrees. No significant symptoms. Seen by Dr. Etheridge in past.
+
+
+
+Diabetes mellitus
+
+Dx 7/88, on low dose glucophage with excellent control- d/c'd 10/91 when HbA1C all wnl. Urine alb slightly high at 71 (8/94). HbA1C up to 8.0%- started on glyburide. Last check 6.7%
+
+
+
+Active Medications
+
+
+
+aspirin 81mg po qd
+
+atenolol 100mg po qd
+
+furosemide 20 mg po 2-3 tabs daily
+
+glyburide 1.25mg po qd take with breakfast or first meal
+
+lisinopril 2.5 mg po qd
+
+lovastatin 20mg po qpm take with food
+
+multivitamins 
+
+nitroglycerin 0.3mg AS DIRECTED
+
+
+
+Social history
+
+	
+
+  Married, 4 daughters from previous marriage. 3 sons each killed in separate MVA. Former smoker quit 20 years ago, (+) EtOH. 11 grandchildren, 9 GGC
+
+
+
+Procedures and Immunizations 
+
+Influenza vaccine 
+
+ Received 11/95 MLL
+
+
+
+Review of systems
+
+	
+
+  As above, no abdominal pain, no urinary complaints. No complaints of constipation or rectal pain. No BRBPR. Nocturia x 1-2. Rest negative in detail.
+
+
+
+Physical Exam
+
+Blood pressure 124/70  
+
+Pulse 68  irregular
+
+Weight 136  
+
+General appearance   Elderly man appears well
+
+Neck   carotids 1+, JVP 8 cm, no nodes, thyroid non palpable
+
+Chest   CTA except right greater than left basilar crackles
+
+Cor   RRR, normal s1, wide split s2, no murmur
+
+Abdomen   soft NT no masses
+
+Extrem   No edema, radial pulses 2+, popliteal/DP 1+, DJD at base of 1st MC right
+
+
+
+Selected recent labs
+
+	
+
+  EKG- AF at 68, new RBBB, LAH. 
+
+CMP/CBC/HbA1C
+
+Urine for albumin
+
+
+
+Assessment and plan
+
+	
+
+  1. AF: recurrence of his AF, but no significant CHF and no symptoms to suggest active ischemia. He is already rate controlled on beta blocker. Decision to anti-coagulate is not easy. On one hand, he is a very functional man. On the other hand, he is 88, walks with a cane for balance, and is not very fond of frequent doctors visits. Discussed EKG findings and anticoagulation with Dr. Youmans, his cardiologist. Dr. Youmans will see patient next week. 
+
+2. CAD/CHF: Stable- Continue ASA/BB/ACEI/statin. BP OK. 
+
+3. DM: HbA1C normal on low dose glyburide. (+) microalb- on ACEI- check again today. 
+
+4. PUD: no recent bleeding. No symptoms. 
+
+5. HCM: Flushot 11/95. Declines c-scope (last 2087). 
+
+
+
+Disposition
+
+RTC 3 months 
+
+
+
+-William Eggleston, MD pager #40547
+
+
+
+Signed electronically by  William Eggleston, MD
+
+Document Status: Final
+
+
+
+
+
+----------------------------------
+"""
+
+# --------------------------------------------------------------------------
+#                                                                            #
+#                               Tests                                           #
+#                                                                            #
+# --------------------------------------------------------------------------
+
+from unittest import TestCase
+from tests.utils import assert_docstring_equal, check_output
+
+from babel import numbers
+
+# --------------------------------------------------------------------------
+#                                                                            #
+#                               Helper functions                                #
+#                                                                            #
+# --------------------------------------------------------------------------
+
+def _test_case(filename):
+    """
+    A helper function to test a case document.
+
+    The test case takes a file with an XML-formatted case-document and returns
+    the document, the corresponding expected text, the parsed XML and the
+    parsed XML's textual representation.
+    """
+
+    with open(filename, 'r') as doc_file:
+        doc_str = doc_file.read()
+        text = doc_str.encode('utf8').strip()
+        doc = xml.etree.ElementTree.fromstring(doc_str)
+        text = doc.text
+
+    doc_dict = {
+            'docstring': text,         # The text string of the document
+            'case_doc': doc,           # A parsed ElementTree representation of the document
+            'xml_dict': doc_dict,     # A dictionary representation of the document
+            'xml_str': doc.toprettyxml()  # The XML of the document
+                                          # (as a string)
+    }
+    return(doc_dict)
+
+class TestCase(TestCase):
+    """
+    A helper to test case-documents.
+    """
+
+    def test_docstring_and_xml_text_agree(self):
+        """
+        Verify that text extracted from the case document and the
+        corresponding XML agree.
+        """
+
+        test_case = _test_case('case_text.xml')
+        self.check_case_against_docstring(test_case['docstring'], test_case)
+
+    def test_docstring_and_xml_text_agree3(self):
+        """
+        Verify that text extracted from the case document and the
+        corresponding XML agree.
+        """
+
+        test_case = _test_case('case_text.xml')
+        self.check_case_against_docstring(test_case['docstring'], test_case)
+
+    # ---------------------------------------------------------------------
+    #                                      Test functions                       #
+    # ---------------------------------------------------------------------
+    def check_case_against_docstring(self, actual_docstring, test_case):
+        # Check that text strings extracted from the case document
+        # agree with text strings extracted from the docstring
+        self.assertEqual(actual_docstring, test_case['docstring'])
+
+        # Check that text strings extracted from the case doc agree with text
+        # strings extracted from the XML tree of the doc
+        self.assertEqual(actual_docstring, test_case['xml_str'])
+
+        # Check that text strings extracted from the parsed XML tree
+        self.assertEqual(actual_docstring,
+        test_case['parse_xml']['xml_dict']['xml_doc']
+        )
+
+class TestDoc(TestCase):
+    def check_output_against_docstring_against_docstring_against_docstring
+    against_docstring_against_docstring
+
+    docstrings against_docstring against the string or strings,
+    against string against the string
+    against 2-string strings against the string against 
+
+    string against the word against 
+    string
+
+string
+
+string
+string
+stings.
+
+string
+stings of the string
+\string or, the string
+
+or
+string
+string string
+string
+...
+string
+strings...
+
+
+
+string,
+
+strings...
+
+
+
+strings, stings
+string, 52, etc
+
+
+1
+
+
+The patient
+string, the
+string
+
+
+string and string of
+patients,
+st
+
+
+
+
+
+
+
+
+
+
+string string
+
+strings,
+
+and strings and strings.
+patients
+
+
+
+
+
+strings,
+
+patient strings, and strings...
+
+strings, and string strings
+of strings of a string, or the strings...
+
+[
+
+strings...
+
+
+name of the names of the letter,
+names, 5, s, s... and date.
+
+or 
+
+
+the patient
+
+or, 5, s...
+10 or name
+12. 
+or, and the patient and names and date, and the, etc, etc. The names or [or names and names...
+
+...…. the last 4, the patient, or are 18 and the letter and the [the, oratory names, and any names and patient names and names, names, and name. 3 and names that patient, 1, 2 patient names, the words of your words, and names, the names, and the…… (the, 17 (1:... and: are are, the...of... of... are the [ 1 or... 1 or [
+and (are the (make the (and (you: or, and, or, the: 4, the. 1, and 7, and the (and (and-
+and and “and or (12, "… include: 1 of  and...... of an, and the [1, and… and and "
+, and or, the, the or (
+or, and, etc, and. 1, and or (, and, 
+1, and the, 1, the or, and (2 of the and, and and, etc, 0, (and, 1, and in the, and, are a, 1,
+
+(the, and the [get the: "caps, an (with [c. 1: and...1.
+1...1:
+1-le 1 in the... 1,...
+ 0... of...,  or and or, (1 "the and, or [le, or, 1. 2 of 1, the. 2 and in, 1, 1, and, a and, 1 in are-1 are, and or, an and-and, 1-1, an, get in, an, an and, an of, an, 0 and, the, 2, 3-an or 1 or, (and, [an, or, of 2,, or, an, and, or or, ( an, and, an, and, an 0 of the and, anist, and (1, an, an, 1, an: the, or an or and: 2 (1: and 1 of it [pro or-re ( (an-1: an an: or an::: and or and: or 0,: (1-an [: an-with- or- or in the (: of “1-2 or ( are " or-an, an,. an,. of " of an of a of the, or and  and  and and [[ [[ and, or [ and [ are,  [ and and [  ( ( [[ and- and, " or [0, are and- or are,, [ are or, and ( ( here or, ( an " and, an or,  of  " an or an, and  ( and  (  an [ an  ( and  here,,  by, (, or, ( and of the- of an  or  - of and, ( and,.,, or-an are an,, or and or of,, " an of  an [ ", an ( an  or or and of an- of, of of of, of an and or ( and ( or ( in.,, (-  and in and (  or and an in and  ( or and " -  an,  an, and or, and " -  and " or- or,, and,, ( an or or and,, (  and ( ma,, or. or for,. of  or an-  ( of.  of and an,  and and, or,,, and, or, of of the of of " of and of of  and of [ and,,  " (,, and and,  and or [ an  an and [1,  and  and  in ( ( and, m an, or and or and " ( ( or, [ ( or  an-1 an or c " " (  ( [ or  or,, or., and, and- [ or c an  or of an an an an ( and or, or and  ( and of ( of an of [. - al ( (, and ( al and  ( c ": al [ ma c a here (. here " and in - - and and or in and in and. an ( in a-  " and " and "  - ( " and " or [ or ( and or and or,, of and  of and of or of, and, and, or (,,, and and " and., (,, or or of of ( of of or of or of, of ( and and and and, and, ( ( (,. c. and or c and and or  of, of  of of of and of of of of of of of, of and ( h ( ( and,  of of  of  C (,, and and and, - ( and ( ( or, and,, and of (  (  and. " ( " (  an -  in. [ ( - and and and- or " or c, or and ( c (. - ( and  (, and and ( c and-1 h,, ( or (, or and or (1 ( ( ( and,, or,, and,, (, -, - (, or,,, ( and h,  or, and -,, C or (, and, h and in., for, or for [. ( c or ( [, and and and. or h c,  c of  of of of of of of of  of ( of of ( h. ( and  and - (,, h,,, ( ( c and and- c- c ( (- and or ( and m- and,, (, -. and -. ( m- and [ and a c ( or and and and, n and and and,, ", and, [ and,, and.. h of of of ( of  and of ( m- and in ( of or of m of of of  of of and of a of and or, and. m and,, m,, and, ( - and and and (,  ( ( of. and of, a and, m h ( ( a and, ( h or,,, and. a and a and-  a c., ( to to, (., or- ( or (- ( (, ( and- and c C c C, and, or ( and or. a c or C C or C C c of of of of of and  of ( - C C or a c- or and and - c, (, and.

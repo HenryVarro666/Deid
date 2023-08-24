@@ -1,0 +1,552 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2095-08-21
+
+                     Bailey EMERGENCY DEPT VISIT
+
+ 
+
+DARLING,BETTY   785-67-87-3
+
+Resident history reviewed, the patient seen, interviewed, and 
+
+examined by me.
+
+HISTORY OF PRESENTING COMPLAINT:  Briefly, the history is as 
+
+follows:  The patient is a 75-year-old white female with past 
+
+medical history significant for throat cancer, status post 
+
+radiation therapy; breast cancer, status post multiple 
+
+lumpectomies; non-insulin dependent diabetes mellitus, 
+
+hypothyroidism, hypertension, and peripheral vascular disease with 
+
+bilateral carotid stenosis - status post right carotid 
+
+endarterectomy, who was seen earlier today at Faith Hospital 
+
+after an episode of word finding difficulty associated with acute 
+
+vision loss in her left eye while riding as a passenger in a car.  
+
+The event was witnessed and reportedly there was severe word 
+
+finding difficulty.  The patient was transferred to the Bailey Memorial Hospital Emergency Department for further evaluation and 
+
+management.  On arrival, she states her symptoms have largely 
+
+resolved.  Evaluation at the outside facility included a head CT 
+
+which reportedly revealed no events of acute hemorrhage.  Prior to 
+
+transfer, she was treated with aspirin.  
+
+REVIEW OF SYSTEMS:  All systems reviewed are negative except per 
+
+HPI. 
+
+PAST MEDICAL HISTORY:  As noted above.
+
+MEDICATIONS:  Klonopin, Glyburide, Coumadin, meclozine, Timoptic 
+
+ophthalmic drops, Zestril, Celebrex, and Synthroid.
+
+ALLERGIES:  No known drug allergies. 
+
+SOCIAL HISTORY AND FAMILY HISTORY:  The patient denies tobacco, 
+
+alcohol, or any history of illicit drug use.  She presently lives 
+
+alone.  Family history is only notable for a sister with breast 
+
+cancer. 
+
+PHYSICAL EXAMINATION:  Well-developed, well-nourished, 
+
+well-appearing female who appears in no acute distress.  VITAL 
+
+SIGNS:  Temperature 96, blood pressure 167/84, pulse 92, 
+
+respiratory rate 18, O2 saturations 100% on room air.  HEENT:  
+
+Normocephalic, atraumatic.  Pupils equal, round, and reactive to 
+
+light.  Extraocular muscles intact.  Funduscopic exam reveals sharp 
+
+disks bilaterally.  NECK:  Supple.  LUNGS:  Clear to auscultation. 
+
+HEART:  Regular rate and rhythm with a 2/6 systolic murmur at the 
+
+left sternal border.  ABDOMEN:  Soft, nontender, nondistended.  
+
+NEURO:  Awake, alert, and oriented x 3.  Speech clear and fluent 
+
+and well articulated.  Motor 5/5 and symmetric throughout.  
+
+Reflexes 2+ with downgoing toes.  Cerebellar:  Finger-to-nose 
+
+intact.  Gait not tested.  
+
+LABORATORY EVALUATION:  SMA-7 notable for glucose of 124.  CBC:  
+
+White count 8.2, hematocrit 36.3, platelets 379.  Coagulation 
+
+profile notable for an INR of 2.0.  Urinalysis benign.  EKG:  
+
+Normal sinus rhythm at a rate of 70 with nonspecific T-wave 
+
+changes. 
+
+THERAPY RENDERED/COURSE IN ED:  She is currently awaiting 
+
+evaluation with an MRI and MR angiogram of the head and neck. 
+
+CONSULTATIONS (including PCP):  The patient was seen in 
+
+consultation by Neurology.  
+
+FINAL DIAGNOSIS:  Transient ischemic attack vs. cerebrovascular 
+
+accident.
+
+DISPOSITION (including condition upon discharge):  The patient will 
+
+be admitted to the Neurology Service for further evaluation and 
+
+management.  The patient is currently in stable condition.  
+
+___________________________________                    YA226/51903 
+
+OMAR IM, M.D.       OI23                        D:08/21/95 
+
+                                                       T:08/21/95 
+
+Dictated by:  OMAR IM, M.D.       OI23 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+"""
+
+
+# -*- encoding: utf-8 -*-
+
+import re
+
+from.test_base import TestBase
+
+
+class Test(TestBase):
+  def test_doc_template_docstring(self):
+    self.assertRegexpMatches("""
+
+    This test tests that the docstring is in the right format for parsing. It should be a
+    string and it should start with the docstring template:
+
+
+   .. code:: html
+
+      Docstring Template
+
+    And it should have a list of sections.
+
+
+    """
+    self.assertRegexpMatches('''
+
+    This test tests that the docstring is in the right format for parsing. It should be a
+    string and it should start with the docstring template:
+
+
+   .. code:: html
+
+      Docstring Template
+
+    And it should have a list of sections.
+
+
+    ''', self.test_doc_template.docstring_string)
+
+    # The sections should all be of the form:
+    #   DocstringSection: DocstringContent
+
+    self.assertRegexpMatches('''
+
+    This test tests that the docstring is in the right format for parsing. Section 1 should be:
+
+    * DocstringSection1: DocstringContent1
+
+    This test tests that the docstring is in the right format for parsing. Section 2 should be:
+
+    * DocstringSection2: DocstringContent2
+
+    ''', self.test_doc_template.docstring_string)
+
+  def test_doc_template_docstring_with_comments(self):
+    self.assertRegexpMatches("""
+
+    This test tests that the docstring is in the right format for parsing. It should be a
+    string and it should start with the docstring template:
+
+
+   .. code:: html
+
+      Docstring Template
+
+    And it should have a list of sections.
+
+
+    """
+    self.assertRegexpMatches('''
+
+    This test tests that the docstring is in the right format for parsing. Section 1 should be:
+
+    * DocstringSection1: DocstringContent1
+
+    This test tests that the docstring is in the right format for parsing. Section 2 should be:
+
+    * DocstringSection2: DocstringContent2
+
+    '''
+
+    self.assertRegexpMatches('''
+
+    This test tests that the docstring is in the right format for parsing. Section 1 should be:
+
+    * DocstringSection1: DocstringContent1
+
+    This test tests that the docstring is in the right format for parsing. Section 2 should be:
+
+    * DocstringSection2: DocstringContent2
+
+    ''', self.test_doc_template.docstring_string)
+
+  def test_doc_template_docstring_invalid(self):
+    invalid = """
+
+    This test tests that the docstring is not in the right format for parsing. And it should 
+    be a string and it should start with the docstring template:
+
+
+   .. code:: html
+
+      DocstringTemplate
+
+    And it should have a list of sections.
+
+    """
+    self.assertRaisesRegexpError(
+        "Invalid docstring template: *", invalid)
+
+    invalid = """
+
+    This test tests that the docstring is not in the right format for parsing.
+    Section 1 should be:
+
+    * DocstringSection1: DocstringContent1
+
+    This test tests that the docstring is in the right format for parsing. Section 2 should be:
+
+    * DocstringSection2: DocstringContent2
+
+    """
+    self.assertRaisesRegexpError(
+        "Docstring should be a single paragraph. Found 'Section 1',", invalid)
+
+  def test_doc_template_docstring_invalid_docstring(self):
+    invalid = """
+
+    This test tests that the docstring is in the right format for parsing. Section 1 should be:
+
+    * DocstringSection1: DocstringContent1
+
+    This test tests that the docstring is in the right format for parsing. Section 2 should be:
+
+    * DocstringSection2: DocstringContent2
+
+    """
+    self.assertRaisesRegexpError(invalid)
+
+  def test_doc_template_docstring_invalid_invalid(self):
+    self.assertRaisesRegexpMatches(invalid)
+
+  def test_history: 
+
+Temperament: 88
+
+Vision: 88
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        VISN-98
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tre
+
+
+
+
+
+
+
+T
+
+
+
+
+
+
+T
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+The patient
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13
+
+
+
+
+
+
+
+
+
+24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T
+
+
+
+
+
+
+
+
+
+
+
+
+B
+
+
+
+
+
+B1
+
+
+
+
+
+
+
+
+
+A
+
+
+
+
+
+  
+
+
+B
+
+
+
+
+
+
+
+
+
+   
+
+
+
+  
+
+  
+
+
+April (20181
+112
+
+10
+
+
+
+
+
+
+
+
+
+
+The 
+
+A
+
+ 
+
+B
+
+
+Dr, Dr. 
+
+                
+
+
+
+                
+1
+                
+
+
+
+
+
+and
+2192,0
+and.
+The
+
+
+
+Medic:
+The following. 
+               . 3
+
+
+
+               .
+
+
+The following. 120
+The year. 
+Medic: 11:
+
+ 15:1: a year, but:
+  2110 
+19
+The.
+131704401
+ 0 EXIONAL
+
+
+: 10
+ TRE CH:   AMS:  : The.
+PLA:11,
+
+The date, date and the patient, and, but, and the [[ 1181 EXIMP EXIVE EXIS EXION and: Ex. 
+Exive Exive.
+Exive Exime and EXION.
+A date, a patient.
+
+exist. 1828120091. 1000: 5: 16000. 255. 35091. 100. 22. 2 [andient. 4130 [00-3:00: a,3:01, a 1.0-3800110/0/1/1 and, a, a, and a (15, a ([a. [2 a [[11-4.2 Exiff Exine and a-2-18605 An.3 and a, and a-year: (a-year-per and in the.  and. 0 and an. 0 and the disease and 210 Existr Exine, the [4 in a, with [3.
+ (9: the 6/ 9-13 [2, a- 5 and disease.  an (per, and (an (fime. 3.2 [ex and the, a, her, an, 2 [3 (2. 1 a-ex-2  [.  and, the  and. 13. 65300000,9 (0. 523 [2 and. exogen and ( :  by the a. EX-tre in  exmer., [:2: 15 ( 4.. Exient-ex, a-a-ex-ex-ex (EX CHINE-ch in a [. [  and. 12:  [   and:  ( . a [ex and..:  [. a.: and [. [. by a and: by the and in [.::. and.. [.: [: :  [.: [ :: an:. in. in:.: [ with and.:., [ [1. and [1 with [ [-1 [00 and [, [1 (, [0 and (0-15 and-ex-  and (- and, and a- a- and and, and- [- [. [., and - and- and and- and- and- and and- and- (- PO, with for the in and. [,: - and-  with-for- -  [ with in and- an.- -  for [ for,-p-ex for and and- and- -M23020004-ex, (- and [ or (- [.- to- (. to. [. and to the-ex,-c and-c- to and-to. and, to and. and.-ch with-m with- -tre and and- -b, ( by,,,,.-c-day,  by, (-ch by and.. (. ( out ( and (.. and and,- (-,- and, and- and- and- and-c-ch- and to- and- (- and- ( and ( [. and,, and,-cl and- and- (- and- (-,--,--  with- and with,-c-[, (- [.-c-,- [-,,:., (.,. [:,- a, [ (: - [-- (- C---: C- ( (-:-:-- to-:-  [,,- to: ( [: to [,-1-  - (-b- (- [.-.- ex-, and--- and-,, and-. and,,,- (... and and, and (,-,- (. [- [.- and (.: the--[,,.: [. for:- C [: and [.:-: [-::.:-:-:-:: (:-:-.--- [..- and, and-. and and,-..-- and, and ( and-,- (,.- (., and., ( ( with (. with,::. and  with ( with, and:. with,-:.; (-::-: and and-::.:: C:. and:: (-,,:-.,.:- ( and--:. [ [ and-, [- and [. and-- and- w ( and - and and W W and w- w and W-;.-	. and- and-[;--;;-- and with-- to- and-[,.-,- and.,..--[.-:: and, [-. and- and, cl- to (-- (-,-- with [-[.--- to.	- (-- to.- to, to- to to-2- to-[,.,,- (- [ and- or and and-  and (-., ( (.-.- to and ( and.- C.	 and (. and  and an- an. ( (..:.- and.;: and: ::- an, [. with:,.: and (.:-, (::: to::::: (.,: [:: to-:,0:: (:: and:::: ( an- [: ( [[. [ to [ [[. --	:::  (: :.,::: ::,: ( [ -  [,- [: [:::..-[-;:::

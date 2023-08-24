@@ -1,0 +1,261 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2088-10-12
+
+EDVISIT^45630268^UHRICH, KARSON^10/12/88^ABREU, OLIVIA
+
+The patient was seen primarily by myself.
+
+HISTORY OF PRESENT ILLNESS:  This is a 71-year-old female with a
+
+history of diabetes, high blood pressure, and
+
+hypercholesterolemia presents to the emergency room with some
+
+right thumb pain and swelling after poking with a turkey bone 2
+
+days ago.  Denies any fevers or chills.  Does report some
+
+increased redness and swelling at the right side.  Also reports
+
+some left dental pain that started this morning.  She has had
+
+history of dental pain in the past, however, much worse today. 
+
+No fevers and no chills.  Tolerating secretions.  No pain on
+
+swallowing.  No recent dental work.
+
+PAST MEDICAL HISTORY:  As noted above, hypercholesterolemia,
+
+diabetes, and hypertension.
+
+ALLERGIES:  Aspirin.
+
+MEDICATIONS:  Atenolol, Protonix, amitriptyline, and Lipitor.
+
+SOCIAL HISTORY:  Denies any tobacco, alcohol, or IV drug use.
+
+PAST SURGICAL HISTORY:  No past surgery or procedure.
+
+REVIEW OF SYSTEMS:  Right thumb pain and left tooth pain.
+
+PHYSICAL EXAMINATION:  Mild tachycardic at 108 and low-grade
+
+temperature 99.2.  Rectal same.  She is an elderly female in mild
+
+to moderate distress complaining significant dental pain.  Head
+
+and neck exam, post dental exam, the patient has pain over tooth
+
+#16 which is intact.  No surrounding fluctuance, pus discharge,
+
+or bleeding.  Tooth is intact in the socket.  Does appear to have
+
+caries.  Posterior pharynx is clear.  Neck is supple with full
+
+range of motion.  Lungs are clear to auscultation bilaterally. 
+
+Cardiac exam reveals S1 and S2.  Regular rate.  No gallops, rubs,
+
+or murmurs.  Abdomen is soft and nontender.  On extremity exam,
+
+right thumb, the patient has an indurated right thumb with some
+
+streaking up into her mid forearm on the lateral aspect.  There
+
+is some induration and warmth to touch.  There is no foreign body
+
+visualized.  There is no area of pus discharge or bleeding.  2+
+
+radial pulses.
+
+LABORATORY DATA:  Normal CBC.  X-ray of the right hand shows no
+
+evidence of foreign body.
+
+ ******** Not reviewed by Attending Physician ********
+
+IMPRESSION AND PLAN:  This is a 71-year-old female with diabetes
+
+presenting with cellulitis and some streaking.  She had received
+
+IV Ancef in the emergency room.  She will be admitted for
+
+continued IV antibiotics and observation.
+
+______________________________
+
+ABREU, OLIVIA M.D.
+
+D: 10/12/88
+
+T: 10/12/88
+
+Dictated By: ABREU, OLIVIA
+
+eScription document:1-4087689 BFFocus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{pre}
+
+The note above is from the 5th record on the patient's chart for that day: https://paste.ee/p/41339/
+
+I have redacted everything in the above note that is not the clinical note itself. This means:
+
+\begin{code}
+Record date: 2088-10-12
+
+EDVISIT^45630268^UHRICH, KARSON^10/12/88^ABREU, OLIVIA
+
+The patient was seen primarily by myself.
+
+HISTORY OF PRESENT ILLNESS:  This is a 71-year-old female with a
+
+history of diabetes, high blood pressure, and
+
+hypercholesterolemia presents to the emergency room with some
+
+right thumb pain and swelling after poking with a turkey bone 2
+
+days ago.  Denies any fevers or chills.  Does report some
+
+increased redness and swelling at the right side.  Also reports
+
+some left dental pain that started this morning.  She has had
+
+history of dental pain in the past, however, much worse today. 
+
+No fevers and no chills.  Tolerating secretions.  No pain on
+
+swallowing.  No recent dental work.
+
+PAST MEDICAL HISTORY:  As noted above, hypercholesterolemia,
+
+diabetes, and hypertension.
+
+ALLERGIES:  Aspirin.
+
+MEDICATIONS:  Atenolol, Protonix, amitriptyline, and Lipitor.
+
+SOCIAL HISTORY:  Denies any tobacco, alcohol, or IV drug use.
+
+PAST SURGICAL HISTORY:  No past surgery or procedure.
+
+REVIEW OF SYSTEMS:  Right thumb pain and left tooth pain.
+
+PHYSICAL EXAMINATION:  Mild tachycardic at 108 and low-grade
+
+temperature 99.2.  Rectal same.  She is an elderly female in mild
+
+to moderate distress complaining significant dental pain.  Head
+
+and neck exam, post dental exam, the patient has pain over tooth
+
+#16 which is intact.  No surrounding fluctuance, pus discharge,
+
+or bleeding.  Tooth is intact in the socket.  Does appear to have
+
+caries.  Posterior pharynx is clear.  Neck is supple with full
+
+range of motion.  Lungs are clear to auscultation bilaterally. 
+
+Cardiac exam reveals S1 and S2.  Regular rate.  No gallops, rubs,
+
+or murmurs.  Abdomen is soft and nontender.  On extremity exam,
+
+right thumb, the patient has an indurated right thumb with some
+
+streaking up into her mid forearm on the lateral aspect.  There
+
+is some induration and warmth to touch.  There is no foreign body
+
+visualized.  There is no area of pus discharge or bleeding.  2+
+
+radial pulses.
+
+LABORATORY DATA:  Normal CBC.  X-ray of the right hand shows no
+
+evidence of foreign body.
+
+ ******** Not reviewed by Attending Physician ********
+
+IMPRESSION AND PLAN:  This is a 71-year-old female with diabetes
+
+presenting with cellulitis and some streaking.  She had received
+
+IV Ancef in the emergency room.  She will be admitted for
+
+continued IV antibiotics and observation.
+
+______________________________
+
+ABREU, OLIVIA M.D.
+
+D: 10/12/88
+
+T: 10/12/88
+
+Dictated By: ABREU, OLIVIA
+
+eScription document:1-4087689 BFFocus
+\end{code}
+
+\strong{Question:}
+
+Does the following note (from the patient's medical record) contain any information about patient privacy and HIPAA?
+
+Note that I have not included any patient information in the question.
+
+What is the purpose of the redacted text in the clinical note?
+
+Comment: This is probably not the answer, but the redacted information in the patient's medical record seems to be patient-identifying information, such as the name of the doctor and the clinic name.  If this is the case, there would be a legitimate concern that patient privacy and HIPAA regulation might be violated if patient-identifying information is included in a note about another patient.  This is just a guess, though, and I am not a lawyer; I am just trying to figure out why the clinical note might contain redacted patient information.
+
+Comment: @MikeB: Thanks. I added the information about the clinician's name to the question to make it a bit more clear.
+
+Comment: It is a little weird that "UHRICH, KARSON" is redacted.  Is this because "H" in "Karson" is also in "Hurst" and "Hospital", so it would be a HIPAA violation to include that information about the doctor's name?  The other redacted information is probably the clinic name, but if it were a hospital, I would expect to see the name in the note, since that would be important information for the doctor to have when writing an accurate clinical note.
+
+Comment: @MikeB: No, there is no H in the name of the doctor (it is Karen). The patient is in a clinic, not a hospital, and the note above is from the patient's 5th chart note on that day. The 5th clinical note of the day was from Dr. Abreu, not Dr. Urlich.
+
+Comment: The redacted information seems to be information about the clinician who wrote the clinical note.  The clinical note was written by a doctor named Abreu. The first line of the clinical note is "EDVISIT^45630268^UHRICH, KARSON".  It seems to me that the redacted part would be information about the person who wrote the note (e.g., "IMPRESSION AND PLAN:  This is a 71-year-old female with diabetes
+
+presenting with cellulitis and some streaking.  She had received
+
+IV Ancef in the emergency room.  She will be admitted for
+
+continued IV antibiotics and observation.").  That is, I would imagine that the note writer's last name was redacted in case the note writer was a different doctor than Dr. Abreu, or a nurse practitioner or other medical professional.
+
+Comment: @MikeB: Thanks for explaining that. It makes sense now.
+
+Answer: I think the redacted text is patient identifying information. For example, in the clinical note, the redacted text includes the name of the clinician who wrote the clinical note, the date the note was added, and the patient number.  These are all pieces of information that could be used to track back to the patient in the medical system, even if the note itself does not include the patient-identifying information.

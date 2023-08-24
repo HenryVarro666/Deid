@@ -1,0 +1,283 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2093-07-13
+
+CCU JAR Admission Note
+
+
+
+Name: Urban, Russell
+
+MRN:  4722064
+
+Date of Admission:  7/09/93
+
+PCP:   Georgia
+
+Cards: ward
+
+
+
+ID:  50 y/o man transferred to CCU for wide complex tachyarrhythmia 
+
+
+
+HPI:  50 y/o man with no PMH and cardiac risk factors of smoking and family history (father died of MI at age 41) who presented to the ED with chest pain. He had an ETT per patient report in Georgia which was neg for ischemia 4 years ago.  He claims excellent exercise tolerance can run at least 3 miles without SOB or CP but does not exercise regularly.   At concert on day of admission, he was sitting at rest when he had sudden onset of crushing sub-sternal chest pain, 8/10, no radiation, associated with mild SOB and marked diaphoresis.  Pt reported some associated back pain with onset, like "I was being crushed like a sandwich."  Was not eating at time, not like heartburn, no fevers, chills, cough, or chest trauma.  EMT was called-2 SL ntg relieved pain, was given ASA. 
+
+
+
+On arrival to the ED, he was chest pain free.  His HR was 52-60 in normal sinus rhythm.  On hindsight, EKG showed sinus bradycardia with 1mm STE in III,    mm aVF, 1mm STD in I, ? aVL with biphasic T in I, TWI in aVL.  He received ASA and SLTNG
+
+Cardiac RF include tobacco (1/2 ppd x 30 yrs) and early family hx (Dad died of MI, first MI at 41).  No known HTN, DM, or hyperlipidemia.  
+
+
+
+Course on floor:
+
+
+
+Seen for initial H&P when patient came to CCU5.  During exam, patient became acutely diaphoretic, appeared uncomfortable, still complaining of CP with some mild back pain.  
+
+BP:  L arm 105/66, R arm 90/63. (2 rpt BPs were equal on both arms within 5 mm Hg) HR bradycardia in high 40s, sat 98% 2L.  Tele demonstrated sinus brady, then several runs of 40-50bt wide QRS tachyarrythmia which spontaneously resolved back to sinus bradycardia. Pt was symptomatic during these episodes and appeared acutely SOB, diaphoretic.  Nursing supervisor and medical senior stat paged, 12 ld EKG repeated, pt was given 2 mg IV magnesium and 100mg of lidocaine, started on nonbreather. Heparin was ordered and pt was transferred to the CCU.  
+
+
+
+On arrival to CCU, pt was lethargic and diaphoretic.  He denied chest pain, shortness of breath, nausea.
+
+
+
+SDU Course:
+
+For ventricular ectopy (likely AIVR in setting of ischemia), pt was transitioned to Amiodarone.  This was tapered off and he had no further ectopy.
+
+ 
+
+Echo was performed 7/10:
+
+                                  (normal)     (completed only if abn.)
+
+MITRAL VALVE      NORM                           SEGMENT   BASE  MID  APEX
+
+LEFT ATRIUM       NORM   LA    37
+
+AV. A0. LVOT      NORM   AO    29                anterior
+
+LEFT VENT.        ABN    LVIDd 50                ant.sep.
+
+TV. RA. VC.       NORM   LVIDs 44                mid.sep.
+
+PV. INF. PA.      NORM   PWT   10                inf.sep.
+
+RIGHT VENT.       ABN    IVS   11                inferior
+
+IAS. IVS.         NORM                           inf.pos.
+
+COMPLEX CHD              EF    28 % ( >50 %)     pos.lat.
+
+CORONARIES                                       lateral
+
+PERICARDIUM       NORM
+
+
+
+MITRAL VALVE
+
+There is no evidence of mitral valve prolapse.  There is trace mitral
+
+regurgitation by color and spectral Doppler.
+
+
+
+LEFT ATRIUM
+
+There is no evidence of left atrial dilatation.
+
+
+
+AORTIC VALVE, AORTA, LVOT
+
+There is no evidence of valvular aortic stenosis.  The aortic valve is
+
+tricuspid.  There is no evidence of aortic insufficiency by color or spectral
+
+Doppler.
+
+
+
+LEFT VENTRICLE
+
+The left ventricular cavity size is normal.  The left ventricular systolic
+
+function is impaired.  The left ventricle is diffusely hypokinetic with
+
+regional variation. The Inferior wall is akinetic.  The estimated ejection
+
+fraction is 28 %.
+
+
+
+TRICUSPID VALVE - IVC, SVC
+
+There is color and spectral Doppler evidence of trace tricuspid insufficiency.
+
+
+
+RIGHT VENTRICLE
+
+The right ventricle is not dilated.  The right ventricle is diffusely
+
+hypokinetic.
+
+
+
+PERICARDIAL DISEASE AND EXTRACARDIAC MASSES
+
+There is no evidence of pericardial effusion.
+
+
+
+Pt was taken to the cath lab 7/11 where his RHC showed RA 9, PA 25/15/20, PCWP 13, CO 6.4.  Mild LAD disease, 30% circumflex stenosis, RCA 100% occlusion, stented x3 with dissection of RCA during procedure.  He also had transient reocclusion during procedure.  TIMI II flow after IC adenosine.  IABP and temp wire (for profound bradycardia) were placed during procedure.  V-gram showed basal inferior AK and anterolateral HK, EF approximately 40%.  His peak CK were 1491.
+
+Because his initial echo showed low EF out of proportion to his ischemic event, other causes of low EF were investigated.  His serum Fe was slightly low, TSH was normal, SPEP had several low Igs but no evidence of myeloma.   Lipid profile showed Cholesterol 210, Trig 59, HDL 45, LDL 153.  HgbA1c was 6.3.  Because of reocclusion during cath, hypercoag workup was sent and was negative (including lupus anticoagulant, hypercoag panel, HIT).
+
+He continued to have some chest pain post-cath with mild increase of CK likely d/t distal embolization.  He has now been persistently pain-free.  His IABP was d/ced 7/12.  He was continued on ASA, Plavix, Lipitor and Bblocker, Captopril were added and can be titrated up.  
+
+
+
+PMH:
+
+None per patient. 
+
+
+
+FamHx:  
+
+
+
+Father as above.  Mother no signific hx.   
+
+
+
+SocHx:  Married, originally from Nicaragua, lives in Citrus Ridge now. Works as professional. 
+
+
+
+HRB:
+
+Tob:    ppd x 30 yrs.  
+
+EtOH: Scarce. 
+
+Drugs:  None
+
+
+
+Medications/Doses:
+
+ None
+
+
+
+Medications at Transfer:
+
+Lipitor 20 mg po qd
+
+ASA 325 mg po qd
+
+Plavix 75 mg po qd
+
+Fragmin 5000 U sc qd
+
+Captopril 25 mg po TID
+
+Lopressor 75 mg po TID
+
+Nicotine patch 14 mcg/d q 24 hrs
+
+
+
+Allergies:  NKDA
+
+
+
+Review of Systems (negative unless checked):
+
+General:  Fatigue(  ), fevers  ( ), appetite  ( ), weight loss/gain ( ), heat/cold intolerance ( ), diaphoresis ( ), chills ( ), sweats ( ), travel ( ), sick contacts ( )
+
+HEENT:  acute visual changes ( ), acute hearing changes ( ), dizziness ( ),  HA ( ), trauma ( ), sore throat ( ) rhinorrhea ( ), facial pain ( ) 
+
+Respiratory:  SOB(   ), cough ( ), hemoptysis ( ), wheezing ( ), sputum ( ) 
+
+CV:  CP x  ), vomiting (  ), pain (  ), diarrhea ( ), constipation (  ), melena/BRBPR ( ), hematemesis ( ), diff swallow ( )
+
+GU:  dysuria ( ), urgency ( ), frequency (  ), hematuria ( ), discharge ( ) , STD ( ), burning ( ), discharge ( ) 
+
+Musculoskeltal/neuro:  weakness ( ), pain ( ), tremor ( ), sensation ( ), skin rashes ( )
+
+
+
+Please see today's note for exam and data. 
+
+
+
+Imp:  50 y/o man with CRFs smoking and family history s/p RCA stent x3, s/p IABP now titrating up meds.
+
+
+
+Plan
+
+1.	Ischemia - 
+
+  	ASA, Plavix, B-Blocker, Captopril, titrate up as tolerated.
+
+
+
+2.	Pump - EF improved on LV gram at cath.  Diurese prn, plan echo in 2-3 months to assess recovery.  If persistent low EF, may need further w/u for additional causes of cardiomyopathy.
+
+
+
+3.	Rhythm -  no ectopy, now off Amiodarone.  Replete K, Mg.
+
+
+
+4.  Prophylaxis: Fragmin, Nexium
+
+
+
+
+
+
+
+Louise Eisenberg, MD pgr 76699
+
+
+
+
+
+Date: 00
+ 0
+   
+
+Cro
+194200020
+22.
+2
+
+182001 and 2000. This date, 015 with 19 date:
+
+ and it by: : 0: [10.10 day.
+M, from 
+18:0:26914, 02:4:
+Camp  3605:  :A:
+
+of     of  2 date,160210  10, 04,  [   of: 301:11014 0191 date: : 0: A 02:  [131: 0 116-  Anified: 0: [B
+ 15: An: 00 2101 (3 10, 1,1 Anister (3 Anistr 001, 000100000 Anse and 0 andness 1310010 with 32 and,  and, 5.1 and the 33020 and 0.01-1020/213 a. An An and Anvert
+0 Minal. Anicial, 030 900 and Anical O
+2 1-10
+ An An
+ 0 Anced An100 An An An
+  An Anistic-1 An Anient An An Anny
+ 1 (0 An and An
+42112-2 from 00000 0-02-3 An An An Minal, 4 ( O with a M-1 An C at a-1, An An Ancing, 00-10100001250-70 of 10 of a-101101110-0 by, but (  and  and and. 0. 0 8. 80 and [1000-1 of 0 of a-1 [5- 14: wine-1-w:1 and a in: and: - : 0 in the [00 of 0 in 00000-3 and - 0- 0 [20: -20-1 Anne [- : - - An- 0- - -0 An Cist: An  [0- [0 [0- 0 [ : ( O- : 2 1- -1 in of-0- O An O, 1- O ( of a in of  O and - Cist M An An and-R - 0-O and-0-1,  of (- -10-1 (0000-30000 of and00 of o of O of (2- O O-Minal [O-O R-R- O-2 of  a o [1-1 of-M of 0 of-1 of [-22016 and 0-01 in. in  in of-R-o-1,., [ with-0 and,- -2-.  and-1 of -1-1-1 by and m and- 1 in in ( in and-  M-O and on and-0 c of 1 of  of- of- of of- of- -4. of -1- a-d of R of of-0 of of-1-2 and of-1-c- to with in-  but and of- of and of of. of and of of in, of,-1 of and,  of. and and-1 and-1011 and 00 and. and and-1- -1  and- prior,  in- H of  of 1 of -00 of and of a- of -  of of. C of  of a and of.1 of-1 of the-3. -1 and-  (-  and -2 - and and and- of of-1-1 a -0 in  and in-, (1 of-2 of 1- C of H. - of-1-1- H-  of-1 and- C W of of-  of- L- 1- - L- H-1- I P F P E-c R-1 of a-2- - 1-1 of 0 I ( and-  of of C of of of of of of of a of C of of R I of- C,  I - of ~ of [ of- of of ~ of- C of a-10-0/1, I  [ R- L P of-1-  of of R H- of of L of- H of L- H. and- H-1 of  N of H W-10-1-C/C0 and and -0- H to- to- to. to- to- to to to to to to to- to  C of C of-0 to of to- -1 and- P of C1- C C of H41- C H0 [0  of-0-0- to-0- H C H of- of of of of H of of- of of of- of  of- of of- of of  of-0-02 and  and--  ( and. and- to. C and E-. of of-  of- to of, of to-  or and-, C H-0- H/ H and- C of of but of of- of of  of of-1 and-4 and-0- of. of of- of of-1 to- to-0 to and- to - H, and- to- and to-c H A C A C of- H of / of R-4 and, of- R- H- I-0 C-c E-2-1/-0-0, H or  H R/- H- R ( H H H of- H0 of of of of of of of of of-1  H- E- S1 - H C H -0- H1-1- M- I- R H and and H I- of E C- B I-2- C- C-2/-2- - H- A- M- R- C H-- - E -  C--0- and- and- and-

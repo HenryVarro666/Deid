@@ -1,0 +1,339 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2122-04-23
+
+                                                       Patient Name: VALLE,ISABELLA [ MRN: 4698877KMC ]
+
+                                                         Date of Visit: 4/23/2122, 10:45 p
+
+
+
+Neurosurgery H & P:
+
+
+
+CC/HPI: 54 yo F w/ h/o PCKD and HTN presents w/ worst H/A of her life.  The patient over-slept this morning because of a severe H/A and "groginess."  She awoke at 10 am by her Husband who was calling to check on her (given she usually awakens by 6 am).  She called 911 and was transferred to us for further care.  We were consulted at 10:40 pm for Head CT showing SAH.  She now only c/o mild H/A w/o any vertigo, tinnitus, weakness, nor numbness.
+
+
+
+PMH: 	Polycystic kidney disease:
+
+		- renal failure
+
+		- s/p renal transplant in '13 
+
+		- s/p nephrectomy in '18 
+
+		- now on peritoneal dialysis
+
+
+
+	Secondary Hyperparathyroidism
+
+		- has had spont fractures
+
+		- s/p semi total parathyroidectomy in 2112
+
+
+
+	HTN
+
+	Hypercholesteremia
+
+	IDDM
+
+
+
+PSH:	' 09 TAH-BSO
+
+	' 10 parathyroidectomy
+
+	' 18 left nephrectomy
+
+	AV fistulas x2
+
+
+
+Meds: 	Lasix 40 mg
+
+	Norvasc 10 mg po qd
+
+	Lipitor 40 mg po qd,
+
+	prednisone 10 mg,
+
+	Epogen 10kU 4x/week 
+
+	Insulin NPH 38 units plus regular 8 units in a.m.
+
+
+
+NKDA 
+
+
+
+SH: non-contributory.
+
+
+
+FH: Mother died of an aneurysm at KMC
+
+
+
+PE: Afebrile, BP 160/80, P 80, R 16
+
+
+
+Neuro:	AA & Ox3, speech clear
+
+	PRL (L6 to 5, R 5 to 4), FOV full grossly, EOMI, FS, TML, SCM/TPZ 5/5 B
+
+	MAE @ 5/5, mild RUE drift
+
+	No gross sensory deficit
+
+	DTR: 1+ B Bicep/BR/Patella
+
+	NEG Babinski's
+
+	No cerebellar signs
+
+
+
+Head CTA: Fischer grade 1 SAH in B sylvian fissures.  Small amount of paramesencephalic SAH in the Right.  A 6 mm L MCA bifurcation aneurysm pointing latero-superiorly is seen.
+
+
+
+LABS: Normal CBC,lytes, and coags except WBC = 12.6, K = 5.3, BUN/CR = 48 / 9.6, Trop = 0.25
+
+
+
+A/P: 54 yo F w/ PCDK & HTN p/w Hunt Hess grade 2, Fischer grade 1 SAH from L MCA aneurysm. D/W Drs. Ashley & Dang:
+
+	- D/W Dr. Uren and Dr. Quenton Vanburen who related that CTA and Angio could both be done for this patient safely.  A dialysis RN will be by soon to dialyse the patient.  CTA done.
+
+	- Booked for OR Waitlist in AM
+
+	- Pre-op labs done
+
+	- EKG shows no ischemia w/ LVH
+
+	- Vanc/Gent for open Peritoneal catheter noted on exam
+
+
+
+
+
+
+
+
+
+______________________________                              
+
+Michael Tomlinson, M.D.
+
+
+
+1718010000
+
+
+
+12:31
+
+
+
+
+```
+Record date: 27/22/2212
+  Patient Name: 
+    Mr. MICHAEL TOMLINSON, MRN: 006698140
+
+  Date of Visit: 
+    27 / 22 / 2212 
+
+  Diagnosis 
+    Acute abdominal pain, CT of the abdomen and pelvis
+
+  PHYSICAL EXAM
+  General Exam
+    Vital signs:
+      HR: 113
+      RR: 16
+      BP: 100/60
+      Temperature: 99.5
+      O2 sat: 96%
+    Pain
+      N/A
+    Neuro exam
+      Cranial nerves:
+        II: NEG
+        III: NEG
+        IV: NEG
+        V: NEG
+        VI: NEG
+        VII: NEG
+        VIII: NEG
+        IX: NEG
+        X: NEG
+        XI: NEG
+        XII: NEG
+        XIII: NEG
+        XIV: NEG
+        XV: NEG
+        XVI: NEG
+      Brain stem: NEG
+      Cerebellum: NEG
+      Extremities: NEG
+      Gait: Normal
+        Motor: Upper Extremity: Normal
+        Lower Extremity: Normal
+    Cardiac
+      Palpation: NEG
+      S1: NEG
+      S2: NEG
+      JVS: NEG
+      Auscultation: NEG
+    Respiratory
+      RR: N/A
+      Breath sounds N/A
+      Chest wall excursion N/A
+      Lung expansion N/A
+    Abdominal Exam
+      N/A
+      Abdomen: NEG
+    Genitourinary
+      N/A
+    GU Exam:
+      N/A
+    Musculoskeletal Exam:
+        N/A
+    Neuro Exam:
+        N/A
+    Skin Exam:
+        N/A
+    Extremity Exam:
+        N/A
+    Vascular:
+      N/A
+    Vestibular:
+      N/A
+    Hearing:
+      N/A
+    Eyes:
+      N/A
+    Mental status:
+        N/A
+
+  Labs
+    N/A
+  Medications
+    N/A
+```
+
+
+
+Record date: 27/22/2212 
+Patient Name: Mr. MICHAEL TOMLINSON, MRN: 006698140 
+
+                                                        
+  Diagnosis: 
+    Acute abdominal pain. CT of the abdomen and pelvis 
+  PHYSICAL EXAM 
+  General Exam 
+
+      Vital signs: 
+        HR: 121
+        RR: 20
+        BP: 133/65
+        Temperature: 98.4
+        O2 sat: 100%
+      Pain
+        N/A
+  Neuro exam
+      Cranial nerves:
+        II: NEG
+        III: NEG
+        IV: NEG
+        V: NEG
+        VI: NEG
+        VII: NEG
+        VIII: NEG
+        IX: NEG
+        X: NEG
+        XI: NEG
+        XII: NEG
+        XIII: NEG
+        XIV: NEG
+        XV: NEG
+        XVI: NEG
+      Brain stem: NEG
+      Cerebellum: NEG
+      Extremities: NEG
+      Gait: Normal
+        Motor: Upper Extremity: Normal
+        Lower Extremity: Normal
+  Cardiac:
+    Palpation: NEG
+    S1: NEG
+    S2: NEG
+    JVS: NEG
+    Auscultation: NEG
+  Respiratory:
+    RR: N/A
+    Breath sounds: N/A
+    Chest wall excursion: N/A
+    Lung expansion: N/A
+  Abdominal Exam:
+    N/A
+    Abdomen: N/A
+    Cardiovascular: N/A
+    GU Exam: N/A
+    GU Exam: N/A
+    Extremity Exam: N/A
+    Neuro:
+    N/A
+    Genitourinary
+    GENERAL
+    Abdominal
+    Vaginal 
+    Genitals
+    Vaginal, genital, genitals
+    genitals,
+    Genitals of genitals, genitals of genitals of genitals, genitals of the date,
+    genitals of dates of genitals, genitals of dates, or dates of dates of dates of genitals
+    dates of dates of genitals of dates of date. 
+of dates of dates of the genital dates,  dates of genitals names of date, genitals of the date.
+d of dates, of dates dates, dates of 
+
+of dates of dates of dates of 12, or dates of dates.
+dates of dating
+date codes, names of the names, the names, dates of dates, names, the names, dates date,
+of 
+
+names of genetic names of dates or name of dates of names or date, date, name date of dates the dates names of dates of 
+name of the letter, and date, the following of the names and date. and the dates of dates. 
+The names of the patient of the names of dates of the name of dates of date, or names... of dates of dates of data names of the date of names, and dates...
+or, date names of dates of the names of 
+the, or the date, but the [the or a letter, or are [ are of name, as the...
+10s, names of the 
+
+[10, name, names. If, the patient name...
+
+(1:
+
+11
+name, names and a patient names of the…
+andized (theistually:
+(1 or… 
+
+10 are (are of...of a... and the [110 are: (and: [the names: or [and (not the orate names and, the 
+... or, “[1, [
+[ 0 and are, or, a 1, 3...
+ 10 and a (10, 2 and [1 are 
+
+
+…...
+...... 3: 10, the and, the are, and or... and or (and and [, and, the, a,  [0, 1 and, (0, and [... 1, and a, and are and are a and [1 or are or, and, a [3, an (and, and, 2, [the of the, the, and, the: the (the and [:
+an and the and and (patients, a......: and and “. 2 and: [[2 [0 are are are-name-and, and, [ 0 or (  (1 or ( the in the [an, 2 1, and, the, [. of [, [ ( and, a, and, an, and, an, an, are, an, and the and are or an or " and, or (1, ( an, the, 1, and, an, 1, and, an and an of the and of the, an, an ( an,  and in the and, [ an " an and and of a,  or ( an of,  and in the " and, an in, an  an, the, " and an, an, An An An and, [ an, a, an, an, "an, an in the: or an and, and: [20 of: and, : 2: An and: the: ( an an: an and: - the "  "... : and an: an and: an an " an an  an  an  and " (  (  an of " an - [ ( an " [ an (  (. " ( of the of the of the an of the and " an and [, [, and, [ and ( [,  and, [ [ and or or [ ( an and ( [ [ an, an (  (,  or and  [, and, are,, -  "  and, and [ and,, an  and of, an, an of an of an of an in an or, and and [,  or- an or (,, and, ( and of an and - " of the of and of an, (,, in, and, (, or an of and or,  in or and,  or ( or,, ( in  or or an of and, [ of an of " of  of the of, ( and : ( and, ( [,  or ( and in ( an, and  of [ (  or or ( ( and of [, of  [  of - of an and an and, of the and of, and of or ( or, of, and, [, " or (, and or,, or,, [ of and or  ( ( of, [ of an- and  an, an and at and, and. or and of, of an of, of,  of,  of an of ( an of,  and, [,  and an of, c, an, and (  and, "0 of  ( and  and and in or in and of and and and or and (-  an, "  c and and and [ and ( and C ( and and- "-  " ( and or, and or ( - or or  " C- or ( and or and and for - and or and  of of or and of of [ ( c and-  and ( and - and w with [- and of and- c of and c for a and, and and for and and - and. for- and and and of and  and of - c and of and and and and and ( ( and and and - and, or and [ of ( and and of of or of of and ( and, ( C C.  and and and and and and,. and and of - and of and of,,, of of of of of.  and, and- (-, and or and and, and and and and or and- and and, and or. - t and- and, and, and- C: H  and- and-  of or and and and of and or  ( C, H H w ( and, or (  an of of and and and, and and ( ( H or- and w and and- A and- H and ( and and- or (, and ( or and [ and, and and, and, h ( and and [ h and ( and, and and or - or, and, and  w and, and,, and (- and- and and ( and, and and. and and ( w (, and ( and,, ( [, - and, and and,, and, and, and and of  and (, (- [ and and,, - and, ( and, and, H H and and (-  (-2- A, and and- C and (, and and,- (. (, [- and,, and,,, ( ( - - (, [ and- A and- or ( A- H [ or or- [- H-  and- A ( A C and and c A and - A and, w t w- and ( and (,  and- and [-  and - ( and " and and - or " and and- t w and- t (-, and A- ( and  ( and, and and- [ H A - (, and - and  ( ( and, and- m- and A-  and  and and- and and M, M C, and (,  M A, M " and " ( and  and m and and. and M,  and, (.,  m,  ( and, and ( in m and or and m, (- and and m and and and and [- m1-0. M0, M- and ( ( M and and, and ( and,. [ m.

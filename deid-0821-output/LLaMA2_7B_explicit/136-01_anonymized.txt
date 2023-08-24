@@ -1,0 +1,373 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2074-10-20
+
+
+
+
+NAME:     Fonsea, Lydia
+MRN:      7090253
+
+The patient is a 58-year-old white female, who presents in follow up of type 2
+diabetes mellitus.  
+
+REVIEW OF SYSTEMS: Review of systems is positive for mild nocturia and
+negative for chest pain, dyspnea, bleeding, heat or cold intolerance.
+
+HOME BLOOD GLUCOSE MONITORING: Semi-compliant.
+
+DIET: Semi-compliant with low-salt ADA.
+
+ACTIVITY LEVEL: METS 2. 
+
+PHYSICAL EXAMINATION: Vital signs: Blood pressure 114/68. Weight 198
+pounds.  Heart rate 68. Respiratory rate 18. General appearance: Overweight. 
+HEENT: No retinal bleeding.  Neck: No JVD, no bruits, no masses.  Heart: Heart
+sounds normal. Lungs: Clear. Extremities: No peripheral edema.
+
+ASSESSMENT AND PLAN:  
+
+(1)  Type 2 diabetes mellitus.  I suspect the control is not adequate.  The last
+     hemoglobin A1C was 7.9% on 04/29/73.  Plan: Repeat hemoglobin A1C. 
+     Diet and increase activity level.  She most likely is going to need a second
+     nighttime injection. 
+
+(2)  Depression.  Plan: Continue the same medications.  
+
+(3)  Mild diabetic nephropathy.  Plan: Check urine microalbumin.  Blood
+     pressure is excellent today.  
+
+(4)  Health maintenance.  The patient will need a lipid profile and flu vaccine.
+
+The patient will follow up in one month.
+
+Austin Jaeger, M.D.
+
+AJ/yeung/updegraff
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AUSTIN JAEGER, M.D.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AJ: I think you're right, but this is not what she needs to hear.  This is what
+     she needs to hear:  She's 58, she's white, she's
+     female.  She needs to hear that she's 21 pounds overweight.  She needs to
+     hear that she needs to exercise and to eat better.  She needs to hear that she
+     needs to lose weight and stop smoking, that she is at risk for heart
+     disease and stroke, that she needs to have her blood pressure checked more
+     frequently and her cholesterol checked more frequently, and that she
+     needs to see a dietitian.
+AY: But she's not going to hear that.  She's not going to hear that. 
+AJ: No, she's not going to hear that.  She's going to hear that she's
+     depressed or she's going to hear her diabetes is uncontrolled or she's
+     going to hear she needs medication or she's going to hear she's not
+     exercising enough or she's not losing weight or she's not following
+     dietary instructions or she's not coming for her follow-up visits
+     or she didn't follow instructions and didn't do what she was supposed
+     to and didn't lose weight or she's not losing weight fast enough.  And
+     she's going to go home thinking I was rude or I was mean or I was
+     critical or I didn't understand or I didn't know what I was talking
+     about or I wasn't listening or I didn't respect her.  But I'm not
+     going to talk to her like that.  I'm going to talk to her like
+     she's an adult.
+AY: But she's not a kid.
+AJ: Well, she's a kid when it comes to her diabetes.
+AY: But you can't treat her like a kid when it comes to her diabetes.
+AJ: She's a 58-year-old white woman who needs to lose weight, and I'm going
+     to tell her I think she's a 58-year-old white woman who needs to lose
+     weight.  I'm going to tell her she's overweight.  I'm going to tell her
+     she smokes.  I'm going to tell her she needs to lose weight and stop
+     smoking.  I'm not going to say she's depressed or I'm not going to
+     talk about her depression.  I'm not going to talk to her about the
+     possibility of a suicide.  
+AY: So, I can't talk to her like a human being.  I can't talk to her like
+     she's a real person, like a person I care about.  I can't talk to her
+     like she's a patient or a person I respect or I like.  But you're going
+     to talk to her like she's a kid.  And that is wrong.  
+AJ: You're wrong, Audrey.  You're wrong.  You've got this whole thing
+     turned around.  
+AY: Why don't you tell your patients like they need to hear?  
+AJ: Because I don't think patients are stupid.  You have no idea how
+     hard it is for me to do what I do.  You have no idea what it is like.  I
+     do everything I can.  
+AY: I do know what it is like, Austin.  I'm a diabetic, and I'm
+     overweight by about 40 pounds.  I'm not as overweight as your patient
+     is.  I do everything I can to lose weight.  I do everything I can to lose
+     weight, and I'm not losing weight.  I know why I'm not losing weight.
+     It's because I don't eat the right way, I don't exercise the right way
+     or enough and I don't take my medicine.  You're not going to talk to me
+     like I'm a kid, and you should not talk to your patients like they're
+     kids.  
+AJ: Okay.  
+AY: You don't have to say it, but I know that what you're really saying
+     is that this woman doesn't have any hope because she's overweight.  It
+     doesn't matter what you say to her or how you say it, she's not going
+     to do anything, and it doesn't matter if you think she's depressed or not
+     depressed.  You're not telling her like she needs to hear it, you're
+     telling her like you'd tell your mother.  
+AJ: No, I'm not.  
+AY: You're not?  Then what am I missing?  
+AJ: You are not missing anything.  You're wrong.  
+AY: How can I be wrong?  If you don't do things like you say to do them,
+     then you fail.  And you know that I've gotten to the point now where
+     I'll go for a walk and I'll take my dog for a walk or I'll take my dog
+     for a walk and go for a walk and I'll eat a healthy lunch.  I'll make a
+     lunch that I can eat.  I'll make a healthier lunch.  I've started
+     taking medicines for my diabetes.  I've started drinking a lot of water.
+     But I have to do that.  You can't tell me I'm going to drink the water
+     or I'm going to exercise or I'm going to take my medicines.  If I was
+     told I was going to die, you could say I'm going to die if you don't
+     do things like you're supposed to and that's true.  But if I don't,
+     I'm going to die.  And if I do, then I'm not going to die.  That's the
+     only thing that works.  You can tell me to exercise and that it will be
+     good for me, or you can give me a piece of gum.  If I like the piece of
+     gum and I chew it and I feel better, I'm going to like the piece of
+     gum.  And I'll take it again and again and again.  
+AJ: You're not listening to me.  
+AY: I am listening to you, and I'm listening to you because I know
+     what you're saying is you're saying it to me like I'm a kid and that's
+     not right.  You're right about the other thing, that you can give me a
+     piece of gum and I'll chew it and I'll feel good and I'll like it and I'll
+     do that again and again, but you're saying it wrong to me.  
+AJ: You're wrong.  And you're wrong because you don't understand.  
+AY: I understand that you do what I do.  
+AJ: I don't understand that I am wrong, that you're right and that it
+     doesn't matter if you tell people like they need to hear it or if you
+     tell them how you would talk to your mother.  And it doesn't matter
+     because it's not right.  
+AY: It is right.  And that's the whole point.  You're right because you
+     know you're going to be telling her what she's already doing wrong and
+     you're going to be telling her about her smoking, but you don't think
+     she's already doing it wrong.  She's already telling herself she's
+     already not doing the right thing.  But that's not true.  
+AJ: It is true, and it is true because you know that people don't do it
+     right.  And if you don't tell them, if you don't tell them they're
+     going to have a heart attack at age 39 and they're not going to do it
+     right, if you don't tell them they're not going to do it right, if you
+     don't tell them you can't eat this way or you have to exercise or you
+     don't drink alcohol, then nothing is going to happen.  You have to tell
+     them.  
+AY: But what if I tell him I love him and I know that he loves me and I
+     know that I'm not a bad person or a bad mother or bad wife, that I'm
+     not a bad person, and I know you think I'm bad, so you don't tell me
+     I'm bad.  But I know that I am and so I tell myself I'm bad.  But when
+     I tell myself I'm bad, I feel worse, and so I don't want you to tell
+     me I'm bad.  You have to tell me I'm good.  You tell the patient she's
+     depressed because you're telling her she's depressed.  You tell her
+     that she's fat because you're telling her she's fat.  
+AJ: She's not fat.  
+AY: You tell her she's fat because that's all you know how to tell her.
+     You can't tell her how to lose weight.  That's your problem.  You can't
+     tell her what to do.  You're not telling her.  You're not telling her
+     what to do.  You're telling her she's fat or you're telling her she's
+     depressed or you're telling her she's sick or telling her she has
+     diabetes or you're telling her she needs to lose weight.  You're not
+     telling her how to do it, and you're telling her she has to do it.  
+AJ: It's not true.  You know that's not true.  
+AY: It's true and you know it.  
+AJ: No, it's true and you think it's true.  I don't think it's true.  
+AY: You can't think it and say it.  
+AJ: It's true because I'm not telling her anything she can do or that
+     she has to do.  She needs to stop smoking and start exercising.  That
+     is it.  
+AY: You're telling her what to do, and you're telling her what to do.
+     You're not telling her how.  But you're telling her what to do.  She
+     knows what to do.  
+AJ: I'm not.  
+AY: You are.  
+AJ: I'm not.  
+AY: But you're doing it wrong.  
+AJ: No, I'm not doing it wrong.  I'm not telling a patient what she
+     has to do or not telling her what she has to do.  
+AY: And you can't tell her what to do.  But you're telling her what to
+     do.  
+AJ: No, I'm not.  I'm not telling a patient what to do.  I'm not
+     telling someone to do something because she has to do it.  I'm not
+     telling her to stop smoking or telling her to exercise.  
+AY: You're not, but you don't know how to tell her what to do.  And you
+     don't know that because she doesn't stop smoking or exercise, and you
+     don't know that because you think she's depressed.  If she's not
+     depressed, she's going to do it.  She's going to do it if she doesn't
+     think you're a jerk and she'll do it if she doesn't think that she's
+     stupid and she'll do it if she knows you're not telling her she has
+     to do it.  
+AJ: No, I'm not.  
+AY: Yes, you are.  
+AJ: No, I'm not, and you know I'm not.  
+AY: You know you know I'm not.  And you don't want to know that I'm
+     right.  You don't want to know that I'm right because you don't want
+     to know that I'm telling the truth.  
+AJ: Yes, I do know and I know that you're telling the truth, and that
+     is why you're right.  I know that you're wrong, and that is why I
+     know you're right.  
+AY: I'm right because I know what I'm telling you is true.  
+AJ: You are right because you're saying I don't know what I'm saying
+     and I do.  
+AY: You know I'm right.  
+AJ: Yes, I do, but you're saying I don't know what I'm saying, and I
+     do.  
+AY: I think you're wrong, and that's why I'm right.  
+AJ: You're right because you think I'm wrong.  
+AY: No, that's not right.  And that's why you can't do what you do.
+     You know that I know what I'm telling you is true even though
+     you're saying I don't.  
+AJ: And if you're telling me I do know what I'm telling you, then
+     you do know what you're saying is true, but I don't.  
+AY: That's true.  You do know that you know what you'

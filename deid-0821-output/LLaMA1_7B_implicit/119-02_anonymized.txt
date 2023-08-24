@@ -1,0 +1,130 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2089-08-24
+
+
+
+
+
+NAME:     Curtis, Om
+
+MRN:      7682941
+
+
+
+He is feeling quite fine today.  He has no specific problems to being to my
+
+attention.  He says that he is having no problems with chest pains whatsoever and
+
+that includes with exertion.  His breathing has been fine as well.  No shortness of
+
+breath.  Otherwise he denies any abdominal pains, joint pains, bowel or bladder
+
+difficulties.  The remainder of the review of systems is negative in detail.  
+
+
+
+PHYSICAL EXAM:  On exam, he looks well.  Skin is clear.  HEENT - PERRLA. 
+
+EOMI.  TMs and throat clear.  Neck supple.  No thyromegaly.  No
+
+lymphadenopathy.  Lungs are clear.  Heart is regular rate and rhythm.  No
+
+murmurs, gallops or rubs.  Abdomen is soft and nontender.  No masses.  No HSM. 
+
+Extremities with no edema.  Neurologically fully intact.
+
+
+
+ASSESSMENT AND PLAN:  
+
+
+
+(1)  Angina/hypertension/hyperlipidemia.  He is doing quite well and very stable. 
+
+     Since his cholesterol was in such great shape just a few months ago, no need
+
+     to recheck here today. 
+
+
+
+(2)  Bladder stone.  He had this dealt with by Dr. Gomes of Urology.
+
+
+
+(3)  Diabetes mellitus.  Very stable.  Check glycosylated hemoglobin.  He is up to
+
+     date on his eye exams.  Follow-up with me in three months.
+
+
+
+William V. Geiger, M.D.
+
+
+
+WVG/xin/quilici
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recorded by:  Quilici, Xin
+Recorded on 2008-11-24
+
+"""
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-r', '--read', type=str, nargs='?', default='1', help='The read file')
+    parser.add_argument('-w', '--write', type=str, nargs='?', default='1', help='The output file')
+    parser.add_argument('-o', '--output', type=str, default='output.md', help='The output file')
+    args = parser.parse_args()
+    read_file = args.read or '1'
+    write_file = args.write or '1'
+    output = args.output or 'output.md'
+    read_file = open(read_file)
+
+    doc_string = ''''
+    NAME:     {name}
+    MRN:      7682941
+   
+
+    He is feeling quite fine today.  He has no specific problems to being to my
+   
+    attentio
+   
+        '''
+
+    for line in read_file:
+        if 'NAME' not in line and 'MRN' not in line:
+            continue
+        elif not ':' in line:
+            doc_string = doc_string.replace(line.replace('NAME',''), 'NAME:'+ line)
+            doc_string = doc_string.replace(line.replace('MRN',''), 'MRN:'+ line)
+
+    md_file = open(output, 'w')
+    md_file.write(doc_string)
+    md_file.close()
+
+if __name__ == '__main__':
+    main()
+

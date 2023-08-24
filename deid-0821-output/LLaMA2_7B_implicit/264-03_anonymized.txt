@@ -1,0 +1,444 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2090-07-15
+
+EDVISIT^24152563^Pierre, Eden^07/15/90^MCCARTY, QUINTON
+
+Seen with Dr. Feliciano.  The past medical history, social
+
+history, family history, review of systems, medications, and
+
+allergies were reviewed and confirmed.  Please see resident's
+
+note for further details.  I had interviewed and examined the
+
+patient myself.
+
+HISTORY OF PRESENT ILLNESS:  Briefly, this is a 75-year-old
+
+female with a known history of CAD, status post MI, EF of 10 to
+
+15% with an AICD placement.  Also, history of CHF and
+
+hyperparathyroidism.  She presents with complaints of shortness
+
+of breath for the past 3 hours with some epigastric discomfort. 
+
+She denies fever, chills, or cough.  She has had some abdominal
+
+and chest discomfort.  She may be from 1 year ago showing no
+
+reversible ischemia but a previous catheterization showing no
+
+disease.
+
+SOCIAL HISTORY:  She lives with her family.  She is a former
+
+smoker.
+
+REVIEW OF SYSTEMS:  Otherwise, negative.
+
+MEDICATIONS:  She takes albuterol, Lipitor, captopril, digoxin,
+
+Levoxyl, Lasix, and Coumadin.
+
+ALLERGIES:  Has allergies to morphine.
+
+PHYSICAL EXAMINATION:  She is afebrile, heart rate111, blood
+
+pressure 105/7118, and oxygen saturation 100% on 4 liters.  She
+
+is awake, alert, and in moderate distress.  HEENT: 
+
+Normocephalic, atraumatic.  Pupils:  Equal, round and reactive to
+
+light.  Sclerae are anicteric.  Neck is supple and nontender. 
+
+Chest is with bibasilar crackles.  Cardiovascular exam: 
+
+Irregularly irregular with a 2/6 systolic murmur at the left
+
+upper sternal border.  Abdomen is soft and nontender.  Skin is
+
+warm and dry.  Extremities without clubbing, cyanosis, or edema. 
+
+Neurological:  Alert and oriented.  Cranial nerves II through XII
+
+are intact.  There are no motor or sensory deficits.
+
+Initial cardiogram showing numerous PVCs with occasional negative
+
+complex is consistent with her previous EKG with the appearance
+
+of likely atrial fibrillation.  After some diuresis and a beta
+
+blockade, she has slowed down to the 90s from the 130s and
+
+appeared to have normal sinus rhythm with frequent PVCs.  Her
+
+chest film shows some mild CHF, and she was started on heparin.
+
+LABORATORY DATA:  Sodium 134, glucose 178.  Normal extending
+
+chemistries.  CK of 115 with an MB of 2.  Digoxin level is 0.8. 
+
+TSH is 8.8.  Troponin is less than assay.  White count is 7.5,
+
+hematocrit 42, and platelets 238,000.  INR 2.1.  Heparin was not
+
+initiated as she was already anticoagulated, but she did receive
+
+diuresis.  She is admitted in stable condition.
+
+CLINICAL IMPRESSION:  Unstable angina with frequent PVCs.  Her
+
+cardiology consultation is pending at this time.
+
+______________________________
+
+MCCARTY, QUINTON M.D.
+
+D: 07/16/90
+
+T: 07/16/90
+
+Dictated By: MCCARTY, QUINTON
+
+eScription document:1-6926631 BFFocus
+
+******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+Record date: 2090-07-23
+
+EDVISIT^24152587^Brown, Robert^07/23/90^CAMERON, JESSICA
+
+Seen for follow up of previous visit.  Patient is doing okay.
+
+HISTORY OF PRESENT ILLNESS:  Patient is doing well with
+
+no complaints.  No changes from previous visit.
+
+REVIEW OF SYSTEMS:  Otherwise, negative.
+
+MEDICATIONS:  She takes albuterol and Lasix.
+
+PHYSICAL EXAMINATION:  She is in no distress.
+
+HEENT:  Normocephalic, atraumatic.  Pupils:  Equal, round and
+
+reactive to light.  Sclerae are anicteric.  Neck is supple and
+
+nontender.  Cardiovascular exam:  No abnormalities.  Abdomen is
+
+soft and nontender.  Skin is warm and dry.  Extremities without
+
+clubbing, cyanosis, or edema.  Neurologic:  Alert and oriented.
+
+Cranial nerves II through XII are intact.  There are no motor
+
+or sensory deficits.
+
+LABORATORY DATA:  Otherwise, negative.
+
+VITAL SIGNS:  Blood pressure 95/64, and pulse 92.  She is alert
+
+and oriented.
+
+CLINICAL IMPRESSION:  No complaints.  Patient is doing well.
+
+______________
+
+CAMERON, JESSICA M.D.
+
+D: 07/23/90
+
+T: 07/23/90
+
+Dictated By: CAMERON, JESSICA
+
+eScription document:3-990169262 BFFocus
+
+******** Reviewed by Attending Physician ********
+
+Record date: 2090-08-15
+
+EDVISIT^24153298^Powell, John^08/15/90^GONZALEZ, JUAN C.
+
+Pt. is doing well.  Patient has not had an episode of chest
+
+pain or palpitations.  Her weight is 104 pounds.  Pt is
+
+compliant, and she will see her cardiology provider.
+
+HISTORY OF PRESENT ILLNESS:  Patient has not had an
+
+episode of chest pain or palpitations since last follow-up.  Her
+
+weight is still 104 pounds.  Patient is compliant.
+
+PHYSICAL EXAMINATION:  No abnormalities.
+
+HEENT:  Normocephalic, atraumatic.  Pupils:  Equal, round and
+
+reactive to light.  Sclerae are anicteric.  Neck is supple and
+
+nontender.  Cardiovascular exam:  No abnormalities.  Abdomen is
+
+soft and nontender.  Skin is warm and dry.  Extremities without
+
+clubbing, cyanosis, or edema.  Neurologic:  Alert and oriented.
+
+Cranial nerves II through XII are intact.  There are no motor
+
+or sensory deficits.
+
+LABORATORY DATA:  Otherwise, negative.
+
+VITAL SIGNS:  Blood pressure 95/60, and pulse 82.  She is
+
+alert and oriented.
+
+CLINICAL IMPRESSION:  Pt is compliant, and she will see her
+
+cardiology provider.
+
+______________
+
+GONZALEZ, JUAN C. M.D.
+
+D: 08/15/90
+
+T: 08/15/90
+
+Dictated By: GONZALEZ, JUAN C.
+
+eScription document:4-199503854 BFFocus
+
+Record date: 2090-10-30
+
+EDVISIT^24155367^Watson, William^10/30/90^DONAHUE, ROBERT
+
+HISTORY OF PRESENT ILLNESS:  Pt. has chest discomfort.  Her
+
+chest pain is described as pressure type of pain in the center of
+
+chest.  She has been experiencing it for 24 hours.  She denies
+
+epigastric discomfort with pain radiating to her shoulder.  The
+
+pain does not radiate to her back.  She has had episodes of
+
+palpitations that are irregular in nature.  She is awake, alert,
+
+and oriented.
+
+PHYSICAL EXAMINATION:  Vital signs are:  Blood pressure 148/96
+
+and pulse 85.  She is alert and oriented.  She does have
+
+signs of anemia with a Hb of 9.7.  She denies abdominal pain.
+
+She does have signs of hyperhidrosis as well.  Her skin is warm
+
+and dry.  Heart sounds are normal.  Her cardiorespiratory
+
+system examination is unremarkable.  Her abdomen is soft,
+
+non-tender, and nondistended.  She has no clubbing, cyanosis, or
+
+edema.  Neurologic:  Alert and oriented.  Cranial nerves II
+
+through XII are intact.  There are no motor or sensory
+
+deficits.  There are no abnormalities noted.  Her extremities
+ 
+are warm and well perfused.
+
+Lab data are within normal limits.
+
+CLINICAL IMPRESSION:  Her history is suggestive of
+
+myocardial ischemia.  She is admitted to the cardiac floor for
+
+further evaluation of her symptoms.
+
+______________
+
+DONAHUE, ROBERT M.D.
+
+D: 10/30/90
+
+T: 10/30/90
+
+Dictated BY: Donahue, Robert
+
+eScription document:5-181651261 BFFocus
+
+Record date: 2090-11-20
+
+EDVISIT^24157832^Little, William^11/20/90
+
+HISTORY OF PRESENT ILLNESS:  Pt. was seen for a follow
+
+up of her previous hospitalization.  She states that she is
+
+doing well and is off all medications.
+
+PHYSICAL EXAMINATION:  Vital signs are:  Blood pressure 124/66
+
+and pulse 77.  She is alert and oriented.  Her weight is
+
+106, and her height is 61.  Her blood glucose is 88.  Her
+
+skin is warm and dry.  Her extremities are well perfused without
+
+clubbing, cyanosis, or edema.  Cranial nerves II through XII are
+ 
+intact.  There are no motor or sensory deficits.  Her
+ 
+cardiovascular findings are unremarkable.  Her extremities are
+
+warm and well perfused.
+
+Labs are all within normal limits.
+
+CLINICAL IMPRESSION:  Her clinical exam was unremarkable.  She
+
+is off all medications and is doing well.
+
+______________
+
+LITTLE, WILLIAM J. M.D.
+
+D: 11/20/90
+
+T: 11/20/90
+
+Dictated By: Little, William
+
+eScription document:6-52389083 BFFocus
+
+Record date: 2090-12-16
+
+EDVISIT^24162947^Sanders, James^12/16/90
+
+HISTORY OF PRESENT ILLNESS:  Pt. is a 60-year-old female with a
+
+history of COPD.  She has been admitted for acute bronchitis for
+
+the past two days.  She denies any abdominal pain.  She does
+
+complain of some coughing with a sore throat.  Vital signs are
+
+132/60 with a pulse of 84.  Patient is complaining of some
+
+coughing and a slight fever.  She denies any shortness of breath.
+
+PHYSICAL EXAMINATION:  Her examination is unremarkable except
+
+for cough.  Her skin is warm and dry.  Her extremities are
+ 
+well perfused without clubbing, cyanosis, or edema.  Her
+
+neurologic examination is normal.  The respiratory exam
+ 
+finds some dullness of percussion to the left hemidiaphragm.
+
+Her cardiovascular examination is normal.
+
+LABS AND CHEST X-RAY ARE WITHIN NORMAL LIMITS.
+
+CLINICAL IMPRESSION:  She was admitted for acute bronchitis.
+
+_______________________
+
+SANDERS, JAMES M.D.
+
+D: 12/16/90
+
+T: 12/16/90
+
+Dictated By: SANDERS, JAMES
+
+eScription document:7-38415934 BFFocus
+
+Record date: 2091-03-05
+
+EDVISIT^24182830^Roberts, Charles^03/05/91
+
+Pt. was seen with chief complaints of dyspnea on exertion,
+
+and orthopnea.  She also had a chief complaint of cough with
+
+mucous.  She was diagnosed with COPD and pulmonary
+ 
+embolism.  She was treated with Lovenox and Coumadin.  She
+ 
+also took Lasix and albuterol for dyspnea.  She was
+
+released to home to take her medication.
+
+PHYSICAL EXAMINATION:  Pt. has a history of COPD, and
+ 
+she denies any shortness of breath.  She is alert and oriented
+ 
+to person, place and time.  Her skin is warm and dry.  Her
+ 
+extremities are well perfused without clubbing, cyanosis, or
+ 
+edema.  Her respiratory examination is normal.  Her
+ 
+neurologic examination is normal.  Her cardiovascular
+ 
+examination reveals a systolic murmur.  She also has an
+
+epigastric tenderness to palpation.  She denies any pain with
+ 
+palpation.  Her extremities are well perfused.  The
+ 
+abdominal examination revealed no abnormalities.
+
+LABS ARE WITHIN NORMAL LIMITS.  X-Rays OF THE CHEST ARE WITHIN
+ 
+NORMAL LIMITS.  She had a normal EKG.  Chest film is within
+ 
+normal limits.
+
+CLINICAL IMPRESSION:  She was diagnosed with COPD and
+ 
+pulmonary embolism, was treated with Lovenox and Coumadin,
+ 
+is alert and oriented, and was released from the hospital.
+ 
+_______________________________________
+
+ROBERTS,CHARLES M.D.
+
+D: 05/05/91
+
+Dictated By: Roberts, Charles
+
+eScription doc.:8-25407712 BFFocus
+
+Record date: 2091-09-26
+
+EDVISIT^24253145^Sanders, James^09/26/91
+
+HISTORY OF PRESENT ILLNESS:  She was admitted for acute
+ 
+bronchitis.  She was discharged and is doing well.  She is
+ 
+compliant with her medication.
+
+PHYSICAL EXAMINATION:  Pt. is alert and oriented.  Her skin
+ 
+is warm and dry.  Her extremities are well perfused without
+ 
+clubbing, cyanosis, or edema.  Her resp

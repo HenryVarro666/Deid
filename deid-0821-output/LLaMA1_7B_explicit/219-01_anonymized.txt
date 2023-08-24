@@ -1,0 +1,261 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2070-01-05
+
+ 
+ 
+ 
+ 
+ 
+January 5, 2070
+ 
+ 
+Matthew Wyatt, M.D. 
+Notre Dame Nursing Home 
+4379 New Street 
+Hyannis, NV 21113
+ 
+Re:  William Potts
+     MR#  109-16-75-8
+ 
+Dear Matt:
+ 
+I had the pleasure of seeing Mr. Potts in follow up today.  As you
+know, he recently had a complicated hospital course.  He underwent
+cardiac catheterization, which revealed serial stenoses of the LAD
+including 70% and 90% stenoses.  The first marginal branch had a
+60% ostial stenosis.  The right coronary artery had 60 and 80%
+stenoses, respectively.  The PDA had a 70% narrowing.  Given his
+very significant wish not to have bypass surgery, it was decided to
+proceed with angioplasty of the right coronary artery as well as
+the obtuse marginal.  It was felt that the LAD was a small vessel,
+and not worth going after at this time.  The RCA was successfully
+stented, but was complicated by occlusion of the posterior left
+ventricular branch.  By the end of the procedure, flow had been
+restored to some degree to the posterior left ventricular branch,
+but Mr. Potts rule in for a small subendocardial myocardial
+infarction.  Due to the closure of the left posterior ventricular
+branch, the obtuse marginal branch was not dilated.  
+ 
+Mr. Potts underwent two exercise tests post procedure. The second
+exercise test was performed with MIBI imaging.  He exercised for
+nine minutes on a submaximal Bruce protocol, and experienced chest
+pain.  He had a maximal blood pressure of 148/72 and a heart rate
+of 121.  MIBI images revealed a small nontransmural myocardial
+infarction of the basal 1/3 of the inferior wall.  There was
+moderate to severe ischemia of the inferolateral territory in the
+territory of the RCA.
+ 
+Given these findings, it was highly recommended that Mr. Potts
+undergo bypass surgery.  
+ 
+Mr. Potts was discharged on aspirin, Ticlid 250 mg b.i.d.,
+Atorvastatin 20 mg q.h.s., Atenolol 50 mg b.i.d., Imdur 60 mg q.d. 
+He also takes vitamin E and a multivitamin.
+ 
+Of note is that Mr. Potts has been under quite a bit of stress
+recently.  His 89-year-old mother has been at Whitehead recovering
+William Potts
+MR#  109-16-75-8              -2-       January 5, 2070
+ 
+from a hip fracture.  He is having difficulty arranging the
+appropriate insurance to cover her medications. 
+ 
+Mr. Potts has been experiencing chest pain since discharge.  This
+occurs with increased activity, and is relief with either rest
+and/or 1 nitroglycerin.  He has decreased his work level
+considerably, and is relatively sedentary.
+ 
+On physical exam, he was well appearing and in no distress.  He had
+a blood pressure of 112/70, with a heart rate of 60.  His weight
+was 203 pounds.  Chest was clear to auscultation and percussion. 
+Cardiac exam revealed a flat JVP of 30 degrees, a nondisplaced PMI
+with a normal S1 and S2, without murmurs, rubs, or gallops. 
+Carotids are 2+ bilaterally without bruits.   His abdomen is soft,
+nontender.  There is no organomegaly, and no hepatojugular reflux. 
+Extremities are without edema.
+ 
+Electrocardiogram reveals a normal sinus rhythm with a rate of 61. 
+Intervals are .16/.08/.42, with an axis of -10 degrees. There are
+flipped T-waves in III and AVF.   I did not have an old
+electrocardiogram here for comparison.
+ 
+Therefore, Mr. Potts returns today still experiencing angina with
+mild exertion.  He has agreed to undergo coronary artery bypass
+surgery.  He has found out that if he is cleared to go back to work
+by his physicians, that the Screen Actor's Guild will make a good case for this. 
+There has been precedent for those who have had bypass surgery to
+return to work as an actor.   Given Mr. Potts's current
+feeling, I will make an appointment with Dr. Earl Jacob as soon
+as possible for him to be seen prior to scheduling bypass surgery.
+ 
+It is somewhat worrisome that Mr. Potts will be caring for his 89-
+year-old mother at home, along with his wife.  His mother currently
+uses a walker, and I have warned Mr. Potts that he really cannot
+exert himself to any great degree in terms of helping his mother in
+the house.  He understands this, and if his chest pain should
+become more frequent, intense, or prolonged, he will immediately
+call me.  
+ 
+If Mr. Potts is not scheduled for surgery, I will see him in two
+weeks at NDNH.  
+ 
+With best regards.
+ 
+Sincerely, 
+ 
+ 
+Olivia Xing, M.D.
+Monmouth Medical Center
+81 Clergy Street
+Casper, NV 33182William Potts
+MR#  109-16-75-8              -3-       January 5, 2070
+ 
+ 
+DD: 01/05/70
+DT: 01/06/70
+DV: 01/05/70
+ 
+cc:
+Earl Jacob, M.D.
+Cardiac Surgery
+Laurel Regional Hospital
+96 Clergy Street
+Casper, NV 33182 
+ 
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+ 
+ 
+# - 4 -
+
+January 5, 2070
+
+ 
+Megan Wade, M.D. 
+Notre Dame Nursing Home 
+4379 New Street 
+Hyannis, NV 21113 
+
+Re:  William Potts, Patient ID #123-45-67-89  
+ 
+Mr. Potts was discharged this am from NDNH following angioplasty
+of the LAD, RCA, and Obtuse Marginal. He was seen by me today on
+follow up, and I am concerned that he is still having chest pain
+with mild exertion.   He has been advised not to work for at least
+six weeks, and he agreed to this.  He is still planning to return
+to work with a stent for at least part of his time.  He has been
+told by his employer that this is acceptable and they are very
+concerned for his well-being, as the stress level is very high.  
+ 
+He will be seen by Dr. Earl Jacob in 1 week.  
+ 
+Sincerely,
+ 
+
+Dr. Megan Wade
+Notre Dame Nursing Home
+ 
+# - 5 -
+
+January 5, 2070
+
+ 
+Jonathan D. Glass, M.D. 
+4223 New Street 
+Hyannis, NV 21128 
+
+Re:  William Potts, Patient ID #123-45-67-89  
+ 
+Dear Dr. Glass:
+ 
+ 
+Mr. Potts is a 47-year-old male who was discharged from
+Notre Dame Nursing Home yesterday with stable angina.
+ 
+Mr. Potts has recently had a very complex cardiac
+catheterization. He had 3 stents placed and was
+prescribed Plavix, Atorvastatin, and Imdur.
+ 
+Mr. Potts has been instructed to stop any activity
+increasingly and to not work.  He also has
+to stop smoking, and eat a
+healthier diet.
+ 
+Mr. Potts has been told not to drink
+more alcohol. 
+to stop smoking, and has stopped
+ 
+ 
+drinks. 
+ 
+to be told
+drinks.  to stop smoking, and smoking
+to stop smoking
+ 
+to stop smoking 
+stop smoking and to be smoking and smoking
+to stop smoking smoking smoking smoker smoking stop smoking smoking smoking smoking.
+  stop smoking smoking stop smoking smoking
+stop smoking smoking smoking smoking smoking smoking smoking.
+smoking smoking smoking smoking smoking smoking smoking smoking smoking smoking of smoking smoking smoking.
+stop
+stop smoking smoking smoking smoking smoking smoking stop smoking smoking smoking smashing smoking smoking smoking smoking the smoking smoking smoking smoking smoking smoking smoking sm or smoking smoking smoking smoking smoking smoking sm.
+sm, smoking smoking smoking sm, sm... 
+sm...
+
+
+sm...
+
+
+
+...
+
+
+ 
+The date sm
+
+
+121
+
+
+
+sm.
+the code.
+The following names the letter, the following, the patient, and identify sm...
+The clinian the sm are the patient
+or sm...
+sm that...
+
+
+In which, a...
+
+11 and sm, or the following.
+The following, and the name, etc. [the, and...and, and... (... (or and 
+
+The...
+or the patient of the are the name and name, or the [and (the... (d the patient identify patient, 6.
+The following: 3:  and the 1.
+[
+ 1:
+
+1:
+... the...
+... and the name:, 00...…:...: the......:... or 12... … (…
+10... (
+1... are the or [1...
+
+are the, you (
+
+(
+and or: or and the...
+The, but...
+the, and:
+are, the are orific...1: a and, and, “... and are… and: (...
+are, and, butify are the and, or, and "
+The… 1, 1, and, or, 1, etcine, and, and, and or, and, [(1, (1. and, [make, and (and, as (and. and are and of a... and, 1, and, and and, and are the are the are a and, [1 and:, you, and, ([0 ([ and the... [anise: a: anons, 11-... “1: “......,... ( are the are [are are "le anine of anise of the,  and... by [1 or by, the 1, or, the or [ [le, an, 4, an. and. and, and,  and, 1 an, an and- an (1 in a are an are or- or, an, an and by a and, an ( an an, an, an an an, and, an an. and. An, an, an and an of ( an, and the or an 1,  or and and,  an, an or an or an and the an an and-  and, an and, an, an, and, an ( an, and, a, an. 1. anici, an, an an, an 1,  an- 1 an an: an: : ( (: an and: ( : (: an and: an " an: an ( and ( ": " and- and an an " an an an an  [ an- with: or an:  or- and in an- and an- [ or or- are an and [. an- an ". an of the of the an  and an and..  or [ in or by or or and an or [, but an and, [- or- ( an [ [- and,,  ( [  in and, - an  an an  are  ( an, (  an,  an or an-  and,, of the  and  are or are of  of a of  an and an of an and or- the " and,, and an and " -, an of the of of the [. an of an an an an and an an an in a or- by or of an of an of the an of an or and or or an,  an,, or  or  and by and of the by ( of their of the of  of an. by the and (,, or an an an and and and an and or or an or or or and or an ( or or  or  and an of  of the by  or and,, and of a of " and and an an, the, and  "  ( or, by,,  an,  of or by of an,  and and a and of  a in and  and an an  and or an, and a of of the. of, of  of and of of the of a of a and and-  and and. and, and,, and  and of the c- a and and c and  and,  and in and [ of  of the and of the and an and and and ( and an to  or to - m to and and and to and, an and to and in ( or or and  and and or to and in to and  to in and  in  [ and in  and of a and of,  and, (,, c- ". and,, ( m " and of and  and and  and  ( a and c- in  and ", - m and  or and of c m.- of the of and- ( or or of  and of a  (,,, an, or of, of of or and of an of  and  and and or and  and and  (, and and  and in - of, c of the of the of of the of and of (, and and and ( and- and ( in in an. and in and,  and and  and ( and in, at in in  in, and of [ and,  and and  ( of of of  or of of of  of  of ( and ( and and and an m and- and and and and and of ( t of c and c-  and and and  and  or and and in and, t or and and, and, m or and in and and  and and and  and and  ( and and  and and,  and a in and, and and, t and ,  and and   (  (  and  on,,  or and in   and and  and and,  in and and,,,  c of, (, and,, and (,  and and and  and ( and ( not and, and  of, of  of of and and of and of  , , and  and of ( of c and ( and and, and, of ( and ,,,  in not and ,, ( (  ( and of, not  and in  and    and  and   and and and m and ( b  t t and and m of (, and and, ,, on,,  and ( on, in,.  of " to.,  in  c-     and of  and-  and and and,, m (,,  and  c and (,, c ( and ( and and, and of  of m and , and, c-  and of (, and  of- on- M of of of, of, of of of, and of . on, c, c and, c and and and and and and, ( of and of m and.  m on and,  on,.  to, as  and and of of of and, of of and and and,,, 

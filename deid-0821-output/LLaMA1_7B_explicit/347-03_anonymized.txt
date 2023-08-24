@@ -1,0 +1,271 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2097-11-30
+
+
+Cookson Memorial Home
+Internal Medicine Room 960
+50 Wellesley Rd                                        DARLING, BETTY
+Seattle, SC 84126                                      78567873
+(121) 537-3484                                           11/30/97
+
+
+CHIEF COMPLAINT:  Hypertension, proteinuria, status post fall,
+reevaluate Coumadin.
+
+HISTORY OF PRESENT ILLNESS:  Urgent care visit for this
+77-year-old woman with the history of diabetes, multiple strokes,
+hypertension, hyperlipidemia, and multiple other issues.  Last
+week she was at Saint Joseph Memorial Hospital for an eye evaluation.
+ It was a very very windy day.  Afterwards she was outside and a
+huge gust of wind knocked her over.  Her daughter Fitzpatrick was with
+her and Fitzpatrick herself actually had to hold on to something when
+the wind blew.  There is no chest pain or presyncope, and no loss
+of consciousness either before, during, or after the episode. 
+She struck her left trochanteric area, left deltoid area, and
+left eyebrow.  She was taken to EFH where she had a normal head
+CT.  A single stitch was placed in the laceration along the
+lateral edge of her left eyebrow.  She had films of her wrist and
+hips both of which were fine.  She has bruising in these areas. 
+Other than some pain where the bruising is she feels entirely
+back to normal.
+
+She had marked hypertension up to 250.  She was treated with
+hydralazine in the ER, and was noted to have proteinuria with
+some hematuria.  Her blood pressure at home since then has been
+180 and 210 systolic on her usual 40 mg daily of lisinopril.  She
+is not on a beta-blocker currently.  She has not had any episodes
+of chest pain.  She does feel slightly more woozy than usual.
+
+MEDICATIONS:  Metformin 500 mg p.o. b.i.d., Prevacid 30 mg p.o.
+q.d., atorvastatin 10 mg q.d., sertraline 50 mg q.d., warfarin,
+lisinopril 40 mg q.d., Ambien 10 mg q.h.s. p.r.n., levothyroxine
+100 mg p.o. q.d., aspirin, eyedrops, Colace, and Dulcolax.
+
+SOCIAL HISTORY:  She is looking forward to a good Christmas. 
+She is here today with her daughter Fitzpatrick.
+
+PHYSICAL EXAMINATION:  Temperature 97.2, pulse 74, BP 208/66,
+weight 148 pounds.
+GENERAL: Well appearing woman.
+HEENT: PERRL.  Single stitch along the lateral aspect of her left
+eyebrow is easily removed.  No evidence of any infection.  Her
+left deltoid area is fine and she has good range of motion in the
+shoulder.  Her left ribcage is slightly tender but without any
+bony step-offs.  She walks well with no pain in her left hip. 
+There is a hand sized deep purple bruise over the trochanteric
+bursa.
+
+ASSESSMENT AND PLAN:  Mechanical fall with laceration and
+bruising but no more serious complications.  Fortunately she did
+not have intracranial bleeding.  I am not sure why her blood
+pressure is up, whether this is related to the stress of the
+falls verses independent causes.  Given that the high blood
+pressure has persisted, I will add atenolol 12.5 mg p.o. q.d.,
+and discuss via phone or E-mail with her daughter next week to
+see how well this is working.  Goal BP 140-160 systolic.  Her
+urine was checked today.  Hematuria has resolved.  She has 2+
+proteinuria.  I will recheck this in a week or two after we treat
+her hypertension.
+
+We spent over half of today's 45-minute visit discussing risks
+and benefits of Coumadin therapy.  Although she is at risk for
+falls, she feels quite clearly that she prefers to be on the
+Coumadin due to her fear of having a repeated thrombotic stroke. 
+She feels that she has not had any bleeding complications, and
+that she really would not like to suffer through another stroke. 
+I explained that there was some risk with falls of intracranial
+hemorrhage and its consequences.  I spoke with Dr. Dewitt last
+month about her Coumadin, and we both feel that it seems to be
+working well in terms of stroke prevention, but that she is at
+increased risk for falls.  It seems to me that she is in a gray
+area with no clear right answer in terms of risk benefit analysis
+for Coumadin for her.  She feels very strongly that she wishes to
+continue.  This was discussed in detail with her and her
+daughter, and this probably is a reasonable decision.  I
+encouraged her to restart physical therapy to work on her
+strength and hopefully diminish her risk of a subsequent fall. 
+More than half of today's 45-minute visit spent in patient
+counseling and education.
+
+
+
+
+
+______________________________
+Julia Yale, M.D.
+
+
+Dictated By: Julia Yale
+
+
+eScription document:3-5285833 EMSSten Tel
+
+
+
+DD: 11/30/97
+DT: 11/30/97
+DV: 11/30/97
+
+
+
+
+
+
+
+
+
+
+
+
+Record Date: 2097-11-30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHIEF COMPLAINT: Hypertension, proteinuria, status post fall, reevaluate Coumadin.
+
+HISTORY OF PRESENT ILLNESS: Urgent care visit for this 77-year-old
+woman with the history of diabetes, multiple strokes,
+hypertension, hyperlipidemia, and multiple other issues. Last
+week she was at Saint Joseph Memorial Hospital for an eye evaluation.
+It was a very very windy day. Afterwards she was outside and a
+huge gust of wind knocked her over. Her daughter Fitzpatrick was
+with her and Fitzpatrick herself actually had to hold on to
+something when the wind blew. There is no chest pain or
+presyncope, and no loss of consciousness either before, during,
+or after the episode. She struck her left trochanteric area,
+left deltoid area, and left eyebrow. She was taken to EFH where
+she had a normal head CT. A single stitch was placed in the
+laceration along the lateral edge of her left eyebrow. She
+had films of her wrist and hips both of which were fine. She
+feels entirely back to normal.
+
+SHORT TERM RESULTS: She had marked hypertension up to 250. She
+was treated with hydralazine in the ER, and was noted to have
+proteinuria with some hematuria. Her blood pressure at home
+since then has been 180 and 210 systolic on her usual 40 mg
+daily of lisinopril. She is not on a beta-blocker currently.
+She has not had any episodes of chest pain. She does feel
+slightly more woozy than usual.
+
+MEDICATIONS: Metformin 500 mg p.o. b.i.d., Prevacid 30 mg p.o.
+q.d., atorvastatin 10
+mg q.d., sertraline 50
+mg q.d., warfarin, lisinopril 40
+mg q.d., aspirin, eyedrops, Colace,
+and Dulcolax, levothyroxine 100
+mg p.o. q.d., Ambien 10
+mg q.h.s. p.r.n. Sertraline 50
+mg q.d.
+
+SOCIAL HISTORY She is looking forward to
+a good Christmas. 
+
+
+PHYSICAL EXAMINATION Temperature: 97-years- old 
+
+
+GENERAL HOSPITAL 
+examine the above.
+examine the above.
+the above.
+examine, 
+the above.
+the above.the above.
+the above
+the above. the above.the above. the above.the above.the.the above.above.
+
+the above. 10. 
+the above.
+the above.
+the above.the above.
+the above.the.the above.the above.
+the above the above.the above, etc. the above.the above and the above.
+the above.the above.
+
+the first name
+the below the above.
+the first name below.
+
+1.the patient
+.
+the above.
+the above. above.
+the firstname.
+of the below.
+the.the above.
+the patient above. the name of the first and the first the patient. above, below, below, patient names the name of.the first name, above the name. 
+the above the name or name.
+the above...the...or name... the name, the names of 56 names, names (the, name the name: the name, name below the name. (the patient and patient, 1,2.
+the... (name of the name.
+
+
+the 
+the 
+or the 53.
+name the name
+
+the name and names and name.
+
+the name and/the name, and the names.
+the...
+
+10 are the are the name, and the following names of the last, and names (
+The names and names, name and the [name 1: the names. The name, and the patient names.
+name 1...and:
+use of 
+1...the:
+name, but, below, “d (0, and...
+1: are a “
+
+removeable names and the name: 15 0...[1 and:
+(le... [not, and, you, and, the [or, a: or: (1 or the:
+(the, 1: or (
+
+theize the that, but. The and…...1 and the…... the (and, the...…
+…and and, and the, or (...
+and (11, the (and (in, or, or, but, the, and, and,... (the. or, the [1, the, the, the, and... 1. of a, (and. 2, a 1, 1, and are. 5, 1, and of a, or, the: a, the and (:
+and: and: 11:: and and-f: : and “ 10: are [0. [are in the 3 of a "and, of the-any ([ by “ ((an (le [the-in, the, the, and, or of 2 of the. and of the or and,,, an and, and and an, an, the are or might "may an and-con and, the, an, and, an, an, and, 3, 2 or, and, an of a, and, an 1, an, and an, and, 1 and, an or and 2 of the, an an of a,  of the or, 5, and an, an, and and, the, (make,, (An An (1: and the, an, and and an [the, (and, "0 (An An An An An:-2 of the: :: (: 9:-an,: and and, : an:: : and-le- and: the: an an or and-an with (with:- an, or:-  (- and in an- and-an -1 1 and  an are and, or of. of the and of the,. and. and or,, and [, an in the and an in, or and and are or or [- [ or, an or, by, [0 or or-d- an, an and of are an- are and, in and and,,- - an- an-,,, of an and an,, of and of  in and, of and,, and and and- an,,,, and, and of and of an of [ of " and of [ of " and, an, an an,-0 and  or of " an and of the or of and or- or an or in,, or, an -, an of and of, with and and and of ( ( and and in - and and and in the,  -  or- and, and- and and in- an and  in- of the or-0-1- 1,  or - - of or- and and of the. or or and- to, and to or to or,-  and in and and ( or of the of or an, or, for or of or for-1 of the for an an for or,  are-and, of, of them of of the, of, of of the of of the of the, and an,, an and,, and,, and [, (,  and, ( 1-1 and in the and,, of and of the of, or  or, ( or  to 1- to, to to and an to- and in ( and and, or to., to to to  to or or to in  or- or, or  or of an or or of or of of or of the, of and to,- and to and (, and ( ( and of the and and- a and a and  ( and and. and. (- -2 and  in and on on a and- or of-  of the in of and, [ and (- in  and and or ( and and in of or of the of, of and  in of an and  are or in,,. and and  and, or or   of  of ( of of the of, and or of- and (, c,.  and, and,, and- or,, and,  and and or,,.,   ( or,,,  and,,,, and  and of  of- ( and of- on and and and  and and, ( in  or  a and, and of  of  and and - an and and- t. or or- or,  or and- (,,- or-1, and and  as or [, and- and and or or and and and or (- and in or and and [ and a  in and and ( and and,, ( and and and- in and and, and or and and, and and and of ( and in  and and  and- and and, and- or- and,,,, and and and and, which,, ( and,,  for and- to,,, and,  a,  of  of of a of of, of or of  of her of her- or and,,- and,- and (, ( c, and c, and c,,- c- and- tom tom- tom (, or and ( - and m or and t (- on and c her or or or or or m or or, and and of the- a as of and and, and- (- and ( and,, ( and- and and her or and, m and her- or and her,  with- ( and her or a, ( and and and, or or and, and and c, ( and and and a, and and a and and, and as as and on and ( (,, m, and, m (- and, a m, me- them and m- and and her and and me and, her, and me. ( and, her,,  and and- ( a-  and or and and a s and, and and and- t- m or and w a t ( and and - her and, her- her m her and with with,, and and w, m

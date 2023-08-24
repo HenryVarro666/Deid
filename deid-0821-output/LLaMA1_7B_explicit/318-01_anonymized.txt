@@ -1,0 +1,203 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2095-03-16
+
+Trinity Regional Medical Center
+
+8699 Mill Street              MARSH, CARL
+
+Albertville, RI  87193                    39955317
+
+(906) 517-8625                     03/16/2095
+
+
+
+
+
+HISTORY OF PRESENT ILLNESS:  Mr. Marsh is a 73-year-old male who comes for first visit to TRMC to initiate longitudinal care and follow up of multiple medical problems.
+
+
+
+PROBLEMS:
+
+1.  Chronic renal failure.  He has been on dialysis for the past four years.  He is currently dialyzed two times per week.  He apparently had been three times per week in the past.
+
+2.  Hyperlipidemia.  Fasting lipid analysis one year ago showed total cholesterol 225, triglycerides 265, LDL 161, and HDL 40.  He has not been treated.
+
+3.  Hyperparathyroidism.  PTH level one year ago was 143.  He is on calcium replacement.
+
+4.  IgG monoclonal gammopathy.  This was noted on immunoelectrophoresis.  It was at very low levels.
+
+
+
+MEDICATIONS:  Aspirin 81 mg q.d., Nephrocaps one q.d., and PhosLo 2001 mg t.i.d. by his report.
+
+
+
+REVIEW OF SYMPTOMS:  He states he was told he was hypertensive at last dialysis. No significant weight change, febrile signs or symptoms, headache, blurred vision, tinnitus, chest pain, cough, shortness of breath, nausea, abdominal pain, nightsweats, diarrhea, skin rash, bruising, joint pain, or focal weakness.  
+
+
+
+ALLERGIES:  No known allergies.
+
+
+
+PHYSICAL EXAMINATION:  The patient appears well.  Blood pressure on multiple measurements range from 150-160/78-82, weight 144 pounds, and heart rate 72 and regular.  Chest: Clear to percussion and auscultation.  Cardiovascular exam:  No extra sounds or murmurs.  Abdominal exam:  No masses, tenderness, or organomegaly.  Extremities: No edema.  Skin: No rash.  Musculoskeletal exam: Grossly intact.
+
+
+
+ASSESSMENT/PLAN:
+
+1.  Chronic renal failure.  The patient will continue on dialysis.  I have requested screening blood tests.
+
+2.  Hyperlipidemia.  This needs to be treated.  I have asked him to return for reestablishment of baseline.
+
+3.  Hyperparathyroidism.  Secondary to chronic renal failure.  He is on calcium replacement.
+
+4.  Low-grade IgG monoclonal gammopathy. Will recheck values and follow.
+
+5.  Hypertension.  A degrees systolic hypertension warrants therapy.  He is due for dialysis tomorrow, however.  I gave him a prescription for atenolol 25 mg p.o. q.d.
+
+6.  Adult health maintenance.  I gave him a prescription for aspirin, which he should be taking and asked him to return in two weeks for a full annual review.
+
+  I instructed him to show renal staff the prescriptions tomorrow at dialysis.
+
+
+
+
+
+______________________________
+
+Xavier T Mccoy, M.D.
+
+
+
+
+
+
+
+
+
+
+
+eScription document:4-4113812 EMS
+
+
+
+
+
+
+
+DD: 03/16/95
+
+DT: 03/16/95
+
+DV: 03/16/95
+
+
+
+
+
+
+
+
+  PV: 03/16/95                                                      EMR: 03/15/03
+
+
+
+
+
+  MMD: 03/15/95                                                PP: 110
+  MMD: 03/16/95                                           PP: 1400
+  MMD: 03/17/95                                          PP: 1024
+  MMD: 03/24/95                                            PP: 5548
+  MMD: 03/25/95                                         PP: 7092
+  MMD: 04/15/95                                        PP: 13054
+  MMD: 06/07/95                                                    PP: 20740
+  MMD: 06/09/95                                              PP: 21007
+  MMD: 06/10/95                                            PP: 21226
+  MMD: 07/03/95                                              PP: 22061
+  MMD: 07/04/95                                                  PP: 22097
+  MMD: 07/05/95                                            PP: 22104
+  MMD: 07/16/95                                            PP: 22459
+  MMD: 07/26/95                                            PP: 23125
+  MMD: 07/28/95                                               PP: 23164
+  MMD: 09/02/95                                             PP: 23464
+  MMD: 09/05/95                                              PP: 23643
+  MMD: 09/09/95                                           PP: 23746
+  MMD: 09/12/95                                                    PP: 23779
+  MMD: 09/14/95                                              PP: 23814
+  MMD: 09/15/95                                             PP: 23841
+  MMD: 09/16/95                                              PP: 23877
+  MMD: 09/24/95                                                PP: 24030
+  MMD: 10/20/95                                               PP: 24478
+  MMD: 10/21/95                                                    PP: 24491
+  MMD: 10/22/95                                                     PP: 24507
+  MMD: 10/27/95                                            PP: 24986
+  MMD: 11/10/95                                           PP: 25149
+  MMD: 11/11/95                                              PP: 25253
+  MMD: 11/15/95                                           PP: 25315
+  MMD: 11/22/95                                              PP: 25436
+  MMD: 11/23/95                                           PP: 25532
+  MMD: 11/24/95                                              PP: 25561
+  MMD: 11/27/95                                               PP: 25611
+  MMD: 12/05/95                                          PP: 25744
+  MMD: 12/03/95                                            PP: 25687
+  MMD: 12/16/95                                            PP: 25792
+  MMD: 12/19/95                                            PP: 25837
+  MMD: 12/28/95                                              PP: 25867
+  MMD: 01/02/95                                              PP: 25905
+  MMD: 01/03/95                                              PP: 25934
+  MMD: 01/05/95                                              PP: 25995
+  MMD: 01/15/95                                              PP: 2603115/95,6163
+
+  MMD: 
+    MMD, MD1
+ 631
+
+\
+ 163
+
+\[1
+
+
+ 11
+\20114111112213,5211250
+\141145, etc.
+
+\111113
+111141,311111311121112 and then,11111111, and so111411141, 51111211 names 11111111
+111111111 patient 111 patients 01111111111111,1, 1111,111 patient. This is 1111111110.
+11111111, and identify numbers.
+
+11111 with the letter: and: 1211,20, and a... (1 indicate (11 11 and 45.
+11, 1 and 11111, 1 (111, 1, name, and [, names..., but, and 0, and the patient,...and 0...
+and [111.
+
+or...
+1 or 0122.
+... names that, the [[2 and the...
+(name:, and a patient, and 4,...: 10...
+
+
+(...
+…1, 
+(0:1 orally: (
+
+1:... the
+dream, the...
+( 1, 0 (the, or the 
+[the are the, 
+, the 3, and and “1, or, as the, or (and the and, 1: 
+(the or, a few, ([0 (are and,... 10, and (...
+
+1, the, the and the, 0, the (1, or and, and, 0, "and, or, and, or,  and, and, or, or,  and the, an, 1
+1, (d, as a... 1, a, 1 [1, [and, and 1, include, the, and the, (the, and and 1, and: and, 3 (3, (
+and-the and (make the... 1: 1 (c... and  “1. 1
+2...1 1
+, 1 that and of the
+1 and the
+: " or 4, 1, anise, the, and and, 1, the of their, and the (, an, and, (1 or,
+, an, an, anine (are, 1 or, 10, an, an, an-an, the and, 1, an, 1 and [. an 1, an, 1, a and, an (ann, the [c (including, an, anine-of, 1 or of an " an or and an and,,, and the,, 2, 2, a, a and, 6 and (and, the, 0, "and, an (an-3 "1: an of: and (::1 and: An: [1-make,: -1 [::: an and: "-and "-1-con " and orine " anite and-1 an and: an " an: an-0-an and are-le and or-1 and-1-and-h-1-cl. of " of the and and and the and,, an [ [. and or [ or, [ (,, an "  are  ( [ [ or of ( ( [- and ( or ( ( or [ ( are ( an " are of an- are, are, an, by- an, and an [-  or an, and are in the an of the of the  of  of- but  or of the or ( and or,, " or, and or, an, of an of and of the, of the and of “, an in and, in- are ( are- and ( or or and an of, and and- ( and- or or "- and (- an,, or and of the of, of the of the of and, and of  - and and ( (- by- ( (- and or in  and or an of the of in of -2 of or  or and an-2 of, or al and,, of  of and of or of the and,  or with, and, An for an or or for an or- and- or of the or or and or, for, and of an of an and or of, ( or and or and, and and of  of of of the of of the, and of and of, and an of,. and, ( and, an, and and and, and, and and and or and,, - and-and and -  and [ and or ( and of " and and. - and ( and and,-m and,, - and, or ( and, or,-1 ( or and [ and,,, or, or (- n c and- and and- " ( ( [- c or-  or of of a-1- m ( and and and ( and, al al. -1 of [ of al al: c and (: [ and and c- or:. and c and-0- " and and (. ( c. and or- al c- "- ( ( c and- or- and or or, ( of their of of or of of the of or and or [ and - and, ( and or in one and and, and al and and and of  ( or, of of a and of and, al- week- or ( - al in- and or in, ( or (  and and or,- " to ( or or, (,  " (,, and- and, al,, and of ( of  of of ( of of c of or [ and  ( (, ( and ( ( and  and and of in of [ or of and ( ( or or or, [ or and al c, and or and, and or or or or and [ in al and, and to al and and and [ to,, and and, [ c, to ( and to an, ( and  and and al and (, and or or, ( and, and in al and, in and to and and and or and and and ( and  and,  al and and, and ( to and, and and and,,,, for, [., al, and,.,, (, [ and, (, and,, ( of d or of or, and,,  and, ( and and ( and ( (.,, and ( ( of in, (, [,,, and ( and ( [ d ( and or ( in or and and, and ( and, and and  (. [  or ( or [ ( d and and and c and [ t m ( and and, ( and- or af to and ( and and, and h and and ( and and and, or [ to [ for [ for [ to, to to and for  c- ( to and to- and and and [ (. t and al and to ( [ and ( and, and and and, [ and and., and- m, and and t (, or and t to, ( m, (, and d d-1 m. m m and in ( and, to and,, as and and (,,, and [,, and,,,., for ( and ( ( and,, and and m t (,. [ ( ( ( and and t, t d- and and m c- [ for,, ( to and, - [,

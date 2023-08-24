@@ -1,0 +1,556 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2073-06-13
+
+EDVISIT^98044905^WARE, VINCENT^06/13/73^ZORN, TYLER
+
+The patient is a 65-year-old gentleman who presents complaining
+
+of shortness of breath, weakness, and fatigue.  The patient was
+
+seen in conjunction with resident physician, Ostrowski.  Please see
+
+her note for details of the visit.  Resident's history was
+
+reviewed by me.  The patient was interviewed and examined by me.
+
+PAST MEDICAL HISTORY:  Significant for non-Hodgkin lymphoma,
+
+diabetes, and hypercholesterolemia.
+
+MEDICATIONS:  Metformin, insulin, aspirin, and multivitamins.
+
+ALLERGIES:  The patient has no allergies.
+
+FAMILY HISTORY:  Negative for chronic diseases.
+
+SOCIAL HISTORY:  No alcohol, tobacco, or illicit substances.
+
+HISTORY OF PRESENT ILLNESS:  The patient is followed by his
+
+hematology-oncologist for unexplainable anemia.  The patient
+
+presents complaining of dyspnea.
+
+REVIEW OF SYSTEMS:  Significant for dyspnea on exertion,
+
+weakness, fatigue, fever and shortness of breath, negative for
+
+headache, blurred vision, chest pain.  Other systems were
+
+reviewed and found to be negative, unless noted positive on
+
+resident's note.
+
+PHYSICAL EXAMINATION:  I concur with documented resident's note. 
+
+Specifically, abdomen was soft and nontender.  Rectal Exam: 
+
+Guaiac negative, normal tone, and no masses.
+
+ASSESSMENT AND PLAN:  Laboratory studies remarkable for
+
+hematocrit of 24.  EKG is unremarkable.  Chest x-ray is negative.
+
+ The patient's management was discussed with Dr. Walsh,
+
+oncology.
+
+The patient will be admitted to oncology hematology for workup.
+
+______________________________
+
+ZORN, TYLER M.D.
+
+D: 06/13/73
+
+T: 06/13/73
+
+Dictated By: ZORN, TYLER
+
+eScription document:2-2004166 IFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+Record date: 2073-06-19
+
+EDVISIT^98044905^WARE, VINCENT^06/19/73^ZORN, TYLER
+
+The patient is a 65-year-old gentleman who presents
+
+complaining of dyspnea.  The patient was seen in conjunction
+
+with resident physician, Ostrowski.  Please see her note for
+
+details of the visit.  Resident's history was reviewed by me. 
+
+The patient was interviewed and examined by me.
+
+PAST MEDICAL HISTORY:  Significant for non-Hodgkin
+
+lymphoma, diabetes, and hypercholesterolemia.
+
+MEDICATIONS:  Metformin, insulin, aspirin, and multivitamins.
+
+ALLERGIES:  The patient has no allergies.
+
+FAMILY HISTORY:  Negative for chronic diseases.
+
+SOCIAL HISTORY:  No alcohol, tobacco, or illicit substances.
+
+HISTORY OF PRESENT ILLNESS:  The patient was followed by
+
+Dr. Walsh for unexplainable anemia.  The patient presents
+
+complaining of dyspnea.
+
+REVIEW OF SYSTEMS:  Significant for dyspnea on exertion,
+
+weakness, fatigue, fever and shortness of breath, negative for
+
+headache, blurred vision, chest pain.  Other systems were
+
+reviewed and found to be negative, unless noted positive on
+
+resident's note.
+
+PHYSICAL EXAMINATION:  I concur with documented resident's note. 
+
+Specifically, abdomen was soft and nontender.  Rectal Exam: 
+
+Guaiac negative, normal tone, and no masses.
+
+ASSESSMENT AND PLAN:  Laboratory studies remarkable for
+
+hematocrit of 24.  EKG is unremarkable.  Chest x-ray is negative.
+
+ The patient's management was discussed with Dr. Walsh,
+
+oncology.  The patient was transferred to oncology hematology for
+
+further workup.
+
+The patient was admitted to the ward.  The patient was
+
+transferred to 2-North.  The patient's family was notified.
+
+The patient was transferred to ICU.
+
+______________________________
+
+ZORN, TYLER M.D.
+
+D: 06/19/73
+
+T: 06/19/73
+
+Dictated By: ZORN, TYLER
+
+eScription document:2-2004166 IFFocus
+
+ ******** Reviewed by Attending Physician ********
+
+
+
+
+
+
+
+Record date: 2073-06-19
+
+EDVISIT^98044905^WARE, VINCENT^06/19/73^ZORN, TYLER
+
+The patient, Mr. Vincent Ware, is a 65-year-old gentleman who presents
+
+complaining of dyspnea.  The patient was seen in conjunction with
+
+resident physician, Ostrowski.  Please see her note for details of the
+
+visit.  Resident's history was reviewed and found to be unremarkable.
+
+
+
+The patient was examined and found to be in no acute distress.
+
+Laboratory studies were remarkable for:
+
+Hematocrit=24
+
+Chest X-ray=Negative.
+
+The patient was admitted to the ICU.
+
+The patient was transferred to the medical floor.
+
+______________________________
+
+ZORN, TYLER M.D.
+
+D: 06/19/73
+
+T: 06/19/73
+
+Dictated By: ZORN, TYLER
+
+eScription document:2-2004166 IFFocus
+
+ ******** Reviewed by Attending Physician ********
+
+
+
+
+
+
+
+Record date: 2073-06-27
+
+EDVISIT^98044905^WARE, VINCENT^06/27/73^ZORN, TYLER
+
+The patient is a 65-year-old gentleman who presents
+
+complaining of dyspnea.  The patient was seen in conjunction
+
+with resident physician, Ostrowski.  Please see her note for
+
+details of the visit.  Resident's history was reviewed and
+
+found to be unremarkable.
+
+
+
+The patient was examined and found to be in no acute
+
+distress.  Laboratory studies were remarkable for:
+
+Hemoglobin=8.6
+
+Hematocrit=23
+
+The patient was admitted for further evaluation and
+
+treatment of non-Hodgkin lymphoma.
+
+______________________________
+
+ZORN, TYLER M.D.
+
+D: 06/27/73
+
+T: 06/27/73
+
+Dictated By: ZORN, TYLER
+
+eScription document:2-2004166 IFFocus
+
+ ******** Reviewed by Attending Physician ********
+
+
+
+
+
+
+
+Record date: 2073-06-29
+
+EDVISIT^98044905^WARE, VINCENT^06/29/73^ZORN, TYLER
+
+The patient is a 65-year-old gentleman who presents
+
+complaining of dyspnea.  The patient was seen in conjunction
+
+with resident physician, Ostrowski.  Please see her note for
+
+details of the visit.  Resident's history was reviewed and
+
+found to be unremarkable.
+
+
+
+The patient was examined and found to be in no acute
+
+distress.  Laboratory studies were remarkable for:
+
+Hemoglobin=8.9
+
+Hematocrit=23
+
+The patient was admitted for further evaluation and
+
+treatment of non-Hodgkin lymphoma.
+
+The patient's treatment was discussed with him
+
+and his family.  The patient's family was notified that the patient
+
+had developed pneumonia.
+
+______________________________
+
+ZORN, TYLER M.D.
+
+D: 06/29/73
+
+T: 06/29/73
+
+Dictated By: ZORN, TYLER
+
+eScription document:2-2004166 IFFocus
+
+ ******** Reviewed by Attending Physician ********
+
+
+
+
+
+
+
+Record date: 2073-06-29
+
+EDVISIT^98044905^WARE, VINCENT^06/29/73^ZORN, TYLER
+
+The patient is a 65-year-old gentleman who presents
+
+complaining of dyspnea.  The patient was seen in conjunction
+
+with resident physician, Ostrowski.  Please see her note for
+
+details of the visit.  Resident's history was reviewed and
+
+found to be unremarkable.
+
+
+
+The patient was examined and found to be in no acute
+
+distress.  Laboratory studies were remarkable for:
+
+Hemoglobin=8.9
+
+Hematocrit=22
+
+The patient was admitted for further evaluation and
+
+treatment of non-Hodgkin lymphoma and pneumonia.
+
+______________________________
+
+ZORN, TYLER M.D.
+
+D: 06/29/73
+
+T: 06/29/73
+
+Dictated By: ZORN, TYLER
+
+eScription document:2-2004166 IFFocus
+
+ ******** Reviewed by Attending Physician ********
+
+
+
+
+
+
+
+ Record date: 2073-06-30
+
+EDVISIT^98044905^WARE, VINCENT^06/30/73^ZORN, TYLER
+
+Patient's condition and management were discussed with
+
+Dr. Walsh.  Patient's family was called to the hospital
+
+and was notified of the admission and pneumonia.
+
+The patient was transferred to the ward.
+
+______________________________
+
+ZORN, TYLER M.D.
+
+D: 06/30/73
+
+T: 06/30/73
+
+Dictated By: ZORN, TYLER
+
+eScription document:2-2004166 IFFocus
+
+ ******** Reviewed by Attending Physician ********
+
+
+
+
+
+
+
+Record date: 2073-06-30
+
+EDVISIT^98044905^WARE, VINCENT^06/30/73^ZORN, TYLER
+
+The patient, Mr. Vincent Ware is a 65-year-old gentleman who presents
+
+with complaints of dyspnea.  The patient was seen in conjunction with resident physician,
+
+Ostrowski.  Please see resident's note for details of the visit.  Resident's history and physical
+
+were reviewed for completeness. 
+
+The patient's family was called to the hospital and notified of admission and
+
+pneumonia.
+
+The patient is being treated for non-Hodgkin lymphoma.
+
+______________________________
+
+ZORN, TYLER M.D.
+
+D: 06/30/73
+
+T: 06/30/73
+
+Dictated By: ZORN, TYLER
+
+eScription document:2-2004166 IFFocus
+
+ ******** Reviewed by Attending Physician ********
+
+
+
+
+
+
+Record date: 2073-07-16
+
+EDVISIT^98044905^WARE, VINCENT^07/16/73^ZORN, TYLER
+
+The patient, Mr. Ware, is a 65-year-old gentleman who presents
+
+with complaints of dyspnea.  The patient was seen in conjunction with resident physician,
+
+Ostrowski.  Please see resident's note for details of the visit.  Resident's history and physical
+
+were reviewed for completeness. 
+
+The patient's family was called to the hospital and notified of admission and
+
+pneumonia.  Resident was present during the call.
+
+The patient is being treated for non-Hodgkin lymphoma.
+
+______________________________
+
+ZORN, TYLER M.D.
+
+D: 07/16/73
+
+T: 07/16/73
+
+Dictated By: ZORN, TYLER
+
+eScription document:2-2004166 IFFocus
+
+ ******** Reviewed by Attending Physician ********
+
+
+
+
+
+
+ Record date: 2073-06-27
+
+EDVISIT^98044905^WARE, VINCENT^06/27/73^ZORN, TYLER
+
+The patient, Mr. Ware, was hospitalized for further workup
+
+and treatment of his non-Hodgkin lymphoma.
+
+______________________________
+
+ZORN, TYLER M.D.
+
+D: 06/27/73
+
+T: 06/27/73
+
+Dictated By: ZORN, TYLER
+
+eScription document:2-2004166 IFFocus
+
+ ******** Reviewed by Attending Physician ********
+
+
+
+
+
+
+Record date: 2073-08-01
+
+EDVISIT^98044905^WARE, VINCENT^08/01/73^ZORN, TYLER
+
+The patient, Mr. Ware was hospitalized for further evaluation and workup
+
+for his non-Hodgkin lymphoma.
+
+______________________________
+
+ZORN, TYLER M.D.
+
+D: 08/01/73
+
+T: 08/01/73
+
+Dictated By: ZORN, TYLER
+
+eScription document:2-2004166 IFFocus
+
+ ******** Reviewed by Attending Physician ********
+
+
+
+
+
+
+ Record date: 2073-07-24
+
+EDVISIT^98044905^WARE, VINCENT^07/24/73^ZORN, TYLER
+
+The patient presents with complaints of dyspnea and cough.
+
+The patient is being treated for non-Hodgkin lymphoma.
+
+______________________________
+
+ZORN, TYLER M.D.
+
+D: 07/24/73
+
+T: 07/24/73
+
+Dictated By: ZORN, TYLER
+
+eScription document:2-2004166 IFFocus
+
+ ******** Reviewed by Attending Physician ********
+
+
+
+
+
+
+ Record date: 2073-07-25
+
+EDVISIT^98044905^WARE, VINCENT^07/25/73^ZORN, TYLER
+
+The patient was discharged from the ICU.
+
+His condition was discussed with Dr. Walsh. 

@@ -1,0 +1,955 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2089-11-05
+
+EDOBS^43294739^FINNEY, INDIANA^11/04/89^YEAGER, HAROLD
+
+I saw this patient with Dr. Sawyer.  I confirm that I have
+
+interviewed and examined the patient, reviewed the resident's
+
+documentation on the patient's chart, and discussed the
+
+evaluation, plan of care, and disposition with the patient.
+
+CHIEF COMPLAINT:  Heart is racing.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 52-year-old female
+
+with history of diabetes mellitus type 2 and sarcoid, who
+
+presents with onset one hour prior to admission of left arm
+
+pressure and heart racing.  The patient denies shortness of
+
+breath.  She has no nausea, vomiting, and no fevers or chills. 
+
+She says that she has occasionally had these symptoms in the
+
+past, they have already stopped on their own.  Tonight, they
+
+lasted for approximately 30 minutes prior to calling EMS.  En
+
+route EMS took 12-lead ECG showing a rate of 150, suspected a
+
+flutter and was given 20 mg diltiazem by EMS with no response. 
+
+She describes feeling in her left arm as dull pain, it is 3/10,
+
+and it has not made better or worse by anything.
+
+PAST MEDICAL HISTORY:  Please see paper chart.
+
+SOCIAL HISTORY:  Please see paper chart.
+
+REVIEW OF SYSTEMS:  Please see paper chart.
+
+MEDICATIONS:  Please see paper chart.
+
+ALLERGIES:  Please see paper chart.
+
+PAST SURGICAL HISTORY:  None.
+
+FAMILY HISTORY:  Reviewed and noncontributory.
+
+PHYSICAL EXAMINATION:  A middle-aged African-American woman,
+
+awake, alert, and in mild distress.  Exam limited by obesity. 
+
+Exam is significant for neck; normal to inspection, supple,
+
+nontender, and unable to appreciate JVP.  Respiratory:  No
+
+distress.  Chest:  Nontender and normal breath sounds. 
+
+Cardiovascular:  Tachycardic at 115 and regular and 2/6 systolic
+
+ejection murmur, no gallop, and no friction rub.  Abdomen:  Soft,
+
+nontender, no organomegaly, and no masses, otherwise, as
+
+documented on the paper chart.
+
+IMAGING STUDIES:  ECG shows a flutter at 150 beats per minute in
+
+ECG #1.  ECG final shows a sinus rhythm at approximately 60 beats
+
+per minute with no signs of ischemia.
+
+IMPRESSION:  The patient is a 52-year-old female with a history
+
+of occasional brief palpitations now with one hour of continuous
+
+palpitations and ECG consistent with atrial flutter.  She was
+
+given 20 mg of diltiazem IV by EMS.  In the Emergency Department,
+
+she was given 20 mg without significant response, followed by 40
+
+mg ID and was achieved a good response.  As the patient required
+
+a significant amount of diltiazem to slow her rate and convert
+
+her and she is also feeling somewhat nervous, we will keep her in
+
+the Observation Unit overnight.  She should get an oral dose of
+
+diltiazem overnight.  She should get cardiac monitoring in the
+
+morning.
+
+PLAN:  To discuss with KEKELA Cardiology and obtain consultation as
+
+to possible discharge on beta-blockers versus calcium channel
+
+blockers.  If the patient does not have a new symptoms she would
+
+be stable for discharge in the morning.
+
+PRIMARY DIAGNOSIS:  Atrial flutter with rapid ventricular
+
+response.
+
+SECONDARY DIAGNOSIS:  Left arm pain.
+
+CRITICAL CARE TIME:  35 minutes.
+
+______________________________
+
+YEAGER, HAROLD M.D.
+
+D: 11/05/89
+
+T: 11/05/89
+
+Dictated By: YEAGER, HAROLD
+
+eScription document:0-6602107 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+__________________
+
+YEAGER, KAREN MD
+
+S: 11/05/89
+
+T: 11/05/89
+
+Dictated By: YEAGER, HAROLD
+
+___________________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+______________________________
+
+______________________________
+
+______________________________
+
+______________________________
+
+______________________________
+
+______________________________
+
+______________________________
+
+******************************* 
+
+___________________________
+
+__________________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+_______________________________
+
+*****************************
+
+YEAGER, ROBERT M. MD, MPH
+
+S:  11/05/89 
+
+T:  11/05/89 
+
+Dictated By: HARRY, JOSEPH MD
+
+________________________________________________
+
+I hereby certify that I have reviewed the chart, have made a complete
+
+physical exam and am satisfied that the patient is in no imminent
+
+danger, and I have discussed this admission with the patient's
+
+primary provider and have discussed this admission, diagnoses, and
+
+plans for this patient.
+
+_____________________________________________________
+
+_____________________________________________
+
+******************************* 
+
+_________________________
+
+HOSPITALIZED:   
+
+____________________
+
+PCP:  _______________________________
+
+REVIEWED:
+
+
+___________________________
+
+IMAGE:  __________________________
+
+REVIEWED:  _________________________________
+________________
+
+***************************** 
+IMPRECIPICY-343925-20-222
+
+_________________
+
+HOSPCP: 371123-321
+
+
+
+________________
+
+233-41
+_________________________________________9211
+
+IMPRO_32_2
+HOS
+
+_________________43
+
+
+________________ 2012-20403
+
+32
+
+_32_2
+
+3013
+202_203
+
+
+
+3_2_01_2
+
+30_2
+_ _30
+_________________2
+_________________2-2_3 information_
+_
+3_2_4.
+20_1_
+3_
+3_1
+I
+12_3. 4
+
+_1_2
+20_2
+3_4_2_2_3_1_3_3_3_0_5 _5 _20, _5 _43, _2
+2
+
+20, 40, 3 weeks and 11_
+_1_992.
+3_3_3
+The _2,3_200.
+[15 _
+The_
+15 _20 and 3, and _4 and 9, 19 and 6 and  and the _2
+
+1
+and_
+and a_ and 2 date date_ and:
+.
+
+and, _: and a. This (and the day.
+This date. This.
+
+Mine.
+(2220. The [3
+D (FRO199
+
+292, IN MIN. This...[1-3.
+[11.1
+HOR STRE MILY MIN and:87919-1:
+d.A, butient, and a patient 9989 medical medical (d date and patient and a 10 and 9, and 9 and the "10-f andness for clin and patient. 9999-1 [9 and a doctor, A and the. A P and An and MINE and [9, and [fost, 3, patientian andianist, 4 and a date, a (per, as an and 2,  and patient and,3-1 and a 2- and. and [11 and and "10,2.8-a 8/39, and.8 An in 429-91 or and this (1 and patient with a, anistic and a last in 1300 and0-100-1
+[1-a andist and CAR, the and the day in [[2-per [[and (d and patient "in and the "2 and a and the and. and (cinal patient patient of the-d,2, and, a and (app and the or a andness-d a,  and, a and, an. An (per-per-1-de-and and the abient. Anient. and.025 [190 [20-[2-re and "dis, and (and and a,1 (c and a in "and and (in and. and and the and and (cine-1 (CO. [indine and and, [ and (. in a, [d and. An. and-c (in-1-1 in,., [ [ -: [:  in the - (in.-an-in [.-c (c " [-R-1-C-CO RE: [: and [ [ [[: a [c:1.[2 and [in [ and ( -.-[: [with [. in  [: an-an, and a and, and and:,: of an [-c- and. and [ and- and-an, and-the an and and and and and. and, and a with a [. and- and, and-in in [ and  and. and-M in1 and1 [-and and a-the-1-and- and-1-c-1-in-1-  in- and-to- and- and-the-c and with and and and  and and and and with and and- and with  and for the (, [ and-RE and-R for a-B- and and on in and and-cl ( and and with and in with and in-tom in and and [-R ( with,-re of-1 in (- and-B in-in in-O- and- and and,, in a and-p- and- and- and-in-in- [ in [- and in- [ the- and-the-t in and and in [ and (- and and-g, and-and-dis ( of the and,,-  and and -1. and and and- the in the and and the and and and in-re ( in the or and of and- of ( of the of  (- with the-in and and- and the and and and-of in  of the, ( in the-d, with the-the in-the and for in  for and-in in [-and and by (-in-[ and -and [  for in ( and for and-dis, and-and-t.. and-R-de-B [ for and for for and and and and in or and for: [:  and and ( and-1-P and-f and-F- of- it of-c of- and- and in of-c- and (c-of-and and or-and, and ( ( and and and-and in and-f-and in- and with the [ and- and and-P and-dis [ and. with, of [, for and,, and and, and for with the of [ and, and and [ and-and of and, and,, and- and as [, and of the-[, ( [-N-f and- and-f for and and-in-ro-t, [-re, and and and and, M and for-and and in in and and and, ( and-M for for for [-re,- and [ and ( C and [ and and, (, and for, R,,-c-f-dis- and [ D-the C-in and C [-c-of and [, of the and-[ R, (,-c-t or ( C and  [st-N-N ( Cist-t, [-de ( E and in [ and and and-t or, and (, and to and [ [ [[ ( to and to and,, [ [ to [ and ( and, [ and,, or with C, ( and, [ and, and and C and w,, and or-  and with [- C, for,- C and and and-t and of and of [ of and of and w of of C- -c or  and or,,, R L- E D R C Re and L, and and and (- and- and in. C, and, and and C- and ( ( ( E C and- and, and and or- and (,, and and and  and ( ( or, or- [ M (. M Re (, and ( E. and and to or C. or [., and- C C- L- and and Mient to or,. and and, and, and,,, and- C- S Re C- and, and- M of - of and and, and, and, to [ and,, M [ M A, M A [, and. and- M C (, C ( ( and and [ and F C, [ of, [ of. of, and (

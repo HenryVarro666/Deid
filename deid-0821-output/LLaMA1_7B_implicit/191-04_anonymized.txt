@@ -1,0 +1,220 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2096-06-02
+
+He comes in for f/u - is feeling great, but has gained a few lbs is now up to 210.  not checking sugars. bp has been ok at home.
+
+
+
+
+
+Problems
+
+S/P abdominal aortic aneurysm : repair in 2091
+
+Coronary artery disease 
+
+Deep venous thrombosis 
+
+Diabetes mellitus 
+
+Anemia 
+
+s/p trach 
+
+s/p gtube 
+
+Peripheral vascular disease : s/p fem-fem
+
+hit antibody : cannot have heparin
+
+Renal insufficiency 
+
+S/P pneumonia 
+
+H/O sepsis 
+
+
+
+
+
+Medications
+
+Asa ENTERIC COATED (ASPIRIN ENTERIC COATED) 325 MG PO QD 
+
+Doxycycline HYCLATE 100MG TABLET take 1 Tablet(s) GTUBE BID 
+
+Amlodipine 10MG TABLET take 1 Tablet(s) GTUBE QD 
+
+Atenolol 50 MG PO qhs , take 1/2 tab/day , if heart rate>50, can increase to one tablet/day
+
+Hydrochlorothiazide 25 MG (25MG TABLET take 1) PO QD 
+
+Nexium (ESOMEPRAZOLE) 40MG CAPSULE EC take 1 Capsule(s) PO bid 
+
+Flonase (FLUTICASONE NASAL SPRAY) 1-2 SPRAY NAS QD 
+
+
+
+
+
+Allergies
+
+Heparin - HIT antibody positive, 
+
+LISINOPRIL - Renal Toxicity 
+
+
+
+
+
+ROS: denies cp, sob, gi/gu sx, no significant weight changes, remainder of review of systems is negative in detail.
+
+
+
+PE : nad
+
+bp 114/54 hr 60 reg
+
+perrla,eomi,anicteric
+
+lungs cta
+
+heart:RRR
+
+ext:no c/c/e, warm, well perfused
+
+
+
+a/p: weight gain is concerning to me as he has h/o increased blood sugars: advised him to try to lose 10 lbs, we'll check his hga1c and fasting sugar again as well. I'm concerned that he will end up need ing medication for this if he continues to gain weight.  
+
+
+
+his lipids were up last check, but his daughter recollects that he ate a full breakfast prior to that lab draw.. will repeat fasting.
+
+
+
+htn: in good control
+
+
+
+cad: pt to see cardiology next wednesday.  I advised him he would probably need a statin if LDL isn't in the 60's fasting again.
+
+
+
+f/u in 3 mos      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
+
+
+
+
+
+// ----------------------------------------------------------------------
+//
+//  CLASS HEARTHBURN : HEAR_HBURN - HEARTHBURN
+//
+//  Created 2002.09.12 by Mitchell A. Kaplan.
+//
+//  This is a class which generates the Heartburn message.
+//
+//  The Heartburn message describes the patient's condition in detail.
+//
+//  This is used to send a message to your heartburn monitoring
+//  system. See the file heartburnmon.c for more info.
+//  Note that you must include the files heartburnmon.c and
+//  heartburnmon.h, which include code for sending and receiving
+//  messages via TCP/IP.
+//
+//  See also the file heartburnmon.c for the heartburnmon_t
+//  structure.  You will also want to read the documentation in
+//  the file heartburnmon.h.
+//
+//
+//---------------------------------------------------------------------
+//
+//
+//  Note that this is not the entire message.  It is a sample.
+//
+//  The complete message will be something like the following:
+//
+//                    HEARTHBURN
+//                    (3228) 2096-02-01
+//                    21:31:36
+//                    Hearthburn (heartburn monitoring system)
+//                    HEAR_HEARTHBURN:
+//                            001
+//                    HEAR_HEARTHBURN.2:
+//                            3006837316
+//
+//                    HEAR_HEARTHBURN.3:
+//                            5652717248
+//                    HEAR_HEARTHBURN.4:
+//                           03102021141958620001000089755000438412576460000000111111533688484063622656804482082542786747279121829923846375365445135852975986943906024300883430781982913723980121405179946953245397894895363974948818705397928351206639636243592123093306837316477047955028550670722018552289382349926243063850003333108778224140625907491592153620143045722742148632918207088582522672904063388741881645678087582962524921219544451885733346211201566066563531178536946180996642853051548065909320290890169543295928463383036014249743099587138363239748368018622102384754480416515084170908356103975809166230520606492843747411043663607873883232813631401929909323172755286133697713825205737062906106372600785616126097266870855176681701360265953944226670555445984370785240196505457466527557631378140338303746467527153803639239443314776542162546691873374119801163874305672645165287273086568737904805107812969365095907547561866222994100254001941758056060158860250351195112989718005600523092951045836310099570317036657670570108918256203504420624793070304822610952067183299999081118468774099153105799764103747237176481755085962609382506282960897982921255725889999999999999999989999999999999999999999999999999978799999999999999999999999999999999999 300959999999999999999999999999999809999999
+999 9 99 month 99999
+
+9999999999919, 2095 days 820197.
+
+
+
+
+9999. 3/1/4
+
+9
+
+12
+35
+
+
+and s: 42.
+
+
+Feb 421
+20.
+15
+23
+11
+2
+
+400:10
+The. 6
+
+
+
+
+3.
+3
+and.
+and/
+
+The. 4 days 25
+5,2131203
+ 5 ( 4 2
+ As, 20 and 
+15
+
+
+
+1
+ and a
+1 
+
+10.
+and 2 andro and 21
+1 and it: 6. You, or the. The and date. The: 0, 
+ 1 year and the and the, it: 4 - and and 3 and and, 6 25 lb, 9.2.3 lb -1. 8. 5 3 6. (1 and the and 5 in the - 1. 1  and s:  and, in "1.2. 1. 7, 2.  to. 9, and: 3 and:  (in and is. (1. 25 8 12. 2.6: and, 306.3.75.3.5.2:1.1  (. 1. 2 a cm. 7 3/3 s and 5, An s, [4:  (1. 5. [c.. 1/ : [., 1 and, and a. An - C -0 → An -  C. An, B 1 An. [1.  and the: 16. a in (1  in cm  cm in a l. 6 1 3, a. An.1. 0.2 and. a-  a a 3. to. An. An Ancing. (15 4.0 and. 6 cm to.0, 5 0 Anine 1 An C a: An An C a [3/5- 1 An An An, 3 and and: C a a a 1, 1 (0-6 (1 cm.1 and 1 a  C to and [. to  C 3. 7 c a. 11. 0 (C,2 ( 0 1 An.:1. An -0.1.0. and C 0 An An  a: : a: to [ a ( and a: :: c  C:  cm and: c in: [ A: C: : An: and: c: an c an l. S. an m. cm, c. B c c and. An  and.,  and in and,. and and [, to, and.  in., (A. C [ ( [ [ [ (. [ :  and, - to. - to k [. to, k to, c to.  and and  l k, [-, cm c an. an c cm-An  cm  cm  an -  and. [ -  c,, and c t h [ c c m and hr c.  an c and. an and [ and0- a and.  an - an, a in ( cm  an c an c c [ hr ( cm c  C l. k c cm  k.  C An C An An, C An An An An An An, [1 - an c and, c c - 1, an - [ -an C S An An in H ( a ( H a cm [ hr - and  hr  C An  and  cm in cm cm and S. S C and - and ( and S, and c c. [ an and (. H An and H H. an  in  and cm ( and ( ( and. cm t (. (. -C and and  [ S and [ (  [  [. [ ( -  a. and  to, to,  to  to to  to a to cm an and and a 0 and cm. - cm, S a to and - S S H [ S A S to. M and S a a [ T C. S. a S S,  - [ H  -  and C - C A. T C T A -. H T C S and As S A H T An A and S. H C C A/ H H cm H and and  ( cm cm to..: S : C to and to  to: T C S C. C and - ( T ( H in: in,   H : C: M M. M. and M  and.. a. - - m -. and ,.   and  and. in m. cm c. cm in in -   H P   cp cm cm.  (.  m - F.  (.. F/c ( C and mm and cm m md M M M M M M M m ( mk m m c ( m cm and m   ( C H H  to c C  H S C m to c md and m.  C m m m m m and, and and ( is md and m m m c mm M M C C m M M and and md and m m m and. c.   and  to M M  m c and ( m ( cm   m in ( M.  m. M m and m cm ( m  m m m   c M m md mm cm  M M m/m M m m m m m ( m m md me md M m mm.  m md mm M M H m  m ( m m and M M M M M  md md mv m M. m m mm m M m m m m m and. M ( M A M ( mk m mk md m m m to m m m m m m M ( m m M m m m m c m m a m mm md m md m m c to m m m m m m to m cp/ c c a t M M C M MD M m m md m m m M M m m m m. m c. M M c to c md  c m in. a to c md m m to m  m M ~ m M m.  M M M. M P per. H. C. M m c cm m ( (.  M M.  m per m mk M m.. m md m m ( m.  m, m  c   ( ( m mm m ( M. m  M  m  ( c [ cm  m.  c. C.   h. cp h m .  cp f . mm c.  h m h (. cm ( / m  ( cm cm  m cm m cm cm  l (  l c  h m cp ( l h cp.  m. m. l a h a c  md  c to  M to M A  to ( A, c to per

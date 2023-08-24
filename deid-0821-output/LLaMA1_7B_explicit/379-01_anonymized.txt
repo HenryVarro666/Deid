@@ -1,0 +1,282 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2091-12-28
+
+December 28, 2091
+
+
+
+
+
+
+
+Nikkolas Nancy-Jasmine
+
+693-31-18-1
+
+
+
+I saw Nikkolas Nancy-Jasmine today for evaluation concerning his stroke in August 2091.  The information available today is limited to his knowledge of the events.
+
+
+
+He is an 67-year-old Honduran man with a history of diabetes mellitus and HTN.  In August he suffered a stroke.  He reports that his speech was affected and that he developed severe right arm and leg weakness without sensory loss.  He recalls no problem with his vision.  He was hospitalized at Dubuque Obstetrics Gynocology Center.  He does no know the extent of the evaluation.  He was discharged on aspirin to Mitchell County Hospital.  He is now living at home with his wife and son with visiting nurse assistance.  His primary care physician is at Flagler Hospital.  He has severe residual weakness of the right arm and leg.  He also complains of dizziness and an abnormal numbness in his mouth.  The dizziness is worst in the morning.  He also notices a noise in his head when he sleeps.
+
+
+
+He has DM and HTN.  He is a nonsmoker.  I don't have cholesterol information.  There is no history of cardiac disease.  There is no history of alcohol abuse.
+
+
+
+He is currently taking aspirin, insulin, antihypertensive medication of some type and possibly a cholesterol lowering agent, although he is no sure of this.  He has no known allergies.
+
+
+
+He is aware of no significant family history.
+
+
+
+He is married.  He lives with his wife and 22-year-old son.  He came to america from Honduras in 2073.  He worked nights in construction until his stroke.
+
+
+
+Pulse 66, regular.  BP 186/110.  There are no cranial bruits.  The carotid pulses are full with no bruits.  The lungs are clear.  The heart is regular with no murmur.  The abdomen is benign.  The mental state is normal; he speaks Spanish and broken English.  He is able to name, repeat, and comprehend well.  His fluency in his native language is probably normal.  Cranial nerves are intact.  There is severe weakness of the right arm and leg: right interossei and finger flexors 1/5, finger extensors 0/5, biceps 1/5, triceps 0-1/5, deltoid 0-1/5.  (He tries to raise his arm proximally by elevating the shoulder.)  Right iliopsoas 2/5, quadriceps 2/5, hamstrings 1/5, distally 0/5.  The tone is only mildly increased.  Sensation is intact.  Reflexes are slghtly brisker in the right upper extremity (RUE 2+/4, LUE 2/4, knees 2+/4, ankles 2/4).  The right plantar response is mute; he withdraws the left.  Coordination is intact; weakness inhibits adequate testing on the right.  He wears a right AFO.  He can stand up from his wheelchair and bear weight maneuvering himself to the examining table, but he cannot walk unsupported.
+
+
+
+His examination is most consistent with a right equal arm and leg pure motor hemiparesis, sparing the face.  This was likely due to a lacunar infarction in the left basis pontis from small vessel occlusion.  He has major stroke risk factors, including DM, HTN, and probably hypercholesterolemia.  Currently his major needs are to establish good control of his blood pressure and to control other risk factors, including optimtal glucose control and likely medication for hyperlipidemia, and to continue physical and occupational therapy to maximize his functional status.
+
+
+
+To review the studies that were done to investigate his stroke in August, I will request the record of that hospitalization from DOGC.  I will also request his records from his physician at the Flagler Hospital.  He will certainly need an adjustment of his antihypertensive regimen.  He tells me that he is planning to see his PCP for this purpose.  I asked him to return here in a month to review this.
+
+
+
+
+
+Sincerely,
+
+
+
+
+
+
+
+Patrick Winn, M.D.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nikkolas Nancy-Jasmine
+
+693-31-18-1
+
+
+
+December 28, 2091
+
+
+
+
+
+Record date: 2091-12-28
+
+December 28, 2091
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\section{Appendix 3: Annotated Record of an Interview for the \textsc{Stroke} Dataset}
+
+This interview contains a set of questions to a patient about a stroke that they experienced and a second set of questions to their primary care provider about the diagnosis.  These questions are used to generate a record of a stroke that the provider has seen, along with a summary of the care provided for the patient.  This interview, and the other three, can be seen as a way to generate the record of a \textsc{Stroke} record, which is the input for the downstream tasks in this paper.  The questions in this interview were adapted from a previous interview by \cite{Koenig2004}.  This was a paper that evaluated the usefulness of a similar interview in a clinical environment.  We have included the original interview questions in Appendix 3, along with the original responses, so that the reader can compare our work to theirs, which can be seen at: \url{ftp://ftp.csl.sri.com/pub/projects/medical-records/2004_Stroke_interview.pdf}.  We have included our annotations to the patient's response on the left.  The original interview was given to patients who were not yet seen by a physician for their stroke.  This paper is intended for patients that have already been seen by a physician, and the interviews have been adjusted for this.  This interview is also intended to be given in person.
+
+
+
+\subsection{Interview for Patient}
+
+The first part of the questionnaire is for patients to fill out information about their stroke.  This part of the interview is designed to get information about: their symptoms before, during and after their stroke, their stroke location, their stroke risk factors, and the care they received after their stroke.  We have included a summary of the questions asked and the answers given by the patient, in the interview below.  After asking about the patient's general medical history, we ask the following questions regarding the patient's stroke:
+
+\subsubsection{Question 1: Before stroke}
+
+\begin{tcolorbox}
+\textbf{Question}:\textup{How was your stroke?}
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=white,colframe=black]
+\textbf{Response:}  I had a sudden weakness in my right arm and leg.
+\end{tcolorbox}
+
+The patient's response is summarized above as a short answer.  This answer is used as part of our model to determine which types of stroke the patient had (see section 4.1 for more information).  In this dataset this question is used to determine whether the patient suffered a hemiparesis or aphasia, which is used as part of the classification in this section.
+
+\subsubsection{Question 2: During stroke}
+
+\begin{tcolorbox}
+\textbf{Question}:\textup{How did it feel during the stroke?}
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=white,colframe=black]
+\textbf{Response:}  My arm and leg were numb and weak.  I could not speak or move my arm or leg.  I was not able to walk, and I could not hold things.
+\end{tcolorbox}
+
+We have included the full transcript of the question and the response to this question, to illustrate how the questions were asked and how the patient answered.  This response is also used to determine whether the patient suffered aphasia or a hemiparesis, which is used in the classification in this section.
+
+\subsubsection{Question 3: After stroke}
+
+\begin{tcolorbox}
+
+\textbf{Question}:\textup{Where and when were you admitted?}:
+
+In this section the interview also asked about the patients admission time and date of hospital admission. \textbf{What was your diagnosis of the stroke?}:
+\begins
+\begins
+:
+
+\textbf{where and when you diagnosis of the stroke:
+
+\textbf{when you, where and where you diagnosis, but not diagnosis of the name of the name:
+
+
+where
+\textbfed name: diagnoses
+diagnostics of diagnosis diagnose.
+
+\cite, diagnoses of
+
+of the date:
+\(a\textbf.
+\textbf date, diagnosis of, and date: where
+
+d
+\date the date, and the name.
+\n\n
+and name and date
+diagnostic of the patient names
+names:
+\name, diagnose
+of patient name.
+
+name
+the name or date,
+or patient
+the patient.
+\n\ of the name.
+
+name the name, age
+names and
+name the date, date, name:
+The patient names of patient's, patient, or names of patient, names.
+date and the date.
+date name.
+The patient and
+Date. This and date name of the name.
+name the date. name.
+name. name, date, the name, and date of date.
+or and name: 
+...
+and name: and patient, date the patient and name of age, date and date. The date and name.
+... and the name.
+names of the date names, and name... and the following, the date, and the [
+[the...
+and the...and are or the date, and names (or, and a and 00, names and the 3...
+
+... the... name the [[the, as wells with the following,...
+and...1: and a and...
+the, the [patient names and (le...andically, and..., and the patient...
+
+
+
+d (patient name:
+
+1...11: 0  or: (
+...the names (...
+the and, 
+[1 of (
+and (or orific and 
+1, and the are (
+
+... orificize the [the and the and “and... 1- 1...
+
+are, 1-and 1 and the, and,
+0 1. The (
+...,, or (
+andize, 
+or (d, and, the, a, "the [
+, [...
+(
+and, the…, as the,...
+1, the
+[1 and ([ and the, and, and, and, a, and the include, the (
+and, the, (
+, the, " and the and (the-the "f ([: [d. [1.
+[an-... and...
+ (are: are-are (make or are, [1-name and-1 or [in the-and in [, [1,
+
+,
+1, an, anise and (. [, the and of the and of the,, and, 6, an, and, are- an are or might, are, (and-an of an, an-1-an- an- an or, an (A and- and-and and and, an and and of an, and and an, and and [  or an (or, an, an, and "of or or or, and or an and, an, " [1, " and, an, [1, and, and in and and and and the, An C and [an-d, an,, the, (0 and “ ( (0- and-0 and-2 of the-1-8-an-make and-d-1 (- an- an and-and-and-and-and- an: ( an- or: an- (: an or- an " ( an-an of (- are- an-[-an and-an-an- an-an-of of an- the and- [.. or and an and, in the [. in ( and-an- are (-le- or-le in [: and- and and or an- or in ( [- an- an- an- [- - in an ( in-an- an- an,-an- ( " of and an- an of an an an- or of a, of an- an in the in a, and ( by, and ", an or and of an of " of ( and an or and- an- are  or -an- an- an of and of “- an- or- or- or in " an- or and  and " (, or- or of of, of ( of " of and ( and and an an- [ an (-1- in- in an- ( and- or to  or of the or- to- or- and-1 an- an in- and, " or,, and. of a- and or- or and and and and and- or "- and,, and and, and, in or of, in- and an an, ( or of the an-1, or- ( ( " ( and, for, of an of, of of the of the of of, of, of the,. (, and, -and, and- and [ and  ( and an and an and-c and- and an-C- in and and and and of an- 0 and 0-0 and ( an with the,, an or an- ( (- and,- [ and- and- or- ( ( (- or or of ( in an or- and of the- [- of the of- of ( of of an of and of an and ( and and ( n- and. ( c ( and and: and - and or and  and and ( and  and and or: n. and-c in.- and and of- an  of - (  or  and  -   and, or, or of and  of, or of, or, and of the,,,. or for  and (, (,,,  (, of and  of of the- of, of  and of -  of the  -,,.-1 -, in- (0 (,.  or, and. or [ of- (-, ( (. and, and and and and and of or of of-  of  (,, ( - [, n,, ( and  - in, and - or and or and,  (, or. -. and  and (, (  as and, (, as of as and or and and (., and  and  and and-2,  and and,., and,,, ( in (, and, and, n (, ( (. and, (, ( n and, ( and (  ( ( and and, or (  -,,,, and,,. and,, and, or,,,,,,, and and, in, and,,,, (,, ( ( ( and. of ( of the and of is of  and a- and  [ and and. [ and and of ( [ of,, of (, of, and [2, to or of of the of and,,, ( and [, and (- and and-0 or [0 and or [1 [ ( or, or ( and and-1 and. and,,  and in and and - ( and in, and and ( [ and [ and and,,,,,,0 and and in and  and,0,  of,  (-2- and,,,, (, or and and,  and and and ( and and,. and of ( of of and of, of of., or,, and, and of and  and,,,1 and and and [- of of of of and, of and, and, and, and, as and (2,  ( and and, and and and and, but, and,, or or in  and ( and H, and and,, and and and and., and,,,,,, and,, but,,,

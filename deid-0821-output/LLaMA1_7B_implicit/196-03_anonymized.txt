@@ -1,0 +1,306 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2090-01-03
+
+
+CC: f/up of HTN &amp; DM management
+
+
+HPI: 61 yo female who presents back to clinic having an upcoming eye appt again
+at Harmon Doctors Clinic 1/12/90.  Most recent A1C 8.5  6/15/89, being followed at MS.
+Denies any symptoms of hyperglycemia or hypoglycemia.  Denies any CP, increased
+SOB beyond her baseline, or headaches.  Has had intermittent exacerbations of her
+chronic back, shoulder, and knees pains.
+
+
+Problems
+Menopause at age 52 
+H/O R sided sciatica 
+H/O pneumonia 1/2082 
+S/P vocal cord cyst removal 
+S/P cholecystectomy 
+S/P C section x 2 
+Diabetes since '67 
+Severe nonproliferative diabetic retinopathy with severe macular edema 
+H/O pyelonephritis 
+1/16/88 cardiac MIBI with summed stress score of 0 but evidence of extensive calcified coronary plaque burden with coronary calcium score of 715 
+Hypertension 
+Depression 
+7/23/88 R shoulder arthroscopy 
+4/20/89 lumbar CT : No stenosis or disc herniation, mild deg changes of the lower lumbar spine as described with a possible tiny lateral disc protrusion on the L at L3-L4.
+
+ 
+Medications
+Atenolol 100 MG (100MG TABLET take 1) PO QD 
+Cozaar (LOSARTAN) 100MG TABLET take 1 PO QD 
+Darvocet N 100 (PROPOXYPHENE NAP/ACETAMIN... 1 TAB PO BID PRN pain 
+Ecasa (ASPIRIN ENTERIC COATED) 81MG TABLET EC take 1 Tablet(s) PO QD 
+Glucophage (METFORMIN) 1000MG TABLET PO BID 
+Lantus (INSULIN GLARGINE) 84 UNITS SC QAM 
+Lasix (FUROSEMIDE) 60 MG (20MG TABLET take 3) PO QD , 3 tablets daily - 3 tabletas diarias
+Lipitor (ATORVASTATIN) 10 MG (10MG TABLET take 1) PO QD 
+Neurontin (GABAPENTIN) 400 MG (400MG CAPSULE take 1) PO QHS 
+Paxil (PAROXETINE) 20MG TABLET take 1 Tablet(s) PO QD 
+Prilosec OTC (OMEPRAZOLE OTC) 20 MG (20MG TABLET DR take 1) PO QD 
+Verapamil SUSTAINED RELEASE 120 MG (120MG TABLET SA take 1) PO QD 
+
+
+Allergies
+NKA 
+PEx: VS: Wt 196, BP 130/71, p 62
+WDWN older female in NAD.  
+HEENT: anicteric sclerae  
+Neck: supple, no JVD.  
+Lungs: CTA.  
+CV: RRR, s1s2, nl, II/VI SEM at LSB
+Abd: soft, NT  
+Ext: no c/c/bil trace edema.  No foot ulcerations.
+
+
+A/P:
+1. HTN.  Stable, no change in regimen.
+Dietary and exercise rec's reviewed.
+2. DM.  A1C today 7.9 (improved from 8.5 in 6/2089),
+No change in regimen, being followed at MS. 
+Dietary and exercise rec's reviewed.
+Home FS monitoring as directed.
+3. Scheduled for f/up of diabetic retinopathy 1/12/90 at HDC.
+
+
+
+Singh, M.D.
+
+
+
+
+
+
+*/
+
+#include <iostream>
+#include <string.h>
+#include <stdio.h>
+#include <math.h>
+#include <cstdlib>
+#include <fstream>
+
+#define MIN_CHAR "a"
+#define MAX_CHAR "z"
+
+class Patient
+{
+    struct
+    {
+         char m_fname[MAX_NAME];
+         char m_lname[MAX_NAME];
+         char m_dob[MAX_DATE];
+         double  m_weight[MAX_WEIGHT];
+         int m_height[MAX_HEIGHT];
+         int m_temp[MAX_TEMP];
+         float m_bp[MAX_BP];
+         int m_sat[MAX_PATTERN];
+    }m_patInfo;
+
+    // 2029-09-19
+
+    void fill(int year, int month = 1, int day = 1);
+    bool valid(void);
+
+public:
+    Patient()
+    {
+        int i,j;
+
+        for (i = 0; i < m_lname.size(); i++)
+        {
+            m_lname[i] = '*';
+            m_fname[i] = '*';
+        }
+        for (i = 0; i < m_dob[0].size(); i++)
+        {
+            m_dob[i][0] = '*';
+        }
+        for (i = 0; i < m_weight[0].size(); i++)
+        {
+            m_weight[i][0] = '*';
+        }
+        for (i = 0; i < m_height[0].size(); i++)
+        {
+            m_height[i][0] = '*';
+        }
+        for (i = 0; i < m_temp[0].size(); i++)
+        {
+            m_temp[i][0] = '*';
+        }
+        for (i = 0; i < m_bp[0].size(); i++)
+        {
+            m_bp[i][0] = '*';
+        }
+        for (i = 0; i < m_temp[0].size(); i++)
+        {
+            m_patInfo.m_bp[i][0] = '*';
+        }
+    }
+    void setName(const std::string& name)
+    {
+        m_patInfo.m_fname.resize(MAX_NAME, *MIN_CHAR);
+        m_patInfo.m_lname.resize(MAX_NAME, *MIN_CHAR);
+
+        for (int i = 0; i < name.size(); i++)
+        {
+            if (name[i] >= 'a' && name[i] <= 'z')
+            {
+                m_patInfo.m_fname[i][0] = *(name[i] - 'a');
+            }
+            else if (name[i] >= 'A' && name[i] <= 'Z')
+            {
+                m_patInfo.m_lname[i][0] = *(name[i] - 'A');
+            }
+            else if (name[i] >= '0' && name[i] <= '9')
+            {
+                m_patInfo.m_weight[i][0] = *name[i];
+                if (name[i] == '0' || name[i] == '9')
+                {
+                    m_patInfo.m_weight[i][i] ='';
+                }
+            }
+            else
+            {
+                // 2029-08-28 - 0x1690 is hex for a star
+                if (std::toupper(name[i]) == '*')
+                {
+                    m_patInfo.m_weight[i][i] ='';
+                }
+                else if (name[i] >= 'a' && name[i] <= 'z')
+                {
+                    m_patInfo.m_temperature[i][0] = *(name[i] - 'a');
+                }
+                else if (name[i] >= 'A' && name[i] <= 'Z')
+                {
+                    m_patInfo.m_temperature[i][0] = *(name[i] - 'A');
+                }
+                else if (name[i] >= '0' && name[i] <= '9')
+                {
+                    m_patInfo.m_temperature[i][0] = *name[i];
+                    if (name[i] == '0' || name[i] == '9' || name[i] >= 'a' && name[i] <= 'z')
+                    {
+                        m_patInfo.m_temperature[i][i] ='';
+                    }
+                }
+            }
+    }
+
+  
+    void Patient::PatientInfo::valid()
+    //returned
+    void Patient::PatientInfo::PatientInfo::PatientInfo::PatientInfo::PatientInfo::PatientInfo::PatientInfo::PatientInfo::Patient::PatientInfo::PatientInfo::PatientInfo::PatientInfo::PatientInfo:PatientInfo:
+    PatientInfo::
+   
+
+    
+
+
+ 
+
+ 20
+    20
+3:
+    20
+20
+3.
+20
+
+
+20
+
+3 
+
+3.
+30 20
+3
+
+30
+
+5
+3
+3:  4
+4:  
+20
+
+40
+3
+
+4:5
+
+
+4 21
+3:  20 65
+5/4 
+6
+3 3 3
+3 4:
+3
+3.
+1
+3
+1
+2
+0 1
+3
+6. 
+1
+3 2 3
+0 3 3 and 10: 7 3 1
+3
+0
+0
+ 2
+3
+ 6 7, 2
+2: 3
+
+
+
+1 3. 0 treatment, diagn
+3:1
+0, 20
+
+
+201
+20 4 (14
+
+20:10
+ 
+14.
+
+0 12
+
+
+. 1
+ 2. 2
+3 months 202 2.
+
+3.
+
+14, 120.
+13.
+.
+1. In 3
+ date (. 0.
+1.
+
+ 5 2.
+
+20120.
+. 21
+ 20, a and 
+ and a. 112275 and 252 2,. An - The. This. 
+. 0.
+, and C. A. F (1 
+.F and M  for the for: for the with: a for the with,.  and the:
+18:21
+:9, :0. An.
+1,1 and M.., but,1., with,  with the in  for the. (01 2, or (d. An for date
+. in a,  or a with a (6 for the.1 in the   for the of a of  or the  for  in a, a. for  and the...2,  001. An. An of, 0 of 0 and a. 00 (0.2 a,0. 1. a11,1:1,.12,1 and the 0/110. An An,. An.10 (0 and.  0.., 1. [.2..0.9 a in.. and, the.1 and attery in the and.0  and. a. for the.. ( a.0 a for and (1.0 and in and [3.2..., with...... An. or. ( 1 or at and,.2, an-20 or. An [.. and,.  and.,2...1. of and.. of. of. and. and... with..  for 0. (. and a 0.0.12 for for . and "... An.101.. An An,9 and the. and. [.:  or,.: and (.,.  by., an: 0-  and. : C: An, in the: and a. : the. and, an -  in the An An R  An An An R [ for the  for [.. for [ 2 for for the [-1 for [2 for  for ( in  for  for ( ( an  for.,,  and. M:.::.,. ( for for with.. [ and ( and for ( an. [ -  An and for. An An An An An An An. anism- or or., [. in an, ( in. [ -   and. an. H...... H and,  - an-. or in.   and-0  with (.- ( -  0, and. An.  (.// H.  and.., [-. and in. [.. in.. and (,,, H [ and. 1 1 2.  -  -  H.  -. - [ H H and H. - C- in clin in in.,, m in and (. -. H, [ in and M 2 [  C and . (   H, and  C ( I of C I H S of   H I C I. H    and  I H12 M ( M, M 1 ( I    C1-  2 I. I. M 0 0   H H H  S H. H and M I H. H2 2 S S   S  I  C  I  S (  [ H ( S    H  C in 0  I-     -  I  I M  I  H H  of M  of I and I  H 1  -  C 2 of 1  H-   -  C  1 2 H1 -  1 - H 1   -  2  H: [020 2 and C1:  H  H 1  I 1  H/1    R  S a (  " C S C S       I I  M. T I I ( M. H 0 M M M C C m H  I H H. I. I. and M [ [1  and H. I H C  H S I H  H   I  I I of  of of  I   or. T  T of of  or or of A of [ T. of C . [  [ or [  H O A H P  H. H or   of I  or I    of. T I H C M C M   T (. M.. H L  H T H C  [ L. M  H... - Ex.,  Ex S // I. H.. I T. I S I L C A L. H M C I S H C H L C ( C H L  T A C [ A H M M... - L H ( L M H  H  H - C M I  H.  [/  of H   of M of of  of H of of of of Of Of Of. H C of of of CA C C of A M C of  of of M M M O C of of of C of of M C M C " M of of M A  M A H M C C C CL H M  F A  H C C  M M CL C C. M C C M m. of a of M and M CA C of M M M M M M  A  T T H of  C M M M and M of of M T T T of  of of A..  C C M/ M T  C/ M of of " M of  of of of  of M M  M M/ T of "  of, M M  of m M M of of M M T H A of CA M T M M M CA H M CA H M M S M M. H P IN  C I I M A M S G I of C I of of of of m of of M of M C M M of m of C of A M of M " M/ F- M M/ M F C C and., M M B H C/. 

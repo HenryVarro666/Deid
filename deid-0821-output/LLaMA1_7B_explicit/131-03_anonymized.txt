@@ -1,0 +1,358 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2096-06-07
+
+Chief Complaint	
+
+Admission note- Internal Medicine
+
+Kenneth Weeks- 1205466
+
+
+
+
+
+History of Present Illness	
+
+Mr. Weeks is a 78 yr. old male who was admitted for further cardiac testing.
+
+
+
+His PMH includes hypertension, hyperlipidemia, diabetes mellitus, atrial fibrillation and mitral regurgitation.  He has been experiencing increasing dyspnea with exertion over the past 5 weeks.  He has especially noted this when he climbs stairs or walking up an incline.  He also notes this SOB when he is walking the golf course. He denies any chest pain or orthopnea, although he states that he has been experiencing some "indigestion" the past few days.  It usually occurs in the morning. He was given sublingual nitroglycerin and notes improvement in his symptoms  His Lasix dose was increased on 4/3/96 (from 80 mg to 120 mg).  This increase did help his symptoms a little, but he still felt his exercise capacity had decreased.  
+
+
+
+An ECHO was done on 4/10 which was not significantly changed from 1/95.  His EF was 74%, mild MR, dilated LA, symmetric LV hypertrophy without any obvious segmental wall motion abnormalities and RVSP 43 mmHg.  
+
+
+
+A Sestamibi stress test was done on 5/19.  The patient exercised for 3 minutes 21 seconds reaching 84% of predicted HR.  His EKG had STD AVF, V4-V6.  The perfusion scans showed a moderate, reversible mid-distal anterior, septal and apical defect indicative of moderate ischemia.  LV function preserved.
+
+
+
+He was admitted electively today for further evaluation. He arrives to Internal Medicine chest pain free and hemodynamically stable.  
+
+
+
+Allergies	
+
+NKDA
+
+
+
+Past Medical History	
+
+Hypertension
+
+Hyperlipidemia
+
+Diabetes Mellitus - since 2070's
+
+Atrial Fibrillation - for 1 1/2 yrs- on chronic Coumadin- followed by FWO at VMC
+
+Gout
+
+Left Olecranon bursitis
+
+Umbilical hernia
+
+Benign Prostatic Hypertrophy- s/p TURP 3/86 at VMC (Fonseca)
+
+
+
+Family History	
+
+Mother: Died at age 89 - "old age"
+
+Father: Died at age 37 with Pneumonia
+
+Siblings: one brother with DM- s/p amputation for PVD
+
+
+
+Social History	
+
+Married- 4 children
+
+Lives with his wife
+
+Retired claims examiner
+
+
+
+
+
+Habits	
+
+ETOH:  None
+
+Tobacco: Quit in 2070's - smoked 1 ppd x 30 yrs
+
+Diet:  Poor diet habits
+
+Exercise: Last 5 wks minimal exercise due to DOE- prior to that walked 2 miles, 5x/week
+
+Caffeine: 2 cups of coffee/day
+
+
+
+Review of Systems	
+
+Neuro: No recent fever, chills, night sweats, unintentional weight loss/gain
+
+Neuro: + Labrinythitis- on Meclizine prn, No lightheadedness pre-syncope or syncope, No HA/Sz/CVA, No visual or speech changes
+
+Cardiac: see HPI, denies palpatations
+
+Endo: + diabetes, no thyroid disease
+
+Resp: see HPI, no SOB at rest, no orthopnea, PND, No COPD/asthma. 
+
+GI: No constipation. No BRBPR. No N/V/D. No hepatitis/jaundice/gall bladder disease. Last colonscopy 5 yrs ago
+
+Heme: + chronically low plts- no work-up done per pt, No bleeding problems, no clotting problems, no DVT/PE
+
+MS: + pedal edema, No claudication symptoms
+
+
+
+Physical Exam	
+
+Height: 5'9"
+
+Weight: 220 ;bs
+
+
+
+VS: afebrile  HR: 60 AF   BP: 130/70   
+
+
+
+General: well appearing male, sitting in bed, in NAD
+
+
+
+Neuro: alert, oriented x 3, speech clear and articulate, CN II-XII intact. Strength 5/5 BUE and BLE, No focal motor or sensory deficits
+
+
+
+Neck:supple, thyroid midline without nodularity, JVP flat, no HJR. Carotid pulses 2+, no bruits noted. No adenopathy appreciated.  
+
+
+
+Cor: Irreg, Irreg,  S1, S2, 2/6 systolic murmur at apex radiating to axilla,  PMI not displaced
+
+
+
+Resp: clear to auscultation bilaterally
+
+
+
+Abd: soft, non-tender, non-distended. No HSM/masses/bruits. Bowel sounds in all quads.
+
+
+
+Ext: Femoral arteries: 2+ bilaterally, no bruits.
+
+ Lower ext: warm, dry without edema
+
+ Pulses 2+ bilaterally
+
+
+
+Medications	
+
+At home:
+
+ECASA 81 mg QD
+
+Lisinopril 40 mg BID
+
+Norvasc 5 mg QD
+
+Avapro 300 mg QD
+
+Coumadin 5 mg QD- except Wednesday takes 7.5 mg
+
+Atenolol 25 mg BID
+
+Colchicine 0.6 mg prn
+
+Lipitor 20 mg QD
+
+Glipizide 10 mg QD
+
+Folgard 1 tablet QD
+
+Quinine 260 mg QHS
+
+Lasix 120 mg QD - recently increased
+
+NPH insulin 30 units SQ prior to breakfast
+
+Cardura 8 mg QD
+
+Proscar 5 mg QD
+
+Allopurinol 100 mg QD
+
+TNG prn sublingual 
+
+Meclizine prn dizziness
+
+
+
+Lab Test	
+
+Labs:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EKG:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Impression	
+
+Impression:  Mr. Weeks is a 78 yr old with PMH significant for HTN, hyperlipidemia, diabetes mellitus, MR and AF who is admitted for an elective cardiac catheterization.  He has been experiencing increasing DOE and had a + ETT.  His stress test showed anterior, septal and apical defect.  
+
+
+
+Plan:
+
+
+
+1. Cardiac:  Currently pain free and hemodynamically stable
+
+         -- Admit to Internal Medicine/telemetry
+
+         -- NPO after MN for cardiac cath in the am
+
+         -- Will begin ECASA
+
+         -- Continue Atenolol- pt. recently changed from Cardiazem to Atenolol given ETT results.  HR well controlled at present.
+
+         -- Continue Norvasc and Avapro- SBP currently well controlled. 
+
+         -- Pt euvolemic on exam- will continue Lasix - holding tomorrow pre-cath. Follow strict I/O's and daily weights- will adjust Lasix dose as needed depending on fluid status and renal function. 
+
+         -- Pt in AF- last Coumadin dose on Friday- will begin Heparin pre cath.  Will need to resume coumadin once all interventions completed.
+
+
+
+2. Renal: Pre cath creatinine 2.1.  Pt had renal angiogram in 4/95 which showed patent renal arteries.
+
+         -- Will give Mucomyst and NaHCO3 protocol pre cath.    
+
+         -- Monitor urine output.  
+
+         -- Follow renal function closely post dye load
+
+         -- Will hold ARB and diuretic pre- cath- will reassess post cath.
+
+
+
+3. DM: Long hx of DM- per pt. well controlled on present regimine
+
+Will continue NPH and Glipizide- holding in am of cath.  Will check fingersticks QID and cover with RISS.  Diabetic diet. Pt. also reports poor dietary compliance- will obtain nutrition consult.
+
+
+
+4. Thrombocytopenia: Pt with long history of low platelets- per pt. he has never had this worked up.  Will follow closely. ? need for hematology consult at some point- will discuss with Dr. Felder.  Watch CBC closely while on Heparin. 
+
+
+
+
+
+Further plans per Dr. Felder
+
+
+
+
+
+
+
+Florence Urquhart, APRN-BC
+
+32954
+
+
+
+
+
+
+
+
+
+
+
+
+names of 
+The following patient's, patient's 
+
+
+
+D.
+Prior.
+
+
+D.  or 
+
+D...
+
+A.
+or. 
+or...
+names
+names and the following and identify with the letter, the patient, and patient.
+1 patient
+the patient.
+
+and patient and patient of the [
+the patient.
+17 or 6 months of any.
+or the name, the past
+(s, 
+and, or the name, etc.
+name, 
+(s, and date...
+
+
+(indicate the name and were and are, and [and a...
+
+1 or a, and names and the names. 
+names, names, or, names. and last: the patient, the...and: and the following...
+
+andize with the last:
+use-
+: the words:, the…, a “
+[1...the patient.
+1: 10 are...: 3,... or 21 are or... 1 and [... 6 (
+the... [make of the, and...and (and, 3 (1: and the [1 and are (are, a "110...  and (and, a or: and,... 1 are, the and, the 10... and and... 2, and, and, and, and, [, [0 (... or, and, or, as, (1... or or, ([, or a, 9, the, and and the and, 1 and, (of are, and, are, as (and,  or, and " and the, and, and are, 1, the and the, 1 or [1: the, 4-and 1: a (1. 9 [1 "1: "…… " ( 2, anine,
+ 0 are, are,  of... of the... of a or " [[ " and the names, and (dink, 9, and of, 1. of the.  and, and. An An, (1. an and ( are the are, are the or, the, would of " ( and (an and " an, an-1. [, an, an [an and, an, 1 and an, and, an, an,  and the orian " and, " of, ( an,, an ( and,  of, and, the, an in a, in the,, and,, ( an, and of, An (, and of the, and the in the and, “, “an, (P ( ( an- an, 1 (: An An An (:: :-1-1 and-2- "- " and:,- an [ (: and:::: ": an: an- ( and- an "- ( or " and in the:, or or ( " and- ( and [ and- ( are or- "- [ or- an an of the an. of., an, and and and ( [, [ [ in in, ( (,,, and, and [ [. or, and ( an ( or- and, at an- (- an in,, an an in, an " an [ " and and- an an of the- " an (, in, in the an,, of- and of, of ( or-  or and "- and,,- or, and, (- and of  of and of  of, of “ and an (- or- " ( an and - " and- or- An of an of and an and  or or " or, ( in, an (  and, or of a, of  of an of the of, and or  and, - and- and (- " An C or- an ( - of - - or and or or- and- or - An An C An C An M, - and,  or and and or or,  " or and in and  and and- an or- or,, An of  or or or- or-  or-0- - an "  and  at ( C An and and, An of  and of of the, of an of a of the and of and- C of,,,,-c-  [- (, and,  and, ( [ - -  " -h,, and, ( -  ( -  and "- ( " [.-  ( and or ( ( -, or " ( and- or, or,  ( " - and- or or ( or- and [ in and ( and- C- -1 of  " and and-  (- - and " or " and and in and ": [ C and- C- or, C ( C and- or- C- and: (- and- and in and or. and in or- or- C and-  "- " and " and or or " and or or,, and of an-  of and, or or and.- and/- and  (  and and and and C,., - of of  " or of of the " of-  and- or  - and- 0-  and  and ( (- and and in,,,.  and  - or- - - and- [ and- [- -  - and of - " of " and- ( - ( - (- and and or C ( and, and and- and-1- -0 and (  and,, and, (- ( C- and and- and, and- ( and or and and with and and-1, C A - - and, or and- and or and and and and (1- and,, -0  C - ( or and- (,- C, and, and. and- and,, and- and and, and. and and,,- (,.- and, and.,., ( -, [,,, [ (,, (,, (,, (- in- C and/. of. and of./ M- 0 (-C- ( and, (., M, M of,,,,, and.,, L and and or in. ( - (., in ( ( and,,,./ or, or ( C- M- " C C L- and- M (- H and C ".- and,.-. C- and L ( C ( [ M, " and,, (,,. C.- or/- - -. - - 0- m, C- and (, ( and,, and ( or,,  ( and and- and (, and and-M-M M, M C M and,, C ( (,,/ and-  -, and - and- and,, and or ( ( and or and- and,, and -,  F and (,. 2 C C- and,, and M,, and - and -.,,/ and (/ F -1 " M-  and (.,, and or,. and,,.,,,

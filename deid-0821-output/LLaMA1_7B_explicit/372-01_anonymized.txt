@@ -1,0 +1,190 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2120-10-23
+
+Patient Name: FLAHERTY, XAVIER;  MRN: 1935081
+Dictated on: 10/23/2120 by ROSITA KO, M.D. 
+
+ 
+The patient is a 72-year-old male, paraplegic, referred for evaluation of recurrent bladder infections.  The patient has persistent presence of bacteria in his urine and there is a concern that he might have a persistent source of infection.  The patient denies fevers, chills, sweats, decrease in energy, loss of appetite, pain in the lower abdomen or penile discharge.  He reports there is some soreness around the meatus, which he attributes to self-catheterizing he is required to do 3 times a day.  He is well educated in terms of cleaning around the side and the appropriate way to do self-catheterization.   
+PAST MEDICAL HISTORY:  Diabetes, hypertension, paraplegia secondary to unclear disk problems in 2107, right hip ulcer with trochanteric osteomyelitis in December 2118, treated with Unasyn x6 weeks and debridement and surgical flap, sacral decubiti in 2119 treated with Unasyn x6 weeks, local debridement healing by secondary intention.  No history of kidney stones.   
+SOCIAL:  Ex-tobacco use 2-3 packs per day, quit 25 years. Alcohol prior heavy use, quit 25 years.  Lives alone.  Prior work included Heavy-Duty Equipment Mechanic, Ironworker, as well as Electric Appliance Servicer.  
+ 
+ALLERGIES:  No known drug allergies.  
+ 
+MEDICATIONS:  Blood pressure medication, name unknown. Metformin.  Note, patient had been on Bactrim prophylaxis over the spring.   
+PHYSICAL EXAMINATION:  Blood pressure 150/100, heart rate 100, temperature 97.9.  In general, vigorous, well-appearing man in wheelchair.  Awake and alert.  HEENT, sclerae anicteric.  Conjunctivae noninjected.  Neck supple.  No significant lymphadenopathy.  Chest, clear to auscultation bilaterally.  Cardiac, regular rate and rhythm.  No murmurs.  Abdomen benign.  Extremities, warm and well perfused.  No edema.  
+ 
+IMPRESSION:  Presence of bacteria in static urine within the bladder is not necessarily diagnostic as infection given patient's lack of symptoms and likely reflects colonization.   
+PLAN:  Would not treat patient with antibiotics unless he develops signs or symptoms of infection such as fevers, chills, sweats, elevated white blood cell count, pain in the suprapubic area or decreased energy.  
+ 
+_________________________ 
+Rosita Ko, M.D.  
+ 
+DD:10/23/2120 
+DT:10/24/2120 
+AO:29724     :0269
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+""")
+
+    assert len(clntext) == 39
+
+    clntext = clntext.replace("150/100", "150/94")
+
+    assert len(clntext) == 39
+
+    clntext = clntext.replace("12345", "012345")
+
+    assert len(clntext) == 39
+
+    # 1. Remove patient's info
+    clntext = clntext.replace("1935081", "937852")
+
+    assert len(clntext) == 39
+
+    clntext = clntext.replace("XAVIER;  MRN", "MRN 937852 XAVIER")
+
+    assert len(clntext) == 39
+
+    clntext = clntext.replace("10/23/2120 by", "10/23/2120")
+
+    assert len(clntext) == 39
+
+    clntext = clntext.replace("MRN", "MRN-XAVIER")
+
+    assert len(clntext) == 39
+
+    clntext = clntext.replace("Rosita Ko, M.D.", "Rosita Ko, M.D. (2120-10-23)")
+
+    assert len(clntext) == 39
+
+    clntext = clntext.replace("Dr.", "Dr. (2120-10-23)")
+
+    assert len(clntext) == 39
+
+    clntext = clntext.replace("DR.", "DR. (2120-10-23)")
+
+    assert len(clntext) == 39
+
+    clntext = clntext.replace("10/23/2120", "10/23/2105")
+
+    assert len(clntext) == 39
+
+    clntext = clntext.replace("2020.10.23 10:23:12", "2015.01.01 01:01:12")
+
+    assert len(clntext) == 39
+
+    clntext = clntext.replace("2020-10-23 10:23", "2015-01-01 01:00")
+
+    assert len(clntext) == 39
+
+    # 3. Remove patient's age
+    clntext = clntext.replace("72", "37")
+
+    assert len(clntext) == 39
+
+    clntext = clntext.replace("72-year-old", "37-year-old")
+
+    assert len(clntext) == 39
+
+    clntext = clntext.replace("72 yrs.", "37 yrs.")
+
+    assert len(clntext) == 39
+
+    clntext = clntext.replace("72 years old", "37 years old")
+
+    assert len(clntext) == 39
+
+    clntext = clntext.replace("72-year-old man", "37-year-old man")
+
+    assert len(clntext) == 39
+
+    clntext = clntext.replace("72-year-old male", "37-year-old male")
+
+    assert len(clntext) == 39
+
+    clntext = clntext.replace("72 years old male", "37 years old male")
+
+    assert len(clntext) == 39
+
+    # 4. Remove patient's sex, age and gender
+    patient_age = str(37)
+    clntext = clntext.replace("72-year-old male", "#patient_sex#72-year-old male#patient_sex#  #patient_age#patient_age#gender")
+
+    assert len(clntext) == 39
+
+    clntext = clntext.replace("72-year-old male", "#patient_sex#72-year-old male#patient_sex#   #patient_age#patient_age#gender")
+
+    assert len(clntext) == 39
+
+    clntext = clntext.replace("72 years old male", "#patient_sex#72 years old male#patient_sex#   #patient_age#patient_age#gender")
+
+    assert len(clntext) == 39
+
+    clntext = clntext.replace("72-year-old male", "#patient_sex#72-year-old male#patient_sex#   #patient_age#patient_age#gender")
+
+    assert len(clntext) == 39
+
+    clntext = clntext.replace("72-year-old male", "#patient_sex#72-year-old male#patient_sex#   #patient_age#patient_age#patient_gender#")
+
+    assert len(clntext) == 39
+
+    clntext = clntext.replace(" 72-year-old male", "#patient_sex# 72-year-old male")
+
+    clntext = clntext.replace("#patient_sex# 72-year-old male", "#patient_sex#patient_sex#
+        patient name of patient, name, email, date, name
+       , name, age
+
+        date,
+    age or  patient 
+
+      name
+    name spaces,
+
+patient name of space, spaces, name or name.     spacespace, spaces and spaces
+patients spaces
+date spaces, spaces spaces, spaces spaces spaces spaces
+space name, spaces spaces, spaces spaces spaces spaces, spaces spaces spaces spaces spaces spaces,
+spaces spaces spaces spaces spaces spaces, spaces spaces spaces spaces
+spaces, date spaces space spaces spaces spaces spaces, spaces spaces spaces spaces spaces dates spaces dates, spaces, spaces, space.
+spaces spaces spaces spaces space spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces. spaces and spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces names spaces spaces spaces space spaces spaces spaces spaces spaces spaces, spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces space spaces spaces spaces spaces spaces spaces spaces spaces space with the letter and space spaces, patient spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces
+specific names spaces spaces spaces spaces spaces space spaces space spaces spaces spaces. space space names spaces spaces spaces the name names spaces spaces spaces spaces names and  [the, spaces names, names and the names, and spaces,...  and... [...
+specifically... or are or the or... and the names of [... or the names (pat and the space code and, and the patientized names of spaces... and any of 12. and...: 
+1:
+1….
+
+... names, and names and: names and:
+name and, and the... or...
+1… (are (...
+
+1 or are a…... (…: (the “… (11...
+are are names:
+
+1, 
+(the and 11 of the (d, the, or the... (the [the (d (...
+... “make, the [... and “[1 and the…
+
+
+ 4... (
+…, and…, the...
+..., 1...
+and (… (and, 0, 
+in and a, and, and, or... 6, and 6, the, the, the, as (the in the, and, [0, the, are, or, 1 and, and, and (and, and and, and are, the (the, the ( 1 of "of the, "and “and and the and:: and-...: 6 and the 51: "1 “an …. and (2. 0 are. are (f are [20, 1 of the… of  orine (1 or by a,... and, the, aniz,
+le.
+., [. of a of the, and ( (and, and the, and, an, a, an, the 221, the, an "ann, or (1, an, an and, 9,
+and,
+and and  and, anities, and, an, 1, and " an in  and a and or, an and, and of a, a, of and of the, and, 2, An and in the, and (1, "1, an, and of an, an and, 6-1-an, 9, An, the, 10, an, An1:,, An-10-and, "1 and  and::-the-the-le and: an,: (and- -and an: - 1-1-2-d " with the or a- an or: and: and an or an-an-  and an " an.,- an and and of the- ( and an and-and.,, " and and [ and, [-1- and - and ( or and  and- or of -1- [, " and and- are or [ and-  and  are and an, - -in (-  and or,-1-1-0,  and,  or of the of  of,-  an 0, an,, and-1,,,,,, of ( of an and of and of an or and, and, and-, ( or  in,,  of a of an ( or an- or - an-  and,,, an and or- - of, of and of  of the an  and by, or and  and - and- and  or and or of  of a of (  (-  or- an- - - -  of a,, an and-  of  (,,, and and-  or and or,,, or in or in, or, of - - or or or-0- or- or-  and-  ( - an ( an, or, of a of, of  of-  of  of the of the, and, and to,, -  and (- - and-, - - - - - - or-  and-  and of  and to- - to,-  or- - - - C  or- and-  and or [- or or,- -  in - -  in an- - or " c- an- 1 or of- c- and- and and or- and and or and- c- or- and of or - and and- or and- - and- "- and- or - ( or or and and-  “- and and-  and-1- - or and  and,  - - and- " of- ( or of an (,, or- (,, or - - and or, and - C- or of- of of   or of and- and- - -2- and-- ( and-  or- or  or,  or "-  and  "  and  or- and to-  and- and - [, and- of  of ( or of of-, and an--  ( or  or - to, - -1- an- and- an  and and - and- or- and  an-  an or  (  and and and- and or ( and c- and-,-,,- and and  " an-  ( -,   an,,-  or, and  - or-   (  (- and (, - c ( and and ( - and to,,, c, -,,  ( and and,,    ,, and  and,,   and,  and    , -  to -   or. - or,,,  n,,, ( of,,,,  to-  and  ( and or  and -,-  and,  to and  to to to to to  to to- to and to and to-  (-- - and c and- (   and (- c- and -  to  or  (   or (  ", - an   and  and  -  , t and,  and  and and, ( c and ( ( and and   to,  to (   or,.  to to  to  to to  to  to  to-2 to to to to to to to to to- to to to - and or as and to-1 c and to, and,, (  to to and to and to to to,, to and,    or1  0  and  to ( to  ( 1 c or (  and (, and and,  and per

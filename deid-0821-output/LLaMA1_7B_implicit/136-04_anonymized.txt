@@ -1,0 +1,570 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2081-06-24
+
+Dunn County Associates 
+Internal Medicine Admission Note
+
+
+
+Patient: Fonseca, Linda
+
+DCA MRN: 7090253
+
+Date of Admission to Internal Medicine: 06/24/81 
+
+Attending: Dr A Jaeger
+
+PCP: same
+
+Code Status: Full code
+
+
+
+CC: abdominal pain
+
+
+
+Source: electronic records, patient
+
+
+
+HPI: 
+
+Mr Fonseca is a 64 yo F h/o breast cancer, insulin-requiring DM2, lupus, anxiety who is p/w 10 days of diarrhea, N/V and anorexia. Pt had originally presented to the DCA ED on 06/15/81 with 2 days of profuse watery diarrhea; treated with IVF and discharged. No fevers or chills at that time. Reports that she felt better, and experienced complete resolution of her diarrhea. Over the next week, pt had anorexia, and was able to tolerate soups and clears. 2 days prior to this current admission, pt had recurrence of her watery profuse diarrhea.  She endorses increased frequency (almost q1h diarrhea) that does not seem correlated with food intake. Wakes her at night.  Recently has been associated with worsening epigastric and LUQ tenderness. On the day of admission, pt had 3 episodes of non-bloody, non-bilious emesis. She denies dysentery, BRBPR, or melena. Denies ingestion of raw or undercooked foods.
+
+
+
+Pt presented to the DCA ED again,  vitals 97, 85, 109/57, 99%ra. Given 1L NS, D51/2 NS at 125cc/hr, levofloxacin 250 mg PO x1 for white blood cells in urine, and zofran.  Admitted to Internal Medicine for further management.
+
+
+
+Review of Systems:
+
+(+) fatigue, now x 1 year
+
+Denies visual disturbance, headaches
+
+Denies dysphagia, odynophagia, or oral ulcers
+
+Denies chest discomfort, palpitations, shortness of breath, DOE. 
+
+(+) abd pain, N/V, diarrhea as above. 
+
+Denies melena/hematochezia. 
+
+Denies dysuria, urethral discharge or increased urinary frequency
+
+Denies rashes, photosensitivity
+
+(+) intermittent chronic joint tenderness (hand, fingers, wrists, back)
+
+
+
+Past Medical/Surgical History:
+
+Lupus; (+) ANA, dsdna, smith; f/b Dr Merritt
+
+Breast ca s/p bilateral mastectomies w/positive nodes; f/b Dr Land
+
+Depression and anxiety
+
+DM2; insulin-requiring, well controlled A1c 6.9% (2/81), malb 11 (2/81)
+
+Hyperlipidemia
+
+h/o back pain
+
+h/o ear infection s/p Augmentin 
+
+
+
+Home medications (confirmed with patient):
+
+Asa 81 MG PO QD 
+
+Clonazepam 1MG PO BID PRN
+
+Effexor (VENLAFAXINE HCL) 150MG (75MG TABLET ) PO BID
+
+Humulin N 40 qAM / 22 qPM
+
+Humulin R (INSULIN REGULAR HUMAN) Variable (100 U/ML VIAL ML) SC 
+
+Hydroxychloroquine 200 MG PO QD 
+
+Letrozole 2.5 MG PO QD 
+
+Prilosec 20 MG PO BID 
+
+Simvastatin 40 MG PO QHS 
+
+Topamax 100 MG qAM / 50 MG aPM 
+
+
+
+Allergies: 
+
+Tricyclic Antidepressants - cough, 
+
+Sulfa - Rash, 
+
+EZETIMIBE - lethargy, GI Intolerance
+
+
+
+Family History (from PCP note and patient):
+
+Mom: stroke, CAD, leukemia, ms
+
+Dad: breast cancer, CAD, DM, stroke, leukemia, ms
+
+Siblings: thyroid cancer
+
+
+
+Social History:
+
+Lives with mother and cousin in house in 3 family house. No pets, or recent travel. Not married. 
+
+
+
+Tobacco: active smoker, &#189;  to 2 ppd &gt;50yrs. Not interested in quitting at this time. Does not want a nicotine patch.
+
+Etoh: denies
+
+Illicits: denies 
+
+
+
+Physical examinations:
+
+Gen: pleasant, smiling, coomfortable
+
+Vitals: 97, 81, 128/56, 97%ra
+
+HEENT: anicteric, MMdry
+
+Cor: regular, no murmurs or rubs
+
+Lungs: CTAB w/mild rhonci in lower fields, no wheezing or crackles
+
+Abd: soft, mildly distended, mild epigastric/LUQ pain, no HSM, hypoactive BS
+
+Ext: stable joint tenderness over wrists, fingers, knees, ankles. Joints do not exhibit erythema, warmth or ballotable fluid. 
+
+
+
+Labs:
+
+Na 141, K 3.7, Cl 105, CO2 22.5 BUN 17, Cr 1.13, glu 205
+
+Ca 9.3, alb 4.1, glob 3.8, amy 90, lipase 103
+
+ALT 24, AST 24, AP 115, TB 0.3, DB 0.1
+
+
+
+INR 1.0
+
+TSH 1.28, FT4 1.0
+
+UA: clear, trace ketone, &gt;1.030, gluc neg, 1+ prot, Hcasts neg, 1+ WBC
+
+
+
+WBC 15.1, HCT 43.6, PLT 211
+
+P  74%, L 11%, M 4%, Bands 10%
+
+
+
+CXR- no acute process, clear lungs
+
+ECG- NSR 80, nl axis, nRWP, no concerning STTW changes
+
+
+
+Assessment:
+
+64 yo F h/o breast cancer, insulin-requiring DM2, lupus, anxiety who is p/w 10 days of recurrent diarrhea, N/V, bandemia and anorexia consistent with infectious etiology. Interestingly, pt also has an elevated lipase, alk phos and some mild epigastric tenderness that suggest a mild pancreatitis. Distended abdomen c/f third-spaced fluid.
+
+
+
+Plan:
+
+
+
+Diarrhea
+
+&#183;         Follow-up stool cultures
+
+&#183;         Support with IV fluids
+
+&#183;         Consider CT scan if w/u is negative
+
+
+
+Pancreatitis
+
+&#183;         Bowel rest, NPO
+
+&#183;         Aggressive IVF w/D5NS x 2 liters
+
+&#183;         Pain control with morphine prn (but discomfort is very mild)
+
+&#183;         Check RUQ US to assess for gallbladder/pancreatic pathology
+
+
+
+DM2
+
+&#183;         &#189; dose insulin while NPO
+
+&#183;         RISS
+
+&#183;         Consider adding very low dose ACE I after diarrhea resolves
+
+
+
+UTI: no sx or indication for abx. Will hold on abx, and check urine culture
+
+SLE: will cont plaquenil. Appears to be clinically mild, no evidence of flare. ?etiology of chronic fatigue
+
+Depression/anxiety, breast ca: cont home medications
+
+PPX. Lovenox, PPI (reflux)
+
+FEN. NPO. D5NS 150 cc/h x 2 liters
+
+CODE: Full code 
+
+
+
+Case discussed with Dr Ritter, coverage for Dr A Jaeger, Medicine Attending.
+
+
+
+_________________________
+
+Virginia N Volk, MD, PhD
+
+PGY-3 Internal Medicine, DCA
+
+Pager 48249
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aged
+
+
+
+
+
+
+
+
+15.
+
+
+
+
+
+
+
+
+
+J
+
+
+July
+14 
+ 1
+
+
+20
+1
+
+
+
+
+
+
+
+
+
+
+
+A
+
+
+Dr
+
+
+
+Dr
+
+J (Dr
+April
+July 040
+ 00
+154. The (1.
+
+ 42
+ 003
+D 040 6 
+
+.
+
+
+ 4
+
+
+
+10151 0
+10
+M, An.
+1702.
+
+ 1
+0 (201 day:
+Date.
+. An
+1500. 0
+24
+120310
+A date: 0: date.
+ :  date:, and:120. 11 day.1
+.
+
+10 and: 8,  ( 211:A, 21211:4: 2:
+:A,1000. :00:131001. Date: 1, 00:20 ( 20:0:190:0,090:0110, 1 (3:  Anific
+ An: Anifier An: An:1: : An: An:  Anify: An:2 Aniff:100:2 An: C An An An An: Anition: An An An10215227203 An Anicular Anient: Anistic-1 An000020000010,0210 and An and and,0 and/6, :4- 10, 18-70000/11 An, 112 (80,3 An11 An0 An Cision ( Cistrist Anicular Anifer/02 Anistr 8 An An2 An1 An0 An70 An0 An An An An An An Anient Anister C0 An0000,01000200 Anist An An An An An An An An C An0 Anistic An An An00 An An An0 An An An C C,1-An An Anina An2010 An Anine An An21 An2 An10, Anist An1 An1 (0 Anine An, Anics,101000110513101,1001 020 and000 and and2010 (0 Anistic 61 An0 Anist [2 and1 in.01: An1 An An and C1, [1:  An An: Anina-1 (: An: : An An. C Anist [2 (0-0: M2 ( (- An: 0 (0: I-  An ( An An An10 and and An An An An11112 (: 1 [1 An ( [2: I An An0-  An10 I: M ( An An: I: I An:2 and and:  [11-1 and:0-10 I1,-00 an [ I An I An An An I: M21-2 An-1 An An An0 An I An M I10 M I I001-11 An An0100 (0000-001- M H2-2 M1110210-2 I0 in -0-0 to with Mist C to M1 with I with M1- P [ with- B0 and with [0 with (01 of- I of of of I H0 for0 [10000 [00-1 I ( L (0-M (0-1 ( H-M0 M0-m and ( and and,1, M-1 in M "0 " H M M MD I and M2- I-2 H1 M I- H C I- M C I F I H1 I H0 I10 and ( -0 M and, M and M and, and (, I- H I of M of M1 C I-1 I C1 to1-001- of of of of of I H of I H1 of of of H and of and and M and and I to to M I with and,1 to I,1 and,,2 to in to: to and1, -, to0- M0 of H0-0 of the -2- H of of0 of a in00 cm00 [ hr in a-0 and-0 I  [1-01:1-0 H-0:: M C H I M ( I: M: I M ( B1 H C- O of H and:. - I- O and C0 H-0 B N to  A ( to- 1 I to  I C1 C H B of [ to I B to to R to to to of- of ( H of of of of R ( of H of of of of of of R of H (- C to to B0 of0 of  B1 ( C B C H0 to-2 to and of / B I I of  B of of  of of  M ( C [ I [ H1 R (0 of R0 of I H of C I of H10 of of of of of of C211 H0-  of  C of R of H 0 H-  R- M1-1 C H - P of P of ( H of C0 of T T of  T-0-  of  H P0 I H of C H B10 B to ( I- H of C H C- H O of C of  C C C- R ( P- C R. I C H and ( C of M. C, and, H  or. H, ( T H H (. to B to to B- I C  of C of R  and /  and  I and B  and, I ( C of  H C of ( of C H C ( B C H B C.  B. H of of. I B. S of  of C- H and C. H of of 0 H T H. H. C H- T of N T-  M of of I of I  or C  or-1- -  M and  M ( and-1 of of and M1-  of. of of of of/ B of of of I/ of  of  of  of I C /   H I T. -t -1  T-  C/ - C of C of  (0 of of2 of 2  of  of C  or a T of  C H of of of (  C of of C and of A and C0 ( H R B  C of T  B I  C of of of of of of  of   ( of R of or C (  of of of of  M of of R M of MC of  of of of of a of of of of  C (/ C ( of  of of M of

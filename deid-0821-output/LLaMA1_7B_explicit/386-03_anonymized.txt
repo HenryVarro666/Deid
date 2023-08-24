@@ -1,0 +1,357 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2087-06-16
+
+Chief Complaint	
+
+Mrs Chapman  is here today to follow up on HTN, DM 
+
+
+
+History of Present Illness	
+
+I saw her 2/24/87 for HTN and DM. BP was high and increased Lisinopril to 20 mg QD
+
+Restarted Lipitpr but she still is not taking it. The pharmacy didn't give it to her. Her LDL is 116 ono 2/87 and has DM, goal <100.
+
+Feels well. 
+
+Had an ETT MIBI few weeks ago and no evidence of ischemia.
+
+Denies CP, SOB, palpitations
+
+Started walking daily around Woodstown about 3.5 miles and has lost 7 pounds since I saw her. Also eating more vegetables and fruits and less carbohydrates.
+
+
+
+Third, she had a renal U/S done for hematuria and showed small left renal mass. Had a CT scan later that showed the same and recommended an MRI. She had it done few 9/86. Recommended to repeat it soon. Left lower pole renal lesion with MRI signal characteristics consistent with a cystic, septated, unenhancing renal lesion or bosniak grade 2. However, when compared to prior CT examination demonstrating late filling of this lesion, follow up is warranted to exclude a cystic renal neoplasm making this an overall bosniak grade 2F. 
+
+
+
+
+
+Review of Systems	
+
+C/P: Denies PND, orthopnea. Leg swelling after walking around the pond
+
+General: Denies fever, chills
+
+HEENT : No cold sx
+
+GI : Denies nausea, vomiting, diarrhea. 
+
+Psych: follow with therapist and psychiatry. Taking all her psych meds
+
+GU: Denies dysuria, polyuria
+
+Neuro: denies
+
+Skin : denies
+
+All other systems negative
+
+
+
+
+
+Problems
+
+ASTHMA 
+
+HYPERTENSION 
+
+INSOMNIA 
+
+SCHIZOPHRENIA 
+
+DIABETES MELLITUS 
+
+10/08/85 R breast u/s with likely lipoma and simple cyst at 8 o'clock, repeat u/s in 6 months and mammography in 01/2086 
+
+Renal mass 
+
+OBESITY : Type 3 - BMI 44 
+
+
+
+	      
+
+Allergies	    
+
+NKDA	 NONE
+
+
+
+Medications
+
+Paxil 40 MG PO QHS 
+
+Ntg 1/150 (NITROGLYCERIN 1/150 (0.4 MG)) 1 TAB SL Not taking it
+
+Ativan (LORAZEPAM) 1MG TABLET take 1 Tablet(s) PO 
+
+Ventolin 2 PUFF INH QID PRN Shortness of breath , PRNNot taking it
+
+Vanceril 2 PUFFS INH BID Not taking it
+
+Rhinocort AQUA (BUDESONIDE NASAL INHALER) 2 SPRAY NAS qd Not taking it
+
+Zyprexa (OLANZAPINE) 7.5MG TABLET take 1 Tablet(s) PO QHS 
+
+Serzone (NEFAZODONE) 100MG TABLET take 1 Tablet(s) PO QHS 
+
+Calcium CARBONATE 1250 MG (1.25G TABLET ) PO QD 
+
+Multivitamins 1 CAPSULE PO QD Not taking it
+
+Ecasa (ASPIRIN ENTERIC COATED) 325MG TABLET EC take 1 Tablet(s) PO QD 
+
+Metformin 500MG TABLET take 1 Tablet(s) PO BID 
+
+Lisinopril 20MG TABLET take 1 PO QD 
+
+Atenolol 50MG TABLET take 1 PO QD 
+
+Lipitor (ATORVASTATIN) 10MG TABLET take 1 Tablet(s) PO QD Not taking it
+
+
+
+
+
+Vital signs
+
+BP 128/88, P 76, RR 14, Ht 61.5 in, Wt 224 lb 
+
+
+
+
+
+Physical Exam	
+
+Alert, in no distress obese
+
+HEENT : oral mucosa moist, no lesions, Throat: clear, no plaques, exudates or erythema.
+
+Neck : supple, no masses or nodes, no JVD.
+
+Lungs: clear anteriorly and posteriroly to auscultation, no rhonchi, crackles or wheezes
+
+Heart: regular,. S1S2 normal, no S3 or murmurs
+
+Abdomen: soft, no tenderness, no masses no organomegalies BS(+), no rebound
+
+Ext: no edema, normal skin
+
+Feet exam: normal skin, no lesions, normal DP, good capillary filling, thick toenails, microfilament test normal
+
+
+
+Assessment/Plan	
+
+1.  HYPERTENSION
+
+Borderline controlled on current therapy
+
+Will increase Atenolol to 100 mg QD # 30 
+
+Increase Lisinopril to 40 mg QD # 30 and 6 refills
+
+Low salt diet
+
+See me in 12 weeks
+
+Congratulated her for exercise and weigth loss
+
+
+
+2. CHEST PAIN
+
+Asymptomatic for weeks
+
+Negative ETT MIBI
+
+Needs to take ASA QD
+
+Already on BBlockers, ASA
+
+
+
+3. DIABETES MELLITUS
+
+On Metformin 500 mg  BID # 60 and 6 refills
+
+Recomm low fat and low carb diet and increase physical activity, return to walking QD
+
+Wil check HbA1C and glucose 
+
+Restart Lipitor 10 mg QHS # 30 and 6 refills
+
+LDL goal <100
+
+Chedck Lipid profile 
+
+
+
+4. ASTHMA
+
+Stable for months 
+
+
+
+5. RENAL MASS
+
+Needs to repeat MRI soon. Will schedule
+
+
+
+6.SCHIZOPHRENIA
+
+Follow up with Psych
+
+
+
+See me in 12 weeks
+
+
+
+
+
+
+
+
+
+
+7. HYPERTENSION
+
+Asymptomatic for months
+
+BPM 78/76, P 76, RR 14, Ht 61.5 in, Wt 224 lb
+
+
+
+
+8. INSOMNIA 
+
+Will increase Hydrocodone  to 15 MG QHS #30
+
+
+
+
+9,10. SCHIZOPHRENIA 
+
+Follow up with Psych
+
+
+
+
+11. DIABETES MELLITUS
+
+Blood glucose 90 mg/dL and HbA1C 6.2%
+
+Will restart Lipitor 10 mg PO QD # 30 and 6 refills
+
+LDL goal <100
+
+Chedck Lipid profile
+
+
+
+12. ASTHMA
+
+Follow up with Respiratory
+
+
+
+13. RENAL MASS
+
+Needs to repeat MRI soon. Will schedule
+
+14. SCHIZOPHRENIA
+
+Follow up with Psych
+
+
+
+
+15. INSOMNIA 
+
+Will increase Hydrocodone  to 15 MG QHS #30
+
+
+
+
+16. DIABETES MELLITUS
+
+HbA1C 5.8%, LDL goal 100
+
+Will restart Insulin 10U BID # 60 and 6 refills
+
+
+10U is 2 units of Lantus 100 units/day
+
+Will increase Metformin 500 mg PO BID
+
+
+
+
+
+17. ASTHMA 
+
+Follow up with Respiratory
+
+
+
+18. RENAL MASS 
+
+Needs to repeat MRI soon
+
+19. SCHIZOPHRENIA 
+
+Follow up with Psych
+
+20. INSOMNIA 
+
+Follow up with Respiratory
+
+21. DIABETES MELLITUS 
+
+22. RENAL MRISTER, 23. 24. 22.
+25.
+26.28. 29. 29. 229 29. 
+. 29. 5. 29. 23. 
+29. 23. 24..
+24. 24.
+3. 2. 3. 23. 3. 1. 3. 2. 2. 3. 2. 2. 2. 2.
+2.1. 2.2.
+2. 2. 3. 1. 2. 2.
+. or 24.1
+2.
+
+2.
+and 9.2,..2.
+names, 2. 2. 3. 2. 2.1. 3. 2. 2. 23.1. 10
+.
+1...2. 2 or name codes, name 5 line and doctors 8 and 3 patient names:
+The names 
+10 or 10.
+1. A patient 2. 
+(4 and any 13, 2 
+2, and 1, names, and, 12, 6 and, 2. and 
+
+1. 1.
+...  are [are, but, and 5 or or... 25 and the patient, 0s 
+[1.
+
+1, as well. 10, the patient- 2...
+
+...1. 1: (you: 1, and names of:, the “(
+[1: 1 are 1,... are: 12 are... 1 and  or...
+
+[......
+are and are: the (the,...the, "1: (orize the and [... [the... (make and the, 0 and a, "you 0, a "and or...1-and, the...
+1 are,...
+are 1, and,......
+and:...... and " [and, the are (1, and, but, [...,, and, and,... and, the or and, or, [and, an, 3, or the... [1, the were 3 of "1 and are, are, and and, a, and would are, and the, and are and, “ of “[: the, the, [your (get, " and 1, [take-1. 1 and [… 0: 2 and.
+1 and, [are or are are- 0 are,... of 3 of... of  or by the  " or (1, the, the, an, or, [. (. of “.. and, and, and, and, and, and, are, 1 are anise would, [1 or are in the,, and and by the, ( an 1, 1 and, an, an, 3, 1,  and, 1, an, an [1, or in  or [10 (0, or and, 0 and and and, 1 and, 2-in, 1, and and, 9 and (and, and  and and " ( on  " 0, 1, the. 4 and- 1 and of an of an ( [ and for: and and " ( " [: " : An An: and:,  in - an and and... ": : " an ( or an-  or [ an in an  (: an :  of the [ ( or [  are in an and " [ an -le  [. An. of and of ".  ". and and [, and [ in the, ( ( and [. [, ( or [ ( [ [ [ and ( and in or ( and " [ or and or ( and  (, (,, [ or and An An and ( " ( An An An -, or-  an or of an, and or, and or an, of the of an and of the or,  (, an or, and and, [ (- and,, and or and of an " of,  ". ", are ( on are ( in and- ( or and of or of or or or- and, An or or,, [,  ( or- ( and and, of, or of,, and of the  and,, an an [ -  in and- or or and or an of an or in and of the of ( of and " of-  An  or, [, - or an and ( and ( and of and or [ or and and ority,, An ( and., and - or or and, " or ( or  or and of ( of  or (0-1 and, - of and-  or (, (  are of, (, ( of the of of, of an of and of the and. ( an and,  or and, and -  and and  and    (,, 0 - ( ( and in [- ( and and  of and  or " C and and,  [ - and and and [ and- and and or  -  An An ( or  or or-   (  An  or or   and (  - C, - and or and - C  ( of  C and  and  and and c and and -  and -- C An ( and " and: c and c - ( C and - and - : or  ( C and and ( and C- and-  of of or  or and  ( and  C " ( or and or ( ( and  of, of and, or or of  C and (,, or. and ( for, and, and (    of (- of C of and of of and,. and  C  (,. ( , and and, and  and - C      and   C of [,,   ( and or C   (  C  (  of    (  C   -  - and   or ( and and,  of  ( , [ B   and and  C and   or  ( or,  ( and and and  and or,  (  and or and C (  and C,,  or  ( [ and and C (. A, (  C ( ( and-   ( or ,, and  -  and,.,,, to (,, and, (,, (  and, and,,, (, and and , and   or, , and, (, and and, ( and and,,    C  of   and of  [.  W [ L,.  and C ( (,,, N, and.  [.  and and in ( and. and, (,  ( or and, A (  / C and.	 ( (  and  and ( C,  and I [ and and  C ( and (. C (, and   C ( -  [ ( and C and and and  [,   and of of of ( of of of a of, C and, and and - ( and, , C and and and,, and  and (, N  and, and (, and, or and C H, C  of A,, and and , B and  and a and and.  or in and,,, and and,,,, C and and and. and, and and and and and, C and and. and and and, of and of and of  of of, of of of of and of and I of. M., and, I,, and,, (

@@ -1,0 +1,320 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2069-07-18
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+July 18, 2069
+
+ 
+
+ 
+
+ 
+
+Vester Light, M.D.
+
+Internal Medicine
+
+Barton Memorial Hospital
+
+ 
+
+RE:  Jennifer Vance
+
+     MR #542-66-00-3
+
+ 
+
+Dear Vester:
+
+ 
+
+Mrs. Vance presents to the office today for general cardiac
+
+evaluation.  As her history is well known to you, I will repeat it
+
+briefly for our records.  Mrs. Vance is a 47-year-old woman with
+
+a history of variegata porphyria, insulin dependent diabetes and
+
+significant coronary artery disease.  In 2061, after a four to five
+
+day history of retrosternal chest discomfort, she was admitted to
+
+the Barton Memorial Hospital where coronary angiography
+
+revealed a 95% proximal left anterior descending artery stenosis. 
+
+She underwent balloon angioplasty of her LAD times two with
+
+inadequate results.  She therefore was taken electively for
+
+coronary artery bypass graft surgery with placement of a left
+
+internal mammary artery to her LAD.  She subsequently continued to
+
+have chest discomfort and underwent repeat cardiac catheterization
+
+in May of 2063 at which time coronary angiography revealed a 60%
+
+stenosis in the proximal left anterior descending artery and a 50%
+
+stenosis in the mid right coronary artery.  The catheterization
+
+report does not indicate the status of her left internal mammary
+
+artery graft.  Since then, she has continued to have episodes of
+
+intermittent abdominal discomfort.  She recently has undergone an
+
+extensive evaluation by the gastroenterology service for her
+
+abdominal pain without specific pathology being discovered.  Trials
+
+of H2 blockers and proton pump inhibitors have been ineffective. 
+
+In November of 2068, she underwent a Bruce protocol stress test
+
+exercising for eight minutes to a peak heart rate of 131, peak
+
+blood pressure of 188/82 stopping because of fatigue.  She had no
+
+ischemic changes on electrocardiogram.  Over the past two weeks
+
+however, she has noticed that her chronic abdominal pain syndrome
+
+(which she often describes as feeling like indigestion) now
+
+includes radiation to her left shoulder.  The pain is not
+
+exacerbated by position, time of day or any particular activity. 
+
+The pain does not awaken her from sleep nor does it occur at rest. 
+
+Of note, her lipid profile from October 2068 indicates a
+
+cholesterol of 229, triglyceride of 68, HDL 51, LDL of 164.  Vance, Jennifer
+
+MR #542-66-00-3                    -2-            July 18, 2069
+
+ 
+
+Past medical history is notable for variegata porphyria, insulin
+
+dependent diabetes, right hand carpal tunnel syndrome, Dupuytren's
+
+contracture and tendinitis and hypertension.
+
+ 
+
+Medications at Present:  Enteric coated aspirin one tab po q.d.,
+
+NPH insulin 25 units sub q qAM, CZI 10 units sub q qAM.
+
+ 
+
+Allergies:  None.
+
+ 
+
+Cigarettes - none.  Ethanol - social.
+
+ 
+
+Family history is notable for her father dying from carcinoma,
+
+mother dying of colon cancer, question coronary disease, one
+
+brother having a myocardial infarction at age 25, another brother
+
+dying from melanoma age 36.  The rest of her siblings and children
+
+have not heart disease.
+
+ 
+
+Physical exam reveals a delightful woman in no acute distress. 
+
+Blood pressure right arm sitting 110/64, heart rate 85 and regular,
+
+respirations 12 and unlabored, weight 104 pounds.  The neck is
+
+supple.  JVP flat.  Carotids are 2+ with bilateral soft right
+
+greater than left bruits.  Chest is clear.  Cardiac exam shows a
+
+normal S1, physiologically split S2 and a I/VI systolic ejection
+
+murmur radiating from the apex to the base, no significant
+
+diastolic murmur.  The abdomen is benign.  Extremities reveal no
+
+appreciable edema.  Peripheral pulses are intact.  
+
+ 
+
+Electrocardiogram shows sinus rhythm at a rate of 85.  PR interval
+
+of .12, QRS .06, QT .36, axis 85 degrees.  There are minor
+
+nonspecific ST-T wave changes.  
+
+ 
+
+Impression:  Mrs. Vance is a 47-year-old woman with a history of
+
+variegata porphyria, insulin dependent diabetes, hypertension and
+
+dyslipidemia with known coronary artery disease.  She has had a
+
+retrosternal chest pain syndrome for the past several years and her
+
+most recent stress test approximately one year ago did not show
+
+significant provokable ischemia.  Nonetheless, I am concerned that
+
+her clinical presentation may still represent recurrent ischemia. 
+
+I therefore have scheduled her for an exercise MIBI stress test and
+
+I will obtain both an echocardiogram and carotid noninvasive
+
+studies.  In light of her significant dyslipidemia and insulin
+
+dependent diabetes, I strongly recommend beginning aggressive
+
+antilipemic pharmacologic therapy.  Unless her variegata porphyria
+
+precludes the use of atorvastatin, I would begin this at 10 mg po
+
+q.d.  I would target her LDL cholesterol to less than 90.  In
+
+addition, I have started her on atenolol at 25 mg po q.d. and
+
+I would consider beginning an ACE inhibitor again if her
+
+porphyria does not 
+
+Vance, Jennifer
+
+MR #542-66-00-3                    -3-            July 18, 2069
+
+ 
+
+preclude this.  She understands that if she has evidence for
+
+significant provokable ischemia that I would strongly encourage her
+
+to undergo repeat coronary angiography.  Thank you very much for
+
+allowing me to assist in her care.
+
+ 
+
+Sincerely yours,
+
+ 
+
+ 
+
+ 
+
+Timothy Quarterman, M.D.
+
+ 
+
+DD: 07/18/69
+
+DT: 07/28/
+
+DV: 07/18/69
+
+ 
+
+/riggs
+
+ 
+
+cc:
+
+John Koontz, M.D.
+
+Kearney Urology Center
+
+49 Buswell St
+
+Minerva,  TN  41694
+
+ 
+
+cc:
+
+Vincent Veal, M.D.
+
+Gastroenterology Division - BMH
+
+ 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+    <h4>Patient: Vance, Jennifer</h4>
+
+    <p class="lead"><b>Name:</b> Jennifer Vance</p>
+
+    <p class="lead"><b>Date of Birth</b>: 2069-07-13</p>
+
+    <p class="lead"><b>Date of Death or Admission</b>: 2069-07-18</p>
+
+    <p class="lead"><b>Gender and/or Sex</b>: <b>female</b></p>
+
+    <p class="lead"><b>Patient ID</b>:  <b>153212920-02-2710-2710-2710-2710-272710-2710-2710-2710-2710-2710-27
+    <b>02710-2710-2710-2710-2710-2710-2710. 10-2710 and the patient'10-2710-271
+    name and address
+   10-2710-2710-2710-2710-10-202710-10
+10-51010-27111010-27110,10 and 21101010-1010-171010,1010 and 10-10-101, but the doctor 100-26220101010-10 data patient, 121, 10101010,12 patients-1010 10 patient-15011. 110101 10 and 124-specific patient data names.
+let 30 with the names with names (2, 1 and patient 101,11 or...
+10 or name.
+
+110, as the letter. 15...1... (...
+The first, the letter, and names, names, names 5, and 1st, the letter the [
+… 45, or a few...
+(or... are a letter of the date, and the letter codes, and 110 names and patient (pat, a and:1 and the following, the patient and your data code, and 5 patient...
+names, and a patientize patient, you, a patient: (1, “…
+
+... orific (are-are the…
+
+dream, 1 are 3 orifically are the…. the and the [d are [(not the (... or, and, “
+
+
+or and:
+, and [
+... and (the, the (
+...
+[1 of the patient, the patient, and… 
+and 1 and… 6...1 and, the…, and... 
+(...
+and, and, “
+, but, and, or (le, but, and, and, orities, and, 0 or, the and, as the, and the, and, and...,
+, or, 2 or and, 1, [1, 0, "are, 3, and...
+ ([... or: the, you, 3, a and, 4, a…... with the... with... with the...
+1. (“…. an (are: are, 1 [
+ [are [are are, 1 of the name of the orine of the, " and or ( anite, the, 1, 1. 2 of the (and. anis. An. an.,, the, anine, but, an an, an, an, the an are an an - (1, an, 1 in all of the and, anities, an [ 9. and of the, an, an an ( an, an, 2, an or an an and and an of or or, an of a and, of a,, an, an, an, (and and, an, [ an, 0. An An. An, An. an. an [ an, 1, 1-le: 3 an: an, a-1: an: ::: [2, an a: [: and-an: [: a: an: ( a... or and or (:: : " an- an an:-d " an [ an with " an "- an: an and- an- an- [- an " anize in  -. and (- an of the of the or- an.., and or (, and, [, and- a- or ( or and or of [- or- [ or and- and or or-  are (- or are- an-  - [ are are  an an an [. and,, an and- an- " -  in,, or- an of  and of the of an in the or an and  an " and an- an " and and ( - an of an of the of the of and and, an, an- an and ( or [ are,  in, in- ann to- an or or or, an- an or or,, and ( or an, and, an an- an of the of an of of ( or. An., by, an, ( or- and- are an- or and in- and an an or an and,, an (- - ( an or an ( or or- or an- an- or, or an ( or or in or or, or, an an, ( [ an- and or for or ( or- and an or, and, - or and an- 2 and and, or ( ( v. and, or, an,, ( of the. of ( an an, c. and, c [- an, an, [,, [, a and an ( ( ( a [ v., [, or an- or you, an or, and,. v (.  or to, or to, [- ( to, to- to or and or or- or to an or to an or an or or to and to or and c and- c- a-  v-  v and and to  to an " v to or or to c - and and v- to and and or- " and and and- to and to and to and to ( to to to ( to an- or- or- or to- to " to- to " or - or-  or-  un ( [ and (- un- and [ or, or of a, of and and of or, ( of [-  or ( or- an  or and a- a  - - and or of of of of of v- of ( of,-2- and,, and and- - [ and v- and- or and- [ in- c ( or (- [ - or, ( and- ( vist [- ", and ( and of of- of v of of the of and- and- or v- or- and-, [ v and v and,  (- v v v and- v- and,  or and- V or and v v v v v, - a and and, and v,, v and [  [, v (, v v v, v a and at t v and v ( and, and v in t and a, v, [ ( in v or and or in and a and and,, and t v.  or and  and at and v v and (,, v ( ( and  and,,, a and v t and (, or,  ( v c, and and , [ C of  of: : and a  v of  a c. v v v - v c. v and - and v of a of of, c, v., c [ a- [ in a v and and,, and V, C C v ( and of. in or and ( v and ( in c- and and and and and [ v and ( and of and and - -. ( and v, (, and-  a v- and,  ( v of c in in c and  in (- ( in. ( ( a, c in or, or c as a, and and and and and and, and and and, (, as, al or,  as and, as v,  and  to,,  v t  -  al   a, c a and v v (, and, and, in and  a (, v,  a, as in as as as in as as as or, and as, as,  or , in ( in.  v, c ( and (  and- or- v, a ( and-, and or and,  and

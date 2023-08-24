@@ -1,0 +1,615 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2067-02-12
+
+ 
+
+
+
+teaM B Intern Admit Note 
+
+
+
+Pt:Umphrey,Tammy
+
+MR#:	0942207
+
+Date of Admission: 2/11/67
+
+
+
+Attending: PCP Dr. Baird (Cleveland Public Institute)
+
+Source: Chart and Pt.'s husband - Pt is non-verbal
+
+
+
+HPI : 70yo F PMH of DM, CHF, bullous pemphigoid and HTN, s/p intracranial aneurysm rupture 1/66 , s/p VP shunt placement. Pt. is minimally responsive at baseline, cared for at home by her husband with the assistence of VNA. She is s/p suprapubic catheter placement by IR on 2/4/2067. She was discharged from PDI on 2/09/2067 after an admission for occlusion of her superpublic catheter. She represents to the ED today after her husband, who is the primary care giver noted on the morning of admit that the catheter was not draining, but the pt. was incont. Of urine. He attempted to flush the catheter and was unable to. VNA was called and also attempted to flush the catheter. The VNA nurse noted that it was possible to instill water, but not possible to draw any back. VNA contacted the pts. PCP and IR, who placed the catheter on her previous admit , and the pt. was brought to the ED. 
+
+
+
+
+
+PMH:   
+
+1. s/p IC aneurysm rupture 1/66
+
+2. Bullous pemphigoid -biopsy proven 2/67
+
+3. DM2
+
+4. HTN
+
+5. gastritis
+
+6. UTI
+
+7. s/p G tube placement
+
+8. SIADH
+
+9. Aspiration PNA - To complete course of Cefpodoxime/Ceftriaxonew 2/16
+
+
+
+
+
+Meds:  
+
+Asa (CHILDRENS) 81MG PO QD 
+
+Mvi ELIXIR (MULTIVITAMIN SOLUTION) 5 ML PO QD 
+
+Colace (DOCUSATE SODIUM) 100 MG (100MG TABLET take 1) PO TID 
+
+Synthroid (LEVOTHYROXINE SODIUM) 137MCG TABLET PO QD 
+
+Fluoxetine HCL 20MG CAPSULE take 1 Capsule(s) PO QD 
+
+Prevacid (LANSOPRAZOLE) 30MG SUSPDR REC JTUBE QD 
+
+Cozaar (LOSARTAN) 25 MG (25MG TABLET take 1) PO BID 
+
+Ritalin (METHYLPHENIDATE HCL) 20 MG (20MG TABLET take 1) PO BID 
+
+Lipitor (ATORVASTATIN) 20 MG (20MG TABLET take 1) PO QD 
+
+Ascorbic ACID 1000 MG (500MG/5ML SYRUP take 10 ML) PO BID 
+
+Glyburide 2.5 MG (5MG TABLET take 1) PO QD 
+
+Cefpodoxime 200 mg bid x 4 more days
+
+
+
+
+
+Allergies: 
+
+Fosinopril Sodium - Angiodema, tongue swelling, 
+
+PERCOCET - Angiodema, 
+
+Erythromycins - SOB
+
+levaquin - Rash 
+
+
+
+  
+
+
+
+SH:  	Pt. cared for at home by husband with VNA. Minimally responsive at baseline. 
+
+	 
+
+	
+
+
+
+ROS:  Bullous lesion , worst along left flank. 
+
+
+
+Exam:  	
+
+	VS: BP 118/74 P 80 T 97.0 RR 18 98% RA  
+
+              GEN: awake, responds to voice.
+
+HEENT: PERRLA, supple, no LAD
+
+Lungs:  CTAB - anterior
+
+Cor:  	RRR, no mumurs, rubs, gallops
+
+Abd:   	Soft non-tender. BS +
+
+Extr:  	 Scattered bullae on b/l lower extremities. NO decbus. PPP.
+
+              Neuro:  . Opens eyes to voice, some rigidity upper and lower extremities. 
+
+              GU:  Superpubic tube in place, site clean with min. erythema, no discharge,
+
+              Scant drainage in bag. Foley in place draining clear urine. 
+
+
+
+Labs:  
+
+
+
+Hematology Detail for UMPHREY, TAMMY U
+
+
+
+   PDI  RANDOM         12-Feb-2067 00:27  Accession# 8859J84563
+
+
+
+Test Description                 Result           Flags    Ref. Range       Units
+
+
+
+UA-Color                         Yellow                    (YELLOW)
+
+UA-Turbidity                     Clear                     (CLEAR)
+
+UA-Glucose                       NEGATIVE                  (NEG)
+
+UA-Bili                          NEGATIVE                  (NEG)
+
+UA-Ketones                       NEGATIVE                  (NEG)
+
+UA-Specific Gravity              1.020                     (1.001-1.035)
+
+UA-Occult Blood                  NEGATIVE                  (NEG)
+
+UA-pH                            5.5                       (5.0-9.0)
+
+UA-Albumin                       NEGATIVE                  (NEG)
+
+UA-Urobilinogen                  NEGATIVE                  (NEG)
+
+UA-Nitrite                       NEGATIVE                  (NEG)
+
+UA-WBC Screen                    2+                        (NEG)
+
+UA-SED-RBC                       0-2                       (0-2)          /hpf
+
+UA-SED-WBC                       20-50                     (0-2)          /hpf
+
+UA-SED-Bacteria                  Few                       (NEG)          /hpf
+
+Hyaline Cast                     5-10                      (0-5)          /lpf
+
+Squamous Cells                   Few                       (NEG)          /hpf
+
+
+
+
+
+             	          
+
+
+
+	 
+
+
+
+
+
+
+
+_____________________________________________________________________________________
+
+
+
+A/P:  70 year old woman s/p IC aneurysm rupture, now with minimally responsive state, presents with occluded superpublic cathere. 
+
+
+
+1)	GU - Foley placed in ED. Will send UA/Culture. Contact IR for revision of tube given 2nd admission this month for occlusion.
+
+2)	ID - completing course of cefpodoxime for aspiration pna
+
+3)	F/E/N - Nocturnal tube feeds, as per home program
+
+4)	HTN Cozaar, as per home regimen
+
+5)	ENDO - RISS, cont. glyburide. 
+
+6)	Prophy - Nexium, fragmin
+
+        
+
+
+
+
+
+
+
+
+
+_______________________________
+
+G. George Vetter, MD 
+
+Pager # 05967      
+
+
+
+
+12000 Euclid Ave.  
+
+Cleveland, OH
+
+55702-3614
+
+(216) 797-6803
+
+                     
+
+
+
+
+_____________________________________________________________
+
+
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+                         
+
+
+
+
+
+
+
+                 
+
+
+________________________________________________________________________________
+
+
+
+                                
+
+                             
+
+
+
+
+
+
+
+
+
+                               
+
+                              
+
+                                        
+
+                                      
+
+
+
+
+
+
+                                   
+
+
+
+_____________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            line(s):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________ line
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(and 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+information
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+names of the patient information, and information
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. This patient.
+
+
+
+
+
+
+
+
+
+
+
+[ 
+
+
+[…
+
+
+
+
+
+names and the following
+
+names:
+names and 
+1, 25:, and
+name, patient name, and
+
+
+[name 
+specific and specific, but 
+
+(or names
+
+[name, the 5...
+
+
+
+and...the patient (or, or name or names, 0...
+, and, 
+(...
+
+or... 
+are are...
+or name and, but and 1 and the words of the words, name...
+[d, the names: [the patient names 0.
+(1, which and 
+
+
+
+...
+let...
+
+
+
+: and name of "
+...
+(
+change,... or [are:  are a (11... 
+(name are of the name-1, and  are...
+ 
+and, as:
+[the [name and:
+
+and and a, or the...
+, or [
+[12 orise, the...1 or 
+1 and of and-the or “1 and the... include a and...
+[1 (11 (and, and, a and the (and, as (and, and (and, and, or,
+( 1, and, 6,
+[, the, and, an, the and and, (1, and the 
+and, and the are, or [[[11 or, 0, (0, (and... and, include and the, the "10, (10,1 (
+1...1: and-the-1 with... 1.
+: "pat:...and and 3.
+2-3 are 1... are- 1 (le-1 of 0 by [  or or, 6 and and the (1. (le [le, 1. [c. [. 1,,, the,, 1, and are, an, an or are an are- 1 (can or an and, 1 of the-1-1, and-s and, an, an 1, an, and,  and of a, a and [and, 1 and, an and, or, an and and- an 3 of " of it  an 1 of the and [in and, 1, in, and and an of 1 and,  and: an and the and, an - the, "1, an, " 1 of the an of 1 of 2-1 of the:-1:: [  and, ( an :: :: an and and and and: :  and and:  an (an: [: ( -with (  " an: (: an of and or, and-1-2 and and- an [ and are, an of an of the of of an  and and  and ( or,, an by [, [ and and and and... and and- [ an (- or (,, or, in- or, an, an ( or " (, ( and of an, and,, by and- and an and- (- an " ( or  of the,, or, of or of  an- of and of or of an or, and (  and,,- with, ( or,, of an of " of " of, of and an of the an and, are, ( - or or  an, an of  or in, or or -  or, or an,, in and  and, of m of " of the of, of the of " and  (,, m an and and in and in  and- or-  or of the of an in to-0 of -1 or ( An or- and and of a and- and  and, of and or of or, or and in and, or and or, of,  or,,, ( or, ( of  of or of the- or of  of an and0, and of, of,1, and are,, and of the and of, of an of the, of of,  and of the, and. ( ( C-  of,  and-0 and  ( ( 2 ( ( and0 of and and,,  and ( and and and 1 for and - 2 and (2  - and C and  C to " C " ( C An ( ( or in  or  ( or  (  C-  or t  and-  and, t of " and - m of -  of 2 and ( m of C  m: - ": and: - 1 of (  C to: to to to to to C to to C and C and-C C and - and, to of " B of  " to  of and " or and -  of or t or or and of, of  of  of  of  of  of, and- or- B and and and. B C to-2 to to to, of and of to of of  of of the of-1 of. to to B to to and (- to B C  and to  to. to to  and to and C00 and C, - C T  and - and and ( T of  of  of-C  ( B B 1- and C and ( and (, and,, and, to-  or and to ( and  C and and and  B and  C  B and  and  T or and t  C C and B I- and ( R, I C and, B C and to ( or (  to, to  to to to to  and ( C ( B and ( and and and and, and  and or  B I C and, C,, B, or  and (, B and. I and,, M and., ( ( I To, and to to  to B B B, C  ( and, and ( and C  and of  of  of ( I to to to a C to t I  R C and,, and of t C,,,,  ( and,, and, V F ( and of B- F I and - H T and, and of C to I to to and C to - to I to ( M and ( C P V P C V C R I of V I C I R I F and to C I and ( ( C I, F, B P of C V and  C  V V C I B and  and, H C I C ( H ( and,,, V, and,, B, C V CH (. of I of of of B and. C and (, C C to, to I to to to to, to, B and to to to C- P and I, and B and ( P I ( and,.,. to to to I to and to to, ( to and B C F F, and  to and F M C I or  C M I  C I C ( M F and   to, ( and F M, C I M  M M

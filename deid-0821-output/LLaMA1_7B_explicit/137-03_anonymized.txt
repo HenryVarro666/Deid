@@ -1,0 +1,63 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2070-08-15
+
+Reason for Visit Routine follow-up exam diabetes mellitus/coronary artery diseaseProblems  Coronary artery disease-Dr GarzaRHN  : Has had cardiac cath at RH -Dr Gil -Had bypass graft 5/65 
+Dr Gil RHNThe patient is feeling much better and without any significant chest pain-he is on his usual protocol of medicines but also is active in exercising and has lost a little weightDiabetes mellitus type 2-Dr Willis  : Eye appt-JHThe patient has finally seen the consultant near his home-Dr Willis-she recently switched from glyburide to glipizide-the patient has been noting any improvement in his daily blood sugars which are between 100-150. No increased thirst or urination and no hypoglycemic episodes. He has been followed by his eye doctor,Dr Kincaid but needs to set up a followup appointment he does not have any tingling or difficulty in his feet.-Hgb A1c and --better =8.1Essential hypertension  The patient is on his medicines with good controlobstructive sleep apnea-refuses CPAP  : refuses CpapNo daytime somnolence and refuses CPAPElevated cholesterol  On LipitorHCT=38 rpt 1/69  : Iron, B12, folate acid, SPEP-ok 2069
+patient did not go to hematologyThe patient will get repeat testing todayCreat=1.4-rpt 6/60  The patient will get repeat testing todayGerd?-pt requests eval-to Dr Stevenson  : The patient called on the telephone and has some symptoms which she believes may be acid reflux and not angina-he will consult with Dr. Stevenson-no black or bloody stoolsThe patient has seen the gastroenterologist,Dr Truong who feels that he needs both the upper and lower endoscopy and the patient needs to schedule
+I told the patient not to take Prilosec due to the Plavix potential problem and he will stay with his Zantac which seems to be workingAllergies  Vicodan  - ItchingMedications  Asa (ACETYLSALICYLIC Acid) 325MG TABLET Take 1 Tablet(s) PO QD #100 Tablet(s)Atenolol 50 MG (50MG TABLET Take 1) PO QD #90 Tablet(s)Ativan (LORAZEPAM) 1 MG (1MG TABLET Take 1) PO BID, May be sedating/may be addicting #180 Tablet(s)Clopidogrel 75 MG (75MG TABLET Take 1) PO QD, Dr Garza #90 Tablet(s)Flomax (TAMSULOSIN) 0.4 MG (0.4MG CAP.SR 24H Take 1) PO QD, take after meals #90 CAP.SRFolic Acid 1 MG (1MG TABLET Take 1) PO BID x 90 days #180 Tablet(s)Glipizide 10 MG (10 MG TABLET Take 1) PO BID, Dr Willis #180 Tablet(s)Glucophage (METFORMIN) 1000 MG (500MG TABLET Take 2) PO BID #360 Tablet(s)Hydrochlorothiazide 25 MG (25MG TABLET Take 1) PO QD #90 Tablet(s)Lipitor (ATORVASTATIN) 20 MG (20MG TABLET Take 1) PO QHS #90 Tablet(s)Multivitamins 1 TAB PO QD #90 tablet(s)Norvasc (AMLODIPINE) 10MG TABLET  PO QD, Dr Garza #90 Tablet(s)Ntg 1/150 (NITROGLYCERIN 1/150 (0.4 Mg)) 1 TAB SL as directed #30 tablet(s)One Touch PO Vasotec (ENALAPRIL Maleate) 20 MG (20MG TABLET Take 1) PO QD #90 Tablet(s)Zantac (RANITIDINE Hcl) 150 MG (150MG TABLET Take 1) PO BID, prn #180 Tablet(s)Habits Tobacco: no smokingReview of Systems Few pound decrease in weight on diet. No chronic pain. No headaches, visual disturbances, hearing problems. No CP or palpitations. No dyspnea, cough,or wheezing. No abdominal pain, nausea, vomiting, constipation, diarrhea, BRBPR, or melena. No dysuria or difficulty with urination. . No joint pain or swelling. No skin changes or rash. 
+ 
+ Vital Signs  BLOOD PRESSURE 130/70PULSE 70WEIGHT 207 lbExam  Physical Exam     General Appearance well-appearing, NAD.   Skin No rashes or suspicious lesions.   HEENT PERRLA. EOMI. Sclerae non-icteric. TMs are clear bilaterally. OP is clear without erythema or exudate. Neck is supple. No LAD. No thyromegaly.   Nodes/Lymphatic No nodes   Chest CHEST:A&amp;P-normal bilaterally with good air movement. No local rales or wheezing   Cor/Cardiac regular rate, normal S1, S2. No rubs, gallops, or murmurs.    Abdomen soft, nontender, nondistended, +bowel sounds, no HSM   Extremity warm, no C/C/E. Bilateral knees without effusion.Pulses -good
+Sensation-satisfactory fo light touch   Neurological A+Ox3. CN II-XII intact. Grossly non-focal.Assessment and Plan  
+ Overall the patient is quite satisfied with his health
+Gastroesophageal reflux-stay on present regimen and set up the upper and lower endoscopy electively with Dr. Truong
+Mild anemia - repeat testing-hematocrit stable at 39 and hemoglobin is normal
+Mild elevated creatinine-repeat testing and check a urine and microalbumin-microalbumin is present
+Diabetes appears to be in better control according to his daily blood sugar measurements on his new regimen-he will set up an appointment with the eye doctor-2 set up eye appointment and hemoglobin A1c is better at 8.1
+Cardiovascularly without angina and satisfactorily exercising
+Followup in 4-6 months or sooner if any problems
+Routine laboratory tests ordered including CBC and lipid and hemoglobin A1c
+              
+
+
+
+
+
+
+Health Monitoring  HbA1c 08/15/2070: 8.1Home glucose monitoring  12/12/2068: ultratestHypoglycemia Assessment/Counseling  06/28/2069: doneM-alb/creat ratio 08/15/2070: 61.3 Units = mg Alb/g CreMicroalbumin 08/15/2070: 7.9Ophthal Exam 08/15/2070 Done elsewherePodiatry exam 12/12/2068: M.D. in LittletonColonoscopy 06/28/2069: to doHct (Hematocrit) 08/15/2070: 38.8Hgb (Hemoglobin) 08/15/2070: 13.7PSA 05/08/2070: 0.8Rectal exam 05/08/2070  No masses or Hidden blood/ Prostate -not hard or tenderStool Guaiac 10/04/2069: negUA-Protein 08/15/2070: NEGComplete Physical Exam 05/08/2070: doneVitamin D (25 OH) 08/15/2070: 52 -- REFERENCE VALUE --
+25-HYDROXY D TOTAL (D2+D3)
+Optimum levels in the normal
+population are 25-80
+TEST PERFORMED BY BARRY COUNTY EXTENDED CARE FACILITY
+ COLLEGE STATION, WI  34674TSH 08/15/2070: 2.82GFR (estimated) 08/15/2070: 49 (Abnormal if MCV 08/15/2070: 83.0Platelets 08/15/2070: 169Smoking status 05/08/2070 Quit tobacco >= 1 year ago Quit age 28 Influenza Vaccine 12/12/2068 pt denies allergies/SEPneumovax 03/31/2068 DoneZostavax 05/08/2070: to think aboutCholesterol 08/15/2070: 113Cholesterol-HDL 08/15/2070: 33Cholesterol-LDL 08/15/2070: 47Triglycerides 08/15/2070: 163Orders Laboratory tests-as ordered
+ 
+Follow-Up Appointment-  ___months
+ 
+Consultation-
+
+
+
+(10 might. 11 orally
+1, or 119 (d with the patient, and... and names  [
+
+:1.
+: the 4...
+
+name, name, the names of the patient names, and 11 and/2, and:1: 21…d are...the 1... 
+(1 of... and name, " [… 
+... (the [1 and the [... (or, and, and 6 or... 1, and the... the 6, the (are [
+
+... (12, the and:
+(the: and:
+
+… 1, 10 (...
+1 and 1 (
+… 0, and, as and, and, and and (
+1, and…, and or, and, 
+of, or (the, and, and, 3, 1.
+and,
+(...the. and and the or,  and, the (and (
+, as the and are, and, and are are the, 0 and, 1, or and and, and, the... and the 1 and and the and (patients, 1: An... and… and...and: are the and, are are, are 10 0 1 of the [in 
+, the... and a,... the, the, the, anise, 2, 1 of the of the (and of the, the. 0, 1 or, are, an ( are or an and, are the, an " 2-an, an, the, and, an, an and, anine- an an (an, and, an and, an 4 and an and, [3 [1 or, [1 and, an, 2 of a, and, of, 0 2 and an (an, the, or, a and, and, an, and and the, an, an and, (an and, 2, an, 0, 10 of an and, an and and, a and: the: an-the: [: an ( an: An An: An: 1 ( (: an and an: An:  and:: an: and: an an an: ( an of an: an: an: an an: an or an are an  and: the are, an and and and an of the of it ( of the in the, and an, an [ and, an, [ ( and ( and or, are the are [ or [ are [ ( an or,  and an-1- or:  or in  ( ( an and an, an  an in -  an an an, an or an,  and-1 and an  and of are of a of  of a of  and ( or of, an and an, an, and an and,, of the, of  of  of the and of  and, (- are and (, an, an of  of or of an- an of or, and,, and "  an - and- and ( and and and of the of and of of and the of an of, of and, -  or an an- or ( and and and- and  ( in,  of an of  and, and- and- and ( [ ( of or on or in the an of and, and, of, and, and, or, in, and in  and and and- an, (,,,,,, of. or or or- or-10 an, and of and, and and  and,  and,, ( of,  and of  of the,, of, of and of ( of an. -c- and in  an, and, an,  and and and. - and, c  and and and, and of the and of,, and,, and-2- and (   and and, an and ( c (- or in the and ( for ( and an (, or  and  in  an and  or - m and and. -  and of the of - m of and of a and  m and c or, and, and and-c of  m c " C " or and m-. ( and and, and, or or in- C- m and and and- and  and m-1 and m and c   " m (-C An or,, m or or,, and and and  of and  or an and - c- [, and and,. m and ( and c,  of, of of the of, and of of m  c c -, and-m,, (, C and and and and,  in. ( and or to c,  and, and, and m and and ( and  m  and of of C of c  c and,,. and and. and and and and,  and, and of of  and  or, an and or, , (, ( or,  and  c C  (, and C c and   and and  and and  c c and  and and C C and C and,,  and, and, c and and and and, or  C m and ,,  m m and, C and or, and c,, , m, and and, m, c, and and, c, C and c c and ( C C c and, c c, ( ( C C c, C, C C and C m C and c and C C and of c, C. C C C C C. C (, -, c and and, C, and,, m,,,, , c to and, - c and or ( c m and m  and C H ( m c (  C M and ( m and and A A C C R R L M and  I M or [ C  C H H.  H and m- C  or c and and , m. and A ( ( H,,  C C H C A A H  ( A A C and, ( or and and,, and and,, and or and and ( C and- C C, m, (- C ( C C  C and C and C C (,, C C C, M  M and M- H m- ( and and c M. M and and ( M, C M, (, C, C and C in and and, and,, and and or,, H L and (,  m and for for H C ( M (, H- m. H, H and and H L F,,,

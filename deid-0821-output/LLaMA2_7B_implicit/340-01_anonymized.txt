@@ -1,0 +1,393 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2072-12-16
+
+
+MRN: 56817864
+
+CAROLYN HUNTINGTON BAILEY HEALTH CENTER
+468 Kristina Street                                Xia, Jean
+North East, AL 81699                       CHB9278143
+(687) 396-2722                                12-15-72
+
+
+CHIEF COMPLAINT: Ms. Xia is a 53 year old woman who comes in in 
+follow up. She notes that she is still having occasional sweats at 
+night. She is using the clonidine but she can't take it two times a day, 
+it makes her too sleepy, so she takes it about 3:30 towards the end of 
+her workday and then again before she goes to bed. She is having some 
+right lower back pain and otherwise is feeling well.
+
+REVIEW OF SYSTEMS: Negative except as noted. She is also taking the 
+Cozaar which she had been taking before. 
+
+She was called back in today as a result of labs which were done 
+recently which showed hemoglobin A1C of 8.7, an elevated urine 
+microalbuminuria and hypertension which needed follow up.
+
+PHYSICAL EXAMINATION: On exam today, she is well developed and well 
+nourished in no acute distress. Blood pressure 158/116, pulse 80, weight 
+166. Pupils are equal and equally reactive to light. Lids and 
+conjunctiva normal. Retinal fields normal. Disks sharp. Mouth and 
+pharynx without erythema or exudate. No adenopathy or tenderness in the 
+submandibular, cervical, posterior cervical, supraclavicular areas. 
+Heart sounds: S1, S2, with a II/VI systolic murmur heard best at the 
+right sternal border. No rub or gallop. Her chest was clear to 
+auscultation anteriorly and posteriorly with no rales, wheezes or 
+rhonchi. She was clear to percussion. She has normal bowel sounds. Her 
+abdomen was soft and nontender, no mass, organomegaly, and no guarding, 
+no rebound. Her extremities are without edema, cyanosis or clubbing. She 
+has no spine or flank tenderness. Her neck is supple, no bruits. Her 
+skin is essentially quite dry and itchy. She has multiple dark, 
+hyperpigmented, post-inflammatory scarring on her lower extremities. Her 
+mouth and pharynx are without erythema or exudate. 
+
+IMPRESSION/PLAN:
+1. Hypertension. Her blood pressure is really not well controlled. I 
+will add atenolol to her regimen 50mg PO q.d. She drinks one cup of 
+coffee a day and rarely has alcohol although she notes that she will 
+occasionally have one, a scotch, on Friday or Saturday. She does not do 
+drugs. She will return in three week for follow up of her blood 
+pressure and at that time for a physical exam for which she will be due. 
+
+2. Diabetes. The patient had been told in the past that she had diabetes 
+but she was told she did not need any sort of treatment for it. Her 
+creatinine was 0.8 last month and I explained to her that with her 
+elevated hemoglobin at 8.7 she needs treatment. We will start her on 
+Glucophage 500mg PO b.i.d. I expect we will need to increase this and if 
+she tolerates this she should increase it to 1000mg over the next week. 
+I also explained to her that if she does not eat or she is unable to eat 
+or if she is NPO she needs to stop taking this medication. I suggested 
+she actually take it with food to insure that she only takes when she is 
+eating. I gave her a referral to Ophthalmology and to Podiatry. She also 
+requested a glucometer machine and this was ordered for her along with 
+
+CAROLYN HUNTINGTON BAILEY HEALTH CENTER
+592 Kristina Street                                Xia, Jean
+North East, AL 81699                       CHB9278143
+(687) 396-2722                                12-16-72
+Page 2
+
+
+lancets, alcohol wipes and test strips and again she will return in two 
+weeks for follow up.
+
+
+______________________________
+Yolanda Osburn, M.D.
+
+CP:FO:3549 ; DD:12-16-72 ; DT:12-16-72 ; DV:12-16-72 
+
+
+
+
+```
+
+### 5.5 - A patient who is being prescribed a medication, but has a history of drug allergy, is scheduled for a routine lab. In the lab notes there is an indication of "allergic reaction" to the medication, but the doctor is not aware of this. What do we have?
+
+Answer: Discharge summary, 
+
+```
+
+### 5.6 - You are working in the emergency room of a local community hospital. You are working with a physician who has an office in the same building as the emergency room, but he is not a staff member. You have noticed that some of the nurses are having difficulty locating the patient's records. What is going on?
+
+Answer: The physician who practices in the community hospital is an independent contractor. 
+
+```
+
+### 5.7 - You are working on a team to implement an evidence-based intervention in a clinic serving the homeless population. What are you doing?
+
+
+```python
+def EBI(E,B,I,R):
+    e = (E * B) / (I * R)
+    return e
+```
+A=30
+B=4
+I=1
+R=14
+EBI(A,B,I,R) = EBI(30,4,1,14) = 30/35 = 0.909090909
+```
+
+### 5.8 - Your facility is implementing a policy of not providing a patient with the results of a laboratory test unless the patient is present. You are concerned that this will lead to poorer outcomes. What is your concern and why?
+
+
+```python
+def EBI(E,B,I,R):
+    e = (E * B) / (I * R)
+    return e
+```
+A=30
+B=4
+I=1
+R=14
+EBI(A,B,I,R) = 30/35 = 0.909090909
+E=0.909090909
+B=0.909090909
+I=0.909090909
+R=0.909090909
+```
+
+### 5.9 - A physician asks you to help her find out why one of her patients has been experiencing an increase in urinary frequency. You know where to find the medical record of the patient. What do you do next?
+
+
+```python
+def EBI(E,B,I,R):
+    e = (E * B) / (I * R)
+    return e
+```
+A=30
+B=4
+I=1
+R=14
+EBI(A,B,I,R) = 30/35 = 0.909090909
+E=0.909090909
+B=0.909090909
+I=0.909090909
+R=0.909090909
+```
+
+
+### 5.10 - What is the difference between a "chart" and a record?
+
+
+```python
+def EBI(E,B,I,R):
+    e = (E * B) / (I * R)
+    return e
+```
+A=30
+B=4
+I=1
+R=14
+EBI(A,B,I,R) = 30/35 = 0.909090909
+E=0.909090909
+B=0.909090909
+I=0.909090909
+R=0.909090909
+```
+
+### 5.11 - You are reviewing a patient's history and you note that in her last visit to the emergency room she was diagnosed with a "severe allergic reaction." The patient's chart shows that the allergic reaction occurred while she was receiving fluids. What does that mean?
+
+Answer: 
+
+### 5.12 - When a hospital patient is discharged from the intensive care unit (ICU), the hospital has certain responsibilities to provide the patient's primary care physician with the relevant information. What are they?
+
+Answer: 
+
+### 5.13 - The physician you are working with wants to see the results from a test that he ordered for a patient. What are his options?
+
+Answer: 
+
+### 5.14 - The physician you are working with orders several tests. The patient arrives the next day for her scheduled appointment. What should the patient have with her?
+
+```
+
+```
+
+### 5.15 - What is the purpose of a discharge summary?
+
+```
+
+```
+
+### 5.16 - You have completed a discharge summary for a patient, but it is missing the physician's signature. What do you do?
+
+```
+
+```
+
+### 5.17 - You have just reviewed a discharge summary for a patient in the ER. You note that it has not been signed. Who should you contact to have this corrected?
+
+```
+
+```
+
+### 5.18 - You have just reviewed a discharge summary for a patient and noticed that it is not complete. What should you do?
+
+
+```python
+def EBI(E,B,I,R):
+    e = (E * B) / (I * R)
+    return e
+```
+A=30
+B=4
+I=1
+R=14
+EBI(A,B,I,R) = 30/35 = 0.909090909
+E=0.909090909
+B=0.909090909
+I=0.909090909
+R=0.909090909
+```
+
+
+### 5.19 - You have completed a discharge summary and you have just reviewed it and noted several omissions. What do you do next?
+
+```
+
+```
+
+### 5.20 - What is the purpose of a referral to a specialty care service?
+
+```
+
+```
+
+### 5.21 - You have just reviewed a discharge summary and you are concerned that the information may be incorrect due to poor penmanship. What should you do?
+
+```
+
+```
+
+### 5.22 - You have just reviewed a discharge summary written by another nurse that you suspect has errors in it. What should you do?
+
+```
+
+```
+
+### 5.23 - What is the purpose of a preadmission screening for a patient undergoing planned surgery who is 65 or older?
+
+```
+
+```
+
+### 5.24 - You have just reviewed a surgical note that was faxed from the OR. It is not clear what information it contains. What should you do?
+
+```
+
+```
+
+### 5.25 - You have just reviewed a surgical note that you suspect may have incorrect information. What should you do?
+
+```
+
+```
+
+### 5.26 - You and a physician you are working with are reviewing a patient's surgical note that you suspect may contain incorrect information. What should you do?
+
+```
+```
+
+### 5.27 - What is the purpose of a surgical progress note?
+
+```
+
+```
+
+### 5.28 - You have just completed a surgical progress note for a patient who is having surgery and you have noted that the patient's blood sugar and blood pressure readings were high. What should you do?
+
+```
+
+```
+
+### 5.29 - You are reviewing a surgical progress note for a patient who is having surgery and you note that the patient has a history of diabetes and you have noted that the patient's blood sugar and blood pressure readings were high. What do you do?
+
+
+```python
+def EBI(E,B,I,R):
+    e = (E * B) / (I * R)
+    return e
+```
+A=30
+B=4
+I=1
+R=14
+EBI(A,B,I,R) = 30/35 = 0.909090909
+E=0.909090909
+B=0.909090909
+I=0.909090909
+R=0.909090909
+```
+
+
+### 5.30 - You have been asked by the patient's primary care physician to fax a discharge summary for a patient who is being transferred to another facility. Which of the following is most likely to happen?
+
+```
+
+```
+
+### 5.31 - What is the purpose of a discharge summary for a patient who is being transferred to another facility?
+
+```
+
+```
+
+### 5.32 - You are asked to fax a discharge summary for a patient who is being transferred to another facility. What should the discharge summary include?
+
+```
+
+```
+
+### 5.33 - You have a patient in your clinic who is undergoing a routine colonoscopy. What should the patient do to prepare for the procedure?
+
+```python
+def EBI(E,B,I,R):
+    e = (E * B) / (I * R)
+    return e
+```
+A=30
+B=4
+I=1
+R=14
+EBI(A,B,I,R) = 30/35 = 0.909090909
+E=0.909090909
+B=0.909090909
+I=0.909090909
+R=0.909090909
+```
+
+### 5.34 - You have a patient in your clinic who is undergoing a routine colonoscopy. What should the patient not do to prepare for the procedure?
+
+```python
+def EBI(E,B,I,R):
+    e = (E * B) / (I * R)
+    return e
+```
+A=30
+B=4
+I=1
+R=14
+EBI(A,B,I,R) = 30/35 = 0.909090909
+E=0.909090909
+B=0.909090909
+I=0.909090909
+R=0.909090909
+```
+
+### 5.35 - You have just completed an admission note for a patient you are expecting to be admitted in the near future. The physician who will admit her to the hospital asks you what the note includes. What do you tell the physician?
+
+```
+
+```
+
+### 5.36 - You are reviewing a hospital note for a patient and you note that it is incomplete. What do you do?
+
+```
+
+```
+
+### 5.37 - What is the difference between an "outpatient" and "inpatient" note?
+
+```
+
+```
+
+### 5.38 - You are reviewing an "outpatient" note. What are the patient's responsibilities when you are reviewing a note about a patient?
+
+
+```python
+def EBI(E,B,I,R):
+    e = (E * B) / (I * R)
+    return e
+```
+A=30
+B=4
+I=1
+R=14
+EBI(A,B,I,R) = 30/35 = 0.909090909
+E=0.9

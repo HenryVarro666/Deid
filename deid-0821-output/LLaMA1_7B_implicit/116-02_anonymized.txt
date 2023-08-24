@@ -1,0 +1,169 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2081-07-07
+
+July 8, 2081
+ 
+Francis Xayarath, M.D.
+Integra Health Center
+487 Jackson Street
+La Grulla, ME 21614
+ 
+RE:  Branche, Earnest
+MRN: 53023691
+ 
+Dear Dr. Xayarath:
+ 
+Your patient Mr. Earnest
+Branche returned to the
+office today for a follow
+up visit.  As you know,
+Mr. Branche underwent a
+left femoral to posterior
+tibial bypass one month
+ago followed by
+amputation of a
+gangrenous first toe.
+After being discharged
+from our service he was
+readmitted to the Medical
+Service with a severe
+case of C. difficile
+colitis.  Ultimately this
+resolved and he was
+discharged.  Today he
+reports that the diarrhea
+has again resumed and he
+was placed back on an
+oral antibiotic
+yesterday.  He complains
+of only mild incisional
+discomfort in his left
+leg.
+ 
+On examination, there is
+a strong pulse easily
+palpated over the left
+lower extremity bypass
+graft.  The old right
+lower extremity bypass
+graft was also palpable.
+The left foot itself is
+warm.  The great toe
+incision site, however,
+has developed necrotic
+tissue all along the
+incision, which was
+sharply debrided to clean
+margins.  This will now
+need to be treated as an
+open wound.  The calf
+portion of the left lower
+extremity incision also
+has a narrow zone of
+superficial skin slough
+which was gently
+debrided.  The graft is
+not exposed and there are
+no deep wounds in the
+leg.
+ 
+Mr. Branche's left lower
+extremity bypass graft is
+functioning well.
+However, he will require
+significant ongoing wound
+care for the immediate
+future.  Daily dressing
+changes will be arranged
+with visiting nurse
+services.  We plan to
+follow him closely and an
+appointment was given for
+two weeks.
+ 
+Thanks again for allowing
+us to participate in the
+care of this delightful
+and challenging patient
+and please don't hesitate
+to contact me at any time
+if I can
+RE:  Branche, Earnest
+MRN: 53023691
+7-8-81
+Page 2
+ 
+ 
+ 
+be of further assistance.
+ 
+Sincerely,
+ 
+ 
+Luis J. Nicholas, M.D.
+ 
+NU:UJ:4653/DD:7-8-81/DT:7-13-81/DV:7-8-81
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+*/
+
+func (p *Patient) Write(w io.Writer) {
+	w.Write([]byte("Record date: " + date.Format("3-02-1997") + newline)) // 3-02-1997
+	w.Write([]byte("July 8, 2081"))
+	w.Write([]byte(" "))
+	w.Write([]byte(p.Name))
+	w.Write([]byte(" "))
+	w.Write([]byte("Francis Xayarath, M.D."))
+	w.Write([]byte("Integra Health Center"))
+	w.Write([]byte("487 Jackson Street"))
+	w.Write([]byte(" ")) // 487 Jackson Street
+	w.Write([]byte("La Grulla, ME 21614"))
+	w.Write([]byte(" ")) // 21614
+	w.Write([]byte("Francis Xayarath, M.D."))
+	w.Write([]byte("Integra Health Center"))
+	w.Write([]byte("487 Jackson Street"))
+	w.Write([]byte(" ")) // 487 Jackson Street
+	w.Write([]byte("La Grulla, ME 21614"))
+	w.Write([]byte(" ")) // 21614
+	w.Write([]byte("Dear Dr. Xayarath:"))
+	w.Write([]byte(" "))
+	// 53023691
+	// 53023691
+	// MRN: 53023691
+	w.Write([]byte(" "))
+	w.Write(append([]byte("Your patient Mr. Earnest"), p.Name.Bytes()...)) // 53023691
+	w.Write([]byte("Branche returned to the office today for a follow up visit.")) // 53023691
+	w.Write([]byte("As you know, Mr. Branche underwent a left femoral to posterior tibial bypass one month ago followed by")) // 53023691
+	w.Write([]byte("amputation of a gangrenous first toe.")) // 53023691
+	w.Write([]byte("After being discharged from our service he was")) // 53023691
+	w.Write([]byte("readmitted to the Medical Service with a severe case of C. difficile colitis.  Ultimately this")) // 53023691
+	w.Write([]byte("resolved and he was discharged.")) // 53023691
+	w.Write([]byte("Today he reports that the diarrhea has again resumed and he was placed back on an")) // 53023691
+	w.Write([]byte("oral antibiotic  yesterday.  He complains of only mild incisional discomfort in his left lower extremity bypass graft.")) // 53023691
+	w.Write([]byte("The old right lower extremity bypass graft was also palpable.")) // 53023691
+	w.Write([]byte("The left foot itself is warm.  The great toe incision site, however, has developed necrotic tissue all along the")) // 53023691
+	w.Write([]byte("incision.  This will now need to be treated as an open wound.")) // 53023691
+	w.Write([]byte("The calf portion of the left lower extremity incision also has a narrow zone of superficial skin slough")) // 53023691
+	w.Write([]byte("which was gently debried to clean margins.  The graft is not exposed and there are no deep wounds in the")) // 53023691
+	w.Write([]byte("leg.")) // 53023691
+	w.Write([]byte("Mr. Branche's left lower extremity bypass graft is functioning well.  However, he will require significant ongoing wound care for the immediate")) // 53023691
+	w.Write([]byte("future.")) // 53023691
+	w.Write([]byte("Daily dressing changes will be arranged with visiting nurse services.")) // 53023691
+	w.Write([]byte("We plan to follow him closely and an appointment was given for two weeks.")) // 53023691
+	w.Write([]byte("Thanks again for allowing us to participate in the care of this delightful and challenging patient and please don't")) // 53023691
+	w.Write([]byte("hesitate to contact me at any time if I can be of further assistance.")) // 53023691
+	w.Write([]byte("Sincerely,")) // 53023691
+	w.Write([]byte("Luis J. Nicholas, M.D.")) // 53023691
+
+	w.Flush()
+	b := w.Bytes()
+	for i := 0; i < len(b)&&strings.ToUpper(b[i])!= "END"; i++ {
+	}
+
+}

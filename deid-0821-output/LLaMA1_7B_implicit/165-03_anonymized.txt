@@ -1,0 +1,243 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2094-04-03
+
+
+
+
+NAME:    Yager, Becky 
+MRN:     0887181
+
+Becky returns for follow-up of painful neuropathy.  A lot has happened since she
+was seen.  She was terminated at her job working as a Credit Manager in December 2093.  She
+therefore has been having financial problems.  She does not have enough money to
+buy her medications.  She has a history of hypertension and hypercholesterolemia. 
+She has not taken these medications for months.  She states she has been taking her
+nortriptyline, dilantin and Percocet as previously prescribed.  When I called her from
+the waiting room today, she walked towards me, she veered, and I caught her before
+she fell.  We then got the wheelchair and wheeled her into the room and history was
+taken.  She reports being off balance for about the past month.  She has been feeling
+more unsteady on her feet.  She states she has not actually fallen but has come close
+to falling.  She denies any true vertigo, ringing in her ears, headaches, change in
+mentation, numbness, weakness or change in gait.  On review of other systems, she
+reports a 20 lb. weight gain over the past few months which she attributes to not
+working and being at home and eating more than usual.  She also notes that she has
+begun urinating at night which she previously did not do.  She complains of excessive
+dry mouth.  She reports being more thirsty than usual.  
+
+PHYSICAL EXAM:  On exam, she was her usual pleasant self.  She is alert and
+oriented X 3.  Speech fluent without aphasia.  BP sitting 145/70.  Pulse 80.  Standing
+BP unchanged at 145/70.  Pulse 80.  Cranial nerve exam notable for prominent
+bilateral nystagmus.  Otherwise intact.  On motor exam, no tremor or involuntary
+movements.  No drift.  Good power throughout.  Fine finger movements intact. 
+Vibratory loss to the ankles.  Babinski flexor bilaterally.  
+
+When she got up to stand at the end of the evaluation to leave and telling me she
+was fine, she veered to the right and I again caught her.  
+
+IMPRESSION:  Imbalance with history of recently running out of many of her
+medications though taking her chronic pain medications as previously prescribed. 
+Also notable in the history is new nocturia, increased thirst and dry mouth.  Her
+exam is notable for prominent end-gaze nystagmus.  Therefore I suspect toxic
+metabolic cause.  As she will need STAT lytes, blood sugar, dilantin level and tox
+screen as well as cardiac evaluation, the patient was referred to PROMPTCARE ER.  I will be
+in touch with the physicians after they see her.
+
+Rowena Xanders, M.D.
+
+RX/mcbride/tucker
+
+cc:  Georgia Xing, M.D.
+
+
+
+
+*/
+
+
+
+
+//#include <stdlib.h>
+
+//#include "../../common/include/xstr.h"
+//#include "../../common/include/xlog.h"
+#include "../include/xstr_common.h"
+//#include "../include/xstr_string.h"
+#include "../include/xlog_common.h"
+#include "../include/string_util.h"
+#include "../include/xlog.h"
+#include "../include/xstr_file_log.h" 
+#include "../include/xstr_file_log_impl.h"
+#include "../include/xlog.h"
+#include "../include/xlog_impl.h"
+//#include "../include/xstr_log_msg.h"
+
+//#include <assert.h>
+
+//#include <string.h>
+
+using namespace std;
+
+
+
+
+
+
+
+/*
+//#define XLOG_VERBOSE
+
+
+#ifdef XLOG_VERBOSE
+
+static 
+
+void log_msg_verbose(
+  const char *msg,
+ ...
+);
+
+static 
+
+void log_msg_verbose(
+  const char *msg,
+  va_list params
+);
+
+static
+
+void
+log_msg_verbose_file (
+  const char *msg
+)
+{
+  //va_list params;
+  //va_start( params, msg );
+  //fprintf( stderr, "log_msg(): %s\n", msg );
+  //va_end( params );
+}
+
+static
+
+void
+log_msg_verbose_file (
+  const char *msg,
+  va_list params
+)
+{
+  //fprintf( stderr, "log_msg(): %s\n", msg );
+  //fprintf( stderr, "\n" );
+  //fprintf( stderr, "%s", va_arg( params, const char* ) );
+  //fprintf( stderr, "\n" );
+  va_end( params );
+}
+*/
+
+
+
+
+//#endif //XLOG_VERBOSE
+
+
+
+
+Xlog_common::Xlog_common ()
+{
+  this->set_max_file_size(200000);  // 2M 
+}
+
+
+Xlog_common::~Xlog_common ()
+{
+
+}
+
+
+//
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+
+
+string_util *Xlog_common::create ( const string_util_type_e type, const string_util_type_e subType, const string_util_type_e subSubType, const string_util_type_e subSubSubType, const string_util_type_e subSubSubSubType, const string_util_type_e subSubSubSubSubType, const string_util_type_e subSubSubSubSubSubType )
+{
+	//return new string_util;
+	// return Xlog_common::create( type, XLOG_LOG4JS );
+	return Xlog_common::create( type, XLOG_LOG4JS, subType, subSubType, subSubSubType, subSubSubSubType, subSubSubSubSubType );
+}
+
+string_util *Xlog_common::create ( const string_util_type_e type, const string_util_type_e subType, const string_util_type_e subSubType, const string_util_type_e subSubSubType, const char *log_format, const char *date_format, const char *time_format, const string_util_type_e subSubSubSubType, const string_util_type_e subSubSubSubSubType )
+{
+    return Xlog_common::create( type, XLOG_LOG4JS, subType, subSubType, subSubSubType, subSubSubSubSubType, subSubSubSubSubSubType );
+}
+
+
+Xlog_common::string_util *Xlog_common::create ( const string_util_type_e type, const string_util_type_e subType, const char *log_format, const char *date_format, const char *time_format, const string_util_type_e subSubSubSubType, const string_util_type_e subSubSubSubSubSubType )
+{
+	return Xlog_common::create( type, XLOG_LOG4JS, subType, XLOG_LOG4JS, subSubSubSubType, subSubSubSubSubSubType );
+}
+
+
+Xlog_common::string_util *Xlog_common::create ( const string_util_type_e type, const string_util_type_e subType, const char *log_format, const string_util_type_e subSubType, const string_util_type_e subSubSubType, const string_util_type_e subSubSubSubType, const string_util_type_e subSubSubSubSubSubType )
+{
+	//return new string_util;
+		//return Xlog_common::string_util_type( type, subType, subSubType, subSubSubType, subSubSubSubSubSubType );
+		return Xlog_common::string_util_type( type, XLOG_LOG4JS, subType, XLOG_LOG4JS, subSubSubSubType, subSubSubSubSubSubType );
+}
+
+
+
+
+string_util *Xlog_common::string_util_type_create ( const string_util_type_e subType, const string_util_type_e subSubType, const string_util_type_e subSubSubType, const string_util_type_e subSubSubSubType, const string_util_type_e subSubSubSubSubType, const Xlog_common::string_util_type_e subSubSubSubSubSubType )
+{
+	string_util *str_util = new string_util;
+	str_util->set_format_type( subType );
+	str_util->set_format_type( subSubType );
+	str_util->set_format( XLOG_FORMAT ,  );
+}
+	str_util_type::subtype;
+	str_util_type.
+	
+
+//#ifdef 16. 
+
+//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

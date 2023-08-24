@@ -1,0 +1,594 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2068-04-06
+
+                                                       Patient Name: BARRERA,MARY U [ 45167459(SLO) ] 
+
+                                                         Date of Visit: 04/06/2068
+
+
+
+
+
+Chief Complaint
+
+ The patient presents for care of recent fall, HTN, DM and hyperlipidemia.
+
+
+
+History of Present Illness
+
+88F with CAD, DM, HTN, hyperlipidemia and LE pain. 
+
+
+
+Not seen in ~10 mos. Feels generally well until fall 6d ago. Pt unclear as to reasons of fall but confident that she didn't blackout or feel faint. Pt thinks she may have slipped. was not using walker at home. was able to get up immediately afterwards and felt fine until soreness set in the next AM. She now reports improving bruise on her head, LBP and L toe pain.  
+
+
+
+Pt lives in assisted living facility where meals are prepared for her, etc. 
+
+
+
+Pt does c/o R sided hip and leg pain that worsens when she walks. No LE swelling. No numbness or weakness.
+
+
+
+Reports taking all the meds she's been prescribed but doesn't know names.
+
+
+
+Medications
+
+      ATENOLOL   100 MG PO QD 
+
+      HCTZ   50 MG PO QD 
+
+      LISINOPRIL   40 MG PO QD 
+
+      ZOCOR   20 MG PO QHS 
+
+      Norvasc (AMLODIPINE)    10MG TABLET take 1 Tablet(s) PO QD 
+
+      Oscal+d (CALCIUM Carbonate + Vit D(1TABLE...    500 MG PO BID 
+
+      Tylenol (ACETAMINOPHEN)    500MG CAPSULE take 1 Capsule(s) PO Q4H PRN knee pain 
+
+      Kcl Slow Rel.    10MEQ TABLET CR take 2 Tablet(s) PO QD 
+
+      Asa (ACETYLSALICYLIC Acid)    81MG TABLET take 1 Tablet(s) PO QD 
+
+
+
+Physical Exam
+
+WDWN frail F, NAD
+
+157# 114/64 P72 R12
+
+HEENT: NC. 1 cm hematoma on occiput; slightly tender.
+
+Chest: CTA/P
+
+Back: no focal tenderness; SLR slightly positive on R
+
+Cor: RRR, S1, S2, No MRG
+
+Abd: Soft, NT. +BS. No HSM
+
+Ext: No C/C/E; reflexes trace or absent bilaterally
+
+Romberg positive
+
+
+
+Assessment
+
+1. s/p fall - likely due to mechanical fall, possibly due to deconditioning, weakness and poor balance. will ask PT to do home safety eval and make recommendations
+
+2. R hip/leg pain - likely sciatica and/or hip OA. check L/S films to r/o compression fx and hip films; refer for home PT
+
+3. DM - check A1C and chem panel
+
+4. HTN - check chem panel
+
+5. Lipids - check lipids
+
+6. Med adherence - pt to bring in meds to all visits.
+
+
+
+The patient will f/u with me in  6-8  weeks, or sooner prn.
+
+______________________________
+
+Tracy T. Xenakis, M.D.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+___________________________
+
+
+
+
+
+Chief Complaint:  The patient is here for a routine visit.  
+
+History of Present Illness:  75 yo female. No significant health history.  Diabetic since age 11 and hypertensive.  
+
+Medications:  
+
+      Metformin 1000mg PO QD 
+
+      Glyburide (MICRONASE, GLYBIDE) 2.5mg PO QD 
+
+      Lisinopril  20mg PO QD 
+
+      HCTZ (25mg PO QD) 
+
+      ZOCOR (80mg PO QD) 
+
+      Aspirin 81mg PO daily. 
+
+      CARVEDILOL (SPRINZYL) 12.5mg PO QD 
+
+      Hydrochlorothiazide (HCTZ) 12.5mg PO QD 
+
+      CIALIS (tadalafil) 10mg PO QHS
+
+      CIALIS (tadalafil) 10mg PO BID
+
+  As needed:
+
+      Ibuprofen (VIBRAVIL 81mg, Advil, Motrin)
+
+      Naproxen (ALLENTOUR, ALEVE) 220mg PO QD
+
+      Cialis 10mg PO QD   (1 tablet) 
+
+      Cialis 10mg PO BID   ( 2 tablets) 
+
+      Cialis 10mg PO QD
+
+      Cialis 10mg PO BID   (1 tablet)
+
+      Cialis 20mg PO QD
+
+      Cialis 20mg PO BID (2 tablets)
+
+      CIALIS 10mg PO QD
+
+      CIALIS 10mg PO BID   ( 2 tablets)
+
+      CIALIS 20mg PO QD   (2 tablets) 
+
+  As needed:
+
+      Naproxen (ALLENTOUR, ALEVE, MOTRIN) 220mg PO QD 
+
+      Naproxen (ALLENTOUR, ALEVE, MOTRIN) 1100mg PO QD
+
+      Ibuprofen (VIBRAVIL, 81mg, Advil, Motrin) 81mg PO QD
+
+      Acetaminophen (TYLENOL, ALAMINOL) 325mg PO BID, 
+
+      Ketoprofen (ORALCON, OROSPHIN, KETOROLAC) 50mg PO PO QD
+
+      Diclofenac (ARTHROTEC, PENBROKE, DICLOFENAC SANDOZ) 50mg PO QDS
+
+      Naproxen (ALLENTOUR, ALEVE, MOTRIN) 550mg PO BID
+
+      Diclofenac (ARTHROTEC,PENBROKE, DICLOFENAC SANDOZ) 75 mg
+
+            PO QD
+
+      CYCLOPOLYMER, PLAIN (CYCLOPOLYMER,
+
+      HEXACYCLIPLASTER) 500mg PO QD 
+
+      Naproxen (ALLENTOUR, ALEVE, MOTRIN) 220 mg PO QD 
+
+      Naproxen
+            (ALLENTOUR, ALEVE
+
+            (MOTRIN) 220 mg PO QD
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                     
+
+            [redacted names in the redac
+            (s.
+            or
+            [ ]
+            [
+
+            [ ] 
+            names
+            [ 
+
+            names. 
+           
+            names.
+
+            names. 
+            names. 
+            [redact.
+            [...
+            line
+            names,  or [ 
+            names
+            names.
+            names.
+            names
+            name
+            name
+name
+            name of the names, names and names.  names
+names.  names
+names
+           
+names names.
+            names, 
+
+name
+names.
+
+names, etc names names, etc. or names, names.
+names.
+names.
+
+names or names.
+names names. 
+names.
+names names names, names of names with names
+Names names of names and names or names.
+names.
+names of names, names
+names.
+
+names 
+or names or names.
+names names
+names. names.names. names, names names, dates of names: names.
+names and names of names.
+[names or names.names
+or of names, names of names of names of names.
+names of names.
+names or names, names. names, names, names...
+and names, or 
+names, names, names or names (
+...
+… or names, and names, names, but, names and are a name and a...or and/1, any name, names, name-specific names, names, and patient-name and name and the patient names,  and a….
+
+name-and:
+[: 1st names of a: words below.
+10……10 [... 1:
+
+...
+
+(are of… are:...
+... and “1 are and the or the... and name:
+
+...
+
+
+, or (
+
+... and: (11, a, or: 0 and 
+
+
+
+the or the: and  and the, as: and the, and (the and a,
+[
+are of the names of the, and the and the and (
+
+...,, “ and, 1 in... and, or and, and... and, or and, and (1 of the and, [the,
+1, and and, and [
+(1 are, 2, or  and, or, and, and, and, are, and and are, and, and are, [... of and: "…, and the " (... and [the: 6... the... and: (with the following... 1. 3. and “ are a [1 [0 in the... " are are [in of the are a in the or... " or (1, an, the,
+
+[
+
+. 
+., (of. of the. (. of "A, the, the, and, anine, are 0 or might- an are the-the or a or and (an by the, 0, an, a, and, and an, an, the (and, and the, an - an [an of a of, the 2, a- and,  and and, [an, an, an -
+ ( an, 0 or, 1- and, an (andine, (P, an (an of 1, a, the,
+.
+, an, an, an. 4 of " of an in: an an and- an of "100, an " an "0-d and [[1 or: an “an (1 in your [ [1 ( an: the:: an: an "  an-c with " or an an and, an of the, an- an and are, an or in the (.- an- [ of of the or of the, the, and, an.  and in and or and or [ and, [ ( and [ or [ ( or ( are and, [ ( an or [0 in the are and ( or and are " - an  an an of (  in an,  or  " or, an (, or ( of  of " or of, of the  an of an an of an " or or or or, an or,,, (- and and- and ( of the of an “ of  of " and of “ are of ( an, an- an, an of or and (, of the and  or-1 ( or and-  or and (  [ or of the " of and of  of  of an and and of an  or ( [ by the " ( [ in, or of and, or ( or of 1 of (-or and of or or or- 0-1-1 or of a- and- or or of and, and ( and and and, or, or, " C, [ and, " [,,, and, of the, or [ to to of, to of and to to (2 to of ( ( and and [, are, and ( and, and of to of, to, an of ( of the and of " and [ and and and, that and or and and and and and,, (1 or0, 0,00-20 [, and [ and and, and of - ( and [ [, 0 or  and ( or in and or  C " (  ( and ( or or or or or [ C or or ( or [  or, or " [ in,  or " ( and ( and of an or of an of ( and  - or or " ( and ( or ( and in and: " ":: ( or: C or in ( or. - C and or or: or-h ": and ( " c of " and C of B ( and-1 and "1 or in (  and [1, and, of and of of the [ of ( and of ( or  to  and and to- and B. ( and, or,. and and of, of and of (- ( of of or of and and ( B 0- or-  and and  or ( B,, ( and, B C and and. B. ( and, ( B ( and ( and B ( m and ( or ( t of ( of t of, t of ( (  B ( - and- and- and and and and and (  (. of B and  and and  (, ( and and- and( or ( ( ( t or or or ( ( or and and and (/ ( ( or and. (. ( ( ( ( and [ and. ( ( or ( ( ( or or  or ( ( and ( and (  ( ( and or- and (-t ( and ( or and and ( t ( ( and, ( t and t ( B and (,, ( and (  (, (, and and or (, (, ( and [, B of ( and t and and, (. ( and ( and and  ( and ( and of, ( of a,, c and C C ( ( and m- PM M, M c.,,,,, T (, ( T ( and ( C t ( w, [ M in - - ( ( ( and [ ( W. C C [ ( ( w [ T. P [ W. [ t m w t W ( ( ( T W and P W P. W M M. ( C ( m ( W- t and W,, T C ( W ( W L t ( t t W. T. ( W ( and ( or M M ( or W, m ( and ( C - and W ( M. and t. to ( to ( C M ( m- m m and M m or t and t M C W t W W P W C W, T W, T and to., C, W and and and c and,, W W. ( and  C C T ( P and ( c and M or W ( W W  ( W m W ( W. and M W and and W T W C and T W C C and W C W C and, W., C

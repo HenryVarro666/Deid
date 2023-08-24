@@ -1,0 +1,259 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2080-06-15
+
+
+Walk-in visit because of  
+Pt of Dr Shamar 
+Seen in the EW bo  HA , work up negative. Basicallty the diagnosis was anxiety. It seems she's very lonely here,  lives with son who works long hours.   In the EW  it was recommended she antecipates her trip to Ghana because she  feels much better there.   Sent for fup with pcp . 
+Symtpoms all resolved . Son needs a letter to  antecipate her airplane ticket 
+She ahs no new complaints. 
+
+
+Problems
+TOXIC NODULAR GOITER 
+ARTHRITIS 
+CVA : In year 2071.
+Hyperthyroidism : I-131 5 years ago.
+Insulin dependent diabetic 
+Hyperlipidemia 
+Hypertension 
+h/o urosepsis 
+ 
+Medications
+Actos (PIOGLITAZONE) 15 MG (15MG TABLET Take 1) PO q.d. #90 Tablet(s)
+Calcium + D (600 MG ELEM CA) (CALCIUM CARBONATE 1500 MG (600 MG ELEM CA)/ VIT D 200 IU) 1 TAB PO BID #3 Month(s) Supply
+Enteric COATED ASPIRIN (ASPIRIN ENTERIC COATED) 81 MG (81MG TABLET Take 1) PO QD #90 Tablet(s)
+Insulin NPH HUMAN 17 UNITS SC as directed , 15 units in the morning and 5 units at night #3 Month(s) Supply
+Lancets ONE UNIT (Take 1) PO bid x 90 days #180 units
+Lipitor (ATORVASTATIN) 20 MG (20MG TABLET Take 1) PO QD #90 Tablet(s)
+Lisinopril 10 MG (20MG TABLET Take 1) PO QD x 90 days #90 Tablet(s)
+Lopressor (METOPROLOL TARTRATE) 25 MG (25MG TABLET Take 1) PO BID #3 Month(s) Supply
+Micronase 5 MG PO QD #90 Tablet(s)
+Motrin (IBUPROFEN) 400 MG (400MG TABLET Take 1) PO BID #30 Tablet(s)
+Onetocuh Ultra Soft Lancets ONE TOP As directed , Use as directed #1 Box(es)
+Onetouch Test Strips ONE TOP as directed , Use as directed #1 Box(es)
+Plavix (CLOPIDOGREL) 75 MG PO QD #90 Tablet(s)
+
+
+Social history:   smoking ( - )
+
+
+ROS: 
+Constitutional: Feels well.  Energy: good. Wt: stable       
+ENT: no hearing loss, no ear pain, no nasal discharge   
+Skin: no rashes, itching  
+CV:  no chest pain,  no SOB, PND, DOE, no edema  
+Respir: no cough, no wheezing   
+GI: no nausea, no vomiting, no abdominal pain, heart burn, nl BM  
+GU: no dysuria, no frequency, no urgency. 
+
+
+PE:    Appears     well.  Legally blind. 
+Vital Signs
+BP 151/68, P 88, Wt 140 lb
+FINGER BLOOD GLUCOSE 90 
+O2 sat 99         
+HEENT: NCAT, EOMI
+Neck: no  cervical adenopathy 
+Lungs:  clear bilaterally
+Heart:  regular, normal S1 and S2.
+Abd: Soft, non-tender. 
+Extr: no edema. 
+
+
+ASSESMENT AND PLAN: labs reviwed
+DM : check A!C today
+HTn :    increase lisinopril to 20 mg, check chem 
+HL;  check  cho profile on lipitor. 
+Anxxiety: letter to  antecipate  her  trip 
+
+
+
+
+
+
+
+
+
+
+"""
+
+
+
+
+import os
+import re
+import codecs
+import sys
+import random
+import json
+import time
+
+#sys.path = os.path.dirname(os.path.dirname( os.path.abspath( __file__ ) ))
+import settings as s
+sys.path = s.get_path()
+
+
+
+from pyx.client import client
+from pyx.server import server
+from pyx.server.client_handlers import (
+	get_client_by_username,
+	get_clients,
+	get_user_by_email,
+	login_with_username
+)
+from pyx.server.server_handlers.get_clients_by_username import (
+	get_clients_by_username
+)
+from pyx.server.server_handlers.get_clients_by_email import (
+	get_clients_by_email
+)
+from pyx.server.server_handlers.get_user_by_email import (
+	get_user_by_address_book_email
+)
+from pyx.server.server_handlers.get_user_by_username import (
+	get_user_by_username
+)
+#client = client.Client('localhost', port=8801, debug=False, timeout=60, use_ssl=False)
+#server = server.Server('localhost', port=8802, debug=False, timeout=60, use_ssl=False)
+
+#client = client.Client('localhost', port=8805, debug=False, timeout=60, use_ssl=False)
+#server = server.Server('localhost', port=8806, debug=False, timeout=60, use_ssl=False)
+
+client = client.Client('localhost', port=8807, debug=False, timeout=60, use_ssl=False)
+server = server.Server('localhost', port=8808, debug=False, timeout=60, use_ssl=False)
+
+
+
+client = client.Client('localhost', port=8801, debug=False, timeout=60, use_ssl=False)
+server = server.Server('localhost', port=8802, debug=False, timeout=60, use_ssl=False)
+
+#client = client.Client('localhost', port=8807, debug=False, timeout=60, use_ssl=False)
+#server = server.Server('localhost', port=8802, debug=False, timeout=60, use_ssl=False)
+
+
+
+#client = client.Client('localhost', port=8807, debug=False, timeout=60, use_ssl=False)
+#server = server.Server('localhost', port=8802, debug=False, timeout=60, use_ssl=False)
+
+
+
+client = client.Client('localhost', port=8803, debug=False, timeout=60, use_ssl=False)
+server = server.Server('localhost', port=8804, debug=False, timeout=60, use_ssl=False)
+
+#client = client.Client('localhost', port=8803, debug=False, timeout=60, use_ssl=False)
+#server = server.Server('localhost', port=8804, debug=False, timeout=60, use_ssl=False)
+
+#client = client.Client('localhost', port=8803, debug=False, timeout=60, use_ssl=False)
+#server = server.Server('localhost', port=8804, debug=False, timeout=60, use_ssl=False)
+
+client = client.Client('localhost', port=8807, debug=False, timeout=60, use_ssl=False)
+server = server.Server('localhost', port=8804, debug=False, timeout=60, use_ssl=False)
+
+
+client = client.Client('localhost', port=8808, debug=False, timeout=60, use_ssl=False)
+server = server.Server('localhost', port=8806, debug=False, timeout=60, use_ssl=False)
+
+
+
+client = client.Client('localhost', port=8803, debug=False, timeout=60, use_ssl=False)
+server = server.Server('localhost', port=8804, debug=False, timeout=60, use_ssl=False)
+
+client = client.Client('localhost', port=8807, debug=False, timeout=60, use_ssl=False)
+server = server.Server('localhost', port=8806, debug=False, timeout=60, use_ssl=False)
+
+client = client.Client('localhost', port=8803, debug=False, timeout=60, use_ssl=True)
+server = server.Server('localhost', port=8804, debug=False, timeout=360, use_ssl=None,
+
+
+
+
+
+client = client.Client = Client: 
+
+
+client=client :  Client :  
+
+client
+ 
+
+
+client = client 12347015
+
+
+
+client = Client: client 15
+
+
+
+
+client 
+  client 
+
+   
+client : client 16
+Client 
+Client 16 122 
+
+
+client 
+111 5
+1 
+
+
+
+client:client 12 client:
+client: 
+
+client 15.
+
+
+10.
+client
+.
+
+Client:client:client 123 2015 client
+
+
+15 client 2 client:Client 43.
+14 client 
+Client  client 
+Client : 3 client 4  client 
+Client client  client 3
+Client   client:  client  client  client. The 
+Client: client:  client  client: client  client:   client 
+client: client  client  client patient
+Client : 11 patient.Client.  client   patient patient and client and patient (client: client
+  patient  
+ 20 patient. 3.
+
+The  patient was a 20 patient.
+.  client 2
+ and patient, 12 and 
+
+ 
+  is 4
+is and 14 and 1.
+. I 3.
+   
+The 
+and the 8 and 12. 
+date
+
+
+.
+
+12. 1 
+ 0 91 2. 198 and 
+and, as the time
+and to the 1026. 423.  2
+date
+125. An. (
+[.   
+14 -21 (41,2: 2: : 1 and: a: . .
+.   a,.
+M  a is a was. 1  and a-and and 36 isotiff 15 and, and a. An is and  a and an    a 14 and it was,.18 is the  is. An. An and the. An (A, and  as the.,   and the is was the is.   is in the is. She  is and  and . is  and the. was isite, a was. An... a 151,  is..   (1..     and and. ., a and the 10, An  A1 11 An  and a  is. An: is is day,1 and the is.. C1. An C.. An.. An. (An, a, and and a is, patient ( is the is.  and and -1 and is. and a in his, hour.. (h. 0 is a (11-2 An was  a. An and  A.. An C.  . Anist. An was a 1.. An. An and an,  and,  to and (,... was, is (  ( an. and   and. is   An,. - -C GO A IN AN A-. and a. to. .. C. and,., a was a  is (..  and ( C. C and C.  G.. C.  An C An. An ( An An. An.. An,. C ( C. An An An An: A Anist- is [ AN GO AN AN CH IN. is., An (. and is and a and. An.-2 was , is an... ( and and,, a,..,  un [., is and,.. and (,,  is. [ is (. is.  is. (. is (..   M An. An.  An in - H-  H.,,.,  (.. (.  ( to for the -.  and   and...,.,.  in  B. in,.,  (.,  and (..,,, M. (.   - C. M , and,,,... and.,,. to, ( and [...  and and and and ( and and hr... was [. ( - - a  in [ B [  [   [ C,,. S and A and  P An C An An An An.. (   and a.  g m (, a and, M (..  (  in and, M in (.. B  C G, G G ( [.. [..  C. A. M. and. B (.. M.  (. (.... (, L. and and. I  M. C a m g.  C C and. C C P An P C L P B An C  I C  I.  I M C C M and  C M and I  M  M  A M M I M U. and  M L M S (  G C and C,  C  P C.  I.. M. C C W P M  P  P B  C (  (. C  (  C M M a M M  M M a   g M M M and ( ( M L. I I.  I I  I I I C A. A  L a M  (  C.  C C S. P    C  C  C T.   ( C, (  P,, M and. M to .. T.  I    I a  in a C C  ( a a, H P L P  A  P C ( a. and M and. M C C t m  C.. S L L I  A S P M  I  C C A I S.   B  a. A C. L P T C and  - T  -    M and C -. A and C -  M  m   ( M.  M  M C P A C - C,   m  a a . I.      I (- and- A. R P C A P and.    M. M M C M C C  C.     T  C  S a  C B C P.  E P M C M G.  M  B. M   B E. M P ( a.  m. M . M   C. P B T.  B A P C- B M .. S A- - C C M P. C. C M A  C-  a. M  C C   A B M C C a M C  C P A  a  B  a C- a  c  a - C/ -  C A  a a  C   m  M  c  m  M M M M , A M C C A  a,  P T C T  cl a    m a  M. ( M T M M  M C M  C  P m m,,,  c t. M C M- C M C C M. P  C M A T. T P m c c m sp c a- C  C. C- C E a  A P m  c m-  M. P a c, P P , M M M M M M  C    P C  B C C P C T C a. T. B A.  M  T.

@@ -1,0 +1,210 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2099-07-17
+
+                     KEKELA EMERGENCY DEPT VISIT
+ 
+LEON,MAURICE   436-34-21-1                 VISIT DATE: 07/17/99
+Patient seen on 7/17/99 by myself and the medical resident at 4:30 
+p.m. 
+PRESENTING COMPLAINT:  Chest wall pain. 
+HISTORY OF PRESENTING COMPLAINT:  The patient is a 44 year old male 
+complaining of chest wall pain, constant, times 24 hours.  The 
+patient states the pain is worse with respirations and movement. 
+The patient claims similar episode in past, and was told had a 
+"pulled muscle". 
+REVIEW OF SYSTEMS:  Patient denies trauma, denies nausea and 
+vomiting, diaphoresis and shortness of breath. 
+PAST MEDICAL HISTORY:  Positive for hypertension and asthma. 
+MEDICATIONS:  Procardia, Albuterol, Accolate. 
+ALLERGIES:  None. 
+PHYSICAL EXAMINATION:  A well developed, well nourished male lying 
+on stretcher, communicative and in no apparent distress.  Temp 
+98.3, heart rate 112, blood pressure 133/86, pulse ox 95% on room 
+air.  HEENT - normocephalic, atraumatic.  Heart - regular rate and 
+rhythm without murmurs, rubs or gallops.  Lungs clear without 
+wheezing.  Abdomen soft, non-tender, positive bowel sounds. 
+Extremities without clubbing, cyanosis or edema.  Chest wall - 
+positive reproducible pain on palpation which improved when 
+palpation stopped. 
+FINAL DIAGNOSIS:  Chest wall pain, probable costochondritis. 
+DISPOSITION (including condition upon discharge):  Plan - discharge 
+with nonsteroidal anti-inflammatories which patient has taken and 
+tolerated in the past.  Discharged in stable condition. 
+___________________________________                    HP506/6486 
+WINIFRED MANNING, M.D.  WM26                               D:07/17/99 
+                                                       T:07/17/99 
+Dictated by:  WINIFRED MANNING, M.D.  WM26 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+"""
+from __future__ import absolute_import
+from __future__ import print_function
+
+import os
+import sys
+# from six.moves import StringIO
+from cStringIO import StringIO
+
+from nose.plugins.skip import SkipTest
+from nose.plugins.attrib import attr
+from nose.tools import assert_true, assert_raises, assert_equal, \
+                          assert_list_equal, assert_not_equal, \
+                          assert_false, assert_raises_regex
+import nose_parameterized
+
+from nipype import config, exceptions, utils
+from tempfile import mkstemp
+
+
+class TestNoseUtils(nose_parameterized.TestCase):
+
+    def setUp(self):
+        if not self._is_parameterization_enabled():
+            raise SkipTest('No parameterization')
+
+    def tearDown(self):
+        self._cleanTempDir()
+
+    def _cleanTempDir(self):
+        for root, _, filenames in os.walk(os.path.join(utils.getTempDir(), 'nipype')):
+            for fname in filenames:
+                os.unlink(os.path.join(root, fname))
+
+
+    def _makeTempFile(self, fname, dirname):
+        fpath, fname = mkstemp(dir=dirname)
+        with open(fpath, 'w') as f:
+            f.write('')
+        return fpath, f
+
+    def _assert_file_contents(self, fpath, fname, expected):
+        self._assert_equal(fname, fpath, "contents")
+        if not isinstance(expected, basestring):
+            expected = os.linesep.join(map(str, expected))
+        self.assert_true(os.path.exists(fpath), 'file does not exist')
+        with open(fpath, 'r') as f:
+            contents = f.read()
+        self.assert_equal(contents, expected, 'file mismatch')
+        self._cleanTempDir()
+
+    def _assert_file_absence(self, fpath, fname):
+        self._assert_equal(fname, fpath, "absence")
+        self.assert_true(-os.path.exists(fpath) - os.access(fpath, os.W_OK))
+        self._cleanTempDir()
+
+    def _assert_equal(self, exp, act, exp_msg, act_msg):
+        if exp!= act:
+            msg = "%s!= %s\n%s\n%s%r" % (
+             exp, act, exp_msg if exp_msg else'',
+             act_msg if act_msg else '',
+            )
+            assert_true(False, msg)
+        else:
+            assert_true(True)
+
+    def _check_param(self, p, paramType, p_expected):
+        assert_true(p is not None)
+        assert_false(paramType == "string" and type(p) is str or
+                     paramType == "integer" and type(p) is int or
+                     paramType == "float" and type(p) is float or
+                     paramType == "file" and type(p) is os.path.basestring)
+        assert_equal(p_expected, p)
+
+    def _check_param_list(self, p_list, param_type, p_expected):
+        for p in p_list:
+            self._check_param(p, param_type, p_expected)
+        assert_true(len(p_list) == 1)
+
+
+def _check_param_list_eq(p_list, param_type, p_expected):
+    for p in p_list:
+        self._check_param(p, param_type, p_expected)
+    assert_false(len(p_list)!= 1)
+
+
+class TestUtils(TestNoseUtils):
+
+    def test_get_file_contents(self):
+        file, contents = self._makeTempFile(fname='file1.txt', dirname='nipypath')
+        file_contents = "file1.txt\n"
+        contents = StringIO.StringIO(file_contents)
+        self._assert_file_contents(file, fname, contents)
+
+    def test_check_file_exists(self):
+        self._assert_file_absence(self._makeTempFile(fname='does_not_exist.txt',
+                                                      dirname='nipypath'), 'does not exist')
+        # check that file actually exists
+        self._assert_file_contents(self._makeTempFile(fname='file2.txt',
+                                                      dirname='nipypath'), 'file2.txt',
+                                   "contents")
+        self._assert_file_contents(self._makeTempFile(fname='does_not_exist.txt',
+                                                      dirname='nipypath'), 'does not exist')
+        self._check_param_list([],'string', 'file2.txt')
+        self._assert_file_contents(self._makeTempFile(fname='file3.txt',
+                                                      dirname='nipypath'), 'file3.txt',
+                                   "contents")
+
+
+class TestParameterizedUtils(TestNoseUtils):
+
+    @classmethod
+    def setUpClass(cls):
+        # skip test for parameterization when no parameters were supplied
+        if not cls._is_parameterization_enabled():
+            raise SkipTest('No parameters supplied')
+
+    def _makeTempFile(self, fname, dirname):
+        file_dir = os.path.join(dirname, 'test')
+        if os.path.exists(file_dir):
+            shutil.rmtree(file_dir)
+        file_dir = file_dir + "/"
+        f1, f2 = mkstemp(prefix='' if sys.version_info > (3,4,12,7) \
+                                  or (3, 6,12, 12) else (12, 12) \
+                                       or (12, 6, 2
+                                       or (12, 6, 12) else (12, 12, \
+                                       else (12 if
+                            12
+
+
+
+        or
+
+                    12, 2, 24
+\n spaces or spaces
+                 spaces or nspaces
+             or spaces
+             spaces or spaces spaces or spaces spaces spaces spaces or spaces
+spaces spaces
+spaces
+spaces or spaces spaces spaces  spaces spaces, spaces spaces spaces
+spaces spaces spaces spaces
+spaces spaces: spaces spaces spaces spaces spaces, spaces spaces spaces of the spaces spaces spaces spaces spaces
+spaces spaces spaces spaces spaces.  or spaces. Spaces spaces spaces of the spaces spaces spaces spaces  spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces or spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces names spaces spaces spaces spaces spaces.
+spaces spaces spaces space of spaces spaces spaces spaces space spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces names, names of spaces spaces spaces spaces spaces, spaces spaces and spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces space spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces. spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces space names spaces spaces spaces spaces names spaces spaces spaces spaces spaces of the spaces spaces spaces spaces and spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces... spaces spaces space spaces spaces spaces spaces, spaces spaces spaces. 3 lines spaces spaces
+The words spaces spaces (pat or, and the, and names spaces, spaces and names.
+(and names of... the, and [the, etc or... or the are the are or, the [or, 111 or 1 and names...
+
+
+district, and names, and names
+1.
+
+and,
+(
+[1: 3:
+name, the patientize, the... and: (19 to avoid (12......: …... are or are a or... are (
+
+of the, but and indicate ([by, or... are or are, and the  (or ((make, “ and, as: and the " or the (...
+
+[and, the [the, and the,
+
+following, 
+followed in a 1... (the are and the [1 and are a 
+..., of the (...and and and and 10 and,  and "…, (in the, and, and, or, or, [[...[, the, 0, as, and and... 1, and the and are, the or, and, but,  (...,,, 1. 
+and, 3, the, and the, the and of, and (1, the, the...:... with the...: the with the...1: (1 (follow  “. : and and a and "2 (make-wish are a [fine are a and,
+the or,  by the, “, 1 and, 1 [pat, andities, and of the of the of the, and the. An and, and (in or (in, and, an, 0 are, are the are, and, the,  by "1, a [ and and an "make, an an an an 1 an, an of, the, a, by (an of  by the,  an, "and and, or, an and or of an an of, an, (le an and [1 and, an, and, 1 in the and, of, and and of the, (make, an:, and the, the, an in (3 (1-3: an-and:,,  of the:::: an "1-1:-1,:: [:::: -: and " and-and-  (:-1 and-with:: (:: in::: in the-in "  or- [ in (-an and-con-  and (- an of  and of the of the " of [.., or [, - and... (,,,,, (, [,  and-P [ ( [ or- ( and in and and-  an or,  ( are [ and, an and (- an - an - an, an, an- an of the of, in,- or, are of the or an of a of the and- (,, or,,, ( and (- an, and of " of  of  of or " ( and,, an, ( and [, and, and are an,  of the " ( or or or or of an or in an, ( and, -  by - and- ( of the and of, of and and of and by, by: and and: - for, (- and- in, an- ( and  for an in and for in of-0 or are of a-  (,,,, an or, and, an, of, and and, [- and,, and, of, and,, or, (, of and, or of  of an ( of and for of or- of, and ( of  and an, [ of, of or of and of or of of of of of  and of, by, of and,,, [,, to, and, to, to,, 0,  1- and, ( and or 1 and and   and  (,   and  -  al or and (  and by an or or-k in or or or or, [ ( -  - or and an  - and or and and- or or or and and 1  of, of  of the ( and c 1 " ( and and al c- or and, and of the  c: and and and  c (: or and- and c:: by: or or and,: and or of the and- al of it- and-2 and " and and and-m- or and- and, of, of of of, of of [ of and, and  and and or- and- e c- except, and,, of, of, of of  of 3 of 1, and (0, and-1- or and and- and,.  (, and, or  and. or c,-1, or and and and m  ( and ( or- or or, (: of and of of al  t- c, ( and (- al and, and,  and,  and of and and or al ( c or and ( al c,  and and ( w ( and,,, and, and,  and  and and, and,  t and-1 ac (, e m ( or- or t a and, and t or and and and, c m a and w and ( and and or- or and and (, and, and, e and and, 1, and and, and t, and,, al,,, and and ( and and,, (,, and,, c,, and,,,, ( (,,,, ( and al c and, of  m al,, w ad t m t m- d, ( ( d and and, of t, and,,, or,,, m and,, and ( in t ad m in, ( and and and, c and, and to m2 m m- t d c and ad m- d m- or ad al, n and and t- and d, t- m m and t b m or t d- and and, _ and of t, n c t and- m of t- al al t m al b al- t al b al,, c al,, and and, t (,,,,,,, and _ (,, or ( and, and and,,,, (,, ( of, a of of  de of, d, of  and- of m, of of of, of of of, of, of,0,, (- of and c of, and and,,, and ( (,, al and and, of of, of of of of of, de- of t of of de of, and, of, of,,,,

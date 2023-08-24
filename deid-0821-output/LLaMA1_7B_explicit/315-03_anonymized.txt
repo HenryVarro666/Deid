@@ -1,0 +1,567 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2122-07-21
+
+Valle, Isabella
+
+KMC Neuro EW Consult
+
+Date 7/21/22
+
+MRN 4698877
+
+DOB: 7/30/67
+
+
+
+CC: Unresponsive this AM, with R sided deficit
+
+HPI : 54 yo ?handedness WF with sig h/o PCKD on peritoneal dialysis, HTN, hypercholesterolemia, IDDM, s/p L MCA aneurysmal rupture and repair 4/22, who presents this AM found unresponsive by husband (All report given by EMS< cannot contact husband and he is not currently present.) Pt reportedly was last seen in USOH last night about 9pm when peritoneal dialysis was started. She was found this AM with her dialysate fluid half run through and it was on the floor, she was unresponsive.  Pt intermittenly responds to commands and is not speaking, so ROS is unabl to obtain at this point.
+
+
+
+ALL: unknown if any allergies
+
+Meds: Lipitor, Prednisone,Zestril, Norvasc, Calcitol, Phenytoin, Mesnest, Nephrocaps, Phoslo, Insulin NPH 37 and Reg 7
+
+Med Hx:  as above, HTN, hypercholesterolemia, PCKD, IDDM, s/p L MCA aneurysm 4/22 
+
+Soc Hx: unknown at this time
+
+
+
+PE: T   96.6         P   101       R   20        BP    167/62         O2=100 RA
+
+Gen: WF, appears older than stated age, withdrawing R side, looking to left
+
+HEENT: normocephalic,atraumatic
+
+Neck: supple, no bruits
+
+Lungs: CTAB no w/r/c
+
+Heart: RRR S1, S2, no m/r/g
+
+Abd: soft, +BSs, slightly firm, peritoneal dialysate access in abdomen, abd bandaged, fluid exuding from abdomen
+
+Ext: no c/c/e
+
+Neuro: alert, cannot assess if pt is oriented to person, place, time, pt completely aphasic, follows verbal commands, cannot perform rest of MMSE at this time
+
+CN: PERRLA, EOMI, eyes deviated to L, not roving, able to track and cross midline, no blink to threat on the L, visual acuity unable to assess, sensation face equal bilaterally, R sided NLF flattening, 
+
+Motor: no PND on L, cannot lift R arm off bed to command, normal bulk on R, increased tone on R, atrophy of leg and arm on L, no tremors or fasiculations noted 
+
+Strength unable to assess officially, moving L arm and leg spontaneously, no movement of R upper and lower extremities, only demonstrates flexor withraw to painful stimuli on R side
+
+Sensation: unable to assess, pt does not respond to questions re:extinction or sensation but does respond to painful stimuli
+
+Cerebellum: unable to assess
+
+Gait: unable to assess
+
+Reflexes: biceps, triceps, BR R 3+, L 2+
+
+	Patellar, Achilles 3+ R, 2+ L, toes upgoing on R, downgoing on L
+
+Labs: WBC sig for 17.5 w/ 90%N, chem 7 pending
+
+Imaging: Pending CXR
+
+A/P: 54 yo WF with sig medical problems, including L MCA stroke in 4/22, now with new R sided deficits ?stroke vs. sz
+
+-CT no angio for now givenperitoneal dialysis
+
+-likely for MRI/A of head and neck with diffusion as per acute stroke protocol 
+
+-likely CMF admission/ stroke team unless suspicion for sz, infectious cause
+
+
+
+
+
+
+
+
+
+Thelma Delarosa MD,PhD Neurology Resident Pager 04272
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+		
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	 
+
+
+
+
+
+
+	 
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	 
+
+
+
+
+
+
+	 
+
+
+
+
+
+
+
+	 
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+																																										 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																								 
+
+
+
+
+
+
+
+
+
+																							 																 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																																									 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																																									 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																											 												 
+
+
+
+
+
+																																						  
+
+
+
+
+
+																							   																  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																																							  																																			 
+
+
+
+
+
+
+
+
+
+
+																																							 																				
+
+
+																																				 																					 
+
+
+
+
+
+
+
+																		
+				
+
+
+
+
+
+	
+
+ 
+
+				
+
+
+
+
+
+
+	
+
+		   
+
+	
+
+
+		   							
+									                 
+									  				  	
+											
+												
+				
+					
+												
+												
+
+
+					
+
+
+                                                                                              
+
+
+                                                                                               
+
+                                                                                                 
+
+                                                                                           
+
+																																		
+						
+                                                                                        	                        
+                                                                                                                                                                                                                            
+                                              
+
+                        
+
+			
+								of the date and																						 and                
+		
+                            	
+						...
+
+
+
+					words, dates...
+		
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+	and a letter
+
+
+	
+
+	
+	
+
+
+	letters
+letters
+
+	or 
+
+	letters of letters, letters
+	names
+
+or names
+
+
+	patient
+
+
+
+
+
+
+	
+	letters, the date fields 
+
+
+
+letters	letters.
+let
+let letters
+Letters 3 names of letter patient name of patient, the patient. The patient of a letter or.
+letters, butter... [or...
+Letters, but [date [name...
+letter names
+names the patient letter, and the letter, and letter
+The letters and letters
+... (pat names and the letters (...
+
+
+and the letter.
+(or, a...
+name (let and date, and the patient names, letter, the name, and names, or names and names of the letter. This, the names... and names, but... and...
+or, as are a letter.
+or name...
+
+and 4, names, names that, names. Anterior...and names, names and names.
+...
+: names of the 2: 5-15-1, you, the patient:
+andized:
+(1, the patient and the patient and patient:
+pat (are and...
+10 are: 1, [and are and a "1 indicate the are, 4:
+
+(1, the 0 or, a few of:
+and or: and... and and the, 1 or, the: and (d to 2 and the and and the patient,1,  and (11
+… ( 1 and...
+
+1 and 5, and (1, as, (…, the (the and, and, and... (...,
+and, and and the and, or,,
+and, as, a, 2, the, as a…. 1 are, 1 and, (..., and are, 3 and are a, 1 that, and are (2 of the: (and of [1, "the, [1, and and a patient in your,...and "le(...an: an and... and.  and [3 [1 (are [2-le... include, indicate that-1- 5 of  " [,  [, (and, an (make, or, and, or. and of " of the and and of the,, the ( and in, and, or, and have, an, can anine ( are, have, an, and,, (1 and and, An, the and,  and, 1 (Anich,, and, the. Anis, Anis, 2, or, or an, an, and, and, an, of the of, of, and,, an, 0, and, an, an, an, 5, and, and in the, a and, (1, 2, 3, [1, 1, an, an and and, an and and, An:1: and 2 an::: 1: (: and [ and:: and:  " an [ [: [- [2:: an:  an: an an: an with " and: ( an-1 of (1 of " an, and an an and [ ( an " [ ( and and of the of " of, of the and " [., and [,, and- and [ and, an and in an, an and and by an (1 of the and-an- an [ an ( an, (- or and an, an, are, by ( - and by and by an, - an an  ( an of, in or,  or in of the of of of and  of the an of or, [,,,,,,,, an, of the of of the of of of " or and, or,  ( or, and or,, are or an, and,, of  or or- by an an or, an and or and or or ( and in, and in of the, of ( of  of an or ( and or: 1 and:  ( and: or, - or or of a or and  as or-2 of  and of the 0-2 1- or as- and, or, and and of,  and, and and or -  and [ and and or an, or as- as and,, or and of,,, or of,2 or of 12-  or,, or 2 2, of " or of as of and or of an of, of of the, of an of,,, and an- an or,,, and [ ( as-0-2-1 as 1 in, and and  in, in and -,  and of ( - as and  and ( (   an and as  as an - "  ( and as as or or or or ( ( as  or of  as or and and as ( and and as of as as as ( as of  of as of  and or and or as, 1 or and  or: and and " and (:, and of  and ( as and or to and:: and -and and- and in as - and or of as and of and as c of and, as or as and or and or and- or and,,, of, of or or of or, as of,, as, or, or  ( or,,, in, as  as as, as of of of of of the or of of of.1 or and or ( and and and as  (,,,, and but and, as, to as, and  and. and, and  or  (, and - ( as or as and  and of of of of of t of and, and,, C,,  and  and, or and and ( or or  or ( and and/-. and. - and. or, as an., and-,, or, and  ( and and,. (1 to and as ( ( and, as as and, or, and [ as, and. and and to,  to and ( (, (  as,, and, (,, and and (, and, and- and, as,,,,, and, (- and, and ( or,,,, and (,,,,,, as,,, L., H, ( (,,., as as-  of/ A L and,  ( and,., and - P L and,. - -, of and and,,,,.,, ( and ( and or  and,, A,,,, (- and in,/ or,, or- / (/  ( ne- ne to and, and, of of to to, C to to and, to and to and., and,, A. and- A C, and,  and and or,, A- or,, to to or to, ( and, and, and, A or ( H and ( or, to - as and.. or, H, and and, as,, P P, and and,, ( of and- and/ as to to in,,, and to,, and,,,,,,, or and  A.,,,  and ( P. and or A. ( ( and, to, to- to, to and to to to/ to, to.  to- to, or, A, and, or,,., and (

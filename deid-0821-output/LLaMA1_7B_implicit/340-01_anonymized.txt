@@ -1,0 +1,383 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2072-12-16
+
+
+MRN: 56817864
+
+CAROLYN HUNTINGTON BAILEY HEALTH CENTER
+468 Kristina Street                                Xia, Jean
+North East, AL 81699                       CHB9278143
+(687) 396-2722                                12-15-72
+
+
+CHIEF COMPLAINT: Ms. Xia is a 53 year old woman who comes in in 
+follow up. She notes that she is still having occasional sweats at 
+night. She is using the clonidine but she can't take it two times a day, 
+it makes her too sleepy, so she takes it about 3:30 towards the end of 
+her workday and then again before she goes to bed. She is having some 
+right lower back pain and otherwise is feeling well.
+
+REVIEW OF SYSTEMS: Negative except as noted. She is also taking the 
+Cozaar which she had been taking before. 
+
+She was called back in today as a result of labs which were done 
+recently which showed hemoglobin A1C of 8.7, an elevated urine 
+microalbuminuria and hypertension which needed follow up.
+
+PHYSICAL EXAMINATION: On exam today, she is well developed and well 
+nourished in no acute distress. Blood pressure 158/116, pulse 80, weight 
+166. Pupils are equal and equally reactive to light. Lids and 
+conjunctiva normal. Retinal fields normal. Disks sharp. Mouth and 
+pharynx without erythema or exudate. No adenopathy or tenderness in the 
+submandibular, cervical, posterior cervical, supraclavicular areas. 
+Heart sounds: S1, S2, with a II/VI systolic murmur heard best at the 
+right sternal border. No rub or gallop. Her chest was clear to 
+auscultation anteriorly and posteriorly with no rales, wheezes or 
+rhonchi. She was clear to percussion. She has normal bowel sounds. Her 
+abdomen was soft and nontender, no mass, organomegaly, and no guarding, 
+no rebound. Her extremities are without edema, cyanosis or clubbing. She 
+has no spine or flank tenderness. Her neck is supple, no bruits. Her 
+skin is essentially quite dry and itchy. She has multiple dark, 
+hyperpigmented, post-inflammatory scarring on her lower extremities. Her 
+mouth and pharynx are without erythema or exudate. 
+
+IMPRESSION/PLAN:
+1. Hypertension. Her blood pressure is really not well controlled. I 
+will add atenolol to her regimen 50mg PO q.d. She drinks one cup of 
+coffee a day and rarely has alcohol although she notes that she will 
+occasionally have one, a scotch, on Friday or Saturday. She does not do 
+drugs. She will return in three week for follow up of her blood 
+pressure and at that time for a physical exam for which she will be due. 
+
+2. Diabetes. The patient had been told in the past that she had diabetes 
+but she was told she did not need any sort of treatment for it. Her 
+creatinine was 0.8 last month and I explained to her that with her 
+elevated hemoglobin at 8.7 she needs treatment. We will start her on 
+Glucophage 500mg PO b.i.d. I expect we will need to increase this and if 
+she tolerates this she should increase it to 1000mg over the next week. 
+I also explained to her that if she does not eat or she is unable to eat 
+or if she is NPO she needs to stop taking this medication. I suggested 
+she actually take it with food to insure that she only takes when she is 
+eating. I gave her a referral to Ophthalmology and to Podiatry. She also 
+requested a glucometer machine and this was ordered for her along with 
+
+CAROLYN HUNTINGTON BAILEY HEALTH CENTER
+592 Kristina Street                                Xia, Jean
+North East, AL 81699                       CHB9278143
+(687) 396-2722                                12-16-72
+Page 2
+
+
+lancets, alcohol wipes and test strips and again she will return in two 
+weeks for follow up.
+
+
+______________________________
+Yolanda Osburn, M.D.
+
+CP:FO:3549 ; DD:12-16-72 ; DT:12-16-72 ; DV:12-16-72 
+
+
+
+
+"""
+
+import os
+
+path = os.path.dirname(__file__)
+path = os.path.abspath(os.path.join(path, '..'))
+sys.path.append(path)
+
+try:
+    import simplejson
+except:
+    import json
+
+from django.core.servers.basehttp import FileWrapper
+from django.core.servers.basehttp import Response
+from django.shortcuts import render
+
+class Views:
+    def get_data(request):
+        with open("data.json") as data_file:
+            data = json.load(data_file)
+        return Response(data=data, content_type='application/json')
+    
+    def get_html(request):
+        html = """
+        <style>
+       .body { background-color: white; }
+        table { border: 1px solid black; }
+        td { width: 200px; }
+        </style>
+        <div class="body">
+        <table><tr>
+        <th colspan="2">
+        <h2>Carolyn Huntington Bailey Health Center</h2>
+        </th>
+        <th>Patient's Name: Jean <b>Xia</b></th>
+        <th>Date of Birth: 1936-10-30</th>
+        <th>Date of Visit: 2011-08-20</th>
+        <th>Diagnoses: Hypertension/Diabetes</th>
+        </tr>
+        <tr>
+        <td colspan="2">
+        <b>Hypertension</b>:
+        </td>
+        <td colspan="2">
+        <b>Prescribed: Ampicillin 500mg</b>, 
+        <b>Cozaar (12.5 mg)</b>:
+        </td>
+        <td>
+        <table>
+        <tr>
+        <td>1. Blood Pressure</td>
+        <td>148/95</td>
+        <td>151/95</td>
+        <td>152/92</td>
+        <td>152/93</td>
+        <td>
+        <b>Goals:</b>
+        </td>
+        </tr>
+        <tr>
+        <td>2. Pupillary Examination</td>
+        <td>NORMAL</td>
+        <td>NORMAL</td>
+        <td>NORMAL</td>
+        <td>NORMAL</td>
+        <td>
+        <b>Goals:</b>
+        </td>
+        </tr>
+        <tr>
+        <td>3. Visual Acuity</td>
+        <td>20/25</td>
+        <td>20/25</td>
+        <td>20/20</td>
+        <td>20/20</td>
+        <td>
+        <b>Goals:</b>
+        </td>
+        </tr>
+        <tr>
+        <td>4. Retinal Examination</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>
+        <b>Goals:</b> 
+        </td>
+        </tr>
+        </table>
+        </td>
+        <td>
+        <b>Diabetes</b>:
+        </td>
+        <td></td>
+        <td></td>
+        <td><b>Prescribed</b>: Glucophage 500mg PO <b>b.i.d.</b>; 
+        <b>Metformin</b> 
+        </td>
+        <td><b>Goals:</b>
+        </td>
+        </tr>
+        <tr>
+        <td colspan="2"><b>Medication</b>: Ampicillin 500mg PO <b>b.i.d.</b> <b>Goals:</b>
+        </td>
+        <td colspan="2">
+        <td>Cozaar 12.5mg PO <b>Goals:</b> 
+        <td>b.i.d.p183
+        <td colspan="" classname="b.i.b.p12
+        <td>
+        <td
+        <td
+
+        <td
+        <td
+<td<td>
+        <b.i
+        <td 
+
+        <
+
+        <td
+
+        <td 
+
+
+
+
+        <td
+201 
+       
+""
+
+        <td
+        <
+       
+
+<t.
+
+
+       
+
+
+
+        <td
+       
+       
+       
+
+        <td
+       
+       
+
+        <td
+The data 
+
+
+
+<b
+
+
+       
+        <
+
+
+       
+
+
+
+       
+
+M
+
+
+       
+
+
+The data, 
+
+
+
+The data 
+
+
+
+
+
+
+The data
+
+1
+
+
+I 
+
+
+The
+A few
+The
+
+
+
+
+
+
+
+J
+
+
+
+
+M
+ 
+10 
+
+
+
+
+
+A1080
+1
+24
+A2
+2:
+Dr
+
+
+The
+
+A
+A.
+Dr
+26
+
+2
+The
+D
+
+
+M
+
+
+
+
+
+The following
+5, 8
+
+1
+
+2
+12 (3
+
+2
+
+
+
+
+A
+A
+
+D
+
+
+
+1
+
+The
+CAL - 4511
+1
+2341 1
+A15
+
+2: 5. If: 20 and the weekly date: last:
+The, but [M (Oct Saturday
+17
+24 yesterday, 14
+A (14, a...The... 212
+D (26 (M
+[B, which: the B: a:
+[The:11, the:2
+D
+
+
+C -2: 1.
+112
+M. An
+A: A:202,21 (9  (1 (4, 
+[201, An
+A
+102 An
+An
+0, An:
+The: 3
+0
+The
+The Anient. An. Anise - a a (l, the, the, a in the (25 Anicular 123000-9 Anical Anicular An a00 and a323211630213. a 1 and and a  of the of the : it in [the in "a, 1718 An A An Anise to 4. Anist, a13 a0 (122,20 (a in a a (3 and the, the a., a. itrier and and1 An Anager Anian An An (1 An An An An An An A 5 A161 Anual Anial An. A1223, 9 a (the a2. a1. An and a a0 An An An An An (12 An An An An An An An An An An An An An An An An An,2, anial-210 and1.2 and0 for the-1 "1 a and. Anistial and and  and and (3 An C and, 1, a and and a a a and in day the day and day and. and and a and. a.8 and and01, and day and of the day of her of an day of the of a a-a and: m and and.. a. in one (c, a [in a a a and a.2-3 in a and and the -1 and a in an of: the ( of a of the of a of the of a and in ( and in a and the and and a a a a and and a, the and of the-R.-1. ( and: ( a-R and., the of one of a of the of a of the of of the [ a a a.1 (, an,. a a and a and a and a- a a and.2-1 a a. a and to a a in and for to and a to a in the of the, of a of the a and a -c of a and a the a-a-1 of a of a of the a of the  and 1-1-2 and in the a a a. the " of of a of the of the of of of of of the. a in a is a a and in of the of  of of the of the of of the of an of a of the-h-d-g and-cl and and one of  a of a of the of the at X. and and. in a in the a and to a to in the due-d a and of the of a of a of a of the-a-l of the-a of a and of a of the of a of a of the of the of the a of a a. for the.-to-c-l-day a-to and the and to the of the a a-1 of the- a a a and of the a c of the of of a of the of the of a for a a a and and and-c the or in the-c and and the a a due of a a  X w. c and a. and. a and-1- a one a in a a an of of of of of the a-t a ( and in.-g a a and and of and and or and in in a and and in-g. the. w-4 and-2 in in  b-1 a of the of the of of: of of the of the of of of b of w of-a (-to- of to of of a of of (-  in- X in-1 a-1 for  in a  in a and a-1 and a of the of the of the of a of the of a of a of of a of- a w- X " a-of of the- of an-1-2 ab ( a ab ( ab a and c ab of  of of col of of ( of a of the and-1. ( c-1 and a ( a and or the- a the-1 the of the of her of a of a and and ab w a and a- and a and and of a of-a of and " the "- the and C " in and is a " and- and and and c or- X- and of w of and c of the w c of c-1 a- to a- b- to and- a- and- w of " of the and the and and and and and and " and x w and and to " and w and- w and to the but- but is x and but and and but and to- and and a- and and in and- and- to- [ to and to of a of a of the of and and of- and x and but and x and x of and " and and- and and x x and in and x and, and and x x and and x in and and, and and- and of of of of of of x of and and an w a x or x in and and x of the and of w of x x w x x X a w x X x and x w x x-0- x " " and x b " b " x di di-1-1 X1 and-1-1 di a a x w or x di of of of of the of x " and and and x and di and that- that- that- a- w- w- an a- " an- c- x w and X- an di- up- up x- up to- w or- of- X of of of the of x of x- x "- a- and- and " and or X- and- " to and a- and X to " and and  X and x an x " and, and- and " and x of x of and a the and the a, x x, x- on, or x x, and

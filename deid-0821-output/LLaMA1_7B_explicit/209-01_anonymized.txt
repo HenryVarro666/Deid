@@ -1,0 +1,268 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2089-04-13
+
+ 
+ 
+ 
+April 13, 2089 
+ 
+ 
+ 
+Quadarius Kirk, M.D.  
+Carrizoza Health Center 
+531 Westfield St 
+Clifton Forge, WI  11674 
+ 
+RE:  Parrish, Christopher 
+SFC#:  553-15-48 
+ 
+Dear Dr. Kirk:  
+ 
+I had the pleasure of seeing your patient, Christopher Parrish, in follow up today.  He is a 71-year-old, right-handed man who was admitted to the Sutton Family Care on December 29, 2088 with left arm weakness, ataxia and dysarthria.  The impression at that time was for lacunar stroke.  An MRI showed a larger area of infarct in the right corona radiata.  The patient had worsening weakness on the night of admission, despite being heparinized.  The following day, he had a flaccid hemiparesis of the left side.  Further workup included a magnetic resonance angiogram that showed irregularity of the proximal middle cerebral arteries bilaterally.  There was no critical carotid stenosis.  He had an embolic workup which consisted of an echocardiogram showing a preserved ejection fraction, dilated left atrium, very mild inferior hypokinesis, and no patent foramen ovale.  He had a Holter monitor which did not reveal any dysrhythmias.  His cholesterol level was 152 with an HDL of 23.  It was felt that his stroke was most likely due to atherosclerosis of the middle cerebral artery, involving either one or possibly several lenticulostriate arteries.  He did not have any evidence of a flow limiting MCA stenosis.  He had been on aspirin prior, Plavix was added to his regimen.   
+
+
+Since his discharge from the hospital, he has been in rehabilitation for the last two months.  He has had no further episodes of weakness, numbness, tingling, ataxia, dysarthria, or dysphagia.  He has no symptoms of aphasia.  He has been left with some dysarthria from his initial event, which he feels has improved.  I would agree with him.  He also has regained some strength in the left leg, and is currently working on using a walker with assistance.  Unfortunately, he has not regained any use of the left arm.  He has not had any problems with spasms.   
+
+
+His past medical history is significant for hypertension and type II diabetes mellitus.  He had an inferior myocardial infarction in 2060.  He had a quadruple bypass in 2083.  His last stress test in 2087 showed moderate inferolateral ischemia in the region of a prior myocardial infarct.  He has pulmonary disease due to asbestosis.  He has chronic renal failure and neuropathy secondary to his diabetes.  He has also had laser surgery for diabetic retinopathy.  
+ 
+His medications currently include clonidine .1 mg. p.o. b.i.d., Plavix 75 mg. p.o. q.d., aspirin 325 mg. p.o. q.d., Neurontin 300 mg. p.o. q.h.s., Gemfibrozil 600 mg. p.o. b.i.d., Isordil and Lasix.  He had been on Captopril earlier, but he has since been taken off that medicine.  He was managed with insulin during his prior admission.  I assume he is still on this medicine, although he did not specifically state so.  He has an allergy to sulfa drugs.  
+ 
+The patient lives with a friend who works at Marble Slab Creamery.  The patient quit smoking 15 years ago and only rarely drinks alcohol on social occasions.  There is a history of coronary artery disease in his father and at least one of his brothers, but no family history of stroke.  
+ 
+On examination, he was a pleasant gentleman in no apparent distress.  His blood pressure was 150/90.  His language was intact.  His speech was somewhat dysarthric, although this was improved from his admission.  He was alert and oriented.  His conversation was appropriate.  The visual fields were full.  The pupils were equal and reactive at 4 mm.  Facial sensation was normal.  There was an upper motor neuron left facial droop.  The tongue and palate were midline.  The patient had 0/5 flaccid hemiplegia of the left arm.  There was atrophy of the left biceps.  There was full range of motion of the joints.  The patient had 2/5 left iliopsoas, 4+/5 hip extensors, 3/5 left quadriceps, 3/5 left ankle dorsiflexors, and 3/5 ankle plantar flexors.  The tone in the lower extremities was not increased.  His right side was 5/5.  He had hyperreflexia of the left side and an equivocal toe.  His right toe was downgoing.  Sensation was intact to light touch and pinprick.  I could not find any evidence to pinprick of his neuropathy.  Vibration sense was very mildly reduced at the toes.  He was in a wheelchair, and his gait was not assessed.  
+ 
+Mr. Parrish's recovery is progressing.  He has regained some strength in his left leg and his goal is to be able to walk on his own with either a cane or walker.  I hope that this will be the case.  Unfortunately, his left arm has remained flaccid and he has no movement.  I told him that his left arm will most likely remain with severe weakness.  His stroke was most likely related to atheroma of the middle cerebral artery and lenticulostriate arteries.  I would encourage his blood pressure to be controlled, as has been done, and to continue an anticholesterol agent.  I believe he has been on Gemfibrozil for a while.  The literature suggests benefit for the statin drugs in primary prevention of stroke in patients with elevated cholesterol.  I do not think that gemfibrozil has been studied in the same way.  However, since he has been on this medicine so long, it may be worthwhile to continue using it if it is controlling his total cholesterol well.  He should continue on an aspirin a day.  He states that he is having difficulty obtaining Plavix due to the cost.  I recommended to him that, in the experience of the Stroke Service at Sutton Family Care, patients in his situation do benefit from being on Plavix for a period of time after a stroke of this type.  We recommended to him that he continue on Plavix for another six months because of this.   This should give adequate time for any ulcerated or unstable plaque in his middle cerebral artery to heal.  After six months, if he has had no further clinical events, it would be reasonable to assume that his atheroma is stable and that he could be adequately treated with aspirin.  I will see him again in clinic in approximately six months.  I will arrange for carotid noninvasives and anterior transcranial Dopplers to evaluate his carotid and middle cerebral artery in approximately one year's time.  
+ 
+The patient was seen and examined by Dr. Laith Greene of the Sutton Family Care Stroke Service, who was present for all relevant portions of the history and physical examination.  
+ 
+Sincerely, 
+ 
+ 
+
+
+
+Johnathan Kiefer, M. D.
+ 
+DD:04/13/89 
+DT:04/14/89 
+AL:0138:855 
+ 
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 53rd
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+\[ ] 
+\
+ 
+ 
+ 
+ 
+ 4 
+ 5
+ 
+ 
+ 
+ 
+ 
+ 41,2, and
+
+\t.
+
+ 
+ 2
+ 
+ 
+
+
+ 1,2, 
+
+\
+
+
+
+ 78,9
+ 6 72, 
+
+
+
+ 33, 3 and 2
+1,2, and,2
+
+0, 
+253, 2
+1, 2 or 13
+1...
+201...
+
+13, 2 names with
+The clinical names
+ 1 1. 2
+
+2...
+21. 10, 12. 21. 1
+2.1...10,2, and 11, 1, and 1, 2, 
+(…, and 1, 6, 5 oratory, 1. 2...1.
+125, a or 3, 19-2, orific 20, and...
+:
+1: name, you, and...
+
+
+
+...you, as you, as the patient- 0, and: (or, “: 11 (1...
+...1 (12: the 10 and are are orific and the... orific are: and or and 19, 
+11,...
+follow:1 or  or 1, the:, and the... 0 (
+
+  and the "11 of the: …:  and are, the... indicate and...1... are the 1 and you are and... 1 and:  and, “, and and, and, and the. 2 and, or, and and, a few and, 1, and, [[, a... and, an, and, as, 1, (1.
+ and  and  and and, an and, and in the, and can and, 6, 6 of the of the, and, (
+, and the patient (: and 1...: with the...
+: 1: and: an and “... and... 1 2 (... are " 2 are in… 2 of any (an, "… or,, " and the 1, [[. 1, the. 1 of the and,. An and, an, an ( an and, [an anoc, an ( are a or  and, an or, an- or, an and 1 an, or, an, an,  an, an... an an, an an,... and  an an, an an ( an and, 0 an, an,  and, an an, an or ( an ( an,  an  an, and, an, and, an and, an " and, an and an, An. and,  and the, an, you, an, an,  an, 0 in the an and,, an,-1-1::- and ": : "- - and:- you ( ( an... and " an [ ( and:: an an or:: an an or an " an an and or an ( and: or of "- an- and- an-  " and  [ in [ an an " and or of your of the of the and and.,, [ an, and... [,,, and an or- and ( - are or  are-  or and ( an, an  or or or and- an an ( ( or an  and, or  an in a,  an, an,  of an of  of  of a- an an of an of and and, an and ( of an and, and an and or or and or (- an an- an of " of the of an of the,, - or and and- an an  in or an an  an of or of  or - and or in or an or an an an an [ - or by or or and of the or of or of, of the  ( - and, and ( in and and ( and and ( or or- or- and an or of the and  in of or of a in and or an or an-  or  (  an and, or: or- of the of, and or and or,,, or or,,  or " or, or, and of  and, for, for, of, of, an,, or  for-  ( and for an (, w,  w of w. of the w of the of w of an of the and of a for- and, or and w and, and and and (  or for the [ or an  W- W or  or an ( W and W W and of of  an or ( [ or and W. W. W and W W w and an an W an w W W, or or and or, or or and or [ (- or, W- W, [ or W, W W or and and or or W W in- w,- and W- and W and and and w- and in- and of- w or ( W- and : and an  w and W W in- 1-2 and-  " and or of or of the- of  ( - W- - and- or W and or an and, or and of the- of w ( of and- w- and or and-  and and ( in in, ( and  and of or of of the of  of of of W of  of w of w, an, and- and,- or, an and and and w or and,- and  or or W ( t and and w- or and and or (- [ or or ( and of  of of w and  of W W W- ac, W W ( and,, W and in an W of and of W ( w an and, w t W W W W and and, W W an and w an or ( and c c ( and and and w in and, an and W- W ( W c, (, and, and t and an and and (, and ( or and w and,, or an and and or an and and and or, an and W in and an, or W and,, w and  W and and w, an and w or W, and, W W or, W, and and in, or and, and, and,,, and w, and in ( a w w and of of an of  t of an of w, W in W and,,, t W and an W,,, W C W and and or, W, W W or in ( and or and,, and W W and of, in a of and of an of t of the in W W t (  and and - t and w and, w and of and and,  w an W and, t w and and or ( an w and in and ( (, ( of an in of of  of the  W W of ( and, w and in W and and, in [,, ( [,  and and,  ( an, and, W A, and, and, and, and  of and of  and to of (  of, in of,, and in  and, of of of of of, of of and and of ( of to of of, (, and  and, and (, a and in,,, or.  in,,,  and ,,  ( and,, and,, and in, and ( of, and of the and of, of, -

@@ -1,0 +1,248 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2091-03-13
+
+
+CC: f/up of DM, HTN, and anemia management
+
+
+HPI: 62 yo female who presents back to clinic after recent visit with Dr. Robbie-Reid
+and referred for GI endoscopy for anemia.  3/5 Hct 32.1, Hgb 10.6.  Dry wt reportedly 184-186 lbs. 
+1/11 Echo with no RWMA's, LV nl, EF 60-65%.  Denies any SOB or DOE beyond her baseline.  
+No CP.  Seen by Renal and started on Tekturna (Aliskiren) which she has but has not started.
+Ran out of Cozaar which she has not had approved.  Off Aldomet also.  No headaches.  
+Denies any symptoms of hyperglycemia or hypoglycemia.
+Mood decreased at times given her family problems with her husband.
+
+
+
+Problems
+Menopause at age 52 
+H/O R sided sciatica 
+H/O pneumonia 1/2082 
+S/P vocal cord cyst removal 
+S/P cholecystectomy 
+S/P C section x 2 
+Diabetes mellitus type 2 : onset 2067
+Severe nonproliferative diabetic retinopathy with severe macular edema 
+H/O pyelonephritis 
+1/16/88 cardiac MIBI with summed stress score of 0 but evidence of extensive calcified coronary plaque burden with coronary calcium score of 715 
+Hypertension 
+Depression 
+7/23/88 R shoulder arthroscopy 
+4/20/89 lumbar CT : No stenosis or disc herniation, mild deg changes of the lower lumbar spine as described with a possible tiny lateral disc protrusion on the L at L3-L4.
+
+CAD s/p RCA stent placement 11/2090
+
+
+
+Medications
+Aliskiren 150 MG PO QD
+Amitriptyline HCL 25 MG (25MG TABLET Take 1) PO QHS PRN neuropathic pain , for pain - para el dolor #30 Tablet(s)
+Cozaar (LOSARTAN) 100MG TABLET Take 1 PO QD #30 Tablet(s), ran out
+Darvocet N 100 (PROPOXYPHENE NAP/ACETAMIN... 1 TAB PO BID PRN pain - dolor #60 Tablet(s)
+Ecasa (ASPIRIN ENTERIC COATED) 325 MG (325MG TABLET Take 1) PO QD #30 Tablet(s)
+Ergocalciferol 50000 UNITS (50000 UNIT CAPSULE Take 1) PO QWEEK #1 Month(s) Supply
+Lantus (INSULIN GLARGINE) 88 UNITS SC QAM #1 Month(s) Supply
+Lasix (FUROSEMIDE) 80 MG (40MG TABLET Take 2) PO QD #1 Month(s) Supply
+Lipitor (ATORVASTATIN) 80 MG (80MG TABLET Take 1) PO QD #30 Tablet(s)
+Neurontin (GABAPENTIN) 300 MG (300MG CAPSULE Take 1) PO BID #60 Tablet(s)
+Niaspan (NICOTINIC ACID SUSTAINED RELEASE) 1000 MG (1000MG TABLET SA Take 1) PO QHS #90 Tablet(s)
+Nifedipine (EXTENDED RELEASE) 90 MG (90MG TABLET Take 1) PO QPM x 30 days #30 Tablet(s)
+Paxil (PAROXETINE) 20MG TABLET Take 1 Tablet(s) PO QD #30 Tablet(s)
+Plavix (CLOPIDOGREL) 75 MG (75MG TABLET Take 1) PO QD #30 Tablet(s)
+Prilosec (OMEPRAZOLE) 20 MG (20MG CAPSULE DR Take 1) PO QD , before eating #30 Capsule(s)
+Toprol XL (METOPROLOL SUCCINATE EXTENDED RELEASE) 200 MG (200MG TAB.SR 24H Take 1) PO QD #30 TAB.SR
+
+
+
+
+
+Allergies
+NKA 
+
+
+PEx: Vital Signs: BP 144/61, P 66, Wt 193 lbs
+WDWN older female in NAD.  
+HEENT: anicteric sclerae  
+Neck: supple, no JVD.  
+Lungs: CTA.  
+CV: RRR, s1s2, nl, II/VI SEM at LSB
+Abd: soft, NT  
+Ext: no c/c/bil 1+ edema.  
+
+
+A/P:
+1. HTN/CHF.  BP elevated in setting of not having started her new medication Aliskiren, 
+ongoing f/up as scheduled.  Ongoing telemonitoring service.
+Dietary and exercise rec's reviewed.
+
+2. DM, still not controlled but stable, A1C 8.8, Lantus 88 units as directed 
+and dietary rec's reviewed, follow, seen by HDC ophthalomology on 1/19/91.
+
+3. Anemia, scheduled for GI endoscopy, following.
+4. Depression, stable, counseling given.
+
+
+Singh, M.D.
+
+
+
+
+
+H/O pneumonia
+
+
+
+
+
+
+
+
+
+
+Record date: 2090-03-11
+
+CC: f/up of Diabetes, HTN, and Anemia
+
+
+HPI: 
+
+
+
+Problems
+
+
+
+
+Medications
+
+
+
+
+Allergies
+
+
+
+PEx: Vital Signs: BP 90/62, P 80, Wt 188.5 lbs
+WDWN older male 176 cm, 77 y/o,
+
+
+HEENT:
+
+Neck: supple, nl, no JVD.  
+Lungs: CTA
+
+
+CV: RRR, s1s2, nl, II/VI SEM at LSB
+Abd: SOFT, no C/C/bil 1+ edema, 1.5+ pitting edema.
+
+
+A/P:
+
+1. HTN/CHF, BP elevated, follow, seen by HDC
+
+2. DM, still not controlled, A1C 7.9, Lantus 88 units as directed and dietary rec's reviewed.
+
+3. Anemia, follow.
+
+4. Depression, stable.
+
+
+Singh, M.D.
+
+
+
+
+
+
+H/O pneumonia
+
+
+
+
+
+
+
+
+
+Record date: 2089-08-17
+
+CC: f/up of Diabetes, HTN, and Anemia
+
+
+HPI: 
+
+
+
+Problems
+
+
+
+
+Medications
+
+
+
+
+Allergies
+
+
+
+PEx: Vital Signs: BP 131/80, P 82, Wt 175.5 lbs
+WDWN older male, 165 cm, 80 y/o,
+
+
+HEENT:
+
+Neck: supple, nl, no JVD.  
+Lungs: CTA.
+
+
+CV: RRR, s1s2, nl, II/VI SEM at LSB
+Abd: SOFT, no C/C/bil 1+ edema, 1-2+ pitting edema.
+
+
+A/P: 
+
+1. HTN/CHF, follow, seen by HDC ophthalomology on 10/24/10/24/11, telemonitoring, follow.
+2. DM, follow, see HDC endocrine ophthalomology on 5/24/13/20, follow.
+3. Anemia, follow.
+
+4. Anxiety disorder 200/20/10/90/13/67/76/10/22.11/52/24. 25, 80/84/558, 80/8513/89/88/89, 5/3/8/8,, /8458 352/145/49, 8, 775.
+
+89/42101219, and/39.
+
+53, 829313/112, 1011119, 33, 33/3
+2, 334.
+
+3/4
+
+334,45, 3034
+3/333, 304, 35, and 3 and, 3 and 333/33 3 patient and 333, and 3333 4/ 3, 3. 933, 5, 3 names (and names, do not, as the 50 2, 1, 2 or 3 indicate a, or indicate 1, the 7.
+or and 8 or [or 90 or names or name. and the [1 and name, etc and 3 and or the [the names and name of the, and the 1...
+
+(...
+may or 0 are 2 and the...or, or 1...
+... 10 and the patient, and the names, and the names.
+[
+11, and 1- 
+and 5, 5:...
+use, use...and 30 and the "
+…
+[are and the are the [
+...
+…
+(1, the name and the name, [1, are the are: 1 and the 
+(...
+and: or, and a or and (and.
+, the and, and: 4, but [the,
+(be 2, the or, 11 and the and... 1 (1 are the 3...
+(… and, 1 of this, and and...
+, and, (1, 1, or, or, and and (and, and, 1... or, and, [1 and in the... (
+1, the, 1., 1, and are, or (1, or, and are 2 and (1, and, are the 1 or, [and, you, the and:
+(3 or (1 3...1: anizations: 0: and “1....... 0.
+ are (3... are [[le… are… 1-any and the-an in the and [by or, and, an, (... 2, 1, 1, of the of the, and, the and and 2... [and, an, but, are an anise, can are or (or-1 of a, an or and a or, an " and, (1, al, ( an, a, a, an 1 and, an an an [ and ( 0, an or, a... or, or,, an "of the of the,,
+ an, an, 5 (and, the, and, an, an, and [1, and (A, an, the "1, an, an, a:, An An An in an of the and an, of the (an an of " an an: an [an-an: "2 and: - " (: : and: an and [: ( [: an-an: An or: and: an: ( with: : an or:: or: or in the an or- or- an- an  an  an are ( and of - and of  ( an an of the [ an or, or and ( an, an  ( ( at [, or an or or an or and ( and- an or and or [  or  ( or an and are, and an or and, [,  " An An An or -, an an an, and and are or [ (  an of, [,,  of an or of or an, and,, - ( an, - (, and and,, ( ( of the of, [ of the and " an " and and " ( are, and for, an- for for an or an of an in or for or  an or an an in (, an- for, an, and of or and of  of the of, and and an  an by ( ( and an an an are, or an, an an and " in-  an an al or or ( or or and ( an  an-  an and an, and or of  ( or and and and and or or and or and and, and and ( an (, and, [  or  or, or and of  of, of ( ( or of and or, and  or al or and, are- and, of and of, of the of the of the of of  of the of  and,, and an and, of,,, al an and  and c and an-0 and- an - an or - and  and or of  or of and or, and al and an, [ or  ( - m and and or al ( an- - ( - or, an ( C or or (  and ( ( and or  an and and  al and or ( c or and of an of of ( of or, and and and m,  or and and and ( - al ( C C C A and and and or a  C C A An C or ( (- R C A " or " or and and C An An C C and An C " c ( C- and ( or al and al or,,  of  of al of  ( of and of or  C An C or and ( C An (, ( or, or or  al of or of C R of of - ( al of of and  and C and and - and   - (, and and- and ( C (  H or  C or ( and (  ( and or- or or C, and C C (, - and of of of of and  C of  and C and and and  al, (, or an and and and  of  or of  C and an c c ( and. and ( or an  ( and, and C and C C A, or and an c ( and  and ( (  and or  [ and and al al, and H (, or [ H, [ C or C A C H and. or an and al and, and and ( or and and and and and and,  and, and and  and  al and al, (,,  (,,  ( al, and ( and, and al, and W ( ( and, and ( W and and, W and W  and ( of C H H C of  C M H P and [ ( M, M C H ( or and M M, and, M C C, C, and, (,, C W and and, W or  H and, H T P H M M of  C H M P H and M H and ( Cl C and or M P C C and C ( R, M and H P Cl or and, H W C and  W and P and and ( H C ( H, (,  T H and and C H C C C and H and C H and and, ( ( and ( [ and and and H, and W C C H and S H (, and and, C and and ( C H H ( H H P C,, and and, W C H and M and  A H C C C A H C and C T, and,, H and., M C  I I and H and and M, or and and C and, C and C ( and H and ( C C P C and C I H C A C C of  ( C, of and of, of (,

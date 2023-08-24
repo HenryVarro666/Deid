@@ -1,0 +1,277 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2075-01-15
+
+                     AASC EMERGENCY DEPT VISIT
+ 
+QUIJANO,BAYLEE   853-62-51-4                    VISIT DATE: 01/15/75
+The patient was worked up in the emergency department by myself and 
+the resident, and I concur with her work up and evaluation in the 
+emergency department. 
+PRESENTING COMPLAINT:    Chest pain, shortness of breath, 
+productive cough. 
+HISTORY OF PRESENTING COMPLAINT:  This patient is a 60-year-old 
+female that presents to the emergency department at Associated Arthritis with complaints of chest pain, shortness of breath 
+and a cough productive of white sputum.  The patient denies fever 
+or chills.  She denies any other acute complaints. 
+PAST MEDICAL HISTORY:  Morbid obesity, congestive heart failure, 
+hypertension, rheumatoid arthritis. 
+MEDICATIONS:  Zestril, a water pill most likely Lasix, Motrin and 
+Tylenol. 
+ALLERGIES:  No known allergies. 
+PHYSICAL EXAMINATION:  VITAL SIGNS:  Temperature 99, pulse 85, 
+respiratory rate 16, blood pressure 214/117.  Oxygen saturation 92% 
+on two liters.  HEENT:  Normocephalic, atraumatic.  Pupils equal, 
+round, reactive.  Positive AV nicking.  NECK:  Positive for jugular 
+venous distension.  CHEST:  Rales audible bilaterally.  HEART: 
+Normal S1/S2.  No S3/S4.  No murmur.  ABDOMEN:  Soft, nontender. 
+EXTREMITIES:  Positive for 2-3+ pitting edema.  NEURO:  She was 
+awake, alert, and able to follow commands. 
+LABORATORY EVALUATION:  CK 84.  White count 10, hemoglobin 12, 
+hematocrit 42, platelet count 329.  Urinalysis noted 1+ blood in 
+her urine, however, overall, her urinalysis was negative.  Chest 
+x-ray which noted cardiomegaly with findings consistent with 
+congestive heart failure.  EKG noted no acute changes. 
+THERAPY RENDERED/COURSE IN ED:  The patient was given 40 mg of 
+Lasix IV initially.  For her chest pain, she was given sublingual 
+nitroglycerin.  She was also given one aspirin.  She had a 
+nitroglycerin patch placed in the emergency department. 
+FINAL DIAGNOSIS: 
+1. Congestive failure. 
+2. Chest pain, no evidence of an acute myocardial infarction. 
+DISPOSITION (including condition upon discharge):  The patient will 
+be admitted to the medicine service for further work up and 
+evaluation.  The patient is in stable condition. 
+___________________________________                    CY313/62627 
+O. DE OTIS, M.D.       DO36                       D:01/18/75 
+                                                       T:01/18/75 
+Dictated by:  O. DE OTIS, M.D.       DO36 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+ 
+""".strip()
+    assert len(s) == 3860, "s should be 3860 length"
+    assert s.find(text) > -1, "Should find 'text' somewhere in the string"
+    assert re.findall(r"^\d+-[A-Z]+\d+", s) == [(99, '100')]
+    assert re.findall(r"^(\d+)\s?\(\d+\)`(\d+\s?\d+)/(\d+\s?\d+)\)$", s) == [(100, 85, 3, 15)]
+    assert re.findall(r"^\d+-[A-Z]\d+", s) == [(214, '214'), (12, '12')]
+    assert '[214/99]' in s
+    assert s.find('214') > -1, "Should find '214' somewhere in the string"
+    assert s.find('12') > -1, "Should find '12' somewhere in the string"
+    assert '[12/99]' in s
+    #assert s.find('12/99') > -1, "Should find '12/99' somewhere in the string"
+    assert s.find('99/100') > -1, "Should find '99/100' somewhere in the string"
+    assert s.find(r'99/100') > -1, "Should find '99/100' somewhere in the string"
+    assert s.find('214') > -1, "Should find '214' somewhere in the string"
+    assert '12' not in re.findall(r"^\d+-[A-Z]\d+", s)
+    assert '12' not in re.findall(r"^(\d+)\s?\(\d+\)`(\d+\s?\d+)/(\d+\s?\d+)\)$", s)
+    assert '12' not in re.findall(r"^(\d+)\s?\(\d+\)`(\d+\s?\d+)/(\d+)\s?\(\d+\)/(\d+)\)$", s)
+
+def test_findall_with_patterns():
+    # findall(pattern, text)
+    pattern = r"^(\d+)\s?\(\d+\)`(\d+\s?\d+)/(\d+\s?\d+)\)$"
+    text = "QUIJANO,BAYLEE   853-62-51-4                    VISIT DATE: 01/15/75  \n" \
+            "The patient was worked up in the emergency department by  " \
+            "myself and  the resident, and I concude with her work up  " \
+            "and evaluation in the emergency department.  \n" \
+            "PRESENTING COMPLAINT:    Chest pain, shortness of breath,  " \
+            "productive cough.  \n" \
+            "HISTORY OF PRESENTING COMPLAINT:  This patient is a 60-year-old  " \
+            "female that presents to the emergency department at Associated " \
+            "Arthritis with complaints of chest pain, shortness of breat " \
+            "h, productive cough.  \n" \
+            "PAST MEDICAL HISTORY: Morbid obesity, congestive heart failure, " \
+            "hypertension, rheumatoid arthritis. \n" \
+            "MEDICATIONS: Zestril, a water pill most likely, Lasix, Motri " \
+            "nand Tylenol.  \n" \
+            "ALLERGIES: No known allergies.  \n" \
+            "PHYSICAL EXAMINATION: VITAL SIGNS: Temperature 99, pulse 85,  " \
+            "respiratory rate 16, blood pressure 214/117.  Oxygen saturatio" \
+            "n 92% on two liters.  HEART: Normal S1/S2.  No S3/S4.  No murmur." \
+            " ABDOMEN: Soft, nontender.  EXTREMITIES: Positive for 2-3+ pitu" \
+            "r edema.  NEURO: She was awake, alert, and able to follow comm" \
+            "ands.  \n" \
+            "LABORATORY EVALUATION: CK 84.  White count 10, hemoglobin 12, " \
+            "hematocrit 42, platelet count 329.  Urinalysis noted 1+ blood in " \
+            "her urine, however, overall, her urinalysis was negative.  Chest " \
+            "x-ray which noted cardiomegaly with findings consistent with  " \
+            "congestive heart failure.  EKG noted no acute changes.  \n" \
+            "CHEST PAINT PATIENT WAS WORKED UP IN THE EMERGENCY DEPARTMENT BY " \
+            "MEDICATIONS:  Zestril, a water pill most likely, Lasix, Motrin and " \
+            "Tylenol.  " \
+            "ALLERGY: No known allergies.  \n" \
+            "PHYSICAL EXAMINATION: VITAL SIGNS: Temperature 99,  pulse 15, respiratory rate 16, 16,  respiratory rate: 16, 16, chest, 16, 14
+ 
+ 
+THER APRIES: 
+
+
+
+
+15
+
+
+RESID:
+16
+10
+
+
+16
+16
+16                
+
+
+The following.
+
+
+16
+\16
+16,
+
+
+16
+
+The
+16
+16
+
+
+
+
+
+16
+16,1
+
+16
+
+
+RES
+The patient.
+
+
+RES
+
+
+16
+1
+1
+16
+16
+
+
+The patient
+
+The patient
+1
+
+16 (1
+
+B
+RES 
+16
+1
+The patient
+1
+1
+1
+
+16
+The 
+
+1
+  5
+1
+1
+
+1
+
+1
+
+16
+
+1
+16
+1
+
+
+
+1
+A
+DATE 9
+16
+1
+2 
+The patient
+The 1
+
+207
+1
+1
+1
+1
+The patient
+
+
+
+
+The 2
+A
+B
+
+1
+
+1721
+The, B,A
+
+               , 4
+1
+1
+19
+1
+
+
+1
+
+ 
+M
+
+
+2
+M
+
+2
+
+1
+  and 450
+and the.
+The (100232, 
+
+198888.
+date 112 and 5 and date.
+ 12.
+   9, 
+    
+A
+      ,  [0M and 3.
+M SUR ASS. A MURI CURY
+RO CH:17: A:
+
+
+14 12569809
+  05
+A DA006907 and A
+1016212
+91519129-andist:A, and a, and the
+14
+
+ARO DI
+TO P TO DI PRE DI SAP MISTIAL MIF OF M:CIS CRI AN DO CO AN CRA DI
+1255090 A M5 of An of Anistic An An Animate An An An CAN CH105000513000
+of Anis 0. 5, 19A of a of 0, the and a 25-of-11655996 An An An An An Anual An5 An1 An11, An (A HE M RE IN PIS RE AN CO AN RE AN WIS DIAN A AN RE SIST A AN DI CO DI ANIS AN WIS AN CO
+AN AN DATE DO AN- 1015, 125 and for the for (A for an and and, 5-1, an-1-5:.5 and,4. A and. a. An. An An515-2 AN CO AN115 Anistic An An of a-an  for, andine and, A IN CA S MA CO A CON CO A DE A A DI505-51 [15-40 [551,5 [0 with (A-15 of the a, anism. an of a an of  of  of 6 of 15 5. and  a and a and. [: an-w 1 (5 An: An: 9 Anist-2  and-  in the-  An: an and an in wient w of a of the of a of [0 and Anistic [2-  an and an [- an and (  an- -  ( of the1-01 [2 [-1 and-  for :  for the for-an- of the of the of the with and of the an of of the of a ( of an of the an- an an c - an-1 a, AN DI RE OF AN A of the an of...0 and for the a for for  and of an of an a an of and of  of a of of  of a of  [1400 of the of the of the of  of of 2 of  of 21 of the and of  and- B with for the- a of an and of [ of A B AM of the, B A and.- and. ( of  of of an of a of the of-10  of of of of [ of of of of of of, and,  an and B of a of  and of a of the- and ( and ( B  ( P, and, B-1  and [0- of B of an of of  of of of of of of of of of a of B of of a of of of of of B of of of B of the of of the and. and B- B [ and an [- B - B- an - R of an, and- a of  of the of of of a of of the of of of a of of of, and, [ of and, B of of and, of a of B and, a and of the [ B and and, B, [ of a of the of of of of of of of of of the of of of of of of of of of of  of of of of an of of of of of of  of a of and, [ B and an- and,  and  and- and- and (: B and  A and a- and ( B of the of- of of of of of of B of B B B [ of of B of and of of B of B of of of of of A of of- of of of B of of of of of-A of an B (   (0 of of of of-B B of B A of (0 of of of [ B to of  of of B of  of a of of of ( of of [ of of of -  of of of of of (-10- a- B of [ of-1 of  B of ( of [ of of of of of of of  of the of ( of the of and of the of of of and of of the of and of of of A of an of (, of of the ( an " [ of the of of of of and of ( of a of - A [ A...  [ w ( [ and and and ( and [ of  of... of  of of of and of the of an of of a of of of of of of of of of of of of of a of of of of of of of. of of of of of and, ( and.... and and [ and (, [ and. or and for. or of and of [ of an and, ( of ( of of a of of of of of of of of of of of of of of of of of of of of of of of of [ of and of of of of of of [ of [ [ [ and ( [ [, and of and or of a of ( of of of of of of of of of of of of of. of of of of of of of and of of of of of of of of of of of of, and or, a or a, and. and,01000 for a (0,  of for and of a of of of of of of of w of w of of a of of ( of of of and of or of of of of, of, of and and,  and to [ or and and ( and and and [ and 0, and and a and-0 and an00 of to of.
+. ( ( of of of of of of the of of of of of of of of (0 of of0 of of and or0-0 001-0 of and of0 of of an of of0  of of of of of the of  of an of of of of ( of ( of 1 of14 of of of of10- and and, [9 of (0 of of of of of of of-

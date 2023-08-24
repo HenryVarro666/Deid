@@ -1,0 +1,506 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2068-09-26
+
+
+
+Reason for Visit
+
+Patient presents for pre-op physical exam. Having left eye cataract surgery Dr. Janes on 10/04/68.
+
+
+
+Feels well.
+
+
+
+
+
+
+
+Problems
+
+      Hypertension
+
+      Insomnia
+
+      H/O cerebrovascular accident
+
+      borderline aodm
+
+      Basal cell carcinoma
+
+      Asthma
+
+      Hyperlipidemia
+
+
+
+Procedures
+
+      Tonsillectomy
+
+
+
+Medications
+
+      Asa (ACETYLSALICYLIC Acid)    325MG TABLET take 1 Tablet(s) PO QD 
+
+      Allegra (FEXOFENADINE Hcl)    60MG CAPSULE take 1 Tablet(s) PO BID PRN  
+
+      ATENOLOL   100MG TABLET take 1 Tablet(s) PO BID , take 1/2 in morning and 1 in evening
+
+      Flonase (FLUTICASONE Nasal Spray)    1-2 SPRAY NAS QD 
+
+      Prilosec (OMEPRAZOLE)    20MG CAPSULE CR take 1 Capsule(s) PO QHS 
+
+      Dyazide  (TRIAMTERENE 37.5 Mg/hctz 25 Mg)    1 CAPSULE PO QD 
+
+      Albuterol Inhaler    2 PUFF INH Q4-6H PRN .cough , use with chamber
+
+      Plavix (CLOPIDOGREL)    75 MG PO QD 
+
+      Pulmicort (BUDESONIDE Oral Inhaler)    4 PUFF INH BID 
+
+      Celexa (CITALOPRAM)    20MG TABLET take 1 Tablet(s) PO QD 
+
+      LISINOPRIL   20MG TABLET take 1 PO QD 
+
+      Lipitor (ATORVASTATIN)    10MG TABLET take 1 Tablet(s) PO QD 
+
+      Singulair (MONTELUKAST)    10MG TABLET take 1 Tablet(s) PO QHS 
+
+
+
+Allergies
+
+      Sulfa    - Unknown
+
+      Penicillins    - Unknown
+
+
+
+Assessment and Plan
+
+1.  Pre-op Physical Exam
+
+-EKG
+
+-Labs: CBC, PT, PTT
+
+-Completed form, see chart
+
+-will fax form once have lab results
+
+_____________________________________________
+
+Inez Yelverton, NP
+
+
+
+
+
+
+
+Record date: 2068-09-26
+
+
+
+
+
+Patient Name:    [redacted]  Age:   45   Sex:   male   Race:  Black   Height:  72.5in   Weight:  284Lbs
+
+
+
+Reason for Visit
+
+Patient presents for pre-op physical exam. Having left eye cataract surgery Dr. Janes on 10/04/68.
+
+
+
+
+
+Problems
+
+      Hypertension
+
+      Insomnia
+
+      H/O cerebrovascular accident
+
+      borderline aodm
+
+      Basal cell carcinoma
+
+      Asthma
+
+      Hyperlipidemia
+
+
+
+Procedures
+
+      Tonsillectomy
+
+
+
+Medications
+
+      Asa (ACETYLSALICYLIC Acid)    325MG TABLET take 1 Tablet(s) PO QD 
+
+      Allegra (FEXOFENADINE Hcl)    60MG CAPSULE take 1 Tablet(s) PO BID PRN  
+
+      ATENOLOL   100MG TABLET take 1 Tablet(s) PO BID, take 1/2 in morning and 1 in evening
+
+      Flonase (FLUTICASONE Nasal Spray)    1-2 SPRAY NAS QD 
+
+      Prilosec (OMEPRAZOLE)    20MG CAPSULE CR take 1 Capsule(s) PO QHS 
+
+      Dyazide  (TRIAMTERENE 37.5 Mg/hctz 25 Mg)    1 CAPSULE PO QD 
+
+      Albuterol Inhaler    2 PUFF INH Q4-6H PRN.cough, use with chamber
+
+      Plavix (CLOPIDOGREL)    75 MG PO QD 
+
+      Pulmicort (BUDESONIDE Oral Inhaler)    4 PUFF INH BID 
+
+      Celexa (CITALOPRAM)    20MG TABLET take 1 Tablet(s) PO QD 
+
+      LISINOPRIL   20MG TABLET take 1 Tablet(s) PO QD 
+
+      Lipitor (ATORVASTATIN)    10MG TABLET take 1 Tablet(s) PO QD 
+
+      Singulair (MONTELUKAST)    10MG TABLET take 1 Tablet(s) PO QHS 
+
+
+
+Allergies
+
+      Sulfa    - No known allergies
+
+      Penicillins    - Unknown
+
+
+
+Assessment and Plan
+
+1.  Pre-op Physical Exam
+
+-EKG
+
+-Labs: CBC, PT, PTT
+
+-Completed form, see chart
+
+-will fax form once have lab results
+
+_____________________________________________
+
+Inez Yelverton, NP
+
+
+
+
+
+
+Record date: 2068-09-26
+
+
+
+
+
+Patient Name:    [redacted]   Age:   45   Sex:   male   Race:  Black   Height:  72.5in   Weight:  284Lbs
+
+
+
+Reason for Visit
+
+Patient presents for pre-op physical exam. Having left eye cataract surgery Dr. Janes on 10/04/68.
+
+
+
+
+
+Problems
+
+      Hypertension
+
+      Insomnia
+
+      H/O cerebrovascular accident
+
+      borderline aodm
+
+      Basal cell carcinoma
+
+      Asthma
+
+      Hyperlipidemia
+
+
+
+Procedures
+
+      Tonsillectomy
+
+
+
+Medications
+
+      Asa (ACETYLSALICYLIC Acid)    325MG TABLET take 1 Tablet(s) PO QD 
+
+      Allegra (FEXOFENADINE Hcl)    60MG CAPSULE take 1 Tablet(s) PO BID PRN  
+
+      ATENOLOL   100MG TABLET take 1 Tablet(s) PO BID, take 1/2 in morning and 1 in evening
+
+      Flonase (FLUTICASONE Nasal Spray)    1-2 SPRAY NAS QD 
+
+      Prilosec (OMEPRAZOLE)    20MG CAPSULE CR take 1 Capsule(s) PO QHS 
+
+      Dyazide  (TRIAMTERENE 37.5 Mg/hctz 25 Mg)    1 CAPSULE PO QD 
+
+      Albuterol Inhaler    2 PUFF INH Q4-6H PRN.cough, use with chamber
+
+      Plavix (CLOPIDOGREL)    75 MG PO QD 
+
+      Pulmicort (BUDESONIDE Oral Inhaler)    4 PUFF INH BID 
+
+      Celexa (CITALOPRAM)    20MG TABLET take 1 Tablet(s) PO QD 
+
+      LISINOPRIL   20MG TABLET take 1 Tablet(s) PO QD 
+
+      Lipitor (ATORVASTATIN)    10MG TABLET take 1 Tablet(s) PO QD 
+
+      Singulair (MONTELUKAST)    10MG TABLET take 1 Tablet(s) PO QHS 
+
+
+
+
+
+Allergies
+
+      Sulfa    - Unknown
+
+      Penicillins    - Unknown
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+Assessment and Plan
+
+
+
+
+
+
+        _______________________________________________________________,_____________________
+
+
+
+
+
+
+
+        ______________________________________________________________
+
+
+
+
+
+
+
+_________________________
+
+
+
+
+
+        _________________________
+
+
+
+
+
+        (
+
+
+        ____
+
+
+
+
+
+
+
+
+
+       
+
+
+
+
+
+
+
+
+       
+
+
+
+
+
+
+
+
+
+       
+
+       
+
+
+        […
+
+            and ______________________
+
+
+
+
+
+
+
+
+
+       
+
+        or
+        or, and/or references
+
+
+
+
+        [...
+       
+
+
+
+________________,
+       
+[
+
+
+
+
+information
+
+
+
+
+
+________________
+or codes and
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\
+
+
+
+or
+[s.
+
+
+
+
+
+references,
+references of the following information, names, names
+
+
+patient
+
+
+
+
+The patient information and a clinically or 
+
+
+The following: or, or 25 or [date of, and
+
+patient information
+
+names, patient names, names (101,
+name, or line, and the names
+
+
+
+or names
+
+...
+are of the patient and name or
+
+10, and, and
+
+(...
+, a single line of...
+
+
+
+The, or names
+(or 20 or the […., but, but [...,
+
+
+...
+... (15, and or the are or or, or or, and the last.
+
+and, names. 
+1, or [dream (d and [... (1, a patient 2: 2 and 3: 30, and: the patient:, [:...
+
+
+... 0 or the [1 [2:......[[of… and are, the or, [by or: and 1: and names of 12… or and, “or or the “(and and and the, and, 
+... or [are, or:
+[10...and, but, and the: or... and and... are a are, are [1 are  and... (...  and the and and [1, or, and " and, or, 3 (are. (and, or, and, the, 1, and, and, the (
+1, and, (1, and, the, and "… are 1 are, and the, and, a, are, "and, and, and, the, and, are, and the and, and " and,  and, :: [and and:...the...: and:...:: 2 and... an and...  (le...  are (1... are... indicate... are are are that, of, an and "
+ or or or, (1 (le [le [. [an, and, and of the, and of the and (, an, and, 2, an, an 1, an,  an are the are a, are an and, " (and and by (2 or " ( an and, an and an, an an [. Anich,  An, the and and or or an, an (an An An and an or, an an and (an, or, (0, and of the, and 2 An [, An, and ( an, and,  " [1, and and and " of " and [ and- (,, an and,,  [20-le or, 1-1 of: 1- an: An An:: (:... -1 [ " -  and: (: An ( " : " [: (: ( and: :: [ [ (- " (: an : " an of an: (- an " and “ ( ( and [ " ( [ [ (. and, of an of an of the (. (., an in ( [, [, and,
+ [ [ in ( ( ( an or an [ " ( and [ and- and ( an, and ( (, [ ( an, or an and, an " - are an, an  and, - " or and an or- are [ an [ of " and are,, ( ( of [ of ( or an, an, an, An and,, and, and [ an (,, of and  an of an of an or of, (, An,, (  are an (, ( An-  or in of an and ( or, ( or  or,  or (  and, an and,  of an of - of  of of ( of  and an an: an or  [ an, and or- ( ( or [, an an in or of [ or, [ An and or- and [ [1 and- [ or ( or, [ and- ( ( an, [ or an [ and, an, an and and or and [ and, or and, [ or or of [ of a or of ( or of, and and [ and- or-10 An [ An An or an - C of an of, [ of [ of  of the an of an of C [ and of and [ and [ ( an and, [ An An An An ( [ [ An Cl An An, [ [ C or [ An C or and, and an- [ ( an c ( an, and ( or ( An and [ " " an ( and or an " an t an [ or ( [ [ An or " and ( ( an [ ( An Cl An and and [ and in " An - and An [ and or [ - [ of a [ C and and  and (  and [ and C. ( ( C C. and C C C C: and : C C Cl An C C [ or- or and ( [ ( C " an and ( [ C an of C An An An Cl C C ( [[ [ ( and or and ( and [ or or ( and of [ of, of [ of or [ of  - C or, ( or C and ( and ( and  [, ( and [ of of of ( and of C and ( [ or -  [ ( [ and and -,  and and C or and, and, or and C [ C and, C, and [  - c [ or, or and C and C - [ and and and and C of and and of - of C C ( [ H C. ( and ( and or- ( or and, C- of and of and ( C [ [- C and- T and ( and and and and, - [ H and  and C and [ [ and and ( and ( [ and, [ and C - (, [ and and, and and ( and ( M ( C [ M - [ T ( C and, ( and T M C and in T or  or C and and and and, and [ and C  and  ( and and  C, [, and, [, ( and (, ( and, H. C, H C ( T, and, and,, (, (, and ( ( c and of ( C of  [ of H P ( [ C- M- [, M and ( [ C m ( M of ( and M of, [ ( M ( ( C ( ( C ( C C T- M- ( C M M M ( M [ M m C M M C [ ( M C PO T [ [ C C C and ( C T C C M C PO CA PO A M P. Cl [ ( P CA C P- C [ T PO H ( T C C PO CA ( [ ( H-1 T T Cl-  C T C- C H, [,, [[ C ( CA and [[ C, CA C [ [ and [[ and,, (, ( T C I- and B C C T [ B C M I [ T ( [ C, C C T, and B, PO, B- (,, ( B,, H B CA C (, [ P C and and (, [ C T. and CA ( CA L, and M ( and T L M and. ( [ C M C C P C CA C M T C ( T C CA, C C,, ( P C (

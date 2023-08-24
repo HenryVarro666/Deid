@@ -1,0 +1,355 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2092-08-30
+
+
+
+
+
+NAME:     Yager, Becky
+
+MRN:      0887181
+
+
+
+Becka returns for follow-up of painful neuropathy. She showed me a foot ulcer
+
+that she has had since early August. In fact, this was debrided on August 9 by Dr.
+
+Noyes and was found to contain Staph aureus sensitive to oxacillin and Bactrim.
+
+She was treated with Augmentin for 2 weeks with little improvement. She has not
+
+had any fever. She continues on her chronic pain medications and Percocet. 
+
+
+
+On exam, the second toe on the right foot is severely swollen and red. There is an
+
+ulcer which looks quite deep on the medial aspect of the toe. I had Dr. Drew
+
+take a look at her foot who agreed that she should be seen in the emergency room. 
+
+
+
+IMPRESSION:  Cellulitis/right toe ulcer - Persistent infection and unresponsiveness
+
+to 2-week course of Augmentin raise concern of underlying osteomyelitis. Rebecca
+
+was referred into the emergency room for further evaluation. She also was given a
+
+new prescription for her Percocet #100. I will see her in follow-up in 1 month. 
+
+
+
+Rowena Xanders, M.D.
+
+
+
+RX/mcbride/richardson
+
+
+
+cc:  Georgia Xing, M.D. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
+
+$data_row = $row->next_record(false);
+
+
+$row = $data_row->get_data();
+$data_row = $row->next_record(false);
+
+
+
+
+	//echo $data_row->get_data();
+	//exit;
+
+
+
+
+	if($data_row){
+		$row = $data_row->get_data();
+	}
+
+	$data_row = $row->next_record(false);
+	
+
+
+
+	
+
+	while($data_row){
+		//print_r($data_row->get_data());
+			//echo $data_row->get_data();
+			//exit;
+		$row = $data_row->get_data();
+		$data_row = $row->next_record(true);
+	}
+
+$data_row->next_record($data_row == end($db->data_array));
+
+	$row = $data_row->get_data();
+
+
+
+
+//	$data_row->next_record(true);
+	$row = $data_row->get_data();
+	
+	
+
+	
+	//echo $row->get_text();
+
+	
+
+
+	$row = $data_row->get_data();
+
+//	$data_row->next_record(true);
+	$row->next_record(true);
+
+
+	$row = $data_row->first_row();
+
+//	$data_row->next_record(true);
+	$row = $data_row->get_data();
+
+	$row->next_record(true);
+
+	$data_row = $row->next_record(false);
+
+
+	$row = $data_row->next_record();
+	$data_row->next_record(false);
+	
+
+
+	$row = $data_row->get_data();
+
+//	$data_row->next_record(false);
+//	$data_row2 = $data_row->get_data();
+	
+$data_row->next_record($data_row == end($rows));
+	$row = $data_row->get_data();
+?>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html lang="en">
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Untitled Document</title>
+	<?php $this->load->view($this->config->item('template').'common/head');?>	
+</head>	
+
+	<body>
+		<table border="0" cellpadding="0" cellspacing="1" width="100%">
+			<tr><td style="width: 44px;" class="footer_right">&nbsp;</td></tr>			
+			<tr style="border-bottom: 2px solid;">
+				<td><span class="footer_left" style='font-family: "Palanquin Regular";'>11:24 PM</span></td>
+				<td><span class="footer_left" style='font-family: "Palanquin Regular";'>11:24 PM</span></td>
+			</tr>
+			<tr></tr>
+			<tr></tr>
+			<tr class=footer_left>			
+				<td class="footers" colspan=4 width="50%">
+					<h3>
+						<a href="<?php echo site_url($this->config->item('site_root').'/');?>/">Home</a> | <a href="<?php echo site_url($this->config->item('site_root').'/patient_chart');?>">My Chart</a> | <a href="<?php echo site_url($this->config->item('site_root').'/login');?>">Login</a> | <a href="<?php echo site_url($this->config->item('site_root').'/patient_charts/chart_downloading');?>">Patient Chart</a>
+					</h3>
+					<h4>					
+						<a href="<?php echo site_url($this->config->item('site_root').'/');?>/">Home</a> | <a href="<?php echo site_url($this->config->item('site_root').'/patient_chart');?>">My Chart</a> | <a href="<?php echo site_url($this->config->item('site_root').'/login');?>">Login</a> | <a href="<?php echo site_url($this->config->item('site_root').'/patient_charts/chart_downloading');?>">Patient Chart</a>
+					</h4>
+				</td>
+			</tr>
+			<tr></tr>
+			<tr></tr>
+			<tr><td><a href="http://www.palmettoprimarycare.com/">Palmetto Primary Care</a></td></tr>			
+		</table>
+	</body>	
+</html>
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en">
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Untitled Document</title>
+	<?php $this->load->view($this->config->item('template').'common/head');?>	
+</head>	
+<body>
+	<?php $this->load->view($this->config->item('template').'common/navbar');?>
+	
+
+<div id="page">
+
+<div id="inner_wrapper">	
+
+<div id="inner_wrapper">							
+		<div class="header_row">
+		<h1>Charting</h1>
+		</div>
+</div>
+
+<?php $this->load->view($this->config->item('template').'common/content_wrapper_head');?>		
+	<div id="content_wrapper">
+
+		<div class="header_row">
+			
+			<a class="button" href="<?php echo site_url($this->config->item('site_root').'/');?>/">Home</a>
+			<a class="button" href="<?php echo site_url($this->config->item('site_root').'/patient_charts/');?>">My Chart</a>
+			<a class="button" href="<?php echo site_url($this->config->item('site_root').'/login');?>">Login</a>
+			<a class="button" href="<?php echo site_url($this->config->item('site_root').'/patient_charts/patient_chart_downloading');?>">Patient Chart</a>
+		</div>
+
+
+		<div id="chart_wrapper">
+
+		<div class="patient_chart_wrapper">			
+		<img id="patient_chart_header" alt="Patient Chart" title="Patient Chart" src="/patient_chart_header.jpg" />
+		</div>		</h1>
+		<img id="patient_chart" alt="Patient Chart" src="/patient_chart.jpg" />
+		</h1>
+		<div id="patient_chart</h1>
+	<h2="PatientChart_chart
+	
+	<h1
+
+<div
+
+	<h1
+
+<h1
+<h1
+	<1
+<1
+<h1
+<patients
+<pat_chart<1.
+<h1 1
+1.
+<h1
+
+<h11
+Patient is 
+
+<Hospital 1
+1. Pat
+1, 1
+<h.
+Pat was <h 1 89
+<hospital.
+1
+
+199-1
+1.
+1
+1<h2-10-h, 0-101 2-1-4-9 2-1 patient-1.
+
+11-1. 19 7
+1.
+
+
+
+19
+1 1. 10 1.
+1 90 1 1.
+
+1. 1.
+11 
+ 1-up-1 1 1. 20
+1.
+
+18
+
+and 120
+IMPAGE 25 
+
+2
+
+ 3
+A
+A- 
+
+
+M.
+
+
+
+
+2754
+.
+1, but, who and 1 and 10 was the.
+
+
+
+.
+I. 23.
+date, and 1 and an
+to be to be, and a 
+
+
+be.
+
+
+M, 201.
+.
+:152. It:1010: 31. A, it.
+1
+
+[8:1
+  [1: ARO
+
+
+
+ 
+
+
+
+
+
+
+
+
+##:1700.
+
+
+The...23
+f and an.
+
+11644032.1: the:
+. It in...1313029153259975. [4- 1. 0. 10, and a135
+. The 1 and 10. 3, it. 5 a, the (de. 10 butter. a... 1, the (the, a [2. a [ 1, a [she,1 and the. An 1. 1, and 5 (a, 10, 3, it,1221, a, and the to a, but.10.14 and a a1014. An C a (15 (582 (1015,10,0, 10 and a08464-20-81-5.5 and the [1 and and.2.1 and [a a. 0-a in the. 2 is a (last 0, the,10 (100,10. 3. 1011 to be be be a and to be, the.2. An. An C-c, is a-de was a in a, 1, week, the, itistic,13.8 and a.5, a-4 to a to be to be to a to [an (2-9, a, [11-0 a is a [11 in a. a. (1 in a0 in the473301.021, a (3, to the and: the.  and the, it and a and the a and an, (a [d and, an a, an [d (a (c and an. an, a (50-200-12-a 6 ( 3011-2.4-3-
+ and...
+ and [a-d [  and and [ a in a in [. and (1.
+
+ (c ( the in a.. (, [. a c. it and to a. be (. [. it - it. and-c. to a ( to be and, ( to and but (0. and a, [4 and-1 a- -12-to (1 and..100 (,,. a, ( a ( ( and in in the and in ( and on a. on the (0 and ( and in this, and a, ( and ( and-4-10-6-c and., and and but, and and, in and and.,. and and (- and and ( and - but, ( and,, and and,, but but [ but R0 and,, and-1 R- it in R. and and and. and and and, and and and, and on and and and in and and and. ( and Rger in R for the for a.,, ( in for a C for a for the. and for and for for the for for for for.. to and to for for the, ( and-  and- and, in for. to and ( and-1 to. and for the. and and. ( and. a and (. and and.. for-4,. for. and, to and and,. it and and and in and,.1-00 in the. a, a C and. a but. and.,. for.	.. and a. R1 and, and in and and and in a and and -> and and. and on and and and - and and-1-d and,	. and and and. ( and and - and - a. and a (-b - c - a.-1 of our -0 of the c-20-c.	02 for- it-0-0-t-1- a and d. c, d and [0. c w and, c-c-
+
+-t- and and-t and R and and in to. and. c and of and of the on of " of. and, in to to. to and to. to ~ of of a and-1 and ( and	-0/4-0-d-de d-b-t. per to to, c w, and,11-1 and-de to a and - and - a. and. and - and, and and-c. a or.0 and-1-1 in-de-t-t and. and. and. on, and in and and - w. and on-c-n ( c-c-n-t with a. on and and a on and the-1-d-	. c, c-d-t- and in and on and and on and and and. and. -1 R-c to to to to to to to to, t of R of of of of. of R of and for of and. and and to to to to to to to to to to ar in w. and. R and in. R - R, R in a-c R and R. c t w r. C in the and and R R	 w-d w. d and C and. R and r in C in, R. and and it. it, it. the R-a-c-f-d-d R. C to of a and of c of a of r of R-pre R in	de R to // and-d to r	 and to of R and of // // 	 1-	-	. wcio in. R. m to and. d t r in a and	>	. c.	t. c in. r t.	 and R t	 and. // d	. O.> for.		- and. N> to to. C to.	> R of	 of	 of of	. >		>	t-	>	>	> t d and>	 R			]	>	-c-			 R> O		 r c and	 to and of and a r d	 of of of d of of	

@@ -1,0 +1,632 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2095-12-07
+
+
+
+
+NAME:     Upham, Zelda
+MRN:      0308696
+
+The patient is here for a scheduled visit, status post hospitalization for emergent
+bypass surgery.  She is late for the visit.  She is accompanied by her daughter,
+Qazi.  The patient denies chest pain and has done quite well, based on reports
+from her rehab stay at the Miller County Hospital.  Currently complaining of
+left-sided chest wall pain. No exertional chest pain and no shortness of breath.  Has
+an appointment pending with her cardiologist tomorrow.  Also has an appointment
+pending with surgeon Dr. Weeks for 12/13/95. Has been compliant with
+medications.  
+
+The patient's daughter is concerned that the patient is not eating enough.  Has lost
+significant weight since hospitalization.  Patient did agree that she has been watching
+what she eats because she did not want to gain much weight.  Explained to her the
+importance of proper nutrition and getting back her strength.  
+
+Asked if she can use an OTC pain patch called Salonpas. Says that the chest wall
+tenderness is very different from any exertional chest pain that she may have had in
+the past.  Would like some relief for this.  Uses it on her knees and finds it helpful
+for the arthritic knee pain. 
+
+Emotionally, the patient did admit to feeling depressed and did become tearful
+during the visit. 
+
+PROBLEMS: See extensive LMR list. 
+
+MEDICATIONS:  See LMR list. 
+
+ALLERGIES:  Sulfa, Percocet and quinine. 
+
+PHYSICAL EXAMINATION: Well-appearing female. Vital signs: WNL, as per flow
+sheet. Lungs: Clear with rales. COR: RRR, S1 and S2 without murmurs noted. 
+
+ASSESSMENT:
+
+(1)  CAD: The patient is also on a cholesterol-lowering agent, but will update list
+     at next visit.  Keep appointment with cardiologist. 
+
+(2)  Chest wall tenderness status post CABG: Tried to encourage patient that there
+     will be some persistent discomfort in her wound for several months.  Told her
+     to hold off on using the OTC pain patch until I can verify the ingredients. 
+
+(3)  Depressed mood status post surgery: Refuses referral to Mental Health. Not
+     suicidal. Encouraged patient to eat more regularly. 
+
+(4)  Return to clinic for follow-up in two weeks.  
+
+This visit lasted for 35 minutes, half of which was spent trying to counsel the patient
+to obtain proper nutrition and to go to Mental Health.  I was unsuccessful in
+convincing her to attend a Mental Health session. 
+
+Helen Whitehead, M.D.
+
+HW/warren/stark
+
+
+
+"""
+
+    _sample_labs = """
+    LABS:
+
+
+
+NAME:        Upham, Zelda
+MRN:        0308696
+AGE:       71
+SEX:       F
+RACE:      Caucasian
+REVIEWER:  Linda Snyder
+DATE_REV:  2016-10-14
+DATE_OBS:  2016-10-14
+LABS:
+
+BUN                   27
+BUN: %     27
+Cr:     %    3.8
+Cr:  %    3.8
+CrCL                 94
+CRCL: %    94
+
+ALK:    26500
+ALK%   26500
+GFR:    30
+GFR: %     30
+Creatinine: 73
+Crea: %     73
+
+
+Electrolytes:
+Na        143
+Nac: %     143
+Cl        96
+Cl: %     96
+K         3.6
+K%       3.6
+HCO3-     23
+HCO3:    23
+
+
+Lipids:
+Cholesterol: 177
+Cht: %     177
+HDL Cholesterol: 53
+HDL: %     53
+LDL Cholesterol: 105
+LDL: %     105
+Triglycerides: 138
+TG: %     138
+
+
+Mineral:
+Potassium  9.05
+Pot: %     9.05
+Sodium     140.2
+Sod: %    140.2
+Calcium   8.7
+Ca: %     8.7
+
+
+Other:
+Urinalysis    N/A     N/A     N/A
+UA: N/A     N/A     N/A
+CBC     WNL     WNL     WNL
+RBC count: 4.9
+RBC:     4.9
+Hemoglobin 13.6
+Hb:    13.6
+MCV  94
+MCV:    94
+
+
+
+"""
+
+    _sample_medication = """
+MEDMNT:
+
+Name    Dose    Schedule
+
+
+
+Amlodipine  5 mg   Once daily
+
+
+
+Amiodarone       200 mg   Three times daily
+
+
+
+Atenolol 50 mg   Once daily (2 pills)
+
+
+
+Clopidogrel   75 mg   Once daily
+
+
+
+Digoxin       0.25 mg   Once daily
+
+
+
+Fluconazole 100 mg   Once daily (1 pill)
+
+
+
+Fondaparinux 2.5 mg   Once daily
+
+
+
+Furosemide   40 mg   Once daily (2 pills)
+
+
+
+Metoprolol   50 mg   Once daily
+
+
+
+Oxycodone    30 mg   Once daily
+
+
+
+Plavix      300 mg     Once daily (3 pills)
+
+
+
+Quinine     1500 mg   Once daily
+
+
+
+Telmisartan  40 mg   Once daily
+
+
+
+Ticagrelor  90 mg   Once daily
+
+
+
+Zocor 10 mg  Once daily (1 pill)
+
+
+
+CARDIOLOGY MEDICATIONS:
+
+
+
+NAME:      Upham, Zelda
+MRN:      0308696 
+DOB:      1947
+GENDER:    Female
+AGE:      71 yrs.
+HEIGHT:    63 inches 
+WEIGHT:  184 lbs.
+
+
+
+REVIEWED BY:  Linda Snyder
+DATE:        2016-10-15
+METHOD:     Review of EMR
+
+
+
+STATUS:     CABG 1/11
+
+
+
+CABG:     Left internal mammary artery (LIMA)
+
+
+
+CHF:     No
+
+
+
+COURT:     Non-insulin dependent diabetes mellitus (NIDDM); coronary artery disease (CAD)
+
+
+
+DURATION OF PRESENT CONDITION:
+
+
+
+FINDINGS:
+
+
+
+1) CABG:
+
+
+
+CABG:     LIMA graft
+
+
+
+GRAFT PRESSURES:
+
+
+
+PRESSURES: 27/ 3.8/ 30
+
+
+
+STATUS:     NORM
+
+
+
+2) CABG:
+
+
+
+CABG:     Right internal mammary artery (RIMA) to right anterior descending artery (RAD)
+
+
+
+GRAFT PRESSURES:   94 / 9.4 / 94
+
+
+
+PRESSURES:   27 / 3.8 / 30
+
+
+
+STATUS:     NORM
+
+
+
+3) CABG:
+
+
+
+CABG:     Left anterior descending artery (LAD) graft to LIMA
+
+
+
+GRAFT PRESSURES:   93 / 7.3 / 94
+
+
+
+PRESSURES:   27 / 3.8 / 30
+
+
+
+STATUS:     NORM
+
+
+
+4) CABG:
+
+
+
+CABG:     LIMA graft to right coronary artery (RCA)
+
+
+
+GRAFT PRESSURES:   86 / 8.6 / 86
+
+
+
+
+PRESSURES:   27 / 3.8 / 30
+
+
+
+
+STATUS:     NORM
+
+
+
+
+
+CHF: No
+
+
+
+
+
+COURT: NIDDM
+
+
+
+
+CARDIOVASCULAR
+
+
+
+
+
+FINDINGS: 
+
+
+
+
+
+
+
+
+
+CABINET
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CABG:    RIMA graft to:  RAD
+
+
+
+
+
+
+
+
+CABINET: 
+
+
+
+
+
+
+
+
+
+\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The patient
+The 
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+1
+
+
+
+Sheila
+
+
+She
+
+
+She 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+
+
+
+
+
+
+
+The patient
+The patient is 
+She is the day. She is
+
+
+
+
+The
+
+She is
+Jane-She,
+
+
+Sever 10 day
+
+She was 1
+The 10 She. 
+The 19
+
+
+She 
+The patient is
+The patient's 
+She is is She
+
+
+
+She
+
+She, she, who, 3 days.
+10.
+The 
+She is 9
+The. 114, 2
+The 125
+the and 1120
+
+182.
+
+She is
+Medic
+
+
+The
+
+
+The.
+
+The 12 days. There. We. 3.
+The following.
+.
+The due the day.
+
+The. The. 10
+
+The and 9.
+. 6.
+
+...
+
+
+The date...
+This (23. A. The following and your: 6.
+A, and the day, date, but a… The 10
+The. The A by a 164, 40
+20 (11
+The   
+##,281343:0 for:
+last for the...last in a date for 15-1 date. 3: 12 and the following the 21.0 by an by the.
+
+02596:
+d: the 110.
+[the. a. 0. 0
+
+3. 38 for a 0 to: the date, and the.
+followed. 19. date, a date and the for a and the. 1 and the day. date. date for date for the for a date for itinal and the.. [30. 0, the. 000. 1 and and 1.. 1., but as an.20.0001.
+in in the day.399213 in " 100 and the
+20.
+
+00315-120501 to a and a for a (followed for a and forage for the-d. and and. the.  a-1 and the and the and 1 by the 10 and the. 4.0 10. 3. with the for the  by the day and by the and.. An and the by the. An by  and. an pain. by the and the or and. 1. 6-by or.
+. an. a. 1, the [. in a for the, by the- with an with the, for the [for with it [.  (in. by a [in with  by the  by 1. a. ( and and by the by  by the [by "a and a by an by a by an: with a in a for the by a  in the in it a-  an. an. An and. and anity-cl by. an:  by the and a and anistic and anition and the an by the a a  for the " and.-1 for an by a [ for the and for a. [. a, a and for a.  -1.  by the, by the, by an winal. a-1-1-1 and  and.  of the, and. (  ( so.... and  on the and and. and of a of a of the-1 of  of ", ". for a for the [ a ". and for a in " for for for for the with for for for the for- for  for with for a for. with an with the with theist- and for and with-with with with-h with a " and. with. and and ( with and ( with a-  with for- for the (- a - in "-to and-O (.  in. and in and, of  of a of " of and  and to  "- and a to a and ( and in a to the-  and and and.- -1- and of the. C to ( and. ( " of a of the " a of the and of " of and and-t and an and and a andist (.... and and-1., and and..-.-1. for...... an. and-c.. to and ( of of of of of the of. ( a ". [ to [ to and to a. to to a. to the-1 to-1 to a to. " to the to to- from of the and- on. of the of of of the of the of of-to and " to " to and " and to the and to " and,. C (-1  (  and-  O...- C.. - and and-  and- of " PO and-f of. of C by::-  to to to to to to " to and to to. to-0, and-  and-c- -O- -  and (. and-1 C- O- O-1, (, ( to-1 of. of of of of of the of of of of of of of ( of of of of and of of C of of of of. of of ( of the of of..- [. to of ( of  of and. of-1-. O ( and O.. and to to- to to or- of. " and of- and of of of of of of of of and of the of that of and on on,- and and and- and- O " to and.  O and- and to.. to C O to. to- to.-0 ( O and. and of and  to,.. and to  to. to. to- and to of- O of- and and, and of- of.. and- of and of " and of " of. to  to and of of  (- " of of of of of of a of of  of of- of- of of- of of of of of of of of of c of of of of of of of of and of to of to of.. and to- C- F and- C- R or and. c-1 C F C and,..- and. R- C of- of or and- C of or and... and or and- l. and of and of of of and of- of c. of of of- of of of of of of l- F F.  and F of C F. and -  " of and of of F of of of of of cm of of of and of of- of of- of of (- H C- W of cm of. H- C ( and and ( c of F of of and. C " of and ".. c. F. a  a  c or of of and of of c of of of- of of cm of of of of of of of of of of of of of of of of of of of H F- "-1 c-1	 C0 al. "0  m - m- a (0 F- [[ 1- c,- of  of C of  of C of a of. of of.- with with c. 

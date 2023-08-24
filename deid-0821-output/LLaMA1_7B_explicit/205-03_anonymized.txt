@@ -1,0 +1,234 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2070-07-28
+
+ 
+                           OFFICE NOTE
+                    FRANKFORT INTERNAL MEDICINE
+                       28 Bailey Street
+                            2nd Floor
+                    North Webster, SD  48493
+ 
+ 
+Chandler, Jessica
+MRN: 748-80-38-0
+07/28/70
+ 
+Jessica returns today for follow-up after her admission for acute
+shortness of breath and congestive heart failure.  I had added
+Zaroxolyn on to her regimen which she is tolerating well.  However,
+her recent laboratory studies show that she has a significant
+increase in her BUN and creatinine.  Her BUN is in the 80's, and
+her creatinine is about 3.4.  She states her breathing has been
+excellent, however.  She is not experiencing as much dyspnea on
+exertion.  She is sleeping through the night, and she is no longer
+having any kind of dry cough.  
+ 
+Medications:  Her current medicines are Nephrocaps 1 tablet p.o.
+q.day, Paxil 20 p.o. q.day, Cozaar 50 p.o. q.day, Prilosec 20 mg
+p.o. q. day, Atenolol 50 p.o. q.day, Lasix 120 p.o. b.i.d.,
+Zaroxolyn 2.5 p.o. q.day, Albuterol nebulizers p.r.n., nph 40 units
+in the morning and 40 units at night time and aspirin 81 mg p.o.
+q.day.
+ 
+Allergies:  Cephalexin causes questionable rash.
+ 
+Physical Examination:  Today she is a pleasant black female in no
+acute distress.  Her weight is 330 pounds.  This is down over 20
+pounds over the past month.  Her blood pressure is 122/80.  Her
+pulse is 80.  Her lungs are clear.  Her heart reveals distant heart
+sounds but regular in rhythm and rate.  Her extremities are notable
+for the absence of lower extremity edema.  Her abdomen is also
+noted to be significantly less edematous than it has been in the
+past.  Inspection of her left lower extremity reveals that she
+continues to have an ulcer over the lateral aspect of the foot on
+the plantar surface that measures 2 x 3 cm.  There is beefy red
+granulation tissue surrounding this.  
+ 
+Diagnosis:
+     1.   Congestive heart failure.  
+     2.   Coronary artery disease, status post CABG.
+     3.   Morbid obesity.
+     4.   Adult onset diabetes mellitus.
+     5.   Chronic renal insufficiency.
+     6.   Foot ulcer.
+     7.   Depression.
+     8.   Health maintenance.
+ 
+ 
+ 
+Chandler, Jessica
+MRN: 748-80-38-0
+07/28/70
+Page Two
+ 
+Plan:
+     1.   Congestive heart failure.  She is doing much better on
+higher doses of diuretics with a weight loss of over 20 pounds
+since her last visit here about a month ago.  At this point in
+time, however, I think that we need to cut back on her Zaroxolyn
+given the elevation in her BUN and creatinine, and I've asked her
+to hold her Zaroxolyn dosage and continue on a relatively low-fat
+and low-sodium diet and to have a scale and obtain daily weights,
+and she will follow-up with me in the office in two weeks and per
+telephone conversation in four days.  Should she have an increase
+in her weight by more than five pounds, she will contact me.
+     2.   Coronary artery disease, status post CABG.  Stable
+without any symptoms of exertional chest pain.  Continue current
+medication. 
+     3.   Morbid obesity.  She decided not to go to the Frankfort State Hospital weight loss program.  I strongly wanted her to go
+on a liquid protein diet plan, but she states it's inconvenient for
+her to come to the Hospital at night time for the meetings.  She is
+planning to try and enroll in a program at Sibley Care.  I told her I would help her out in any way possible, but
+strongly reinforced to her the need for her to take off weight.  
+     4.   Adult-onset diabetes mellitus.  Stable.  Continue current
+regimen.  
+     5.   Chronic renal insufficiency.  The plan as above is to
+stop Zaroxolyn and repeat electrolytes in five days. 
+     6.   Diabetic foot ulcer.  I also gave her a duoderm dressing
+to try, and she is going to continue to follow-up with her
+podiatrist, and I will speak with her visiting nurse about
+appropriate treatment.
+ 
+ 
+ 
+Ruby C. Ayala, M.D.
+ 
+DD: 07/28/70
+DT: 07/31/70
+DV: 07/28/70
+/naranjo
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+"""
+
+
+class ClinicalNoteParser(object):
+
+    def __init__(self, clinicaltext):
+        self._clinicaltext = clinicaltext
+        self._token_set = set()
+        if re.search('\w\w\w\w', clinicaltext):
+            self._token_set = set(clinicaltext)
+            token_set = self._token_set
+        else:
+            token_set = set()
+            for token in clinicaltext.split():
+                if token.isalpha() or token.isdigit():
+                    token_set.add(token)
+        self._token_set = token_set
+
+    @property
+    def token_set(self):
+        return self._token_set
+
+    def token_set_to_list(self):
+        return self._token_set.list
+
+    @staticmethod
+    def split_token_set(token_set):
+        token_set_to_list = ClinicalNoteParser._split_token_set_recursive(token_set)
+        return token_set_to_list
+
+    # Split a token set recursively
+    def _split_token_set_recursive(self, token_set):
+        # Split each word
+        split_to_word_set = ClinicalNoteParser._split_token_set_recursive(self._split_word_set(token_set))
+
+        # Split each token in the word set
+        for token in split_to_word_set:
+            split_word_set = ClinicalNoteParser._split_token_set_recursive(split_to_word_set)
+            split_to_word_set = split_word_set[:]
+
+        # Split each token in the set of tokens
+        for token in split_to_word_set:
+            split_word_set = ClinicalNoteParser._split_token_set_recursive(split_to_word_set)
+            split_to_word_set = split_word_set[:]
+
+        # If there are remaining tokens, split them
+        if split_to_word_set:
+            for token in split_to_word_set:
+                split_to_words = ClinicalNoteParser._split_token_set_recursive(split_to_word_set)
+                split_to_words = split_to_words[:]
+                for token in split_to_words:
+                    split_to_words = ClinicalNoteParser._split_token_set_recursive(split_to_words)
+                    split_to_words = split_to_words[:]
+                    if len(token) in (2, 3, 4):
+                        split_to_words.extend(ClinicalNoteParser._split_token_set_recursive(split_to_words))
+                        split_to_words = []
+                    else:
+                        split_to_words = ClinicalNoteParser._split_token_set_recursive(split_to_words)
+
+        return split_to_words
+
+    def _split_word_set(token_set):
+        if token_set.isupper():
+            token_set.isdigit():
+        token_set.isalpha():
+
+    def _split_token_set_recursive(token_set):
+        token_set.isidentifier():
+        token_set.isidentifier():
+        token_set.
+        token_set. isidentifier
+        token_set.
+        token_set.
+        token_set.
+        date.
+        date. 40-dashes, 40.
+30.3
+            token. 12. and.
+        token. 1
+
+        token, etc.
+, 2
+        50.
+
+        2 or a letter 3-letter 33 letter
+3, 
+
+3.1
+3.
+1.3.
+12. 1.
+1.3, 1.
+1.
+1. or.
+1.
+
+
+
+
+1013.
+1.
+1. 13 lines of 3. The letter names 10,2. 3.
+1
+1
+3.1
+1.
+1.
+The names of 10. The letter,1.
+
+3.1
+1.2. 1.3 names, 1, 2, 2 names, names, 1 and 1 1. 1.
+1. or...
+1.
+and, including the patient 1, 0 or 9 or last or the [… (1, etc, 1, names, names.
+[... 12, 9
+
+The...
+
+... or (the, and 5 are and 9, and 6,1,1, 20 oratorized 25 (15, the following the...the 1. 2: 1, the...the: 1, 10...
+and-2:
+orize the "0, 21 (1 (2 or:
+... are: 31 (1: 1: (1: [are are:... and are the [the or: the, and, 2,  and... or or, the, 1 (
+d (le are or, 1: 1: and and, but 101 (the, 1... the [… are the, the are the, the names. and the and ( 1 and, [1 and or, and, or the, and, and the,
+(1 or, a, [...,, the...
+1, the,. and, [the, the and are the, and, 1, but (1, [and and, and include... (and 3, [
+( 9 and the, the, [1, and... and: the (1: the and, 1. 1. (an "1. “ and.  and 1 ( [are, 1-con 0 or and of the ( 3 of the or or or [, 1, the [and, 2 and, and, of,
+. of the. of the and, and the, and, but, and, an 2-2 are an may (an-are, an (c,  or, the, the and the, and, 1.  and 1, 2 of 1  or an or, and an, " anities, 2-2 and, and an or, an, 2, an and of it, an, the (and and 5, an, 4 or, [C and an, 0 and and,  " An, (d in the, 1, (An An An, an " and an, an and of an and-0 1:: 5 an and: 2 [1: an: " (1- 0 or: 2-and or: ( an-1 an- :... -an an or an an:  or in an and are-0 and  and-1 are a (. an-ind [.  of the of an of the,.,. and an in and or and, [. and, [,  and...  and or [ [ and or or  [ and or and are  or ( [ [ and ( or ( an an -  are "  and - ( an-  "  and of -0 of  an,  and  of a of  of an of the of the or and  [,- an [,,,,  of  of an or " of  and of the and an  and,  are,  are  in  of the in an and  in  an in or or or or or  an in,,   or and  or of a and of the of  of  of  and., and an  and ( are and  are in   and or and (  for the of an-  for in in  for or- - and for  for or of the ( as, and, and,  and and in and or ( and for, or or in an   and and and or and  of the and of a ( of an of and, -  or- an- and  an or , of and and of of of the of the of of of of  of, of and of the and of a,,  an an,  ( and,,  and an and in the an in in and and in the (1 ( or [ c of and of an of the an of [ and 0 and ( an  and, and, or and- an-  an ( or and,  and  (  an and an c ( in in- [ an and or in in  in and al in or and of or of an of and and in and- and (  ( and, ( and ( c-  of ( ( c and in c in a in c in c in and- in ( in and and ( of the and in and in an of and and of or and  and- ( and c of  and  and al ( an c, of of of of and of of  [ of and (  as of and or, in and, or,, ( of the of, of or of of of of of of of of of and of and in- and in and, and c c, (- and or or  c. and. and and or and, c on and and in ( and  and, and ( and  of  c ( of of of [ of the of [ and [ C and and  c and or and and and and, of a of and of ( and c and  c, an and ( al and,, and an and and  an al and of [ and and  c c t ( and and and and  ( as and and and c and ( t and and c, an and and, a ( and, and, t. c ( in and (, ( ( ( an in, and, and, ( ( and, and c in and ( al. (, ( (  ( ( al and, and,, and, in ( for, as  ( and- or for to, for for ( in, and and in [ for ( a and of for  a- and al- al al as and and c in w w in and and and c (, ( and,, and and and,, and al, w b ad ( and ( ad, m b in ( m and and, and ( ( [ in c- up al- and  a and-  c and and of [ and  and al, c ( [ and and, and and [ an an B b [ ( b c b ( ( _ in b and in B [ a B of and of [ al. and b [ c a- as [ B w a and (, and and ( and and ( and., and  B and [ B- ( [ a b ( b, B and B is B B a ( a  a c and [ [ and, b c up up  and [ and,  b ( and B of, and [ a and and  and and  and [  [ ( [ or and [ or [ and a  B, a ( t- t [ B and [ b and and and and ( B- c B in [ of, of [ of of ( and of of  or

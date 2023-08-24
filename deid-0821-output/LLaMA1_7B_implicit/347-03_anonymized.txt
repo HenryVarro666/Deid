@@ -1,0 +1,377 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2097-11-30
+
+
+Cookson Memorial Home
+Internal Medicine Room 960
+50 Wellesley Rd                                        DARLING, BETTY
+Seattle, SC 84126                                      78567873
+(121) 537-3484                                           11/30/97
+
+
+CHIEF COMPLAINT:  Hypertension, proteinuria, status post fall,
+reevaluate Coumadin.
+
+HISTORY OF PRESENT ILLNESS:  Urgent care visit for this
+77-year-old woman with the history of diabetes, multiple strokes,
+hypertension, hyperlipidemia, and multiple other issues.  Last
+week she was at Saint Joseph Memorial Hospital for an eye evaluation.
+ It was a very very windy day.  Afterwards she was outside and a
+huge gust of wind knocked her over.  Her daughter Fitzpatrick was with
+her and Fitzpatrick herself actually had to hold on to something when
+the wind blew.  There is no chest pain or presyncope, and no loss
+of consciousness either before, during, or after the episode. 
+She struck her left trochanteric area, left deltoid area, and
+left eyebrow.  She was taken to EFH where she had a normal head
+CT.  A single stitch was placed in the laceration along the
+lateral edge of her left eyebrow.  She had films of her wrist and
+hips both of which were fine.  She has bruising in these areas. 
+Other than some pain where the bruising is she feels entirely
+back to normal.
+
+She had marked hypertension up to 250.  She was treated with
+hydralazine in the ER, and was noted to have proteinuria with
+some hematuria.  Her blood pressure at home since then has been
+180 and 210 systolic on her usual 40 mg daily of lisinopril.  She
+is not on a beta-blocker currently.  She has not had any episodes
+of chest pain.  She does feel slightly more woozy than usual.
+
+MEDICATIONS:  Metformin 500 mg p.o. b.i.d., Prevacid 30 mg p.o.
+q.d., atorvastatin 10 mg q.d., sertraline 50 mg q.d., warfarin,
+lisinopril 40 mg q.d., Ambien 10 mg q.h.s. p.r.n., levothyroxine
+100 mg p.o. q.d., aspirin, eyedrops, Colace, and Dulcolax.
+
+SOCIAL HISTORY:  She is looking forward to a good Christmas. 
+She is here today with her daughter Fitzpatrick.
+
+PHYSICAL EXAMINATION:  Temperature 97.2, pulse 74, BP 208/66,
+weight 148 pounds.
+GENERAL: Well appearing woman.
+HEENT: PERRL.  Single stitch along the lateral aspect of her left
+eyebrow is easily removed.  No evidence of any infection.  Her
+left deltoid area is fine and she has good range of motion in the
+shoulder.  Her left ribcage is slightly tender but without any
+bony step-offs.  She walks well with no pain in her left hip. 
+There is a hand sized deep purple bruise over the trochanteric
+bursa.
+
+ASSESSMENT AND PLAN:  Mechanical fall with laceration and
+bruising but no more serious complications.  Fortunately she did
+not have intracranial bleeding.  I am not sure why her blood
+pressure is up, whether this is related to the stress of the
+falls verses independent causes.  Given that the high blood
+pressure has persisted, I will add atenolol 12.5 mg p.o. q.d.,
+and discuss via phone or E-mail with her daughter next week to
+see how well this is working.  Goal BP 140-160 systolic.  Her
+urine was checked today.  Hematuria has resolved.  She has 2+
+proteinuria.  I will recheck this in a week or two after we treat
+her hypertension.
+
+We spent over half of today's 45-minute visit discussing risks
+and benefits of Coumadin therapy.  Although she is at risk for
+falls, she feels quite clearly that she prefers to be on the
+Coumadin due to her fear of having a repeated thrombotic stroke. 
+She feels that she has not had any bleeding complications, and
+that she really would not like to suffer through another stroke. 
+I explained that there was some risk with falls of intracranial
+hemorrhage and its consequences.  I spoke with Dr. Dewitt last
+month about her Coumadin, and we both feel that it seems to be
+working well in terms of stroke prevention, but that she is at
+increased risk for falls.  It seems to me that she is in a gray
+area with no clear right answer in terms of risk benefit analysis
+for Coumadin for her.  She feels very strongly that she wishes to
+continue.  This was discussed in detail with her and her
+daughter, and this probably is a reasonable decision.  I
+encouraged her to restart physical therapy to work on her
+strength and hopefully diminish her risk of a subsequent fall. 
+More than half of today's 45-minute visit spent in patient
+counseling and education.
+
+
+
+
+
+______________________________
+Julia Yale, M.D.
+
+
+Dictated By: Julia Yale
+
+
+eScription document:3-5285833 EMSSten Tel
+
+
+
+DD: 11/30/97
+DT: 11/30/97
+DV: 11/30/97
+
+
+
+1
+
+
+DICOM CREST (DICOM)
+
+
+
+    Patient ID (0018,0002) = 3-5285833
+    Study Date (0008,0004) = 1997-11-30
+    Study Time (0008,0004) = 13:23:38.5
+    Study Number (0018,0003) = 1106402830
+    Study Description (0018,0003) = 971130EMSST
+    Patient Name (0018,0038) = Betty Darling
+    Patient DOB (0018,0039) = 1932-10-26
+    Gender (0018,0037) = FEMALE
+    Study Type (0018,0002) = 3
+    Image Series Number (0038,0004) = 1
+    Series Date (0038,0004) = 2000-12-21
+    Series Description (0038,0005) = EMSSten
+    Series Title (0038,0006) = EMSSten 1106402830
+    Series Study Number (0038,0007) = 1106402830
+    Series Study ID (0038,0008) = 1106402830
+    Study Description (0038,0009) = EMSSten 1106402830
+    Study Number (0038,0009) = 1106402830
+    Study ID (0038,0010) = 1106402830
+    Image Number (0038,0011) = 1
+    Image Description (0038,0011) = EMSSten 1106402830
+    Image Series Number (0038,0013) = 1
+    Image Series Date (0038,0013) = 2000-12-21
+    Image Number (0038,0014) = 1
+    Image Description (0038,0015) = EMSSten 1106402830
+    Image Number (0038,0016) = 1
+    Image Description (0038,0016) = EMSSten 1106402830
+    Image Number (0038,0017) = 1
+    Image Description (0038,0018) = EMSSten 1106402830
+    Series ID (0038,0020) = 1106402830
+    Image Number (0038,0021) = 1
+    Image Description (0038,0022) = EMSSten 1106402830
+    Image Number (0038,0023) = 1
+
+    Image Description (0038,0023) = EMSSten 1106402830
+
+    Study ID (0039,0038
+
+
+    Image Description (0038
+
+    Description: 
+
+    Description (038
+
+
+        ID: 
+
+
+    ID:
+
+   
+    ID:038
+
+
+
+\r\r\r  
+
+
+
+
+   
+
+
+
+
+
+
+
+\r
+   
+
+
+
+        ID:
+
+
+
+
+
+
+
+
+\n
+
+
+
+           
+
+
+
+
+\r
+
+
+\r 
+
+
+
+
+
+
+
+
+
+
+ID: 
+
+
+
+
+ID
+
+
+
+
+
+
+
+ID (4
+\
+
+
+
+\
+
+
+
+
+r\r
+ID 
+
+R
+r:
+
+
+
+1101
+
+
+
+
+  
+
+
+
+
+
+
+15: 
+
+Medic,
+
+
+ 
+
+
+
+
+
+
+r\r
+
+M.
+
+r
+
+r
+
+
+
+
+
+2010
+A
+
+
+
+
+
+
+The Hospital.
+Mary
+
+
+A 
+  
+
+The 
+A patient
+
+A
+
+The patient
+
+
+
+172
+
+22-51
+
+
+
+
+
+
+Medic  
+
+
+The, A
+The
+
+D: 10
+
+
+20
+P 8
+
+1
+0- 130
+M
+
+1410,1
+2
+
+
+
+12:1: the following:
+
+
+A.
+1223
+M Saturday, the date:
+
+C
+
+Dream.
+2:27
+A
+
+B
+
+2
+2. The: An:
+Depile 1
+A-2A. C:M:
+M: 423
+B:
+. 2M-2,,100
+C,13239.
+M 
+1001 (a: a:  An CAF
+A Anient, 
+ 5
+M,2 (H, the An
+FRAM :A C. Anifiable Ancial, Anient Anifier Anization
+1 An C M (2 and 2-2 An An An An D2321001 An An CAP 2600.A and 20 An CLEA. An,.3-1-3.. [a. (in and the.. An, An. An. 0 and a.29081523. An. An.1-2-40 An0, the C An
+. 112 and a,1-1 An An C An C An An An An An.2-6 and-15-9-2 and [4.12 -214-100-1, the, 0,1 An0-2-A a, a: An. An An. An An a. and. An and, an. An in patient. of a, a for a An An M0 An and An0 An An. An, 0-12 or-0 (w-an-co,0 and and the,1-2 a, the-in. a and, the. in a,.,. a. or.. a,0, [.-the-9 for [. and:, and: a and: in, (c in the a. a and in the-w and a: the in a - a and the.,.-w,0,5-2. to a-to-to in an-the to a:1. a-W-2-a-the: 2.., or- [-1 or or or or.: and a.,-W: and-ch and-an-ch an, the a- the the a a or a-the and-c and the and the an the in an a-c-in-a-d-c, the, a-a-c --c and-1-1-c to a and to the.-C-2-1,-c-1-2-2  --for- -de-ch-for in or-  in-1-2.-0-1-1 and-1-c-1 on with - a. for a an in an W in a W W-W-WS-W-c-the and-,-  (  and- and- and and- and.,, and but -to, and and to the-1. a- to a.-c- W., and. to a in W to to. to. to to to or, or, or- and- or or or or and or in and and- and in to, or, to to and- or or the- a and or the and- and a and and-. in and in the- a and and,, a and a and in the, a, a or in.- and in a a-  a.  in the- the- the a the a. and and in in (- a- (-c on,, and,- the and, in and a, and in a and in a and a, and- by in the and a- after in after a and and and, and c and (- c-1 or- and  on and  on and  and,, (, a for, or, and and or. and and: and a. and, the and to- on the-b- or and- the on- and or and,: and and and the, a in or-c or- ( or and- (, or, or or,,, or [ [ a and and and the in the- the or the- and,- ( or ( c, in-c, and c ( her after and after and since and a- a in the or a in ( or- the- c. in the-c and-  or in with  after a  the- ( a,- a.- a, the. a (- her, the (- with the to the- and and- and the and- the g-1 c g- and-h.-g-a or of a of of of the of-  of a a- her and- and in-  the (- the- tom- the and c- a- a a the ( the  ( the- the or or- and, and (- a, and and in the (- or, or her or, in. the, the and and a with, a and a, the and and a- the a a to the,, or [ a- and, the and her (,- to, and and with, in or- or the- tom, [- the- her,,- or and and- -c and a- and and on her and and- tom, a, an c and and to or, and to the to and- the and the and and and- and her and and and her for a, and her and her and her and (- or,- c- a t ch. and and and, ( ( a w ( a and and (-  a-  a- and- and- me- her-- her- - her c her, and her or a a- and  g  and the a and a and   ( c a a c and ( a a w a and c- c and the and ( c m or- a- and- and and a ( the m and ( her, her and and and w and c and and m as- ( c m ( her and c m ( c - the h and her with a- (  (- and to  and  or, her and and the c the and, c and or her and- m m a (- ( and-- a - if ( m and her her m-  and- a-- and m m if and m- w of

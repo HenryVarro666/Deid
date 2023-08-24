@@ -1,0 +1,247 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2085-11-28
+
+CC: Pt presents to walk-in clinic, wants to establish care w/ me.
+
+HPI: 73 y.o. man, here w/ his son, wants to establish care w/ me.  He needs medication refills today.  Prior MD was Dr. Valerio on the Weedsport.  He has DM, HTN, glaucoma, is legally blind.  He feels well today, has no complaints presently.
+
+
+
+
+
+Problems
+
+Diabetes mellitus 
+
+Hypertension 
+
+Glaucoma 
+
+Visual impairment : pt legally blind 
+
+
+
+
+
+Medications
+
+DIPYRIDAMOLE 75MG, 2 Tablet(s) PO TID
+
+Enalapril Maleate 20MG, 1 Tablet(s) PO QD
+
+Metoprolol Tartrate 50MG, 1 Tablet(s) PO BID
+
+TRAZODONE 50MG, 1 Tablet(s) PO QHS PRN insomnia
+
+Insulin 70/30 Human 30 UNITS SC BID : 30U qAM, 30U qPM 
+
+
+
+
+
+Allergies
+
+NKDA 
+
+
+
+PE:  156/80   72
+
+Gen: overweight, elderly man, NAD
+
+HEENT: PERRL, EOM intact; oral mucosa moist, no lesions
+
+Neck: supple, no LAN
+
+Lungs: clear to auscultation bilaterally
+
+CV: RRR, nl S1, S2, no M/R/G
+
+Extrem: no clubbing, cyanosis or edema
+
+
+
+A/P: 73 y.o. man w/ DM, HTN, claucoma, legally blind, here to establish care.  Will refill pt's meds; he should make appt w/ me in one month for CPE; he will obtain his medical records prior to next visit.
+
+
+
+
+
+Lab Values/Results:
+
+Hgb
+
+13.0 g/dL
+
+Hct
+
+43
+
+WBC
+
+7.8 x 10^3 /mcL
+
+Platelets
+
+171
+
+RBC
+
+4.82 x 10^12 /mcL
+
+Hgb
+
+12.1 g/dL
+
+Hct
+
+43
+
+WBC
+
+6.4 x 10^3 /mcL
+
+Platelets
+
+228
+
+RBC
+
+5.19 x 10^12 /mcL
+
+Hgb
+
+13.2 g/dL
+
+Hct
+
+44
+
+WBC
+
+8.7 x 10^3 /mcL
+
+Platelets
+
+246
+
+RBC
+
+5.36 x 10^12 /mcL
+
+Hgb
+
+11.0 g/dL
+
+Hct
+
+43
+
+WBC
+
+6.0 x 10^3 /mcL
+
+Platelets
+
+151
+
+RBC
+
+4.81 x 10^12 /mcL
+
+Hgb
+
+12.1 g/dL
+
+Hct
+
+38
+
+WBC
+
+9.2 x 10^3 /mcL
+
+Platelets
+
+184
+
+RBC
+
+4.98 x 10^12 /mcL
+
+Hgb
+
+13.1 g/dL
+
+Hct
+
+40
+
+WBC
+
+8.1 x 10^3 /mcL
+
+Platelets
+
+184
+
+RBC
+
+5.0 x 10^12 /mcL
+
+Hgb
+
+13.4 g/dL
+
+Hct
+
+42
+
+WBC
+
+9.4 x 10^3 /mcL
+
+Platelets
+
+185
+
+RBC
+
+4.86 x 10^12 /mcL
+
+CBC/CMP w/ DI: 
+
+ 13.0 g/dL 
+
+ 43 
+
+ 7.8 x 10^3 /mcL 
+
+ 
+
+ 12.1 g/dL 
+
+ 44 
+
+ 6.4 x 10^3 /mcL 
+
+ 
+
+ 13.2 g/dL 
+
+ 48 
+
+ 8.7 x 10^3 /mcL 
+
+ 
+
+ 11.0 g/dL 
+
+ 38 
+
+ 6.0 x 10^3 /mcL 
+
+ 

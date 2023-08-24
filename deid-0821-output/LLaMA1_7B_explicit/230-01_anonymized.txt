@@ -1,0 +1,220 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2078-05-31
+
+VASCULAR SURGERY H&P
+Ulysses Richard
+8913196
+May 31, 2078
+
+Service: 	Mosley
+Attending:	Snyder
+Fellow:	Allison
+Senior:		Fulton
+Junior:		Benitez
+
+Mr Richard is an 85 year old gentleman with a long-standing history of peripheral vascular disease who presents with progressive rest pain and ischemic ulceration of his right foot. He underwent angiography, but no lesions amenable to percutaneous intervention were identified. He presents now in anticipation of a distal bypass procedure.
+
+PMH:	CAD
+	HTN
+	CRI (Cr 1.8 at baseline)
+	DM
+	PVD s/p left fem-pop (failed) and redo left fem-pop-peroneal
+	CAS s/p endarterectomy
+	CHF
+	Atrial Fibrillation
+	Nephrolithiasis
+	Spinal Stenosis
+
+Meds:	Norvasc 10
+	Glyburide 10 BID
+	Labetalol 200 BID
+	Lisinopril 10 BID
+	ASA 325
+	Plavix 75
+	Doxazosin 4
+	Aciphex 20 BID
+	Zocor 20
+	NitroDur 0.2mg/hr
+	Ativan 0.5 PRN
+	Lasix 40 PRN
+	Vicodin PRN
+	Tylenol PRN
+	Zantac PRN
+	Coumadin
+
+Allergies: ASA
+SH: never smoked, widower
+PE: Afebrile	75SR	132/52	94% RA
+NAD
+Chest CTAB
+Heart Irreg, II/VI SEM
+Abd soft
+RLE with ischemic, but clean ulceration.
+LLE warm without lesions
+Vasc:	Car	Rad	Fem	Pop	DP	PT
+R	2+	2+	1+	-	-	-
+L	2+	2+	2+	1+	D	1+
+
+EKG Afeb
+PVR pulsatile on L, flat on R
+CXR No acute processes
+
+Impression: RLE limb ischemia
+Plan: 	OR in AM for Fem-distal bypass
+	IV Heparin overnight
+	Consent obtained
+
+Richard Benitez, MD, MPH
+Resident in Surgery
+
+
+
+
+
+
+
+
+This is the full text of a clinical record that is anonymized and presented to the reader in the format of a clinical note. As part of the process of anonymization, any potentially sensitive information has been redacted. For example, the name of a person and the acronyms and initials for a medical organization that are found in the record above have been replaced.
+
+\end{document}
+
+\end{document}
+\end{code}
+
+<a href="https://i.stack.imgur.com/272Qp.png" rel="nofollow noreferrer"><IMAGE></a>
+
+Comment: @Johannes_B, thanks! I've never seen `tabularx` package used this way and the documentation is pretty vague so I'm happy to take any feedback. (I've also updated the example to be compilable with `pdflatex` and `xelatex`.)
+
+Comment: @Johannes_B, thanks. I have updated the code in my answer and the example to be compilable with `pdflatex` and `xelatex` so now it should run as it's written above.
+
+Comment: I'm not able to reproduce the problem. The MWE above prints the text on a second row as expected.
+
+Comment: @Johannes_B, Thanks for confirming this. I've updated the MWE above to include a version that can be reproduced in either `pdflatex` or `xelatex`. (The original MWE used `xetex` for the example to be compilable with that engine but I'm not able to reproduce the problem when using `pdflatex` or `xelatex`.)
+
+Comment: Yes the MWE works with `pdflatex` and `xetex`.
+
+Answer: Your example uses `tabularx`, but I'm not sure I understand what it's supposed to do. I've re-done the layout with a more simple approach using `array` and `tabular` environments.
+
+In the MWE below I've set `\extrarowheight` to 4pt and used the `m` column type which makes the first character bold. You can use a smaller size if you wish.
+
+<a href="https://i.stack.imgur.com/0X744.png" rel="nofollow noreferrer"><IMAGE></a>
+
+\begin{code}
+\documentclass{article}
+\let\oldtabular\tabular
+\def\tabular#1{\oldtabular[#1]}
+\newcolumntype{L}{>{$}l<{$}}
+
+\begin{document}
+
+\setlength\extrarowheight{4pt}
+\begin{tabular}{>{$}l<{$}L}
+    Patient's name & Ulysses Richard\\
+    Age & 89\\
+    Date of birth & 1/1/16\\
+    Service & Mosley\\
+    Attending Physician & Snyder\\
+    Fellow & Allison\\
+    Senior Registrar & Fulton\\
+    Junior Registrar & Benitez\\
+    PMH & CAD\tnote{1}\hspace{.2cm} HTN \hspace{.2cm}CR1.8 \hspace{.2cm}DM \hspace{.2cm} PVD \hspace{.2cm} s/p left fem-pop (failed) \hspace{.2cm} redo left fem-pop-peroneal \hspace{.2cm} CAS \hspace{.2cm} endarterectomy \hspace{.2cm} CHF\tnote{2}\hspace{.2cm} Atrial Fibrillation \hspace{.2cm} Nephrolithiasis \hspace{.2cm} Spinal Stenosis \hspace{.2cm}
+    Meds & \begin{tabular}{@{}p{5em}@{}}
+    ASA 10 mg \hspace{.2cm} Glyburide 10 mg \hspace{.2cm} Lisinopril 10 mg \hspace{.2cm} Atenolol 200 mg \hspace{.2cm} ASA 325 mg \hspace{.2cm} Plavix 75 mg \hspace{.2cm}
+    Ativan 0.5mg \hspace{.2cm} Zantac 150 mg \hspace{.2cm} Tylenol 250 mg \hspace{.2cm} Zocor 20 mg \hspace{.2cm}
+    \end{tabular}\tnote{2} \\
+
+    Allergies & ASA \\
+    SH & no smoking, widower \\
+    Pe & 75/32 132/60 94\textsuperscript{o}RA
+    NAD
+    Chest CTAB \\
+    Heart Irreg, II/VI SEM \\
+    Abd soft \\
+    RLE with ischemic, ulceration, clean
+    LLE warm, no lesions
+    Vasc
+    \begin{tabular}{@{}p{8em}@{}}
+    Car & Rad & Fem & Pop & DP & PT \\
+    \textbf{2+} & \textbf{2+} & \textbf{2+} & \textbf{1+} & \textbf{D} & \textbf{1+} \\
+    \end{tabular} & L
+    LLE warm, no lesions \\
+    PVR pulsatile on L, flat on R
+    CXR no acute processes\\
+    Impression: RLE limb ischemia \\
+    Plan: \begin{tabular}{c}
+    \textbf{R}elevate rest limb ischemia \\
+    \textbf{L}imb bypass in AM for Fem-distal bypass \\
+    \textbf{I}nterventional radiologist in AM with \textbf{R}elative \textbf{D}eficiency in \textbf{P}otassium supplement \\
+    \textbf{E}KG Afebrillic \\
+    \textbf{P}re-operative \textbf{V}asodilator infusions \\
+    \textbf{I}nitiate Coumadin \\
+    \textbf{D}iabetics \\
+    \textbf{I}njection of \textbf{A}cetaminophen \textbf{I}njectable
+\end{tabular}
+    \begin{tabular}{c}$\textbf{I}$\textbf{I}njectable
+    \end{tabular}
+    \begin{tabular}{c}$\textbf{I}$\textit{s}
+    
+    \textbf{I}nouns
+   
+    and then, then-
+   
+    spaces
+   
+\textbf{I, spaces
+   
+    spaces and the letter.
+   
+    spaces, then
+   .
+   
+    spaces. (or spaces.
+    spaces
+    spaces, spaces
+    spaces, spaces
+The letter, spaces, spaces
+    spaces of spaces.
+
+    spaces of space
+    spaces, and spaces.
+    spaces spaces and spaces, spaces spaces spaces spaces,
+spaces spaces and spaces, spaces
+words and spaces
+spaces spaces letters
+spaces,
+
+space letters spaces
+space
+spaces and spaces, space
+spaces of spaces of spaces
+
+spaces, spaces spaces, spaces spaces, spaces spaces space. spaces spaces
+spaces spaces, dates of spaces of the spaces spaces spaces, spaces, spaces spaces
+spaces spaces.
+spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces
+Spaces spaces spaces.
+spines spaces spaces or spaces spaces spaces spaces spaces
+spaces spaces
+
+spaces spaces spaces spaces of spaces spaces names
+spaces with spaces spaces spaces spaces spaces and spaces spaces spaces names spaces spaces spaces.
+or names
+
+
+spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces. spaces spaces, and spaces spaces and the spaces spaces spaces spaces, etc... and the first names and names, etc, and and the name.
+names, and, names of spaces, the names, spaces or... the patient, the space and any or are, names or the... of spaces, and the words or 
+[d...
+names of the names and the following and the names in the patient, and the patient: and the following patients and names, 2 (patianize, the patient, and a patient:...:
+[…, and 1... 1 orally, and are, or: (the 1, and or “(1 and the: 20 (the (
+(and, you, the following, but, or, the andine, 2 and, 8 (2: the, and, the and: and...1 and: the: and 10…, include the are 0..., 1 and... and a...
+….
+(1 and and, and, and or are and... or, but, as [
+, and, "and, and (or or (the, 0, the 1, an, and, 1, or, 0, or, or, a, [, or, but and, and, the... and, [1, the, and and, the and, (, and, (and,...: 0:
+: an.
+:... (an “ and...... and... and: and... " [2 and are [...
+ are, an are and (1 or,  and ( " and, a, the, 1. [1, and,..., 3.
+. of the, C.,,, anine, and, a and, 2, 1 are " are a " are an or (an and, an " (1 or the 2 and a or, (s, an, (...,, and an, an, 0 and ( an, an, 1 and a, or,  or, and or,  and, (, ( or, and the, the, and 1, [in, are and, 8 and 1 ( and, and an, the, 6, (0- (,, An, 1, " and an, -1 of the: and ( An: 0,::: "0: ( “:: 0 an “-1 (: Anine: [ " ( and: and: and, an or " (:: [:  and: an an an "- and- an are of  " or " an or an an an " [ and an of and an of an of the. of the or and and, an or [, and and in an, (,, (,, and [ [ ( - [ of the ( or [ an [: by an an- by- make or are,:, :  are an: an:  and [ and - An, by an an of an are- are,,, of  " of  of or an in of  or, or and and  or and, or, and an of, of, of " an of by of of " of an, and ( by (, are an, ( in an of the in an or, or or, by " or an ( or, by, for the, an,, [ of or of, of:  of and, and by  and  (, and by: and, and ( ( ( - or and ( or an, of, or or- or of or or-0-1 or by for-1 or an and- and - or, and and of, (, - and ( but and. and or and, and- or,  for an of for and of, 0 and or. for or of for of an-, and and for ( with, and and of, with and of, C of, for of of the of. and of, and of ( of,., [,, and, and, and and with for with,, for for or with - and,, and or and for or ( for ( of the -  - or -
+ and [.  - -  or and or  and an, or- or, - or - or or ( ( - (- and and- C V and- an ( ( and for  or with V C V of ( and of or [,  and [ or: C and and- and: V - V ( C: ( ( V: : and and V: - and ( V- C for-0:  - and and and - and V V- F and or or V and V C or- V or, and, or and of an and of and of C of of, of, and and or and or V or, or and and for, and, C or or- or- of, and of of ( of-0. V ( V- and ( and V C ( V V, and, V - - C C and and [- V or or ( of ( of of and of of of- and of  and by, V V ( of ( and (1 of of- and of and and V- and and, or c and- and ( and and and and-0 or or. or and- or by- and,- and and or and and ( and and- and or, ( or or- or V and, and and C and- and and,, and. V ( and and, ( V (,, (- (, P (- V and- and- and- and and (- F, V - and and and and and,,-C- V ( and-P, and- and and and,, and- and, and, and and-1 and, and- and- and- and,. ( and.- M- and,, and of of- of of-1 of of of- of of of of V of of V and- for-m, V-n V,- and- and- and- L of- of of of-ad- V, and.- and- V and or- (--t-c or and-t- C--n and-d-p-b-t-b (- ( L C-c-t-c---t and- C-d. of. L of of- of of of  of of- of of V-1 of- or,, C,-0 or,, and and- and-t of- of of of- of of- of of ( of of- "-t-t of- (- of. of- - of of- of of of-of - and- and of- of-1 (- to- and and and of- and- of of a of- of of of,-t- and-.--0- and- of of- of of- of of of C of, of of of-00 and, and (-1

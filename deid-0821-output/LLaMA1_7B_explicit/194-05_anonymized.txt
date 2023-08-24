@@ -1,0 +1,213 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2097-05-21
+
+
+	CARDIOLOGY
+	
+
+	SOUTH OAKS HOSPITAL
+	
+
+
+	Reason for visit:
+   Routine scheduled followup.
+
+
+	Interval History:
+   Mr. Crawford returns to the clinic for routine scheduled follow-up.  His cardiovascular issues include prior syncope, nonobstructive coronary disease, and hypertension. In the interval, since our last visit, he continues to do well from a CV perspective. He has had free of chest pain, pressure, tightness, orthopnea, PND, progressive lower extremity swelling, or claudication. He has had no recurrent symptomatic diverticulosis. He remains fairly limited due to his osteoarthritis but continues to perform all ADLs successfully.  He is unfortunately not able to do any gardening this year due to progressive joint pain and stiffness. He was recently seen by Dr. Powers (nephrology) after a recent mild bump in his creatinine. His renal workup is ongoing.
+
+Physical examination:
+	
+-Pulse:   55, which is strong and regular
+-resp. rate:   12.  He is saturating 100% at room air
+-General:   He is alert and appropriate in no apparent distress
+-Heent:   Normocephalic.
+-Neck:   Jugular venous pressure is 7 cm of water with normal AV contour.  He has 2+ carotids with brisk upstrokes.
+-Chest:   His lungs are clear.
+-Cardiac:   Regular with nondisplaced PMI, 1-2/6 systolic ejection murmur heard best at the base with the crisp S2.
+-Abdomen:   Soft and nontender.
+-Extremities:   There is trace dependent 1+ lower extremity swelling, which is stable.
+-BP: 122/74    in the right arm seated
+
+
+	EKG:
+   Sinus bradycardia at 55.  Normal intervals. Leftward axis (-30).  Normal repolarization pattern.
+
+
+	Impression:
+   1.) Nonobstructive CAD
+2.) Neurocardiogenic syncope
+3.) Hypertension
+4.) Aortic sclerosis
+
+
+	Assessment and plan:
+   Overall he is doing well his cardiovascular issues are stable.  No changes in his cardiovascular regimen today.  I will see him back in six months, sooner if new issues arise.
+		Medication List (confirmed)
+
+				CONFIRMED
+
+		- allopurinol  100 mg PO daily
+
+		- aspirin  325 mg PO daily
+
+		- folate  1 mg PO daily
+
+		- hydrochlorothiazide  25 mg PO daily
+
+		- lisinopril  40 mg PO daily
+
+		- medication list reviewed  in CAS
+
+		- multivitamins 
+
+		- ranitidine HCl  150 mg PO daily PRN
+
+		- Toprol XL  50 mg PO BID
+
+		- Zocor  10 mg PO daily
+
+
+	
+	
+
+	
+Xavier K. Youmans, MD pager #24791
+
+	
+Signed electronically by  Xavier K. Youmans, MD
+Document Status: Final
+
+
+
+
+
+
+
+
+	"""
+        # TODO: Make this into a template
+        clinicalnote_template = "'''''''''''''\r\n{0}"".format(clinicalNote)
+
+        # Write the clinical note file to disk
+        f = open(clinicalnotes[0], "w")
+        f.write(clinicalnote_template.format(clinicalnote))
+        f.close()
+
+# ------------------------------------------------------------------------------------------------------------------------
+
+
+def generate_clinical_note_from_template():
+    """
+    Generate a clinicalnote.json file containing a single valid clinical note based on the clinicalNoteTxt template.
+    """
+    clinicalNoteTxt = "Record date: 2097-05-21\nReason for visit: Routine scheduled followup.\nInterval History:\nMr. Crawford\nreturns to the clinic for routine scheduled follow-up.\nHis cardiovascular issues\ninclude prior syncope,\nnonobstructive coronary disease, and hypertension.\nIn the interval, since our last visit,\nhe continues to do well from a cardiovascular perspective.\nHe has had free of chest pain, pressure,\nshortness of breath,\northropia\nprogressive lower extremity swelling,\nor claudication.\nHe has had no recurrent\nsymptomatic diverticulosis.\nHe is unfortunately not able to do any gardening\nthis year due to progressive joint pain and stiffness.\nHe was recently seen by Dr. Powers (\nephrology) after\na recent mild bump in his creatinine.\nHis renal workup is ongoing.\nPulse:\n55,\nsupported and strong and regular\nRespiration:\n12, which is strong but short and fast,\nand\nGeneral:\nHe is alert and appropriate in\nno apparent distress\nHeart\nJugular venous pressure is 7\ncm of water with normal av\ncontour.  He has 2+ carotids\nwith brisk\nsupstroke.\nChest:\nHis lungs\nare clear\nNeck:\nJugular venous pressure is 7\ncm of water\nwith normal\naortic contour.  He has 2+ carotids\nwith brisk\nsupstroke.\nAbdomen:\nSoft and\ntender. Extremities:\nTrace dependent 1+\n2+ lower extremity\nswelling,\nwhich is stable.\nBP at 122/74 in the right arm\nseated\nEKG\nSinus\nbradycardia at 55,\nNormal Intervals. Leftward\naxis-\(30). Normal repolarization\npattern.\nAbdomen:\nsof\nt and\ntender\nExtremities:\nTrace dependent 1+\n2-\nlower extremity\nswelling,\nwhich is stable.\nBP:\n122/74\nin the right arm\nseated\nEKG\nsinus bradycardia at 55,\nNormal Intervals\nLeftward axis-\(30)\nNormal repolarization\npattern.\nMedication List:\n1.) nonobstructive CAD\n2.) Neurocardiogenic syncope\n3.) Hypertension\n4.) Aortic sclerosis\nPain:\nno\nPt. Vital:\nNo\nPhysical:\nHeart\nJugular venous pressure is 7\ncm of water with normal\nav contour.  He has 2+ carotids\nwith brisk\nsupstroke.\nChest:\nHis lungs\nare clear\nNeck:\nJugular venous pressure is 7\ncm of water\nwith normal\naortic\ncontour.  He has 2+ carotids\nwith brisk\nsupstroke.\nAbdomen:\nSoft and\ntender\nExtremities:\nTrace dependent 1+\n2+\nlower extremity\nswelling,\nwhich is stable.\nBP:\n122/74\nin the right arm\nseated\nEKG\nsinus bradycardia at 55,\nNormal Intervals\nLeftward ais-\(30)\nNormal repolarization\npattern.\nPain:\nno\nPt. Vital:\nNo\nPhysical:\nsinus bradycardia at 55,\nNormal Intervals.\nLeftward ais-\(30)\nNormal repolarization\nt\npattern.\nMedication List:\n1.) nonobstructive CAD\n2.) Neurocardiogenic syncope\n3.) Hypertension\n4.) Aortic\nsclerosis\nPain:\nno\nPt. Vital:\nNo\nPhysical:\nsinus bradycardia at 55,\nNormal Intervals.\nLeftward ais-\(30)\nNormal repolarization\nt\npattern.\n2+ lower extremity\nswelling,\nwhich is stable.\nBP:\n122/74\nin the right arm\nseated\nekgsupstroke\nEKG:\nsinus bradycardia,\nat\nIntervals. 
+
+		
+
+
+		
+
+\n
+	
+	
+	
+
+	
+	
+
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+
+	
+
+	
+	
+
+				
+	
+
+	names
+
+
+		
+
+		
+	
+	
+	
+	
+
+	words
+
+	words
+	words
+	and
+	
+	words	words that	words	and	words
+
+(1st
+	or words, 
+	words
+
+words.
+words	words
+
+	words,
+words
+
+words	words.
+words, words
+	words that	words
+words of the patient names.	words 2 words of 	words
+words
+(words, and 	words of words
+words, and words, 
+letters, patient words, 2010 words.
+words, words	words
+words,	words, and words, or words	words.  words, words
+words 
+words and 20 words, the 2 words, 
+words patient words or words. The words patient and patient words.
+
+words.
+A, but could the words, a patient words... or... 20 words 15 or, a few words and words, as words or 
+names, words, and the names, and, words and  and words
+and, or the [
+the word... the patient names of... or the 0 are a, a or the 
+
+the or 110...
+
+
+... 210 and the: 1:
+
+name and 11.
+
+names and indicate, your names of the 
+names, and:
+1...…:
+The [23-are-name (
+
+ 17, 0 or are, as the name are: [the:... and are, or the [(and, and the following, the 
+The following:
+The...
+(the: and, and 
+[
+are, the [
+[
+
+follow a…
+[10 and the 11 are the 1 are... and include, …1,... and a [ 1 and 1, the,..., (2 and and, and [11, the, and, the and orific, as and, and, "1, and, and and, 1. and, and are the (
+, "1, etc, and and [, 7, and, 7 and, and include and 7 (and "  of the, you, and a 1 ([0 [d...the: (patient (10 (... “… 2 12. (1 [5 (inise-1 are anine 0  of 0 or or, 1, " (1 1, 1, the (and (le, 2 of the, of the and of the, (, the, and, 1, and 5, are 10 would-are and-1 and, an, an, an (1 an 1 an anine-an, an, and and 2, the, the, 1, 1 and in 1 and anich ( and an, an, an (an, 1, an ( (  and, 11, an,  ( and ( ( an, 1, 1, an, 2 (C, 0 and [, 2 and, 1, 4-le (1 and:, "  ( (1 and an: (: in "1-0 [1 in: in:: ": " : : "  (1: 1 an an and (: an an: " an - - or an or in the 0  an ( an " - (  in the in an an  ( of an of  an. and,. an  in  [ [,  or [ ( [, or and and are [ and [ or  [ [1 [ or- an  [1 or  " or  an [ an an  -  and    and,  an an, an- an- [ -  or  of an or of, of  of an of an,  and and, - - an or an in an  or  of the of  and of the of the [, or and.  and, an and are, or of a,  or or   an  or  to, an, and, (  c- and  or, c in of ( of  of  of [  and. an for an for the for for, for for the in, ( and- in for  or of 1-1  of an in and  ( or  (,  and  and, and c in  or, or, - or and  and, [,  and,  and c or-  or, an in or of  of or,,  or and  and of, and or  (  are of and and,  c of  of,  of  of the of a of the and of  of. and. c and c- c, ( and, and and  ( (- an- ( and to c, (, to, c to to to  to to to c so to  so  c for -  and c for  c  for [ for for c for  [ ( or or or -  or  ( c and c (  ( [ and for  C C c for  " for " for of c ( c ( and for for for [ for and and [- ( c and [ " c-c and: for and:   " for for ( c  c and  or  c- c c c c c c c of  or c c c  - -  c  and c  and ( [, [ and and, and of, c of. c and and  c and  c c and and, or c c c and, c,  and  and  of an of  of of c-  in in  and or and and,  (. and - and c ( and,  and and  and and and c c  and c c- Car and c and or C C or  c ( and (  ( c of  c of  c al  c c  and [ or an c or ( and and [ c of c or  and " -  an  (  and  c, an ( or  and an  C (  C and  (   and C  C and   A c- [ C, C A and c - c c, [ and  or, and c,  - C  and  and c c and ( and  and c and c  c [ and  c and.  and   and. and C C and,,  and,, P C (, (, P. c (  and,  and  c ( (,  ( c [ (, c of   a   and  B  c c  and c for  L C [ L, ( [  [, c, c or,  [ ( and  c  F C  or  ( and   for  in   for  c-	  in- ( (  and or E or c  and ( [ c [ E and and ( ( and  [, [ - C and c ( ( and [ and,, and and [,  C,  in  c  and [  and and and [ or- and, or ( and and _ and ( (, [ [ or and,, and [, C,  ( and and ( and (, ( [ in, and ( B and c  and a and,  and, and , C- and-  a ( and,, to, and in, and and,, and, and (, ( or,  in ( in and ( and, and and [ and [ ( an and, _ and c, (, and c- for and in- and and-  [ if if on [,, [ ( and, and and

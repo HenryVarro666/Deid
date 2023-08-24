@@ -1,0 +1,390 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2080-07-19
+
+EDVISIT^72841920^MULLINS, DOLORES^07/19/80^TAVARES, IDRIS
+
+I saw this patient with Dr. Xavier Palacios.  I confirm that I have
+
+interviewed and examined the patient, reviewed the resident's
+
+documentation on the patient's chart, and discussed the
+
+evaluation, plan of care, and disposition with the patient. 
+
+Please see the resident's note for further details.
+
+CHIEF COMPLAINT:  Fast heart rate.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 78-year-old female
+
+with history of a left MCA stroke, atrial fibrillation,
+
+hypertension, diabetes, and renal insufficiency who was
+
+transferred from Southwest Montana Radiology for atrial
+
+fibrillation with rapid ventricular response.  The patient has
+
+been in Southwest Montana for the last several weeks.  During her
+
+rehabilitation stay, the patient was noted to have sinus
+
+bradycardia and sinus pauses.  The patient's metoprolol was
+
+stopped.  The patient was previously on metoprolol 6.25 mg every
+
+6 hours.  The patient was noted to have atrial fibrillation with
+
+rapid ventricular response on exam this morning.  The patient is
+
+followed by Dr. Octavia Xue of Heritage Hospital Cardiology. 
+
+Given the difficulty that Southwest Montana has had ____
+
+the patient's atrial fibrillation, the patient was transferred
+
+here to Riverton General Hospital for further management and
+
+further placement.  The patient is asymptomatic.  The patient
+
+denies any chest pain or shortness of breath.  The patient denies
+
+any lightheadedness.  The patient has no other complaints.
+
+PHYSICAL EXAMINATION:  The patient's vital signs revealed the
+
+following:  Temperature is 96.4, heart rate of 79, respiratory
+
+rate of 18, blood pressure is 112/63, and oxygen saturations at
+
+100% on room air.  The patient's oxygen saturation was
+
+interpreted as normal.  General:  No acute distress, pleasant,
+
+and multiple family members at bedside.  HEENT:  The patient's
+
+head was normocephalic.  Mucous membranes were dry.  Posterior
+
+oropharynx was clear.  Neck:  Supple.  No carotid bruits.  No
+
+JVD.  Respiratory:  Clear to auscultation bilaterally.  No focal
+
+rhonchi, rales, or wheezes.  Cardiovascular:  Irregularly
+
+irregular, tachycardic.  No gross murmurs, rubs, or gallops were
+
+appreciated.  GI:  Abdomen:  Soft.  No rebound or guarding. 
+
+Minimal suprapubic tenderness to palpation.  G-tube in place. 
+
+Rectal exam:  Deferred.  GU exam:  Deferred.  Skin:  Warm and
+
+dry.  No rash or lesions were noted.  Back:  No costovertebral
+
+angle tenderness.  Extremities:  Warm and well perfused.  Lower
+
+extremity pitting edema rising up to the knees.  No palpable
+
+cords.  Neurologic:  The patient was alert and oriented.  The
+
+patient moved all 4 extremities with fair strength.  The patient
+
+did have a right facial droop.  I did not ambulate the patient.
+
+INITIAL IMPRESSION AND PLAN:  The patient is a 78-year-old female
+
+with history of atrial fibrillation, and recent left MCA stroke
+
+who was transferred from Southwest Montana for management
+
+of her atrial fibrillation with rapid ventricular response.  The
+
+patient is hemodynamically stable at this time.  The patient is
+
+asymptomatic.  The patient will need rate control and will need
+
+to be admitted to Heritage Hospital Cardiology.
+
+EMERGENCY DEPARTMENT COURSE:  Upon arrival to the Emergency
+
+Department, the patient had history and physical exam performed. 
+
+The patient then had 12-lead EKG performed.  The patient's
+
+12-lead EKG was notable for atrial fibrillation with rapid
+
+ventricular response.  The patient did have some nonspecific ST-T
+
+changes when compared to her prior EKG.  The patient's laboratory
+
+studies so far has been largely unremarkable.  The patient's
+
+first set of cardiac markers were negative.  The patient's
+
+complete blood count was notable for an elevated white blood cell
+
+count of 10.8.  The patient's hematocrit of 33.2.  The patient's
+
+platelets were somewhat elevated at 560,000.  The patient's
+
+portable chest x-ray has been ordered and results of the
+
+patient's portable chest x-ray are still pending at this time. 
+
+The case was then discussed with the Heritage Hospital
+
+cardiologist on call.  The patient ____ will be admitted to
+
+Heritage Hospital Cardiology and to a monitor bed.  I did try to
+
+page Dr. Octavia Xue to let her know about the patient's
+
+admission to Heritage Hospital Cardiology.  The patient and
+
+patient's family were in agreement with the plan.  The patient
+
+was started on metoprolol down her G-tube.  The patient had a
+
+good response to the metoprolol.  The patient was given
+
+metoprolol 6.25 mg.
+
+PRIMARY DIAGNOSES:
+
+1.  Atrial fibrillation with rapid ventricular response.
+
+2.  History of a left MCA stroke.
+
+DISPOSITION:  The patient was admitted to Heritage Hospital
+
+Cardiology.
+
+CONDITION AT TIME OF DISPOSITION:  Stable and satisfactory.
+
+______________________________
+
+TAVARES, IDRIS M.D.
+
+D: 07/19/80
+
+T: 07/19/80
+
+Dictated By: TAVARES, IDRIS
+
+eScription document:4-5337537 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+1.  Atrial fibrillation with rapid ventricular response.
+
+2.  History of a left MCA stroke.
+
+3.  Metabolic encephalopathy.
+
+______________________________
+
+IDRIS TAVARES
+
+M.D.
+
+______________________________
+
+REVIEW BY ATTENDING PHYSICIAN:  0000000000000
+
+REVIEW BY RULES:  14
+
+EVALUATION OF RESIDENT'S NOTE:  14
+
+REVIEW BY ATTENDING PHYSICIAN:  1
+
+REVIEW BY DIRECTOR:  0
+
+REVIEW BY SCHEDULER:   0
+
+REVIEW BY RN EDUCATOR:   0
+
+REVIEW BY RN SUPERVISORS:   0
+
+REVIEW BY SENIOR PHYSICIANS:  0
+
+REVIEW BY SENIOR NURSES:       0
+
+REVIEW BY SENIOR PHYSICIAN:   0
+
+REVIEW BY SENIOR RN:        0
+
+REVIEW BY MED SURVEILLANCE:   33
+
+REVIEW BY RN EDUCATOR:       0
+
+REVIEW BY PHYSICIAN:       14
+
+REVIEW BY RESIDENT:         0
+
+REVIEW BY MEDICAL DIRECTOR:   0
+
+REVIEW BY MED SENIOR PHYSICIAN:   33
+
+REVIEW BY DIRECTOR:      33
+
+REVIEW BY RULES:      14
+
+REVIEW BY DIRECTOR:    33
+
+EVALUATION OF RESIDENT'S NOTE:14
+
+REVIEW BY RULES:14
+
+_______________________________________________________________
+
+REVIEW BY MED SENIOR STAFF:   0
+
+REVIEW BY RESIDENT:         0
+
+REVIEW BY DIRECTOR:   33
+
+_______________________________________________________________
+
+REVIEW BY DIRECTOR:   14
+
+REVIEW BY RULES:    0
+
+REVIEW BY RULES:     0
+
+REVIEW BY DIRECTOR:     33
+
+_______________________________________________________________
+
+REVIEW BY RULES:       0
+
+REVIEW BY DIRECTOR:     0
+
+REVIEW BY RULES:      0
+
+REVIEW BY RULES:   33
+
+REVIEW BY DIRECTOR:   0
+
+REVIEW   3
+
+REVIEW
+
+REVIEW
+
+REVIEW   
+REVIEW
+
+REVIEW 02
+11
+
+REVIEW,  
+
+
+
+*RECEV
+
+REVIE
+
+1
+
+
+REVIE
+
+
+
+
+RE
+
+REVIE. 4
+
+
+
+
+
+REVIE
+
+
+
+V
+RE and/REVIE is RE and the RE,
+RE.
+
+\V
+REV
+RE\RE\RE is
+The
+
+RE is the patient
+RE:
+
+RE
+RE
+RE is the patient, patient
+RE
+VIE 
+RE and 1 patient
+
+
+RE 
+RE:
+RE:
+RE is: 
+RE:
+2.
+RE:
+
+RE is the
+RE 
+The 
+RE is
+
+I
+RE, 20-1
+and RE. 10-RE, RE, and 20100, RE, with RE, 2, 7
+RE 
+I 
+A 20 REME
+The and
+RE (RE
+
+
+A RE, the
+RE. This.
+
+
+and the
+A, and Re and 9 and, 25 and, 
+
+date and REMA REMAD and this patient, patient and patient.
+and record.
+
+A and the patient,  and, and 0.
+The date, the date, 6 date, and, and date.
+1.  date, the date (25, but and the week
+The.
+M and the date.
+The, 2
+1
+1191099.
+[171.
+11.
+The (7-1. R: D, the record.
+HOR.
+
+1699. A: it.
+and, the: a and anator patientized patientian patient and the patient' 8189.12 and an (and and 9, and a 2091 androp inpatient as a, and a. 99.
+
+I and a and anition (andic, and the and a and [902 and a and 99.1, andise, andile and a patient, and/cl and health (a as and the and a and a,  and a and the and the patient, 19.09/2,0/.  and a and the patientized patient and August An Ancer and.2. Anim.3. and the patient, the and and the healthistic, 2, 000 andistic Animistic An92089, 
+9A and
+
+
+1-
+1 and a and and a-dient and the and a. and the and, and, a patient and a  and radiient, and status and and and and,0 and and (0 and, and with the and, and and an (d and and a and/2 and, (col.. and "and (0, the. patient and an. A (patine, the and the and the and00 (d and the andine and theist 2 and [and (dici, 12 and a [d and. and [25 and the and a patient. An An. and [and and. An Camp and and and and, and. [in and and [1.. and the - a from the. An:... An. An C [2-1 in the - a: (C on: a and: and and-[11 [-and and, and.-1.. [2 (. [[. and-[ and, an-1 and a2 and (d in an-and and. and and and and and [. and,: and-[[: and, and for and., and and - and and and- and, -.. and and and in-c-d and (d. ( and  -  - a and and with the. and., with the. [-2.02 and and1 and and [  and the-R and. and [0 and -10 [1 (  with and (1. and for an, and for ( and - and [ and and. [ and and -R with and and and.2,1 with and. and and, and and [ and and [ to for and for the and and and for and and in and-in and [ for [ and the and, for.. and-the and ( and and and and for and and for in for [ for the-m. for for a for and and (, for the- and-[-m and-[1 in in a in, and and. to for [ to for and and for to to to to [ as to to. and for, and, with for and. for to. and for for. for to, and,  in to and for- and to and to the and and- and the,  and to the and to to to as to to to to to to. to to to and to to to to to to the to to and to with to to to to and to and to to and with and [ and and-1 and and-in- and and and for the-[ to to for and to and to and, to, to, and for and ( and  to and- ( for and to to to to to to to for to- and for-m for- and and and and and- and [-f (-m- and (-m-m and and ( and for (: - m m and.-h (-t in- and in --to-to M R for to with and in. [ and for (-  and to-and-- and in and- and-m and-..- and as and and [ with [ [ ( and [- m and-, and, and,, ( and, and and and to and with and and ( and- in (, and and and,-, and in ( and, [ and,.,- (. -, and.- [. ( and and and and,,, ( (. and, and -1. and (-[/- and [ [-. and- - and-[- R and [ R as... and R Re and....-- and [ and,-,- and,-,-,-. [ and--[,- and and [-[. and- and- and and [ (, and, and and and and and and. and ( [ for and ( and [.. and [ [ [- and [. [ and and and and and  [, and and - [ [ [ and and-, to to [1 to with and..., [ and, and with and with with [ [ on and of, (, (,, with- to.,., and with for [ [ with and to ( for [ ( [, (- to. to to to,, on and, in. on. [. ( on and to on.. and and on.-- R, and to-.- C and and with and ( to-1- ( with,-- and ( (.-- ( and on. [. and. and on- for ( (. for to to [ to to to to -2 to,, for and and and ( ( and and with to, and, and with, and- ----. and--,.. and. Rive-.. C. (,.- - and,,,, and-,,,,-,- or- and-, for for [.- and and [ [. [ [ and,, and and and [ and to. and, (,, and and [1, and t,.,, and,. and, and and with, [. of ( of ( and and to and of

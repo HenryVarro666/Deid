@@ -1,0 +1,1117 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2146-02-20
+
+
+
+Olga comes in for f/u, accomapanied by her daughter. She was admitted to MEDIQUIK in 12/45 for inability to walk secondary to R leg weakness; transferred to Parsons Hospital in Vernal on 1/7 till1/29. She loved it there. She had EMG while there which revealed R femoral neuropaty, with 6 mo rpt test recommended. She wears a brace most of the time, and walks with aid of walker. She was with her daughter initially upon d/c, and now at her own home alone for past 10 days. MAnaging okay. Received PT few times a week. VNA d/c'd. Wants to be able to drive again.
+Has some mobility in R leg, but not much.
+Notes swelling L dorsum foot.
+Meds were reviewed today. She ran out of lisinopril and cozaar (started in rehab) couple wks ago. She does not take HCTZ daily secondary to urinary frequency. Her metformin was d/c'd, secondary to low fsbs reads in am in 30's.
+Her zocor was stopped in hospital.
+She needs refills today.
+She has remained off cigarettes!!
+
+
+Problems
+Hypertension 
+Diabetes mellitus type 2 
+Hyperlipidemia 
+Chronic obstructive pulmonary disease 
+Depression 
+Degenerative joint disease : s/p R TKR 11/44 
+Transient ischemic attack 
+Insomnia 
+
+
+
+
+Allergies 
+NKA 
+
+
+
+Medications 
+Advair Diskus 500/50 (FLUTICASONE Propionate/salmeterol 500/50) 1 PUFF INH BID 
+ALPRAZOLAM 0.25 MG (0.25MG TABLET take 1) PO QD 
+GABAPENTIN 600 MG (600MG TABLET take 1) PO BID 
+LISINOPRIL 60 MG (40MG TABLET take 1) PO QD 
+Lopressor (METOPROLOL Tartrate) 50 MG (50MG TABLET take 1) PO BID x 30 days 
+PAROXETINE 40 MG (40MG TABLET take 1) PO QD x 30 days 
+Plavix (CLOPIDOGREL) 75 MG (75MG TABLET take 1) PO QD 
+TRAZODONE 150 MG (150MG TABLET take 1) PO QHS 
+Verapamil Sustained Release 120 MG (120MG TABLET SA take 1) PO QD x 30 days 
+HCTZ 25mg qd
+
+
+PE:
+Vital Signs
+BLOOD PRESSURE 130/80 
+PULSE 68 
+RESPIRATORY RATE 17 
+TEMPERATURE 97.0 F 
+Pt in NAD, appears well
+Neck - no bruits
+Chest - clear without wheezes
+Cor -RRR, nlS1S2
+Ext - trace edema LL's
+
+
+A/P:
+1. HTN - stable on metoprolol and verapamil alone.
+d/c HCTZ.
+d/c cozaar.
+2. DM - check HgA1c; off meds.
+3. Elev CHol - check lipids today. Resume zocor.
+4. Leg edema  - use lasix 20mg prn.
+5. R femoral neuropathy - cont PT.
+6. COPD - stable.
+6. f/u 2 months.
+
+
+J. Orellana MD
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   
+   
+   
+   
+   
+
+
+
+
+
+
+   
+   
+   
+   
+   
+
+
+
+
+
+ 
+           
+           
+
+      f
+         =
+
+      \
+      [0,1,2] 
+           
+          
+           1
+    \
+    \
+    \
+    f
+        =
+
+      \
+      [3,4,5]
+          
+          =
+    f
+          +
+    f
+          
+           1
+        
+              +
+
+      \
+      \
+      \
+      \
+        =
+
+      \
+      \
+      \
+        
+           1
+            
+           1
+        
+    f
+        
+           3
+        
+        [
+
+      \
+      \
+      \
+        =
+
+      \
+      f
+          +
+        
+           1
+            
+           1
+        
+        [
+
+      \
+      \
+      \
+        =
+      
+        [
+
+  \
+  f
+
+          f
+
+          f
+
+        f
+
+           1
+           1
+          f
+          f
+
+          f
+
+        [
+
+      f
+
+          f
+
+        -
+        f
+
+    f
+        -
+        f
+
+        +
+      +
+    f
+
+    f
+        +
+      +
+        +
+    f
+        -
+    f
+        +
+        f
+        f
+      f
+          f
+        f
+
+    f
+         f
+         f
+
+    f
+        f
+        f
+        f
+    f
+        f
+        f
+    f
+        f
+        +
+    f
+        f
+        f
+        f,g
+        f
+        f
+        f
+        f
+ 
+        f
+        f
+        f
+        f
+        f
+        f
+...
+        f
+        f
+        f
+        f
+        f
+        f
+        f
+        f
+        f
+        f
+        f,
+            f,
+       
+        f
+        f... f
+        f
+        f...
+        f
+        f
+        f
+        f
+        f
+        f        f
+        f,
+        f... f
+        f        f...
+        f
+
+
+        f names,
+        f,
+fax...  fax names
+The
+
+        f
+        names
+
+        f
+
+fax faxes faxes 1... 
+fax
+names...fax patients faxes patients, faxes, faxes fax,
+
+patients fax patient fax
+pat faxes. 4, the fax.
+fax 
+
+faxes 5
+names fax fax, faxes patients and the patient 4 fax... fax faxes. The fract f...
+fine faxes and names, faxes, and faxes 
+f, and faxes, f... and names, as and f, the patient, and f... or, 
+, the f.
+The (f...
+or.
+(or the following f and the patient  and f or 1 orated f…, and the date and, but of the [:
+
+(the...
+(
+... 
+19 patient...
+(
+
+... names and, and, 1:, a, “…: (
+...and: 30:
+[0 and...
+… and the (
+
+and (ind are (...
+name the are are...
+[[... (and (1 and...
+and (or,  ( and the, but [1 and are 
+(le, and: and the and the 2 and and the and and...…...  and, and,
+1 and...  and name … and…, and,...…, and...
+, (and the, and, 
+, or or, and, and or, or, a and,
+, and, 4, and (make, and, as and...
+are, since 1, and and or and, [, are, and, and the, a,  and and, the, the and:, ([1, the and and and: [f-f in: [with-the... with the...
+:  ((an... and  are (an are (are...
+an,
+, an of are of  in, an, an or, (c,, the, (c, anise.
+. 1. (.
+.,,., and and, 1. 4, (an-an and-and, would or would (m and the and and and, or (1, the (an 1-le, anities, an, a, an  an, an, an, an, a and and (an [in or or [or ( and (and and,  (1 or, an and, an,, and,, a and, (c an or, and and and, "  and in the,, and. and (d, by,  and,  in (1-an,:,-1 and,-1 or and and-h-2 of the-1 (:- 1- -
+-1 and- ( and:  in the [:  and-and ": [: an-  ( " (and in ( or " of (:, an are and or and ( or are are with, (  in and with ( an of the of an of and,., and an, and and [, and and (  or or, and ( or and- and ( are, or or- and [ or and (-  ( ( or, [ or are  " are, are an [, " and (, an - ( an, or (- or, and and- or and an ( of or, of - an,,, or,,,,, and -  or or, and and,, ", of an,  and- or an an, - (,,,, are an - or of the in, an or  for or  or or and in,  or  an and  or - -, and and, of  or - of and of the of, [: and,  or,- and and ( and ( and- - ( an in ( " and ( " or-1 and and,  and (-  or, an-1-n and, of,.  (  and ( ( ( ( or or in and,  ( or  " or,  or  of, or or or or (, and  ( or ( or-,- or and 0 (  (,, ( and  of the of and of and of C of C of the -, C and,,, and and,,- (, C or to, or ,  - - C  and-  and or,  and and  and, 2  or and ( in [,  and or ( an and and  c  (,  an and -  and an. or or or  [,,, an c  or and, -  or ( C, and C 1 and 2  and 1 - and  and C and and (1 and and and  C a:  or: ( for and for a c: and in and C and for for and and  ( or: and (1 and of ( of  -  and c c and or and or an C and  and,, [ of or, of the of, of or or, or,, an ( and and ( and in and  and ( or C of  of, to of of  of of a of  or and ( and ( ( and  and,  and, and and, 2 an    in  ( - and,   and and  and and and or and and - and  and (  ( of and of, of V and - and - or  and and, [ or and, and ( and ( and and of and of ( and in an  or  in  C and,  C and  - C and  (  and  and C  and  -, ( and C and ( or ( ( and  in,, P and  A,  and and ( A (   A or, or and  and and,  and or,  and and and, and M and M and ( and t ( and, or,,, (, ( (,, and, M,  m m m in and,, M , ( (, V and  ( (,  in ( C  M and   C in  M (,   M,  G ( ( ( and ( C and (,,,, m (  ( and,   ( and,  and  C, and and  and and m M in.  M M M C  ( M ( ( and G C and m ( A ( M of C and M and C and ( and  and  ( V A G  M C A, C in  A (  and m, C and t C and (  A and  M c and (  c, and ( C C C and  m and ( and  M - and - M (,. and., (, C ( C  M ( B ( A ( to  to M  to M CA C  M ( CA A M, A A, ( A of ( and and of M and M, ( C G ( and A M M A and,, and and, and A C, or or M, C, M and C M  C, V A G m C P  ( M M  M C of, C M,,.

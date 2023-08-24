@@ -1,0 +1,393 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2077-10-31
+
+CCU Admit Note
+
+
+
+Xayavong, Brandon
+MR# 7826250
+
+Date of Admission:  10/30/77
+
+Attending: Dr. Umphrey
+
+
+
+ID/CC:	56yoM with anterior STEMI, s/p lysis, cath showing large LAD plaque
+
+
+
+HPI:   	Mr Xayavong is a 56yoM with cardiac risk factors of DM, tobacco, HTN who presents from OSH with chest pain beginning at 10:30 the morning of admission.  He says he doesn't remember what he was doing at the time, but was not engaged in strenuous activity.  Describes diaphoresis , then 7/10 pain from left shoulder into left arm and chest.  He took advil without effect.  He presented to Carver Hospital, where he was found to have STE V2-5, Troponin I 0.05, CK 248, MB 2.8.  He was started on full-dose integrilin, half-dose reteplase, and heparin gtt, transferred to GNC for emergent cath.  LHC showed diffuse thrombotic LAD disease, no interventions.  IABP placed, sent to CCU for further monitoring and management.
+
+
+
+ROS:   As above, otherwise negative in detail.
+
+
+
+PMH:
+
+DM2 x 8-9 years, non-insulin dependent
+
+Tobacco use
+
+HTN
+
+Toe infection
+
+
+
+Medications:
+
+Glipizide 5 BID
+
+Avandia 2mg QD
+
+Lisinopril 5mg QD
+
+
+
+Allergies:  	NKDA
+
+
+
+SH:  	Patient lives in Lake Pocotopaug with wife.  Justice of the peace.  2ppd x 40y, denies etoh.
+
+
+
+FH:	No early heart disease
+
+
+
+Exam:  	VS:	T= 98	HR= 70s 	BP= 130/70	RR= 14	SaO2= 99% 2L
+
+General:  NAD
+
+HEENT: NC/AT,  PERRL, anicteric. EOMI.  OP w/ MMM, no erythema or injection.
+
+Skin:	No rashes
+
+Neck:  	Supple, full ROM, JVP flat, 2+ carotids w/o bruits, no thyromegaly or nodules, no nodes
+
+Chest: 	CTA&P bilaterally
+
+CVS:  	RRR nl S1 S2, IABP in place
+
+Abd:  	nl BS, soft, non-tender, no HSM
+
+Extr:  	no c/c/e 2+ DP's bilaterally, no hematoma, no bruit
+
+Neuro: AAOX3, MS nl, CN II through XII intact, Motor 5/5 UE and LE, Sensory intact. DTR's 2+ and symmetric in bilat LE and UE. Toes down bilaterally.
+
+
+
+DATA:
+
+Chemistry:	
+
+Plasma Sodium                    137                       (135-145)        mmol/L
+
+Plasma Potassium                 4.4                       (3.4-4.8)        mmol/L
+
+Plasma Chloride                  105                       (100-108)        mmol/L
+
+Plasma Carbon Dioxide            20.1             L        (23.0-31.9)      mmol/L
+
+Calcium                          8.5                       (8.5-10.5)       mg/dl
+
+Phosphorus                       2.9                       (2.6-4.5)        mg/dl
+
+Magnesium                        1.4                       (1.4-2.0)        meq/L
+
+Plasma Urea Nitrogen             19                        (8-25)           mg/dl
+
+Plasma Creatinine                1.0                       (0.6-1.5)        mg/dl
+
+Plasma Glucose                   245              H        (70-110)         mg/dl
+
+Total Protein                    6.3                       (6.0-8.3)        g/dl
+
+Albumin                          3.9                       (3.3-5.0)        g/dl
+
+Globulin                         2.4              L        (2.6-4.1)        g/dl
+
+Direct Bilirubin                 0.1                       (0-0.4)          mg/dl
+
+Total Bilirubin                  0.4                       (0.0-1.0)        mg/dl
+
+Triglycerides                    231              H        (40-150)         mg/dl
+
+Cholesterol                      135                                        mg/dl
+
+High Density Lipoprotein         21               L        (35-100)         mg/dl
+
+Low Density Lipoprotein          68                                         mg/dl
+
+Cardiac Risk Ratio               6.4
+
+Alkaline Phosphatase             72                        (45-115)         U/L
+
+Transaminase-SGPT                38                        (10-55)          U/L
+
+Creatine Kinase Isoenzymes       PEND                      (0.0-6.9)        ng/ml
+
+CPK Isoenzymes Index             PEND                      (0.0-3.5)        %
+
+Troponin-T                       PEND                      (0.00-0.09)      ng/ml
+
+Transaminase-SGOT                213              H        (10-40)          U/L
+
+Creatine Kinase                  PEND                      (60-400)         U/L
+
+
+
+Heme:	
+
+WBC                              12.7             H        (4.5-11.0)       th/cmm
+
+HCT                              38.7             L        (41.0-53.0)      %
+
+HGB                              13.6                      (13.5-17.5)      gm/dl
+
+RBC                              4.34             L        (4.50-5.90)      mil/cmm
+
+PLT                              218                       (150-350)        th/cumm
+
+MCV                              89                        (80-100)         fl
+
+MCH                              31.3                      (26.0-34.0)      pg/rbc
+
+MCHC                             35.1                      (31.0-37.0)      g/dl
+
+RDW                              13.3                      (11.5-14.5)      %
+
+PT                               14.9             H        (11.3-13.3)      sec
+
+PT-INR                           1.4
+
+APTT                             51.0             H        (22.1-35.1)      sec
+
+DIFFERENTIAL REQUEST             RECEIVED
+
+Diff Method                      Auto
+
+Poly                             84               H        (40-70)          %
+
+Lymphs                           12               L        (22-44)          %
+
+Monos                            3                L        (4-11)           %
+
+EOS                              1                         (0-8)            %
+
+Basos                            0                         (0-3)            %
+
+
+
+Urinalysis:
+
+Pending
+
+
+
+CXR:	pending
+
+
+
+EKG:	NSR @ 79, 1mm STE V2-V4, Qs V1-3
+
+
+
+Prelim echo: Anteroseptal and lateral hypokinesis, EF 30-40%, no significant valvular lesions.
+
+___________________________________________
+
+
+
+Impression:  56yoM with anterior STEMI, s/p half-dose lytics, s/p cath showing thrombotic prox LAD not intervened on.  Now on IABP, chest-pain free.
+
+
+
+Plan: 
+
+
+
+1.     Ischemia
+
+  	Will likely go back for repeat cath on Monday, possible LAD intervention
+
+  	IABP 1:1 for now, with ancef prophylaxis
+
+  	Keep on integrilin, heparin with close PTT monitoring
+
+  	ASA
+
+  	Holding on BB given decreased EF, some sinus pauses
+
+  	Holding on statin for now, given transaminitis
+
+  	Trending markers
+
+
+
+2.     Rhythm
+
+  	D/c lidocaine, holding BB
+
+  	Transcutaneous pacing pads
+
+
+
+3.     Pump
+
+  	EF 30-40%, will likely re-echo later
+
+  	Appears euvolemic
+
+
+
+4.     DM
+
+  	Holding oral hypoglycemics
+
+  	RISS
+
+
+
+5.     Prophylaxis
+
+  	Heparin, Nexium
+
+
+
+6.     Dispo
+
+  	Full Code
+
+
+
+
+
+_________________________________
+
+Charles Amaya, MD
+
+Pager #36784
+
+
+
+
+
+
+
+
+
+  08
+
+
+
+
+
+
+144
+5
+
+
+5
+4
+2.
+
+5
+
+  5
+
+
+
+1
+
+
+
+
+5421
+54
+
+
+
+
+
+
+
+  1
+
+4
+
+
+
+4
+
+112003
+2 days.
+
+3
+
+
+
+12
+13 (20022
+6:
+2
+
+12
+2
+405.10
+
+132
+0
+
+
+
+
+1154
+10
+of 2.
+154.2
+
+34.
+The  
+4	
+
+121
+A
+1714
+124
+ 3:
+
+
+40
+
+2.
+A, B
+24 0	7 10
+121 0
+The 17, 62
+12.
+C. 2020 620, 0, 6
+0 90
+0101,24026
+132 and. (32: 1: 3A and large-615A. 126180, day : 0: 43311:441
+1508498710:232:10 -	00:2 date,11402040
+
+ :1,  - 3 (2 -1010,1,8218 6	2	11:2, 1 	,1. 20022913 -3 (01,1 -5 (1 (1:20: 0: Anfect	0045,64203:201 11 (1012101-20/	17,30 Aniff,2 with, 1 10,111.  and [0, 0.. 1.0.2:1 [2/20 (3/1.8.8 (0/4 (2 (0 Anific Ancial: Cine An: Cient Anical An1 C An01 and 513 An7-00000 An10 An1010130.110.1 An
+ An Anoc An. Anica
+ An. C0 Ciff
+40 An10 An,2 An An An An1 An1-4 An. Anient Anoc and An. 30-9 An1, 4 An An ( Anine Anine, An C, anics -7000,0,1, and,7,0 and11. An Anist An.100,211 An,  and- -0 An C..1. An.-2 An Cina in a or. Anics,7 and 0 and, Anism in,1.:1: and. Cine and:: 1 An [1: An: An and: An in, An C, in: An Cine ( C (0:2 An:0018 An.7 An An An C An C [0 An An C. An C An. [ An C C: C C of ( C C1.-11 An - [. An.: C. C [. 0 C
+ C An C: C C: - C:
+ C:: - ( -: :: C, -0 of -: An:-9 An ( [0 I [ An- An An.. C-1 An C
+-. C0-1 C0.0-2 An-2-cm C
+-01 C [00 (6-19-1-310 in 1 I in-1- C An [ and of (. I of C of An - of-1-1-0-1 An of -0 I of I C of. I.-40 I1 I and as [5- - a (. of- with- I C I and-2-1 and1,1-0.- ( with (- of- of of ( of - of- of the of of of of of, 0-0-1-1- I of and of- of of- of of,- c-0 I, C and C to C as., and.-1 C a-0 I of C of- C of. of-3 C -1 and- and of-1 of C ( C of- of of the C with of of the of  I in-  C and I  -.. C. of the of and. and of cm c C. of C I 1 I, C- H-1 of C C of of of C of  C C C- I or  or I- C1 C- C C C I (0. of I. H C C. of C of cm of of of of of of of of of of ( C of [ and of. ( of (-: [ of of of [: - of of C ( I of:- ( of [ of C-1 I of: C ( - I
+:: C ( M (0 ( H1- I- C C- I I ( - H. ( I I- H I C C -. C- I- C of H- H. I of ( of ( -1 -1-1 I ( I/ H11 H ( I1- H- I. ( H I C C. [ C H C. I C. I-0 I (- [ of (1- of ( of the- C C: I - C I (, ( H1 I ( [ H C-1- I I I C- I.. I C I - (0-1 C C-0-1- I1.- of -.-- C H Of H- I of- of [, H0 I I I/ C- [1- I [ of C of I0 of C1/ C-1 H/ [/// (/ C [-1- M- I-01 C C H I [ M H1, I H00 H-.- of I --1 of ( (- of [ H/ I I of --/ I ( M0/ [ and [- and M-0- (- M I (.0 [. I and./00- of -. and M of of M- of M of of- of (./- M/ (/ I, [ and. M C. I- M ( C of. [ M-1.1 M. C1-1 C0-1 [ M.10 -0-0. M C T I I C of/. I//// C I Of I. C I- C-1 R of C- M- S C C01 M- M I1 M1 C-
+. M-
+1 M- O C M [1 [0/1/1/ [ /- M- A [ [-0 S C1-2- F of ( C C11 C0/ M1- M1 C0- C C F I A C I C I T L H [2/ I/2/2 (-1 [ [ C- C [ I of [ C- [- H C [ I C/ C/ I (. C1 I-1- F I. [1-2 [ F C- F-1.00 I0 F C- C C C-

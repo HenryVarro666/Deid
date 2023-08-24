@@ -1,0 +1,263 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2068-12-22
+
+                     Jellico EMERGENCY DEPT VISIT
+ 
+FOY,KEONTE H.   732-35-79-0                   VISIT DATE: 12/22/68
+The patient was seen by me and examined. 
+HISTORY OF PRESENTING COMPLAINT:  Briefly, the history is as 
+follows:  the patient is a 60-year-old black male with past medical 
+history significant for insulin dependent diabetes mellitus, 
+coronary artery disease, status post a myocardial infarction, 
+status post cerebrovascular accident who now presents for 
+evaluation of syncope.  The patient states that this PM he had an 
+episode where he experienced nausea, dizziness and weakness.  He 
+also states that he developed left sided substernal chest pressure 
+which was non-radiating.  He states that he took one sublingual 
+nitroglycerin with relief of his discomfort.  He states that after 
+about 10 minutes he had a brief syncopal episode lasting 20-30 
+seconds.  He states that it was witnessed by his wife and it was 
+non-observed seizure activity, incontinence, or post ictal 
+confusion.  He states that the episode occurred while he was 
+walking to the bathroom.  He does remember falling to the floor, 
+but denies any trauma.  He specifically denies any headache, neck 
+pain, chest pain, shortness of breath, abdominal pain, or focal 
+numbness or weakness.  The patient was found by paramedics awake, 
+alert, oriented x 3.  An Accu-Chek in the field revealed a blood 
+sugar of 30 and the patient was treated with 1 amp of D50.  He was 
+subsequently transferred to Jellico Community Hospital Emergency 
+Department for further evaluation and management. 
+REVIEW OF SYSTEMS:  Review of systems is as noted above. 
+PAST MEDICAL HISTORY: Past medical history is as noted above. 
+MEDICATIONS:  Current medications are significant for atenolol, 
+Axid, nitroglycerin, Coumadin and insulin. 
+ALLERGIES:  He has a known drug allergy to zocor. 
+SOCIAL HISTORY AND FAMILY HISTORY:  Social history is significant 
+for the patient stop smoking approximately one year ago.  He denies 
+alcohol use. 
+PHYSICAL EXAMINATION:  GENERAL EXAMINATION:  Well-developed, 
+well-nourished, well-appearing male in no acute distress.  VITAL 
+SIGNS:  Temperature 100.3, blood pressure 110/65, pulse 84, 
+respiratory rate 18 and oxygen saturation is 96% on room air. 
+HEAD, EYES, EARS, NOSE AND THROAT EXAMINATION: Normocephalic and 
+atraumatic.  Mucous membranes are moist without lesions.  NECK 
+EXAMINATION:  The neck is supple, non-tender with full range of 
+motion and no JVD.  LUNGS:  Lungs are clear to auscultation. 
+CARDIOVASCULAR EXAMINATION:  Heart has a regular rate and rhythm. 
+ABDOMINAL EXAMINATION:  Abdomen is soft, non-tender and 
+non-distended.  PELVIC EXAMINATION:  Pelvis is stable.  BACK 
+EXAMINATION:  Back has no costovertebral angle tenderness.  No 
+midline, thoracic, lumbar, and sacral spine tenderness. 
+EXTREMITIES:  Extremities are atraumatic, full range of motion with 
+no clubbing, cyanosis, or edema.  No calf tenderness and negative 
+Homan's signs.  NEUROLOGIC EXAMINATION:  Awake, alert and oriented 
+x 3.  Speech is clear, fluent and articulate.  Cranial nerves 
+II-XII intact.  Motor is 5/5.  Reflexes are 2+ with downgoing toes. 
+Cerebella, finger to nose intact.  Gait was not tested. 
+LABORATORY EVALUATION:  CBC, white blood cell count 15, hematocrit 
+44, and platelets 346. SMA 7 notable for a blood sugar of 264, 
+creatine phosphokinase 42, cardiac troponin I 0.0 and INR of 3.6. 
+ELECTROCARDIOGRAM:  Electrocardiogram revealed a normal sinus 
+rhythm at a rate of 86 with right bundle branch block and 
+nonspecific T wave changes. 
+CHEST X-RAY: Chest x-ray is pending. 
+THERAPY RENDERED/COURSE IN ED:  The patient will be admitted to the 
+Medical Service for further evaluation and management.  His primary 
+care physician, Dr. Hooper was notified and agreed with the 
+management and plan. 
+CONSULTATIONS (including PCP):  His primary care physician, Dr. 
+Hooper. 
+FINAL DIAGNOSIS: 
+1.  Syncope, rule out myocardial infarction. 
+2.  Hypoglycemia, resolved. 
+DISPOSITION (including condition upon discharge):  The patient was 
+admitted to the hospital in satisfactory condition. 
+___________________________________                    PD770/9096 
+KYLE TEAGUE, M.D.       KT24                        D:12/23/68 
+                                                       T:12/23/68 
+Dictated by:  KYLE TEAGUE, M.D.       KT24 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+*/
+
+package edu.cornell.mannlib.miml.med.miml;
+
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.Set;
+import java.util.Vector;
+import java.net.URL;
+import java.io.IOException;
+
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+
+import javax.naming.InvalidNameException;
+
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderConfiguration;
+
+import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.Transformer;
+import javax.xml.transform.TransformerConfigurationException;
+import javax.xml.transform.Source;
+import javax.xml.transform.sax.SAXTransformerFactory;
+import javax.xml.transform.stream.StreamResult;
+import javax.xml.transform.stream.StreamSource;
+import java.io.PrintWriter;
+import java.io.BufferedWriter;
+import org.w3c.dom.Document;
+import org.w3c.dom.Element;
+import java.util.Calendar;
+
+
+import org.w3c.dom.Node;
+import java.io.FileOutputStream;
+import java.io.FileWriter;
+import java.io.Writer;
+import edu.cornell.mannlib.miml.med.miml;
+import edu.cornell.mannlib.miml.med.miml.MxDoc;
+
+import edu.cornell.mannlib.miml.med.miml.MxDoc;
+import edu.cornell.mannlib.miml.med.miml.MxDoc;
+import edu.cornell.mannlib.miml.med.miml.MxDoc;
+import edu.cornell.mannlib.miml.med.miml.MxDoc;
+import edu.cornell.mannlib.miml.med.miml.MxDoc;
+import edu.cornell.mannlib.miml.med.miml.MxDoc;
+import edu.cornell.mannlib.miml.med.miml.MxDoc;
+import edu.cornell.mannlib.miml.med.miml.MxDoc;
+import edu.cornell.mannlib.miml.med.miml.MxDoc;
+import edu.cornell.mannlib.miml.med.miml.MxDoc;
+import org.w3c.dom.Document;
+import edu.cornell.mannlib.miml.med.miml.Doc;
+import org.w3c.dom.NamedNodeMap;
+import java.text.Format;
+
+import edu.cornell.mannlib.miml.med.miml.Doc;
+import edu.cornell.mannlib.miml.med.miml.Doc;
+import org.w3c.c.mannlib.manip.med.med.mol.c.m.mannlib.c.man
+                  
+                  
+                  
+                  
+                  
+
+                    MED-M.C.c.c.M.c.c.m.
+
+
+
+
+
+c.m.c.
+
+
+
+
+c.c.c.m.c.c.c
+           c.Mann MAN.  c.C  C.M.
+c.c.c.  c.
+c
+c.  c. c.c.c.c.c
+
+c
+
+c.
+c.c
+
+c.c. 0.
+c 
+c.
+c.M. 0.c, 
+c. 
+c.c.
+c.
+20 11. 
+c.c.  
+. 
+
+c.c.
+c.
+c.
+c.c.
+
+c.c                 c.
+c.c.c (March. 0
+
+c.
+1.
+c.c                
+1.
+c 
+c.c
+
+c.c
+
+c.
+c
+c
+c.
+c
+c.c, 
+c.
+c
+DATE.c 1.1
+A.
+200
+The
+c.
+A 200
+c, and Dr
+
+10
+c. 0, 1.
+
+[ 1
+
+
+
+
+The following date:
+
+[20.
+: 9 and/
+and.  : [112.  2218. 88
+[ARE: 0, the 51
+M11 (1
+  6192: 1
+MA 1: [A:
+H:201
+9557
+09720196
+1-58:
+0 and a, 101812973.
+The.
+ARO:
+
+The.
+18:19
+
+Anized
+
+
+The-1009
+AMA.
+
+[430207321 and... (peratic, the date and
+0 and:
+0:36, a and the-29-12000000 and20-200 2-1.0: 8:
+0, and:
+18.2 with: 10,0-8 in the and a and  a 9 098 7.28 and the:27 and a and (1. - 1. 12.
+PENTAL.21.00,1-117. An An Anduct (12 An An An An An An29-2-2 and the a (1 and the in the in the. and the.2 Anni.0
+2 Ancer-
+:  and a.
+
+and:. An:. 
+an.2-an 0-8. An Anified. an and anistic ( anistic in the anistic, a (an and. Ancer,2,0,00 and-6 in and, a, a [[2 and in and the-an2 and a,2, an and a  and ( a, and a  in an and the he a for. it (  and -2 a  " -  and, the,,.,. the., a  -, -9: :  -1 a-an -  and an-2 - -2-1 -1 in "1/ the-1, an, -the, an a and the for a- 2-1-1-1 and the [  [ by a an [ an, an by the for by  for: by a for  in [ and: and and by the ( by:,  - an an: an- a:: : . , an and an an:, : and, [ [ [ anite, an in and- - [- 1, 1 [,  and a- [ an [2 [4- an [- - - an-  and- [- [- - [ [ [ an [- an for the-   in  -: the and- - it:- it and- he - and, and the, the, it,-1-110-  and- and the- it,- it- and [ and:  after,-g-  [ it- -g  and- 2-0- - [0 : to, it to it and- - - an and- a- an- and,- - an- -  and- - an- an and- -  - - (-,- : ,- a- the,- and- ( - - the,- and- a-- a- and and- and- it, an- it- - (-- - by- a-  and and- a and- it after and he,- the after- and -- and (- and the an- an- an and and- and- (- and- and - - -1- and he-- and- and,- and and  and " and and ( a- and- and- - -- and and (:-1- (: the: a-:-- and after-- the- after- after-- (,- of (-:- to the- to a-0-1-  HE: - and- (- :-- ( - the --- and- [,-2 (--1-1--1-2-1-- of of- of of- and-1-2- during- an- and- and -- and (-::- and:-- [-:- :: with (,:--, but:- ::: [--::-::---:::-:-:-- and, - ( --- -: after-: and- and- and----- to, and-1- and- and- and- and- ( and- and- and  ( after and-:--:  and-0 and- and ( and, and of- and- of--:---- and-:-: and: ::-- (-- (---:-,-:--::--.- (--::  but -  and- ----- - and---- --- ( to- [, --- with [- and--- (- and-- ( and- and-,-, and, (,::-. with:, ---.-- and-- and- ( and---,- and,- but,- and,- (---,-- to and.--  and  but to -.- and-  and----,-  and- and- to--   ( ( or-,-.--. or/ (-: --: :-, ( and.- :  or and-  or ---:-1, : and:: -, : and:: (:: (- (:, [- -:, of-0- ( of- : (.-:- ( - ( of:: :  of --: of  of of -  of:-:-:: - [- H::: and  (-:-  and of: and of-: of: of of: of of:

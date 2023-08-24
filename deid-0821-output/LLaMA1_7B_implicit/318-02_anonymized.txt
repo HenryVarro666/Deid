@@ -1,0 +1,361 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2095-09-19
+
+
+
+ 
+
+
+
+
+
+KEKELA INPATIENT DIALYSIS ADMIT NOTE
+
+
+
+
+
+NAME: Marsh, Carl
+
+MRN: 99579205
+
+
+
+Primary Care MD: Xavier T. Mccoy
+
+
+
+Outpatient Nephrologist: Keith Tierney
+
+Outpatient Dialysis Unit:  Sanford Memorial Hospital, S and T
+
+Estimated dry weight: 61 kg
+
+Dialysis access: left AVF
+
+
+
+Reason for admission:    body jerking    since last night
+
+
+
+HPI: 
+
+
+
+74 year old Turkmenistan male with a past medical history of ESRD presumably secondary to HTN presents to the KEKELA ED with complaints of    body jerking    since last night.  The patient was in his otherwise good state of health when he went to his normal dialysis session yesterday.  The session was uneventful, and he finished dialysis around 7:30 pm.  Around 9 pm, he started noting un-controlable jerky movements of his jaw, arms, and legs.  He was unable to stand by himself, and had difficulty with any motor activity.  It was so bad that he was unable to feed himself, and needed help from his wife to do so.  The jerking continued throughout the night without getting better, and his daughter called his PCP's office today, at which time he was instructed to proceed to the KEKELA ED.  He has had a similar episode like this before in January of 2092, when he developed the exact same jerking movements after a long three day weekend when he went without dialysis (see note in LMR by neurology consultant).  It was deemed at that time that his myoclonus was due to    electrolyte disarray,    and he was admitted to EDUCARE-FARGO and received dialysis the same day with complete resolution of symptoms.  He has been symptom-free since that time.
+
+
+
+He reports no other new events.  He denies any new medications.
+
+
+
+Past Medical History: 
+
+
+
+1.)	ESRD secondary to hypertension
+
+n	on HD since November 2090
+
+n	current access is left radiocephalic fistula placed in April of 2091
+
+n	currently followed by Dr. Tierney at the Sanford Memorial Hospital
+
+2.)	HTN
+
+3.)	IgG monoclonal gammopathy
+
+4.)	Hyperlipidemia
+
+
+
+Allergies: NKDA
+
+
+
+Medications: 
+
+
+
+   Vitamin D   
+
+Atenolol 25 mg po qd
+
+ASA (he stopped on his own)
+
+Nephrocaps 1 tab po qd
+
+Phos-Lo 2001 mg po tid
+
+
+
+Social History:   The patient immigrated from Tonga to Uganda in 2061. He lives with his wife in Mount Airy.  He lives with his wife in Mount Airy. He has five adult children.
+
+
+
+Review of Systems:
+
+
+
+Constitutional:  (-) fevers, chills, night sweats.
+
+Pulmonary: (-) shortness of breath.
+
+Cardiovascular: (-) chest pain, palpitations.
+
+Gastrointestinal: (-) N/V, diarrhea, constipation
+
+Skin: denies easy bruising
+
+Rheumatologic: No arthritis or gout
+
+Neurologic: (+) jerking movements
+
+
+
+PHYSICAL EXAM
+
+Temp: 98.2
+
+BP: 102/61
+
+HR: 63
+
+RR:20
+
+Sats: 96% on RA
+
+
+
+Gen: pleasant older gentleman, lying in gurney with obvious myoclonus affecting his speech
+
+HEENT: sclerae non-icteric, mucous membranes moist, normal sized tongue
+
+Neck: supple, JVP 8, 2+ carotids
+
+Lungs: slightly diminished breath sound on the left, otherwise unremarkable
+
+Cor: S1, S2, regular with PVC's, soft systolic murmur at base
+
+Abd: soft, NTND, no HSM, no bruits
+
+Ext: no edema in LE b/l, 1+ pulses distally
+
+Skin: + fat pads in supraclavicular region
+
+Access: left AVF with good thrill
+
+Neuro: CN 3-12 intact
+
+            myoclonic jerking evident in jaw, arms, and legs, worse with intentional movements
+
+ 	strength normal throughout
+
+	sensation preserved to light touch
+
+	reflexes 1+ in upper extremities, difficult in LE due to myoclonic jerking
+
+	cerebellar exam normal
+
+
+
+LABS:
+
+
+
+GLUCOSE                          73                        (54-118)       mg/dL
+
+UREA N                           41               *        (9-25)         mg/dL
+
+CREATININE                       9.2              *        (0.7-1.3)      mg/dL
+
+SODIUM                           141                       (136-142)      mmol/L
+
+POTASSIUM                        5.5              *        (3.5-5.0)      mmol/L
+
+CHLORIDE                         91               *        (98-108)       mmol/L
+
+TOTAL CO2                        37               *        (23-32)        mmol/L
+
+ANION GAP                        13                        (3-15)         mmol/L
+
+ALT/GPT                          19                        (7-52)         U/L
+
+AST/GOT                          24                        (9-30)         U/L
+
+ALK PHOS                         59                        (36-118)       U/L
+
+AMYLASE                          176              *        (20-70)        U/L
+
+TOT BILI                         0.4                       (0.2-1.2)      mg/dL
+
+LIPASE                           50                        (3-60)         U/L
+
+     
+
+TOT PROT                         8.5              *        (6.0-8.0)      g/dL
+
+ALBUMIN                          4.6                       (3.7-5.4)      g/dL
+
+GLOBULIN                         3.9                       (2.0-4.0)      g/dL
+
+CALCIUM                          9.7                       (8.8-10.5)     mg/dL
+
+PHOSPHATE                        6.1              *#       (2.4-5.0)      mg/dL
+
+MAGNESIUM                        2.4                       (1.8-2.5)      mg/dL
+
+
+
+WBC                              7.64                      (4-10)         K/uL
+
+RBC                              4.68                      (4.5-6.4)      M/uL
+
+HGB                              14.5                      (13.5-18.0)    g/dL
+
+HCT                              41.8                      (40-54)        %
+
+MCV                              89.3                      (80-95)        um3
+
+MCH                              30.9                      (27-32)        uug
+
+MCHC                             34.6                      (32-36)        g/dL
+
+RDW                              14.8             *        (10-14.5)
+
+PLT                              232                       (150-450)      K/uL
+
+ LYMP %                          25.7                      (18-41)
+
+ MONO %                          9.2              *        (2.5-8.5)
+
+ NEUT %                          61.0                      (48-76)
+
+ EOS %                           3.9                       (0-5)
+
+ BASO %                          0.3                       (0-1.5)
+
+
+
+PT                               14.1                      (11.8-14.6)    sec
+
+PTT                              27.5                      (23.8-36.6)    sec
+
+PT(INR)                          1.1                       (0.9-1.1)
+
+
+
+ASSESSMENT:
+
+
+
+74 year old male who presents with:
+
+
+
+1.)	Myoclonus   unclear etiology without obvious precipitants; the last time this happened, it was in the setting of not getting dialyzed after three days.  While he did get dialysis yesterday per his normal schedule, it is odd that his potassium today is 5.5, suggesting perhaps either dietary indiscretion (which he denies) or, perhaps, inadequate dialysis.  In addition, he says that his dialysis center has been taking him off    early    a few times in the past week, though he notes that he got a full run yesterday (3    hours)
+
+2.)	chronic HD
+
+3.)	h/o MGUS   shoulder fat pads
+
+
+
+PLAN:
+
+
+
+1.)	Admit to Renal Medicine service, Dr. Tierney attending
+
+2.)	Will plan on dialysis tomorrow for two reasons: (1) high potassium, (2) see if this helps with myoclonus
+
+3.)	Will contact dialysis center tomorrow to see if any problems with his runs, and what his most recent URR or Kt/V was
+
+4.)	continue Phos-Lo 2001 tid with meals
+
+5.)	Kayexalate 30 po tonight for elevated potassium
+
+
+
+Discussed with Dr. Tierney
+
+
+
+
+
+
+
+______________________
+
+
+
+Uriah T. Quin, M.D.
+
+Renal Fellow
+
+#80467
+
+      
+
+
+
+ 
+
+
+  
+ 0200
+ 
+  
+ 
+
+
+  116
+
+
+
+20
+
+  
+
+ 
+ 2305
+ IN 
+ 11
+
+last, 18
+
+
+ 31259980 
+
+
+
+last date
+
+1
+12: 
+
+
+
+
+
+ 1101.
+ 131
+
+ 17 
+
+
+:
+28741771 date.
+:14 and, 9, the date and date.
+1049, 20, 1
+ 1 
+:  and the date, the (A.  78764310224 3A:  IN RE:  
+: 15.  - 9033106983084: 101: : MINIST Anient:111429180429 0- : . 7340840
+ 6999 MIN, MIC: : 1.1291.9 An - M Crop: Anduct An C P An -  An 1:19.018 An PRE-A,19-199 Anistic An Anient (A
+
+ 162110 17210: 66: 16 2,, a in the139076- 600. An C An C PINA- 8  a a a: An C a CET-KA and anny in 5-in Cient in  (Kishial 4  Kina 10 An An An An -209 An Anist An An An COLIS P Anientist Anient, Anetic. Pient Ance-26 and 17. 2:0. Cine, 4 in a 7178-9 An P2-1 12-3 An P in a-79 in the-6.810 in a-8-in-in-1-9 in, 1 C and C. An C-30.178919-1, 1-3 1-2 and a and-102010008006-4 (9-1- :., in: a in the. . - -9 (-in-1 in a,.-110 in the-a and an [. an a-. 0 in 10 M-A with a. 2, a [c-a-1-b [ -0 and  in - a- [ a: C. [ ( and in a [1-B- -c-1-P in-M in-C M:., -k- I for the I-b- K-he-b- K-k-1  C B C- I c-k- -c- it a- I I- K I-K-K ( K- K in K I K0 k-0- K00-0- K-K- K1- I I-I-I- I1-N-1-N-k-I- a-K K- K-K-K- Kient- K-K-k-  in- K-k-0-K- K- - K "-K- K in [  [,  [- [[-in- K- - and-I-in-N I andine- -K-1-in-K K-K- -k- K-k-k-0-g-N in- -N-1-de--K-P-c-d-k and-C-to-to- to- to-c-c--he-he- -1.-to -to-to and to- -1--2- the in- he- the- -c- to-d -b -to-he and-to-he-c-he- to -1-B-C-O-1 in-he-O- to-1- -M-t-P- to-c to-to- to-to night- -c-to-b-t- it, - in: : a-c,: and-t-to- 0-1--0-b-:-t-to-P t-g- -P day-h-P-g-I-0-2- -1-B-M-0-C-C-C-O-he-he-t-O-b- O S-P- -c-0-0-2-O-P-0-0-1-O-0-1-[ I- -N- -c-1-1 a-2-00 to to  to- to ( to to to to-to to to-j-1 to to to-9-1-1 to to (1 to09 (001-b a-00-00-1 a11 a-01-10-10 and 0.1-0-0- a- -1- 1 P-to ( to. (- (-1 to-0-P.-1-H-2007-010-0 (-1-j- a-2 and and a- (-1 P-0-10-t-0 to-1 -2-1 01-5-1 -12-1-1-t-t-d on and-  of an a- of the ( and- the-1- a-0-1- to,2 to (-0-h ( and-h-0-1-1.-1 ( a-t-he,-  a- a to -1- to "- (-0 (- to to to-to-P or-1-,0-0-101-0-to to-  and to to or- and to or. (0 to-j to-1.- C ( and to-c- 0 or ( ( (- ( a-2-b-10-2-  ( 2.-	 a -2- 1-  and j: a to (0 and- ( and to- a-2 and to a and  to- I-t- 0-0-00- to-2-0-O-t-h. ( and  a to to ( and-2: to-2-0 and-to and to to to C: to to to to to to (-m-0-2 -1-2

@@ -1,0 +1,233 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2072-11-16
+
+ 
+
+Internal Medicine JAR ADMIT NOTE
+
+
+Name: Xander Vera
+MR #: 2152363
+Date of admission: 11/16/2072
+Attending: Hodges
+Cards Fellow: Steven Vega
+PCP: Dr. Xavier Huerta
+Code: FULL
+ 
+CC:  SOB, LE edema
+
+HPI:  60M with obesity, DM2, HTN, hyperlipidemia, and stress test in 2069 with mild posterobasal reversible defect managed medically sent to ED by PCP for LE edema and SOB. The patient reports several days of increasing LLE swelling and erythema. He presented to his PCP with a chief complaint of SOB, although he currently denies that. He has also apparently had intermittent left-sided chest pressure x 1 day, which he also denies. +fevers at home to 101. No cough. No nausea/vomiting/diarrhea. No abdominal pain. No urinary symptoms. 
+
+In ED: Febrile to 103. HR in 90s. BP 91-175/46-81, R20s, 95-100% RA. EKG with baseline RBBB. Tn+ at 0.44. LENIs negative for DVT. CT PE negative for PE/DVT. Started on IV heparin. Vanco and levo. Mucomyst x1 dose. ASA 325. Lopressor 25po. NSx 1L.
+
+PMH:   
+CAD
+--3/69 ETT mibi METS 7, ECG non-dx due to submax HR, small, mild posterobasal defect which improves at rest suggestive for a very limited area of mild ischemia
+--2/69 TTE EF 72%, no WMA, no valvular abnormalities, RVSP 27
+Diabetes mellitus type 2: 7/72 HbA1c 6.10, +microalbuminuria, mild retinopathy
+Hypertension 
+Hyperlipidemia: 8/72 chol 169, Tgl 67, hdl 37, ldl 119
+Obesity
+OSA- recently started on home CPAP at 12cmH20
+H/o atrial flutter sp DCCV 2069, no anticoagulation
+RBBB
+Rectal bleeding: felt to be due to hemorrhoids
+Anemia: colonoscopy 2068 wnl; 6/72 Fe 47, TIBC 464, 10%sat, ferritin 38, b12 nl; 7/72 bilis and SPEP normal; 8/72 epo elevated
+Nephrolithiasis: uric acid
+Glaucoma 
+Bells palsy
+Stasis dermatitis 
+Tinea pedis 
+
+Medications on admission (confirmed with patient):
+Allopurinol 300MG PO QD
+Asa 81MG PO QD 
+Atenolol 75MG PO QD 
+Avandia (ROSIGLITAZONE) 8MG TABLET PO QD 
+Clobetasol PROPIONATE 0.05% 0.05% CREAM(GM) TOP BID 
+Glucophage (METFORMIN) 1000MG PO BID 
+Glyburide 10MG TABLET PO BID 
+Lopid (GEMFIBROZIL) 600MG TABLET PO BID 
+Multivitamin W/IRON 1 TAB PO QD 
+Omeprazole 20MG CAPSULE CR PO QD 
+Vytorin (80 simvastatin/10 zetia) PO QD
+Tng 0.4 MG (NITROGLYCERIN 1/150 (0.4 MG)) 1 TAB SL x1 PRN chest pain 
+Urocit-k (POTASSIUM CITRATE) 10MEQ TABLET CR PO TID PRN kidney stone 
+Valisone 0.1% (BETAMETHASONE VALERATE 0.1%) LOTION TOP BID 
+Vitamin B12 (CYANOCOBALAMIN) 1000 MCG PO QD 
+Zestril (LISINOPRIL) 20MG TABLET take 1 Tablet(s) PO QD
+
+ALL:  penicillins, erythromycins, tape   rash
+
+SH: Married with 5 adult children. Works in communications. Denies tobacco/etoh/illicits.
+
+FH:   Father with HTN, arrhythmia. Mother with DM, CAD. Sister and daugther w/ITP.
+
+Physical Exam:  
+V:  T 99.2, P72, R18, 112/54, 98% 4L
+Gen:  lying with eyes closed
+HEENT: PERRL, EOMI, OP clear, thick neck    
+Neck:  Supple, no thyromegaly, no carotid bruits, JVP 8cm
+Nodes: No cervical or supraclavicular LAN
+Cor: RRR, nl S1, S2.  No m/r/g.  Distant heart sounds
+Chest: CTAB  
+Abdomen: S/NT/ND, +BS. No HSM 
+Ext: marked LLE erythema with warmth, 2+ pitting edema; 2+ pedal pulses bilat; chronic venous stasis
+Neuro: AAOx3, CNII-XII intact, muscle strength/sensation intact
+
+Labs and Studies:
+Na 137, K 3.7, Cl 107, CO2 23.8, BUN 27, Cr 1.5 (baseline 1.3-1.4), glu 85
+WBC 15.2 w/ 96%polys, Hct 30.6 (baseline 33), MCV 82, RDW 15.8,  Plt 229
+
+CK-MB, Tn-I POSITIVE at kiosk
+#1 CK 347, CK-MB 11.5, CKMBRI 3.3, Tn-T 0.44
+#2 CK 663, CK-MB 15.7, CKMBRI 2.4, Tn-T 1.07 
+
+INR 1.4, PTT 32.9
+
+CXR: 2 views, no pneumonia or CHF
+
+LENIs: no DVT bilaterally
+PECT: negative for PE/DVT
+
+UA: SG >1.030, 2+blood, 3+protein, nit neg, 0-5 RBC, 3-5 WBC, few bact
+
+Blood cultures: gram +cocci in pairs and chains 2/2 bottles
+
+EKG: NSR at 74bpm, baseline RBBB, no ischemic changes
+
+
+A/P:  60 yo man with metabolic syndrome presents with LLE edema and SOB with +troponin. Initially concerning for PE but ruled out with LENIs/CT scan. He does have a severe LLE cellulitis now with bacteremia likely due to strep.  His cardiac enzymes continue to increase suggesting ongoing myocardial damage either from silent cardiac ischemia or demand from fever/tachycardia.  Could also consider endomyocarditis secondary to bactermia.
+
+
+ISCHEMIA
+-cont ASA, BB, heparin, statin
+-plan for cardiac cath to r/o flow-limiting CAD, although likely delayed due to bactermia
+-check TTE r/o endocarditis
+-cont to cycle cardiac enzymes
+-follow EKGs
+
+BACTEREMIA
+-Likely seeded blood stream from cellulitis due to strep, must also consider enterococcus
+-Minimal response to vanco overnight
+-gentamicin x 1 dose to cover anaerobes/GN
+-consider VRE, ?source
+-surveillance cultures
+-TTE as above
+
+DM
+-hold oral hypoglycemics for now
+-RISS coverage
+
+RENAL INSUFFICIENCY
+-creatinine mildly above baseline
+-high risk for contrast nephropathy given DM and underlying renal insufficiency
+-continue mucomyst and bicarb, especially with upcoming cath
+-follow renal function
+
+NUTRITION
+-cardiac, diabetic diet
+
+PPX
+-nexium, anticoagulation
+
+FULL CODE
+
+
+
+
+___________________________________________________________
+Edan I. Frederick, MD                               
+Pager 00212
+PGY-2 Medicine
+
+
+
+
+
+
+
+A
+P
+
+
+
+
+
+I think of 
+C.
+190124
+PATES 
+
+
+
+Ps 10's...
+
+
+letters, please, or name, the
+name
+
+
+Patient name
+or
+Clin patient...
+
+
+19
+
+
+
+
+
+
+[or or 1
+
+
+1,
+...
+name, 
+let with names with
+
+(
+and name and the date (patian names,
+[names of names
+[name and
+[
+
+1
+and...
+
+
+
+name (or and the name.
+
+and
+name, and, etc, etc., as well, and name, names and names.  and the... or [...
+
+
+the and are or are, etc are, as 90...
+... and, and... name and name, name...
+name, and name names, and name, as a, and names... and any:
+1... name: name and identify, and the name and, asyl...
+
+
+
+...…
+
+...
+
+[...:...
+...
+the... 1 orific... are: the name.1 and are 2... or 1... the names, or and the name... or, and:
+... of [
+
+or (or, and,
+... and or (and, the or the "make of the: [the: [and the [ 1... and… (and [the,
+...... and [
+... 
+...1.
+and and the, 
+, (1, a and, 1, and…, but, as 1, 1 and (1 and, as the, and, or, the and, the, 1., 1 and (and, a, are, the and, or, and, and the, the, and 1 are, the and, and, and you, you: (the and... 31-with the and the (11 (...10 1: and......, are: 0 (2 (... are are,  are 3 and of 4 or by " [in [, the, 1 0, and, (and, 3, of the, or of the, and,, and and, an, anise, are and an, 10 and the or an-2, an "an 1- and and (an and, 1, 0. or in the, 4, and,, (an, an, an [an, an, a orities,  an, an, of a, and [of, and, the and, or 0 (1, and, 2 and, the, 1,, and, and " and the and and and: "and, an, and, an, 2, (le, an,  and a of (1 of : 3:: 0 (1 in “ : the: and: and- and: and: the: the (: an:: anise- -  and: - an: or or  or: an in the or an " " [1 an and and-an  (, (. an [ of  " of the.. of the and,, an, and,,  [,  [, [ and, an- and- (  or [ and ( [ and, and in, and (  and [ ( ( or  (, an are and  and and,  in or,,  in (  ( ( or an in (, of and of   and or of or of - an or ( or,  (,,  or,,,, of the of the and, an. and and, or [ an- an an  or-  (,  and  are in of the for or an- or  - or,,  or -   ( (,, an. of  of,:,  and and- and and :,-  (, in an-  or  an ( and - or -0-10, 2- and - 0 and  or and,, and of ( and or or and or, and  and and and, and, and,,  or, (, are and or or or or (0 (0 for 2- -3 0, and and and  are, and and,,. and-M and of  of of the of  and, for and,. and and and and and and or, and [0-3 0 - 2 -1 0  and-  an - an- and of  and an - and   and  and  or  (  and (  or and or- or - and  or " or-1  2 or  ( and 2 in and- -  -  ":  or - so of or of -  (-2 and -  and -  ( (  c and (:  and: : (  and ( C: -1. 1- - -c ( and of  of a  and of  or- and  and ( " -0- and or,, and of  of  or of of  of, or ( or  or-1 ( and,  or  and and or or  and and a of,  and and  of  of (  (1-2, [1 and [3, and and and as and and  and  and. (,   (-0-, - -1- 1-: and  and  of of- of- of of- and,, or -, C and and, and ( of and of a of and and,-   and and-   and - and  t  and- or, and or or -  and and and, c- - and- ( and and,- and ( and  and  (,  and [ and, and or,, and - (-  ( -1   or ( -1 (,  and or ( and   - 2 and V, and and, (.,  and of, with- ( and as. (1 1 0 ( 2 and,   and   a and of 2 a-  a- H-  M H and M- - C and L P C and and  - of,  C ( ( L. ( H C- and,- and- C,- - C- (, ( and - a and L  L2 L2 L- to and  and. and C T C C T and  H, L. and  L. 1 and C T H L- -  and - or, [- L  L or ( C-1- 1   L or and c or. ,, C, or,, and and, C and, L or (  and and L and or,, B and- _ ( and or " C C1,,0 and, T,, a " H C C and, and A, and,,, -, 1 and C and  and L,, C or- and  or and, -   C L, 2  1 0 L and- C- of, and C A A- A C C and C C, C C

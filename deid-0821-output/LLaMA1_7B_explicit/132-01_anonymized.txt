@@ -1,0 +1,776 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2071-08-21
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+August 21, 2071
+
+ 
+
+ 
+
+ 
+
+Aiden Geiger, M.D. 
+
+Friendship Villa Care Center
+
+58 Hyannis Street
+
+Sioux City,  FL  76546
+
+ 
+
+RE:  Vivian Lea Jorgenson
+
+     MR#471-90-84-7
+
+ 
+
+Dear Dr. Geiger:
+
+ 
+
+Thank you for referring your patient, Victoria Carina Jorgenson to me for a
+
+preoperative evaluation for thyroidectomy on September 17, 2071. 
+
+As you know, she is a 64 year old woman with hypertension,
+
+hyperlipidemia and a positive family history of coronary disease. 
+
+She noticed a nodule in her neck in April or May of this year and
+
+brought it to the attention of her doctors and given that it has
+
+increased in size, it is felt to be a potential malignancy and
+
+she is currently scheduled to undergo thyroidectomy in September
+
+of this year.  In terms of her cardiac history, she was well
+
+until four years ago when she developed acute shortness of breath
+
+and was admitted to Lake Park Hospital for congestive heart
+
+failure.  At that time, she had an exercise Thallium scan which
+
+revealed a low work load at only 3 minutes stopping secondary to
+
+shortness of breath with a large fixed anterolateral defect and a
+
+dilated left ventricle.  In addition, she had an echo in June of
+
+2071, which shows an ejection fraction of 25% with 1+ mitral
+
+regurgitation, left atrial enlargement and diastolic dysfunction. 
+
+She has never been hospitalized since that time for her
+
+congestive heart failure and has been treated medically with good
+
+result. She currently denies any orthopnea, PND, angina or
+
+claudication.  She does have chronic mild lower extremity edema.
+
+In fact, she has never had chest pain or chest pressure to her
+
+recollection.  She is able to walk up the 10 stairs to her house
+
+and can unload groceries from her car, up those stairs. She is
+
+able to shop, walk through the grocery store without difficulty
+
+from chest 
+
+ 
+
+Jorgenson, Vivian Lea
+
+MR #471-90-84-7               -2-            August 21, 2071
+
+ 
+
+pains or shortness of breath, although she occasionally stops
+
+secondary to fatigue.  
+
+ 
+
+Her past medical history includes hypertension, hyperlipidemia,
+
+CHF, chronic anxiety and this thyroid nodule. She has never had
+
+surgery. Her family history is significant for a mother who died
+
+of myocardial infarction at the age of 55. 
+
+ 
+
+Her social history, she smoked 1-2 packs of cigarettes a day for
+
+40 years and quit four years ago. She denies alcohol, intravenous
+
+drugs or cocaine use.  She lives with her husband and briefly
+
+worked in Amy's Baking Company but for the past 20 years is an electrical engineer.  She
+
+has no known drug allergies. 
+
+ 
+
+Her current medications include Labetalol 100mg po BID, Captopril
+
+50 po TID, Digoxin 0.25mg po QD, Coumadin 5 po QD, Lipitor 10 po
+
+QD, Lasix 40 po QD, Coreg 12.5 po BID, Nitroglycerin patch daily
+
+and Gemfibrozil 600mg BID.  
+
+ 
+
+On physical exam in my office, her blood pressure was 170/85 in
+
+her left arm and 165/70 in her right. Her heart rate was 104 when
+
+I saw her, although it was 80 on her EKG today. Her JVP was 7
+
+centimeters. Her carotids were brisk upstrokes without carotid
+
+bruits. Her chest is clear to auscultation without crackles. Her
+
+heart has a non displaced PMI with a regular rate and rhythm with
+
+occasional ectopic beats. She has a normal S1 and S2 with a 2/6
+
+systolic ejection murmur at the left upper sternal border without
+
+radiation. Her abdomen is soft with positive bowel sounds. Her
+
+extremities have 2+ distal pulses and trace peripheral edema.  
+
+ 
+
+Her EKG today is normal sinus rhythm at a rate of 80.  She has a
+
+diffuse ST and T wave abnormality consistent with Digoxin
+
+effects.  She has poor R wave progression consistent with an old
+
+anterior septal MI but no acute ischemic changes.  
+
+ 
+
+In summary, Ms. Jorgenson is a 64 year old woman with hypertension,
+
+hyperlipidemia and a positive family history of coronary disease
+
+with congestive heart failure with an ejection fraction of 25%,
+
+likely secondary to coronary disease from an anterior myocardial
+
+infarction, although she has never undergone heart
+
+catheterization.  She is currently undergoing evaluation for a
+
+thyroidectomy for a thyroid nodule. 
+
+ 
+
+Jorgenson, Vivian Lea
+
+MR #471-90-84-7               -3-            August 21, 2071
+
+ 
+
+Issue number one,  preoperative cardiovascular risk assessment: 
+
+given that she has not had an assessment of her ischemic burden
+
+since 2067, I have scheduled her for a repeat exercise test with
+
+imaging. If this is similar to her previous study showing only
+
+fixed defects and no reversible ischemia, then I feel that she
+
+will be of low to moderate risk for surgery for perioperative
+
+myocardial infarction and that her congestive heart failure is
+
+well treated and therefore, will not preclude her from having
+
+surgery.  
+
+ 
+
+Issue number two, is her anticoagulation for low ejection
+
+fraction.  She is currently on Coumadin for low ejection
+
+fraction. As far as I know, she has never had atrial fibrillation
+
+and she has never been told that she had an irregular rate or
+
+rhythm.  Therefore, I recommend that she stop her Coumadin 6 days
+
+prior to surgery and it can be restarted several days after
+
+surgery without Heparin overlap at the discretion of the surgeons
+
+as to how may days she should wait after surgery before
+
+restarting that medication.  She will otherwise remain on her
+
+current medical regimen as determined by her cardiologist and
+
+primary care physician, Dr. Charles Van.  If her stress test
+
+is without reversible defects, she need not follow up with me for
+
+further evaluation.  
+
+ 
+
+Thank you for referring this interesting patient. She was seen
+
+and examined with Dr. Voss. 
+
+ 
+
+Sincerely, 
+
+ 
+
+ 
+
+ 
+
+Pamela Imperial, M.D. 
+
+PI/waldron
+
+ 
+
+cc:
+
+Charles Van, M.D.
+
+ 
+
+Jordan, FL  83712
+
+ 
+
+ 
+
+ 
+
+ 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
+
+
+
+
+
+
+
+
+
+
+
+names. 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+or 
+
+
+
+
+
+
+
+
+
+
+
+
+The names
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The patient name, date: 0
+
+
+
+ 
+
+
+
+
+
+
+
+names
+1
+
+
+
+
+
+
+
+patients (the name
+and patient names
+patients
+
+
+The patient, and a single, and the age (...
+
+
+
+
+
+
+
+or...  or any...
+The patient, 1, as the first name and the name and names, or [name...
+
+
+The...
+or... (
+
+and the following, 
+are or the name, and the [or the name of and 10, the following, and name-date, the following information, and names.
+and, 0, 3... (1. [10s...
+
+(100, and the word, and:, you...
+1:
+: the...
+are... 0, and include the 
+…
+ (or 11: 0 1: [… 2:
+... (make, and the following the...
+The, a, and [
+[1.
+
+
+ 1 (
+... 
+and, the... 
+1 and a...
+1,  are:
+[11 are a are, 1... 1 (1 and a (… and, and the, and,
+and, and, the, and orise 1, and...
+ (and or and, the, 1, 1,
+. 0,
+... An. An.
+, and (0, and and,, An, An  and, 2, as 1, a- and and, the, 1, the, the 11... with the [an, (make, 11....
+ "
+: an: an...
+ [are and [are (
+ 1 are (can are-le in a
+ or... (
+- or (A
+, a, the, 0 (anise and, an, [. 1. and. An. and, an (ann, an an, an ( 2 an are a or (an and, 1-an, an, " an or, an, an, an- an... Anich ( an, and and of the, an, 1, an, An An An.  or, a, an, an, an and, an  of an, of an an of the, 1, (an, an, - anist, [, An. An, an, An An. 1., An. an, an: an-the- an-1-le or an an, an [1.: an: an ": an: an [-2 (-1 ":  (: ": and,-an, [: An::: (  an- - an an with a in with an an " an an an  or an ( ( an an- an are, in-. an. [. An. of a or of an. in. an. an or (,- and [ and an in and or and, and ( or [- an [ or and and and- and- and an,, (- an [, are- and an are, an are an- in,, an an,, an- an are an  an or, or in,,, of an of the or of an or or or and ( and  and, and in an -1, and an of the of an of an of or an or an an an an or an. or or " an-  or an of an an in in a an or an- or or [ an an " an an an or an [ an an an an of, an of an of the and of an of an an an an an an an an ( ( in- or ( or- or or an or or- or an-1, 1- or or or or and  or- an- an or, an or of the of an or or- or and an- [ (. [.  an, or and for- - and and and of an for, for for for for an a for a for a for- a for for. for for the and for for  ( [-  of the, An of the or, [. ( -, [, and., or, and,,,, ( - (,, ( or [, [, and, - an or ( [.. and -1 an or and- an and an 1 and - and [ " ( or ( or " and to or- or- or or or or - an [ or -  an or or ( and or- and and an for or, or and for for for for a for  for for for for and for an, for or for for ( - for for for: for- for - for a (: for a, and t or. or or a- t- a and a " ( to _- a  a  or or ( 1 a a a and a or, ( or,,,, or, of and of or of [ of the, and [ or (, - - - a and,. and and and- or a  of of of  of  of a of a a t year ( and ( a t and -1 a, and-  a- a  a or or or a a, and c is in and and a or ( ( _ - a and- a or a- of t a of and a of  -  and,, and- and or, and and  a- t or a j a t a  a- [ a and and- mas a, and c j and a n a or j a a or and a - a a a and a a and, a and c, a, a,, a- an and, at a in  and or a a,  a ( a and or, - and or, ( and and and t, t a, t and,,, c, a j a t and, a and and a, or and  a, a, j a t a  or a and and, t  a,, a, ( and  a and, a or a a a a- a a ( a and a a to, a a t- a j a,, t, a, a a c a, [, a [ and and and a a a- an and a and ( a a t a  and a a j and a a and in a a and and c a a a n a and a-  a - a ( and a and  a a and to and a- to [ and a and  - [ or,  and and  a _ ( for [ an t j and and for  for for and and for and,  ( for  a and for or for for and j for and and a and,  and a and and and (  a  a _   a  a a a a a ( a, ( a a ( and  a ( j and A a as and as, and,  a [ a  a, a and in a of,   a and  of an _ _  _ a or  and  _ a- a and (,  and and and of a of  and of  of, ( and and  (,

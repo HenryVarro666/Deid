@@ -1,0 +1,320 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2082-11-22
+
+                     ZHH EMERGENCY DEPT VISIT
+
+ 
+
+FINNEY,INDIANA   432-94-73-9                  VISIT DATE: 11/22/82
+
+PRESENTING COMPLAINT:  Chest pain. 
+
+HISTORY OF PRESENTING COMPLAINT:  Ms. Finney is a 45 year-old 
+
+woman with type II diabetes who presents with new onset of 
+
+palpitations and chest tightness.  The episodes last 10-15 minutes 
+
+and mainly occur with exertion, relieved by rest.  These occurred 
+
+at rest today and so she came to the hospital.  She reports being 
+
+ill lately with a cough, for a long time.  She has no history of 
+
+coronary artery disease.  She has had no fever. 
+
+PAST MEDICAL HISTORY:  She had recent dental work and she was told 
+
+she has a heart murmur. 
+
+MEDICATIONS:  Oral hypoglycemics. 
+
+ALLERGIES:  No known allergies. 
+
+SOCIAL HISTORY AND FAMILY HISTORY:  She does not smoke. 
+
+PHYSICAL EXAMINATION:  VITAL SIGNS:  Pulse 111, temperature 100, 
+
+blood pressure 157/69.  GENERAL:  Alert, calm and oriented.  In no 
+
+distress.  NECK:  No adenopathy.  Thyroid was not palpable. 
+
+Oropharynx was normal.  CHEST:  Clear.  CARDIOVASCULAR:  Regular 
+
+rate and rhythm.  ABDOMEN:  Soft and non-tender.  EXTREMITIES:  No 
+
+clubbing, cyanosis or edema.  She had no rash. 
+
+LABORATORY EVALUATION:  Electrocardiogram showed mild ST segment 
+
+change that was non-diagnostic and confirmed the tachycardia. 
+
+Laboratory evaluation is pending at the time of dictation.  Chest 
+
+x-ray is pending and the results will be appended by my successor. 
+
+FINAL DIAGNOSIS:  Chest pain, exertional type. 
+
+DISPOSITION (including condition upon discharge):  Disposition will 
+
+be appended by my successor.  Patient is currently in stable 
+
+condition. 
+
+___________________________________                    TJ371/9248 
+
+YVES BLACKBURN, M.D.       HB79                         D:11/22/82 
+
+                                                       T:11/23/82 
+
+Dictated by:  YVES BLACKBURN, M.D.       HB79 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+                                                       TJ371/9248
+
+                                                       D:11/23/82
+
+                                                T:11/23/82
+
+                                                     YVES BLACKBURN, M.D.       HB79
+
+                                                    D:11/23/82
+
+                                                    T:11/23/82
+
+_____________________________________                    TJ371/9248 
+
+                                                    D:11/23/82 
+
+                                            T:11/23/82
+
+                                                    YVES BLACKBURN, M.D.       HB79
+
+                                                    D:11/23/82
+
+                                                T:11/23/82
+
+                                                        FINNEY
+
+                                                FINNEY,INDIANA   432-94-73-9
+
+                                                    ZHH EMERGENCY DEPT VISIT   11
+
+                                                                    VISIT DA     T: 
+
+                                                11/22/82  11/23/82   11/24/82
+                                                     M:W:TH     F:S:S     F:S:S
+
+                                                    11/20/82  11/24/82
+
+                                                    D:  11/25/82
+                                                    T:  11/22/82 
+
+                                                    FINNEY  2115  134  176  176  176
+
+                                                    M  F  M   F
+
+                                                    S   S   S   S   S
+
+                                                            TOTALS  10 10   10  10  10
+
+                                                    ANNUALIZED BASAL BLOODPRESSURE
+
+                                                    MIN MAX MEDIAN MEDIAN  111/69 111/74 
+
+                                                                                                   129/82 121/107 117/98 110/82 
+
+                                                    ANNUALIZED PEAK BLOODPRESSURE
+
+                                                    MIN MAX MEDIAN MEDIAN  86  108  98   106   105
+
+                                                                                     111  97  107  102  100
+
+                                                    BLOOD VOLUME
+
+                                                    MIN MAX MEDIAN MEDIAN  2442  2664  2589  2857  2663
+
+                                                                           24035 26431 25142 26645 24695
+
+                                                    BLOOD VOLUME VOLUMES
+
+                                                    MIN MAX MEDIAN MEDIAN  26.25  61.23  44.71  41.95  33.52
+
+                                                           63.67 285.68 60.06 55.64 44.42
+
+                                                    BLOOD VOLUME VOLUMES
+
+                                                    MIN MAX MEDIAN MEDIAN  5.19  10.64  6.54  7.84  8.24
+
+                                                           11.92 24.67  8.52  9.86 12.48
+
+                                                    BLOOD VOLUME VOLUMES
+
+                                                    MIN MAX MEDIAN MEDIAN  6.49  10.70  7.91  8.03  8.42
+
+                                                           9.34 25.78 12.36 13.50 14.19
+
+                                                    BLOOD VOLUME VOLUMES
+
+                                                    MIN     MAX    MEDIAN    MEDIAN
+
+                                            MIN MAX ANNUALIZED  MIN   MAX   MAX
+
+                                        MIN MAX  MIN MAX   ANNUALIZED  ANNUALIZED  ANNUALIZED  ANNUALIZED
+
+                                        SATURATION
+
+                                    MIN MAX MEDIAN MEDIAN  97  101.28  99   98.75 100  98.75
+
+                                    SATURATION
+
+                                    HEMATOCROCYTE COUNT
+
+                                    MIN MAX MEDIAN MEDIAN  3.46 6.63  3.24  4.04  3.84  4.25  4.92
+
+                                    HEMATOCROCYTE COUNT
+
+                                    MIN MAX MEDIAN MEDIAN  4900 6629 5000 5203 5100 5490 4895 5188 4592 5148 
+
+ 
+
+                                                                                                                                                               100 1500 
+
+                                                                                                                    268 3249 
+
+                                                                                                                    273 
+                                                                                      [REDACTED PERSONAL information. 
+                                            names of clinical diagnosis information, etc.,                 information.
+
+
+
+                                     space                            
+
+                           
+
+                    
+            or the name
+                            
+
+
+               ,
+                
+                    
+                     and so that 
+                               , or, 
+                 are not
+
+\n
+                 or.
+                
+
+
+
+                
+    of information, or
+
+
+
+   
+    etc.
+
+ 
+
+
+
+
+information, 
+information and information,
+information,
+________________ information
+\
+information,
+
+information, as well
+information or,
+
+
+
+information:
+
+
+The information
+information
+
+
+information
+or.
+information:
+The  information 
+The
+indicate information
+information
+information, information and information.  
+information, information and/
+
+inform of 
+The information of information
+
+ind of information or the information of
+
+[information, or [indicated patient information and the clinician information names, information, use, the name, 15, 90 or 91.
+indically...
+(the clinical...
+The date:, and the clinical 12
+
+
+the date... 
+
+[name, or the patient, or, etc.
+or the date or the following the 
+[the [
+the…
+
+...
+
+name...
+The date-
+[the and the following...
+13
+names, any, and names, name-
+[names. 
+
+
+
+
+the: 9: 2, your and name,
+
+
+[name, you ((
+
+1: 4:
+1: 1 or...... are [
+d are, the...the of the (10: (
+
+
+and the the, or (or (le, 2... and the 
+The and the 
+(
+[1 (and or, the, 
+
+1, be: 1 and a "1 and a (the... and... the:
+are, are (1...… 1-1 and, 1: and, “ (and, and (are are, 3, 
+, or, the 1, a, 1... and, and, the, and, and the, an (2, anine are are, and, and or and, and [( 1, and, and,  and in 2.
+, the... of... of the:
+(1, and the patient (1, a-the, the [...
+
+1:
+
+[:: “an "... 1 (2 10- are [2 
+Anine of 2 of "an
+[: (1 by (2, the, 1, an, an, the, the 3 of (. 1, and,... of the, and the, an, an, a, an, an are an- are or an, an, " or, an, an an [0... an,  an, an and an [an, of, and and, in the, an, 1 of an in the, an " an, or and, and of a, an of the or, of the and " and an, an, an, and, an, and the, 9, an and the an, C, an: 1-M, the, an, 1, an, an an (and an (an-2: An-1 of 3 [2-0:: "2-1:- :: - an: (1 in: and an:: : 1 an with: an [ an in an: an (: An An: an ( are-1 an " an are an " an [2 in the  or- (. of the of an of an. and [.  (. an or, ( an,, and, [ and and [ and and [ or and- [ [, in a or [- an, [ [- are an are- [ of an ( - an- and [ an an, an or an an  an  or or (  or (,  and in  and of the of an of the an, an,  an,, the, in the an and-an an ( of the, of of and or, and of the and an and  an, an, and, and  an of are of an or, an and of a or or or or an,, an and an - and [ and of, an of " and:  of of an:  and or an, and and-an an an in, or or in and in and,  an-  and of, an  or in an of  or an of the or or - h (, an and ( of, an, An, and or, and,  an, an,  an or- or of " an of and, for or., of an or an or, -1-3-2 of and an,,  of  of or of  of our of ( of,  and and of our-,,  and, and and and in and.  and to [ and [,-0.0 in- and (-1-  an- or an  and and or  - - - an and and- or - c " [ an ( ( ( an, [ and or ( - - or is,- and-  and or- c- -  and  ( and of a or- and of ( of an or-1 - and an (. (, and and " (: ( of and ( and ( and ::: (: :  - ( and:: and and: ( and or-  ( ( of a of the and and  and and or of- and ( and and of  an-1 of the of an of an and of, of or- and and or, and- and- an and,, or ( or, an of and of, of the of of of an of and and..- ( an by and ( (.,, and and,.,, or - and,. and  ( or ( and and [ and  ( and and  and, ( and and [ of, of. of ( c. and.,. ( and an and, and and and. and of  and of an or of  an and and- and  and, and or ( and and or or ( an t or, or of, and and and ( and ( [ and and. (, (,.- and and,  and. and and and an ( and ( and and (, or and or (, an. and, and, and ( (, and,, (,,.,  and and, w and,,, ( and,,,,, (, of  and  and,, and (,, ( and, (,,. - and,,, (,, and, and ( and,, CO and to and  ( ( ( to ( and, and to, (,,,, to,,, - (, and,,. and (, [ and,,,, and, and,. CO C A L- and  and [  A1 and and c- and and and and [ w, and ( and and _ [ and [[ and and [ and ( [ d and [ _  and [ and c [, _,  C,, [ [ and- [ and and and _ c, [ and and (, and (, and and and and and and,,, and,., and and [  ( and and,. and _ [,,, and [, [,, and and,  and 0 and and, and and and,1 and and and, and and,.  and.,, ( [ and and. and. and and or and and  and and, [ [ ( and _ [, ( [[0- and. [, [, [- and [ and  or,,  and,  and 

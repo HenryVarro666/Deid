@@ -1,0 +1,536 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2093-07-03
+
+Nathan D. Akins, MD, MPH
+
+BMC Internal Medicine Associates
+
+96 Hassell Brook Road
+
+Daytona Highridge Estates, AZ 39757
+
+(742) 270-8900
+
+
+
+CC: Follow-up from Stroke
+
+
+
+69 yo man with HTN, DM, CVA in 5/93 underwent rehab and is now living at home comes in for follow-up care. He is under the care of Park Nicollet Clinic. I have recently refilled all of his medication. He has no complaints today. He denies F, C, N, V, CP, SOB, abd pain, B/B changes, HA and feels he is getting along well at home. His family helps him greatly. He underwent PT and OT.
+
+
+
+His home care nurse wants a modified barrium swallow to see if he can be advanced off of thick liquids to solids. He only recently began taking TID metoprolol. He reports no problems with his medication.
+
+
+
+
+
+MEDICATIONS
+
+
+
+AVANDIA (ROSIGLITAZONE) 4 MG     PO QD 
+
+ZOLOFT (SERTRALINE)   50MG  1 Tablet(s) PO QD 
+
+EC ASA (ASPIRIN ENTERIC COATED)   325MG  1 Tablet(s) PO QD 
+
+GLUCOPHAGE (METFORMIN)   850MG  1 Tablet(s) PO qam  
+
+NORVASC (AMLODIPINE)   10MG  1 Tablet(s) PO QHS  
+
+ZESTRIL (LISINOPRIL)   5MG  1 Tablet(s) PO QD  
+
+GLUCOPHAGE (METFORMIN)   500MG  1 Tablet(s) PO qpm  
+
+COLACE (DOCUSATE SODIUM)   100MG  1 Capsule(s) PO BID 
+
+ZOCOR (SIMVASTATIN)   20MG  1 Tablet(s) PO QHS 
+
+PLAVIX (CLOPIDOGREL) 75 MG     PO QD 
+
+SENNA TABLETS 2 TAB     PO QHS 
+
+LOPRESSOR (METOPROLOL TARTRATE)   50MG  1 Tablet(s) PO TID 
+
+
+
+
+
+
+
+
+
+PE: 
+
+Gen: WDWN in NAD in wheelchair.
+
+VS: BP 140/85  P70
+
+HEENT: EOMI, PEERL, OP nl, conjunctiva pink, sclera anicteric.
+
+Neck: Supple, no lymphadenopathy
+
+Lungs: CTA B
+
+CV: RRR no M, r, g.
+
+Abd: Soft. NABS, NTND, no HSM
+
+Ext: No c/c/e
+
+Neuro: Right hemiparesis.
+
+
+
+
+
+A/P:
+
+
+
+1.  s/p CVA: although he has a dense residual deficit. He is getting along relatively well at home. ASA, plavix. Consider additional PT/OT if not receiving at home. Ordered modified barrium swallow in hopes of advancing to solids.
+
+
+
+2. HTN: elevated pressure today, especially given DM. If remains elevated at next visit would intensify regimen. Metoprolol 50 tid, zestril 5 qd, norvasc 10 qhs.
+
+
+
+3. DM: Sugars have been in 100-200 range. Again, will intensify at next visit if remain elevated now that he is on a stable regimen. Metformin 500 qpm, rosiglitazone 4 qd. Needs A1C at next visit.
+
+
+
+4. Chol: on zocor 20 qhs. Will need to re-check fasting cholesterol at next visit.
+
+
+
+5. Depression: Zoloft 50 qd.
+
+
+
+6. HCM: Deferred
+
+
+
+- f/u with me in 1 month.
+
+
+
+
+
+
+
+
+Follow-up in 1 month.
+
+
+
+
+
+
+
+
+
+
+
+Record date: 2093-07-21
+
+Nathan D. Akins, MD, MPH
+
+BMC Internal Medicine Associates
+
+96 Hassell Brook Road
+
+Daytona Highridge Estates, AZ 39757
+
+(742) 270-8900
+
+
+
+CC: Follow-up from Stroke
+
+
+
+69 yo man with HTN, DM, CVA in 5/93 underwent rehab and is now living at home comes in for follow-up care. He is under the care of Park Nicollet Clinic. I have recently refilled all of his medication. He has no complaints today. He denies F, C, N, V, CP, SOB, abd pain, B/B changes, HA and feels he is getting along well at home. His family helps him greatly. He underwent PT and OT.
+
+His home care nurse wants a modified barrium swallow to see if he can be advanced off of thick liquids to solids. He only recently began taking TID metoprolol. He reports no problems with his medication.
+
+
+
+
+
+
+
+MEDICATIONS
+
+
+AVANDIA (ROSIGLITAZONE) 4 MG     PO QD 
+
+ZOLOFT (SERTRALINE)   50MG  1 Tablet(s) PO QD 
+
+EC ASA (ASPIRIN ENTERIC COATED)   325MG  1 Tablet(s) PO QD 
+
+GLUCOPHAGE (METFORMIN)   850MG  1 Tablet(s) PO qam  
+
+NORVASC (AMLODIPINE)   10MG  1 Tablet(s) PO QD  
+
+ZESTRIL (LISINOPRIL)   5MG  1 Tablet(s) PO QHS  
+
+GLUCOPHAGE (METFORMIN)   500MG  1 Tablet(s) PO qpm  
+
+COLACE (DOCUSATE SODIUM)   100MG  1 Capsule(s) PO BID 
+
+ZOCOR (SIMVASTATIN)   20MG  1 Tablet(s) PO QHS 
+
+PLAVIX (CLOPIDOGREL) 75 MG     PO QD 
+
+SENNA TABLETS 2 TAB     PO QHS 
+
+LOPRESSOR (METOPROLOL TARTRATE)   50MG  1 Tablet(s) PO TID 
+
+
+
+
+
+
+
+
+PE: 
+
+Gen: WDWN in NAD in wheelchair.
+
+VS: BP 140/85  P70
+
+HEENT: EOMI, PEERL, OP nl, conjunctiva pink, sclera anicteric.
+
+Neck: Supple, no lymphadenopathy
+
+Lungs: CTA B
+
+CV: RRR no M, r, g.
+
+Abd: Soft. NABS, NTND, no HSM
+
+Ext: No c/c/e
+
+Neuro: Right hemiparesis.
+
+
+
+
+A/P:
+
+
+
+1.  s/p CVA: although he has a dense residual deficit. He is getting along relatively well at home. ASA, plavix. Consider additional PT/OT if not receiving at home. Ordered modified barrium swallow in hopes of advancing to solids.
+
+
+
+2. HTN: elevated pressure today, especially given DM. If remains elevated at next visit would intensify regimen. Metoprolol 50 tid, zestril 5 qd, norvasc 10 qhs.
+
+
+
+
+3. DM: Sugars have been in 100-200 range. Again, will intensify at next visit if remain elevated now that he is on a stable regimen. Metformin 500 qpm, rosiglitazone 4 qd. Needs A1C at next visit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+or other information about
+
+
+
+
+
+
+
+
+information
+
+information
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and
+
+
+
+
+
+
+
+
+
+
+and
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+information
+
+
+1000, or 
+
+
+
+
+
+
+
+patient
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information
+
+
+
+
+
+and
+information
+
+
+
+
+
+patients
+informationally information and patient information
+
+name, or the following, patient
+
+information 
+
+
+
+
+information patient-patient informationally
+
+
+The 
+The following and identified
+
+
+
+
+
+names
+names, please name, 10 with the names or the words.
+Patient.
+The patient or the patient and identify patients, or are or indicate. If or...
+141
+
+or
+10
+
+
+name, and name, date, and the date, and name and the following, and [or, and the [… (…
+...
+
+The 6...
+
+name, name or 1, as or or [... (name, orise and the date, and the...
+[...
+[…
+[: [
+
+name (and the...
+andized:...
+
+
+you, you, and, you:
+:1...11 and (re and...
+are.
+(1 or a patient are a “d... and... and are or: [the or... [and are the are, 
+the... or the and and "
+and: and: or:
+
+or, as, and, and the, or the are, a… 3 or: and the: and and the and (the or… are, or are are the 1...1: 11:...and and...
+and: (1, and are, 1, the and or,..., or, and 1 [and (and or or, as, as, an, and or,
+and the, 1, 0 are (2, 1 and, and, but, and, and or, and, (in and, " of the, the ( and, (get the: and::: 1. [[f (1-1.: (an...: “1... 20,0 [[1 are- are a, are-are or, the [and or (1 by or,, (1 or and, the, the, 1,, or of of the of a (and of the. and,, are. and. but,  are, include are the, may-1 may, an and and, (ann by, and, and 2, an, an, (1,  an and or, of [. An,  and, and or of the [ann, an, [an and or and or,  and and a, 0 ( an and, and an, 2 an, and [d in the, and,,, the, an, and, (, and, (ann,, [, in the, the,, (0, an, an in, An: an-1-1 (:: an:: (: are [:-1 in and: (: (- " an-1 and: [ or::: an an with (: an (: ( an [an: an or an: or-1 in- an are and- an are  are an are in, An- or- of the of the and and of the and or- and and or or,... [, ( in and ( and, [ are [ or or: ( and ( or and- or or and- or-1 [- are or, are or an are are  an are,  or  [ and in and, - ( and are are, in-  in the ( an of of an of  of  or of or, and and in and and or or- in, or,, and of, of and of the of an of an of and or,, an, an in " in and, in- or are  in ( of  in  or or or- and, and, or ( and, - and- and, of the of, of " of  in, an in an an in [- C in  and or, and  in- in " with or of a of a in- or in, and [ in, and in, of (-  and of the for, of, An or or and and or and (. - in ( An C- and, or for and, by and of  of or and for of or or or or and- and (1 An and (, and [ are in are are, are of, of and of of of of of of and of an of of and of and. and, in, and,, [ and and and, and C C in  in in and and with, An An and in and with with, and and and ( ( and [.  or. [ in ( - ( An H An F An An - ( or " An C An or C " C or or or or or or in - ( or or - and in-c ( or, and, ( or C or or of C of  An M An Cl. C. C and and ( C: C ( and, c of and in and C: and and and C: and and ( and. and and: M and C and and and for, ( An C " and in: C " P C " C ( " ( [ and ( - or or, of of and of of of the ( [, in and and ( C and and C or and and (, and and and in, ( and ( of of C of ( P of of the of. of of of of, or of.  and and and and in C. and,, ( ( (1 and C I in.,, and, or (., and and and (-C- C C of  ( T of and of ( T and ( ( C. ( and: or- and and, (-  and and of of ( and or or,  ( P C. ( or, (- or - (,. or or., N ( and,, and and and in T and and, ( M and, ( as, ( C ( and,. [ and, T (, and or,., and- P and, and ( and and - or or ( and - or as- P and and and or (, and in, as or, and (, and. and.,,, and P, P L and,, P (.,, and, ( in and and and,,,, in as ( and. and. and of A of,, C in M ( and ( and PO ( and., ( and, and, and, [ (,, C L ( C., or,,, ( and and [ C in and C- C-A ( ( L C P ( C C in or. P and and M PO and and ( ( and-M-Cl and. P,, ( PO and ( ( PO- A (, and ( and and ( [ or,, and. ( and P ( PO.. and ( and, and ( M and P ( C and, and, and and and ( and (, and ( C to, and and C ( ( and ( ( ( and and as (, C ( (, P ( and ( (, ( and and and- T, and A ( P M,. and and. ( and and and, (,, of of of and ( M C ( and PO. ( ( and C ( C. PO and. T. ( T. F P F ( M,,, C ( and ( F and ( C. and. A and and. [ [ M. of

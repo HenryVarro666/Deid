@@ -1,0 +1,779 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2094-05-20
+
+ZELDA UPHAM
+
+SMC Unit No:  
+
+
+
+MOLLY STARK HOSPITAL
+
+
+
+ADULT MEDICINE
+
+
+
+
+
+Date:  May 20, 2094
+
+
+
+70-year-old female, first visit to MSH AMED. 
+
+
+
+MEDICATIONS:  Ibuprofen 800 mg 1 p.o. b.i.d., has taken for years. Self-d/c'd meclizine, unclear status on H2 blocker.
+
+
+
+ALLERGIES: Percocet, codeine, sulfa.
+
+
+
+PMH: Includes fibromyalgia with chronic pain, osteoarthritis, recurrent vertigo, cervical spondylosis, lumbar spondylosis, carpal tunnel syndrome, myofascial pain, dizziness, syncope, chest pain of unclear etiology, sinusitis, DJD. Status post laminectomy 2062. 
+
+
+
+S:	70-year-old female accompanied by daughter, Qazi, here to initiate primary care closer to home. Previously followed by Dr. Faust, but daughter needs closer PCP. In addition, patient followed in arthritis clinic by Dr. Solomon and has received injections per patient report from severe muscle spasms of both arms. Also seen by pain clinic. Main issue is continued lower back pain and primary care. Of concern is patient reveals an unclear history of chest pain which was thought to be arthritis, but is accompanied by episodes of syncope, witnessed in a grocery store. Patient has not had to her knowledge a cardiac workup for this. Also had some vascular studies done at that time and was told they were normal. The patient is unclear on status of recent pelvic exam. GYN - G7, P7, still with uterus but not sexually active. Denies any change in bowels. Denies any change in appetite. 
+
+
+
+The patient has been complaining of animals crawling across her chest. States she used a cream for 1 week with resolution but now feels the animals are back, and she has been using a pesticide agent which sounds like a Kwell agent to resolve these. 
+
+
+
+Recent testing - L-spine films confirm grade 2 anterospondylolisthesis L4-L5 with disc space changes at L1-L2. Negative allergy testing. 1/1 immune globulin testing significant for an IgG of 15/40 and positive ANA at 1:40 and 1:60. MRI of spine 12/93 shows degenerative changes of lumbar spine. No evidence of disc herniation or canal stenosis. 11/92 - Paranasal sinus films show no evidence of sinusitis. Mammo 3/94 WNL. Carotid ultrasound done 12/93 shows minimal disease of right and left carotid bifurcations. TCDs 12/93 suggest a stenosis of the left vertebral artery with an RVA WNL. Velocity suggests a mild stenosis. EKG 12/93 shows sinus brad with an LAE. No other significant changes. Nonspecific ST changes. 
+
+
+
+O:	HEENT - Unremarkable. Skin - No obvious sign of rash or infection where she states the animals are present. CV - BP is 170/88. RR at 60. No murmurs, gallops, rubs present. Lungs - Clear to P&A. B12 was 331. Attempted Pap smear. External genitalia unremarkable. Vaginal introitus is very small. Patient got very cold and clammy and nervous throughout the tried Pap smear; so Pap smear attempt was terminated at that time. Consent was obtained to conduct Pap smear. Lungs - Clear to P&A. 
+
+
+
+A/P:	(1)	Dizziness of unclear etiology. Neuro consult had been done when the patient was hospitalized, and meclizine has not been of any benefit. Will refer patient to Vascular to ascertain whether the TCD findings are related. 
+
+
+
+(2)	Report of syncope. Will obtain stress test.
+
+
+
+(3)	Chronic NSAID usage. Add ranitidine HCL 150 mg to 1 p.o. q.h.s. to regime. Patient will follow up with Dr. Helen Whitehead as  her new PCP.
+
+
+
+
+
+Frieda Nadeau, RN, ANP
+
+
+
+FN/warren/forbes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\begin{code}
+
+\begin{code}
+
+\begin{code}
+ 20-03-2094
+ 32182448
+
+\end{code}
+
+\begin{code}
+
+\begin{code}
+    80
+\end{code}
+
+\begin{code}
+
+\begin{code}
+    \end{code}
+
+\begin{code}
+   \end{code}
+\end{code}
+
+\begin{code}
+
+\begin{pre}
+11111111111111111111111111111111111111111111111111111111111111
+  111111111111111
+ 11111111111111
+  11
+  1
+  1
+  1
+
+\begin{code}
+    <p
+\end{code}
+
+\begin{code}
+     11
+  11
+  1
+  1
+  1
+  1
+ 1
+ 1
+ 1
+ 1
+1
+1
+1
+
+\begin{code}
+    <p
+\end{code}
+
+\begin{code}
+    (1)
+\end{code}
+
+\begin{code}
+    \end{code}
+
+\begin{code}
+    <p
+\end{code}
+
+\begin{code}
+    1
+\end{code}
+
+\begin{code}
+    (2062)
+\end{code}
+
+\begin{code}
+    \end{code}
+
+\begin{code}
+    <p
+\end{code}
+
+\begin{code}
+    \end{code}
+
+\begin{code}
+     47
+      08
+     0
+     10
+     3
+     4
+     9
+     04
+      8
+      06
+      7
+
+\end{code}
+
+     8
+
+\begin{code}
+    <p
+    \begin{code}
+    \end{code}
+    \begin{code}
+    \begin{code}code
+    code
+    end{code}
+    or code
+    code
+    code
+
+    code
+\n\n
+\begin{code
+\n
+    code
+    code
+    code
+code
+code
+\[code
+code code
+[code
+    code
+code,
+
+code,
+
+code, code
+    code,
+code 
+    code, code
+code,
+code
+code
+code  code
+\code
+code, 
+code, or
+code and code, code
+code code
+code, code, code or
+code
+
+code, code
+and
+
+code and the
+code 10 code.
+code code, code and code, code numbers, and the following, and code 
+code, codes, code, code, code or code codes, 
+code or 1 or code, 
+code 1
+The 
+code  code 4, code code, code and code numbers with the code and the patient name, code, 2:, code
+code code and 20, and code, code (...)
+
+The patient code and code, and code, and
+or 3, code (d.
+(and the […
+The...
+The patient code
+name... and code, as 4 or...and [...
+(or, or... or 5-
+are.
+
+or names (or (...
+
+...
+
+The name, but, as, 
+
+:
+and [[12 and 3: and the doctor:
+(1. doctors, names: you: the words below:
+:1...
+1: (12 are a patient-...
+d... are the, and are and the...11...1 are: the...
+(
+are (the... [the and 11, " (or and, and " (... (orized 10,
+...
+
+
+10: 2-
+and, and...
+and 1: [ 
+ 1… (
+
+are......
+… and and and the and 0 and the, and... (and and the... and, and, [or…, and, 1 or the, 1 or, the, the, the, and, 2, and are, or, (and of " are, 10 [, are, 2, [le (... 2, 10, the " of, 0,::
+... (: and: 1... with the...,... (names and:... (an “. an: 1… (1  are- 3 are,..., 10 (by the or... from the, or (and, 1, or [le, 2, 1 and, of the, (. and, and, the, and, and, anine, anine, an, an "are, are, an and, and (and, the and,  and [and-s,s. an.
+. an, (.,, and, the, an and and, an, an, 2-an [an and or (1 (ann and and, and, and, an, and or in the, and,,, An C, and,, an,, and, and, and: the and, an, 3, an, an, An "1, (le: and " and: an (an and: : 1-10:0: 1, [: (1: an: An: 0 in...:  and: an: :: or or-le::-and with an " ( an " an and-le-  an " an-1, [. an [ an an and and of and-  of the and. and and,,, and, [.... an, ( and. or- and [ and [ [ [ [[ [ of: and of or: ( an- [ or [ an-an " [ (, are and an " and an an ( in, an, an of - and an or an an, [  or of the, of,  of and or an and, an,, by ( an " -, and and an (, " - an of “ ( an of and an and and ( an and or are and of an an,,, of, of, or an in the or ( or  or or an, an, or (, and, of  ( ( and of the of ( " or of  and in by, ( and and [ ( or, in or and, or of the and of ( of the and or-  in in and- for an  or of and of and in and " and,, and ( for and, or and, and and and and or (, for and  and and and for ( for, or or for an- or and and ( for or and,  of 1 of and an, or  or or 2 an of  and and, of of, of, of for of and of and for for and for an for, for and, (, [ or, and or, - and and or ( and [0  and ( and (  are and " of and and and of " ( or and (  [ ( an, ( [  - or and and ( ( [ or, or,,, and and, or,  or and or or,  and or or ( and. for  of and and for, for or ( "  and and of - and, and and ( c, with or, and " and of: and ( ( and ( and for to and or (  to and-1-  and- or and-m. and and and-of or- " and for for- or in and. and and [ in, and. or of  of and [ of, of ( of or or and and or and- and and and. - and to to ( to - and or of of of of of, of of of of and of to and or., and and and-3 and of and, and and and and and and- and or and in  and and ( or or and ( and, and and and or and  or and and of ( of of or  of and and of of and and - ( - and and and, and and of of and of of of and " or, or and and or and and and ( A and or or ( A- or or and ( and  and of or and and or of A and- ( in and and or or. ( and and, ( and,, and A and or and of and and and ( ( ( or, and and in in in in of or, or, or and and and and or and and of in ( ( and and " or,,, and and,, in, of and,, or and of and of, and of and or (, and M or, ( and were are in,,, or ( and of, of and of, or of, or A,-al-g - and or ( C- C- of., and and,,, and,,,,, and in or of, and and, and in and and and or. of ( and of or of and. and ( and " and or and and " or or and of, of of of of of, and ( L L- and L and L and and L, of ( and and. ( of and of in of in. of and with for and A of, - and and and and-,. and, " A, - as. of " L – and as ( and L of. and or and of- and and and P,, (,., and to. in of, of- W, and ( in ",, ( - and - ( and -, of and, of, or,,, of or, and and,,. and and and, and,, and and (,- or and and or- or and.- L (, ( and, G,,- and or, and, and,, and, C and

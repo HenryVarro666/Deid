@@ -1,0 +1,593 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2087-12-05
+
+
+
+
+
+
+
+Beckley Appalachian Regional Hospital
+
+040 Townsend West              MOSS, DEREK
+
+Espanola, WI  85976                    59624156
+
+895-239-5445, 302-843-7619                     12/05/2087
+
+
+
+
+
+History of the Present Illness/Chief Complaint:  The patient is a 77-year-old man who is here with his son and daughter today, acutely ill with multiple acute medical problems.
+
+
+
+Medications:  Per the list entered on the computer today, a total of 28 medications and accessories.
+
+
+
+Allergies:  None.
+
+
+
+Past Medical History
+
+	Surgeries
+
+       1.  Hip surgery.
+
+       2.  Cholecystectomy.
+
+       3.  Lumbar laminectomy.
+
+       4.  Left leg surgery.
+
+       5.  Bilateral cataract extraction.
+
+       6.  Prostate biopsy 2086, Gleason grade 6/10.
+
+       7.  Left skin cancer removal.
+
+
+
+	Medical Problems
+
+       1.  Septic arthritis of the left shoulder.
+
+       2.  Dislocated left shoulder.
+
+       3.  CHF with dilated cardiomyopathy.
+
+       4.  Atrial fibrillation.
+
+       5.  Insulin-dependent diabetes.
+
+       6.  Parkinson's disease.
+
+       7.  GI bleed.
+
+       8.  Diffuse arthritis.
+
+       9.  Prostatic cancer.
+
+       10.  Prostatic obstruction.
+
+       11.  Microcytic anemia.
+
+
+
+Family History
+
+	Family history was reviewed and is notable for:
+
+	CVD:  Positive.
+
+
+
+Social History
+
+Living arrangements:  He has recently moved from Ouagadougou.  He is living with his son and daughter-in-law in Harrisburg.  He has mostly been in the hospital over the last several months.
+
+Work:  He is a retired vocational instructor.  He had been with the city of Cadiz for 32 years.
+
+	Smoking:  None.
+
+	ETOH:  None.
+
+	Exercise:  None.
+
+	Diet:  Minimal, poor appetite.
+
+	Domestic Violence:  None.
+
+	
+
+Health Maintenance
+
+	Seat belts:  Always.
+
+Colonoscopy:  Has had but there are no records (may have been indadequate exam).  Endoscopy in 2087 showed gastritis.
+
+	
+
+	Immunization
+
+		Td:  Up-to-date.
+
+	
+
+
+
+
+
+
+
+
+
+
+
+Review of Systems
+
+       ROS reviewed in detail.
+
+General: Good mood.  No F/S/C.  Depressed with chronic illness, extremely fatigued.
+
+       Skin:  Multiple ecchymoses, extremely dry skin.
+
+       HEENT: no sore throat; no change in vision or blurring;
+
+       No change in hearing, ear pain, or  tinnitus
+
+Cardiovascular:  History of substernal chest pain, on longacting nitroglycerin, dyspnea on exertion, sleeps with the bed propped up and one pillow, chronic ankle edema, chronic AF.
+
+       Respiratory:  Dyspnea on exertion.
+
+GI:  Loose bowel movements multiple times a day.  Over the last week he has been having bright red blood.  He has had melena in the past, most recently grape jelly like clots of blood.  He has had anorexia.  No abdominal pain, no vomiting.
+
+Extrem:  Left shoulder pain, history of significant infection in the left shoulder, torn rotator cuff so that he is essentially unable to use the left arm.
+
+       Endocrine: no polyuria or polydipsia; one episode of sig hypoglycemia
+
+       Neurologic: no HA, visual change, seizure, or acute neurologic sxs
+
+       Psychiatric: depression; acutely ill
+
+       Hematologic:  Significant bruising and bleeding.
+
+       GU:  Urinary hesitancy, prostatic obstruction, prostatic cancer.
+
+
+
+Physical Examination
+
+General/constitutional:  Pleasant, alert, oriented, in acute distress, weak, has difficulty moving; nl affect
+
+Vital signs:  Ht 67 inches Wt (lbs) 154 BMI
+
+	BP 128/68 Heart rate 84, irregularly irregular RR12 and comfortable  w/out accessory muscles         Temp 96.3.
+
+Skin:  Dry skin, sallow pale, multiple ecchymoses, significant ulcer on the left shoulder in the subdeltoid bursa area with pus in the center and erythema surrounding it.
+
+Lymph nodes: no cervical, supraclavicular, axillary, inguinal lymphadenopathy
+
+Neck: supple; carotid upstroke good w/out bruit; no thyromegaly or tenderness
+
+HEENT: pharynx with nl mucosa w/out exudates; good dental care; conjunctivae noninjected; no scleralicterus; PERRLA; EOMI w/out nystagmus; pupils pinpoint, discs not visualized; hearing significantly reduced; TM nl; sinuses non-tender
+
+Chest: w/out chest wall tenderness; clear P&A w/out rales, rhonchi, or wheeze
+
+Cardiac:  In AF, rate of 80, palpable, PMI laterally displaced, soft S2, S4, 2/6 apical systolic murmur radiating to the left sternal border and to the axilla.
+
+Breast:  No gynecomastia.
+
+Abdomen: nl BS, no hepatomegaly/splenomegaly or mass; no tenderness/G/R;
+
+           abd aorta w/out bruit or palpable enlargement
+
+Extremities:  1+ pretibial edema.  No motion of the left shoulder ulcer as noted above.
+
+Neurologic: A&O; nl affect; nl speech; weakened left arm;
+
+	reflexes symmetric; plantars flexor
+
+Rectal: Copious amounts of blood in the rectal exam, loose sphincter, no prostatic mass.
+
+
+
+
+
+Laboratory data and Old record reviewed extensive records.
+
+
+
+
+
+Impression: Acutely ill gentleman w/
+
+GI Bleed
+
+CHF
+
+Hz L shoulder infection; currently w/ infected ulcer and limited ROM due to rotator tear
+
+DM out of control
+
+Multiple problems as above.  Long discussion with the family regarding previous care.  Acute problem today is massive GI bleed without clear etiology.  History of heart failure with significant weakness, shortness of breath, recent chest pain, nonhealing ulcer on his left shoulder, all requiring emergency hospitalization, and he will be sent to the BARH ER at once.  Long discussion with the family about this and his other chronic problems including diabetes and episodes of hypoglycemia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Plan
+
+Health Maintenance
+
+Diet and exercise counseling
+
+Further evaluation 
+
+Medications
+
+FU
+
+
+
+
+
+______________________________
+
+Ursula Yawn, MD
+
+
+
+
+
+
+
+
+
+
+
+eScription document:7-3720969 HFFocus
+
+
+
+
+
+
+
+DD: 12/05/87
+
+DT: 12/05/87
+
+DV: 12/05/87
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discharged
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hospital discharge summary:  Mr. Moss was admitted to the hospital on Nov 28, 2087 for acute GI bleeding.  On hospital day 1 he underwent a colonoscopy for a possible source of the bleeding and this was unremarkable.  He was diagnosed with a peptic ulcer of the duodenum on H&E stain.  He did not receive any blood, was not given any blood products, and he continued to bleed throughout the admission.
+
+On Dec 1, 2087 he was diagnosed with CHF, based on elevations in cardiac markers.  His heart failure was thought to be exacerbated by the acute bleed.
+
+On Dec 3, 2087 he underwent an emergent laparoscopic hemicolectomy by General Surgery for suspected ischemic bowel disease.  He had an uneventful postoperative course, was discharged on Dec 5, and he was discharged home and was advised to continue on his antacid regimen, which he had been receiving for some time.
+
+His home follow-up instructions were:
+
+-	continue to take all medications as prescribed
+
+-	continue on his diet and exercise program
+
+-	follow up with his primary care provider if any new symptoms develop
+
+-	avoid driving if fatigued
+
+-	if any of his medications stop working, or if any side-effects of his medications become bothersome, see his prescriber.
+
+His medications were reviewed, and the following were noted:
+
+-	aspirin 81 mg PO bid
+
+-	Plavix 75 mg PO bid
+
+-	Prilosec 20 mg PO bid
+
+-	Lisinopril 10 mg PO bid
+
+-	Losartan 50 mg PO bid
+
+-	Norvasc 10 mg PO bid
+
+-	Micardis 20 mg PO bid
+
+-	Synthroid 0.015 mg PO bid
+
+-	Lipitor 40 mg PO bid
+
+-	Nexium 40 mg PO bid
+
+-	Metformin 1000 mg PO bid
+
+-	Glucophage 1000 mg PO bid
+
+-	Hypnotics:
+
+-	Sominex
+
+-	Unidine 100 mg PO PRN
+
+-	Sodium oxybate 4.5 g PO QHS
+
+He had been advised to take his blood pressure medications on time and to monitor his blood pressure daily at home.
+
+He was discharged home with the following instructions:
+
+Dressings are on the body.  The patient will be followed by his primary provider.  He needs to have a home health nurse and/or home health aide to dress changes.  This is necessary to avoid infections.
+
+Patient will have a repeat colonoscopy in 4 years.
+
+Patient has had a significant change in the last week.  His blood pressures have been very elevated and his heart rate elevated as well.  This is not related to his medications, and his medications do not explain his recent weight loss and his change in behavior.  The family has been advised to follow up with his primary provider regarding these findings.  He is not on an antipsychotic, and his behavior changes are not explained by his medications.
+
+The family has also been advised to follow up with his primary provider regarding his elevated blood pressures and changes in behavior.
+
+He is to avoid driving if fatigued, or if his blood pressure is elevated.
+
+Patient may resume driving when he is off all medications.  He has been on medications for 8 years, and it is not uncommon for some side-effects to develop with prolonged use of certain medications.  Patient should notify his primary provider if these occur.  He was advised to see his prescriber for any new symptoms, or if any of his medications stop working, or if any side-effects of his medications become bothersome.
+
+Patient is to continue his diet and exercise program.
+
+Further information:
+
+Mr. Moss had not seen his primary care provider since May 12, 2084.  He was not seen regularly by his primary care provider because he would not keep appointments.  Mr. Moss has a history of being non-compliant and refusing to follow his prescriber's recommendations.
+
+He also has a history of not following up with his primary care provider and/or specialists.
+
+He has been on his current medications for 8 years.  He has also recently been admitted to the local hospital for a bleed on 11/28/87.  Mr. Moss was diagnosed with ischemic bowel disease based on elevation of cardiac biomarkers and was diagnosed with congestive heart failure based on elevations of cardiac biomarkers.
+
+Hospital records from BARH and from the hospital discharge summary state:
+
+He is on a number of medications for his cardiac and renal diseases.  He has a history of not adhering or following the recommendations of his prescribing providers.
+
+The patient's history is not entirely clear.  He has a recent bleed for which he has received no blood. He has had a laparoscopic procedure for suspected bleeding and is now on his discharge home.
+
+He has had an extensive history of cardiac problems and his current condition is not explained by his previous history.
+
+We have been unable to obtain information about the patient's home care.
+
+Patient's blood pressure has been extremely elevated and this is not explained by medications.  He will need follow-up with his primary care provider and a specialist.
+
+Mr. Moss has a history of diabetes and has a history of being non-compliant with treatment and not following his prescriber's recommendations about treatment.  His recent blood glucose levels are not available.
+
+Mr. Moss has not seen his primary care provider regularly for at least the last 6 years.  It is unclear to whom the patient is referred when he has problems and needs to be seen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Patient has a family member living at home who may be able to assist.
+
+
+House is accessible by wheelchair.
+
+Floor level
+
+
+
+
+Patient will need assistance with ambulation and transfers.
+
+Patient will need assistance in getting up out of bed and into wheelchair.
+
+Patient has a home health nurse who will be assisting in caring for him at home, but will not be available for more than 4 hours/day.
+
+Patient does not have a primary care provider
+
+Patient has been seen by his primary care provider and was told to follow up in 4 weeks.
+
+Patient has a history of being non-compliant with treatment and not following his prescriber's recommendations about his treatment.
+
+Further follow-up:  See his primary care provider if any of his medications stop working, or if any side-effects of his medications become bothersome.
+
+Patient has a history of not following up with his providers about any concerns he may have about medication side-effects or concerns about medication not working, or if there have been any significant changes in his health.

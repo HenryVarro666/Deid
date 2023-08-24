@@ -1,0 +1,133 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2079-10-02
+
+
+71F w/ multiple medical problems, including dCHF, restrictive lung disease, severe polyarthritis returns to clinic doing significantly better for the most part.
+
+Regarding her shortness of breath, she undewent a stress test which was completely wnl. She has also lost some weight (intentional) and states that, although she still gets short of breath with exertion, it is noticeably better.  She is being followed by the pulmonary department and is under consideration for a cardiopulmonary exercise test.
+
+For her cough, the nexium has helped a lot and she likely has sig reflux despite the negative esophagram. The weight loss is probably helping with the gerd as well.
+
+Regarding her arthritis, he L shoulder pain is much improved with PT.  Her biggest complaint at the moment, though, is her low back pain. She was seen in pain clinic for two injections. She states that the injections may have helped for 1-2 days but then the pain returned. She says this is her most limiting symptom. She is begging for narcotics.
+
+Lastly, she has clear stress urinary incontinence, was cleared for a TOT sling but has now decided to push this procedure off until next spring.
+
+
+Problems
+Hypertension 
+Elevated cholesterol 
+Cervical polyp 
+endometrial polyp 
+osteoarthritis 
+Sleep apnea 
+diastolic heart failure 
+Restrictive pulmonary disease 
+Diabetes mellitus type 2 
+
+Medications
+Caltrate and D 2 TABS PO qd , keep md appt for 11/15/77
+Zantac (RANITIDINE HCL) 150MG TABLET take 1 Tablet(s) PO BID , keep md appt for oct 12
+Percocet (OXYCODONE+APAP) 325-5 TABLET take 1 Tablet(s) PO TID x 30 days
+Ativan (LORAZEPAM) 1 MG (1MG TABLET take 1) PO QHS 
+Naproxen 375 MG (375MG TABLET take 1) PO BID x 30 days
+Miralax (POLYETHYLENE GLYCOL ) 17 GM PO QD x 7 days, Each 17 GM dose to be dissolved in 8 oz of water
+Estrace (ESTRADIOL) 1 GM (0.01% CREAM/APPL ) PV BIW 
+Nexium (ESOMEPRAZOLE) 40 MG (40MG CAPSULE DR take 1) PO bid x 30 days
+Lasix (FUROSEMIDE) 20 MG (20MG TABLET take 1) PO QD x 30 days
+Hydrochlorothiazide 25 MG (25MG TABLET take 1) PO QD 
+Levothyroxine SODIUM 100MCG TABLET PO QD 
+Colace (DOCUSATE SODIUM) 100MG TABLET take 1 Tablet(s) PO TID x 30 days, keep md appt oct 12 2077 for more refills
+Loratadine 10 MG (10MG TABLET take 1) PO QD 
+Neurontin (GABAPENTIN) 300 MG (300MG CAPSULE take 1) PO TID x 30 days, generic ok; keep md appt for 11/15/77
+Fosamax (ALENDRONATE) 70 MG (70MG TABLET take 1) PO QWEEK 
+Diovan (VALSARTAN) 160 MG (160MG TABLET take 1) PO QD 
+Plavix (CLOPIDOGREL) 75 MG (75MG TABLET take 1) PO QD 
+Metformin Variable (500MG/5ML SOLUTION take 1 ML) PO 
+Calcium + D (500 ELEM. CA) (CALCIUM CARBONATE 1250 MG (500MG ELEM CA)/ VIT D 200 IU)) 2 TAB (500MG-200 TABLET ) PO Q12H x 30 days
+Senna TABLETS (SENNOSIDES) 2 TAB (187MG TABLET ) PO BID x 30 days
+Lipitor (ATORVASTATIN) 10 MG PO QD 
+Carvedilol 6.25 MG (6.25MG TABLET take 1) PO BID 
+Oxycodone 5 MG (5MG TABLET take 1) PO q12h PRN pain 
+
+Allergies
+Penicillins - rash, 
+Gadolinium Chelates - Itching, Hives, Bronchospasm or Wheezing : 8/03/76 Patient developed a moderate ( grade II) reaction to Gadolinuim. Based on this even, recommendations for future studies include pre-treatment with corticosteroids followed by Gadolinium chealtes. 
+
+PE:
+BP 138/76, P 67, Wt 199 lb (from 214) FINGER BLOOD GLUCOSE 104 
+JVP flat, lungs clear w/ scant crackles
+rrr s1 s2
+abd obese, nt/nd/ +BS
+No edema
+
+
+A/P: 71F w/ MMPs including CAD w/ recent normal MIBI, diastolic CHF, restrictive lung disease, osteoarthritis returns to clinic doing somewhat better than before.
+
+1)CV: Pt has diastolic CHF, w/ vol status cont to be improved on exam w/ almost no le edema on lasix (minimal hjr). She still c/o doe but even this is much improved. Etiology is likely multifactorial (restrictive lung, diastolic chf, obesity/OSA/deconditioning). Recent echo w/ EF 65% and DD. Recent MIBI wnl--no ischemia. BP well controlled and HR 60s. Cont to eat salt.  
+-cont diovan 160, hctz 25, lasix 20, carvedilol, plavix (per family doc), lipitor.
+-Close monitoring of electrolytes. Re-check today.
+-low fat, low Na diet
+-Check lytes, LFTs today.
+-F/U with cardiology in clinic
+
+2)Pulm: Shortness of breath likely multifactorial.  Recent PFTs reveal presence of restrictive lung disease with impaired diffusion. However, effort was sub-optimal and patient volume overloaded.  Also w/ significant obesity. Pt had recent sleep study confirming OSA. CT chest w/ non-specific findings and an "indeterminate" nodule.
+-Am not opposed to cardiopulmonary testing per pulmonary, though sxs are slowly improving.
+-Pt would like to discuss w/ pulm re: CPAP for her OSA. Will hold off setting up cpap titration until then.
+-Repeat CT chest regarding pulm nodule--likely benign
+-F/u in pulm dept
+
+3)Endocrine: Pt w/ recently diagnosed diabetes w/ hba1c about 6.8. FS log reveals good AM glycemic control. Also w/ a hx of hypothyroidism.  Feeling cold recently, needs more test strips.
+-Cont metfromin to 1000/500.
+-Check Hba1c at next visit.
+-Cont Home glucometer. Refills given.
+-Re-check TSH today.
+-Re-emphasized need for continued weight loss and congratulated patient on recent efforts.
+
+4)OB/GYN: Hx of thickened endometrial stripe, but normal endometrial bipsy. Also hx of atrophic vaginitis prescribed topical estrogen cream. Not currently sexually active. Also w/ urinary incontinence, needs a TOT sling but pushing this off for now.
+-cont topical estradiol
+-f/u in ob/gyn regarding sling in future.
+
+5)GI: Patient c/o sensation of fullness in throat, occasional dysphagia w/ regurgitation now improved on increased dose of nexium. Barium swallow wnl. Has abd scar w/ mild drainage tract. Per surgery, correction only needed for cosmetic purposes. +gallstones on CT.
+-Cont nexium BID
+-weight loss
+
+6)MSK: Has degenerative disk disease, arthritis s/p lumbar fusion. Also w/ R and L glenohumeral OA, b/l knee OA s/p knee replacements. Recently dxd carpal tunnel b/l s/p tunnel release. Recent lumbar injection w/ only transient pain relief. Requesting oxycodone.
+-Cont ibuprofen for pain.
+-Will prescribe oxycodone 5mg BID prn pain. Pt informed that I am still hoping that this be temporary. However, may need chronic narcotics if cant get relief from pain clinic.
+-f/u in pain clinic for repeat injection/eval.
+-F/u with Dr Ferrara in ortho clinic
+
+7)Health:
+- mammogram on 7/16/79 wnl.
+-Will need repeat colonoscopy in 2.5 years 2/2 polyp/small adenoma at old colonoscopy.
+-Desperately needs to cont to lose weight. Nutrition f/u.
+-RTC to see me in two months.
+
+
+
+
+_____________________________________________
+Erik D. Raines, M.D.
+
+
+
+
+
+
+name codes. Anym, and, 1, and/name. The:
+...: 
+1: 2, and: the names: you (11:1: the...and (0, and: 1…1... are the [1...…:
+[...…: and 1 or, [...] or: [...]: 
+are the (name (
+the, the…, and: and, as the or the and (1 or and the... the or, 0: the, butify the [1...
+The and a... (the and a … the [… are the...
+
+
+[...
+, 1 (… (
+The and, and, the or and (...and... (and, and, 2, or, as 6 or, 0... (and, and (2 and a......,, and, the, and 1 are the and are and... 1 and and are (and, are and 4, and, and, a, and, 1, (
+: the (
+, and your: the (make the 1 with the.... [pat... 1 1 "le 0 and 10 are a are 1 are (2... 1 are, of a-1 and or or [and of an… (d (and, an, 1, [pat. of the of the and and ority of ( (an 1 and an, 6, are,, are (con an are an are or-an  and an, an and an " (and " (make  an (and, an, 1, and, an and, an, anity and [, and an of 5, (an, an, or, and (an, (an  of it,  an, an, an, c, or an, and, " an, the - an of,. and, the, and,  an., an,, and,, and ((an "an (an, 1 of the: and of: an " (... and [0 (:: “1: (1 or:: an and ( and  (:: -the an and an an and (an: an- an-and or an. " an and ( an of the an are " are an in " or ( an cine are or [ an of a or an and, in and,, an, in (, and, or "  and and an ( ( an and, are the, or [, and an in [ ( ( c or (, or or an an an, an an, an,  an, - an and, an an, an - an an-  ( and of or,  of an, an of and of ( of an, an- an of an,. and and an - or, and, an of  of of the an of an of the of an  an, [ and, and  in,,, of, an of an an  an  or, " and an, an, and an an an an or an of, ( ( and of  of the, an, of and of the, and  and or and, an an  and, an ( or and  (, or or  or or, w ( c,, an- an,  ( (, for for for,, and, ( or for for for the, for for for for for an, for and and for the (,, for for or, for for ( and and, and or (, (, - and in  ( ( an an and (,,, of an of, of of,,, of the.,.  and,, ( w, [, and,,, and, an ( -  of and and -  and and c and and c,  c,  - or of  ( and,  ( c and,,,, ( (, an c or,,  ( or, -, and, or  or (,, and, and ( and an and  ( ( ( and, ( ( ( C and (,,  ( w   (, and, ( ( ( c  ",  "  - C, that and c: : to: C ( (  c (-  or  and, and " and for C C for-  of the. and  ( (, ", " c, and and, and ( [  and of the and of or  (  for- or  ( and, that., and that,,, and ( or of of their of or of of (,. to [,,, and and,.  or and,,,,, (, and or in,, for and and  and,,, or, C [ C and, and,,,, [ and of, C, and or and and, and, C- and and, and, or.  of  of, 2,  and. w or and ( C   [ -,,, ( and, or,  and  and to, c and,, C and,, C, and, ( and and,, ( ( and. and T,,, , and and  C  c in,,,, t and,,, and,  (,, and, and, ( for and for, for,,,,, or,,,,, (,,,, T,. (,.,,,,. (, and, or, ( (  of of -  of,,  ( m-m. [, ( and, T,, [ (,,,, T, T [ and,,, C and (,,,, and, C, C ( C, and or,  for and and,  G G and  and M M M C C ( c- and and,, ( and C,, and,, ( ( for for,, for [ C for, ( and for T for " for for for for [ (0 for T T P and ( M C and, and (, M and,, ( to [ C, and, and,,, and, (,,, and, ( m c  and,, C-M,, C, ( C M and ( of M M, C- and M M for M M. and,, and m M, C (1. ( and   M M,. and or, and (, ( M,,. C, t and  T M ( and M, M. M ", C, M C, M and M, (, to

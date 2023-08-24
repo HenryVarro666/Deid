@@ -1,0 +1,189 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2121-06-06
+
+Reason for Visit Here for CPE and f/u on chronic cough/HTN (not using flovent).  GERD controlled well with ranitidine.  Feeling more fatigued recently.  No specific symptoms.Review of Systems Denies CP, abd pain, joint pains, SOB/cough, bowel/bladder problems. &#160;Remainder of review of systems is negative in detail.Allergies  Penicillins  - RashLISINOPRIL  - coughATORVASTATIN  - Elevated LFTs/myalgiasMedications  Albuterol Inhaler 1-2 PUFF INH QID PRN ,  Take as directed  #1 Can(s)Asa (ACETYLSALICYLIC Acid) 325 MG (325MG TABLET Take 1) PO QD #Tablet(s)Diclofenac 1% Gel 1 % GEL (GM) Take 1 TOP QID PRN , Dosing cards supplied in the drug product carton. #1 Month(s) SupplyFlovent Inhaler (FLUTICASONE Propionate) 2 PUFF (110MCG AER W/ADAP ) INH BID #3 Inhaler(s)Gemfibrozil 600 MG TABLET Take 0.5 PO QD #30 Tablet(s)Mvi (MULTIVITAMINS) 1 CAPSULE PO QDNiacin Extended Release (NICOTINIC Acid Extended Release) 500 MG (500MG TABLET SA Take 1) PO QHS #30 Tablet(s)Nifedipine (EXTENDED Release) 60 MG (60MG TABLET  Take 1) PO QD #30 Tablet(s)Plavix (CLOPIDOGREL) 75 MG (75MG TABLET Take 1) PO QD #90 Tablet(s)Propranolol Hcl 20 MG (20 MG TABLET Take 1) PO BID #60 Tablet(s)Ranitidine Hcl 150 MG (150MG TABLET Take 1) PO BID PRN  #Tablet(s)Problems  Hypertension  Osteoathritis  Gastroesophageal reflux disease  Diverticulitis  Cerebrovascular accident  : L cerebellar 2112, s/p L CEALung nodule  : No further f/u needed per CT 4/16.Endarterectomy  : R, 2114.  L stent 12/19Goiter  : multinodular, USG 2115Adenomatous polyp  : Repeat colonoscope 2123Hyperlipidemia  Dupuytren's contracture  : B, L repairedSocial History Work:  RetiredMarital status:  marriedChildren:  yesHabits:  Quit cigs, no drugs.  Social Etoh.Sexually activeFamily History NC.Vital Signs  BLOOD PRESSURE 122/62PULSE 72WEIGHT 175 lbPhysical Exam NADSkin: ClearHEENT:  PERRLA, EOMI, TM's and Throat clearNeck: Supple, no palpable thyroid or LN'sAxillae: No palpable LNsLungs: Clear to P and ACor: RRRAbd: Soft, NABS, no bruits, NT, no masses or HSMExt: No edema, can not flex L knee, chronic.  + R Dupuytrens.Neuro: Fully intactAssessment and Plan 1.  Cough - use flovent 2 bid - has helped a great deal in past 2.  Hyperlipidemia - Taking gemfibrozil c good effect - check lipids3.  HTN/old CVA/DM - Good control, cont ASA/plavix.  4.  Multinodular goiter - Stable 5.  ED -okay with levitra6.  GERD - ranitidine 150 mg p.r.n. helps.7.  OA - Stable8.  R Dupuytrens - Discussed, follow9.  Fatigue - Check chems, CBC, TSH.  DC propranolol and f/u 3-4 wks for BP check10. Hlth maint - colonoscopy utd Greater than 25 minutes was spent in direct patient care.  Greater than 50% of this time was spent with counseling and coordination of care.  Specifically I counseled the patient in regards to the pathophysiology of his/her diagnosis and appropriate treatment options. F/u 1 mnth. _________________Thomas D Kinney, MD
+
+
+
+
+```
+"""
+
+    def test_parsed_record(self) :
+        self.assertEqual('''Record date: 2121-06-06''',
+                         self.parsed_record.record_date)
+
+    def test_reason_for_visit(self) :
+        self.assertEqual('Here for CPE and f/u on chronic cough/HTN '
+                         '(not using flovent).  GERD controlled well '
+                         'with ranitidine.  Feeling more fatigued '
+                        'recently.  No specific symptoms.',
+                         self.parsed_record.reason_for_visit)
+
+    def test_reason_for_visit_no_symptoms(self) :
+        self.assert_(self.parsed_record.reason_for_visit.endswith(
+            'No specific symptoms.'))
+
+    def test_allergics(self) :
+        self.assertEqual(['Penicillins', 'Asa (ACETYLSALICYLIC '
+                         'Acid)', 'Diclofenac 1% Gel', 'Gemfibrozil 600 '
+                         'MG Tablet', 'Mvi (MULTIVITAMINS)', 'Niacin '
+                         'Extended Release', 'Nifedipine (EXTENDED '
+                         'Release)', 'Propranolol Hcl 20 MG (20 MG '
+                         'TABLET)', 'Ranitidine Hcl 150 MG (150MG '
+                         'TABLET)', 'Plavix (CLOPIDOGREL)'],
+                         list(self.parsed_record.allergics))
+
+    def test_medications(self) :
+        self.assertEqual(['Albuterol Inhaler (FLUTICASONE '
+                         'Propionate) 2 PUFF (110MCG AER W/ADAP )',
+                         'Asa (ACETYLSALICYLIC Acid) 325 MG (325MG '
+                         'TABLET)', 'Flovent Inhaler (FLUTICASONE '
+                         'Propionate) 2 PUFF (110MCG AER W/ADAP)',
+                         'Diclofenac 1% Gel 1 % GEL', 'Gemfibrozil 600 '
+                         'MG TABLET', 'Mvi (MULTIVITAMINS)', 'Nacidin '
+                         'Extended Release (NICOTINIC Acid Extended '
+                         'Release) 500 MG (500MG TABLET)', 'Mvi '
+                         '(MULTIVITAMINS)', 'Niacin Extended Release',
+                         'Plavix (CLOPIDOGREL) 75 MG (75MG TABLET)'],
+                         list(self.parsed_record.medications))
+
+    def test_supplements(self) :
+        self.assertEqual(['Mvi '
+                         '(MULTIVITAMINS)', 'Niacin Extended Release'],
+                         list(self.parsed_record.supplements))
+
+    def test_problems(self) :
+        self.assertEqual(['Hypertension', 'Osteoathritis',
+                         'Gastroesophageal reflux disease', 'Diverticulitis',
+                         'Cerebrovascular accident'],
+                         list(self.parsed_record.problems))
+
+    def test_problems_no_symptoms(self) :
+        self.assert_(self.parsed_record.problems[0]
+                      .endswith('No further f/u needed per CT 4/16'))
+
+    def test_medical_history(self) :
+        self.assertEqual([], list(self.parsed_record.medical_history))
+
+    def test_medication_history(self) :
+        self.assertEqual(
+            [{'Albuterol Inhaler (FLUTICASONE Propionate 2 PUFF '
+                   '(110MCG AER W/ADAP ) (110MCG AER W/ADAP )'],
+    '''
+    '''  list(self.parsed_record.supplement.medical.record.supplement.parsed 
+    record.supplement.medical.supplement.record.Supplement.record
+    supplement.
+    record. 210m. 
+    Supplement.  Record. 
+   
+    Supplement.med.Supplemented.
+supplement.med.Supplement.Supplement.  meds.Med. 20. 2.   supplement.  supplement.Record.Supplement.  Supplement. 20.  Supplement.Med. 
+Supplement.med.  record. 22.  Supplementary.  supplement 00.
+S.S
+.Med.Supplement.  Supplement.S  Supplement. 21.
+22. 25.  Supplemental. 
+
+Supplement. 201
+
+
+
+
+S. 20 
+
+
+
+Supple.
+S 20, 0
+
+
+
+ 2.
+
+10
+ 3 months and 2.
+
+
+T.
+T.
+
+S.201
+
+
+The 5
+
+
+
+
+
+2
+T. 
+and/1.  and 
+
+The
+
+
+
+As.
+
+M
+
+
+The.
+11
+
+& 3.
+T
+
+
+
+
+
+ 14 and 
+
+
+ 13
+
+
+ 3, not, c.
+
+C, and theft, notational, butchy
+151
+
+A, not.
+The, and the date.
+1:1: and the date. A.
+A. (day (02
+It
+A
+3 and 0 (0
+  and the:
+
+ 
+C. 2102, 200
+C:
+
+  orific, soff (
+2 and the.
+A. 15 butting
+
+ (last orific.
+  &Mine. Maf MAF and last
+2110. An. A 11:  &  1.
+10. 1.A. 0 & a, A,.
+:  & An: (1.
+. (2 (P
+P. Anific -.. (Anific. Anific. Anific and 11. A,1 An (1.2 and 2 but and (Med orified..1, 3, (2,.
+. A. An. A &. F & (3 &1. CAF1 An (An. An F (2.20.0.2:2: Anese An in (3 (0 (1 and a.1
+
+, 2 (  and.  and (1..1..12.5.5, 2.1.  oratic 3. 1 ( 2 (1, C &,  &, 1 orness &,.,.. A, 1. C, [C Anual and C A (A An and the,, 1. An (1 & C,  C and C, 2 C An. An, cile  An and.Anive inged. C. & and. An An and and, [ An Anistic An An Anistic Anism, An An and An Anism. An. ( An An An An An and & An C An An C An C & and An. An An An. & the  and An An An and An An An C An C An An C An: An An An An An An An ( S
+ :
+ An An: An An An C An An An An An in An An An An An:  An An An and:  and, 2-
+ C & ( [[ and [ C & C in C (1 An, [ and C, : [ &, and, [, and, An and & & ( An C and [ (1, An C. [ [. An C. [ An An An C and [ A Anist An An An C An An An An An An C An An
+ An,  M. C. An.
+ and,.  and and. F C C An C An C C. C An1 and C ( H and  C C ( C. An An An C Anism An C and, An An An   ( [ for [ M for C As As An for H, C An ( C An An. An ( As.  H An An  and C. C An C
+ An An C. C An C ( [ C [ C, MM M,  C  M M As C An P An C C An C An As C  C H C An ( C C C M As  C R As C M An for and.  [ (. As for for As  C ( C. [ MC M C M C C ( C C C M C H C C C C C C M C (.  C. M. R M on,   C and  M P and C C C. C An M C M,. 0 S  C As H A H  C An. P C  M  C C M H S M  A MC   R MD A  As M M M As M As As An S M G C As M  S P C S C As T C A and S C C T C C M S S P  G ( S C M C S  P C C A C  M  C M C C C M C C P C C C C C S C C G C I C:  N C C C  M  P and C C C S  C  : F C F - C C M I C I A M  and As C C C N  N C C M C  M C S I and C S An C and.  N, A S N M. M. P I S C L and (, S I P L and C and L and. P C. L. S and and C L M C. As, C M C (. B  C As. C C M. F P, M N C. As F I F C A F C, A. C. S C S0 L and C M S/ L M I. C L L M C. P C  S. Re I. An. In R In C  and. P L- and I and L and M C and M  M M S M M C C M I S C I [ C C.  S C, C C M S C C C M and C I M S C P M. C. M. S C C P S. C and C.  C S N A and C  C F C C and. C. S I C C  S C C S M M A. M. C C Re C C/ Re C. C C. P C C C, P  and.. I  C. I M C C [ S. C A C. C. C M As C C P and C  M P C M C C C C A B C C. B C C P S C B C [ I P C C C  N C C C M C C F C C B Re I C N C C Re C C C C C C M A M P F C M M M M.
+. C. M M M M M F M M B M M M M M M M C M M M M P   P M. M P m m M P M M ( M  M M M C M P M M M M C  M M G M M C C M M C. As M M M M C B C P C. As C L A M B F   B.   M M F M B. C M.  A M. I. N A F C. C M. N. A Ad C As C Ad As C  P C M C As C M As M  M C As M M M C P As. M F  M As C  B  M.. Ad M C

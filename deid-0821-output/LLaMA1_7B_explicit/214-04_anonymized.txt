@@ -1,0 +1,492 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2096-11-18
+
+
+
+
+
+Spanish
+71 Dan Chan                                        OSWALDO AUSTIN, HENRY
+Angels City, NH 31731                                      64415974
+(729) 481-3539                                           11/18/96
+
+
+
+
+HISTORY OF PRESENT ILLNESS: 
+
+
+Mr. Austin is a 78 year old Ecuadorian gentleman with known Diabetes and history of cerebellar CVA who returns to the practice three months after undergoing CABG for multiple vessel disease. His recovery was been uneventful, he has had no further angin and inspite rather severe anemia he has noted marked improvement in exercise tolerance. Appetite is better. No PND orthopnea or ankle edema. There is mild chest soreness on the right side.  There was aignificant decline in Hct in spite of the fact that he received 2 transfusions in the hospital and he is on iron.  Mr. Oswaldo has appointmernt with Dr. Jean in the near future. 
+  
+Mr. Oswaldo has  Type II diabetes well controlled on oral hypoglycemics HGBHA1C on 8/17 = 6.4.
+h/o CVA in 2090 which resulted in right hemiparesis (now fully resolved) .  
+
+
+Medications
+Aspirin ENTERIC COATED 325 MG PO QD 
+Ferrous SULFATE 325 MG (325(65)MG TABLET Take 1) PO as directed , Un dia si y un dia no #30 Tablet(s)
+Metformin 1000 MG (1000MG TABLET Take 1) PO BID #180 Tablet(s)
+Metoprolol SUCCINATE EXTENDED RELEASE 100 MG (100MG TAB.SR 24H Take 1) PO QD #30 TAB.SR
+Nitroglycerin 1/200 (0.3 MG) 1 TAB (0.3MG TAB SUBL ) SL Q2H PRN #30 Tablet(s)
+Zocor (SIMVASTATIN) 40 MG (40MG TABLET Take 1) PO QPM #30 Tablet(s)
+
+
+Vital Signs
+BP 121/63, P 80, Wt 137 lb
+
+
+
+
+GEN: well-appearing but pale and thin elderly gentleman. Fragile but not in pain
+HEENT:  PERRLA
+CARD: Healed CABG scar. Tender to pressure nl S1, S2. No m/r/g.  Lungs clear to auscultation. 
+EXT: WWP. Healed  incisions on medialaspect of RLE where veins were harvested. THere is an echymoses about 2 cm in diameter on the shaft of the pennis. No other bleeding, possibly result of trauma when pulling up his pants.  Pedal pulses 2+ bilaterally. No evidence of foot ulcers or calluses
+, multiple varicose veins. Hommans negative
+
+
+
+
+ASSESSMENT AND PLAN:  
+A 78-year-old gentleman with a history of adult-onset diabetes and CVA  post CABG. Remarkable recovery ; weight has not increased but anemia has improved. Prior to surgery he had mild anemia which was macrocytic. Will check Fe, B12,  FA ,CBC and HGBA1C before next visit in 1 month. Encouraged gentle ambulation. He will see Dr.Jean in 3 weeks.  Encouraged to call if any new symptoms or echymosis and told him to eat what he likes for time being except sugar and sweets. Return in one month or prn
+
+
+
+______________________________
+Harry Bernard-Moyer, M.D.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Harry Bernard-Moyer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Record date:  11/5/96
+Spanish
+
+
+
+Spanish
+71 Dan Chan                                        OSWALDO AUSTIN, HENRY
+Angels City, NH 31731                                      64415974
+(729) 481-3539                                           11/5/96
+
+
+
+
+HISTORY OF PRESENT ILLNESS: 
+
+
+Mr. Austin is a 78 year old Ecuadorian gentleman with known Diabetes and history of cerebellar CVA who returns to the practice three months after undergoing CABG for multiple vessel disease. His recovery was been uneventful, he has had no further angin and inspite rather severe anemia he has noted marked improvement in exercise tolerance. Appetite is better. No PND orthopnea or ankle edema. There is mild chest soreness on the right side.  There was aignificant decline in Hct in spite of the fact that he received 2 transfusions in the hospital and he is on iron.  Mr. Oswaldo has appointmernt with Dr. Jean in the near future.  Mr. Oswaldo has  Type II diabetes well controlled on oral hypoglycemics HGBHA1C on 8/17 = 6.4.
+h/o CVA in 2090 which resulted in right hemiparesis (now fully resolved).  
+
+
+Medications
+Aspirin ENTERIC COATED 325 MG PO QD 
+Ferrous Sulfate 325 MG (325(65) MG TABLET Take 1) PO as directed, Un dia si y un dia no #30 Tablet(s)
+Metformin 1000 MG (1000MG TABLET Take 1) PO BID #180 Tablet(s)
+Metoprolol Succinate Extended Release 100 MG (100MG TAB.SR 24H Take 1) PO QD #30 TAB.SR
+Nitroglycerin 1/200 (0.3 MG) 1 TAB (0.3MG TAB SUBL ) SL Q2H PRN #30 Tablet(s)
+Zocor (SIMVASTATIN) 40 MG (40MG TABLET Take 1) PO QPM #30 Tablet(s)
+
+
+Vital Signs
+BP 113/65, P 81, Wt 135 lb
+
+
+
+
+GEN: well-appearing but pale and thin elderly gentleman. Fragile but not in pain
+HEENT: PERRLA
+CARD: Healed CABG scar. Tender to pressure nl S1, S2. No m/r/g.  Lungs clear to auscultation. 
+
+EXT: WWP. Healed incisions on medialaspect of RLE where veins were harvested. THere is an echymoses about 2 cm in diameter on the shaft of the pennis. No other bleeding, possibly result of trauma when pulling up his pants.  pedal pulses 2+ bilateralliterals in the following: 
+BP and 1+2+2+3 pulses 4+5+6+7pulsafter+7+3pulsafter+8+8+15+3 punction+4+21+4 puls+6+858 995+9998+1969+397919997
+
+
+pump codes, pump +p+12+pump+3 pump181p+22+12+1pul3+18, 39, 4+1+998+1+75+29911+p+12+2+19191+1+1+11, 430111233, or a1929, or113+112,1011 patient names and patient identified names.
+
++ names, names +, names of the patient names the names.
+1. 1+name. 12012+10, or 
+
+
+[1.
+names
+names.
+names of [let codes. the patient names, or name or names (name or 1, 11...the patient. 0 indicate and identification of the patient...
+(10 and names
+
+name 1 or name codes, names, and names, the patient, and the letter and names
+11 and 42, and names, name or...
+A, but a, 9, and names or 1.
+or the letter, and 
+14, 
+names and the names that words of a, and the words and any, and: 
+
+pat:
+
+[1, 1stivian:
+11-name or: “…theically:
+... [are the [......
+...…[ 3 are or are [1 and the [[ 1... 
+names are, and the:... or, remove or, the... and, butary. 2... or, the: 0, the 0 and...make, 1...1 (1 or, a:1, the [1 and the [are 1-are, the name,... 5. 1: orific... or, and "
+in or 1, and the (the, the…, the, the 2, the, or, the, and the...1, and, and the and... 
+(and, are or. or  and, 6, and a, and the and, and, and, or the, and and 0, and, the [20:: [2...
+
+with:... 11-an: and and (an " and......
+ 1...
+ are 3... "
+anise are, a (1 of the
+
+ or, [1
+, 1 and the [an,
+. and, and. [of the, 9, 1, 1, the, (le (1-con, an, and 9 1 or and and-1, an, an and, the-1, an, an, anise, an  an, 0 and of... an... 1 and the... the-an an and an an an an an,  and an and and, "an, an and, an (  an-and, an, the, the, a, an, “an ( an, 2, and, 3 (P-an, an an anine, (P with an or-and, (: an, (1 and:: and: and-0, [an of the-le-1-0, - (:: an: an-  and in: an: " (1-d an:  an an-and an-an of: an: an-an an are- -an are-an-in- an-the- of the  of the [ an an. in the an-an-  or-an, [An An and, or, an- [ are [ and- ( and- ( an- or- an "  are an or [ ( or ( ( ( [ and - an or -  or an - an an- or " - an an- ( or an of the  of  and or or or of the,-  or, and and ( an,- ( an-le ( of  " C of the- or of the and, - are, or -An in- are- an-an an an of or or or an- an or or an- (, an (, in in, an of ",, an of  an of the and  an in- an or- and, an and an- and or and-1 or- " - an an an- or-an ( an or in- an-0 an in- an-  or an of, an or of and or (,  an, and and. in-, and,  an or or, and an of or or for, An or ( or, an for a an an-1-C-  an  are are and of the,  of the an or of of of the..  ( an-and of an and and an and and an and  and- an an and ( and   An An An An An C in in an c and,- -2  and-1-  and  ( and, 2-an, and-an-C-  an an or -   (-1- or an - an c  ( in and c m for and and, in ( (-1 of  and-1- -2- (, c- and and or-C P-C (- C- a c an (- c.- " and- and-1-C C- C- or and in- an an-  C- and in- or in c-1- and-C  and in- or of " ( and  or of or or- and or or and or  or, or in.  and and, in C of C of  of, of and of, of- of- and and ( or in and ( and an- and and,,  (, - and,. or or in in or ( and in  or in in and and ( H and,- H A ( of and of c of a-   an- and C ( ( C H.-  and  in- and or and of an of or- -  an- and (,. C and and-  an an- and  ( an- C and H or- H- H (  and and..  and,- and, a and and  and,- and (, and and ( and ( ( M,  in  and m  m m (- (, c ( and- M and or, ( or,  or-  (,,,,, and, (,  and or in,, -m-,  ( ( in,,, P,,- and  and- of- / or in - or- C C- C- ( and (- (,,-,,,,,,-,,,,- C (-. (-t- ( (- - and (,- P/ ( - C-n-  and-  w and-n- - A C and- P C C C and, [- C (  and-  P C in,, or in and.- H in-1 - ( m- M- m-1- C  and ( C and (,   and ( or (, and,, and and in c/  and- and-,.  ( and ( C ( H and m, C and, and  M- H. H A C,  c and and, of of,  and,, and of c, and m  m- P (, C ( and- C, of C of  of and- m of ( M   ( C C C of- C- M. P- A of,.- and.,- C,

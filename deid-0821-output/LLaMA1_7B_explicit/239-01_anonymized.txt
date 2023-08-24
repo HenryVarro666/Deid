@@ -1,0 +1,331 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2066-11-14
+
+
+
+Chief Complaint
+
+Dyspnea and exertional chest discomfort 
+
+
+
+History of Present Illness
+
+Patient is a 59-year-old Chadian gentleman with multiple medical problems including DM and HTN and ESRF, recently started on hemodialysis who is admitted for right and left heart cath prior to MVR/CABG/MAZE.
+
+Pt presented 1 year ago  with complaints of increased abd girth, lower ext edema, and worsening DOE. Cardiac ultrasound at that time revealed severe mitral regurgitation secondary to diffuse ventricular dilation and papillary muscle displacement with ejection fraction   36%.  He denied CP, PND and orthopnea at the time and adenoMibi  showed inferior  thinning which might be consistent with a prior (silent) IMI without  evidence of ongoing ischemia.   He refused further work-up or intervention until recently. He presents now for cath and surgery.  
+
+   
+
+
+
+Review of Systems
+
+	
+
+As in HPI, additionally;
+
+
+
+- General: no weight loss/gain
+
+- ID: no fever chills
+
+- Derm:  no rash pruritus
+
+- Gastrointestinal: no nausea dysphagia vomiting dyspesia
+
+- Respiratory:no dysnpnea wheezing 
+
+- Neuorologic: no weakness numbness/tingling seizures     syncope
+
+- Hematologic: no excessive bruising, bleeding
+
+- MSK no joint pain swelling
+
+
+
+Problems
+
+      Neuropathy
+
+      Nephropathy    : cr. 2.6. 3.3 gm proteinuria
+
+Hemodialysis for the past 2 months.  Mature L fistula. problems with fistula last week
+
+      Hyperlipidemia
+
+      Hypertension
+
+Previously reasonably controlled on meds.  Greatly Improved after start of dialysis
+
+      Obesity
+
+      Diabetes mellitus    : type 2
+
+      Noncompliance    : poor compliance
+
+repeated noncompliance, frequently, but not always, due to financial constraints and language barrier 
+
+      Basal cell carcinoma    : carcinoma of skin  left cheek
+
+      Lower extremity ulcer    : DIABETIC FOOT ULCER. L Foot
+
+      Abscess    : Rt shin 2062
+
+Back: 11/64. S/P I&D
+
+
+
+      Mitral valve insufficiency    : severe, with cardiomyopathy and EF 36%
+
+      Colonic polyps    : tubulovillious adenoma 11/65. Needs repeat scope 11/66
+
+
+
+Social History
+
+Married with 2 daughters. Lives in De Soto and assists in care of his grandchildren.  He has been unable to work due to his chronic medical conditions and is exceptionally limited financially.  He worked (his wife works) in visual art.
+
+
+
+Medications
+
+      Aspirin Buffered   325MG TABLET take 1 Tablet(s) PO QD 
+
+      Toprol Xl (METOPROLOL Succinate Extended Release)   100 MG (100MG TAB.SR 24H take 1) PO QD 
+
+      Ferrous Sulfate   325 MG (325(65)MG TABLET take 1) PO TID 
+
+      Aranesp (DARBEPOETIN Alfa)   60MCG/.3ML DISP SYRIN  ML SC QWeek 
+
+      Lipitor (ATORVASTATIN)   80 MG (80MG TABLET take 1) PO QD 
+
+      Zetia (EZETIMIBE)   10 MG (10MG TABLET take 1) PO QD 
+
+      Norvasc (AMLODIPINE)   15 MG PO QD 
+
+      Ca Acetate (CALCIUM Acetate ( 1 Tablet=667 Mg))   1334 MG (667MG TABLET take 2) PO TID x 30 days, take with meals; if snack inbetween meals take one extra pill
+
+      LISINOPRIL   10MG TABLET  PO QD , Evening Qpm
+
+      Insulin 70/30 (HUMAN)   Variable  (70-30 U/ML VIAL ) SC  
+
+
+
+Physical Exam
+
+General:mildly obese adult male, dishevelled
+
+Integument: Warm and dry
+
+HEENT:Moist mucous membranes, edentulous
+
+Neck: Supple, no thryomegaly, carotids
+
+Chest: Lungs clear to auscultation and percussion
+
+Cardiac:apical impulse,  Normal S1, S2 III HSM murmer, S3 gallop 
+
+Abdomen: soft, nondistended, normal bowel sounds 
+
+Ext:
+
+
+
+External Labs
+
+   
+
+Lab Results For:     Ogrady,Ulysses 
+
+
+
+Test     IMC         
+
+         11/08/2066  
+
+         13:37       
+
+
+
+WBC      12.5(H)     
+
+RBC      4.36(L)     
+
+HGB      12.7(L)     
+
+HCT      38.2(L)     
+
+MCV      88          
+
+MCH      29.1        
+
+MCHC     33.2        
+
+PLT      329         
+
+RDW      15.6(H)     
+
+ 
+
+PT       13.8(H)     
+
+PT-INR   1.2(T)      
+
+PTT                  
+
+ 
+
+NA       137         
+
+K        4.8         
+
+CL       98(L)       
+
+CO2      26.6        
+
+BUN      42(H)       
+
+CRE      5.6(H)      
+
+GLU      130(H)      
+
+ 
+
+Nov 08   LEFT FOREARM RADIOCEPHALIC AV FISTULA WITH MARKED STENOSIS WITHIN THE VENOUS OUTFLOW JUST BEYOND THE AV ANASTOMOSIS SUCCESSFULLY TREATED WITH ANGIOPLASTY.
+
+
+
+CXR 8/18/66 
+
+REPORT:
+
+No prior:
+
+Findings:  The lungs are clear however there is some cephalization of blood flow.  The cardiac shadow is at the upper limits of normal.  The bony thorax demonstrates degenerative changes.
+
+Impression:  Cephalization of blood flow and cardiomegaly
+
+
+
+
+
+Assessment
+
+58-year-old Chadian gentleman with multiple medical problems including DM, HTN  and ESRF on dialysis.    In addition he has ischemic cardiomyopathy complicated by severe mitral regurgitation. He has been reluctant to consider surgery in the past but in the face of worsening symptoms has now agreed to proceed.
+
+ 
+
+
+
+Plan
+
+1. Admit for right and left heart cath with cors.
+
+2. Pt schedulled for dialysis on Friday please notify Dr Mcdaniel of his arrival.
+
+3. CABG/MVR/MAZE schedulled for Thursday
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+                        </td>
+                        <td align="right" valign="bottom">
+                            <textarea rows="3" cols="30" name="Clinic notes:Record date: 11/14/1966" id="Clinic notes:Record date: 11/14/1966" style="font-family: arial; color: black;"></textarea>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="left" valign="top">
+                            <p class="MsoNormal"
+                                name="Clinic notes:Record date: 11/14/1966"
+                                class="MsoNormal">Record date: 11/14/1966</td>
+                        </tr>
+                    <tr>
+                        <td>
+                            <p class=""
+                                name="Clinic notes:Record date: 11/14/1966"
+                                class="MsoNormal">Record date: 11/14/1966
+                    <p class="
+                    name=""MsoNamelogr
+                  or
+                 names 1919
+
+                
+19
+               
+
+
+ 
+
+
+                  19names
+                   names, or names of the 
+
+
+    names
+
+    names
+    names,
+    names, and names
+    names,    names,
+
+
+names and names.
+    names, names and names
+
+
+
+            names.
+
+names,
+   10, names of names of names,
+names of names of the names.
+names, the names 
+names, the names. 19, 0 names,  names of names.   names.
+names of names
+names. 
+names.
+names, or names and names
+
+names names of names of the names.
+names
+name, names and names of names
+
+names the names of names the clinical names of names
+names of names
+name or name names of names. 
+names the words. 
+names of names
+1 names and use of names, names of names of the patient names. names, names of the names of the names. of names of the names of names of names of names of names 2 names the names...
+names.
+of names or names, names of a line 1st, 1, names, but names, and names of names, names of names orified the names of the...
+[may of medical names are or are the last of the past of names the and names of names and names, names and, names and name of name the patient or name. the:
+. 1.
+patian: the name and:
+[
+names (le and a: and “, the...theically 1:
+
+
+(are: …
+[
+(d… 1:1 and:... and [1... are:  are 2 and [(1, the or [the: or and or: and the and, or and the
+(
+(ind orific, “make or the and 1 (and, 0 and 30, and... are the 0 and are the, the…, orative and, the and (1 and or, a and are the, or, and a, and, and, 2, or, and and and a of a "and (the (the in 0, (1 or the are, a “. 1 are ((1, [ and, and, [ and in the, and of the are, the and of the, 0 and, a and and: and: (and ([[c: 1. (1: and and (c: and "  “1. Anine, 30 2 are- are of [1 of the and-and ([ ([ by the and,,, ([le. [pat, anine [. of the and.. (,, and, and, or, 1 and, and a, are are 1 are the, or and, and or, by, (an, [, an, and, and, 1, 1, and (an and, (an of " an, the and a, an and, and  or, an, a and, of the an or, (  or of the, an (2, 2, an, anine- 7, and, (1, 9, 2, An, (,  " an, the or, [0: an in the, ( (1 of the, (: an [: [1-2 (1 in the-  ( " : an: the [ an [ [ ( [1  [:  an: or: or or-1 " an an: an or  " or or: " ( (  " or " and are and in [ [ or ( and [ and  of [ of the  of " ( and [.  - and or an, or ( (  [ ( [,  and or [- or- [- and or or or an [  or  [  [ and [ [ an  are an an  and  an  and an, and  an  an,  or an  are are, or ( and are of ( of the  or- an in of  ( or and or- ( an or or  ( or, and - an of the " of the or of of " of " [-M in,  an, in-  are, of,  or of or-  an, or- or of an " ( an,  (, or ( of  of  of  of : of an  and and, ( or  in (  and ( ( and in or - an of  in  of a [- or of (- or ( ( [ ( an  or ( and, or-  and,- or (,  or- in, and, An An- or (,,  an  An ( or,  of  or or- an-  of ( of  of 0,-0 and or- C An,,,, or of an of- of of ( of- of the of,  and of  or (.,,  and, and  an  and ( C C An An-  and-cl- and- or-  or-C of  and of ( (,-C  an c  an, , or  or an or- c, and or ( or or with or ( [- C or ( C or in for ( (  of, and of and, and ( - H of the of [, C C c  [ and and C - c, C-  C and and of  and  - : and ( c:  or  ( (-  c- or-C c C of  or- C of an - C " - C  and  and-  - H C or  ( of - of or ( of (  c ( and  and and  - or, - and,  ( and,  c c of  and of of of ( of the of- of, of., (,   and- and  and (  or,,,  and or [ C and and.  (  ( ( and  and,  or  or- ( and  C  of of of  of  of, ( C and C, or,  - (,, and of -  ( of, [ of c c or (, ( -  of   of H of H of of c or and, and  or c or or,, and or H-  and, and  ( and [ H, and, and,, and,, (  or [- N,  (,,  C ( and  and  and and c and. and,, (,   C and ( and,, c (  ( ( or,,,  c and,, (, (,, and and C H c, and H. and,  (  and, c ( and.  c- N H  H of c ( M of of  M C C, (, and  (, ( ( H (.,. H ( and C H H,  ( and,, c ( (,, and ( H c ( (  of  of for c of H of c H H ( H C  ( H of c of [. H H H H. H and C C H H of  of of of [ of ( ( H of, ( M  H ( C ( c ( ( of H ( C of  H ( of ( H or (, H, and ( [ and to and c C H to c to and. of H H to of c of  of, and, of, H H H H, ( c H H H and ( and- H of of of of of of, ( H H, H, H H  and, C, of H of or of of H of of ( H I C and C or and H and  c, H H H H ( H C H H of H of  of ( of ( H of, of. H,

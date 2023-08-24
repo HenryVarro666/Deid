@@ -1,0 +1,327 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2087-08-15
+
+EDVISIT^43294739^FINNEY, INDIANA^08/15/87^NARANJO, KENNETH
+
+The patient was seen and examined in the Emergency Department on
+
+08/15/2087.  The patient was seen by Dr. Kaminski.  I have discussed
+
+the management with her.  I have also seen the patient personally
+
+and reviewed the medical record.  This is an addendum to the
+
+medical record.
+
+HISTORY OF PRESENT ILLNESS:  This is a 50-year-old female who is
+
+sent in by her primary doctor after having had EKG changes today.
+
+ Her history, which I personally obtained and in review of the
+
+record, she has a history of sarcoidosis, recently has had
+
+increased cough and some shortness of breath, given albuterol
+
+with symptomatic improvement yesterday and returned today with
+
+some persistent pain, which she says is generally related to
+
+cough.  She has had no fevers, chills, or shortness of breath.
+
+REVIEW OF SYSTEMS:  As indicated and otherwise negative.  She is
+
+asymptomatic at this time.  She has had no recent travel.
+
+PAST MEDICAL HISTORY:  Diabetes.
+
+SOCIAL HISTORY:  She is a nonsmoker.
+
+PHYSICAL EXAMINATION:  The patient is very well appearing,
+
+pleasant and in no acute distress.  Her vital signs are stable. 
+
+She is normocephalic, atraumatic.  Pharynx and ENT is normal. 
+
+Neck is supple and nontender.  Chest is clear.  Heart is regular
+
+with normal pulses.  Abdomen is soft and nontender without masses
+
+that are appreciated.  Skin is warm and dry.  She has no CVA
+
+tenderness, no back tenderness.  She is awake, alert, and
+
+oriented.  Sensory and motor exam are normal.
+
+ASSESSMENT AND PLAN:  This is a woman who complains of having had
+
+some chest discomfort.  She has a history of sarcoid and has EKG,
+
+which I reviewed, which shows lateral T-wave changes as suggested
+
+by her referring doctor.  She is pain free.  Initial lab results
+
+show hematocrit of 40, INR of 1, and a troponin which was
+
+negative.
+
+Plan at this time is for hospital admission to rule out MI given
+
+her EKG change.  She looks clinically stable.
+
+______________________________
+
+NARANJO, KENNETH M.D.
+
+D: 08/15/87
+
+T: 08/15/87
+
+Dictated By: NARANJO, KENNETH
+
+eScription document:3-7918390 BFFocus
+
+******** Not reviewed by Attending Physician ********
+
+
+
+
+
+*/
+
+package net.hades.fix.engine.xml.jaxb;
+
+import java.util.ArrayList;
+import java.util.List;
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlAttribute;
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlRootElement;
+import javax.xml.bind.annotation.XmlType;
+
+
+/**
+ * <p>Java class for anonymous complex type.
+ * 
+ * <p>The following schema fragment specifies the expected content contained within this class.
+ * 
+ * <pre>
+ * &lt;complexType>
+ *   &lt;complexContent>
+ *     &lt;restriction base="{http://www.w3.org/2001/XMLSchema}anyType">
+ *       &lt;sequence>
+ *         &lt;element name="AncillaryData" type="{http://www.fixprotocol.org/FIX50SP2}AncillaryData" minOccurs="0"/>
+ *         &lt;element name="EncodedText" type="{http://www.w3.org/2001/XMLSchema}string" minOccurs="0"/>
+ *         &lt;element name="Text" type="{http://www.fixprotocol.org/FIX50SP2}Text" minOccurs="0"/>
+ *       &lt;/sequence>
+ *       &lt;attGroup ref="{http://www.fixprotocol.org/FIX50SP2}standard"/>
+ *       &lt;attGroup ref="{http://www.fixprotocol.org/FIX50SP2}fieldRequirement"/>
+ *       &lt;attGroup ref="{http://www.fixprotocol.org/FIX50SP2}appTagRequiredIndicator"/>
+ *     &lt;/restriction>
+ *   &lt;/complexContent>
+ * &lt;/complexType>
+ * </pre>
+ * 
+ * 
+ */
+@XmlAccessorType(XmlAccessType.FIELD)
+@XmlType(name = "", propOrder = {
+    "ancillaryData",
+    "encodedText",
+    "text"
+})
+@XmlRootElement(name = "AppTag")
+public class AppTag {
+
+    @XmlElement(name = "AncillaryData")
+    protected AncillaryData ancillaryData;
+    @XmlElement(name = "EncodedText")
+    protected String encodedText;
+    @XmlElement(name = "Text")
+    protected Text text;
+    @XmlAttribute(name = "Tag")
+    protected String tag;
+    @XmlAttribute(name = "FieldRequirementIndicator")
+    protected byte fieldRequirementIndicator;
+    @XmlAttribute(name = "ApplTagRequiredIndicator")
+    protected boolean applTagRequiredIndicator;
+    
+    
+    /**
+     * Gets the value of the ancillaryData property.
+     * 
+     * @return
+     *     possible object is
+     *     {@link AncillaryData }
+     *     
+     */
+    public AncillaryData getAncillaryData() {
+        return ancillaryData;
+    }
+
+    /**
+     * Sets the value of the ancillaryData property.
+     * 
+     * @param value
+     *     allowed object is
+     *     {@link AncillaryData }
+     *     
+     */
+    public void setAncillaryData(AncillaryData value) {
+        this.ancillaryData = value;
+    }
+
+    /**
+     * Gets the value of the encodedText property.
+     * 
+     * @return
+     *     possible object is
+     *     {@link String }
+     *     
+     */
+    public String getEncodedText() {
+        return encodedText;
+    }
+
+    /**
+     * Sets the value of the encodedText property.
+     * 
+     * @param value
+     *     allowed object is
+     *     {@link String }
+     *     
+     */
+    public void setEncodedText(String value) {
+        this.encodedText = value;
+    }
+
+    /**
+     * Gets the value of the text property.
+     * 
+     * @return
+     *     possible object is
+     *     {@link Text }
+     *     
+     */
+    public Text getText() {
+        return text;
+    }
+
+    /**
+     * Sets the value of the text property.
+     * 
+     * @param value
+     *     allowed object is
+     *     {@link Text }
+     *     
+     */
+    public void setText(Text value) {
+        this.text = value;
+    }
+
+    /**
+     * Gets the value of the tag property.
+     * 
+     * @return
+     *     possible object is
+     *     {@link String }
+     *     
+     */
+    public String getTag() {
+        return tag;
+    }
+
+    /**
+     * Sets the value of the tag property.
+     * 
+     * @param value
+     *     allowed object is
+     *     {@link String }
+     *     
+     */
+    public void setTag(String value) {
+        this.tag = value;
+    }
+
+    /**
+     * Gets the value of the fieldRequirementIndicator property.
+     * 
+     */
+    public byte getFieldRequirementIndicator() {
+        return fieldRequirementIndicator;
+    }
+
+    /**
+     * Sets the value of the fieldRequirementIndicator property.
+     * 
+     */
+    public void setFieldRequirementIndicator(byte value) {
+        this.fieldRequirementIndicator = value;
+    }
+
+    /**
+     * Gets the value of the applTagRequiredIndicator property.
+     * 
+     */
+    public boolean isApplTagRequiredIndicator() {
+        return applTagRequiredIndicator;
+    }
+
+    /**
+     * Sets the value of the applTagRequiredIndicator property.
+     * 
+     */
+    public void setApplTagRequiredIndicator(boolean value) {
+        this.applTagRequiredIndicator = value;
+    }
+
+    /**
+     * XML metadata for AppTag
+     * 
+     * @return XML metadata
+     */
+    public static AppTagType getInstance(final XMLReader xs) {
+        return getInstance(xs, "AppTag");
+    }
+
+    /**
+     * XML metdata factory for AppTag
+     *
+     */
+    public static class Factory {
+        public static AppTag getInstance(XMLReader xs) {
+            return AppTag.Factory.getLatestVersion(xs);
+        }
+
+        public static AppTag getInstance(XMLReader xs,
+                String namespaceURI) {
+            return AppTag.Factory
+                   .getLatestVersion(xs, new Name(namespaceURI));
+        }
+
+        private static AppTag getInstance(XMLReader xs,
+                Name name) {
+            if (xs.isAnyElement()) {
+                return new AppTag();
+            }
+            return UnmarshallerUtils.unmarshal(xs, AppTagType.class);
+        }
+
+        public static AppTag getInstance(String location) {
+            return Unmarshaller.unmarshal(instance(), new File(location));
+        }
+
+        public static AppTag getInstance(String location,
+                String namespaceURI) {
+            return Unmarshaller.unmarshal(instance(), new File(location),
+                    new Name(namespaceURI));
+        }
+
+        private final static AppTagType instance = new AppTagType();
+    }
+
+}

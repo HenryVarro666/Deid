@@ -1,0 +1,114 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2074-06-20
+
+
+HHH Cardiovascular Division
+CVD Rm 5
+89 Buck St                                      JORGENSON, VIVIANLEE
+Sioux City, FL 76546                                           47190847
+(179) 732-8159                                           06/20/74
+
+
+Charles F. Van, M.D.
+66 Kessler Farm Drive, Puite #9488
+Jordan, FL  83712
+
+
+Dear Dr. Van:
+
+I had the pleasure of participating in the care of VivianLee Jorgenson during her recent hospitalization at Goulds Hospital.  This lovely 67-year-old female ended up having no discernable coronary artery disease on catheterization.  At the time of the cath, her pulmonary capillary wedge pressure was 12.  During the course of her hospitalization, we noted as well that she had had runs of nonsustained VT and asked our EP colleagues to comment on the appropriateness of an ICD.  They felt that this could certainly be rediscussed in the future, but at the present time, there was no compelling indication for her to receive an ICD.
+
+Her medications at discharge include Lipitor 20 mg p.o. q.d., digoxin 0.25 mg p.o. q.d., captopril 50 mg p.o. t.i.d., Lasix 40 mg p.o. b.i.d., enteric-coated aspirin 81 mg p.o. q.d., Nexium 20 mg p.o. q.d., Synthroid 300 mcg p.o. q.d., Aldactone 25 mg p.o. q.d., Coreg 25 mg p.o. b.i.d., and Norvasc 5 mg p.o. q.d.
+
+It has been a delight to participate in the care of this lovely woman.  If there is any questions or issues, please feel free to call.
+
+Sincerely,
+
+
+
+
+
+______________________________
+Vickie Frank-Jarvis, M.D.
+
+
+Dictated By: Vickie Frank-Jarvis
+
+
+eScription document:9-9294537 RFFocus
+
+
+
+DD: 06/20/74
+DT: 06/20/74
+DV: 06/20/74
+
+
+
+
+
+
+Record Date: 7/21/74
+
+
+
+
+
+
+Record Date: 7/21/74
+
+
+
+
+Record Date: 7/21/74
+
+\end{code}
+
+Comment: Please add more information on what you have tried so far and what exactly the issue you are trying to solve is. Also, you are missing a few `\` in your sample input.
+
+Comment: Thank you for the comment @WiktorStribiżew I have updated the original code sample with the additional information and corrected the missing `\`s.
+
+Answer: It can be solved by using regex with look-aheads.
+This regex can be modified to get other parts of the text.
+
+\begin{code}
+(?:\r\n)(\r\n|\r|\n)
+\end{code}
+
+\begin{itemize}
+\item `(?:\r\n)(\r\n|\r|\n)` - matches the line break pattern.
+\item `(?:... )` - matches everything inside ``.
+\end{itemize}
+
+\begin{code}
+var pattern = /(?:\r\n)(\r\n|\r|\n)/;
+var str = "redacted";
+
+var res = str.split(pattern);
+
+console.log(res);
+\end{code}
+
+See more on [regex101 demo](https://regex101.com/r/yX2cK9/1).
+
+\em{Regex details}:
+\begin{itemize}
+\item `(?:\r\n)(\r\n|\r|\n)` - matches the line break pattern (see details above)
+\item `(?:... )` - matches everything inside `\` (see details above)
+\end{itemize}
+
+\em{Regex explanation}:
+\begin{itemize}
+\item `(?:... )` - matches everything inside ``.
+\end{itemize}
+
+Comment: Thank you very much @WiktorStribiżew, this looks like a good approach, I'll try it now.
+
+Comment: This works very well. Thank You! I did notice that there is an additional character between the redacted line and the next line. I've updated my code in the original post.
+
+Comment: @user2973752: I think, if you add `\r\n` to the pattern, it will match `\r\n` as a string. So it should be enough to just replace `(?:\r\n)(\r\n|\r|\n)` with `(?:\r?\n)` in the regex.
+
+Comment: Thank you @WiktorStribiżew I have updated the code with the suggested change.

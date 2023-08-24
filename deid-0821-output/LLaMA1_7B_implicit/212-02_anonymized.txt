@@ -1,0 +1,82 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2084-07-30
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+SAN FERNANDO HOSPITAL
+
+Reason for visit
+	
+  tc to review blood sugars and insulin titration
+
+History of present illness
+	
+  S pt says he started Lantus 10 units at bedtime on 7/21/84 and his blood sugars have been am fastings a range of 114-213 and pm 180-270. 
+
+Changes to Medications this visitLantus 16 units  sc qhs - change. (QTY:3-month supply Refills:3) do not mix with other insulins in same syringe 
+
+Assessment and plan
+	
+  P I will increase his Lantus to 16 units at HS according to insulin titration algorithm and will call him in 1 week to further review blood sugars and titrate his insulin dose.
+
+Disposition
+
+
+Ximena M. Gillespie, RN
+
+Signed electronically by  Ximena M. Gillespie, RN
+Document Status: Final
+
+
+
+
+*/
+package gov
+
+import (
+	"encoding/json"
+)
+
+type Gov struct {
+	// This is a pointer to the data.
+	// This will be null in the future.
+	// It is only here to allow the data to be
+	// loaded into this struct.
+	*Data
+
+	// A reference to the JSON document.
+	jsonData map[string]interface{}
+}
+
+func NewGov(jsonData map[string]interface{}) (gov *Gov, err error) {
+	var data = Data{}
+	err = json.Unmarshal(jsonData, &data)
+	if err!= nil {
+		return
+	}
+
+	gov = NewGovFromData(&data)
+	return
+}
+
+// NewGovFromData is the same as NewGov but uses the struct
+// directly.  This will change in the future to pass the data as a map.
+func NewGovFromData(data Data) (gov *Gov) {
+	gov = &Gov{Data: data}
+	return
+}
+
+// UnmarshalJSON is the same as NewGovFromData but passes the
+// json data to json.Unmarshal instead of the struct.
+func (gov *Gov) UnmarshalJSON(b []byte) error {
+	var data map[string]interface{}
+	if err := json.Unmarshal(b, &data); err!= nil {
+		return err
+	}
+	gov.jsonData = data
+	return json.Unmarshal(b, data)
+}

@@ -1,0 +1,323 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2066-01-13
+
+
+
+Patient is a 67 yo  M who presents for yearly physical exam and followup of medical problems:
+
+
+
+Issues addressed today:
+
+Coronary artery disease : asympt, followed by Dr. Arval Yingling.  Walking without diff.  Denies chest pain, sob, nausea.
+
+
+
+Hyperlipidemia : on lipitor20 mg and lopid 600 bid. TGs high last check - working on diet/exercise.  He is fasting today for blood draw and sgpt/cpk chck
+
+
+
+glucose intolerance : has been controlled on diet/exercise. Experiencing some increase in urination, gained a few lbs over holidays.
+
+
+
+Impotence :  viagra prn
+
+
+
+Complaints today include: above. Full ros obtained and o/w negative.
+
+
+
+Current medications:Medications
+
+Asa (ACETYLSALICYLIC ACID) 325MG TABLET take 1 Tablet(s) PO QD , Take as directed 
+
+Viagra (SILDENAFIL) 100MG TABLET take 1 Tablet(s) PO x1 PRN prn , do not combine with nitroglycerin
+
+Metoprolol TARTRATE 50MG TABLET take 1 Tablet(s) PO BID 
+
+Lopid (GEMFIBROZIL) 600MG TABLET take 1 Tablet(s) PO BID 
+
+Lipitor (ATORVASTATIN) 20MG TABLET take 1 Tablet(s) PO QD , Take as directed 
+
+Arthrotec (DICLOFENAC/MISOPROSTOL) 75 MG SL BID 
+
+Protonix (PANTOPRAZOLE) 40MG TABLET EC take 1 Tablet(s) PO QD 
+
+Folic ACID 1MG TABLET take 1 Tablet(s) PO QD 
+
+
+
+Allergies
+
+Penicillins - Angiodema, Hives, 
+
+Erythromycins - Hives, 
+
+Iv Contrast - convulsions, Hypotension 
+
+
+
+Social History:
+
+Single, divorced. 3 children, 4 grandchildren.  Retired, used to do immigration policing.  Lives in Havre De Grace with his brother.  Dating current girlfriend x 3 years now, sexually active.  Walks avidly.  Daughter keeps him busy doing odd jobs.
+
+
+
+Quit smoking 2061.  Smoked 1 ppd x 30 years.  Occ etoh.  NO illicit drugs.  Occ wears his seatbelts.  Exercises regularly.
+
+
+
+Family History:  Mother died of cancer - pancreatic cancer.  Father died at age 29 of alcohol related problems.  Brother (half) died at age 51 of pancreatic cancer.  Other brother has lung cancer - smoker.  Sister has hyperlipdemia.  Negative for early CAD, stroke, HTN, DM, bleeding/clotting disorders, breast cancer, colon cancer, skin cancer.  FH otherwise negative.
+
+
+
+PE:
+
+Vitals: bp 110/70  Wt 183 lbs  Ht 65 inches
+
+
+
+Gen: NAD.  A&Ox4.
+
+Affect: normal
+
+HEENT: PERRLA. EOMs intact.  Oropharynx clear
+
+Neck: supple, no adenopathy, no thyromegaly or thyroid nodules.  NO carotid bruits
+
+Lungs: CTAB.  No crackles or wheezes
+
+Cardiac:  RRR.  No m/g/r
+
+Abdomen: soft, ND, NT, nl BS.  No masses or hsm
+
+Ext: no edema.  Pulses 1+ bilaterally. Feet warm. Monofilament normal.
+
+Back: no flank tenderness, no spinal tenderness
+
+Rectal:  Heme negative.  Prostate mildly enlarged - golf ball size, no nodules.
+
+Skin:  no unusual rashes or lesions noted.
+
+Neuro DTRs 2+ bilat, strength 5/5 bilat, gait nl
+
+
+
+A/P:
+
+
+
+Coronary artery disease : asymptomatic, cont medical management.
+
+
+
+Hyperlipidemia : on lipitor20 mg and lopid 600 bid. Will plan recheck f. lipids, sgpt, cpk today and adjust meds as needed
+
+
+
+glucose intolerance : counseled diet/exercise. Check glucose today
+
+
+
+Health Maintenance
+
+Prostate exam 01/13/2066 smooth, mildly enlarged - golf ball size 
+
+Stool Guaiac 01/13/2066 Done - negative 
+
+Influenza Vaccine 01/13/2066 
+
+Cholesterol 01/13/2066 Done/scheduled 
+
+Rectal exam 01/11/2065 prostate smooth, mildly enlarged - golf ball size 
+
+M-alb/creat ratio 10/11/2064 8.0 
+
+Pneumovax 01/11/2064 Done 
+
+Smoking status 01/13/2066 Past smoker 
+
+UA-Protein 04/08/2065 :N 
+
+Colonoscopy 01/04/2062 polyps removed per patient - repeat in 5 years 
+
+Ophthal Exam 01/13/2066 Done/scheduled 
+
+PSA 10/17/2064 1.6, fPSA 0.39 
+
+Urine Culture 03/22/2065 see report in Results 
+
+Td Booster 12/04/2064 injured finger 
+
+Triglycerides 04/08/2065 279 
+
+TSH 09/23/2065 1.65 
+
+Cholesterol-LDL 04/08/2065 86 DESIRABLE: <130
+
+Microalbumin 10/11/2064 0.9 
+
+Hct (Hematocrit) 09/20/2065 41.0 
+
+Hypoglycemia Assessment/Counseling 01/11/2065 
+
+Complete Physical Exam 01/13/2066 
+
+Cholesterol-HDL 04/08/2065 35 
+
+Hgb (Hemoglobin) 09/20/2065 14.6 
+
+HbA1c 09/20/2065 6.50 
+
+
+
+Flu vaccine given today
+
+PE 1 year
+
+f/u March-April
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\section*{Results}
+
+
+
+
+
+
+\begin{itemize}
+
+    \section{Cholesterol}
+
+    \begin{tabular}{llllllll}
+
+    \hline
+    & 2013      &&& 2014 &&&& 2015 \\ \hline
+    Total Cholesterol  & 207 &&  & 203 &&   & 218 && 217 \\
+    Triglycerides  & 244 &&  & 222 &&   & 233 && 256 \\
+    HDL (high density  & 43  &  & 45  &  &   & 45  &  & 45 \\
+    lipoprotein)  &  &&   &  &&   &  &&   \\
+    LDL (low density  & 136  &  & 142  &  &   & 157  &  & 161 \\
+    lipoprotein)  &  &&   &  &&   &  &&   \\ \hline
+    Total cholesterol/HDL  &  &   &  &   &  &   &   &   &   \\
+    Triglycerides/HDL  &  &   &  &   &  &   &   &   &   \\ \hline
+    LDL-C/HDL  &  &   &  &   &  &   &   &   &   \\ \hline
+    Cholesterol/HDL-C  &  &   &   &   &  &   &   &   \\
+    ratio  &   &   &   &   &  &   &   &   &   \\ \hline
+    Triglycerides  &   &   &   &   &  &   &   &   &   \\ \hline
+
+    &   &   &   &   &   &   \\
+    \hline
+
+\end{preg 
+\begin
+    &   &
+    &
+    &   & 13/31
+    &   & 
+   
+    &  & 
+    &  & 
+    &  &
+    & 
+   
+
+\n
+    &  
+
+    & 
+   
+
+
+    
+   
+ 57 &
+    & 
+   
+    218
+    and 11/7
+    and 
+   
+& 
+
+    1 1
+    and 1 2007
+and 1
+120 2
+  1 1 0
+13
+
+10 1 and 12
+5.2
+11 and 1. 20. 1
+201
+20
+1/2.3
+1
+12. The 9.
+2.1
+I
+A
+A.
+
+and 1. 1
+with 10
+
+201.
+201. 1 2020
+205
+A
+2
+12
+
+1
+The last, male
+ 1
+
+with  androm.
+
+
+. A. I
+2: 14 11, 
+25 6
+A with a
+
+12 and 4 1 1.  and 82
+ 2
+
+
+, and 
+and. 32
+2, which, and 201
+2012 and  and:
+  and the:3::2: 1. It.2.A. 19
+20, and  (4
+ (111M2: year: year,  and 27. date. The [with: (A. Invert:A: 1: s. A: A:23 -1: ime, 3/1: [1 in:1:1:1:A ( 11. 136:12:12: : A:1:  year: year. is, is is -18 and. An. and: (A.: An: A, x: An and:  and: :  butness. (test: Anine andness. (2 and : A: Anine,1-per and a and a a, a, but: (1 and a.: and and (1-last, last. : (0/a: and,.0 and: and a.1 and col/3 a / An  / An An An C An: An An Anist inistic Anist: ( -year year a, and,  adime and di (  on.
+: and. but and Anistic An: An, : An (clism and - and, and (. (  and and - and. (col and (de.,  a, a.1 and or, an or, 1. A An An An. Anni (in (1/in/full / a [1. cm mm, and,  An An and (an  [ (  and, [. and [3. and [ and (1 [. anient and and (  [cine and >: An C An / /t/col and,. and and  and and and a [[ (. a line, [[  (, and,. and.0 and [ and. An ( and  [1 An An and... An: and a ( ano <:  and ::  at: An  An An An An An An ( An year (: and and  < and and < and and with an with an an with a with an, and ( an to and an a ( An ( with a, An An An An [ [[. An and [ and [. ( ( An : An An ( An: [. [ [ in ( [ and, and, [ An An and: An and and ( and  [[ An C F An: ano ( [ an or and and and and < an c [ An An An An An An: An An An A ( ano [ and An An An [ [. and [ [ m c: an ( [. C: [ ( ( ano (1/ an md  m m ( m  M An  ( M An  C ( C an M ( mm, and ano a md a - [ ( M or m c or or and in m, ( - [ An m and m and c c and. M M. M m c c. An and m, and ( MD M. I M for An C and / C and  and and and an a and and and or and ano and and and and and [ and and ano (: C and  - C c m and C md md cm. cm m md m a mm ( S ( a. ( cm [-c and x cm [ b and.  [ C and, T and C. C T C A C C. ( a (  / at cm  at and ( a c a cc  cm c a and a  and  a and cm a c cm  cm and cm  t cm and t. cl t cm cl and c ano and an a t cm ano a  and and cm [0 cm ( a cl  c a and an cm cm a  T a C C S C  C C A C An T C  C T C an C C a, C - C T C CA  C C. F C and a cm a cm c cl [ a a C C for a a ~ T C C C T L C C C: ~ T C T- T C T  T L PO L L T L Cl Cl C F T C F P.: C and - P and C - C and c-c - - S. C and ( C C C C A PO C and S C C N CA - c c c ( c - cm: PO C C S ( [ C S :: [ : F C and C [ C/ and [ S, c C C  C [ C C C A, C. A C C/ M N C, and (, C, S.. C for C C. C N C T ( C A C C M C [/ T. C up. for ( T T C for [ C PO. C c a CA C c t C c and, C to and,.. C. C. for cl cl. and ( cl ( and C L C C T C C H. c cl C T/ C and  and. and C C, and. C and../  and C and and C F C ( C and and and. and C C and C C T F- F. H T F T C, H M F C F C C ( C C H PO F. Cl L. S C. C. T/ C C C. Cl C T C/ F (. C. and M. S C H ( F C F C. H C-  T, - H C. and and C C.. C C. C C  C C./ T,./ C. F. F T.  S M C C S M M V M M F C M M. F [- [ A C C M/. Cl. C C.. M. S/ F A C T T C C T C T T/ Cl C A C. C C  C C:. Cl C D C A C C A F D P C/ C. Cl C C Cl C.  T C C D: C C: D S M C S D A S T Cl. C C F C P B C T C C T F C C C Cl C C A C L... C L and C Cl C F C C A. C C T S H Cl C F P F C/ C B C C B C T CA C P F C M F C C P A T C C C/ G F F.. A F Cl A. F C T, P F Cl. T - C. - S H. C C C F S F. ( C

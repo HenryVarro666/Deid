@@ -1,0 +1,273 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2133-01-22
+
+
+Wise, Willa
+Internal Medicine Associates, Suite 7
+Bayne-Jones Army Community Hospital, 0th Floor , Noom 038
+Hayti, DE, 36349-2179
+
+		RE: NORMA  MCKEE
+01/22/2133
+Admission Note
+IMA COnsult note Covering for Dr Robert Xenakis
+CC 57yo with multiple medical, psychiatric problems  admitted with recurrent SBO and acute renal failure
+
+HPI Pt has Hx TAB/BSO, appendectomy and cholecystectomy 7/2125. She  was admitted 8/2130 with SBO, treated conservatively with NG suction.  She has chronic constipation. 5 days ago she awoke with nausea, developed vomiting, and has been unable to keep liquids down. She has severe depression, agorophobia, and did not want to come in to the hospital She states she had small bowel movement 2-3 days ago. She has had difficulty passing urine, with a very small amount urine output yesterdat. She had a few episodes of near syncope when changing from sitting to standing, but no syncope/ LOC/ falls.
+
+PMHx- surgery as above
+
+
+Problems:
+Chest pain
+Depression followed by Dr Kopp psychiatry
+Glucose intolerance
+Headache
+Hematochezia
+Hiatal hernia
+Hyperlipidemia
+Hypertension
+Seizure disorder
+Small bowel obstruction Hx
+Umbilical hernia
+Easy bruisability
+Sciatica
+Sleep apnea
+Family history risk factors
+Diabetes mellitus
+Iron deficiency anemia
+Obesity
+Acne
+
+Medications:
+vitamin d 400 units po daily
+tetracycline 500mg po daily
+Nizoral cream 2% top daily-bid rub gently into affected area once to twice daily
+lisinopril 30 mg po daily
+Prilosec 20mg po daily
+potassium chloride 20meq po daily
+hydrochlorothiazide 12.5 mg po daily
+free text medications HEAD GEAR model # rsp1007930
+MiraLax 1 pkt daily or prn
+simvastatin 20mg po qpm
+Klonopin 0.5mg po bid
+Celexa 40mg po daily
+mirtazapine 30mg po at bedtime
+Seroquel po 1600  mg daily
+Tegretol 200mg po 7 TABLETS PER DAY
+CPAP mask Respironics Comfort Select - medium
+
+Family history:
+Father with CAD, diabetes, and hypertension.  Sister with hypertension, diabetes, and hyperlipidemia.  Brother with hypertension and obesity.
+
+Social history:
+No tobacco.  No alcohol.  See depression issues above. Largely homebound.
+
+Physical Exam:
+Blood pressure: 100/60
+Pulse: 110
+Respiratory rate: 14
+Temperature: 97.7
+O2 sat 95% 2 liters
+General appearance:Ill appearing
+Skin: facial acne
+HEENT: NG tube in place. mucous membranes dry
+Neck: no adenopathy
+Chest: Clear
+Cor: S4, no murmur
+Abdomen: Obese.Distended
+Extrem: There is 1+ edema.  
+
+Selected Recent Labs: 01/22/33 Plasma Sodium 135, 01/22/33 Plasma Potassium 3.7, 01/22/33 Plasma Chloride 78 L, 01/22/33 Plasma Carbon Dioxide 44.0 H, 01/22/33 Transaminase-SGPT 30, 01/22/33 Transaminase-SGOT 30, 01/22/33 Alkaline Phosphatase 104 H, 01/22/33 Total Bilirubin 0.7, 01/22/33 Direct Bilirubin 0.3, 12/14/14 5'-Nucleotidase 8, 01/22/33 Total Protein 7.5, 01/22/33 Albumin 3.8, 01/22/33 Globulin 3.7, 03/07/31 Creatine Kinase 104, 01/21/33 Creatine Kinase Isoenzymes NEGATIVE, 01/21/33 Troponin-I NEGATIVE, 01/22/33 Plasma Urea Nitrogen 67 H, 01/22/33 Calcium 9.7, 01/22/33 Plasma Creatinine 5.8 H, 01/22/33 Plasma Glucose 200 H, 01/22/33 Lipase 11 L, 01/22/33 Phosphorus 6.7 H, 01/22/33 WBC 5.5, 01/22/33 HCT 36.4, 01/22/33 PLT 342, 01/21/33 UA-Turbidity Clear, 01/21/33 UA-Glucose NEGATIVE, 01/21/33 Bili 2+, 01/21/33 UA-Ketones Trace, 01/21/33 UA-Specific Gravity &gt;1.030, 01/21/33 UA-Occult Blood NEGATIVE, 01/21/33 UA-pH 5.0, 01/21/33 UA-Albumin 2+, 01/21/33 Urobilinogen NEGATIVE, 01/21/33 UA-Nitrite NEGATIVE, 01/21/33 UA-WBC Screen NEGATIVE, 01/21/33 Hyaline Cast None, 01/21/33 Granular Cast 0-2, 01/21/33 UA-SED-RBC 3-5, 01/21/33 UA-SED-WBC 0-2, 01/21/33 UA-SED-Bacteria Many, 01/21/33 Squamous Cells Moderate, 01/21/33 Tubular Cells Few
+
+
+
+Abdominal CT Renal no hydronephrosis/renal masses.
+Dilated loops of bowel/ no masses/ consistent with SBO
+
+Assessment and plan:
+Patient with recurrent SBO. Unfortunately she has had vomiting X 4-5 days, and now has acute renal failure, most likely due to hypotension, dehydration and ATN
+
+Her psychiatric problem is significant. 
+Hold HCTZ/ ACE
+IV hydration. Renal consult.
+NG suction for SBO.
+Dr Xenakis back tomorrow.
+
+Willa Wise, MD pager #58824
+
+Signed electronically by  Willa Wise, MD
+Document Status: Final
+
+
+
+"""
+
+
+def _test_get_note(note_html_text):
+    """Get note and assert that it is in the desired state.
+
+    Args:
+      note_html_text (string): The contents of the note as text HTML string.
+                                  This text can be used for display.
+
+    Returns:
+      None.
+    """
+    with io.StringIO(note_html_text) as fp:
+        note = nbt.read_notes(fp)
+        assert note
+        assert len(note) == 20
+        text = note[0][0][2]
+        assert text == 'Willa Wise, MD'
+        assert len([n for n in note[0][1] if n]) == 3
+        assert note[1][4] == 'Willa Wise, MD pager #58824'
+
+
+def _test_get_note_with_attachment(note_html_text):
+    """Get note and assert that it is in the desired state.
+
+    Args:
+      note_html_text (string): The contents of the note as text HTML string.
+                             This text can be used for display.
+
+    Returns:
+      None.
+    """
+    with io.StringIO(note_html_text) as fp:
+        note = nbt.read_notes(fp)
+        assert note
+
+        assert len(note) == 1
+
+        assert note[0] == 'Willa Wise, MD pager #58824'
+
+        assert note[1], note[2] == 'Dr'
+        note[3] 'Willa, 58284
+        """
+        """
+        "Wild Life Internal 25
+
+    Note 7
+
+        note the 24,5 7
+        note 47
+        note
+27
+        """ Note 
+
+
+
+        19
+
+        note
+       
+       
+
+"
+        257
+        Note
+
+       
+       
+       
+       
+2
+        note
+
+        Note, 58
+       
+        
+        "Note 24
+        
+15/21
+
+
+       
+
+" 31111
+
+
+M
+
+M
+
+1
+2
+
+25
+
+
+
+" Note 5
+Medic (M 9
+
+
+201.
+M
+	M
+2M, 1
+
+M 
+A
+
+M
+2M	 M 2
+21
+
+ 6 1
+25
+, M.
+11.1
+
+25. The 
+10
+11
+1
+M
+,
+
+ 	
+, 15
+13. 
+
+0
+
+
+3
+ 
+
+
+T
+
+, N
+
+
+T, M, 6
+M
+2,5	 10
+1
+,
+The 1, 1
+30
+, 5.
+15. 4 
+M
+.
+150, and 65.
+33
+
+17, and the date and the and, date: and the date today, 5. 020, and the. 
+. A, 20.
+and,A, the, 25
+2
+11
+
+C
+1,  M
+W: A -Mine: Winal,24,235342:61, [3:1:  (1,2. 1,W,10. 5, 112. 	,	1 (2
+.1 (P, C An (10, An
+0 An (W, a, : Anistic,1 Anistic, An, An,2 An,  (An, An Anistic An Anification in [P 2, Anient (Anical An, 11 An (1 An	M 3: An, 3, An :,,1,24,  ( : :	 :. :. (13:11.0, A.25302 An An An Anific,0. a (A (  of C1 An.012 An6,3,, 3.	Aninal.3, An An2, An An21. An An112132105 Anified, 1. An An An An An and An An.4 An3 An00,3 An. An - An, C and, Anine An. 2. Anine A An, An1 An, A An. Anine, a Anic An and, and and., a,11-2 An An20, 2, a for. An, a,,11 Anist, An, 1 and,  in. Anist, in ( and in a. and a and a20 and. and and An and and  and and An-  and. and. An [ and An - C in and. Anine Anine in: An An with.- An, -a  and: C- An: ( An An1. An and and-1 -0 An An1-0,. and. An An, P - An - An An with: and- an, with and in in with an. - An for An: [. M and An,, [ An An An C an, [ An: an ( An An An An An An  [: M ( and [ An1 C An An An C An An An An an an by an an- An An:, an, An Anist A in for. An I An0 C,,,- an  P: M An W An W An and and and C1 C0.1 An C An. An- L An I  An An An, R ( and M An for and An in in An with in and in for, with2 with, I. with- and and for for and, for and. and and and and1 and with with and I with and with. with and and in 2- W in. with - and1 and in and1 I in and0.- and.-5 in1 and,  with...1.1 I20-0- 0, C with for ( with for. ( ( [ in, ( ( and I  after I ( a. ( I and a and a and P -  P I (. and (1 in for in with 2. and (, with, a  and (  and, to and or, and. I and and a and and and and by with and and a and and. and, and, and - ( C W a and - and in and and. I0 and and and with with with, H with and 1  with with C C. C. C. and C C and a. I2 I and with an and and-P  and with I P,1 and and and and, and C C I I in, with and  with with and and and I P: I P and C and.. H. M:: M P C C I- U - I - to with to to to and to I to to to I and01 -1 H I1-. I I I I  P I I C I to P I to to  to I I T M C I to I I I I M I  I P I U to to to I L I L C  and  I0 I I and-1- I T C P W I L C T and and P- I S L S C M.. ( M I I  W.  M I of I - of [ C::.. and001 to 8 and of a and I M [. -1 I ( I I and M and I I and/. ( I..2 I0 I2 I P I I I I. to  to. I to. M and and M M C.., I I M. I I L. and I [ I. I L M and. I (. I I after and I I I. I C I I I I I I to I. to  or to to I ( M M I to. M. and I to I, to, to. to to I and to I. M T [, I I and. I and (.. I. I and I I I I. I. I ( I, I.. and and ( m, ( and. m I..  and M. and M. and and. and per or and per or  I and. I,. [. [ and I. -. [ M..1 m- I. M1 M-5 M82 and.  and.  m.. C.  me and. M C. m.- and. and m  and and and.-.- C I C a  M M. and M C.20. M and a  and and m  and  to  and M to M and M and M. I ( M.. M C, I of of of and.  a [ and M M: I M and and I/ 10  and. I.  M. M-. C. O. M  M M  and- I M  M  C M C. P M C C  I C- O M. C C to to 9 to M M C M C  of c M C I O I and- M Cl C M C C M O - M.- M-- M    O

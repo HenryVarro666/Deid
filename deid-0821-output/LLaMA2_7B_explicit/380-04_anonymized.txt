@@ -1,0 +1,335 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2072-03-01
+
+EDVISIT^91156456^HEATH, HANNAH^03/01/72^YEAGER, CHRISTOPHER
+
+I saw this patient with Dr. Rosalia West.  I confirm that I have
+
+interviewed and examined the patient, reviewed the resident's
+
+documentation on the patient's chart, and discussed the
+
+evaluation, plan of care, and disposition with the patient. 
+
+Please see the resident's note for further details.
+
+CHIEF COMPLAINT:  Altered mental status.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 76-year-old female
+
+with history of prior strokes, hypertension, diabetes, and
+
+paroxysmal atrial fibrillation, who presents with altered mental
+
+status.  As per report, the patient has not been acting like
+
+herself and not communicating or speaking like herself.  The
+
+patient was in her usual state of health until a few days ago
+
+where she started to develop a cough as well as some chills.  The
+
+patient's family members state that the patient has not been out
+
+of bed and has been unwilling to eat.  The patient's family
+
+members state that the patient is not acting like her usual self.
+
+ The patient's family members deny noting the patient complaining
+
+of any nausea, vomiting, chest pain or shortness of breath.  The
+
+patient was actually taken to clinic yesterday because the
+
+patient was starting to speak less.  The patient was seen clinic
+
+and was thought to be depressed.  The patient has a known history
+
+of a facial droop.  The patient was incontinent of urine today.
+
+PHYSICAL EXAMINATION:  The patient's vital signs reveal the
+
+following:  Temperature was 102.8, heart rate 110-160 beats per
+
+minute, respiratory rate 20, blood pressure is 144/110, and
+
+oxygen saturation was 95% on room air.  The patient's oxygen
+
+saturation was interpreted as borderline low.  General:  No acute
+
+distress, multiple family members at bedside.  HEENT:  The
+
+patient's head was normocephalic and atraumatic, no scalp
+
+hematomas.  Pupils were equal, round, and reactive to light. 
+
+Mucous membranes were somewhat dry, right facial droop noted, no
+
+drooling.  Neck:  Supple, no JVD, no carotid bruits appreciated. 
+
+There was no meningismus.  Respiratory:  Poor cooperation with
+
+exam.  Fair aeration, no focal rhonchi, rales, or wheezes, no
+
+increased work of breathing or use of accessory muscles was
+
+noted.  Cardiovascular:  Irregularly irregular, tachycardic,
+
+unable to appreciate any gross murmurs, rubs, or gallops.  GI: 
+
+Abdomen:  Soft, no rebound or guarding, prior well-healed prior
+
+G-tube scar noted.  Rectal exam deferred.  GU exam:  The patient
+
+was incontinent of urine.  Skin:  Warm and dry.  No rash or
+
+lesions were noted.  Back:  The patient did not have any
+
+costovertebral angle tenderness.  There is no midline thoracic,
+
+lumbar, or sacral spine tenderness to palpation.  Extremities: 
+
+Warm and well perfused, no clubbing, cyanosis or asymmetrical
+
+lower extremity edema was noted.  There were no palpable cords. 
+
+Neuro:  The patient was alert, the patient was a verbal.  The
+
+patient grossly moved all 4 extremities with fair strength.  The
+
+patient responded to touch appropriately.  The patient was unable
+
+to cooperate with cranial nerve examination.
+
+INITIAL IMPRESSION AND PLAN:  The patient is a 76-year-old female
+
+with history of prior stroke, hypertension, diabetes, and
+
+paroxysmal atrial fibrillation, who presents with altered mental
+
+status and urinary incontinence.  Differential diagnosis at this
+
+time includes infectious versus a metabolic abnormality.  The
+
+patient has no new deficits on neuro exam as per the family and
+
+as per review of prior notes.  Repeat stroke is certainly on the
+
+differential, however, I have a lower suspicion then for a
+
+metabolic or infectious etiology.  The patient will need to have
+
+a large workup including laboratory studies, urine studies, Foley
+
+catheter, portable chest x-ray, and repeat noncontrast head CT
+
+scan.
+
+EMERGENCY DEPARTMENT COURSE:  Upon arrival to the Emergency
+
+Department, the patient had history and physical exam performed. 
+
+The patient was noted to be in atrial fibrillation with rapid
+
+ventricular response.  The patient's 12-lead EKG revealed a rate
+
+of 166 beats per minute, atrial fibrillation with rapid
+
+ventricular response, stable T-wave inversions noted over the
+
+lateral leads as well as over the precordial leads.  No definite
+
+ST segment abnormalities were noted.  The patient then had a
+
+portable chest x-ray and as per report, the patient's portable
+
+chest x-ray did not reveal any acute cardiopulmonary process or
+
+findings.  The patient did have a noncontrast head CT scan and
+
+the patient's noncontrast head CT scan was notable for some
+
+right-sided edema.  The patient will have this followed up with
+
+an MRI of the brain.  The patient's laboratory studies were
+
+notable for sodium of 131 and potassium of 5.2.  The patient's
+
+lactic acid was 1.7.  The patient's white blood cell count was
+
+not elevated.  The patient was not anemic.  The patient's
+
+urinalysis was consistent with infection.  The patient's first
+
+set of cardiac markers were negative.  The patient's coagulation
+
+studies were normal.  The patient was treated with ceftriaxone
+
+for her urinary tract infection.  The patient could possibly have
+
+urosepsis given her fever and tachycardia.  Urine sepsis is my
+
+leading diagnosis at this time.  The patient's right-sided edema
+
+is certainly concerning, however, I do not feel that the patient
+
+will need to be admitted to Neurology at this time.  The patient
+
+will be admitted to medicine for presumed urosepsis.  The patient
+
+will need to be admitted to a monitor bed.  The patient's blood
+
+pressure is normal, and as such, I do not feel that the patient
+
+needs an intensive care unit bed.  In terms the patient's atrial
+
+fibrillation with rapid ventricular response, the patient was
+
+given metoprolol IV.  The patient was not given any oral
+
+medications secondary to her possible stroke.  The patient was
+
+given rectal Tylenol as well as rectal Kayexalate for her
+
+elevated potassium at 5.2.
+
+PRIMARY DIAGNOSES:
+
+1.  Urosepsis.
+
+2.  Atrial fibrillation with rapid ventricular response.
+
+3.  Hyponatremia.
+
+4.  Hyperkalemia.
+
+DISPOSITION:  The patient was admitted to the Medicine and to a
+
+monitor bed.
+
+CONDITION AT THE TIME OF DISPOSITION:  Stable, but guarded.
+
+______________________________
+
+YEAGER, CHRISTOPHER M.D.
+
+D: 03/01/72
+
+T: 03/01/72
+
+Dictated By: YEAGER, CHRISTOPHER
+
+eScription document:4-2135677 IFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{code}
+
+Comment: I'm sorry, but the way the text is displayed in the question is not the way I have to deal with it in my code, so I'm not sure I will be able to find any solution for you.  I need something more specific.  I'm sure there are some regular expressions that will work, though, so I recommend you try them.
+
+Comment: @DavidThomas, you're saying the problem is how it's formatted in the question?  That's a very strange thing to be concerned about.
+
+Comment: @DJClayworth: No, I don't mean that; that's how it *is* formatted, but how it needs to be formatted in the code is not how the OP chose to format it here.  If the question is "How do I replace all instances of this string with this other string?", then my first question is "How am I supposed to tell that string from the others?"
+
+Comment: @DavidThomas, you mean, "How can OP format their data in such a way that it's easier for you to help them out?"
+
+Comment: @DJClayworth: No, that's not at all the question, and I'm not saying that it is the *only* question.  But I am saying it is the first question, the one I need to answer **before** I can answer the other questions that are asked here.  If the formatting doesn't show what the OP's input looks like, it makes my job a lot harder.
+
+Comment: @DavidThomas - I understand your concern. But if the formatting makes your job harder, it's not hard to fix. I'll do so now, so that you can help the OP. :)  The data I posted is the first 30 lines from a larger file, and there is a lot more than that, but it's a lot of formatting I don't want to have to do for you and your other questions that I know I'll have to do for OP.  It'll also help if you post a small piece of data that shows us the problem you're having with it.
+
+Answer: There are several regex flavours that support the lookbehind assertions.  I believe that Java supports the `(?<=regex)` and `(?<![regex])` variants, and the.NET flavours (at least the ones I've used) support the \begin{code}
+(?<=regex)
+\end{code} and \begin{code}
+(?<![regex])
+\end{code} variants.  For example, in.NET:
+
+\begin{code}
+(?<=^\s*\[\s+\d{4}\s+\w+\s+([^\]]+)\s+[^\[\]]+\s*\d{4}\s+\w+\s*\]))
+\end{code}
+
+(I'll let you figure out how I got that; I know it's not pretty.)
+
+Comment: +1 for a regex that's readable to humans.
+
+Comment: @DJClayworth It's readable to humans because it was written by a human, and not by a machine.
+
+Comment: I think I get it.  It's looking for the date, but not including the opening bracket or closing bracket.  Is that correct?
+
+Comment: Yeah, pretty much.  It's a bit more complicated than that, but that's the gist of it.  I'll let you figure it out on your own. :)
+
+Answer: You could probably use something like this:
+
+\begin{code}
+(?=^(?:[\s]+(?:[\[(?=\d{4}\s+)\s+[\w]+)\s+[\d{4}\s+\w]+)\[^\[\]]+)\d{4}\s*\w+\s*\d{4})))
+\end{code}
+
+This is in the Javascript flavour, which is the one I'm the most familiar with.  I don't know what you're doing, but I can see that your question is not about the regex, it's about the language you're writing the code in.  I have written this regex to match all the data in the first snippet, and it doesn't seem to match anything.  I'm not sure what the data is, or how you want to do with it what you want to do, but this is a very common problem.  You can't simply match the data you want, because the rest of it is also important.
+
+If there's a way to get the data in the format you want, that would probably be much simpler.
+
+Answer: The following should get you started.  There are two ways this can match.  The first is if you have more data that the opening date, then it will match the opening date, the closing date, and then the closing date.
+
+The second is, if you are looking for all instances of the date.  In this case, it will match the opening date, and then everything from then until the next closing date.
+
+You should be able to tweak this to get what you need.  Here is the regex:
+
+\begin{code}
+(?=([0-9]{2,4})((\[[^[]]*))((\[[^[]]*))((\[[^[]]*)))
+\end{code}
+
+\strong{Update:}
+
+Here is a regex that is looking for an opening bracket, and everything up until the next closing bracket, but excluding the date.
+
+You can then use this regex in a negative lookahead.  This way you can look for a match, but not the opening date.
+
+\begin{code}
+(?(?=^([^\[]+[^\[]+[^\[]+[^\[]+[^\]]+[^\]]+[^\]]+))
+\end{code}
+
+The following is using all three regex's:
+
+\begin{code}
+((?=([0-9]{2,4}((\[[^[]]*))((\[[^[]]*))((\[[^[]]*))((\[[^[]]*)))(??=^[\[(?<![0-9]{2,4}\s+)\s+[\w]+)\s+[\d{4}\s+\w]+))
+\end{code}
+
+Comment: Thanks for the regex.  However, it doesn't match anything.  I posted the code that I'm using in my post.  I'm using Java.
+
+I'm trying to match a string of date that is surrounded by a bracket, and a string of text inside the bracket.  I don't want to match the date if the string of text does not start with a date.  In other words, I don't want the match if there is no opening bracket.
+
+Comment: I've edited my answer.  I'll be offline for a few minutes now and will get back to you later.
+
+Comment: That regex doesn't match either opening or closing brackets.  It will only match the date if there are brackets present.
+
+Comment: What is the language?  I have a Java solution if you'll post it.  Or, what language are you using?
+
+Comment: @Dave: It looks fine now?  The first one will find a date that is open and closed.  It will then go back and find the next opening of the date, and will continue to do so until it finds the next closing date.  I'll update to make this more clear.
+
+Answer: \begin{code}
+([\[.*]+?(?<!^))\[[.*]+?(?<!^)]]?
+\end{code}
+
+The problem you seem to be facing is that the date appears to be surrounded by brackets.  In order to solve this problem, the following regex will match the date and not the brackets.  I have written this regex for the Java flavour of regex.  It is probably possible to rewrite it for other flavours, but I'm not familiar with them.
+
+This regex is the most compact one that seems to be matching the problem you're facing.
+
+The first part of the regex will match if the next character is not an opening bracket.  The last part will match if the next character is not a

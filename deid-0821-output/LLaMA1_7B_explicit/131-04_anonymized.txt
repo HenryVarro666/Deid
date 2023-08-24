@@ -1,0 +1,503 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2096-09-09
+
+ 
+
+
+
+Cardiac Surgery Consult
+
+
+
+Weeks, Kenneth
+
+9/09/96	
+
+1205466
+
+
+
+CC:  3 days of increased shortness of breath.
+
+
+
+
+
+HPI:
+
+ 
+
+78 yom s/p 2-cabg on Jul 20, 2096.  Had pleural effusions, tapped for 1.5 liter on August 31, 2096, felt better.  Was put on Lasix, excreted 28 lbs of fluids. 3 days ago started having increased DOE and SOB.  No CP. Now  able to walk only 10-15 ft w/o sob.  Able to walk up 1 flt of stairs or less.  Needs only 1 pillow to sleep at night.  Has committed some dietary indiscretions lately (chicken sausage).
+
+
+
+No CP, night sweats, chills.
+
+
+
+
+
+
+
+   
+
+PMH: 
+
+Gout
+
+IDDM2
+
+Thrombocytopenia
+
+Atrial Fibrillation
+
+BPH
+
+Chronic Renal Insufficiency
+
+Hypercholesterolemia
+
+Hyperhomocysteinemia
+
+Hypertension
+
+Patent Foramen Ovale (PFO)
+
+Basal Cell Carcinoma
+
+Bursitis,
+
+Coronary Artery Disease,
+
+Labyrinthitis
+
+Squamous Cell Carcinoma
+
+Umbilical Hernia
+
+
+
+PSH:
+
+CABG
+
+Bone marrow Biopsy
+
+SCC removed from head 2094
+
+Turp 2086
+
+
+
+FH:	
+
+Brother s/p stent placement at age 78, CHF
+
+Another brother had diabetes and peripheral  vascular  disease.
+
+
+
+
+
+SH:	
+
+SMOH:  30 pack yrs; Date quit: 2065 
+
+ETOH: Amount: about 10 drinks in his lifetime 
+
+No IV drug use.
+
+Occupation: Retired Insurance Claims Examiner for Prudential 
+
+Notes: Lives in New Iberia, MN with his wife of 54 years. His wife is in the early stages of
+
+Alzheimers.
+
+	
+
+Meds:
+
+
+
+ATENOLOL 50 MG QAM, 25 MG QPM
+
+ASPIRIN ENTERIC COATED (ASA ENTERIC COATED) 325 MG PO QD
+
+FINASTERIDE (PROSCAR) 5 MG PO QD
+
+FOLIC ACID (FOLATE) 1 MG PO QD
+
+ALLOPURINOL 100 MG PO QD
+
+QUININE SULFATE (QUININE) 325 MG PO QHS
+
+FUROSEMIDE (LASIX) 120 MG PO QD
+
+LORAZEPAM (ATIVAN) 1 MG PO PRN
+
+ATORVASTATIN (LIPITOR) 20 MG PO QD
+
+WARFARIN SODIUM 5 MG QD EXCEPT THU: 7.5 MG
+
+INSULIN NPH HUMAN 15 UNITS SC QAM BEFORE BREAKFAST
+
+AMBIEN 25 MG PO QHS
+
+
+
+All: 	NKDA
+
+
+
+PE: 
+
+VS:  	96.8	153/95		89	18	97% RA
+
+Gen: NAD, A+OX3
+
+HEENT: Multiple AK's on head, lentiginous lesions present.  Scar from SCC present at right vertex.  JVP 5
+
+Heart:  Irreg. Irreg.  2/6 systolic ejection murmur present.
+
+Chest: clear on Right with fine crackles at bases, Loss of breath sounds from midfield down on Left.
+
+ABD: Protuberant, non-distended, non-tender.  + shifting dullness.  No fluid wave.
+
+Extr: Trace pitting edema on right leg.  2+ pulses
+
+
+
+
+
+Labs:
+
+WBC                              4.6                       (4.5-11.0)     th/cmm
+
+HCT                              33.5             L        (41.0-53.0)    %
+
+HGB                              11.6             L        (13.5-17.5)    gm/dl
+
+RBC                              3.81             L        (4.50-5.90)    mil/cmm
+
+PLT                              142              L        (150-350)      th/cumm
+
+MCV                              88                        (80-100)       fl
+
+MCH                              30.4                      (26.0-34.0)    pg/rbc
+
+MCHC                             34.6                      (31.0-37.0)    g/dl
+
+RDW                              14.0                      (11.5-14.5)    %
+
+DIFFERENTIAL REQUEST             RECEIVED
+
+Diff Method                      Auto
+
+Poly                             65                        (40-70)        %
+
+Lymphs                           21               L        (22-44)        %
+
+Monos                            9                         (4-11)         %
+
+EOS                              4                         (0-8)          %
+
+Basos                            1                         (0-3)          %
+
+Absolute Neuts                   3.01                      (1.8-7.7)      th/cmm
+
+Absolute Lymphs                  0.95             L        (1.0-4.8)      th/cmm
+
+Absolute Monos                   0.39                      (0.2-0.4)      th/cmm
+
+Absolute EOS                     0.20                      (0.1-0.3)      th/cmm
+
+Absolute Basos                   0.04                      (0.0-0.3)      th/cmm
+
+Aniso                            None                      (NORMAL)
+
+Hypo                             None                      (NORMAL)
+
+Macrocytes                       None
+
+Microcytes                       None
+
+
+
+Sodium (Stat Lab)                140                       (135-145)      mmol/L
+
+Potassium (Stat Lab)             4.7                       (3.4-4.8)      mmol/L
+
+Chloride (Stat Lab)              110              H        (100-108)      mmol/L
+
+CO2 (Stat Lab)                   27.3                      (23.0-31.9)    mmol/L
+
+BUN (Stat Lab)                   55               H        (8-25)         mg/dl
+
+Creatinine (Stat Lab)            2.4              H        (0.6-1.5)      mg/dl
+
+Glucose (Stat Lab)               116              H        (70-110)       mg/dl
+
+
+
+Imaging:
+
+CXR 9/09/96
+
+Moderate left CP angle blunting increasing since previous study
+
+9/11/96.  No other change.
+
+
+
+
+
+EKG:
+
+
+
+Low amplitude EKG.
+
+PR interval 200ms, borderline 1st degree AV Block
+
+
+
+Impression/Plan:
+
+78 yo male with increased SOB and DOE, with increased left pleural effusion.
+
+1.	Coags
+
+2.     BS fingersticks qid
+
+3.	RISS
+
+4.	OK to diurese
+
+5.	Consider IR drainage
+
+6.	Cardiac Surgery Team will follow 
+
+
+
+Pt seen with Dr Stone.
+
+
+
+
+
+
+
+Dr Mickey Kyle, DMD, MD      
+
+
+
+
+
+
+   
+
+
+
+
+
+                                  
+
+                       
+
+                       
+
+
+                       
+
+                       
+
+                       
+
+                       
+
+  
+   
+
+  
+   
+
+  
+   
+   
+    
+   
+   
+    
+    
+    
+    
+   
+    
+    
+   
+    
+   
+    
+   
+    
+   
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+     
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+ 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+      lines
+    
+    
+
+
+
+    
+
+    
+    
+    
+   
+    names
+         date
+    
+
+   
+
+    
+    
+
+
+    
+
+
+
+
+line breaks  and breaks
+
+    
+names of 
+names
+
+
+
+    
+
+    
+    
+    
+
+
+    [
+
+line, but
+
+
+   
+
+
+\r\n line
+line,
+
+lines and the line 2 lines, line of
+lines, 
+names of
+
+line lines and lines or lines and line patients. 
+
+
+
+
+
+
+ 100, 8
+
+The words
+10 lines, or 
+date codes
+
+
+names, 1 and, 2 and the letter: 1
+
+(line or lines
+
+
+(1 or 1, 25, or space.
+
+or the letter.
+The line
+
+The
+
+
+and the line, or...the 4, and the patient,  and/names
+...the patient... 10 or... and the... are (are are a 25- or...
+
+(or and the 0, 1... (
+
+...
+The name of the doctor, not, 1. the following 
+: 
+and the names of the patient, the names of the 
+
+:, [name, “…
+
+...
+10: the:......1-c... of 1: the (are of...[: or:  and the... 11 (1 or, 
+
+
+, orific and:... ( 
+(  or, 1... [
+andise-make your (
+The and the  and, a and... and 11 (d 2 are, the and are the 2…
+1 3 and [(0 or and,  and, but, and (1, 2, [...,, the,
+[ 1, and, (1,  (1, 9, a and, and ( 
+[ 1 ( and, [(are, and, are, and, are 2 [and, and, (le of the [: the,  and,: and,...: 1 and... ([1, aniz. 1...: 1 and:...: and:... (0  are [[1... " are  are the in the in " or, (  [[, " [the, a in 3. [ 2 1 of the,., of the ",, and, or, ( and (1, and, are the (an ( are and (an would-1 an -,  ( an and,  and an, and, an an, an, an and, and, An, an, Anis, and of " and  and  "  an and, an and, and an, 1 An and of an,, an, 1, [ 3, 1, 1, 1, An.  and  (C and, the an (and,, a and (1, [2, 1-and-  an: and ( and of:  - an [ (:  (1:  " [:  - : and:: and (:  [  and: :  ( ( an-an: : -  or:  and : an or:  and : or ( [  [:  and,. an of an [ of, of  and and, or "  in, [ and and,  and,  [ or, An ( and [ ( [-  ( ( [ an,  ( or  [ or [  ( [  an, an  in are  an [,,  An An " an, an,  and -,  an  and  of  of an of or or,  or,  in and  and and  an- an, of, of, of and of  of, an  are or, an  are are and,,  or,   an or of  An  An An or (  or,, and  and  ( (  of the of:  of [  of the  and,  [ -  An, an [-  in-  An C-  of - an of an  An An of an or  or   and and and- or or, and of or or of and,, or, [ An and or ( C, or and, and and  ( and,,  and  of - and of an, [  An An, and of ( and of,  and and ( An of, [, of  of of, and and of, of of the of, An of  and,,, An and  and An An  and [  (, and,  and, and in an in and  and or [, [ and  of  ( (  an an and  -  an, or and (  - [  or [,  or  ( (, and  and or [ C or  (  and ( and, or ( and, and  or  and  of  of C of  and ( or [ C, C: and c,  C, : [ of and  and  and- -  or and and  and. and  C: and and and and  and of and  of and of  An ( and  or,  or of [ - and  and, and, of and [ of  of and,  of  An of  or of,- A An- or in  and.  and, 0 of of of and of of of of of, of and, ( C and and, and and.,,,. and  and, and, and,,,  and and or,  or, [,. -  ( and  and of of ( and of  of,  (  A ( C and and ,,  and (, and of  and of and of  and 1 0 and-   and  or and 0 and  or  and  and  and, [ and and and ,, and, C, and, and, H  and ( and ,  C and and or  and,  (,  and and and and (, or ( L, and and, P (,   C L  and and  P and, and, and [ C,  and,,,,. and,,, C in, and, , and  and. P L and ,,. and.  and of  of  of  of  of L C and of,, ( -  (, C -,,, or,,, (,,,., [ or ( , (, L L C C P, [ [, L L   C and  C C:  A or.  P ( C L (, L (  and ( and C ( and and, M I A (  C. and and, and and, C. C or  L C C L I 1  I C A or A and A ( and,  and ( A of, [, C and,. M and., and, (,  C,, C and and  or M A (, I C.,  and A  M C, A C ( L of and of or,, of,,, or,, and  (, A (, A, A A C C C ( C., and and and, A,,,,, P M (, ( C and ( M.. P M C M. (, ( of of,, A, (,

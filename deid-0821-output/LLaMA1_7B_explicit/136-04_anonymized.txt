@@ -1,0 +1,355 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2081-06-24
+
+Dunn County Associates 
+Internal Medicine Admission Note
+
+
+
+Patient: Fonseca, Linda
+
+DCA MRN: 7090253
+
+Date of Admission to Internal Medicine: 06/24/81 
+
+Attending: Dr A Jaeger
+
+PCP: same
+
+Code Status: Full code
+
+
+
+CC: abdominal pain
+
+
+
+Source: electronic records, patient
+
+
+
+HPI: 
+
+Mr Fonseca is a 64 yo F h/o breast cancer, insulin-requiring DM2, lupus, anxiety who is p/w 10 days of diarrhea, N/V and anorexia. Pt had originally presented to the DCA ED on 06/15/81 with 2 days of profuse watery diarrhea; treated with IVF and discharged. No fevers or chills at that time. Reports that she felt better, and experienced complete resolution of her diarrhea. Over the next week, pt had anorexia, and was able to tolerate soups and clears. 2 days prior to this current admission, pt had recurrence of her watery profuse diarrhea.  She endorses increased frequency (almost q1h diarrhea) that does not seem correlated with food intake. Wakes her at night.  Recently has been associated with worsening epigastric and LUQ tenderness. On the day of admission, pt had 3 episodes of non-bloody, non-bilious emesis. She denies dysentery, BRBPR, or melena. Denies ingestion of raw or undercooked foods.
+
+
+
+Pt presented to the DCA ED again,  vitals 97, 85, 109/57, 99%ra. Given 1L NS, D51/2 NS at 125cc/hr, levofloxacin 250 mg PO x1 for white blood cells in urine, and zofran.  Admitted to Internal Medicine for further management.
+
+
+
+Review of Systems:
+
+(+) fatigue, now x 1 year
+
+Denies visual disturbance, headaches
+
+Denies dysphagia, odynophagia, or oral ulcers
+
+Denies chest discomfort, palpitations, shortness of breath, DOE. 
+
+(+) abd pain, N/V, diarrhea as above. 
+
+Denies melena/hematochezia. 
+
+Denies dysuria, urethral discharge or increased urinary frequency
+
+Denies rashes, photosensitivity
+
+(+) intermittent chronic joint tenderness (hand, fingers, wrists, back)
+
+
+
+Past Medical/Surgical History:
+
+Lupus; (+) ANA, dsdna, smith; f/b Dr Merritt
+
+Breast ca s/p bilateral mastectomies w/positive nodes; f/b Dr Land
+
+Depression and anxiety
+
+DM2; insulin-requiring, well controlled A1c 6.9% (2/81), malb 11 (2/81)
+
+Hyperlipidemia
+
+h/o back pain
+
+h/o ear infection s/p Augmentin 
+
+
+
+Home medications (confirmed with patient):
+
+Asa 81 MG PO QD 
+
+Clonazepam 1MG PO BID PRN
+
+Effexor (VENLAFAXINE HCL) 150MG (75MG TABLET ) PO BID
+
+Humulin N 40 qAM / 22 qPM
+
+Humulin R (INSULIN REGULAR HUMAN) Variable (100 U/ML VIAL ML) SC 
+
+Hydroxychloroquine 200 MG PO QD 
+
+Letrozole 2.5 MG PO QD 
+
+Prilosec 20 MG PO BID 
+
+Simvastatin 40 MG PO QHS 
+
+Topamax 100 MG qAM / 50 MG aPM 
+
+
+
+Allergies: 
+
+Tricyclic Antidepressants - cough, 
+
+Sulfa - Rash, 
+
+EZETIMIBE - lethargy, GI Intolerance
+
+
+
+Family History (from PCP note and patient):
+
+Mom: stroke, CAD, leukemia, ms
+
+Dad: breast cancer, CAD, DM, stroke, leukemia, ms
+
+Siblings: thyroid cancer
+
+
+
+Social History:
+
+Lives with mother and cousin in house in 3 family house. No pets, or recent travel. Not married. 
+
+
+
+Tobacco: active smoker, &#189;  to 2 ppd &gt;50yrs. Not interested in quitting at this time. Does not want a nicotine patch.
+
+Etoh: denies
+
+Illicits: denies 
+
+
+
+Physical examinations:
+
+Gen: pleasant, smiling, coomfortable
+
+Vitals: 97, 81, 128/56, 97%ra
+
+HEENT: anicteric, MMdry
+
+Cor: regular, no murmurs or rubs
+
+Lungs: CTAB w/mild rhonci in lower fields, no wheezing or crackles
+
+Abd: soft, mildly distended, mild epigastric/LUQ pain, no HSM, hypoactive BS
+
+Ext: stable joint tenderness over wrists, fingers, knees, ankles. Joints do not exhibit erythema, warmth or ballotable fluid. 
+
+
+
+Labs:
+
+Na 141, K 3.7, Cl 105, CO2 22.5 BUN 17, Cr 1.13, glu 205
+
+Ca 9.3, alb 4.1, glob 3.8, amy 90, lipase 103
+
+ALT 24, AST 24, AP 115, TB 0.3, DB 0.1
+
+
+
+INR 1.0
+
+TSH 1.28, FT4 1.0
+
+UA: clear, trace ketone, &gt;1.030, gluc neg, 1+ prot, Hcasts neg, 1+ WBC
+
+
+
+WBC 15.1, HCT 43.6, PLT 211
+
+P  74%, L 11%, M 4%, Bands 10%
+
+
+
+CXR- no acute process, clear lungs
+
+ECG- NSR 80, nl axis, nRWP, no concerning STTW changes
+
+
+
+Assessment:
+
+64 yo F h/o breast cancer, insulin-requiring DM2, lupus, anxiety who is p/w 10 days of recurrent diarrhea, N/V, bandemia and anorexia consistent with infectious etiology. Interestingly, pt also has an elevated lipase, alk phos and some mild epigastric tenderness that suggest a mild pancreatitis. Distended abdomen c/f third-spaced fluid.
+
+
+
+Plan:
+
+
+
+Diarrhea
+
+&#183;         Follow-up stool cultures
+
+&#183;         Support with IV fluids
+
+&#183;         Consider CT scan if w/u is negative
+
+
+
+Pancreatitis
+
+&#183;         Bowel rest, NPO
+
+&#183;         Aggressive IVF w/D5NS x 2 liters
+
+&#183;         Pain control with morphine prn (but discomfort is very mild)
+
+&#183;         Check RUQ US to assess for gallbladder/pancreatic pathology
+
+
+
+DM2
+
+&#183;         &#189; dose insulin while NPO
+
+&#183;         RISS
+
+&#183;         Consider adding very low dose ACE I after diarrhea resolves
+
+
+
+UTI: no sx or indication for abx. Will hold on abx, and check urine culture
+
+SLE: will cont plaquenil. Appears to be clinically mild, no evidence of flare. ?etiology of chronic fatigue
+
+Depression/anxiety, breast ca: cont home medications
+
+PPX. Lovenox, PPI (reflux)
+
+FEN. NPO. D5NS 150 cc/h x 2 liters
+
+CODE: Full code 
+
+
+
+Case discussed with Dr Ritter, coverage for Dr A Jaeger, Medicine Attending.
+
+
+
+_________________________
+
+Virginia N Volk, MD, PhD
+
+PGY-3 Internal Medicine, DCA
+
+Pager 48249
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dise of 
+P
+
+
+
+
+DNA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P. (DON
+
+P.
+
+
+
+Dates or date
+
+
+
+DNA (or, etc, etc (DNA
+
+
+
+
+
+
+and the letter 
+
+
+
+
+During, Dates of, and DONs and/D,D and the 1, 1
+1
+(individual, or the patient names,
+
+or
+or
+D or  and 0 names of the patient.
+
+name patient names and the patient names, patient name, name and
+
+
+or 1, date the patient name 8 or the names... or, and
+Dates of the patient, and the and the names of the patient
+
+
+names the letter, the name, name, and [, etc, and the [...
+The, and names, and a, the names or, or 0 or the, or are...
+[name and 1.
+name, and a, 20, and, and [d, and names, names...: 20 (0:
+(name: 1, names of the name of 6, do: (1:
+112: 0 and:
+[... or...are, and 2-name of [of the 12 or 11 are: 1-are 1 (name, and the, and: “, “
+In the and, 
+and or, and 0 are the... (the,
+1, “1, 
+: or and the, and the (are, the…, the 1 are or,... of the... and "1 of the and “and, [ and or or and, orific, or, or, and of…, or and, and, (, 2, and and, the...
+and., and......,, and (are...and, "and. An,  and, are, and, are, are, and, (3, An, "and,, or, and, a (c, any-1-and, [...and and the...with-1: “an " and …. " [11 [are [may-1-are... are... of the and, or and... of a "or, (1 in the,,, and, anise, (re, (1 of the of the, and.:,, an: and, and, and and 0, and are an are, (1, (an would, an, by, 1, the, an, an, a,, an an (1, 1. and the, an, " and, an, and-1-1 and or, an, (and (an and or of, and of a and of the and an, An (an, an, and (1 and, (c, An An An, An and, an and and (an- 2, and and,,0 An An: an "2 of:, and-1: : An "2-2 (4-4- 2 [2-le: ( (: the (: and ( and: and and: an or: an (: an and an-1: ( an an: an: " of an are ( are ( " an " and an "- " an and and " an, and of the of [ " of An. an,. [ or and or ( [ and, an,,, an,, an,,  ( [0 and [ ( or, [2 " ( in an and an and- [ an an and or and, and in ( or and an, or " of the- or- an of, of,, or of, or or an of, or of the or or (  or, and An, and " with or,,, an- of an of of ( of  “ and of and ( and or, are, an are, or an in are and- an, of, of the an or ( An, An an " or, An An An An An of an- of, of, of:,,,  and and : An and: An An An- an an- or, an or an or or- an in in, an of an of or or- and an-1 an or-1-2 of, (,, An of, or ( or or, and and, and or and orism and, an, or and and, " An and ( of or or or an of-0 or or- 2 ( ( and c ( an, an or and-C Anity an an of of ( of, of the of [ ( of, ( An., ( or, (1 and and, an and and ( for and for for and an, an in, 2 (200-1 ( and an of of  and " ( an  " ( C or in ( and C ( and  and ( or an- or in and, or ( or or ( -1 or " C-C ( (  ( in " (, or-  of the of-  of " of and c-M -1 C C,: ( C " and ( and of: ( or: and:: c: and c and  ( and- and in and: (-1 an in " of and a with  of an " of and- and an and or- or and or or an of or or and of- of of or of An An of -, ( and, and or, or,- and in and in, (, ( of an of of of of of an of of of-  or ( ( 0 and ",, ( and, and,,- or- or or and, ( and  and, and, or C- or, (, and or ( or and or or,  of and of: of of of of and C- and and- or ( and and  C-  and, or  an c of and ( an  and  ( and- and and or ( or (  and (, ( and ( and  or c  to ( ( and and,- and, (. and and. and,, and,,  P C, C0, 0 A, and  and and and and, and and or, and- and or in, and ( and., or,,, or ( of, and,, C, and or, and P,,, ( to (, (, and,,1 or,,. C, H and, (, ( and, A. of of of 1 of  of a H  (  c- ( M ( H M (,, P,. P C I, I and ( C  C I ( I ( [,, or ( and- P ( and in C L  C C C.  I  C L C ( and  C N or, P ( H and P C and  H. H C I, I ( and ( M ( M and,, [, ( (, ,  C or P-  or P to, - C to C C C and (, or H ( and (, (,, and and,. B P ( and and, and., and,  and or (  or, C,,, B of, 1 H I and- I/ ( H.  C, or, of C or ,, and,., P, H of P, and of of H C of  or and  and ( and,,, (, ( M and MD and MD of ( of ( and ( m of-d C of and of and  (, of of of

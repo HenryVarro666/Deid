@@ -1,0 +1,745 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2083-11-01
+
+
+
+Westwing Place Nursing Home
+
+144 Chablis Court                                    GERALD, MARION
+
+Doha, KY 63216                            48967301
+
+(638) 074-1457                                           11/01/83
+
+(449) 515-0294
+
+
+
+REASON FOR VISIT:  Follow up coronary disease and diabetes.
+
+
+
+HISTORY OF PRESENT ILLNESS:
+
+1.  The patient underwent an angioplasty on 10/07/83 and comes in
+
+today having just had a stress test.  Stress test showed that she
+
+was able to do a standard Bruce protocol for 7 minutes 34 seconds
+
+achieving maximal heart rate of 116, peak blood pressure 122/60,
+
+stopped for fatigue.  Immediately after exercise, she did have
+
+some substernal chest pain, resolved 3 minutes into recovery. 
+
+There were no EKG changes.  The patient reports that she has been
+
+walking and has resumed her normal pre-hospitalization exercise
+
+level and does not have any chest discomfort with walk, which had
+
+precipitated the hospitalization initially.  She is looking into
+
+cardiac rehab program but is not sure that she needs to do this. 
+
+She feels very comfortable with her current exercise regimen. 
+
+She has been careful with her eating and feels she is living a
+
+healthy lifestyle.  She has returned to work.  She has follow up
+
+scheduled with Dr. Schaefer in two days' time.
+
+2.  Diabetes:  At last visit, I had added glyburide 5 mg to her
+
+Glucophage 2000 mg a day.  She monitors blood sugars but only in
+
+the morning.  Evening blood sugars are mostly in 90s to low 100s.
+
+ However, at times during the day, she feels hypoglycemically
+
+sweating and abdominal discomfort.  She has never actually
+
+checked her blood sugar during these episodes as they tend to
+
+occur at work.  She has not had any fainting or dizziness.
+
+3.  Elevated cholesterol, is tolerating Zetia.
+
+4.  Hypertension.  At last visit, we decreased her Avapro dose
+
+because her blood pressure was quite low at 100/64, and
+
+currently, she feels somewhat less fatigued.
+
+
+
+CURRENT MEDICATIONS:  Glyburide 5 mg q.d., Plavix 75 mg q.d.,
+
+atenolol 50 mg q.d., Zetia 10 mg q.d., levoxyl 50 mcg q.d.,
+
+Prilosec 20 mg q.d., Flexeril 10 mg q.d., Bumex 2 mg q.d.,
+
+Pravachol 20 mg two tablets q.h.s., Avapro 75 mg q.d., Glucophage
+
+500 mg two tablets b.i.d., and enteric-coated aspirin.
+
+
+
+DRUG ALLERGIES:  None.
+
+
+
+REVIEW OF SYSTEMS:  She denies chest pain, palpitation, shortness
+
+of breath, abdominal pain, or joint pain.
+
+
+
+PHYSICAL EXAMINATION:  She appears in excellent health and in
+
+good spirits.  Weight is 145, blood pressure 120/68, and pulse is
+
+70 and regular.  Conjunctivae are clear.  Sclerae are anicteric. 
+
+Neck is supple.  No neck vein distention.  Chest is clear to
+
+percussion and auscultation.  Heart: Regular rhythm.  S1 and S2. 
+
+No murmur, rub, thrill, or gallop.  Extremities are without
+
+clubbing, cyanosis, or edema.
+
+
+
+IMPRESSION AND PLAN:
+
+1.  Coronary disease, doing well, status post recent angioplasty
+
+with stenting.  Maintaining current medications of Dr. Schaefer. 
+
+At this point, I am not sure that she actually does need cardiac
+
+rehab, and we will defer that decision to him.
+
+2.  Diabetes, seems as though her control is 
+
+impressive, perhaps with recent change in her diet.  We will
+
+discontinue the glyburide and follow up in 4 weeks.
+
+3.  Elevated cholesterol.  We will check on lipid status in four
+
+weeks' time.  On current medications with target of LDL less than
+
+100.
+
+4.  Hypertension.  Blood pressure acceptable on current medical
+
+regimen.
+
+
+
+
+
+
+
+
+
+
+
+______________________________
+
+E Xochil Higgins, M.D.
+
+
+
+
+
+Dictated By: E Xochil Higgins
+
+
+
+
+
+eScription document:4-4587137 EMSSten Tel
+
+
+
+
+
+
+
+DD: 11/01/83
+
+DT: 11/01/83
+
+DV: 11/01/83
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------
+
+11/01/83 0000 2083044328 25159317 2071367791 091036560 112533676 05995276306 80273527998119 96758888518929 77579849819817 68251268862676 4128122879989858788767395534324069623115150578090314714463146272223146272223146272223769218701344457842314568591272304825866238256969768687386774583476777628000576699308087669764187641666796658166586658307655358766658667666666166666666666666865843866668666666666666666666666.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66 or
+
+
+
+
+or
+
+1
+ 
+
+207.
+
+
+
+
+
+
+
+
+16
+
+69110,2
+
+
+
+
+11,2213
+
+
+
+1
+110 information
+12 information of 25,6, 2, 666.
+1766, 6665.
+
+
+
+
+1433 or 1.
+1 
+
+45 77
+date names and the patient names, surn with, 3, with the clinical information and name, and any...
+17
+17, or name. 1, 1, 6
+
+The 5...
+The [15, 5, the names or, and, and/name, name and names, and names, the...
+[12….
+15 (or 3,15.
+[the, 13,20 or names, 125, or...
+1.
+[drew the following:, and 12:
+name:
+name with your name, you, the following... and the...:... (1:the…
+
+
+(re...…...
+
+...
+...of are: the...
+
+or:1: (name, and [... are names or, and (name (orise, and the:
+and, 
+, or (the and...
+(the, and (you-re the…make your, “and-10 and, 2, but are are (...… are the...1, 1, a (
+(…1, and, and, and, 0, but, 1, or, and, (...,,, the, or or, 1, or, and 2, as, and, an... [... and (are are, and... are and, 1.1, and and and, and the, an, and, the and and, or, and...: ( and (1, 1 (and,... the 1. and and names: and...: an  and 1...11... [1 are- 2 or are are (name that of a- 2 [withly of a and a [0... an or, [, the (le orine of this of the [of the and, and and (and, an, an (0, or, an and are, an " are and, an would-12 (2, an (3 and, an, an, [M. an, the (an (1, and (An, An (An (the [1, the an and, an [or, an and, and, an, (an, an, an, (any anine, 3, and, and, 1, 1 (an, 2, an and, (C, the, an, and, an (2, an "P in " and " (2, of an and (1-1:: [1 and: [:: [[ an “you, an::: "1... [ and [1-anine, an-0 or and, an: [ ( an: or (: ": and an-le an and are and or or and [-in (.-1 of it of it of an or of " and,. and, and, or, (,, (,, [ (, [ or [ ( ( and, or and and or- and, an [ and- and and are,, "- are, - an are ( are,, an, an " and-an and- and  of " and, and, or or of the and of or, an or in an, ( and in,,,, and, - and and, and of the of an of " [ and, and an., an-0 and or an,  ( of a of a are and of or -  and " or or an and a and in an or,, or an and of their of the of - of a (, and or and a,: and or, and - and- and ( an- [ or in an of a-cl-0 or of or a,- an a ( an- an, or,, and of a, [, of  and, in and (,,, " (,  ( or, or an  and or of a of, a an- or- an, or of a-0, for  a (h a,  for, of a of a of the of a of " of and of a of a to for,. and and, of,,,, and an,  a, and, a-1 of 1, [2, (, and [1-1 and a  and (  and  and-  a and in a or or an a in a for ( a or in [ a [ or, or in, [,-0 and- or- and or ( and and, c and or of  ( of an c of a and a in ( and or a a a (-c and: and of a: (: a:  a and in-1 or. a and- or. and: " a- or and a and of the c of ( or and and and or or ( ( c and-0 a,,  of and of a and of  of and (,  of the.  and in an and in and and and, and a for,, and of of a of and of the of  of a of and, a in- t ( and an-1, and, and and or. - an to  or and (, ( and and in or- and ( and- or, and,  a a a, and c a and of, c and-  an and and ( in and and and- an or, and and or an of an a an ( an an a or or ( and, and c and and and a (- a- and or an c or c or or c and or ( and.  or and a and, and and and and a and and and,, and and,.., c and,, and ( ( or and  and or or, in,, are,, are and do,, in,, a w and and (, and or n and,, ( and and,, and, (, and, and and ( a and (. and and in and, and and (, n, and,, m,, a of in,,,, and in a,,,,,,, and in,, (,,, and,,,, ( and c and (,- (, and,, [, and and ( a and, or or ( with a and  m c and and- m or and and or n c ( and and m with m ( or and ( or and [ me, and, [ and (, ( ( a ( or and in [ [ a for  or with, are m n and ( and  a, and m a, a, and a and, ( and and and and and,, m (, m and, a and ( and and, and and or and of m and a of of, a m or ( of m of of (- and, and M M a- a and and and, and,, m and,,, me and,, m and in, in M ( of m of of of, and, m or, m to and a,, is or is a a is is is, is is is and is has and has and is m- a, is

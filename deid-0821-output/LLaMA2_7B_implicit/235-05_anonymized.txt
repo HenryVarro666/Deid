@@ -1,0 +1,377 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2089-04-05
+
+
+	CARDIOLOGY
+	
+
+	SAINT VINCENT HOSPITAL
+	
+
+
+	Interval History:
+   Ursula is seen in the Cardiology office for a followup visit.  Since last seen, she notes a number of somewhat concerning symptoms.  First of all, she is noting some mid sternal chest discomfort with exertion.  She associates this with back pain related to a remote back injury, but nonetheless with exertions she develops some degree of mid sternal chest discomfort, non radiating, associated may be with some shortness of breath.  She has not used any nitroglycerin for it.  It gets better when she rests.  She denies palpitations, PND, or orthopnea.  Her sugars are out of control.  Her weight is down, nonetheless.
+
+Physical examination:
+	
+-Pulse:   80
+-BP: 130/85  
+-weight:   206 lbs.
+-General:   Overweight.  Well appearing.
+-Skin:   No rashes.  Anicteric.
+-Heent:   Unremarkable.
+-Neck:   JVP less than 5, possible venous hums bilaterally.  Carotids without bruits.
+-Chest:   Clear to auscultation and percussion.
+-Cardiac:   Apical impulse nondisplaced and discrete.  Regular rate and rhythm.  Normal S1 and split S2.  Soft S4 gallop.
+-Abdomen:   Obese, soft, nontender, and nondistended without hepatosplenomegaly, bruits, dilated aorta.
+-Extremities:   No clubbing, cyanosis, or edema.
+
+Procedures:
+	
+Electrocardiogram  normal sinus rhythm IVCD, old IMI.  In addition, she has nonspecific ST and T-wave changes.  Compared there is no important change.
+
+
+	Impression:
+   1.  Coronary artery disease status post multiple PCIs.  Ursula has the return of chest symptoms which are suggestive for angina.  I will refer her for an exercise tolerance test to better evaluate this.  I will continue on the current medication program.
+2.  Hypertension.  Her blood pressure is a bit elevated.  Given her diabetes, I think it is prudent to add an ACE inhibitor.  Accordingly, lisinopril 2.5 mg QD was added to her program.
+3.  Lipids will be checked.  I strongly suspect that her LDL is not well suppressed.  Our goal LDL in this case is less than 70 mg/dL.
+
+	
+Umberto Uzzell, MD
+
+	
+Signed electronically by  Umberto Uzzell, MD
+Document Status: Final
+
+
+
+
+Record date: 2089-04-05
+
+
+
+	LUNG
+	
+
+
+	HOSPITAL OF THE UNITED STATES
+	
+
+
+	
+-Ursula is seen in the hospital for a followup visit.  Last seen, her lung disease was under control.  She was doing well.  However, since last seen, she has developed some worsening shortness of breath.  She has some cough.  She denies chest pain, fevers, or night sweats.
+
+Physical examination:
+	
+-Pulse:   80
+-BP: 132/75  
+-weight:   206 lbs.
+-General:   Overweight.  Well appearing.
+-Skin:   No rashes.  Anicteric.
+-Heent:   Unremarkable.
+-Neck:   Lungs clear to auscultation and percussion.
+-Chest:   Clear to auscultation and percussion.
+-Cardiac:   No murmurs, rubs, or gallops.
+-Abdomen:   Obese, soft, nontender, and nondistended without hepatosplenomegaly, bruits, dilated aorta.
+-Extremities:   No clubbing, cyanosis, or edema.
+
+Procedures:
+	
+Electrocardiogram:  normal sinus rhythm IVCD, old IMI.  In addition, she has nonspecific ST and T-wave changes.  Compared there is no important change.  
+
+
+	Impression:
+	1.  She has developed some shortness of breath and a cough.  The cough is dry.  I will refer her for a chest xray.
+2.  I will continue the current medication program.
+	
+Umberto Uzzell, MD	
+
+	
+Signed electronically by  Umberto Uzzell, MD
+Document Status: Final
+
+	
+
+	REVIEW
+	
+
+	HOSPITAL OF THE UNITED STATES
+	
+
+
+	
+-Ursula is seen in the hospital for a followup visit.  Last seen, her lung disease was under control.  Her cough is still a concern.  In addition, she has had some dysuria.  She has not seen any hematuria.  Her abdomen has not been red.  She has not been seen for any urinary tract infection.
+
+Physical examination:
+	
+-Pulse:   80
+-BP: 133/85  
+-weight:   206 lbs.
+-General:   Overweight.
+-Skin:   No rashes.  Anicteric.
+-Heent:   Unremarkable.
+-Neck:   Lungs clear to auscultation and percussion.
+-Chest:   Clear to auscultation and percussion.
+-Cardiac:   No murmurs, rubs, or gallops.
+-Abdomen:   Obese, soft, nontender, and nondistended without hepatosplenomegaly, bruits, dilated aorta.
+-Extremities:   No clubbing, cyanosis, or edema.
+
+Procedures:
+	
+Electrocardiogram:  normal sinus rhythm IVCD, old IMI.  In addition, she has nonspecific ST and T-wave changes.  Compared there is no important change.  	
+
+
+	Impression:
+	1.  She has developed some shortness of breath and a cough.  The cough is dry.  I will refer her for a chest xray.
+	2.  Her urine dip has been clean and negative.  I will continue on the current medication program.
+	
+Umberto Uzzell, MD
+
+	
+Signed electronically by  Umberto Uzzell, MD
+Document Status: Final
+
+	
+
+	REVIEW
+	
+
+	HOSPITAL OF THE UNITED STATES
+	
+
+
+	
+-Ursula is seen in the hospital for a followup visit.  Last seen, her lung disease was under control.  She has some cough.  She denies chest pain, fevers, or night sweats.	
+
+Physical examination:
+	
+-Pulse:   80
+-BP: 132/75  
+-weight:   206 lbs.
+-General:   Overweight.  Well appearing.
+-Skin:   No rashes.  Anicteric.
+-Heent:   Unremarkable.
+-Neck:   Lungs clear to auscultation and percussion.
+-Chest:   Clear to auscultation and percussion.
+-Cardiac:   No murmurs, rubs, or gallops.
+-Abdomen:   Obese, soft, nontender, and nondistended without hepatosplenomegaly, bruits, dilated aorta.
+-Extremities:   No clubbing, cyanosis, or edema.
+
+Procedures:
+	
+Electrocardiogram:  normal sinus rhythm IVCD, old IMI.  In addition, she has nonspecific ST and T-wave changes.  Compared there is no important change.  ESR  48
+CRP  8
+
+
+	Impression:
+	1.  She has developed some shortness of breath and a cough.  The cough is dry.  I will refer her for a chest xray.
+	2.  She does not appear to be dehydrated or have an infection.  I will continue to follow the patient in the hospital.
+	
+Umberto Uzzell, MD
+
+	
+Signed electronically by  Umberto Uzzell, MD
+Document Status: Final
+
+	
+
+	REVIEW
+	
+
+	HOSPITAL OF THE UNITED STATES
+	
+
+
+	
+-Ursula is seen in the hospital for a followup visit.  Last seen, her lung disease was under control.  She has some cough.  She denies chest pain, fevers, or night sweats.	
+
+Physical examination:
+	
+-Pulse:   80
+-BP: 132/75  
+-weight:   206 lbs.
+-General:   Overweight.  Well appearing.
+-Skin:   No rashes.  Anicteric.
+-Heent:   Unremarkable.
+-Neck:   Lungs clear to auscultation and percussion.
+-Chest:   Clear to auscultation and percussion.
+-Cardiac:   No murmurs, rubs, or gallops.
+-Abdomen:   Obese, soft, nontender, and nondistended without hepatosplenomegaly, bruits, dilated aorta.
+-Extremities:   No clubbing, cyanosis, or edema.
+
+Procedures:
+	
+Electrocardiogram:  normal sinus rhythm IVCD, old IMI.  In addition, she has nonspecific ST and T-wave changes.  Compared there is no important change.
+
+
+	Impression:
+	1.  She has developed some shortness of breath and a cough.  The cough is dry.  I will refer her for a chest xray.
+	2.  She does not appear to be dehydrated or have an infection.  I will continue to follow the patient in the hospital.
+	
+Umberto Uzzell, MD
+
+	
+Signed electronically by  Umberto Uzzell, MD
+Document Status: Final
+
+
+
+Record date: 2089-04-05
+
+
+	REVIEW
+	
+
+	HOSPITAL OF THE UNITED STATES
+	
+
+
+	
+-Ursula is seen in the hospital for a followup visit.  Last seen, her lung disease was under control.	
+
+Physical examination:
+	
+-Pulse:   80
+-BP: 132/85  	
+-weight:   206 lbs.
+-General:   Overweight.  Well appearing.
+-Skin:   No rashes.  Anicteric.
+-Heent:   Unremarkable.
+-Neck:   Lungs clear to auscultation and percussion.
+-Chest:   clear to auscultation and percussion.
+-Cardiac:   No murmurs, rubs, or gallops.
+-Abdomen:   Obese, soft, nontender, and nondistended without hepatosplenomegaly, bruits, dilated aorta.
+-Extremities:   No clubbing, cyanosis, or edema.
+
+Procedures:
+	
+Electrocardiogram:  normal sinus rhythm IVCD, old IMI.  In addition, she has nonspecific ST and T-wave changes.  Compared there is no important change.
+
+
+	Impression:
+	1.  She has developed some shortness of breath and a cough.  The cough is dry.  I will refer her for a chest xray.
+	2.  She does not appear to be dehydrated or have an infection.  I will continue to follow the patient in the hospital.
+
+
+	Umberto Uzzell, MD	
+
+	
+Signed electronically by Dr.  Umberto Uzzell on 2089-04-05
+Document Status: Final
+
+Record date: 2089-04-05
+
+
+
+	REVIEW
+	
+
+	HOSPITAL OF THE UNITED STATES
+	
+
+
+	
+-Ursula is seen in the hospital for a followup visit.  Last seen, her lung disease was under control.  She has some cough.  She denies chest pain, fevers, or night sweats.
+
+Physical examination:
+	
+-Pulse:   80
+-BP: 130/75  	
+-weight:   206 lbs.
+-General:   Overweight.  Well appearing.
+-Skin:   No rashes.  Anicteric.
+-Heent:   Unremarkable.
+-Neck:   Lungs clear to auscultation and percussion.
+-Chest:   clear to auscultation and percussion.
+-Cardiac:   No murmurs, rubs, or gallops.
+-Abdomen:   Obese, soft, nontender, and nondistended without hepatosplenomegaly, bruits, dilated aorta.
+-Extremities:   No clubbing, cyanosis, or edema.
+
+Procedures:
+	
+Electrocardiogram:  normal sinus rhythm IVCD, old IMI.  In addition, she has nonspecific ST and T-wave changes.  Compared there is no important change.  ESR  48
+CRP  8
+
+
+	Impression:
+	1.  She has developed some shortness of breath and a cough.  The cough is dry.  I will refer her for a chest xray.
+	2.  She does not appear to be dehydrated or have an infection.  I will continue to follow the patient in the hospital.
+	
+Umberto Uzzell, MD
+
+	
+Signed electronically by  Umberto Uzzell, MD
+Document Status: Final
+
+Record date: 2089-04-05
+
+
+
+
+Record date: 2089-04-05
+
+
+
+	REVIEW
+	
+
+	HOSPITAL OF THE UNITED STATES
+	
+
+
+	
+-Ursula is seen in the hospital for a followup visit.  Last seen, her lung disease was under control.  She has some cough.  She denies chest pain, fevers, or night sweats.	
+
+Physical examination:
+	
+-Pulse:   80
+-BP: 132/75  	
+-weight:   206 lbs.
+-General:   Overweight.  Well appearing.
+-Skin:   No rashes.  Anicteric.
+-Heent:   Unremarkable.
+-Neck:   Lungs clear to auscultation and percussion.
+-Chest:   clear to auscultation and percussion.
+-Cardiac:   No murmurs, rubs, or gallops.
+-Abdomen:   Obese, soft, nontender, and nondistended without hepatosplenomegaly, bruits, dilated aorta.
+-Extremities:   No clubbing, cyanosis, or edema.
+
+Procedures:
+	
+Electrocardiogram:  normal sinus rhythm IVCD, old IMI.  In addition, she has nonspecific ST and T-wave changes.  Compared there is no important change.
+
+
+	Impression:
+	1.  She has developed some shortness of breath and a cough.  The cough is dry.  I will refer her for a chest xray.
+	2.  She does not appear to be dehydrated or have an infection.  I will continue to follow the patient in the hospital.
+	
+Umberto Uzzell, MD
+
+	
+Signed electronically by Dr.  Umberto Uzzell on 2089-04-05
+Document Status: Final
+
+
+Record date: 2089-04-05
+
+
+
+	REVIEW
+	
+
+	HOSPITAL OF THE UNITED STATES
+	
+
+
+	
+-Ursula is seen in the hospital for a followup visit.  Last seen, her lung disease was under control.  She has some cough.  She denies chest pain, fevers, or night sweats.
+
+Physical examination:
+	
+-Pulse:   80
+-BP: 132/75  	
+-weight:   206 lbs.
+-General

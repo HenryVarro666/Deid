@@ -1,0 +1,243 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2155-05-17
+
+
+
+
+
+
+
+
+
+17 May 2155
+
+
+
+
+
+Brandon Ponce, MD
+
+974 Parkhurst Drive
+
+Peculiar, NE 54583
+
+
+
+Re:	Jarome DEJESUS
+
+	ECI 280-44-07-1
+
+
+
+Dear Dr. Ponce:
+
+
+
+I had the pleasure of caring for Mr. Dejesus during his ECI admission 05/16-07/14.  He is a 72-year-old man with CAD S/P diagnostic cath one week ago at SCMHC, found to have a moderately tight lesion in the LAD without significant disease in the left circumflex or RCA.  Because of the recent onset of angina and a stress test showing anterior ischemia, he was brought to ECI, where Dr. Yoseph Flint stented the LAD lesion with a 3.5mm by 32mm Taxus drug-eluting stent, with zero percent residual.  The right femoral arteriotomy was closed with an Angioseal, and there were no complications.  
+
+
+
+He spent an uneventful evening without complaints, ambulating without difficulty.  His left groin was soft without hematoma or bruit, and extremities were warm and well perfused.  Morning labs included a BUN of 17, creatinine 0.9, hematocrit 37, platelets 236,000, and flat cardiac enzymes.  He was discharged home on Plavix, 75mg po qd for a minimum of six months; enteric-coated aspirin, 325mg po qd; digoxin, 0.25mg po qd; glyburide, 5mg po bid; metoprolol, 50mg po bid; Lipitor, 20mg po qd; Tikosyn, 500mcg po bid; Glucophage, to be resumed at 500mg po bid in two days; and Coumadin, to be resumed tonight.  He has PT/INR check arranged in several days.  He will follow up with you in the next two weeks, and will see his PMD, Dr. Paige, in the near future.  Thank you for allowing us to participate in his care.  Please call if you have questions.
+
+
+
+Sincerely,
+
+
+
+
+
+
+
+Barbara A. Rhoades, MD
+
+
+
+BAR/pham
+
+cc:	Robert-Joseph Paige, MD, 558 Paxton Terrace, Peculiar, NE 54583
+
+
+
+
+
+
+
+
+
+17 May 2155
+
+
+
+
+
+Robert-Joseph Paige, MD
+
+558 Paxton Terrace
+
+Peculiar, NE 54583
+
+
+
+Re:	Jarome DEJESUS
+
+	ECI 280-44-07-1
+
+
+
+Dear Dr. Paige:
+
+
+
+This is the second letter regarding Mr. Dejesus, who is doing well at home, following a 10-day stay at ECI.  He is 72 years old, with a chief complaint of chest pain, and a medical history that includes coronary artery bypass grafts and angioplasty in his 60s.  His past medical history is noteworthy for an acute MI in February of 2135 and another in 2143, both with complete recovery; chronic renal failure, requiring regular dialysis; chronic obstructive pulmonary disease; atrial fibrillation, for which he is on Warfarin; and chronic hypertension, for which he is on metoprolol.  He had an EKG on the day of admission, which was unremarkable.  He was given a beta-blocker and an ACEI during admission, both of which he is now taking home.
+
+
+
+The patient has continued to do well, and we will follow him closely as he continues on his beta-blocker and ACEI.  Please do not hesitate to call with any questions or concerns.
+
+
+
+Sincerely,
+
+
+
+
+
+
+
+Robert-Joseph Paige, MD
+
+
+
+RJP/pham
+
+cc:	Barbara A. Rhoades, MD, c/o Brandon Ponce, MD, 974 Parkhurst Drive, Peculiar, NE 54583
+
+
+
+
+
+
+
+
+
+17 May 2155
+
+
+
+
+
+Robert-Joseph Paige, MD
+
+558 Paxton Terrace
+
+Peculiar, NE 54583
+
+
+
+Re:	Jarome DEJESUS
+
+	ECI 280-44-07-1
+
+
+
+Dear Dr. Paige:
+
+
+
+This is the third letter regarding Mr. Dejesus.  As you know, he had an acute MI in February of 2135 and another in 2143, both with complete recovery.  He had an EKG on the day of admission, which was unremarkable.  He was given a beta-blocker and an ACEI during admission, both of which he is now taking home.  He had a follow-up EKG one day after leaving ECI, which showed no ischemia, and he is on a regular beta-blocker, as well as metoprolol.
+
+
+
+Mr. Dejesus had a 99% stent placed in his right coronary artery, which was found to be 82% blocked on coronary angiography.  The left anterior descending branch of the circumflex and the right coronary artery were both found to be 40% blocked on coronary angiography, but he did not have any interventions or medications for these lesions.  His left femoral access was closed using AngioSeal, and he had no bleeding or hematoma or incisional complications.  He spent an uneventful evening without complaints, and had good perfusion of his lower extremity on arrival, with no edema.  He was discharged home with metoprolol, an ACEI and beta-blocker, and he had an echocardiogram, which was unremarkable.  He is now on Coumadin, as per your recommendations, and will have regular INR checks.
+
+
+
+He is doing well, and will follow up with you in the near future.  Please call with any questions or concerns.
+
+
+
+Sincerely,
+
+
+
+
+
+
+
+
+
+17 May 2155
+
+
+
+
+
+Robert-Joseph Paige, MD
+
+558 Paxton Terrace	
+
+Peculiar, NE 54583
+
+
+
+Re:	Jarome DEJESUS
+
+	ECI 280-44-07-1
+
+
+
+Dear Dr. Paige:
+
+
+
+I have been asked a few questions by your nurse regarding my patient, Mr. Dejesus.  I am happy to be of assistance.
+
+
+
+He had an acute MI in February of 2135 and another in 2143, both with complete recovery.  He did not have any interventions or medications for the right coronary artery lesion that was stented; it was only the left coronary lesion that was treated.  Mr. Dejesus had a 99% stent placed in his right coronary artery that was found to be 82% blocked on coronary angiography, and the left circumflex was 87% blocked but not stented.  He had no interventional procedures or medications for the other arteries in this block.  I do not have the echocardiogram that he had while he was an inpatient with us, but I do not have any indication that there was evidence of pericardial effusion on admission to the hospital.
+
+
+
+Mr. Dejesus had no problems with access to the femoral artery for angiography or stent placement.  His left femoral access was closed using AngioSeal, and he had no bleeding, hematoma, or incisional complications.  He spent an uneventful evening without complaints, and had good perfusion of his lower extremity on arrival, with no edema.  He was discharged home on Coumadin, with good INR results.  He is also on metoprolol, an ACEI and beta-blocker, and had an echocardiogram, which was unremarkable.  He will follow-up with you in the near future.  Please do not hesitate to call with any questions or concerns.
+
+
+
+Sincerely,
+
+
+
+
+
+
+
+17 May 2155
+
+
+
+
+
+Robert-Joseph Paige, MD
+
+558 Paxton Terrace
+
+Peculiar, NE 54583
+
+
+
+Re:	Jarome DEJESUS
+
+
+
+Thank you for the information you sent regarding my patient, Mr. Dejesus.  He is doing well, and I am very satisfied with all the care that he received in the ECI.
+
+
+
+I am sending you a copy of a letter that Dr. Rhoades and I wrote to his PCP.
+
+
+
+I am sending you another copy of the letter that Dr. Rhoades and I wrote to his PCP.  I have been asked if I know where Mr. DeJesus will get his Coumadin checked in the future.  I have spoken with Mrs. DeJesus (his wife, whom I have spoken to several times on the phone and have seen once in person), and she said that they will have the INR checked once a month at their local clinic.  She said that her husband does not have insurance right now and does not want to go to a lab to have his INR checked.

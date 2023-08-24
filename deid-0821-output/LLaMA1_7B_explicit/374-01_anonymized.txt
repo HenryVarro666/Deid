@@ -1,0 +1,98 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2127-05-18
+
+ 
+May 18, 2127 
+ 
+Robert Xenakis, M.D.  
+Internal Medicine Assoc.  
+Internal Medicine 56th Floor 
+Houston Medical Center 
+Hayti, DE 69436 
+ 
+RE:  MCKEE, Norma 
+MR#: 6987776 
+DOB:  7/7/75 
+ 
+Dear Robert, 
+ 
+Thank you for allowing me to share in the medical care of Ms. Norma Mckee, a 51-year-old female patient with the history of seizure disorder, hypertension, borderline diabetes, gastroesophageal reflux disease and panic related symptoms, and depressive disorder, who complains of excessive daytime sleepiness with recent polysomnographic abnormalities.   
+HISTORY OF PRESENT ILLNESS:  As you already know, Ms. Mckee describes a longstanding history of snoring symptomatology and suspected nocturnal respiratory pauses, and describes a "restless sleep", but only relatively recently (over the last five months, particularly after 12/26 of last year). She has described marked increased daytime sleepiness.  She essentially describes a nocturnal sleep pattern which involves "sleeping around the clock" during which time she may initiate sleep between 12:30 and 1:00 a.m., and after a couple awakenings, will wake up at 10:00 a.m., only to demonstrate frequent and often prolonged daytime naps of four hours duration.  The patient states she will waken for a couple of hours and then reinitiate sleep for an additional four hours.  She states that she is so tired that she can "fall asleep right after breakfast".  She then would get up for lunch and then go right back to sleep and sustain sleep until 3:00 p.m.  in the afternoon.  
+ 
+Ms. Mckee also demonstrates a history of seizures initiated at 3 to 4 years of age, and was initially started on phenobarbital therapy.  She later switched to Dilantin therapy, but more recently and particularly since the mid 10's, she has been on Tegretol antiepileptic monotherapy 200 mg tablets, four tablets po q.a.m. and three tablets po q.h.s.  While Ms. Mckee also demonstrates both daytime and nocturnal seizures, there has been increased predilections for nocturnal seizures over the last year, and an increased amount of "diffuse" spike wave discharges are evident during light sleep, as detailed during a recent polysomnographic evaluation (please see below).  
+ 
+CURRENT MEDICATIONS:  Remeron, Celexa, Zestril, Prilosec, carbamazepine (200 mg tablets, four tablets in the morning and three tablets at night), clonazepam, hydrochlorothiazide, Premarin, tetracycline and klor-con.  
+ 
+ALLERGIES:  No adverse drug allergies reported.  
+ 
+SLEEP HISTORY:  Sleep onset intended for 11:00 p.m. but the patient does not often sleep until 12:30 to 1:00 a.m.  She describes one to two early morning awakenings, with relative ease with regards to subsequent reinitiation and maintenance.  Sleep offset initially occurs at 8:30 to 9:00 a.m. and sometimes as late as 10:00 a.m.  The patient will then get up and right after breakfast fall asleep for several hours in duration (up to four hours). The patient then will reawaken and have lunch and then after a couple of hours of sustained wakefulness, will reinitiate sleep for an additional four hours of sleep.  Patient may sleep until 3:00 p.m. on certain given afternoons.  
+ 
+The patient describes a history of prominent snoring symptomatology and suspected nocturnal respiratory pauses as well as "restless" sleep.  She denies a history of restless lower limb sensory complaints of nocturnal lower limb movements suggestive of periodic limb movement disorder.  She denies the history of abnormal arousal behaviors or associated narcoleptic symptoms.   
+PAST MEDICAL HISTORY:  
+1.   Seizure disorder.  
+2.   Hypertension.  
+3.   Borderline diabetes.  
+4.   Gastroesophageal reflux disease.  
+5.   Depressive disorder.  
+6.   Panic related symptoms.  
+ 
+SOCIAL HISTORY:  Patient denies active tobacco use.  She has discontinued all alcoholic beverage intake due to her reflux disease.  She averages two cups of tea per day.  While describing an overweight status, she has increased her weight by 10-20 pounds over the past four years.  
+ 
+PHYSICAL EXAMINATION:  On examination, the patient demonstrates a mildly hypersomnolent facies.  Speech is clear and fluent.  Receptive language functioning essentially intact.  No obvious cranial nerve deficits are appreciated.  No focal sensory motor neurologic deficits are noted.  No significant appendicular dystaxias or dysmetrias are currently in evidence. The routine gait appears to be normal based, without evidence of significant gait dystaxias.  No current clinical ictal manifestations are present.  No acute evidence of "microsleeps" are noted.   
+On HEENT examination, there is evidence of a small posterior oropharyngeal apeture, with increased redundant tissue evident posteriorly and a mildly elongated uvula, as well as a high riding base of the tongue and mildly increased tonsillar size.   
+Vital signs include a blood pressure of 144/88 (seated, left arm) and a heart rate of 88, with a respiratory rate of 14.   
+IMPRESSION:  
+1.   Hypersomnia (780.54):  Likely to be a result of frequent sleep disordered breathing events and their associated arousals.  Other diagnostic possibilities include the presence of gastroesophageal reflux associated arousals as well as nocturnal sleep disruptions due to sleep related epilepsy (although seizures appear to be under relatively good control on Tegretol anticonvulsant monotherapy).  
+2.   Obstructive sleep disordered breathing (780.53):  Patient describes a history of prominent snoring symptomatology and nocturnal respiratory pauses as well as extremely frequent intermittent obstructive apneas and a respiratory disturbance index of 26 per hour as noted during a recent 3/26/27 sleep study with associated O2 desaturations down to 76 percent.  Good clinical response to nocturnal CPAP therapy noted.  3.   Seizure disorder:  Recent literature suggests that there is a possible association between treatment of obstructive sleep disorder and increased seizure frequency in patients who are susceptible; i.e., thereby giving a further impetus for regular ongoing home CPAP therapy.  
+ 
+PLAN:  
+ 
+1.   Suggest regular home CPAP administration (CPAP Mallinckrodt; Respironics "contour classic" mask; ramp time of 20 minutes; warm air humidification; at 12 cm of water pressure).  
+ 
+2.   Pending clinical response, will reassess the patient's level of alertness, decrease amount of early morning awakenings, and possibly decrease seizure frequency at the next sleep study evaluation in 12-14 weeks times.  
+ 
+3.   In addition, patient is advised to continue efforts at weight reduction, use of an oro-dental, and/or potential ENT surgical approaches may also help to improve upper airway signs and symptoms.  
+ 
+4.   Patient to continue on Tegretol anticonvulsant monotherapy 200 mg tablets, four tablets po q.a.m. and three tablets po q.h.s. until an assessment of seizure frequency with nocturnal CPAP therapy has been made.  
+ 
+5.   Follow up neurologic reevaluation in our sleep study department is tentatively scheduled in 12-14 weeks time.   
+Once again, thank you for allowing me to share in the medical care of Ms. Norma Mckee.  I hope this letter finds you in the best of health.  
+ 
+Sincerely, 
+ 
+ 
+ 
+Salvador B. Irvin, M.D.  
+Department of Sleep Studies 
+Houston Medical Center 
+ 
+ 
+ADDENDUM:  Sleep study results (3/26/27):  
+1.   Extremely frequent intermittent obstructive (82) and partially obstructive apneas (63) during supine sleep, as well as intermittent hypopneas (19) and nocturnal hypoventilations, intermittent snore arousals (4) and episodes of moderate snoring (respiratory disturbance index = 26 per hour) with associated arousals and O2 desaturations down to 76%.  Insofar as stage REM sleep was not achieved, the actual degree of respiratory compromise may be under represented.  
+ 
+2.   CPAP administration (CPAP Mallinckrodt; Respironics "contour classic" mask; ramp time of 20 minutes; warm air humidification; at 12 cm of water pressure) served to considerably reduce the frequency of these nocturnal respiratory disturbances, help consolidate sleep, as well as improve O2 saturations (i.e., to 96% and above, even during REM supine sleep) and overall sleep stage architecture.  
+ 
+3.   Slightly increased periodic limb movements of sleep, activated during both "light" non-REM, as well as stage REM sleep (index = 8 per hour) with infrequent limb associated arousals (index = 1 per hour) both of which may serve to interfere with the continuity of sleep (the presence of REM related nocturnal lower limb movements may suggest some degree of REM motor disinhibition).  
+ 
+4.   Cardiac rates typically ranged between 72-87 beats per minute; average 80 beats per minute.  
+ 
+5.   EEG evidence of frequent bursts and brief runs of "diffuse" spike-wave discharges were evident during light sleep, without associated clinical accompaniment.  
+ 
+6.   Inability to achieve stage REM sleep under pre-CPAP conditions, but with prominent "slow wave and REM rebounds" subsequently noted with CPAP administration; i.e., accounting for more than 41% and more than 31% of the CPAP sleep times, respectively.  
+ 
+7.   Total recording period:  405 minutes; total sleep time:  377 minutes.  
+ 
+ 
+ 
+DD:05/18/2127 
+DT:05/20/2127 
+RS:91294     :1305
+ 
+
+
+
+
+[, 1, and, 1., of (.. ( (,, and, 1, are,  and the, are,  or and and are, an, are, and, and, and, the..., an, an in,...,. An An, an of the, and, an of this or, the,  and, and or and an and and, or, and of the, of the of the of and of it or and, " An An Anine, and and, and, an [1, and, and the:, an. and the, (, and and in an and “:,, an,  of an an or:,  of  of the:: ( (-2-1- -1- an- an::  and a: ( "  or- and an an: an an: an an or or: " and and or or: and  an " and an of it are-1- an or an ( an- an an an and of an of the of the an or of a. (. [  and and ( or an [ ( in an and and [ and an or in and- [ or-  and or [- and or- an or, and, [- (- an and an- (, an an and  and an an of an  of - or  an an, an, an an of - or and of and of and  or and and  - (  and  an or and of and of  of " of an of an of the and  an- and in an, or or, ( and  of the or  of an of or or or- "  an and or an,, or and  ( and of " of an of  of “ of " (  and  an an - or:  an an in, ( an or  or or of- or or to- and or, 2 or  an - and or for and- or and, " of an for and or for or and or and or, or an " and or  or- for or  for, or of and and  to or and to, to, and and,  and, of an 2  and  and and, an of the of  of  of an and and of the  of, of  of an, c an,, of,  and and  of the an,,   and 2 an -  an,  and and 1 an of  for - and and  or,  ( or c  " or - or,, -1, or or, or or - or - 1 and ( and and or ( ( and, " and and of  of or of our of c of  of the  and c, [ "  c. C.- and of the and- :  C (  "1.  and : and-  or (-1 and or of the of  an of the  “, of the or and- and  and and  or and or of  of the of  of  of the of of, and of and  or and  and  and and and  and and and " of the of and of of of of of " of of ( and with- and of, and  and  and,, and or, or, and and in and or. and " and,  and and  and and and c in 1 (  and  of-1 of of, c c and of  and- and an or- m, and or and,, w of and of or and  or  and and and, and and ( and and in or and and c and and and of a of and and and, and and, and, and and and and and and and, and and and, and an or ( and  and ( (., and and- ( and and, " and,, (- and  to and or in and and and  or and or  " and, and and and,  and and c in and,,,, and and with of,. and of for,,,  and and and,, in, in in and and in and in of, of or of  of a and and ( and, a in,. and and, and (. and of and, of of,,,, and,, and, ( and in- or  and during or and or  and and- 1 or and  " and " and- and and with and  for and n. as and and and of the ( and and, and or or and and, and, and and and an, and, in and, and and in, ( and as an and and for " for or "1  and m as,, (,,, m,  m, and and, for (, ( as,,  m,,, ( as and or,,  " to  to a  as  as,  in t- of, and of,, and  of of,, and of,  m, ,  m and  and and of and  and,  in   a or or, ( or or or and and - m and   ( ( and, m, (, and,,, and ", and, and and

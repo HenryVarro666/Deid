@@ -1,0 +1,485 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2070-08-28
+
+ CC: 
+
+follow-up
+
+
+
+HPI: 
+
+75-year-old woman with a history of hypertension, diabetes, and hypercholesterolemia and PAF with a prior stroke (2067) who subsequently was admitted to the OCH again for SDH with supratherapeutic INR in 2068. She has a prolonged hospital course as well as rehab stay and now returns having made significant recovery.  Her PEG was pulled-out in 06/69.  She is here with her husband who is translating from columbian.  
+
+
+
+I saw her about 1 month a go with hiperpigmentation of the skin, which I felt was melasma, and treated her with hydroquinone TP, sun blocking cream and avoidance of sun exposure.  Both she and her husband say tha her hiperpigmentation has decreased significantly.   
+
+
+
+At present she has no symptoms and says she feels well.  She ambulates with a cane, and she is planning a 6-month trip to Columbia next October with her husband.  
+
+
+
+She denies any other symptoms: constipation, polydypsia, polyuria, excessive fatigue, weakness 
+
+Denies fevers, chills, CP, SOB, n/v. GI/GU complaints.
+
+
+
+PMH: 
+
+Hypertension 
+
+Diabetes
+
+Elevated cholesterol.
+
+Stroke 
+
+SDH
+
+
+
+MEDS
+
+
+
+Medications (updated 8/28/70)
+
+LISINOPRIL 10 MG (30MG TABLET take 1) PO QD  
+
+ATORVASTATIN 10 MG (10MG TABLET take 1) PO QD  
+
+DILTIAZEM 60 MG (60MG TABLET take 1) PO QID  
+
+Lopressor (METOPROLOL Tartrate) 50 MG (50MG TABLET take 1) PO BID  
+
+Lasix (FUROSEMIDE) 20 MG (20MG TABLET take 1) PO QD  
+
+
+
+
+
+ALL: 
+
+NKDA
+
+
+
+SHX: 
+
+Originally from Columbia. Married and lives with her husband. She has a very supportive family. 
+
+
+
+FHX: 
+
+Sister with seizures.
+
+
+
+PHYSICAL EXAM:
+
+BP: 155/75 		HR:75		
+
+GEN: Pleasant woman in NAD. Amiling, in a wheelchair. Interactve, appropriate reponses.
+
+HEENT. AT/NC.  Sclera anicteric.  OP is clear.  There is no thyromegaly. 
+
+NECK: Supple. No LAD.  Carotids are 2+ without bruits. 
+
+HEART: RRR, no m/r/g
+
+LUNGS: CTA
+
+SKIN: Hyperpigmented skin in face, symmetric distribution, affecting more densely more cephalad areas of her face. The only area which is spaired is the nasolabial region.  
+
+
+
+
+
+ASSESSMENT/ RECOMMENDATIONS:
+
+No evidence of acute illness.  
+
+
+
+Other problems:
+
+1) HTN: on lisinopril 10 mg po qd, and diltiazem.  Her BP today is slihtly elevated at 150/75.  I will increase her lisinorpil dose. to 30 mg po qd.  Her las BMP was unremarkable.  
+
+2) DM: last A1C was 7.1 in 07/70.  She controlls her DM with diet. Urine microabuminuria, UA are pending.
+
+3) Lipids: will re-check. On lipitor 10 mg po qd.
+
+5) F/u with me after they return from Columbia
+
+
+
+
+
+
+
+_____________________________________________
+
+David Timothy Howard Baldwin, M.D.
+
+
+
+========================== Preceptor's Note ==========================
+
+
+
+Discussed with Dr. Timothy Howard Baldwin. Agree with assessment and plan as above.
+
+
+
+
+
+_____________________________________________
+
+Caleb N. Womack, M.D.,M.P.H. CC: 
+
+follow-up
+
+
+
+HPI: 
+
+75-year-old woman with a history of hypertension, diabetes, and hypercholesterolemia and PAF with a prior stroke (2067) who subsequently was admitted to the OCH again for SDH with supratherapeutic INR in 2068. She has a prolonged hospital course as well as rehab stay and now returns having made significant recovery.  Her PEG was pulled-out in 06/69.  She is here with her husband who is translating from Columbian.  
+
+
+
+I saw her about 1 month a go with hiperpigmentation of the skin, which I felt was melasma, and treated her with hydroquinone TP, sun blocking cream and avoidance of sun exposure.  Both she and her husband say tha her hiperpigmentation has decreased significantly.   
+
+
+
+At present she has no symptoms and says she feels well.  She ambulates with a cane, and she is planning a 6-month trip to Columbia next October with her husband.  
+
+
+
+She denies any other symptoms: constipation, polydypsia, polyuria, excessive fatigue, weakness 
+
+Denies fevers, chills, CP, SOB, n/v. GI/GU complaints.
+
+
+
+PMH: 
+
+Hypertension 
+
+Diabetes
+
+Elevated cholesterol.
+
+Stroke 
+
+SDH
+
+
+
+MEDS
+
+
+
+Medications (updated 8/28/70)
+
+LISINOPRIL 10 MG (30MG TABLET take 1) PO QD  
+
+ATORVASTATIN 10 MG (10MG TABLET take 1) PO QD  
+
+DILTIAZEM 60 MG (60MG TABLET take 1) PO QID  
+
+Lopressor (METOPROLOL Tartrate) 50 MG (50MG TABLET take 1) PO BID  
+
+Lasix (FUROSEMIDE) 20 MG (20MG TABLET take 1) PO QD  
+
+
+
+
+
+ALL: 
+
+NKDA
+
+
+
+SHX: 
+
+Originally from Columbia. Married and lives with her husband. She has a very supportive family. 
+
+
+
+FHX: 
+
+Sister with seizures.
+
+
+
+PHYSICAL EXAM:
+
+BP: 155/75 		HR:75		
+
+GEN: Pleasant woman in NAD. Amiling, in a wheelchair. Interactve, appropriate reponses.
+
+HEENT. AT/NC.  Sclera anicteric.  OP is clear.  There is no thyromegaly. 
+
+NECK: Supple. No LAD.  Carotids are 2+ without bruits. 
+
+HEART: RRR, no m/r/g
+
+LUNGS: CTA
+
+SKIN: Hyperpigmented skin in face, symmetric distribution, affecting more densely more cephalad areas of her face. The only area which is spaired is the nasolabial region.  
+
+
+
+
+
+ASSESSMENT/ RECOMMENDATIONS:
+
+No evidence of acute illness.  
+
+
+
+Other problems:
+
+1) HTN: on lisinopril 10 mg po qd, and diltiazem.  Her BP today is slihtly elevated at 150/75.  I will increase her lisinorpil dose. to 30 mg po qd.  Her las BMP was unremarkable.  
+
+2) DM: last A1C was 7.1 in 07/70.  She controlls her DM with diet. Urine microabuminuria, UA are pending.
+
+3) Lipids: will re-check. On lipitor 10 mg po qd.
+
+5) F/u with me after they return from Columbian
+
+
+
+
+
+
+
+_____________________________________________
+
+David Timothy Howard Baldwin, M.D.
+
+
+
+========================== Preceptor's Note ==========================
+
+
+
+Discussed with Dr. Timothy Howard Baldwin. Agree with assessment and plan as above.
+
+
+
+
+
+_____________________________________________
+
+Caleb N. Womack, M.D.,M.P.H.
+
+
+
+
+
+
+
+
+
+
+
+The patient's names
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The, and
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+names or initial
+
+
+
+name
+
+
+
+
+
+
+
+names,
+name of
+
+The name:
+
+the name
+or name
+name, the patient
+
+
+
+
+
+
+
+
+The [name and identify.
+
+information and/names... names, identify names and the patient names with the patient names, and the names, names or... 
+(d
+or name... (the names.
+
+
+name
+or...
+(years and names, and...
+(or names, and name and identify the names, or name, names.
+and the name or names, and the date 5, or, orated, or a patient and are or name.
+The are and the, or 22, and the patient names, and name.
+let. If 20:
+
+
+name (or: remove the [...
+
+
+the 
+
+name: names, the patient…
+andize or [1, the 
+d. This orific (are: (
+...
+...
+[0 are (
+(0-1 or: (
+are or: and would and the 3 and the [and the [
+The and, and the (1, but [the…, but, as a “
+
+(the, and the (...
+: and and the, and, as and the are the (
+make the….
+(
+...
+
+and, and the (...and are, and, are a. An,
+, or, 1, and [
+, and, and and, the, the, and the,
+, (1, the. Aniff and the - (1, and, 1 and (,
+, a,  and, and and, are and, the are the and: (
+, and and a- and, the-the 1 and: and [... (with the...: (follows (pat and: an in a [1...  [in in the [0... canine or are and of the  or [with, and the, [the ( the, and, and the, and, and, [. of the [. of a: and, but, and or, and, an and, [ and have the are or (are (can-  (ann,  and or (1 an, a-1, [and and,
+, " an [an,, ( ( and, and ( and (an, [, and [  and, and in the... and or, an, and, an and,, an, and the [and, and, and, the an and, 1, and, and or,, and and, An " an [1, the - "an, (1, ( 1-1-10: an of a " an and-2, and: and-  and- an:: [: and [- an and-the, [ " and "... (  ( an: and an: an an: : an or and- an: an- an- are, are, are " are or-, ( ( and ( an- or- of ". of and, and " or " in an, (, [ ( or [, " or [, and are, [ [- are [ in a- [ [- (, and are and [- an are " and an, An C An- in, in  or- and and  an- an of, of the in an an, an and and of  and of an and  of the  or an, and  in or ( ( an, of,- and of “ and of the an  of an with or with the ( in an are, in  of the,,  an of- of- or  or an in an ( an or, or  and  or ( an and with of and of, of  of the and and and and,, and- an and- are ( and ( or or to for-1 or for for an or-an for 1 ( or  and- with for an or,- and or,, - and  or - and ( - or or, with, or, for,  in- or or, and, or  or ( of, for or or (  ( and and-,, and -  of the  and  and of  of, of and of  of, and of a and of and - an. with ( and,, and with, and an and with and 2 an and and ( or an  and, and, or  and and of the and " or (  (0 - ( an- an ( C- an - [ or  ( and  or,  (,  ( or or ( or [ an  ( - an  or  on, in an - - an and in a  or, with of and of, and and - and ( and - - and c and ( ( and and- - and an or and  - C C or  and  and  - ( : and-  and and and-  and -0 -1 and " and, or -- and or or or and and, or - and or of of and of  an-  and,  ( and  with or  ( and and or- or (  of an and-1, of of of and of or of (,.  ( and and and  or and, and,,., - C. 1 (,, 1  or or  or  and -  and (: and  of, ( of ( (, or of  -  and, (, and and, [ of or-1,  an (1 or -  and ( (, and. and  and, (  and an ( C and  and or and and  and C, and  and, and in and,, C with (, P and,,, a ( C and and with, ( and, and, and,, ( and -1 and, P with (  and  and,,  (  in  in and, , and and, C and,,, and, and,,, m,, and and (   and  C,, M and  (,  in M  M M. and  C and in M M M. C C [ C. C and and. and and. ( C,,, P ( P ( M M M and M M M M and M ( and, and ( C M and M M M P L M. H M and  M. M ( and H M and M P or,, and of, C M and and ( M M M and and ( C M G C M  and M and M ( or and ( and  (  m M-  M M M and (, and C and. and  M and and and, of of and of, and, and M of and and and of, and of M and of of of of M of and _ ( and M.  M and (,  ( M, 1,,. of of of of  and of of ( of. and M, M m,  M of M M M of M of  M and and, or, and ( C M or or M MD M M and M. ( M and M M or  ( M M, (, of, M of (, M,

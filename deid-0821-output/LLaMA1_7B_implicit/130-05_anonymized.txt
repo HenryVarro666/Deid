@@ -1,0 +1,435 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2090-04-30
+
+EDVISIT^83288425^PAUL, MAE^04/30/90^CORTES, ODESSA
+
+The patient was seen in conjunction with resident, Dr. Peacock. 
+
+Resident's note was reviewed.  The patient was seen and examined
+
+by me.  Please see the resident's note for details of the
+
+patient's past medical, social, family history, review of
+
+systems, and physical exam.
+
+CHIEF COMPLAINT:  Bleeding fistula.
+
+HISTORY OF PRESENT ILLNESS:  This is a 78-year-old woman with
+
+end-stage renal disease, on hemodialysis, who is here with
+
+bleeding of her left upper arm AV fistula that she uses for
+
+dialysis that started today at dialysis.  When the patient pulled
+
+up her sleeve, she scratched herself and it began to bleed. 
+
+Blood pressure is 112/60.  The bleeding can be controlled with
+
+compression and so she presented to the Emergency Department
+
+where she was seen by the Internal Medicine for repair.
+
+PAST MEDICAL HISTORY:  The patient has a history of severe aortic
+
+stenosis with 0.7 cm greater diameter, mitral regurg and
+
+tricuspid regurg, end-stage renal disease on hemodialysis, PVD,
+
+foot drop, anemia, sciatica, left thigh pain, hyperlipidemia,
+
+secondary hyperparathyroidism, hemorrhoids, coronary artery
+
+disease status post non-ST elevation MI, CHF with an EF of
+
+35-40%.
+
+PAST SURGICAL HISTORY:  Includes a TAH, appendectomy, cataract
+
+surgery, ovarian cyst removal.
+
+SOCIAL HISTORY:  Never smoked, does not drink or use drugs.  She
+
+is retired, lives with her daughter who is a surgeon.
+
+FAMILY HISTORY:  Shows an extensive vascular history.
+
+REVIEW OF SYSTEMS:  Otherwise, negative.
+
+PHYSICAL EXAMINATION:  She is afebrile, normal and stable vital
+
+signs.  She has bilaterally faintly scattered rales on chest
+
+examination and she has a small laceration on the left arm over
+
+the fistula with an excoriation and this squirting blood would
+
+not controlled with pressure.
+
+LABORATORY DATA:  CBC is normal with a hematocrit of 43.  Chem-7
+
+is otherwise normal.  Coags reveal an INR of 1.4.  Chest x-ray
+
+shows no acute disease.
+
+EMERGENCY DEPARTMENT COURSE:  She was seen by surgery who repair
+
+her fistula.  She is due to go to dialysis now and due to sickle
+
+nature of her disease, I think it is best that she keep her
+
+dialysis appointment and so she is transferred from here with her
+
+daughter to the EHCC Dialysis Unit to undergo full dialysis.
+
+PRIMARY DIAGNOSES:  Bleeding aVF and end-stage renal disease.
+
+DISPOSITION:  She is discharged in satisfactory condition.
+
+______________________________
+
+CORTES, ODESSA M.D.
+
+D: 04/30/90
+
+T: 04/30/90
+
+Dictated By: CORTES, ODESSA
+
+eScription document:5-52221754 FVQtwry
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+
+
+
+
+*****************************
+
+EDDISC^5.00^31^21067^20900430^C106500911000000003143592118291275131110900001^C1370253250300100753000106695518171915752200000000000001^C13424003207000700442387105817934687955276065445229403106382000031^C
+
+****************************
+
+EDISP^30460^C1678491^204628955^10312540680009982101^1^560^0^1^512^0^1^0^0^1^1344^1^1^1^1^1^1
+
+
+
+
+EDVISIT^30460^PAUL, MAE^1^204628955^C52086857^975860950^C1^0^0^0^100^0^C5^124^61^C
+
+
+
+
+
+EDDISC^30460^31^21067^20900430^C106500911000000003143592118291275131110900001^C136040969286001003000033540793848000000000000001^C1339826228070007000441059110712656961145735000021^C
+
+******************************
+
+EDDICP^15685^C1678491^204628955^10312540680009982101^1^560^0^1^512^0^1^1^0^0^1^1606^1^1^1^1^1^
+
+
+
+
+EDVISIT^15685^PAUL, MAE^2^204628955^C60660058861^C0^0^1^500^0^0^0^0^0^1^166^1^1^0^1^1^1^
+
+
+
+
+EDDISC^15685^32^21067^20900430^C790560222562^C189187051200^C1923448312^1^560^0^1^604^0^
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*****************************
+
+EDDISC^5.00^32^21067^20900430^C12999957410000000001001001^0^1^C13702532503001007530001066955181719157522000000000000001^C13424003592499998007809181535157548338064472000021^C
+
+****************************
+
+EDISP^5.00^33^21067^20900430^C134240036063000989502181156865457882523478545968966490000000000000001^1^0^0^0^1^0^10^1^0^1^1^1^1^1^1^1^1^95^1^1^1^0^1^0^1^1^1^1
+
+
+
+
+
+
+EDDISC^5.00^34^21067^20900430^
+
+C13424004871142112^0^0^0^0^0^0^0^0^0^0^0^0^0^0^0^0^0^0^0^0^0^0^0^0^0^0^0^0^0^0^0^0^1^0^0^0^0^0^0^0^0^0^0^0^0^0^0^0^0^
+
+
+EDDISC^3048784^0^0^0^0^30^09999999999^
+
+
+
+
+PASTUDIT^000
+
+
+
+
+\
+00007878^
+
+
+
+
+
+
+
+*
+
+201002
+
+
+
+
+
+0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+20
+
+
+
+15
+
+
+
+24 89
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20201
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAL
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+201
+
+
+
+
+Due_A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and a
+
+
+
+
+
+
+
+
+The following
+With, 3.
+and
+and.
+The following date
+
+and:
+
+
+and:PA.
+
+and the  and date, and a
+
+
+
+
+
+15 and date.
+M
+A (2. 1
+date.
+The date date:
+and the document and IMA:
+and 1.
+
+1.
+Date: 
+
+
+
+It and the A. This and a
+
+The
+
+A
+The1462.
+[50.2:
+
+The: 1, but a. 2024
+A.
+with:
+A (name:
+.
+:11
+A: and is a day. A day:
+1 day: 9 day. and the 0. A (a: 09 and a date and the.
+
+and, and 9 and the, 
+P and a An. An, and a: Anistr, 9. An and the (per, asays inx. Anified Anient Anist: a, is a (20:Anine, and, to with, and: and the and. and  and:  and [f, and a "0 and and and,. and [0. An [3. An and/2 An. 1. An An An Anifest and the and.0. 0 -20-6, 100000000000 An Anistr. Anistr Anina An Anine.. with the, last with a with a with the with an. An. Anistic,.. An. An, but. and the for the and, the as the in. An. Anificive and a. An. An.  and.. Anim and, B. and (and and ( and. An and,. Anine and. and.0. with the with the with the. with the and.0 by the CINE. Anise and. with the  with [4. An An Anine ([0 and (0 for a and for the and, (2 on a [9,0. Anise in. An [9. [in [., the and the (d and a. [. An, [2 in the and in the,: An An An and, the, the: and a,. An, An An, A with < (-  An An An C,. An. An C,: and [ and [ and was,  with the and with: with with the [ and. [ in: and [: [.: with with and for and ( and, [ and ( in (: and in and: in and: in for [ of the-tre and and,, an and for the. [ and and [ and [: for.: and for and ( and. An, and,, for,, -2. in and and in.,1, [ and and. [0 An. [10 and-c, and [-1 and [tre, [-2-1. for  of [,,  [ and and and for [2 to, [9 in for [ ([. ( for for. to, for. for. in with [ in, [ of [ of and of of a (. to,, to and and for the, to-and and and. and [ and., and and and and ( to [ and. and-and to and to and and., and- and,-C in-in-t and for and [ with to in in and in a in and in a with for, and with, in for-t-t.-t in and-M.-t in with and and with with, with and and, with with. and. and with with and with and. and, and. with by with with, with with with with with and and with with and with, and, and and, and and of of [ of  of and in of and, PA,-  and [-M of. C of a and,. and, and, and and and to, a with and with the and, and,, and, to, and for and and and and, is and is for and ( R and: and and [ and. : ( C and and to and [ and- and [ and and, ( C and and and or and - [-1 and and and C and-M and to and (-t C R and PA, C-d [ R R M M B. - [-
+, ( PA M,, ( ( C with ( and and " and C D- and, and “ ( R and in "- [ ( (-[- and and [ R and [ C. and ( (, and,. ( [ and and ( and [ and [. and [ and and-c [, ( of, ( [-4 and - and, [9 and C (5 and, and [1 [-9, R ( and (1 C R ( and C C. - M. - ( M D D (. C H ( and- and [ H ( R and and and with [0-P R and and and (.-de. R-[ D R (. M D-0-2  C. [  and-	-tre and,-	- and- and-1 and-1-M-de. [.-.-  and ( [ C and-
+ and or " C ( ( D R F C and and ( D Dine and and and and and " and- and C and-d-P, [ C [ and R D [0 and. C. C and C D for and and [ and [1 F C ( F C D for C ( F F A R F A C ( ( M C. C ( ( D and M T C C C R and F and on ( and and A R ( and and and-1-1-212-R R-R-1-t R and R-0 ( D M R ( D C and and, and-M ( R C and A F A and A and ( (1 (-C and (-ch and--C--1--1-1-C C-1 [-M (-[-x and and. [ C, E [ [ D C. F [ C F C C and ( C. ( A-M and C [ R. C R F C-C--c-R C ( R. A C. ( and A-0. ( C [>. M and with A R and (1. and C, [1 and.---4-1.
+ [2-A, A C [[0. M (1 ( C or-R [2 (-[-( R A [

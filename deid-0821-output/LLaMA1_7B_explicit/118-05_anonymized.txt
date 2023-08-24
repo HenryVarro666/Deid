@@ -1,0 +1,121 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2118-04-15
+
+
+	CARDIOLOGY
+	
+
+	PARK NICOLLET CLINIC
+	
+
+
+	Reason for visit:
+   55 y/o Columbian male with a history of HTN, hyperlipidemia, severe AS s/p AVR (St. Judes) in 3/17 and recent composite arortic homograft replacement for MRSA/VISA endocarditis presenting for follow-up. 
+
+
+	Interval History:
+   The patient's complicated cardiac history dates back to 3/17 when he underwent mechanical AVR for symptomatic severe AS.  He had preserved LV function and pre-operative cardiac catheterization showed multi vessel non-obstructive CAD.  He initially did well, but had a prolonged hospitalization in 7/17.  At that time, he developed acute cholecystitis and post-ERCP pancreatitis which was complicated by phlegmon and pseudocyst formation.  He was admitted to PNC in 1/18 for elective open cholecystectomy and roux-en-Y cyst-jejunostomy.  He underwent the GI surgery on 1/11/18.  His post-operative course was complicated by recurrent GIB upon re-initiation of anti-coagulation for the mechanical AVR that prolonged his hospital stay. 
+
+Unfortunately, he developed line-associated bactermeia and sepsis 4 weeks into the hospitalization.  He developed high fevers on 2/07/18 ad he had serial cultures positive for MRSA that had intermediate sensitivity to Vancomycin.  He was initially treated with Vancomycin and Gentamicin with addition of Rifampin later in the course of treatment.  He developed progressive PR prolongation on ECG and  a TTE on 2/10/18 and TEE on 2/11/18 showed vegetations on the aortic prosthesis with evidence of annular involvement with abscess.  A follow-up TEE on 2/17/18 showed worsening aortic root abscess and he was ultimately taken to the OR by Dr. Elrod on 2/17/18.  The intraoperative findings were notable were notable for severe aortic root involvement and he underwent composite aortic homograft replacement that was complicated by severe RV failure.  On POD 0, he had recurrent malignant arrhythmias (VT/VF) which required ~ 50 defibrillations and open cardiac massage.  A TEE done after stabilization showed global akinesis and severe TR, and preserved LV function.  Emergent coronary angiogram showed evidence of RCA vasospasm.  An IABP was placed and he was treated with beta blockade and for vasospasm.  HE was taken to the OR for closure on 2/22/18.
+
+His course was subsequently notable for ARF which transiently required CVVH, development of HIT, and vascular emboli to the right lower extremity which led to dry gangrene og the right 3rd digit. ABI testing revealed no evidence of PAD.  He was followed by ID and was placed on daptomycin and Bactrim. He was seen by Vascular surgery and was not deemed to require any surgical intervention and was scheduled for outpatient follow up.  With supportive care, he was successfully weaned off IABP and ventilatory support and transferred to the step down unit.  His course there was notable for mild hyperkalemia that was felt to be related to Bactrim induced RTA. He also had severe depression that was felt to be related an adjustment disorder. He was discharged to a rehab facility on 3/22/18 and was discharged from rehab 12 dyas ago.
+
+Since discharge, he reports doing relatively well. He reports fatigue and DOE after walking up a flight of stairs.  He is able to walk up to 15-20 minutes continuously.  He denies any chest pain, dyspnea at rest, PND, orthopnea, LE edema, palpitations, syncope, or pre-syncope. He also denies any fevers, chills, or weight loss. He has been seen in follow up by Dr. Infant-Nickel in ID earlier this month.  He was noted to be doing relatively well but still had an elevated ESR and CRP.  The plan is continue a prolonged oral taper of Bactrim.  He has completed a 6 week course of daptomycin.
+
+
+	Past medical history:
+   1. MRSA/VISA prosthetic aortic valve endocarditis. Originally underwent AVR for severe AS on 03/13/2117. Developed aortic endocarditis and aortic root abscess as a complication of line sepsis in 2/18 and underwent composite aortic homograft replacement on 2/19/18. Intraoperatively developed severe RV failure.
+2. RV failure. Complication of aortic homograft surgery. TEE on 2/20/18 showed severe RV hypokinesis and severe TR.
+3. HIT. Developed HIT post-operatively after aortic homograft replacement in 2/18.
+4. Coronary artery disease. Preoperative cardiac catheterization on 03/11/2117 demonstrated 30% focal narrowing in the left main; proximal 30% lesion in the LAD; 50% lesion in D1; mid 50% lesion in the left circumflex, and normal RCA. 
+5. Dry gangrene of right 3rd digit of right foot thought to be secondary to an embolic complication of IABP versus HITT.
+6. Hypertension. 
+7. Hyperlipidemia.
+
+
+
+	
+
+	Changes to Allergies
+	
+Heparin - reaction: Thrombocytopenia or Anemia [reviewed]
+
+
+	Medications (Confirmed):
+
+	
+ascorbic acid  250mg po daily
+aspirin  81 mg po daily
+atenolol  25mg po BID
+Bactrim DS tablets 
+Coumadin  5 mg PO at bedtime
+Lasix  40mg po BID
+Lipitor  40 mg PO daily
+Protonix  40mg po daily
+Silvadene 
+zinc 
+
+
+	Review of systems:
+   As per HPI.
+
+
+
+Physical examination:
+	
+-BMI:   
+-Pulse: 72  
+-resp. rate: 16  
+-weight: 178  lbs.
+-General:   No acute distress.
+-Heent:   Oropharynx clear
+-Neck:   2+ symmetric carotid pulses with no bruits.  JVP of 12-14  cm with prominent V waves.
+-Chest:   Decreased BS and dullness to percussion over the right base. Otherwise CTAB.
+-Cardiac:   Discrete non-displaced PMI. No clear RV heave. Sternal wound well healed with no sternal click. RRR. Normal S1 and widely split  S2.  Soft 1-2/6 SEM. No diastolic murmur. 
+-Abdomen:   Soft, non-tender, non-distended with pulsatile liver.
+-Extremities:   No lower extremity edema. Tip of 3rd toe on right foot has dry gangrene but no exudate or open ulceration. 1+ DP on the right and 2+ DP on left.
+-Neuro:   A&amp;O x3
+-BP: 107/60  
+
+
+	EKG:
+   NSR 75 with 1st degree AV  block, RBBB, and LAFB.
+
+Selected recent labs:
+
+	
+		
+	
+
+
+	Assessment and plan:
+   55 y/o Columbian male with a history of HTN, hyperlipidemia, severe AS s/p AVR (St. Judes) in 3/17 and recent composite arortic homograft replacement for MRSA/VISA endocarditis. The patient had a prolonged hospitalization with a complicated post-operative course that was notable for RV failure, ARF, HIT, vascular emboli to the right foot, and mild hyperkalemia.  At this point, he appears close to euvolemia by exam and has no evidence of decompensated CHF. HE has evidence of severe TR on exam. From an ID perspective although all recent cultures have been negative, the resistance pattern of his MRSA and persistent elevation of ESR and CRP are concerning, and he will require a prolonged course of anti-biotics as outlined by Dr. Infant-Nickel.  His ARF has resolved and his vascular embolic events to the right foot are not an active, acute issue as he only has dry gangrene and no evidence of infection. 
+
+PLAN:
+1. PVE endocarditis.  He is s/p composite aortic homograft replacement. He will need a prolonged Bactrim taper per ID. We will obtain CBC, chem panel, LFTs, ESR, CRP per ID today. He is currently on coumadin and will likely need this for a total of ~6-8 weeks post-operatively.  We will continue coumadin pending his visit with Dr. Elrod next week.
+2. RV failure.  Currently well compensated with no evidence of systemic congestion.  We will continue his current dose of lasix.  Dry weight ~175-178 lbs. I will obtain a repeat TTE to reassess RV and TR severity.  We anticipate some recovery of RV function.  
+3. ARF. Resolved. We will check a follow up chem panel today.
+4. Right foot gangrene. Involvement of the right 3rd toe with no wet gangrene or signs of infection.  ABI testing in 3/18 showed no PAD.  He will need outpatient follow up with Dr. Werner in vascular surgery.
+5. CAD. Non-obstructive disease.  Continue ASA, atenolol and lipitor.  We will hold on ACE-inhibitor given hyperkalemia issues.
+6. Hyperkalemia.  Likely secondary to RTA related to Bactrim.  Ww will check follow up chem panel today.  He will need monitoring of K and we can consider kayexlate therapy if he has persistent elevations for the duration of therapy with Bactrim.   
+
+Patient will return to clinic in 3 months for follow-up. Patient seen with Dr. Calhoun.
+
+Changes to Medications this visit
+	
+Coumadin 3 mg  PO at bedtime
+
+	
+Jonathan Forrester, Fellow pager #08374
+
+	
+Signed electronically by  Jonathan Forrester, Fellow
+Document Status: Final
+
+
+
+[ 3 (and, 1, and (1 and the, or, the, the, a and and your and: and (c and with the: 0. 3...: an "... Anich: Anite:1,
+ are are-0 are are-0- are-0 of the "and (1 or or "…,..., 1 or, the, anizations and (re, 2 (.,. 2 of, and (and, or, an, 3 anich, are... an (le or the (an or, an, 1, an an and, an an-le (d, anities, 1 (. An (ann and the, an of an, An-an of the- an, ( an, an, an, an, an of, an of 3, an (le, an 3-1, an, and, the, an, an-an, and an-and, an, and (and, and, and-and-an, [: an an an:, an and and-le-1,1-1-1-1-le (: [1 and (: ( [- an and- an: the-:::  an- 1- an- -an-le-cl: or an of " -[- -c and- 1- - (.. of a of an of... -and or, (, and, [[ [ and,  and [ an ( ( [ or-1 ( or in or- ( and- [, and ( ( are, and and of  [ an- and and and,  in,, ( an in  [ an- an-1 an of an, or ( of an-of  of the an- and- or- - and in and-cl- and, - of " of an- of the of, an,, an- an, [,  or- an of-  of., or or  and- 0-1 and, and,  an, -  by the or ( of a of the- of,, and  - an,  of the, by  or of  ( and- ( [  of  or  in- -1- 1- 0- 0- -n-c,, and- or,  and, ( or,  or and in,,- or- and- an-t-c of a- or -2 of-0-le of 2 of -le-t- and-1, 0- of-1 of the of of our of of the of the- and, and-  an-and- and, (  an, and, and-0- 2 [cl-le or and-m-  c, (  [0-0- or- and-1-3-0-  or- and for or  and and or and, an- or, and  [ c- and (- for-cl ( for and and- and in - C and or of our and or  and - 0-c c,- n- and c- c- and- a  (-  (.  c c and-1- and-c by-f-cl and- and- C- and-  or- " - and in- 0 c and or an, or,- or  or of  in,, or-  of and- and- and-  or- and,, - c- of, of of a of  of- of- of- and-   and--1- for and-1,  and-.-   [ and   - and    c-  c- or -  [ and- and- and of [-  and - (,  c and- and and (- [ and in an of,- of [-c  in in-1,  in or  and and  - - ( and and and-0 and- or  and- and- and- - [- a- a and-c- and- - and and- and or- and and-0 and for,- and-- and- - or for or and  [ and  and- and t for,, and, and and for - for or, and,,-., C-  of, of, of  clin of [ R [- and., and- and,, [ of a R [  of-- for- [, R  and L-  in- for- C- and for- (., [ and,, and- (- L- or in in- and or, L and L and  ( [ C- 2 of--t-  1 C- and L-s  and on C in C ( L  ( and- - [ L (, and on-  and  -  and L, ( and [-2- -1-2 and [,1-- and  and, and or and and- [ C in and in- 2 and (0 to-1 and for and, and, and and a- and or- (,,, in of of  of of of-  and 0- and a- and in and  and, and and, and and and, a of and,1 of [ in  a and and, and or or- and, for for for and and (,- and (-, and [,  and  and, and, on for and and on and and, -0 of

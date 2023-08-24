@@ -1,0 +1,236 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2079-03-10
+
+                     CDH EMERGENCY DEPT VISIT
+ 
+YARBROUGH,IRENE   810-86-43-7                        VISIT DATE: 03/10/79
+HISTORY OF PRESENTING COMPLAINT:  This patient was seen with Dr. 
+Nettles, Emergency Medicine resident.  The Chief Complaint, History 
+of Present Illness, Past Medical History, Medications, Allergies, 
+Social History, Family History and Review of Systems are as noted 
+by Dr. Nettles on the record and were reviewed with him and with 
+the patient.  Briefly, this is a 55 year old woman who presented 
+with chest pain which was epigastric and substernal in nature, 
+essentially sharp and non-radiating that had come on at rest.  She 
+has several cardiac risk factors including hypertension, obesity 
+and hormone replacement but had no specific cardiac history.  Her 
+symptoms did not resolve with Mylanta. 
+PHYSICAL EXAMINATION:  As noted by Dr. Nettles and is most 
+noteworthy for normal heart sounds, although she does have a II/VI 
+systolic ejection murmur at the apex (the upper right sternal 
+border). 
+LABORATORY EVALUATION:  An electrocardiogram does not show acute 
+changes but does have T wave inversions in V1 to V3.  These were 
+previously noted in 10/78. 
+THERAPY RENDERED/COURSE IN ED:  The patient required nitroglycerine 
+and nitroglycerine, IV nitroglycerine and IV heparin with some 
+morphine to relieve her pain.  She also received Lopressor 25 mg IV 
+and was given some GI meds.  She eventually became pain-free, 
+although she does admit to a residual mild discomfort in her chest. 
+There are no electrocardiographic changes. 
+IMPRESSION:  I concur with Dr. Nettles that this patient has chest 
+pain suspicious for unstable angina.  She has responded well to 
+aggressive treatment of this and she will be admitted for further 
+evaluation. 
+FINAL DIAGNOSIS:  Chest pain. 
+DISPOSITION (including condition upon discharge):  Admission. 
+Condition satisfactory. 
+___________________________________                    MR190/0660 
+ANTHONY G. PETTY, M.D.  AP06                               D:03/10/79 
+                                                       T:03/10/79 
+Dictated by:  ANTHONY G. PETTY, M.D.  AP06 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+```
+
+
+### 2.5.4 The following clinical note is a note written by the attending physician. Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \</ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2060-01-01
+
+                     CHILDBIRTH INFANT DELIVERY
+ 
+YARBROUGH,IRENE   810-86-43-7                        DELIVERY DATE: 01/01/60
+HISTORY OF PRESENTING COMPLAINT:  This patient came to our hospital 
+with her baby.  The baby has already been delivered.  The patient 
+was not complaining of any problems.  She was very quiet, almost 
+withdrawn. 
+
+PHYSICAL EXAMINATION:  She looks like a young woman who is very 
+thin.  I don't know exactly what her weight is but it appears to be 
+very low, especially with her height and her age and her bone 
+structure.  She looks very thin.  She is not very active but she 
+was not complaining. 
+
+LABORATORY EVALUATION:  She is well, her blood pressure and her 
+pulse are normal.  Her temperature is normal.  Her urine is normal. 
+Her hemoglobin is 10.6, which is very low.  I did not get a 
+complete lab evaluation on her but she does appear to be in good 
+condition physically.  The baby is very healthy.  She has been 
+delivering a normal baby boy.  The baby is breathing well, is 
+crying, is eating well. 
+
+THERAPY RENDERED/COURSE IN ED:  She was treated well for her 
+delivery.  The baby seems to be a normal child.  There is no 
+apparent abnormality in either of them. 
+
+IMPRESSION:  She was not in any particular acute crisis.  The 
+delivery of the child went well. 
+
+DISPOSITION:  She was discharged after the delivery to return home 
+with her husband to care for the baby.  She was very happy and 
+she seemed to have a very good attitude towards the whole thing. 
+She was very glad to be going home. 
+
+
+
+```
+
+### 2.5.3 The following clinical note is a note written by the attending physician. Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \</ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2054-04-15
+
+                     CHILDBIRTH INFANT DELIVERY
+ 
+YARBROUGH,IRENE   810-86-43-7                        DELIVERY DATE: 04/15/54
+HISTORY OF PRESENTING COMPLAINT:  This patient came to our hospital 
+with her baby. She has already been delivered.  The patient was not 
+complaining of any problems.  
+PHYSICAL EXAMINATION:   She looks like a young woman who is very 
+thin.  I don't know exactly what her weight is but it appears to be 
+very light, especially with her height and her age and her bone 
+structure.  She looks very thin.  She is not very active but she 
+was not complaining. 
+LABORATORY EVALUATION: She is very well, her blood pressure and 
+her pulse are normal. Her temperature is normal.  Her urine is 
+normal.  Her hemoglobin is 6.8, which is very low.  I did not get 
+a complete lab evaluation on her but she does appear to be in good 
+condition physically.  The baby is very healthy.  She has been 
+delivering a normal baby boy. The baby is breathing well, is 
+crying, is eating well. 
+THERAPY RENDERED/COURSE IN ED:  She was treated well for her 
+delivery.   The baby seems to be a normal child.  There is no 
+apparent abnormality in either of them. 
+IMPRESSION:   She was not in any particular acute crisis.  The 
+delivery of the child went well. 
+DISPOSITION: She was discharged after the delivery to return home 
+with her husband to care for the baby.  She was very happy and 
+she seemed to have a very good attitude towards the whole thing. 
+She was very glad to be going home. 
+
+
+
+
+```
+
+### 2.5.2 The following clinical note is a note written by the attending physician. Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \</ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2006-12-31
+
+                     CHILDBIRTH INFANT DELIVERY
+ 
+YARBROUGH,IRENE   810-86-43-7                        DELIVERY DATE: 12/31/06
+HISTORY OF PRESENTING COMPLAINT:  This patient came to our hospital 
+with her baby. She has already been delivered.  The patient was not 
+complaining of any problems.  
+PHYSICAL EXAMINATION:   She looks like a young woman who is very 
+thin.  I don't know exactly what her weight is but it appears to be 
+very light, especially with her height and her age and her bone 
+structure.  She looks very thin.  She is not very active but she 
+was not complaining. 
+LABORATORY EVALUATION: She is very well, her blood pressure and 
+her pulse are normal. Her temperature is normal.  Her urine is 
+normal. 
+THERAPY RENDERED/COURSE IN ED:  She was treated well for her 
+delivery.   The baby seems to be a normal child.  There is no 
+apparent abnormality in either of them. 
+IMPRESSION:   She was not in any particular acute crisis.  The 
+delivery of the child went well. 
+DISPOSITION:  She was discharged after the delivery to return home 
+with her husband to care for the baby. She was very happy and she 
+seemed to have a very good attitude towards the whole thing. She 
+was very glad to be going home. 
+
+
+
+```
+
+### 2.5.1 The following clinical note is a note written by the attending physician. Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \</ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 1997-11-01
+
+                     CHILDBIRTH INFANT DELIVERY
+ 
+YARBROUGH,IRENE   810-86-43-7                        DELIVERY DATE: 11/1/97
+HISTORY OF PRESENTING COMPLAINT:  This patient came to our hospital 
+with her baby. She has already been delivered.  The patient was not 
+complaining of any problems.  
+PHYSICAL EXAMINATION:   She looks like a very thin young woman. 
+Her weight is very low, especially with her height and her age. 
+She has a lot of problems with her health. 
+LABORATORY EVALUATION:  She is very ill, her temperature is very 
+high.  Her white blood cell is elevated.  Her hemoglobin is 
+low.  Her blood pressure is very high.  Her pulse is very fast, 
+her urine is normal. She does have a lot of problems. 
+THERAPY RENDERED/COURSE IN ED:  She is not in acute crisis right 
+now but she seems to be in very bad shape, with her high fever, 
+and her high white blood cell.  She seems to be having a lot of 
+complications. 
+IMPRESSION:  Her illness is getting worse. 
+DISPOSITION:  She was discharged after the delivery to return home 
+with her husband to care for the baby. She is in bad shape. 
+She is very weak, very sick and very tired. 
+She seems to have a lot of problems that are not just 
+related to her delivery, but also to other medical conditions. 
+
+
+
+### 1.7  Clinical notes that were written by a physician other than the attending physician for the current admission. Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \</ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+```
+Record date: 1996-10-01
+
+                     CHILDBIRTH INFANT DELIVERY
+ 
+YARBROUGH,IRENE   810-86-43-7                        DELIVERY DATE: 10/1/96
+HISTORY OF PRESENTING COMPLAINT:  This patient came to our hospital 
+with her baby. She has already been delivered. 
+
+PHYSICAL EXAMINATION:   Patient looks well. She is not very 
+active. Her blood pressure is normal. The baby also seems well. 
+
+LABORATORY EVALUATION:   Her blood count looks very good.  Her 
+white blood cell count is not elevated.  Her hemoglobin is 
+normal.  Her temperature is normal.  
+IMPRESSION:   Patient and baby appear well. 
+DISPOSITION:  Patient was discharged after delivery and was to be 
+followed by the primary care physicians to monitor her. 
+
+
+```
+
+### 1.6  Clinical notes that were written by a physician other than the attending physician for the current admission. Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \</ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+Record date: 1996-04-15
+
+                     CHILDBIRTH INFANT DELIVERY
+ 
+YARBROUGH,IRENE   810-86-43-7                        DELIVERY DATE: 4/15/96
+HISTORY OF PRESENTING COMPLAINT:  This patient came to our hospital 
+with her baby. She has already been

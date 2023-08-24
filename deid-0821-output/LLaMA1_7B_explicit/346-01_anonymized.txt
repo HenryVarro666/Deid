@@ -1,0 +1,759 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2085-11-28
+
+CC: Pt presents to walk-in clinic, wants to establish care w/ me.
+
+HPI: 73 y.o. man, here w/ his son, wants to establish care w/ me.  He needs medication refills today.  Prior MD was Dr. Valerio on the Weedsport.  He has DM, HTN, glaucoma, is legally blind.  He feels well today, has no complaints presently.
+
+
+
+
+
+Problems
+
+Diabetes mellitus 
+
+Hypertension 
+
+Glaucoma 
+
+Visual impairment : pt legally blind 
+
+
+
+
+
+Medications
+
+DIPYRIDAMOLE 75MG, 2 Tablet(s) PO TID
+
+Enalapril Maleate 20MG, 1 Tablet(s) PO QD
+
+Metoprolol Tartrate 50MG, 1 Tablet(s) PO BID
+
+TRAZODONE 50MG, 1 Tablet(s) PO QHS PRN insomnia
+
+Insulin 70/30 Human 30 UNITS SC BID : 30U qAM, 30U qPM 
+
+
+
+
+
+Allergies
+
+NKDA 
+
+
+
+PE:  156/80   72
+
+Gen: overweight, elderly man, NAD
+
+HEENT: PERRL, EOM intact; oral mucosa moist, no lesions
+
+Neck: supple, no LAN
+
+Lungs: clear to auscultation bilaterally
+
+CV: RRR, nl S1, S2, no M/R/G
+
+Extrem: no clubbing, cyanosis or edema
+
+
+
+A/P: 73 y.o. man w/ DM, HTN, claucoma, legally blind, here to establish care.  Will refill pt's meds; he should make appt w/ me in one month for CPE; he will obtain his medical records prior to next visit.
+
+
+
+
+
+
+Plan
+
+Patient has diabetes, HTN and vision problems which are all treated effectively.  He should make another appointment to follow up on his diabetes and his medications.
+
+
+
+
+
+Advise: 1) take dipyridamole and enalapril as prescribed, 2) take metoprolol and enalapril as prescribed, 3) take insulin as prescribed
+
+
+
+
+Refer/Consult: none
+
+
+
+DX:  73 y/o man, legally blind, with HTN and diabetes and glaucoma, here to establish care.
+
+
+
+
+
+Plan
+
+Patient is taking meds as prescribed.
+
+
+
+
+Refer/Consult: none
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
+\end{code}
+
+Answer: It is an error in the template.
+
+\section{Why is it an error?}
+
+The error is in the `\ifnumequal` statement, which is used to determine if `num_pages` is less equal to `num_columns` in the `\@startsection` macro. This is done so that `\@startsection` can determine if the section starts in the first or in the second column of the page. This is a very important decision, as the page layout in LaTeX is very important.
+
+So `\ifnumequal` is used as the following:
+
+\begin{code}
+\ifnumequal{num_elements}{num_columns}
+\end{code}
+
+\strong{num_elements} is the total number of elements in a section and
+
+\strong{num_columns} is the total number of columns in the page.
+
+\strong{Example: Section 1:} This section has `num_elements=2` and `num_columns=4` elements.
+
+So we have `num_elements=2` and `num_columns=4` elements and `\ifnumequal`.
+
+So we get:
+
+\begin{code}
+\ifnumequal{2}{4}
+\end{code}
+
+\strong{Example: Section 2:} This section has `num_elements=1` and `num_columns=5` elements.
+
+\strong{Example 2:} This section has `num_elements=1` and `num_columns=9` elements.
+
+So in section 3, we have `num_elements=3` elements but the number of columns is `num_columns=2`. So `\ifnumequal` returns false and the section is not split.
+
+\section{Problem}
+
+The template you are using is using the following code:
+
+\begin{code}
+\renewcommand{\@startsection}[3]{%
+%...
+}%
+\renewcommand{\@startsection}[3]{%
+%...
+}%
+\renewcommand{\@startsection}[3]{%
+%...
+}%
+
+\renewcommand\ifnumequal{\ifnumequal#2>#3}
+\end{code}
+
+As you can see, `\renewcommand` is not working well, as `>` is not the comparison operator between `num_elements` and `num_columns` (and also `>` is not a valid comparison operator with `num_elements` and `num_columns`).
+
+The correct comparison operators to use are `>` or `>=`:
+
+\begin{code}
+\renewcommand\ifnumequal{\ifnumequal#2>#3>=#4}
+\end{code}
+
+\section{Solution}
+
+The solution would be:
+
+\begin{code}
+\renewcommand\ifnumequal{\ifnumequal#2>#3\relax}
+\end{code}
+
+\section{Example}
+
+\begin{code}
+\documentclass[12pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+%\usepackage{graphicx}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{float}
+\usepackage{fancyhdr}
+\usepackage{fancyfoot}
+\usepackage{setspace}
+\usepackage{tabularx}
+%\usepackage{enumerate}
+
+\usepackage{fancyvrb,xcolor,xr,colortbl,graphicx}
+
+\usepackage[pdf,dvipsnames]{xcolor}
+\usepackage{textfloat,float}
+\usepackage{setspace}
+\usepackage{setspace}
+
+\newcommand{\custname}{
+    % 3.5em
+    3.5em\hfill 6.3em
+}
+
+\newcounter{page}
+\renewcommand\thepage{\thepage}
+
+\newcommand{\custname}{
+    % 1em 1em  2em
+    %  1.8cm
+    % 12.5cm
+    % 6.3cm
+    % 6.3cm  4.2cm
+}
+
+\newcounter{page}
+
+\begin the page title, \pagestyle{plain text.
+
+\newcommand{\custname}{
+% 0.0cm 12.5cm.201.0.0cm. 01.0cm.
+       0.5cm. 9cm
+
+
+   0.0. 1.0.0cm
+   0.1cm.
+   0.0cm 0.00cm.
+\c.0.0cm.
+\
+.0cm 7.  0cm.
+
+.
+. 0.0.0.
+.0cm
+0.0.0.0.
+0.0.0.0.0.0.0.0.0.c.0.12.00.
+.
+1.0.1
+0.0.0.0.0.0.
+.
+0.0.0.1,0, the 1.0.0.,0.00.0.0.0.
+.
+The name
+0.0.0 or 01.0.0 and 0. 1.00 names,0, the following names, and the names,1 and patient name and date.
+00.0
+
+
+... of the patient.
+111.
+A and 1.
+(1. 
+
+, and 1, and name, 0, name of 1, 1.
+
+(or 10, and the same, and specific, and specific are a...
+are a... or, a few and a, the day, and...
+
+and identify, names, the name of... 
+
+name 6, and the patient:
+
+patient: 1 and the patientize names,
+(
+The, and [... or:...
+(10 (le, the (the......
+(13: the…, indicate, [... and [
+make [... are:... (
+1, and the, the and: or or: (…
+1, and the: or:
+are, and a (
+make (...
+(1 and...
+
+
+...1 (1: the......
+[1 (
+are-1… ([... (and (and (10 (...  and (are, 1, or...and or, and and, or, and (0 and, or (
+, and, and, and...... [1., and and a, and 1 (can and the. An, and,  and are,  and, the,  and, and,... 0 of 12, the,  ([and:... and (f and-1 and, [1 "and (: 1 ". an…. 0 [1-3 (are-are are and are are are-  and of "and of the or... in a [1, a, and, (d, [[.,, and, the [of [,, and and. (and [1, and, a, an, are, are in, an an may are a would (or, an, an " an (1, an-an-m, an [, An and and an, and, an, an and,, an, an ( and an an and or and and and and, or and [2 of an, an-0 ( an. an and, an and, anine, an, (1, " and 'An ( and or and the, the and " an for the, “,  and,, (in or (: -make in an and and-1 of an-1 for the...: and- - an-1: an " ( ( in: and: and: an: : or: an:  (: (: an " " ( with an: an an and (  or ":
+▼- an "-c " " 1 (. "... and. of ( of it of an. and and, ( or, [ or ( and, [ but [ and, and,  and and [ [ and [[ or-  or and (-an, an,  are ( an an an an are, and "An An An and [ an an and 0- are,  and,  and an of the of the of  and, of  an an 0 An C or  (, (, and  and an and- and or of the of  of " of the and " - An An. ( an, ( ( " of, of an, of an or  an in  of  or, and or ( an- or, m ( an  and and of the and and of the: [ of an and and an,  or, -an wich, or or- and and ( an, ( and an and w and of a an, of  ( An of [ of  of and of, an and or of ( and [ and  an, an ( and in an " an ( and ( an  an an [, and, and of, or, and w and of and of [ for or ( or, an and  and an and an, ( and, of  of,, of an of, ( of, and of, and  and ( an ( and an, or,, and an an 1 an,, 0 ( and ( (  an and, and ( [m in (, and ( an -  [ ( an [ C an [ C A C A An C or [ c or [ an or [ - or or or [ or or in and an c for an or, or ( and, for an in an for [ C and ( or of c and - an w and w and: and and [ [ or m: C ( - C c and and c and ( m a " ( an (1. or: a-1 ( c and or and w and and and C and [ and of. or or w of [ and  and or or c  and or,, m of and,  of ( and  an w an, ( and ( an w, an w and.  P, [  w or of P of of  or of of  of an of.  ( H C ( C, and, and, C and, and,  w,, and or ( in or (, ( ( [  ( or m w or ( ( and ( w of and w w c w c and of  c w ( and  (, m ( m, M (, C an w of and of and ( an or w ( w ( and and and  an c m m ( [ m an c an of, of, or t and or and and  or an c t and and, and and, ( ( m and an w m ( ( and and ( and. and and ( C or and m and and M m w in m and m m m and an and m.. in w, an in,  ( and  and m,,, and and ( m w,,, ( or, and and, and, M, and, ( and in, P, and M and, and and  of m of of  of  M P P ( and and, m ( and and ( (,., m, m, (,.,,, and, C. C.. m w, ( C. [ M for for w m for [ M. [ M A C ( and. M. ( and M. M and M mcio ( M ( m. M C T and. C for [[ and and [[ C M M C and and, M T for and, C [ C A and _1 C and w t and P w t w w- and and, and, and C., and and w w., and and w and A, and and and, ( A, ( C A and and and and, ( [[ M, P ( [[ D, and, with ( and [ T A, and, and [ and A., C C and ( and A, C ( and, ( and, and A ( or A, ( and, A C or and A, and ( A0 A C C00 A C and L0, and and L ( C P C A D. and A A, A

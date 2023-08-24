@@ -1,0 +1,681 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2074-12-21
+
+EDVISIT^98044905^WARE, VINCENT^12/21/74^VILLA, SCOTT
+
+CHIEF COMPLAINT:  Dyspnea on exertion.
+
+HISTORY OF PRESENT ILLNESS:  Mr. Ware is a 67-year-old man with
+
+a history of diabetes and myelodysplastic syndrome, status post
+
+stem cell transplant who presents to the Emergency Department
+
+with a 2 to 3 week history of increasing exertional dyspnea.  The
+
+patient denies chest pain, palpitations, or syncope but does
+
+complain of bilateral lower extremity edema times several weeks. 
+
+The patient has been worked up for the symptoms as an outpatient
+
+and placed on Lasix for the past 2 weeks and had an
+
+echocardiogram today, which was remarkable for atrial
+
+fibrillation.  The patient was sent to the Emergency Department
+
+for further evaluation.  Please see the written record for
+
+further details.
+
+PAST MEDICAL HISTORY:  Insulin-dependent diabetes,
+
+myelodysplastic syndrome, status post stem cell transplant.
+
+PAST SURGICAL HISTORY:  Basal cell resection.
+
+SOCIAL HISTORY:  The patient denies smoking, alcohol, or illicit
+
+drug use.
+
+MEDICATIONS:  Lasix, vitamin D, Lantus, and acyclovir.
+
+ALLERGIES:  No known drug allergies.
+
+PHYSICAL EXAMINATION:  I have examined the patient and agree with
+
+the physical as documented.  Of note, the patient is awake and
+
+alert, in no acute distress.  Vitals:  Temperature is 96.9, pulse
+
+is 100 to 128, respiratory rate of 18, blood pressure is 118/70,
+
+and oxygen saturation is 96%.  Lungs:  Clear bilaterally with no
+
+rales, rhonchi, or wheezing.  Cardiovascular exam:  Irregularly
+
+irregular rhythm.  Normal S1 and S2.  No murmurs.  Abdomen:  Soft
+
+with no tenderness, guarding, or rebound.  Extremity exam:  The
+
+patient has bilateral lower extremity 2+ pitting edema, left
+
+greater than right.  No calf tenderness.
+
+MEDICAL DECISION MAKING AND EMERGENCY DEPARTMENT COURSE:  Mr.
+
+Ware is a 67-year-old man with diabetes and a 2-week history of
+
+increasing dyspnea on exertion.  His chest x-ray did not
+
+demonstrate pulmonary edema, but was significant for bilateral
+
+pleural effusions.  The patient's EKG demonstrated a flutter with
+
+a ventricular rate of 121 with inferolateral T-wave inversions. 
+
+The patient was given IV and p.o. Cardizem with control of the
+
+ventricular rate.  At the time of this dictation, the patient's
+
+laboratory data are not available.  The plan is to admit the
+
+patient to the hospital for further management.
+
+PRIMARY DIAGNOSIS:  New onset AFib.
+
+DISPOSITION:  Admission.
+
+CONDITION UPON ADMISSION:  Good.
+
+______________________________
+
+VILLA, SCOTT M.D.
+
+D: 12/21/74
+
+T: 12/21/74
+
+Dictated By: VILLA, SCOTT
+
+eScription document:7-5753770 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+                ^^^^^^^^^^^^^^^^^^^^^^
+
+                ^^^^^^^^^^^^^^^^^^^^
+
+                ^^^^
+
+                ^^^^^^^^
+
+                ^
+
+                    ^^^^^^^^^^^^^^^^^^^^
+
+                ^^^^^
+
+                ^^^^^^^^^^^^^^^^^^^^^^
+
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+
+                ^^^^^^^^^^
+
+                <
+
+                    ^^^^^^
+
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+                            ^^^^^^^^^^^^^^^^^
+
+                            ^^^^^^^^^^^^^^^^^^^^
+
+                             ^^^^^^^^^^^^^^^^^^^^
+
+                             ^^^^^^^^^^^^
+
+                              <
+
+                              ^
+
+                              <
+
+                                 <
+
+                                  <
+
+                                    ^
+
+                                    <
+
+                                      ^
+
+                                          ^
+
+                                               <
+
+                                                   ^^
+
+                                                       ^
+
+
+                                                          ^
+
+                                                               ^^^^^^^
+
+                                                                    ^^^^^^^
+
+                                                                      ^^^^^^
+
+                                                                        ^^^^
+
+                                                                          <
+
+
+
+                                                                            ^
+
+                                                                                <
+
+                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+                                                                                          ^^^^^^
+
+                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+                                                                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+                                                                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+ 
+                                                                                              ^^^^^^^
+
+                                                                                                ^^^^^^^
+
+                                                                                        ^^^^^^
+
+                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+                                                                                      ^^^^^^^
+
+                                                                                        <
+
+                                                                                           ^^^^^^^^^^^^^^^^^^^^^
+
+                                                                                             ^^
+
+                                                                                              ^^
+
+                                                                                              ^^
+
+                                                                                              ^^
+
+                                                                                              ^^
+
+
+
+                                                                                          ^^^^^^^^^^^^^^^^^^^^^^^
+
+                                                                                             ^^
+
+                                                                                               ^^ 
+
+                                                                                               ^^^^^^
+
+                                                                                               ^^^^^^
+
+                                                                                               ^^^^
+
+                                                                                               ^^^^
+
+                                                                                               ^^^^
+
+                                                                                               ^^^^^^
+
+                                                                                               ^^^^^^
+
+                                                                                              ^^^^^^
+
+                                                                                               ^^^^
+
+                                                                              ^^^^                              ^^^^
+                              ^^^^
+
+
+                                                or ^^^^^^
+
+
+
+
+
+                               and
+
+
+                               
+
+
+
+                               (or
+
+                 
+
+
+
+
+\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    or
+  names
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The name, or
+
+
+
+
+
+
+
+
+name, but
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+names,
+information of name
+
+
+
+\n...
+
+name, the name, the patient names of
+
+
+
+The information, The following or identify
+
+
+The information
+
+
+
+information
+
+
+indicate
+
+
+
+
+names of
+The words (
+names with a patient, or names
+The patient
+the patient
+
+or
+
+
+
+
+...
+or name
+or name...
+
+
+The following the name and the letter
+
+The names, but the names.
+
+and name, the patient, and patient names or names.
+(name, or
+(and the, or, and name...
+...
+
+
+or, but and, and names and the and names and any or 3, 
+districts.
+
+
+
+
+
+
+(
+:, name, the [name of the name and the: and:
+the patient names of:...
+
+
+(1, 00...
+[... 3-1-indically are of...
+... 15 or [
+1...[the or [... and name ident, the 0, the name, the names of the patient.
+and... or, and [
+
+10 (or orify, the and the patient:
+of... and, and...
+(and … (are the are a few- and... of the  and and the, or, as (… and, and... and... [, and, but,
+...…, 
+...
+
+..., and, (and, and, and, and, a few and the 0, or, 1, but, and and and, and 2, and, and, and  and, but, 3,
+1 or, the or, "
+make and, 1 and and [and and [1-1: [1. [...... (and... (1...
+... an " 0 [are: 2 are (le-
+1 of the 3 or (1  or (1, or, 2, the... and, and or. An. 1. of the. 1, and [, and, (and, an, an and, 3, 1 ( are (  are a... and (3 or and, 4 and, an and and, an, the, the 3 and, and of the and and,, an and, an, an [ aniz an or,  and an, and, and and or, and [an 1 and, an, an, the and,  and, and, an "c, and, an, 1, and "10, 4, the and, "make, 1 and, an, 1- 1 or: an or and an, "1: " and an an-1- [1,: [: and or and: - “: [1-1 and or: an or (  an an [ with and and, (  or  or-  and- an an 0, [ an are  an an an-1- and and and of  of a of (. an. and, and... an and,, and (,, and  ( or [ and  or [ [ (  [ and [ and or- or [ an,- an an- an or, ( - an  an " an  - and,  ( and an or an  or- , of the [,  of the of an of or of an  (  ( and (,  an, or,, of the and of ( of of [ an, " an, -, [ an or, or- an and are in  or of  of an- or or an or or an " and,,, ( or in the, and of the of the and or of the of  an,  by  an- [ and, and in  in an or, or  an or, and, of  or of or  of - 2 of-  ( an an,, ( an, and and, an, or or and, or (, ( an  ( (,,,- an and an and or  or an or- and  and  and- an  for an and an of an,,,  and, or (,, or and of of an of the,  of, an, and of,,,,,,,,, w,, and,  w and wites of -  and- and an and,, and, and  w-1  w and and,-1 [, an an or-2 and ( an w an or and w ( - an  or or " or or [ an- [, w and and - and and- in,- or in an- an for of and of the but and and ( or - [- w and, with or, and of and or c of an and of the (  and and and  and and, or or-  - c-C- or w of   of   of - or  and of - and or and or of, ( ( or and of an and of, of of the an and [  ( ( or and, or, and. ( or in, and and, of of of of of of of and of  or- w and and an- or and and  but an, ( and or and an,  and - and, (  and and or ( [- and and,,- or - or- [ and ( and of [ and of, of the, , w,, and and,, and, or - w and ( and and of ( ( W or (  and and and- and-  and  (- and, ( and and of of the, an,,, (, or, or,  (, and, and  and and, and, ( (,,, ( and and, (,- and and, W and and, -  and W,,  and and or ( W, (, and w and,- or, and,, and and, (, w of,,,, (,,,,,, and, (,, and,- W,,, and,, (- W of ( or (  [-,,, [, (- W- w w,,- [,,, of,, [,,,,,-,- and or- and (,, and, ( [ - and of - ( and [// ( and  [ and- h-  and and- ( and, and and (, and and,, ( and (,- ( an t " - and [ an an or an ( ( - or,   or [ and  and- C [, [ (- [ and (,,, (, -, and [ and and ( ( and and, (- _- and, and,, and, _- [[- [[- and _ or and, _  and,, P- C- (- C,- as,- and,  and, ( [, and and w ( and (,., _,  and, - or, or ( - ( (-, (-,-,- [-.- but but,, or, and (, and,  and, and and, (

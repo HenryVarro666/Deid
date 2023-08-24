@@ -1,0 +1,519 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2074-11-11
+
+                     LEPROSARIUM EMERGENCY DEPT VISIT
+
+ 
+
+OLIVIER,OZELL   337-67-25-9              VISIT DATE: 11/11/74
+
+Resident history reviewed, patient interviewed and examined by me. 
+
+PRESENTING COMPLAINT:  Cough.
+
+HISTORY OF PRESENTING COMPLAINT:  This is a 67-year-old woman from 
+
+South Korea who has been in Canada for one year, translated by her 
+
+son.  She has had a cough for three days, which is white, and then 
+
+turned to yellow productive sputum.  She has mild shortness of 
+
+breath, chronic dyspnea on exertion, and chest pain only with 
+
+coughing.  The patient has no fever, no chills, no nausea, no 
+
+vomiting.  Positive coryza, cough, and sore throat.  She has been 
+
+self-treating with amoxicillin for two days.
+
+REVIEW OF SYSTEMS:  See HPI.
+
+PAST MEDICAL HISTORY:  Hypertension, hypothyroidism, obstructive 
+
+sleep apnea.  Surgical history is positive for cholecystectomy.
+
+MEDICATIONS:  Synthroid, Amoxil, hydrochlorothiazide.
+
+ALLERGIES:  Penicillin; she had urticaria.
+
+SOCIAL HISTORY AND FAMILY HISTORY:  Social history is negative for 
+
+tobacco, ETOH, intravenous drug abuse.  She lives with family.  
+
+Family history is cancer. 
+
+PHYSICAL EXAMINATION:  Vital signs are stable at 98, 83, 17, 
+
+162/67, and 94%.  GENERAL:  This patient is awake, alert, and 
+
+oriented, well-nourished, well-developed, in no distress.  HEENT:  
+
+Pupils are equal, round, reactive to light and accommodation.  
+
+Extraocular muscles are intact.  Oropharynx has no enlarged tonsils 
+
+and no exudate.  NECK:  Supple.   RESPIRATORY:  No respiratory 
+
+distress.  She has bi-basilar crackles.  CARDIOVASCULAR:  Regular 
+
+rate and rhythm.  S1, S2.  ABDOMEN:  Soft, non-tender.  
+
+EXTREMITIES:  No clubbing, cyanosis, or edema.  NEUROPSYCHIATRIC:  
+
+Alert and oriented x 3.  
+
+THERAPY RENDERED/COURSE IN ED:  The patient will be discharged on a 
+
+Z-pak and is to follow up with the Lakeview Clinic.
+
+FINAL DIAGNOSIS:  Bronchitis.
+
+DISPOSITION (including condition upon discharge):  The patient was 
+
+discharged home in satisfactory condition. 
+
+___________________________________                    OK878/13176 
+
+ROXANNE SPEARS, M.D.  RS40                             D:11/11/74 
+
+                                                       T:11/12/74 
+
+Dictated by:  ROXANNE SPEARS, M.D.  RS40 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+
+*/
+
+// *********************************************/
+//
+function print_doc1220_13177() 
+{
+//var text="
+
+
+
+Record date: 2074-11-12
+
+                      LEPROSARIUM EMERGENCY DEPT VISIT
+
+ 
+
+OLIVIER,OZELL   337-67-25-9              VISIT DATE: 11/12/74
+
+Resident history reviewed, patient interviewed and examined by me. 
+
+PRESENTING COMPLAINT:  Cough, choking.
+
+HISTORY OF PRESENTING COMPLAINT:  This is a 67-year-old woman from 
+
+South Korea who has been in Canada for one year, translated by her 
+
+son.  She has had a cough for three days, which is white, and then 
+
+turned to yellow productive sputum.  She has mild shortness of 
+
+breath, chronic dyspnea on exertion, and chest pain only with 
+
+coughing.  The patient has no fever, no chills, no nausea, no 
+
+vomiting.  Positive coryza, cough, and sore throat.  She has been 
+
+self-treating with amoxicillin for two days.
+
+REVIEW OF SYSTEMS:  See HPI.
+
+PAST MEDICAL HISTORY:  Hypertension, hypothyroidism, obstructive 
+
+sleep apnea.  Surgical history is positive for cholecystectomy.
+
+MEDICATIONS:  Synthroid, Amoxil, hydrochlorothiazide.
+
+ALLERGIES:  Penicillin; she had urticaria.
+
+SOCIAL HISTORY AND FAMILY HISTORY:  Social history is negative for 
+
+tobacco, ETOH, intravenous drug abuse.  She lives with family.  
+
+Family history is cancer. 
+
+PHYSICAL EXAMINATION:  Vital signs are stable at 98, 83, 17, 
+
+160, 94%.  GENERAL:  This patient is awake, alert, and 
+
+oriented, well-nourished, well-developed, in no distress.  HEENT:  
+
+Pupils are equal, round, reactive to light and accommodation.  
+
+Extraocular muscles are intact.  Oropharynx has no enlarged tonsils 
+
+and no exudate.  NECK:  Supple.   RESPIRATORY:  No respiratory 
+
+distress.  She has bi-basilar crackles.  CARDIOVASCULAR:  Regular 
+
+rate and rhythm.  S1, S2.  ABDOMEN:  Soft, non-tender.  
+
+EXTREMITIES:  No clubbing, cyanosis, or edema.  NEUROPSYCHIATRIC:  
+
+Alert and oriented x 3.  
+
+THERAPY RENDERED/COURSE IN ED:  The patient will be transferred to 
+
+the Lakeview Clinic. 
+
+FINAL DIAGNOSIS:  Pneumonia, emphysema.
+
+DISPOSITION (including condition upon discharge):  The patient was 
+
+transferred to the Lakeview Clinic in satisfactory condition. 
+
+___________________________________                    OK878/13177 
+
+ROXANNE SPEARS, M.D.  RS40                             D:11/12/74 
+
+                                                       T:11/11/74 
+
+Dictated by:  ROXANNE SPEARS, M.D.  RS40 
+
+ ******** Not reviewed by Attending Physician ********
+
+";
+
+// ***************************************
+//
+
+
+// ***************************************
+//
+function printDoc1221()
+//
+{
+	print_doc1221_1();
+
+// *********************************************/
+//
+function print_doc1247_1247() 
+// 
+{
+	print_doc1247_1();
+	
+// *********************************************/
+//
+function print_doc1247_2() 
+// 
+{
+	print_doc1247_2();
+
+// *********************************************/
+//
+function print_doc1250_7() 
+//
+{
+	print_doc1250_7();
+
+// *********************************************/
+//
+function print_doc1250_8() 
+//
+{
+	print_doc1250_8();
+
+// *********************************************/
+//
+function print_doc1252_11() 
+//
+{
+	print_doc1252_11();
+
+// *********************************************/
+//
+function print_doc1252_12() 
+//
+{
+	print_doc1252_12();
+
+// *********************************************/
+//
+function print_doc1259_20() 
+//
+{
+	print_doc1259_20();
+
+// ***********************************************/
+//
+function print_doc1259_18() 
+//
+{
+	print_doc1260();
+
+// ***********************************************/
+//
+function print_doc1253_4()
+
+
+
+function print_doc1251_7();
+
+
+function_1253_
+
+
+
+DISCLUBBERY 
+
+
+DISCLUBY  0524
+
+
+
+
+
+
+                    
+
+
+
+
+
+
+
+
+
+\
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A
+
+LE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1021
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+2
+
+
+
+
+  
+
+
+
+
+
+
+
+
+2090
+
+
+14
+
+19
+
+2011
+
+
+
+
+21208
+
+1
+
+
+0,13
+  
+
+
+  
+
+ 
+
+
+
+ 
+   
+   
+ 
+
+ 
+
+   1
+        5
+OVER
+DATE   
+
+
+A,12 20
+ 2012
+
+M
+M
+O
+  10
+The
+date (date
+The year year (
+110,
+ 13331
+1:
+ALE: 7.  and the: 30: 4: 23 and 291, 
+
+
+                 
+The
+
+
+
+The, AMA
+POL:14 MOS
+MRO
+1 REMS
+MOR: [M (
+MOR
+:  
+    -  
+
+ 291 2001
+ 9-19,922 
+The,8. 280. The 1900
+ 221:A and M. 10
+11 P RE CO DI DA RE M DA SOL 1 DATE:2 PICI DIAL RE1118 CO RE CO DIIS MIST DIIS DATE CO11101 1000, Anified Anified. Anient
+96,001000 and date.11.1110 MINIAL TO MIGERED and, 111.1..6 and "336.0/1020,1,9 Anier and:0.10:1, [CO MO MICE RE CO A CO DA CO CO CO DA MA DA117.11111-7141111 An An..  3.11110000100060,0 and, 0 and,3 and..18, 1.00 by [11:11111A RE MA CO CO DA AN DI CO MA CO CO DA MA CO 1, 0 and (1 (10-0 (4 and. Anistic Aninal in a. year-3 year-1,11 AN.1012,3-4 and and one-CO-one. -10 and is by a in 0 and. 0.00-9 and a: 1. 0,7 [2: [9 and: [1. (0-a: 5- 1 in a. ( : 99-1- 6.-1-4-1- -an- 1. 2-8-9-0:001-  [:  and  and [:. an  (1 a : -2 in an-1:.  ( :                . ANIS DI:    -. by (1. Anine and: :1 and (2 0 -  and-2-. Anive  Anistic  A BEN AN IN A- PO A RE I A MA IN CON IN IN AN CO ANIAL RE. and,.-8 and year-3 [ian-2-0323-0-0 and1-1-1-1 [-1-0- A [ [- AL INIA RE Cines and- [ian.-3ism-2-  (.-1-3-9-1ive-1-0-3-  and-3-0-2 in- -1- (. and- and-  ( -- [- a - -  [.,-A A IN SO B EN,-3-0- andic- andine ( SO CA A SO CO SO A SO CO Minal-4-1 (-4- [- and-1 of the and [-4- [-1 year-  and ( [ine-, andine, ine (  and,  Cine, A in and a-  C, and  c in and,- and and,-. A-,-. - A. - IN A-  and- for-c- - - - - - by- -  Cinal - CO CO-1- or- and- an- and- to an,- -9-3-0- - A- and- and-b- out. and and - c.- or:- and--1:-:- SO:--: and--- CO of- of of of- [0 [ C- [: PO and and:- C: C: - SO and- CO- A B-	.- C M CO- EN MO- C A CO C CO C A CO M B M (-1- and-	- and- (- -   and- and, and (- with,  by (- and (.-	 and and  (- (-1- and- → and- and-  and- and, [ : [. (, ( [: [- [ [: ( [ [ [9 (- :-9 and and-1-  [1 [- -2.-  W. C- -0-  and -   ( W-0- to [1 to [[ ( and  and W,	 (. (  (	 ( ..	 H000 and-0..- ( and -	 by and and and- and-:- and-	- -	- and- no- C and H- C ( and or and H [ and C and H or H H- M0- and H ( [[ [- H H [ H H C H ( and w H and- H- H- A [- and H- H and- c H- an and- and and- an (- and and H C with- CA-  and- and- and and (- C A and of c of and of- of- B of  of A and- H, [- and H- and- and,,- c- and- w and, c to- M.- C H- H H H and- and and- c- H and H, H and- H-0-1 C and- to- C- [[		 and and- a and and, [[ C H C. H, H, [ and ( ( C and c (,	 [ [ (. H [ and H C and. and, and- H- H. H C c [ [ ( and [ H, H [ [ H of [, and, of an ( [ [ [ [ [ [, [ and [[  [ [ H ( [	- I (- [ and [- [ C. C [ [ [[ [ H [[ ( ( and H, [ and H and- [ of c, [ (-1 and [ and ( and- H2 and and, or-	, ( and or and

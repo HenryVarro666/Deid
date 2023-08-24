@@ -1,0 +1,494 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2135-02-23
+
+**The source of this note is the Perdue Emergency Dept. Information System. All updates should originate in EDIS.**
+
+Perdue Medical Center
+
+Emergency Department Record - Observation Unit
+
+
+
+EDIS Note Status:  Signed
+
+
+
+Patient: QUINN SR, GEORGE             MRN: 7924118        DOB:  6/12/2075     Sex: M
+
+Registration Date/Time: 2/23/2135 1:50:00 PM
+
+
+
+
+
+ED OBS Note
+
+
+
+
+
+Admission Note
+
+Chief Complaint
+
+CP, R/O MI
+
+HPI
+
+59 y.o. male followed by PMC Cardiologist Jan Ivory, is 3 months s/p stents, p/w c/c dull, aching chest pain which is NOT exertional.   He took NTG and this > no change.   He is certain were assocaited with post-meals. He is certai that  his sx are now differnt than those he recalls prior to his acute intervention/ stents.   Currently no SOB. Some relief with antacids.
+
+PFSHx/ROS
+
+CAD , stents.  Hx DVT. HTN , elev lipids. Former smoker, quit 11/34  .
+
+Meds
+
+ASA, Metoprolol, Lisinopril , Atorvastatin
+
+Allergy
+
+NKA
+
+
+
+ROS
+
+Constitutional
+
+See HPI.
+
+Chest/Respiratory
+
+See HPI.
+
+Cardiovascular
+
+See HPI.
+
+GI/Abdominal
+
+See HPI.
+
+
+
+ROS and PFSHx as noted above and in the ED record for this encounter.
+
+All other systems otherwise negative.
+
+
+
+PE
+
+Constitutional
+
+Patient is awake. Patient is alert. Patient is oriented x3.
+
+Neck
+
+Carotid bruits are absent.
+
+Chest/Respiratory
+
+Thorax is non-tender.  The lungs are clear to auscultation bilaterally.
+
+Cardiovascular
+
+Heart is regular rate and rhythm.
+
+GI/Abdomen
+
+Obese abdomen,
+
+Musculoskeletal
+
+Trace non-pitting edema.
+
+Skin
+
+Evidence of changes c/w chronic venous insufficiency.
+
+Neurologic
+
+Patient is alert and oriented x 3.
+
+Psychiatric
+
+Patient is non delusional.
+
+
+
+Consults
+
+Consults
+
+On site = Dr.Ivory, Cardiology
+
+
+
+Testing Results
+
+X-ray Interpretation
+
+No acute process .
+
+Medical Decision Making/Plan
+
+59 y.o. w/ known CAD, current hx suggest UGI in etiology . ETT is planned and pending . Will dispo  on an H2 or PPI if Stress Test WNL
+
+
+
+This note has been electronically signed by MARGIE  ECHOLS, NP 3/1/2135 8:00:12 AM
+
+
+
+
+
+
+
+Clinical staff documenting in the ED note include:
+
+
+
+Other Providers
+
+
+
+MARGIE  ECHOLS, NP
+
+Attending Note
+
+Attending MD Notes
+
+Pt has hx of CAD s/p stenting in Nov '34.  Presents with chest ache. EKG no acute change 2 sets of markers neg will be admitted to the EDOU for ETT.  for I have examined the patient and discussed with the Nurse Practitioner the patient's care and agree with the plan.
+
+
+
+This note has been electronically signed by Henry X. Shelton, MD 2/23/2135 3:35:26 PM
+
+
+
+
+
+
+
+Clinical staff documenting in the ED note include:
+
+
+
+Attending/Nurse Practitioners(s)
+
+
+
+Henry X. Shelton, MD
+
+
+
+
+
+
+
+Practitioner Notes
+
+
+
+Attending MD Notes
+
+Pt is a new pt to me.  He has a past history of CAD.  He presents with dull achy chest pain. No significant finding on exam or EKG.  Will be admitted to the EDOU for ETT.  will discuss the ETT with the Nurse Practitioner
+
+
+
+This note has been electronically signed by Henry X. Shelton, MD 2/23/2135 3:35:26 PM  
+
+
+
+
+
+Clinical staff documenting in the ED note include:
+
+
+Attending/Nurse Practitioners(s)
+
+
+Attending MD Notes
+
+Pt had a history of CAD. Pt is a new pt to me.  No significant abnormalities are found on exam.  Will be admitted to the EDOU for ETT.  Will discuss the ETT with the Nurse Practitioner.
+
+
+
+This note has been electronically signed by Henry X. Shelton, MD 2/10/2135 12:53:30 PM 
+
+
+
+
+
+
+
+Clinical staff documenting in the ED note include:
+
+
+Attending/Nurse Practitioners(s)
+
+
+
+Nurse Practitioner Notes
+
+Pt had a history of CAD. Presents with chest pain. EKG no acute change and will be admitted to the EDOU for ETT for further evaluation/treatment.  will consult the MD about the plan.
+
+
+
+This note has been electronically signed by MARGIE  ECHOLS, NP 1/10/2135 03:31:32 PM
+
+
+
+
+
+
+
+Clinical staff documenting in the ED note include:
+
+
+Attending/Nurse Practitioners(s)
+
+
+
+Nurse Practitioner Notes
+
+Pt had a history of CAD. Presents with chest pain. No significant changes on EKG no acute changes. Will be admitted to the EDOU for ETT.   Will consult with MD on plan
+
+
+
+This note has been electronically signed by MARGIE  ECHOLS, NP 1/10/2135 03:31:32 PM
+
+
+Attending/Nurse Practitioners(s)
+
+
+
+
+
+
+Attending MD Notes
+
+Pt had a history of CAD. Presents with chest pain. No significant changes on EKG no acute changes. Will be admitted to the EDOU for ETT.   Will consult with Nurse Practitioner for plan
+
+
+This note has been electronically signed by Henry X Shelton, MD 12/16/35 12:53:30
+
+
+Nurse Practitioner Notes
+
+Pt had a history of CAD. Presents with chest pain. No significant changes on EKG no acute changes.  will admit to EDOU for ETT.  Will discuss the plan w/ MD
+
+
+This note has been electronically signed by MARGIE  ECHOLS, NP 12/16/35 2:31:32 PM  
+
+
+
+Coverage notes for this encounter include the following:
+
+
+Attending Notes
+
+Pt had a history of CAD. Presents with chest ache. EKG no acute changes. Will admit to the EDOU for ETT.
+
+
+
+
+
+
+
+Practitioner Notes
+
+Attending MD Notes
+
+Pt had a history of CAD. Presents with chest ache. No significant findings.  Will admit to the EDOU for ETT.
+
+
+
+This note has been electronically signed by Henry X Shelton, MD 2/10/2135 12:53:30 PM  
+
+
+
+Coverage notes for this encounter include the following:
+
+
+
+Attending Notes
+
+Attending MD Notes
+
+Pt had a history of CAD. Presents with chest ache. No significant findings. Will admit to the EDOU for ETT for further evaluation/treatment
+
+
+
+This note has been electronically signed by Henry X Shelton, MD 2/10/2135 12:53:30 PM  
+
+
+
+Coverage notes for this encounter include the following:
+
+
+Attending Notes
+
+Attending MD Notes
+
+Pt had a history of CAD. Presents with chest ache. No significant findings. Will admit to the EDOU for ETT.   Will discuss the MD
+
+
+
+This note has been electronically signed by Henry X Shelton, MD 2/10/2135 12:53:30 PM
+
+
+Practitioner Notes
+
+Attending Notes
+
+Attending MD Notes
+
+Pt had a history of CAD. Presents with chest ache.  No significant findings. Will admit to the EDOU for ETT.  Will discuss the MD
+
+
+
+This note has been electronically signed by Henry X Shelton, MD 12/16/2135 9:00:19
+
+
+Coverage notes for this encounter include the following: 
+
+Coverage notes for this encounter 11/25/7/25/2
+ 3/24
+ 16/10/15/23/23
+ 14/15 314 14/3 7/17
+15
+14
+2 14
+14
+
+
+2
+
+Attending
+
+10/ 15
+15
+  
+
+14/25
+10-1
+2
+
+13
+22
+
+26
+
+
+
+14
+10
+ 121/145
+
+
+1
+
+
+4
+1
+
+12
+
+
+  121
+
+
+16
+1
+1013
+
+
+0
+
+
+[15114
+15
+103-1
+
+04
+
+0
+
+
+20
+
+
+
+
+
+
+
+ 201
+10022411, M
+
+
+ 
+
+
+
+ 
+The following
+ 12002 01 20 10. 
+
+10, 20 30
+
+  1 (4
+M
+
+12 1
+
+
+and.
+  [126
+was
+ 0
+
+ 1
+ 7
+[4
+  [A
+ 41
+
+15
+
+13,2
+1200, 
+12
+
+
+220
+[
+17
+3801
+M
+
+ 19, 71, and 9: 1:112, and 0 122 1, 13
+ 16, 0034 was: 0 isive.0, 
+ and and orified. This. This (1.  and.
+. : 
+.1
+
+.. 41, and
+ - [1: ([A and: A (F and: An [A (0, and [P:  13 and. A1.
+1-C (M 9154001 ( An (1
+.. 1.0 and:3 - An (031 Ancel
+14,. Anized,. Anducted Anced Anced
+ (C 2/1012 Anced
+ Anise Anse
+ - Anse
+ (Anical An C1 (011 An:124:93.83211 108,02251026-19 A3 A Day An C3 Anced An Anis Anced is is [ An An: a in the Anine An and or, a, and or, and and, 1. An and An An An. Anidence
+ Anced An An
+ An (0
+ An An An An An An Anified An
+ Anici An An An An Ancer An Anced An An Anic C M An An and An An An An An [An ( An An An C An1201 An10 An [ An An
+ Anced An Anced An. Anise Anized P An0 An An2 Anist An, anism An and [3 Anified, Anized Anized An C An An. Anistic: An An An Anister Anistic An C ( An An C. Anized Anified  An An An An. Ancer An01 An An An An ( Anistist, [ for: An: (,... (: An C An. An: An, An: An An An An An: -An, [ ( An An. An An: An - Anist: An - An: and: An and [ or [ An: An or.:  be (. and: (: An. An and in be or and.. and in ( An ( An in [. An:[. - an. An: 1 Anism. [ in and and [ and, or, [: ( [ An: An1 An:0: (00 M0-M-M ( Hinal An. Anse An M-M: ( (1.-M-0 M M M M M/M [ M M ( M M: M M. M M1 M0 M M2 M M1- H M M An M I M M C [. Mistic Anism (. [ M An Anistic - [ An Cish [ Anse. An M M An for M and M An for M for - An An for [1 [ M for [1 for for and for for for ( for in for for M. M M - [-00. M1 M0 M (0. S. ( [-C (0 (0 M11 and and1- 000 M M20 M2 M ( M M and and and m and ( [0 [2-0 [0 M0 ( C [-1 in a [ a M. M. ( M and. -1- S1. M -1- 1 M9 M M and.1 M a M - M. M M a M a-M.0-121 and m m M ( md m. a M-M M: S-M. C0. C01 M M M a [ m ma m m ma. and M. M and M. F M C and.. H. I M0 H M. W W and and M. ( M.. S M S M (. (. M ( M. and ( M. C in. C.. and or: C: M.: C H-0-M: S.:10 M M ( C: and : and or [ and and. I and:0. I.1 C I. L. (.-C and and or and-C. and (..1 and. I. O/ C C I W H I. and C I I. I C and I and. I. I S I. I and I C C I C C.0- C1 C1 I (1 H2 C11 C00/ I0 I0 R S I R C I C H I S H R. ( T S ( I. S I2 A T and ( I. I. C ( C. I T.. and and. T. H. H I I. H. I I I and O. C C O I. N. C I W C ( C and R1 and R10. N0 and ( C C1 N. I. I A I C. I1 I C. P1 I H. I and I. I N I. I H- N. I. C H- R-1 H and1 I. H0 I H A C C C A- N H R. I C H and I.. I I- R0 I C. I. and H A I N. and. I and a C A and R A H C I. I N C B C S H and and R H and (1 C. R. I and S. H H- I- I I C I1 and A. O A I. N. and and. S and I. C. and and ( T I N I I. and and I and P I I H, I I I. and H C. I. T and I, H A T and C. I C. C I C I C I. M H I I T. and I  I I. I. I and. and  C and. H. I  C H1 F1 I. I C I. N/ B I F ( A. I M I and H I I ( I F I. I C I H I I I and H T. and I A I for I and T for I C I. I1. I I I A I C I R I. I C I. I M R C C H I C C H A I C C I I I and I C [ I.  I. I C I I I C I T.  T I T I C I I C I F I

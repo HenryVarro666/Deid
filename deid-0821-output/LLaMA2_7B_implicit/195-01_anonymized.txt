@@ -1,0 +1,201 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2078-11-22
+
+PONTIAC INTERNAL MEDICINE ASSOCIATES          Sherman, Andrew
+ 
+ 
+ 
+History of Present Illness:  The patient returns one week after being 
+seen here initially in Internal Medicine clinic.  On the last visit he was having 
+chest pain and was therefore sent to the Emergency Room for a further 
+evaluation.  At that time he had EKGs which did not demonstrate any 
+ischemia during his chest pain and a chest x-ray which was unremarkable.  
+The Emergency Room physicians contacted his doctors at Humbert Hospital and obtained a history that the patient had a cardiomyopathy in 
+the past with a decreased LV function.  However repeat echo within the 
+past months demonstrated good LV function and they were in the process 
+of performing further cardiac testing when the patient left the 
+Humbert Hospital against medical advice.  After being evaluated in the 
+Emergency Room at Pontiac State, he now returns to be tied in with 
+the Internal Medicine clinic.  
+ 
+Medications:  His medications since his Emergency Room visit include 
+Carafate 1 gm. PO q.i.d., Prinivil 10 mg. PO q.d., Tenormin 50 mg. PO 
+q.d., Motrin 600 mg. t.i.d. p.r.n. and Nitrostat tablets p.r.n.  His 
+insulin dosing consists of 40 units of NPH q.a.m. and 18 units q.p.m. 
+and regular insulin 20 units q.a.m.  
+ 
+On return to my office today, he states that the frequency of his chest 
+pain is much diminished but that he has gained some weight since 
+discontinuing his Lasix per order of the Emergency Room physicians.
+ 
+Physical Exam:  On exam, his blood pressure is 160/100 with a heart rate 
+of 76.  He is not in any acute distress.  His chest is clear to 
+auscultation.  His cardiac exam demonstrates S4 gallop and distant heart 
+sounds.  His abdominal exam is benign except for massive obesity.  His 
+rectal exam is guaiac negative.  His extremities exam demonstrates 1+ 
+pitting edema to the shins and his neurologic exam is unremarkable.  
+ 
+Assessment and Plan:  
+ 
+1.   Cardiac.  The patient will be scheduled for an ETT thallium study 
+     to rule out ischemia.
+ 
+2.   Hypertension.  His Prinivil will be increased to 20 mg. q.d.
+ 
+3.   Diabetes.  His sugars have been running 130 to 160 by fingerstick 
+     checks at home and he will continue his present regimen.
+ 
+4.   The patient will be referred to ophthalmology for the evaluation of 
+     his eyes given his history of hypertension and diabetes.
+ 
+5.   General.  The patient will see me shortly after completion of an 
+     ETT thallium study for further discussion of his cardiac status.
+ 
+_________________________
+Michael Holman, M.D.
+ 
+rin:KZ:9636:DD:11-24-78:DT:11-25-78:DV:11-22-78
+
+
+
+
+```
+
+
+## DICOM Objects
+
+The DICOM objects for this class include:
+
+- [0060,7300]  (CS)  Modality
+- [0060,7301]  (CS)  Study Related
+
+
+The following codes are defined for the CS DICOM attributes:
+
+<table>
+<tr>
+  <td><span class="entry-title"></span></td>
+  <td><span class="entry-subtitle"></span></td>
+  <td>(0060,7300)</td>
+  <td></td>
+</tr>
+<tr>
+  <td>1013110212</td>
+  <td>PATIENT</td>
+  <td>PATIENT</td>
+  <td>PAT</td>
+</tr>
+<tr>
+  <td>1013110213</td>
+  <td>(0060,7300.1010212) Modality</td>
+  <td>Modality</td>
+  <td>MDR</td>
+</tr>
+<tr>
+  <td>1013300016</td>
+  <td>(0060,7300.1010300) Study Related</td>
+  <td>Study Related</td>
+  <td>SRR</td>
+</tr>
+<tr>
+  <td>2264200010</td>
+  <td>(0028,0062)</td>
+  <td>(1007100010) Study Related</td>
+  <td>(1007100010.2264200010) Study Unique</td>
+</tr>
+<tr>
+  <td>2264200011</td>
+  <td>(0028,0062)</td>
+  <td>(1007100010) Study Related</td>
+  <td>(1007100010.2264200011) Study Unique</td>
+</tr>
+<tr>
+  <td>5197500000</td>
+  <td>(0028,0052)</td>
+  <td>(2206400010) Image Storage</td>
+  <td>(2206400010.5197500000) Patient Unique</td>
+</tr>
+<tr>
+  <td>6065500001</td>
+  <td>(0028,0076)</td>
+  <td>(1013110213) Patient Unique</td>
+  <td>(1013110213.6065500001) Patient Image Storage</td>
+</tr>
+<tr>
+  <td>6086900000</td>
+  <td>(0028,0076)</td>
+  <td>(1013300016) Study Unique</td>
+  <td>(1013300016.6086900000) Study Image Storage</td>
+</tr>
+<tr>
+  <td>8076400015</td>
+  <td>(0028,0083)</td>
+  <td>(1007100010.6803100014) Modality</td>
+  <td>(1007100010.8076400015) SOPClassUID</td>
+</tr>
+<tr>
+  <td>8076500015</td>
+  <td>(0028,0083)</td>
+  <td>(1007100010.6803100014) Modality</td>
+  <td>(1007100010.8076500015) SOPInstanceUID</td>
+</tr>
+<tr>
+  <td>8076400016</td>
+  <td>(0028,0083)</td>
+  <td>(1007100010.6803100014) Modality</td>
+  <td>(1007100010.8076400016) SOPClassUID</td>
+</tr>
+<tr>
+  <td>8076500016</td>
+  <td>(0028,0083)</td>
+  <td>(1007100010.6803100014) Modality</td>
+  <td>(1007100010.8076500016) SOPInstanceUID</td>
+</tr>
+<tr>
+  <td>8085900002</td>
+  <td>(0028,0102)</td>
+  <td>(2000000004) VR</td>
+  <td>(2000000004.8085900000) SOPClassUID</td>
+</tr>
+<tr>
+  <td>8088900002</td>
+  <td>(0028,0102)</td>
+  <td>(2000000004) VR</td>
+  <td>(2000000004.8088900000) SOPInstanceUID</td>
+</tr>
+<tr>
+  <td>8256500017</td>
+  <td>(0028,0127)</td>
+  <td>(3050000066) Patient Unique</td>
+  <td>(3050000066.8256500017) Study Unique</td>
+</tr>
+<tr>
+  <td>9002000018</td>
+  <td>(0028,0534)</td>
+  <td>(2206400010.6065500001) Patient Unique</td>
+  <td>(2206400010.9002000018) Patient SOPClassUID</td>
+</tr>
+<tr>
+  <td>9002000019</td>
+  <td>(0028,0534)</td>
+  <td>(1013300016.6086900000) Study Unique</td>
+  <td>(2206400010.9002000019) Study SOPClassUID</td>
+</tr>
+<tr>
+  <td>9003005011</td>
+  <td>(0028,0534)</td>
+  <td>(2206400010.6065500001) Patient Unique</td>
+  <td>(2206400010.9003005011) Patient SOPInstanceUID</td>
+</tr>
+
+<tr>
+  <td>9005010010</td>
+  <td>(0028,0603)</td>
+  <td>(2279300009) Patient Unique</td>
+  <td>(2206400010.9002000019) Study SOPClassUID</td>
+</tr>
+
+</table>

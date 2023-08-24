@@ -1,0 +1,448 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2069-04-07
+
+ 
+ 
+ 
+Mr. Villegas is seen today.  I have not seen him since November. 
+About three weeks ago he stopped his Prednisone on his own because
+he was gaining weight.  He does feel that his shoulders are
+definitely improved.  It is unclear what he is actually taking, but
+I think based on the color of his pills and the timing of the
+medication that he continues taking his Atenolol for hypertension
+and 1 Hydroxychloroquine tablet.  He is concerned because of the
+relatively recent onset of difficulties turning his head to the
+right.  When he does this, he will note that he feels as though he
+is going to pass out although this has not actually happened.  This
+only occurs when he turns to the right and not to the left.  He has
+no visual changes otherwise and denies any headache or other
+cranial complaints.  
+ 
+On examination today, BP 120/80.  He has no bruits over the
+carotid.  He has no tenderness in this region either.  He has good
+peripheral pulses at the arms.  His joint examination is much
+improved with better ROM of the shoulders and no peripheral joint
+synovitis.  
+ 
+Clinical Impression:
+ 
+#1:  Inflammatory arthritis - possibly RA - with response noted to
+Hydroxychloroquine along with Prednisone.  He has stopped the
+Prednisone, and I would not restart it yet.  
+ 
+#2:  New onset of symptoms suspicious for right-sided carotid
+disease.  Will arrange for carotid ultrasound studies.  Patient
+advised to call me if he develops any worsening symptoms.  He has
+been taking 1 aspirin per day prophylaxis long-term, and I stressed
+that he continue to do so.  He will follow-up with me shortly after
+the ultrasound study.
+
+Xzavian G. Tavares, M.D.
+XGT:holmes
+ 
+DD: 04/07/69
+DT: 04/15/69
+DV: 04/07/69
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+```
+# ACTIVITY: CLINICAL NOTES - REPLACEMENT
+
+CLINICAL NOTE:
+
+
+
+Record date: 2078-01-31
+
+ 
+ 
+ 
+Ms. Doe is seen today.  She has been diagnosed with RA and
+is doing well on a combination of Prednisone and HCQ as noted in a
+previous note.  She has been on HCQ for 6 months now and does
+note any change in her symptoms.  She has no joint swelling or
+pain on examination today.  
+ 
+On examination today, BP 137/78.  She has no bruits over the
+carotid or peripheral examination.  She has good peripheral pulses
+at the arms.  She does not have any tenderness over the
+carotid region on examination either.  
+ 
+Clinical Impression:
+ 
+#1:  Inflammatory arthritis - possibly RA - with response noted to
+Prednisone.  She has been on this combination for 5 months and has
+no change with this treatment.  Will discuss with patient the
+options for next steps in management of this patient. 
+ 
+#2:  
+
+Xzavian G. Tavares, M.D.
+XGT:holmes
+ 
+DD: 01/31/78
+DT: 03/02/78
+DV: 01/31/78
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+# ACTIVITY: PROBABILISTIC MEDICATION REVIEW
+
+# CLINICAL NOTE:
+
+
+Record date: 2069-09-25
+
+ 
+ 
+ 
+Ms. Doe is seen today.  She was diagnosed with RA about two
+years ago and is on Hydroxychloroquine and Prednisone.  Her joint
+symptoms have improved and she has no other complaints.  She is
+not complaining of any side effects from the medications.  
+ 
+On examination today, BP 110/68.  She has no bruits over the
+carotid or peripheral examination.  She has good peripheral pulses
+at the arms.  She does not have any tenderness over the
+carotid region on examination either.  
+ 
+Clinical Impression:
+ 
+#1:  Inflammatory arthritis - possibly RA - with response noted to
+Prednisone.  She has been on Prednisone for 2 years, and HCQ for
+6 months.  Will continue with this combination of medications for
+an additional 6 months, and then re-evaluate if she continues to
+do well in that time period.  If not, will consider adding in
+Methotrexate.  Will continue to follow up with her on a regular
+basis to monitor her response and to make sure she does not
+experience any untoward side effects from either the HCQ or
+Prednisone.
+
+Xzavian G. Tavares, M.D.
+XGT:holmes
+ 
+DD: 09/25/69
+DT: 11/01/69
+DV: 09/25/69
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+
+# ACTIVITY: CLINICAL NOTES - REPLACEMENT
+
+CLINICAL NOTE:
+
+
+Record date: 2071-06-18
+
+ 
+ 
+# ACTIVITY: CLINICAL NOTES - REPLACEMENT
+
+CLINICAL NOTE:
+
+
+Record date: 2071-03-06
+
+ 
+ 
+# ACTIVITY: CLINICAL NOTES - REPLACEMENT
+
+CLINICAL NOTE:
+
+
+Record date: 2071-09-24
+
+ 
+ 
+Mr. Doe is seen today.  He was diagnosed with RA and is on
+Hydroxychloroquine.  He has been on this combination for the
+past 2 years and has not noted any change in his symptoms.  He
+is not complaining of any side effects from the medications.  
+ 
+On examination today, BP 112/60.  He has no bruits over the
+carotid or peripheral examination.  He has good peripheral pulses
+at the arms.  He does not have any tenderness over the
+carotid region on examination either.  
+ 
+Clinical Impression:
+ 
+#1:  
+*
+ 
+Xzavian G. Tavares, M.D.
+XGT:holmes
+ 
+DD: 03/06/71
+DT: 06/01/71
+DV: 03/06/71
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+# ACTIVITY: CLINICAL NOTES - REPLACEMENT
+
+CLINICAL NOTE:
+
+
+Record date: 2072-09-14
+
+ 
+ 
+Mr. Doe is seen today. He has been diagnosed with RA and is on
+Hydroxychloroquine.  He has been on this combination for the
+past 3 years and has done well during that time with no change in
+his symptoms or in the side effects he was experiencing.  
+ 
+On examination today, BP 102/50. He has no bruits over the
+carotid or peripheral examination.  He has good peripheral pulses
+at the arms.  He does not have any tenderness over the
+carotid region on examination either.  
+ 
+Clinical Impression:
+ 
+#1:  Inflammatory arthritis - possibly RA - without side effect
+changes.  Will continue with this combination for another 3
+years, and then re-evaluate if he continues to do well with this
+treatment.
+
+Xzavian G. Tavares, M.D.
+XGT:holmes
+ 
+DD: 09/14/72
+DT: 09/14/72
+DV: 09/14/72
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+# ACTIVITY: CLINICAL NOTE: NOTE:
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+\
+
+
+
+
+
+
+
+
+...
+
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\begin\titled
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\...
+
+
+
+
+
+
+
+
+
+
+
+
+or...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+\
+
+
+
+or, 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reports of the data
+
+
+
+
+
+
+
+
+
+
+
+
+name: 
+
+(patient of
+
+
+ 
+
+or
+
+
+ 
+
+and a patient
+
+10 or date 2
+
+
+information data...name and the name, name, do not the letter of the letter.
+
+The following patient...
+1:
+and, and the last the patient and the... 
+The clinique...
+
+the [the
+(...
+The [1. The patient, butter, and the letter or
+The [...
+and the letter. 3, and the following... and the [indicate 2 or are...
+
+The are or [and or and 4... and/1, 3 or the following...
+
+
+
+The names, and 10. 12:
+: and... (10 and the following patient: you, and, 
+
+[1: the following patient names, or 4 ( 1...
+d or 12 of this and 1: 2-are and the [(and...  and the (the... (1 and remove: 4, 1. or and, 1 and:
+1 (
+(
+1, the [
+[1, and a or and (1: (and and the are the patient (are, [... 1 and, 1 and and the...
+1, … and,..., and... [, the [
+10..., 0, 0 or the, or and,... [[, and the and, or, the, a (1, the [1 or, and  and, and,  are, the... 2, [and 0 and and [[ of an of  and the and, 1, [: 4 [...: 5 (an 3.......: Animate... (2... are: (0 2 [  are 1 6- 1 and (1-1-by or “, [, [the and the, 4,
+, [d, of the of “, and of the, and,... ( 1, but, 0, 1 are 4 might (may are might [and, an, 1. 1 and, (an, and-1, the (. but 0, 1 or, 3 and, [ 1 of the, "  and, or, 3, of, 0, of 2 of the, ( an and, (make of the, 1 in the, the (and, and the and,  and, 5, 1, the, 0 1, [an, “an of the and- ( and and-  and and: 1, an- 3 (  [ and ( : ( an:  an: - [: - ::  an and [ and:  ( an: ( and or- an ( an- or an or are or or and or " ( ( an [. and an in "  an of the of the of  an of.  and, the [ in and [ or. in,  or,  or or and [ [ or,... or an-an or- ( or are or an- [ [ or  or of an of ( ( or in the (,,  or  an  an, an  or of the and  of  or of the of  of,  or, an or  or ( and and (,,  an,  and- an of the of the of and of,, an, for the for (, for  ( an for for of or  of an in - of or an of the or and,  and, - and, and,  of the of " of  of an of an  and  in an  an and and  and  or, or - in the an of a- ( or of or or,, - of an- and of a- - or of a- an of, and, and an ( - the and  ( An  or or  and-  "  or and and of or of  of  and ( or ( (  of,  and  and they, and and,,, of the, of a of and of ( of the, of the and and, of the and, ( and, and,  and or  and-   and, -  an  or, C C An C [- ", an- and- or [ an- - an- and an- e and- or- and  (- ( - or or - or or  [  an -  (  and and- (- "- or and or of or and- and of and or- - " - and-  ( and,- and and of- and- [-  -  - -   and- [ or for- a- for- for in and if and  or of  or  of  of our- or  (   and,  or,, and  or of  of,  or  or [ of- or or [ or - - or and or or and  of   of  of of of of and- of and- t  and -,- ac of and and  or  and and  or, on and,- or  and (  of- and of of the, and of and - and ( C and or ( or of  and of of- c - ( or ( and- or, or ( and,, ( or of and or so- and so and or [ so- so  so on (  and so  so  and so so c of [ and so and- and - and for and (,,, on- c in and [ c , and or and, on- or, , - - and c,- or  on  and in  and, and (-    as  and  if (, , or and,,,,   and  of and , - on,  and ,  and,  and- (   and, of   and,  of  - - and  and   (  d  and-  ( of, and,, so  [   (  on  of  of- of  and of  on of of  (  - or (  ( and  or.      and   t  of  of of  of ( so- [ and  and [[ of or of - or ( ( -  of  of ( of   and-   T  C C -, and, [, (, and , and, (,  and, as, ,,  as - and- _  and ( and- and  or  and-  of- - and  (- and - T   (,  and   as or- and,, on,,,, and , , of, of  and of  of of of of or in, or of and  and on of  t  and, - and-  and or and,- and,,,, (, 

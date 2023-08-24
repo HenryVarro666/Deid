@@ -1,0 +1,343 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2090-12-14
+
+EDVISIT^43294739^FINNEY, INDIANA^12/15/90^MARTIN, CONSTANCE
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 53-year-old female
+
+with a history of insulin-dependent diabetes, hypertension and
+
+atrial fibrillation who comes in to the ER complaining of
+
+sensation of a racing heart since 5:10 p.m. in the evening.  She
+
+said it was acute onset and felt like palpitations.  She also
+
+said it felt like a burning.  She had mild shortness of breath
+
+and left arm achiness.  She had no nausea, no vomiting, no fevers
+
+or chills.  She had no trauma, no lightheadedness, and no
+
+syncope.
+
+PAST MEDICAL HISTORY:  Hypertension, insulin-dependent diabetes,
+
+and atrial fibrillation.
+
+PAST SURGICAL HISTORY:  Not related.
+
+SOCIAL HISTORY:  No tobacco or occasional alcohol.
+
+FAMILY HISTORY:  Reviewed and noncontributory.
+
+REVIEW OF SYSTEMS:  Palpitations, otherwise negative.
+
+MEDICATIONS:  Metoprolol, the patient missed two doses today,
+
+aspirin, simvastatin, glyburide and NovoLog.
+
+ALLERGIES:  Erythromycin and IV dye.
+
+PHYSICAL EXAMINATION:  Temperature 97, heart rate 155,
+
+respiratory rate 18, blood pressure 136/52, O2 100% on 2 liters. 
+
+The patient is awake and alert, well developed, well nourished,
+
+talking in complete sentences, in no acute distress.  ENT: 
+
+Atraumatic, normal to inspection.  Eyes are normal.  Neck: 
+
+Normal to inspection, supple, and nontender.  Respiratory:  Clear
+
+to auscultation bilaterally.  Cardiovascular:  Regular rate and
+
+rhythm.  No murmurs, rubs, or gallops.  GI:  Abdomen is soft and
+
+nontender.  Skin is intact, warm, and dry.  Back is nontender. 
+
+Musculoskeletal:  No lower extremity swelling or edema. 
+
+Neuropsychiatric:  Oriented x3.  Mood and affect is normal. 
+
+Cranial nerves II through XII tested and intact.  No motor or
+
+sensory deficits.
+
+EMERGENCY DEPARTMENT COURSE:  Initial EKG showed a rate of about
+
+150, unclear.  It seemed that there was T waves in V3.  There is
+
+no evidence of ST elevation MI.  We thought this could be an SVT.
+
+ It was not really consistent with an atrial fibrillation.  Our
+
+plan was to give adenosine, however, during the IV placement. 
+
+Prior to giving adenosine, the patient converted to a normal
+
+sinus rhythm with mild tachycardia at around 100, but it was
+
+clear that there was T waves.  At this point, we decided to give
+
+her baseline metoprolol dose and she missed two doses.
+
+LABORATORY DATA:  Labs checked include sodium of 139, potassium
+
+3.7, chloride 104, bicarbonate 23, BUN 14, creatinine 0.81,
+
+glucose 268.  ALT 19, AST 18, CK 350, alkaline phosphatase 128,
+
+total bilirubin 0.5, CK-MB 5.2, troponin I less than 0.04,
+
+calcium 9.1, and mag 1.9.  White blood cells 10.29, hematocrit
+
+42.7, and platelets 438, 000.  INR is 1.  UA is negative for
+
+infection with trace blood present.
+
+PLAN:  Our plan is to check two more enzymes because the patient
+
+had the left arm heaviness during the palpitations.  If both of
+
+those enzymes are negative, we feel that she is safe to go home
+
+from the ED Observation Unit.  It is unclear the etiology of her
+
+arrhythmia.  It did seem to be likely SVT, which broke
+
+spontaneously.  The patient is to follow up with her primary
+
+doctor.
+
+DISPOSITION:  ED Observation Unit.
+
+CONDITION ON DISCHARGE:  Satisfactory.
+
+I confirm that I have interviewed and examined the patient,
+
+reviewed the resident's documentation, the patient's chart,
+
+discussed the evaluation, plan of care, and disposition with the
+
+patient.
+
+______________________________
+
+MARTIN, CONSTANCE M.D.
+
+D: 12/15/90
+
+T: 12/15/90
+
+Dictated By: MARTIN, CONSTANCE
+
+eScription document:8-4109370 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{verbatim}
+\subsection{The EPIC Document}
+\subsubsection{The First Document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\subsection{The Last Document}
+\label{lastdocument}
+
+
+
+
+
+
+\begin{verbatim}
+\end{verbatim}
+
+\clearpage
+\newpage
+
+\section{The EPIC Documents, with Annotations}
+
+\section{Document}
+
+\begin{verbatim}
+
+\end{verbatim}
+
+\section{Document}
+
+\begin{verbatim}
+\end{verbatim}
+The first document, shown in Figure \ref{document},
+represented a standard EPIC document, which is a standard
+form in clinical care. In this document, a patient's vital signs
+were documented. The vital signs are blood pressure, pulse
+oxygen saturation (SPO2), respiratory rate, temperature, and the
+heart rate. This document contains a narrative, but no structured
+data. This document contains no patient identifiers.
+
+\section{The First Document: Annotations}
+
+The annotations are shown in Table \ref{firstdoc} and are as
+follows:
+
+\begin{itemize}
+\item Patient name and other personal information are not included in the EPIC documentation and were not included in the annotation.
+
+\item The time was included in the EPIC documentation.
+
+\item The vital sign information was included in the EPIC documentation.
+
+\item The narrative is included in the EPIC documentation.
+
+\item The patient's age was included in the EPIC documentation.
+
+\end{itemize}
+
+\clearpage
+\newpage
+\section{Document (continued)}
+
+\begin{verbatim}
+\end{verbatim}
+
+\section{The Second Document}
+
+As in the first document, the vital signs are documented in the second document. The document contains some additional information. In this case, there is no narrative.
+
+\section{Document}
+
+\begin{verbatim}
+\end{verbatim}
+
+\clearpage
+\newpage
+\section{Document (continued)}
+
+\begin{verbatim}
+\end{verbatim}
+
+\section{The First Annotation}
+
+The first annotation was shown in Table
+\ref{firstdocannot}. This annotation includes all the structured data except the patient's age, which is not included in this document.
+
+\subsection{The First Annotation}
+\label{firstannot}
+The first annotation is shown in Table
+\ref{firstdocannot}.
+
+\subsection{The First Annotated Document}
+\label{firstdocannot}
+The first document and the first annotation is shown in Figure\ref{doc}.
+
+\begin{verbatim}
+\end{verbatim}
+
+\begin{verbatim}
+\end{verbatim}
+
+\begin{verbatim}
+\end{verbatim}
+
+\begin{verbatim}
+\end{verbatim}
+\begin{verbatim}
+\end{verbatim}
+\begin{verbatim}
+\begin{verbatim
+\end{verbatim}
+\begin{verbatim
+...\begin{verbatim
+\begin{verbatim
+\begin{verbatim and
+\begin{verbatim (1201\begin{verbatim
+
+\begin, and so and soverbat
+... verbatim
+
+\end of the
+\[verbatim, and
+\n...
+\begin{verbat im...
+...
+
+verbatim\begin,
+verbat,
+verbat and/
+\verbat im
+\verbat codes and the verbs. [the verbat...
+Verbat codes, 11,2340.
+Verbatim... 
+The 0121
+
+15473100,21 and 1, 55,12 and/patient, 1,2 lines verification of the...
+Ins
+verbat patient, verbat 12,3
+or code... 2...
+(110 lines of identify, names...
+
+names of verifiable data and any, and names, name 1, and...
+or...
+the [the and be a, b or.
+
+
+1701, and...
+12 and 11, 11, the patient name, and name, and date codes, 9, and the patient and patient, and the patient of, and a few or [may and name.
+[ oration and the 7, but-2 and 10, orated names...last, but and the patient... (...
+. 1, and 1...theist-
+:
+(the: (11...of the...theise:...
+…
+d, but the (1: 
+take the are, and [[[
+[
+...
+… or  or the: or...
+[10…, you:... and "the... ority, and the, and 3 and are, and are and the, the-you, "of 4 (and (2-
+and: 3... indicate are 1 of the… (…,......, 1 and and the... and of “ ( and the, but, and... or, a, and of the, and, [, the, or, [the, the, 5, an [
+, [, 
+1, and, a, or, or, and, and, the, the, 1 are, the ( and, 3, or of 1, [ and a, (: (make...: 11 and the:
+1. 1 and “patients of: and "and. and [1 (1 (2 [1-12 (1 are-1 and,... of the and the "with, the, the, 0, " [.
+,
+. of the.
+.
+., (an ( and, 1 of a- 2, are, an, a, the an or and an, an, and [ann-and, 1, an, an, and, anizations, anine, an and, an and, and, an an (an, an, an an or [an (an (1 of an, an of an - an of 1, Anis or, an " and and,  and, 3, An, an of, and, " and the, anine and, and, the: an, an, and-1, the and an: An An An An An and, 1 (: 1: "1 and and and an: [: : (: (: an: 0: anistic and: an and: anine or-an with an: with the an: an: an an in: an: are a or- [ ( ( an-1 in ",  " of the of [ of  and [. an and, and (,, and [,, (: [, [  and, [ and are [ or, [, or, [ and and: - (: and ( (, an, -  in  ( ( [ -  in,  ( and - an or, [,  in are,,,, and of an of  and of an of an of  an  or, or, and,, and ( " and, of " of an of the an and of (, an and  an and, and,-an ",, or an, or  of an or ( in  or,  and, - and -  [ an and of their  of the and of ( and of: and  an, and and, 1 and  and-an and - and an or or of  or in  of  of-1- 1-  of- of  of the of of, of,, an of (, of the, and,,, an of the and or,,, an.  of an ( an of and and (0 of  (, of and that of that an, that that, and an, that an of, of that, of  of  of and of and that of an  and of an,, and and, and in and, an,  and that and  an  in an and of  and  ( and ( in and an ( [ and- an and ( or [ and - and  in,  ( or-C  with or, and or or ", (, in  in or  or or in an- and or in, or in and or an  - ( in a and of  of of of and and in  - and and  and and, with and and, and and  of and ( and  ( and and  in  (. or, and in and:  or or -C and and in  or  in or or-1 in, and  and in or  ( and ( and, or and. or of an of a or of an or, ( that or ( in and of the and that. that and, to  or of,  of ( of  of  ( and of of and of  of- [,  and and and and, and  and and  and -,,  and  (. - -  and, and and,,- - -, - and of, and and of of and and - or and and , and,  (, and or,, or or an and and of  and  ( and and  an or and. and,. ( - or, and an or and  or and, and and, and and, and [ and, [, (,,, and, and [.  in and (,  to, an (, and or,, and in in in,  and  and and, an and and, or  (, and,, and and, and and,,, and (, or,,,, and and,  and,,,, and (, or, -   and,,,  and and and.,   and ( c and, and  and, t and,, c or [ and,,,,,,,,,,, and and  and, and, c or,. and and and. - C and, and,- w or, W or w - and or and, and, and,,, - and or and or and [, and ( c, and, or. or, and,  ( and in and and and t,, ( or, and and, and and of and and and or and and and, ( and,, and, and,,,,,  or, or  and or and, [, and,, and of,, of of, of, and of a of of of, of of and of of of of of and of and, or- and,,, and.,, and,, and, and on.,,,,, and and, and, and as, or, or,,-1, and ( [1 (, of, of and of but,,,,,, and,, ( and,

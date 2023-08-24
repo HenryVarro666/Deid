@@ -1,0 +1,372 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2070-12-03
+
+
+
+
+
+
+
+
+
+
+
+
+
+December 3, 2070
+
+
+
+
+
+Thomas You, M.D.
+
+239 Gilson Road
+
+Vernon, ME 27525
+
+
+
+
+
+RE:  		Jaquante Xuereb
+
+SRI: 		134-43-51
+
+
+
+Dear Dr. You:
+
+
+
+I had the pleasure of seeing our mutual patient, Mr. Jaquante Xuereb, in follow up evaluation in our vascular surgery clinic here at the Santa Rosa Infirmary today.  As you remember, he recently underwent a revision of his lower extremity bypass graft with thrombectomy of the fem-pop bypass graft and subsequent jump graft to the below-knee popliteal artery.  He returns today for follow up evaluation. 
+
+
+
+He has a warm, well-perfused foot with a palpable dorsalis pedis pulse.  Unfortunately, over the last ten days he has developed increased erythema and tenderness on the medial aspect of his left knee with superficial skin breakdown consistent with either a staph or a strep cellulitis.  He had been on a course of p.o. antibiotics over a week ago for treatment of strep throat as well.  The patient has been increased his activity and prior to this time had been extremely active with no erythema, tenderness or drainage from his leg.  My concern is that he has increased warmth with blanching and erythema on the medial aspect of his knee consistent with a superficial cellulitis and I believe that he would benefit from hospital admission with a course of IV antibiotics, bedrest and elevate.  We will tentatively plan to admit him for localized wound care measures, treatment with IV Nafcillin on a q.4 hour basis.  In addition, he has intact femoral pulses on the left side.  He does report when he was ambulating he was having increased difficulty with claudication in the distal left lower extremity and calf region.  Most recent vascular lab studies dated November 29, 2070 reveal an ABI of 0.96 on the right, 0.56 on the left.  
+
+
+
+I will keep you informed as to the status of Mr. Xuereb.  My concern is that if he does infect this PTFE graft we do not have any suitable autogenous conduit to perform an additional reconstruction and he would stand a very high chance of losing his limb at the knee level.  If I can be of any further assistance in the management of this or any of your other patients with vascular disease, particularly those in need of a minimally invasive vascular procedure, please feel free to contact me directly.
+
+
+
+
+
+Sincerely,
+
+
+
+
+
+Shane R. Herring, M.D.
+
+
+
+cc:	Dirk O. Reece, M.D., 9 Church Street, Pune, ME 99597
+
+
+
+SH/truitt		89-05167655.doc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
+		
+		return result;
+	}
+	
+	public class ClinicalNotesParser extends AbstractParser<ClinicalNote>
+	{								
+		private static final String TAG = ClinicalNotesParser.class.getSimpleName();
+		
+		public ClinicalNotesParser()
+		{							
+			this.setParserName(TAG);
+			this.setParserCategory(ParserCategory.DOCUMENT_PARSER);
+			this.setParserPriority(ParserPriority.HIGH);
+		}
+		
+		protected ClinicalNote parseDocument(final InputStream stream) throws IOException, UIMAFrameworkException
+		{				
+			ClinicalNote document = null;
+			
+			final Map<String, Integer> startIndices = new HashMap<>();
+			final Map startIndicesReverse = new HashMap();
+			
+			final Document doc = DocumentParserUtil.extractDoc(stream, null);
+			
+			if (doc == null)  {
+			
+				log.error("No document was found");
+				return document;
+			}
+			
+			final DocumentParserResultParser parser = DocumentParserUtil.newDocumentParserResultParser();
+
+			final DocumentParserResult result = parser.run(doc); // parse doc
+			
+			if (result.getResults() == null || result.getResults().size() <= 0)  {
+			
+				log.error("No parser results");
+				return document;
+			}
+			
+			final DocumentParserResult.ParseResult parseResult = result.getResults().get(0); // the 1st parser result 
+			
+			if (parseResult == null || parseResult.getError()!= null) {
+			
+				final DocumentParserResult.ParseResult.Error error = parseResult.getError();
+				
+				String message = "Failed to parse the document: ";
+				
+				if (error.getErrorCause()!= null) {
+					message += "ErrorCause: " + error.getErrorCause();
+				}
+				
+				if (error.getErrorMessage()!= null) {
+					message += ", ErrorMessage: " + error.getErrorMessage();
+				}
+				
+				log.error(message);
+				return document;
+			}
+			
+			final ParserStatus status = parseResult.getStatus();
+			
+			String text = null;
+			
+			if (status.isComplete())  {
+			
+				final String resultText = parseResult.getText();
+				
+				if (!text.equals(resultText)) {
+					
+					text = resultText;
+				}
+			}
+			
+			if (text == null) {
+			
+				return document;
+			}
+			
+			final DocumentParserResult.TokenList tokens = parseResult.getTokens();
+			
+			String startTokenStr = "null";
+			
+			if (tokens!= null) {
+			
+				final int startTokenIndex = tokens.indexOf(DocumentParserResult.Token.START_TOKEN, 0);
+				
+				if (startTokenIndex >= 0)  {
+				
+					startTokenStr = tokens.get(DocumentParserResult.Token.START_TOKEN, startTokenIndex);
+				}
+			}
+			
+			final TokenList tokenList = DocumentParserUtil.extractTokens(tokens); // extract all the tokens in the doc (not just the start one)
+			
+			String endTokenStr = null;
+			
+			if (tokenList!= null) {
+			
+				final int endTokenIndex = tokenList.indexOf(DocumentParserResult.Token.END_TOKEN, 0); // get the index of the end token
+				
+				if (endTokenIndex >= 0) {
+				
+					endTokenStr = tokenList.get(DocumentParserResult.Token.END_TOKEN, endTokenIndex); // extract the end token from the list
+				}
+			}
+			
+			if (startTokenStr == null || endTokenStr == null || startTokenStr.equals(endTokenStr)) // we want to ignore the case where the START_TOKEN and the END_TOKEN are the same
+			{
+			
+				log.error("No valid start or end token found");
+				
+				return document;
+			}
+			
+			final String startToken = startTokenStr.substring(0, startTokenStr.length() - 1);
+			final String endToken = endTokenStr.substring(1, endTokenStr.length());
+			
+			if (!startToken.startsWith("[") ||!endToken.startsWith("]")) {
+			
+				log.error("[START_TOKEN] and [END_TOKEN] do not start with a '['");
+					
+				return document;
+			}
+			
+			if (!startToken.endsWith("]") ||!endToken.endsWith("[")) {
+			
+				log.error("[START_TOKEN] and [END_TOKEN] do not end with a ']'");
+								
+				return document;
+			}
+			
+			String startTokenStr = startToken.substring(1, startToken.length() - 1);
+			String endTokenStr = endToken.substring(2, endToken.length());
+			
+			
+			String startTokenValue = startToken.substring(1, startToken.length() - 1);
+			String endTokenValue = endToken.substring(2, endToken.length());
+			
+			
+			// the following is a hack. the token list does not always contain start/end tokens, so we need to make sure the token list contains at least 2 tokens.
+			
+			if (startToken!= null && endToken!= null && (tokens == null || tokens.isEmpty() || tokens.size() < 2)) {
+			
+				tokens = new TokenList();
+				
+				tokens.add(DocumentParserResult.Token.START_TOKEN, endToken);
+				tokens.add(DocumentParserResult.Token.END_TOKEN, startToken);
+			}
+			
+			final DocumentParserResult.TokenList finalTokenList = tokens;
+			
+			final String startTokenValueStr = StringUtils.join(new Object[]{startTokenValue, text, endTokenStr}, " ");
+			
+			if (status.isComplete())  {
+			
+				String resultText = parseResult.getText();
+				
+				if (!text.equals(resultText)) {
+				
+					resultText = text;
+				}
+			}
+			
+			int startIndex = -1;
+			int endIndex = -1;
+			
+			if (!StringUtils.isEmpty(startTokenValueStr))  {
+			
+				final String[] tokenValue = startTokenValueStr.split(" ");
+				
+				if (!StringUtils.isEmpty(tokenValue[0]))  {
+				
+					final int startTokenStrLength = startTokenStr.length();
+					
+					if (text.startsWith(tokenValue[0].trim()))  {
+					
+						startIndex = text.indexOf(tokenValue[0], 0);
+					}
+				}
+				
+				if (!StringUtils.isEmpty(tokenValue[1])) {
+				
+					final String endTokenValueStr = StringUtils.join(new Object[]{tokenValue[1], text, tokenValue[2]}, " ");
+					
+					if (endTokenStr.equals(endTokenValueStr)) {
+					
+						endIndex = endTokenStr.length();
+					}
+				}
+			}
+
+			if (startIndex < 0 || endIndex < 0) {
+
+				return document;
+			}
+			
+			int startTokenStrLength = 0;
+			int endTokenStrLength = 0;
+			
+			if (!StringUtils.isEmpty(startTokenValue))  {
+			
+				startTokenStrLength = startTokenStr.length();
+			}
+			
+			if (!StringUtils.isEmpty(endTokenValue)) {
+			
+				endTokenStrLength = endTokenStr.length();
+			}
+			
+			final Document document = DocumentParserUtil.createDocument(text);
+			
+			final DocumentParserResult.ParseResult.TokenList tokenList = parseDocument(finalTokenList, startTokenStr, endTokenStr, startIndex, endIndex, text);
+			
+			final DocumentParserResult.ParseResult.TokenList.Token token = tokenList.get(DocumentParserResult.Token.START_TOKEN, 0);
+			final DocumentParserResult.ParseResult.TokenList.Token endToken = tokenList.get(DocumentParserResult.Token.END_TOKEN, tokenList.size());
+			
+			if (startToken.equals(token.value) && endToken.equals(endToken)) {
+			
+				startIndex = token.startIndex;
+				endIndex = token.endIndex;
+				
+				if (tokenList.size() > 1) {
+				
+					final String previousText = document.getText(startTokenStrLength, endTokenStrLength);
+					
+					if (!previousText.equals(text.substring(0, startIndex))) {
+					
+						startIndex = previousText.length();
+					}
+				}
+			} else {
+			
+				if (startIndex >= 0 && startIndex >= document.getNumberOfWords()) {
+				
+					startIndex = document.getNumberOfWords() - 1;
+				}
+				
+				if (endIndex < text.length()) {
+				
+					endIndex = endTokenStrLength + text.length();
+				}
+			}
+			
+			if (startIndex < startTokenStrLength || endIndex > text.length()) {
+			
+				log.error("The start index is outside of the token value. Or the end index is outside the text value.");
+				
+				return document;
+			}
+			
+			if (startIndex == startTokenStrLength || endIndex > text.length()) {
+			
+				startIndex = -1;
+				endIndex = -1;
+			}
+			
+			document.replaceAll(startTokenStr, new String(text, startIndex, endIndex - startIndex));
+			
+			if (startIndex >= 0 && endIndex < text.length())  {
+			
+				startIndex++;
+				endIndex--;
+			}
+			
+			if (startIndex >= 0) {
+			
+				document.replaceAll(startTokenStr, new String(text, startIndex, endTokenStrLength - startIndex));
+			} else if (startTokenStr.equals(endTokenStr)) {
+			
+				document.replaceAll(startTokenStr, text.substring(0, text.length()));
+			} else {
+			
+				document.replaceAll(startTokenStr, new String(text, endIndex, startTokenStrLength - endIndex));
+			}
+	

@@ -1,0 +1,220 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2077-02-05
+
+                     AASC EMERGENCY DEPT VISIT
+
+ 
+
+QUIJANO,BAYLEE   853-62-51-4
+
+Ms. Quijano is a 62-year-old female who was seen by the resident and 
+
+seen and examined by me.
+
+PRESENTING COMPLAINT:  Nausea, vomiting and diarrhea.
+
+HISTORY OF PRESENTING COMPLAINT:  Patient is a 62-year-old female 
+
+with history of asthma and CHF with coronary artery disease, 
+
+presents now with multiple episodes of vomiting and diarrhea and 
+
+"feeling sick".  Has no history of fevers.  Mildly tachycardic with 
+
+a pulse rate of 100.
+
+REVIEW OF SYSTEMS:  Stated that recently was feeling sick.  Had a 
+
+chest x-ray recently and was negative.  Treated with Amoxicillin, 
+
+but still continued to have some mild cough and wheezes.  That 
+
+brought her to the Emergency Department, but no complaints of any 
+
+new shortness of breath, but has this persistent cough that has not 
+
+gone away despite being treated with antibiotics.  Denies fever or 
+
+chills.  Denies shortness of breath.  Denies dyspnea on exertion.  
+
+Denies PND.   Review of systems otherwise unremarkable.
+
+PAST MEDICAL HISTORY:  History of hypertension, CHF, asthma, status 
+
+post cholecystectomy.  History of coronary artery disease.  Status 
+
+post C-section times two.  
+
+MEDICATIONS:  On multiple medicines including Ventolin, Lasix, 
+
+Lopressor and Zantac as well as Lipitor.
+
+PHYSICAL EXAMINATION:  HEENT:  Normal.  NECK:  Supple.  LUNGS:  
+
+Some mild wheezes bilaterally.  No rales however.  No respiratory 
+
+distress.  Some course rhonchi heard throughout lung fields.  
+
+CARDIAC EXAM:  Regular rate and rhythm.  No murmurs.  ABDOMEN:  
+
+Soft, nontender without any masses.  MUSCULOSKELETAL:  Shows trace 
+
+edema greatest in the lower extremities, but good pulses, normal.  
+
+Capillary refill and neurological is intact.
+
+LABORATORY EVALUATION:  Full laboratory studies were done including 
+
+chest x-ray.  EKG showed sinus rhythm with T-wave inversion in A, V 
+
+and L.  This is not new based on old cardiograms.  Chest x-ray 
+
+shows some cardiomegaly and a fluffy chest x-ray indicating CHF.  
+
+Electrolytes, BUN and creatinine normal.  Hematocrit of 45 and a 
+
+normal white count.   
+
+THERAPY RENDERED/COURSE IN ED:  Initially systolic blood pressure 
+
+was over 200 and diastolic over 91 and patient also received some 
+
+Diltiazem for blood pressure control.  
+
+Assessment:  This is a 62-year-old woman who has vomiting, 
+
+diarrhea, and "feeling sick" and she has a chronic cough despite 
+
+recent treatment with antibiotics, but no shortness of breath, now 
+
+found to be in CHF on chest x-ray.  Patient has been diuresed.  PCP 
+
+is aware.  She is going to be admitted. 
+
+CONSULTATIONS (including PCP):  Primary care physician.
+
+FINAL DIAGNOSIS:  Cough with congestive heart failure.
+
+DISPOSITION (including condition upon discharge):  The patient was 
+
+admitted to the hospital in stable condition.
+
+___________________________________                    UZ272/3146
+
+FRANK ISON, M.D.       FI65                           D:02/05/77 
+
+                                                       T:02/05/77 
+
+Dictated by:  FRANK ISON, M.D.       FI65 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+
+
+
+
+
+
+*/
+
+			//string redaction = "QUIJANO,BAYLEE   853-62-51-4Ms. Quijano is a 62-year-old female who was seen by the resident and  seen and examined by me.  PRESENTING COMPLAINT:  Nausea, vomiting and diarrhea.  HISTORY OF PRESENTING COMPLAINT:  Patient is a 62-year-old female  \\nwith history of asthma and CHF with coronary artery disease,  \\npresents now with multiple episodes of vomiting and diarrhea and feeling sick.  Has \\nno history of fevers.  Mildly tachycardic with a pulse \\nrate of 100.  Review of Systems:  Stated that recently was feeling sick.  \\nHad a chest x-ray recently and was negative.  Treated \\nwith Amoxicillin, but still continued to have some \\nminor cough and wheezes.  That \\nbrought her to the Emergency Department, but no complaints \\nsimilar to any new shortness of breath, but has this persistent  \\ncough that has not \\ngone away despite being treated with antibiotics.  \\nDenies fever or chills.  Denies shortness of breath. \\nDenies dyspnea on exertion. \\nDenies PND. \\nReview of systems otherwise unremarkable. \\nPHYSIOLOGICAL STATUS:  SPECIMEN COLLECTION:  HEENT:  Normal.  \\nNECK:  Supple.  LUNGS:  Some mild wheezes \\n bilaterally.  No rales however.  No respiratory \\ndistress.  Some course \\n rhonchi heard throughout lung fields.  \\nCARDIAC EXAM:  Regular rate and rhythm.  No murmurs.  \\nABDOMEN:  Soft, nontender without any masses.  \\nmUSCULOSKELETAL:  Shows trace edema greatest \\nin the lower extremities, but good pulses, normal. \\nCapillary refill and neurological is intact. \\nLABORATORY EVALUATION:  Full laboratory studies \\nwere done including chest x-ray.  EKG showed sinus rhythm \\nwith T-wave inversion in A, V and L.  This is not new based \\non old cardiograms.  Chest x-ray shows some cardiomegaly and a \\nfluffy chest x-ray indicating CHF.  \\n Electrolytes, BUN and creatinine normal.  Hematocrit  \\nof 45 and a normal white count. \\nTHERAPY RENDERED/COURSE IN ED:  Initially systolic blood  \\npressure was over 200 and diastolic over 91 and patient also received  \\nsome Diltiazem for blood pressure control.   \\nAssessment:  This is a 62-year-old woman who has vomiting,  \\ndiarrhea, and "feeling sick" and she has a chronic cough  \\ndespite being treated with antibiotics, but no shortness of  \\nthorax, now found to be in CHF on chest x-ray. Patient  \\hnas been diuresed.  PCP is aware. She is going to be admitted.  \\n\\nCONSULTATIONS (including PCP):  Primary care  \\nphysician. \\n\\nFINAL DIAGNOSIS:  Cough with congestive heart failure.  \\ndisposition (including condition upon discharge): The patient was  \\nadmitted to the hospital in stable condition. \\n\\n\\nCONCLUSIONS: \\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\nspecifying the date
+																	 
+																	 
+																		 
+																																																														
+											  			 				
+
+[date
+					   		date of		 of		 
+	words that	 										date		names, etc.
+
+
+12.  
+pat... 	
+
+
+
+
+
+ 	 
+
+
+
+
+
+ 
+
+
+
+The doctor
+	
+
+ 98011 data
+
+
+names of
+10, 1, 
+
+10
+patient patient,
+
+1 patient-specific patient 
+10 oral. 9
+ 
+
+(33 lines 
+words.
+
+
+name and the 2 names and name, 100,2 names and names 0: and...
+A, and 1
+are
+are and...
+or 
+(1. If the clinically...
+or or [1. 
+
+
+
+The, the date, and the 11 or name, and 1 or
+10, or
+and, or...the 
+
+or...
+and are or 10 or, oral or 10 or
+10
+...
+name of a patient, 1, 
+and [1, 0,
+
+
+
+...1:1, 
+(patients and the:, and the patient...1:1:... (
+d:... (d are...…are of 
+
+10: the following, or are the: or and the are are the 1: 1, and, 
+and of the 
+
+
+, or,
+the 1 and, indicate,
+andize or and 
+
+(follow, (and.
+0…1...are... the, the, the [and, ([11-
+..., 1...
+… (1 (
+1, and 
+[0...1 and the...
+
+[0, the of [
+([1. [[1, and, the, or,
+1, as a, 3 and the, and (1, and, and, 1, as 1, and, 0, " and, a, the 0, 0... and: the-c, and the: an (c. 3: 1...:  and... (1...1-2 "1-2...are are are of an in that and 2-the (and "by... of the..., or and the, [[. and. 1 of, 2 (. and of (, the and and, are the, are and, are and are an are an would or are the are, An and by [1, the or an, 0 (an, an, an and-1, (an. or, Anich and, an, an and an [ann of [An An Aniz an, in "pat of (An or and (1 An of an and, [2 in it, or, and, " (1, 1, and, the and, An, an C and and: and, an, " (an, an " an and, an and " and an or of an [1 An An-3-1 (1-1:-an- (1 an: an: and ":  and- [:: " an::: an: "-an with the an- ( an an or::: : and ( an-an, "- an [.-1-d. of the of. of (.,,. an and,,, and, (... in the [ and or- or, [ in the are [ [, [ [ [ or and or and- or- an and " in- [ in- [ are- are and or ( or in and " in an [ or- an or or- or an,, or,, an of " of  of the of or, and in, an or in-in, and by in or ( and, of the of an ( of the of of the,, or or,, are and ( in an " of, ( or ( of the- or- of, or and,, -  or,, and ( -  ( of the of an ( an an of, of, of an in the and or and, an- or or, and-  in in and  or in in or in in or or in of and-  and and- and,- and-cl- and-and - and,,, or or, or and or or.,- an, and or ( (, ( or, an or an or and of or or  of- or-2- or-1 or- and-cl-C, and, of and of a of of or, an of, of  and [ and and and and, and and, an,,,,,,,- an  in (- ( c [. or and and- an an- and and- and, [., and and ( (,-and and, an or-cl or, ( or or c ( or an- or or or,  (- (- or ( and in c ( (,- and- and an an ( and and in or and of of an- with, and ad and- and- - and- and-cl- and-:-:  ( - - and: - ( in: (- and- and- and or- and in or and.-  of-0 or or- ( c.- and- and or, or. or or,, and of ( of or of and and- of or- B,- ( and and in  and in, and- and and, in, and of of of of and of a of an and and and- and and ( and B- and  B and  and,,- and. and,, and  and and or- and and- ( and, - - and,- and and-- of- - B and of of and  in-,-  ( and., and. and or, and of and of and an-. and and and in (- or and,- or- a B B B- B-  ( or, or an a (, (, or-  ( and  and B and and and,, an,, a,  and- or (-, and  and- or, and,- and- and and,, and, and B   B and B. and  and.,  B B- B and, and, ( B and B. -  [ and-  (,, and and in, [,,,,- for,, and  of a., ( A- C [- B and and,- and and,, and-,, and A- of and,,, and (,,, and (, and (- in,- C- [, C- and (-  c c- N- and and B and- B- and - B-  and  and A- [ and ( and ( (. C- and B- and and or- A ( [, or ( C and [ and [,- A- and- [ and- and and B B A [ and and B- w and and, and [,, and,, ( and (- and- and- to,, B and B- and- - and of and and and of- of,- ( and- and ( and and- and or- and A- and and and,- and, c- C, A and- and, C and and- and and and in and, and- A L- and A (, and or- [  C C and- P,, and, c- and and- and of and, of,,,

@@ -1,0 +1,829 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2065-06-20
+
+Prents for followup of medical problems:
+
+
+
+Coronary artery disease :  stable disease, medical management. Deneis chest pain. Walking at least 3 miles a day without difficulty.
+
+
+
+Hyperlipidemia : on lipitor and working on wt loss/diet/exercise to bring down TGs.
+
+
+
+Borderline diabetes mellitus :  last Hba1c HbA1c 6.4.  No hypoglycemic episdoes
+
+
+
+Impotence :  Viagra prn asking for sample pack today
+
+
+
+Claudication : symptoms of le pain on ambulation, minimally symptomatic. Tells me today that sxs resolved
+
+
+
+Pancreatitis :  + FH pancreatic ca. chronic, noted on CT abd for eval of kidney stones - no stones noted. Presented with R flank pain - sxs resolved with toradol, inc fluids. Amylase 117/lipase 4.7. Since our last visit, he saw GI - going for scope to eval pancreas and do biopsies?
+
+
+
+NO other complaints. Thinks he mgiht have passed a small kidney stone a few weeks ago. Now no urinary sxs.  NO fevers.
+
+ROS o/w negaitve.
+
+
+
+Medications
+
+Metoprolol TARTRATE 50MG TABLET take 1 Tablet(s) PO BID , ?dose 37.5?
+
+Asa (ACETYLSALICYLIC ACID) 325MG TABLET take 1 Tablet(s) PO QD , Take as directed 
+
+Folic ACID 1MG TABLET take 1 Tablet(s) PO QD 
+
+Viagra (SILDENAFIL) 100MG TABLET take 1 Tablet(s) PO x1 PRN prn , do not combine with nitroglycerin
+
+Protonix (PANTOPRAZOLE) 40MG TABLET EC take 1 Tablet(s) PO QD 
+
+Lipitor (ATORVASTATIN) 20MG TABLET take 1 Tablet(s) PO QD , Take as directed 
+
+Toradol (KETOROLAC TROMETHAMINE) 10MG TABLET take 1 Tablet(s) PO Q8H PRN prn pain , TAke with food
+
+Lopid (GEMFIBROZIL) 600MG TABLET take 1 Tablet(s) PO BID 
+
+
+
+Allergies
+
+Penicillins - Angiodema, Hives, 
+
+Erythromycins - Hives, 
+
+Iv Contrast - convulsions, Hypotension 
+
+
+
+Vital signs
+
+BP 132/70, Wt 179 lb 
+
+
+
+Gen NAD. A&Ox4
+
+Affect nl
+
+NEck supple
+
+Lungs CTAb
+
+Cardiac RRR.
+
+Abd soft, nt, nd, nl bs. No hsm noted
+
+Ext no edema
+
+
+
+A/P:
+
+
+
+Coronary artery disease : stable, asympt, no changes
+
+
+
+Hyperlipidemia : controleld on lipitor, cont efforts with diet/exercise
+
+
+
+Borderline diabetes mellitus : controlled with diet/exercise - continue
+
+
+
+Impotence :Viagra prn -  gave sample pack and directions today
+
+
+
+Pancreatitis : plan for scope to eval pancreas with GI noted
+
+
+
+? Kidney stone : counseled inc po fluids to dec risk of recurrent stones.
+
+
+
+f/u 3 mos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+\
+
+
+
+
+
+
+
+
+
+
+\begin{tabular}{| p{2.4in} | p{6in}|}
+\hline
+\textbf{Record date: \ 2060/03/21} & 
+\textbf{Medical history:}
+\\ \hline
+
+\end{tabular}
+
+\begin{tabulary}{1\textwidth}{
+
+\begin{tabular}{| p{2.4in}|p{6in}|}
+& 
+\textbf{History of present illness :}  \\ \hline
+\end{tabular}
+
+\begin{tabulary}{1\textwidth}{
+
+\begin{tabular}{| p{2.4in}|}
+\textbf{Medications :}  \\ \hline
+\end{tabular}
+
+\begin{tabular}{|}
+\begin{tabular}{|}
+\begin{tabular}{| p{2in}|}
+\textbf{Vitamins and supplements : \ \ } \\ \hline
+\textbf{Vitamin D, 1000 IU }  \\ \hline
+
+\textbf{Iron, 325 mg} \\ \hline
+
+\textbf{Vitamin C, 1000 mg }  \\ \hline
+
+\textbf{Calcium, 1000 mg }  \\ \hline
+
+\textbf{EFA, 800 mg\ }  \\ \hline
+
+\textbf{B12, 500 mcg }  \\ \hline
+
+\textbf{Zinc, 50 mg }  \\ \hline
+
+\textbf{Vitamin B6, 200 mg} \\ \hline
+
+\textbf{PABA, 2.5 mg} \\ \hline
+
+\textbf{Vitamin E, 1000 mg }  \\ \hline
+
+\textbf{Copper, 50 mg }  \\ \hline
+
+\textbf{Selenium, 200 mcg }  \\ \hline
+
+\textbf{Vitamin K2, 500 mcg }  \\ \hline
+
+\textbf{Niagen, 500 mcg }  \\ \hline
+
+\textbf{Iron, 1000 mg } 
+
+\textbf{Vitamins. 100 mcg 
+
+\textbf{000 mcg or 0.
+
+\textbf{000 mg. 000
+
+\ 00mg 0000 0m 0m 00m 00m 0m 0m. 
+m 000m0m 00m. 0m 00m
+0m. 000m 0m or 0m
+0m 0m00m 00m 0m. 0m 0m 0m
+
+0m or 
+0m.
+0m 000m. 00000m 0m 0 m00m
+
+0m0m m,m. 0m 0m names.
+1m and 0m.
+m.0 m. 0m 0 m 0m 
+
+m...
+10m...
+1.m.
+
+m. 3-m names orm names.
+
+
+m.
+The m.
+1.
+m.
+would be the patient.
+(m. and date, m
+(
+
+
+
+(m... (or name, 4 or, the date (m, or and/1.
+
+and and or the patient. 11...
+(or..., but a few of are (or 20 or 1 or, 1,12-patients 10s the following patient names (20, [the names. and the name of the:
+1: you names and...
+
+le ([110 or... 
+
+1... (are, 10 (are the patient and: 1: 1: (
+by: … are and the are the:... the, the... and remove and,... ((and the and, and and, 1 (2 [
+
+(andized and the: and the (make the (1: 1: and, and the (and...
+1 are the... are [... and…, and... (1, (  and, and, or, (..., and... and, and... and, and or, and, or (1 and, the..., and,,
+the, and,
+, an, (and (are and, 1, or - and and, are, a, and include, and and, are, (and or, 1-1 (make,  and the and [and,...: 5, the:... (and with the::... 1...1.…...1 and the [3 are the and are-1...  are... and, 3 or, or "1-1 ( and, 0, 0, and and, a, (1, 1. or of the (, and,, and are a,  a,, anine in a or, are, 1 (2, 0 or, (2, an,  and, an (cine and a ( 0 and of  and,...  and 1, a, an, an, a, an an  or 4 or an,, 1 and, and and, An,, (and, an ( and, ( an and, (and, an. an and, and ( an (c an 5,,, " and:, an or ( an of'(1, and 1. An for a a: and [: ( an and:: 2: An a:: a: ( an (  an (:  -:: (: an a or an ( an an ( and ( an: an:  a and an an or an ( are " and " ( " and are, an,, an and- or of the an an or and of the, or, or an (, and and [,,, [ an and and, or and ( and a and, and (, ( an, an or an, (, or, - an- and ( an are or " An, an an or or and  - an an or, - are of ( " ( of  of - an of ( of  and or an,, or, or or,, and,, (,,, an of ( an and, of, of a or, an an, (,, an in an-  are of, or or or,,  or  " 1 and, a an, an,,- or ( of  of - of the of ( of the  and an,, an or and [ an [, an  ( ( or and, and or, or a - and and  or or an ( and ( (- ( an, ( or  an and,,, ( of, - a [, an and (, ( - an (,, or, or, an or, or ( or of or 0 or, of, and or,0 a a and for 0 an a and are,  are,  of, ( of and of of, of, of and., an an, a [and, and,, and  or or a or and 1 a or a, ( an a, an, or and and, an and (  an and a and or an, an m and a in a - 1 or, an and [1,, a,  or 0, an or and or or a an ( and for and  and and in c,, ( or and for 1 an of an ( a and c a  c a c c: c and: a  c ( C and [ of c and a c a m and C C C a and and a-C ( C or ( c in  and ( a  C of a a a " and and ( and and and C  or a  or or  or of  or of, and and an, and of, a  and or C,,  C in or, or an, and of C and C of C of C of  of 1, C, or  an a c and an, C a a,, or C C a, a ( a, ( a, ( a and C ( C, a, C as c and or C a  of C of C C C C C C and C  and and c a C a ( and a a and  a a a of an ( an and C ( and C an and  a or and  or  as, or and and,, and of (,  and and or  and c t and [ a, and and and and, and, a and a and and t (, and ( a ( and  or and  and (, and in and ( t and a, and, and and ( and as,,,, and ( and or [,, and, c or, c.,,,, as,,, (,, and,, and,,, (, and ( a a or and a a  of  a or, and m  n m a, ( a n b (  a, n a [ (, ( and ( m, (  and, and  c and, and c m, as ( and,  or ( as ( a or and, ( m  c/ c ( as [ m c b t ( t n a ( ( of a and C t a and c,, ( [ and  or, and, and,, a [, or, a, ( a, ( and  t,, C ( and,,,, A, C,, C,, m ( and,,,,, (,,, and, a, ( A C a (, and, C C and C As, m as, as a  t and m (, c C,, A A m t a C C C ( and and c,,,, and,, ( ( and,,, as, C and as and, As, As, and m m m, ( c (, ( As, C As As, As M and as,, ( C,, a,,, m (

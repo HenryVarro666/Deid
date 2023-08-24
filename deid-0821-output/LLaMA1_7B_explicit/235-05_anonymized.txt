@@ -1,0 +1,85 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2089-04-05
+
+
+	CARDIOLOGY
+	
+
+	SAINT VINCENT HOSPITAL
+	
+
+
+	Interval History:
+   Ursula is seen in the Cardiology office for a followup visit.  Since last seen, she notes a number of somewhat concerning symptoms.  First of all, she is noting some mid sternal chest discomfort with exertion.  She associates this with back pain related to a remote back injury, but nonetheless with exertions she develops some degree of mid sternal chest discomfort, non radiating, associated may be with some shortness of breath.  She has not used any nitroglycerin for it.  It gets better when she rests.  She denies palpitations, PND, or orthopnea.  Her sugars are out of control.  Her weight is down, nonetheless.
+
+Physical examination:
+	
+-Pulse:   80
+-BP: 130/85  
+-weight:   206 lbs.
+-General:   Overweight.  Well appearing.
+-Skin:   No rashes.  Anicteric.
+-Heent:   Unremarkable.
+-Neck:   JVP less than 5, possible venous hums bilaterally.  Carotids without bruits.
+-Chest:   Clear to auscultation and percussion.
+-Cardiac:   Apical impulse nondisplaced and discrete.  Regular rate and rhythm.  Normal S1 and split S2.  Soft S4 gallop.
+-Abdomen:   Obese, soft, nontender, and nondistended without hepatosplenomegaly, bruits, dilated aorta.
+-Extremities:   No clubbing, cyanosis, or edema.
+
+Procedures:
+	
+Electrocardiogram  normal sinus rhythm IVCD, old IMI.  In addition, she has nonspecific ST and T-wave changes.  Compared there is no important change.
+
+
+	Impression:
+   1.  Coronary artery disease status post multiple PCIs.  Ursula has the return of chest symptoms which are suggestive for angina.  I will refer her for an exercise tolerance test to better evaluate this.  I will continue on the current medication program.
+2.  Hypertension.  Her blood pressure is a bit elevated.  Given her diabetes, I think it is prudent to add an ACE inhibitor.  Accordingly, lisinopril 2.5 mg QD was added to her program.
+3.  Lipids will be checked.  I strongly suspect that her LDL is not well suppressed.  Our goal LDL in this case is less than 70 mg/dL.
+
+	
+Umberto Uzzell, MD
+
+	
+Signed electronically by  Umberto Uzzell, MD
+Document Status: Final
+
+
+
+"""
+
+from. import config, util
+
+config.add_default_config()
+
+def test_config_file_from_dict():
+	with open(util.config_test_path, 'w', encoding='utf-8') as f:
+		config_from_dict = config.ConfigFromDict.from_dict(
+			{
+				'config': [
+					{
+						'section':'section1',
+						'option': 'option1'
+					},
+					{
+						'section':'section2',
+						'option': 'option2'
+					},
+					{
+						'section':'section3',
+						'option': 'option3'
+					}
+				],
+			})
+		assert config_from_dict.section1 is not False
+		assert config_from_dict.section2 is not False
+
+
+def test_config_file_from_text():
+	with open(util.config_test_path, 'w', encoding='utf-8') as f:
+		with codecs.open(util.config_test_path, mode='w', encoding='utf-8') as f:
+			config_from_dict = config.ConfigFromDict.from_text(f.read())
+		assert config_from_dict.section1 is not False
+		assert config_from_dict.section2 is not False

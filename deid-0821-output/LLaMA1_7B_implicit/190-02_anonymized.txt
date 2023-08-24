@@ -1,0 +1,189 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2086-12-30
+
+ORLANDO REGIONAL                                NICHOLAS-XAVIER, FRED 
+                                              65856594
+                                              1-3-87
+ 
+ 
+ 
+Mr. Xavier is a 73 year old diabetic who was followed this evening by a 
+telephone conversation.  
+ 
+ALLERGIES: Patient has no known drug allergies. 
+ 
+CURRENT MEDICATIONS: insulin 15 units q.a.m.  
+ 
+Patient is being followed at home and also in the Surgical Clinic here.  
+ 
+HPI: Was seen in walk-in clinic on 12-27-86 with a chief complaint of a sore 
+left fourth toe.  Blood sugar at that time was noted to be 348 and he 
+denied being on any medication for some time.  Patient was referred to 
+Surgical Clinic and is being followed there.  Patient was also placed on 
+insulin 15mg q.a.m. and diabetic teaching was begun on Thursday, December 
+30th.  I am calling the patient this evening.  His granddaughter stated that 
+his blood sugars had been running in the a.m. between 107 to as high as 
+216.  At noon time they have been running in the 322 to 384 range and in 
+the evening from the 141 to 250 range.  At this time tonight it was 
+decided to change his insulin to Humulin 70/30, 20 units SC q.a.m.  
+Instructions were given to his granddaughter and patient will be followed 
+via telephone on Thursday evening of this week.  Patient will also attend 
+the diabetic support group to be held on Thursday, January 6th.  His 
+granddaughter was instructed that if there were any problems she was to 
+call the emergency number or the Clinic at once.  
+ 
+ 
+ 
+________________________________
+Ximena Utter, R.N.C.                                                  
+ 
+JB:PH:2186                                                              
+DD:1-3-87                                                               
+DT:1-05-87                                                              
+DV:1-3-87                                                               
+
+
+
+
+*/
+
+func (p *pager) call(args string, c chan<- string) {
+	msg, err := p.parse(args)
+	if err!= nil {
+		c <- err.Error()
+		return
+	}
+	if msg.text!= "" {
+		c <- msg.text
+	}
+}
+
+func (p *pager) parse(text string) (*Message, error) {
+	var args []string
+	var msg *Message
+	for {
+		var next string
+		var err error
+		if!strings.HasPrefix(text, "> ") {
+			next, err = p.parseText(text)
+		} else {
+			next, err = p.parseComment(text)
+			if err == nil {
+				continue
+			}
+		}
+		if err!= nil {
+			return nil, err
+		}
+		var line string
+		var err error
+		for next!= "" && strings.HasPrefix(next, ";") {
+			line, next, err = p.parseLine(next)
+			if err!= nil {
+				return nil, err
+			}
+			line = strings.TrimSuffix(line, ";")
+			args = append(args, line)
+		}
+		line == "" && (next, err) = p.parseComment(next)
+		if err!= nil {
+			return nil, err
+		}
+		msg = &Message{text: next}
+		if strings.Contains(next, ">") {
+			msg.text = next
+		}
+		if strings.HasPrefix(next, ":") {
+			var err error
+			next, err = p.parseLine(next[1:])
+			if err!= nil {
+				return nil, err
+			}
+			msg.line = next
+		}
+		if err!= nil || strings.HasPrefix(next, " ") || strings.HasPrefix(next, "?") {
+			return nil, err
+		}
+	}
+	return msg, nil
+}
+
+func (p *pager) parseLine(text string) (line string, next string, err error) {
+	var c chan<- string
+	if i := strings.Index(text, " "); i == -1 {
+		c = p.ch
+	} else {
+		next = text[i:]
+	}
+	return text[:i], next, nil
+}
+
+func (p *pager) parseText(text string) (next string, err error) {
+	var c chan<- string
+	if len(text) > 0 && text[0] == '>' {
+		next, err = p.parseLine(text[1:])
+	} else {
+		c = p.ch
+	}
+	return text, err
+}
+
+func (p *pager) parseComment(line string) (next string, err error) {
+	var c chan<- string
+	if strings.HasPrefix(line, ";") {
+		if i := strings.Index(line, ">"); i > 0 {
+			var next string
+			next, line = line[i:], line[:i]
+			next = strings.TrimSuffix(next, ";")
+			next, err = p.parseComment(next)
+			return next, err
+		} else {
+			// no ">" means that it's the last line
+			c = p.ch[:0]
+			p.ch = c
+		}
+	} else if strings.HasPrefix(line, ":") {
+		if len(line) > 1 && len(line[1]) == 0 {
+			var next string
+			next, line = line, ""
+			next, err = p.parseComment(next)
+			return next, err
+		} else {
+			if i := strings.Index(line, ">"); i > 0 {
+				var next string
+				next = line[i:]
+				next = strings.TrimSuffix(next, ";")
+				next, err = p.parseLine(next)
+				return next, err
+			} else {
+				c = p.ch[:0]
+				p.ch = c
+			}
+		}
+	}
+	return line, err
+}
+
+// Send the given text to the given channel
+func (p *pager) send(text string) {
+	select {
+	case p.c <- text:
+	default:
+	}
+}
+
+func (p *pager) sendText(text string, args []string) {
+	msg, _ := p.parse(text)
+	for i := 0; i < len(args); i++ {
+		p.send(msg, args[i])
+		if msg.error!= "" {
+			break
+		}
+	}
+	if msg.error!= "" {
+		p.send(msg.error)
+	}
+}

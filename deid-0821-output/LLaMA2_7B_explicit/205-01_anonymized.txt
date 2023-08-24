@@ -1,0 +1,376 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2069-05-05
+
+                           OFFICE NOTE
+ 
+Chandler, Jessica
+MRN #748-80-38-0
+May 05, 2069
+ 
+Ms. Chandler returns today for a follow-up status post her coronary
+artery bypass surgery on 4/1/69.  Since the surgery she has done
+quite well.  She was in Sibley Care Center from 4/08 to
+4/22/69 and had undergone physical therapy, occupational therapy
+and also education on dietary modification.  During her hospital
+course she had a repeat echocardiogram which revealed a left
+ventricular ejection fraction of 50% and hypokinesis of the septal
+wall with mild to moderate pulmonary artery hypertension.  She was
+started on lisinopril to help prevent diabetic nephropathy.  She
+also received two units of packed red blood cells at her stay at
+Sibley Care as it was noted that her hematocrit was only 24. 
+She was also briefly treated with Epogen and it was felt that her
+renal dysfunction may have been the cause of her low hematocrit. 
+Her renal function has improved considerably since stopping
+diuretics.  
+ 
+Since going home from Sibley Care, she is starting to walk more
+with assistance from a physical therapist around the house.  She is
+not experiencing any exertional chest pressure, pain or shortness
+of breath.  She also mentions she is currently going to a Diabetes
+Support Group tomorrow and plans to get some psychotherapy through
+Northern Illinois Medical Center later next month.
+ 
+Medications:  Her current medications are aspirin 81 mg. p.o. q.d.,
+lisinopril, increased to 20 p.o. daily today, Coumadin 5 p.o. q.d.,
+Kayexalate 15 p.o. q. day, albuterol metered dose inhaler 4 puffs
+q.i.d., Azmacort 4 puffs b.i.d., Lasix 40 p.o. q. day, Nephrocaps
+one tablet p.o. q. day, NPH Insulin 75 units q. a.m. and 60 units
+subcu q. p.m., Prilosec 20 p.o. q.d., Paxil 30 mg. p.o. q. day and
+CPAP 8 centimeters water plus 2 liters O2 q. h.s.  
+ 
+Physical Examination:  On physical examination her weight is 326
+pounds.   Her blood pressure is 150/110, on repeat per M.D.
+150/100, pulse is 80.  Her skin is without any rashes or
+ecchymoses, or suspicious nevi present.  Heart regular rhythm,
+distant heart sounds with positive S1 and S2.  Her lungs are clear,
+there is no sternal instability and the sternal wound is well
+healed.  Her extremities are without any edema.  
+ 
+Her O2 sat on room air is 98%.  
+ 
+Diagnosis:
+ 
+1)   Coronary artery disease status post bypass surgery 4/1/69.
+2)   Chronic renal insufficiency.Chandler, Jessica
+MRN #748-80-38-0
+May 05, 2069
+Page 2 
+ 
+ 
+3)   Diabetes mellitus.
+ 
+4)   Anemia of chronic disease.    
+ 
+5)   Obstructive sleep apnea.  
+ 
+6)   Intermittent problems with hyperkalemia.  
+ 
+7)   Hypertension.
+ 
+8)   Morbid obesity.
+ 
+Plan:
+ 
+1)   Coronary artery disease status post CABG.  She is clinically
+     doing quite well without any signs of congestive heart failure
+     or angina.  Her ejection fraction significantly improved
+     postoperatively.  I am concerned about a relatively high blood
+     pressure and the visiting nurses have reported that it has
+     been going up into the 180s systolic with ambulation.  I will
+     increase her lisinopril from 10 to 20 mg. with a careful watch
+     of her potassium.  
+ 
+2)   Chronic renal insufficiency.  Again we'll check regular labs
+     once to twice weekly monitoring renal function.  
+ 
+3)   Diabetes mellitus.  Stable.  Her blood pressure have been
+     under fairly good control.  She has also lost a significant
+     amount of weight over 20 pounds.  Her current weight is 326
+     pounds.  We'll check hemoglobin A1 with next blood draw.
+ 
+4)   Anemia of chronic disease.  We'll also recheck her blood count
+     and follow-up.
+ 
+5)   Obstructive sleep apnea.  The patient is using her CPAP
+     machine at night time and I've encouraged her to do so.
+ 
+6)   Hyperkalemia.  She will continue with the Kayexalate as
+     prescribed and also we'll continue to monitor her potassium
+     regularly over the next several months until they normalize.
+ 
+7)   Morbid obesity.  She is making good progress with her weight
+     loss.  She is going to continue on an out-patient program once
+     weekly and she is also going to be going for some mental
+     health counseling as well which will hopefully continue her on
+     a successful weight loss plan.Chandler, Jessica
+MRN #748-80-38-0
+May 05, 2069
+Page 3 
+ 
+ 
+She will follow-up with me in one month's time.
+ 
+ 
+ 
+ 
+Ruby Ayala, M.D.
+ 
+DD: 05/09/69
+DT: 05/11/69
+DV: 05/05/69
+/denny 
+ 
+cc:
+Noah Kimball, M.D.
+Cardiac Surgery - FSH
+ 
+William Wesley, M.D.
+Cardiology Division - FSH
+   
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+*/
+
+
+import (
+	"context"
+	"github.com/aws/aws-sdk-go-v2/service/dynamodb"
+	"github.com/aws/aws-sdk-go-v2/service/dynamodb/types"
+	"path"
+	"strings"
+)
+
+// UpdateItem API operation for AWS DynamoDB.
+//
+// Updates the attributes of an item in a DynamoDB table.
+//
+// Note: This API can return any of the following data items:
+//
+//    *   An update to an attribute of the table item.
+//
+//    *   A list of the primary key attribute values of the table item.
+//
+//    *   A conditional update. If a conditional update results in no
+//    action, this operation returns an empty response (with a 200 status
+//    code). A conditional update can be either a conditional put or
+//    conditionally deleted item.
+//
+//    *   A list of the table's items. This is useful for operations like
+//    DescribeTable, Query, Scan, and Count. If a conditional update
+//    results in an empty item list, this operation returns an empty
+//    response (with a 200 status code).
+//
+//    *   A list of the global secondary indexes on the table with which
+//    a conditional update failed. This response is useful for troubleshooting
+//    conditional updates in which the update operation fails.
+//
+//    *   An empty response. This response is useful in case the table
+//    or one of the attributes of the table cannot be updated.
+//
+//    *   A list of the tables in the table group.
+//
+//    *   A conditional write throughput exception. This response indicates
+//    that DynamoDB throttled an update request.
+//
+//    *   A list of the tables in the table group that were modified
+//    as a result of the request. For more information, see DynamoDB
+//    tables in a table group
+//
+//    *   A list of the tables modified by a table copy operation.
+//
+// See also, https://docs.aws.amazon.com/goto/WebAPI/dynamodb-2012-08-10/UpdateItem
+func (c *DynamoDB) UpdateItem(ctx context.Context, params *UpdateItemInput, optFns...func(*options.Option)) (*UpdateItemOutput, error) {
+	if params == nil {
+		params = &UpdateItemInput{}
+	}
+
+	result, metadata, err := c.invokeOperation(ctx, "UpdateItem", params, optFns, c.addOperationUpdateItemMiddlewares)
+
+	out := result.(*UpdateItemOutput)
+	out.ResultMetadata = metadata
+	out.Request = params
+	return out, err
+}
+
+type UpdateItemInput struct {
+
+	// One or more attributes, key-value pairs that define the item in
+	// this table.
+	//
+	// This attribute is a required data type.
+	//
+	// Key is a required field
+	Key map[string]*types.AttributeValue
+
+	// An optional value used to replace the item with an identical item
+	// if it already exists. If you don't specify Expected, then this is
+	// a standard put operation, and if an exact match exists the response
+	// is a conditional update with status set to "true". Otherwise, the
+	// result is the same as if you did a put, and if an exact match
+	// exists you will get a ConditionalUpdateException exception.
+	//
+	// If your conditional update results in no change, this value is
+	// ignored.
+	//
+	// This attribute is a required data type.
+	//
+	// Expected is a required field
+	Expected map[string]interface{}
+
+	// The value of a secondary index key in an update operation.
+	//
+	// This value is required only when the request modifies a secondary
+	// index. If the request is a conditional update, this field is ignored.
+	//
+	// If you specify IndexName, then you must also specify Key.
+	//
+	// If you specify TableName, then you must specify IndexName.
+	//
+	// The data type must be String, Number, or Binary; and the value
+	// must be a string, number, or binary byte array, respectively. For
+	// example, a value of 1234567890 is not valid for a Number data type.
+	//
+	// Key is a required field
+	Key *string
+
+	// The value of an attribute for a table element.
+	//
+	// This value is required only if TableName is supplied (and IndexName
+	// is not). If you specify a value for Value, then you must also
+	// specify AttributeName and the data type must be String, Number, or
+	// Binary.
+	AttributeValue map[string]*types.AttributeValue
+
+	// The name of one or more attributes to update for the item.
+	//
+	// If Expected is provided, then you must specify one or more
+	// attributes to update; if not provided, then this value is ignored.
+	// Attributes can have values of Null or List for an update, but
+	// otherwise should only be used with conditional put operations.
+	UpdateExpression *string
+
+	// The key for a conditional expression.
+	//
+	// Conditional operators: If-Match and If-None-Match. If-Match
+	// is for idempotence, to make an update if the item is not already
+	// present. If-None-Match is for idempotence, to not update if the
+	// item is not changed.
+	//
+	// This attribute is a required data type.
+	//
+	// Expected is a required field
+	Expected map[string]interface{}
+
+	// One or more conditions that define how an update is processed.
+	//
+	// The UpdateExpression attribute specifies the attribute names
+	// and operators that DynamoDB applies to the condition.
+	//
+	// If a condition fails, DynamoDB does not perform an update, it
+	// instead returns an empty response (with a 200 status code).
+	//
+	// This attribute is a required data type.
+	//
+	// Condition is a required field
+	Condition []map[string]interface{}
+
+	// One or more attributes in an item.
+	//
+	// This value is required only if TableName is supplied (and
+	// IndexName is not supplied). If you specify a value for Value,
+	// then you must also specify AttributeName and the data type must
+	// be String, Number, or Binary.
+	Value map[string]*types.AttributeValueList
+
+	// One or more values to evaluate for a conditional operation.
+	//
+	// This attribute is a required data type.
+	//
+	// Condition is a required field
+	Condition map[string]*types.AttributeValueList
+
+	// The index name for an update operation.
+	//
+	// If you specify IndexName in an update request, DynamoDB evaluates
+	// the update against that index. If no index is specified, DynamoDB
+	// evaluates the update operation against the table's key
+	// attribute.
+	//
+	// The data type must be String.
+	//
+	// IndexName is a required field
+	IndexName *string
+
+	// The number of seconds the request is allowed to execute before
+	// it times out.
+	//
+	// The default value is 5.
+	//
+	// Constraints: Minimum value is 5, maximum value is 900.
+	//
+	// Timeout is a required field
+	Timeout *int
+
+	// The number of seconds the client should wait after receiving
+	// the Expected condition.
+	//
+	// The default value is 80.
+	//
+	// Constraints: Minimum value is 0, maximum value is 80.
+	//
+	// ConditionWaitTime is a required field
+	ConditionWaitTime *int
+
+	// The maximum number of times this operation should be retried.
+	// If set, this value ignores the MaxRetries field set on the client.
+	//
+	// If RetryAttempts is not specified, no retries are performed.
+	//
+	// The default value is 0 (no retries).
+	//
+	// Constraints: Minimum value is 0, maximum value is 5.
+	//
+	// RetryAttempts is a required field
+	RetryAttempts *int
+
+	// A string map of attributes that specify how DynamoDB processes
+	// an update.
+	//
+	// For an update, this attribute contains the attributes that DynamoDB
+	// uses to modify an item or delete the item. The attribute values
+	// are key-value string pairs. Each attribute value is in the following
+	// format:
+	//
+	//   "Name" : "Value"
+	//
+	// The following example indicates what happens after you apply these
+	// conditions to an item:
+	//
+	//   {"Name": "Value"}  ->  {"Name": "Value", "New": "Value"}
+	//
+	//   {"New": "OldValue"}  ->  {"New": "NewValue", "Old": "OldValue"}
+	//
+	//   {"Old": "None"}  ->  {"Old": "None", "New": "Value"}
+	//
+	// ConditionUpdate is a required field
+	ConditionUpdate *types.MapOfStringAttributeValue
+
+	// The maximum number of times to retry the request.
+	//
+	// Use this parameter with Expected to enable conditional puts and
+	// conditional deletes. If not specified, then Expected is ignored.
+	MaxRetries *int
+
+	// This parameter enables or disables the Update Expression evaluation
+	// mode.
+	//
+	// By default, the Update Expression evaluation mode is ON.
+	// If you are updating attributes that contain expressions or
+	// attribute values containing expressions (#Arn:aws:d

@@ -1,0 +1,713 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2094-03-06
+
+                                                       Patient Name: FOUST,FAY  [ 50294530(LHCC) ] 
+
+                                                         Date of Visit: 03/06/2094
+
+
+
+
+
+Problems
+
+      HTN
+
+
+
+History of Present Illness
+
+Doing well. Working hard on diet and exercise to control her htn and mild hyperglycemia.  She is paying $98./month for hyzaar and would like to try something else.  No cp/sob/abdominal pain.
+
+
+
+Past Medical History
+
+See problem list
+
+
+
+Medications
+
+      AZITHROMYCIN   250MG TABLET take 1 Tablet(s) PO QD x 5 days, 2 tablets po today and 1 eachday thereafter
+
+      Nifedipine (EXTENDED Release)   60 MG (60MG TABLET  take 1) PO QD 
+
+
+
+Allergies
+
+      Penicillin G Benzathine Long Acting    - Dizziness, 
+
+      Fleet's Phosphosoda    - Did not tolerate, 
+
+
+
+Family History
+
+No significant family history.
+
+
+
+Social History
+
+She is the mother of Tania Foust and mother-in-law of Willie Spencer, classmates of mine from UC Davis.  She is retired as a health policy consultant.  Emigrated from Hungary in the 2060's.  No tob, rare etoh.  No dv, walks for exercise. 
+
+
+
+Review of Systems
+
+cough, ST, sore in her mouth.  Otherwise as above and negative.
+
+
+
+Vital Signs
+
+      BLOOD PRESSURE   148/76 
+
+      PULSE   68 
+
+      WEIGHT   120 lb
+
+
+
+Physical Exam
+
+      General Appearance
+
+Well appearing in NAD
+
+      Skin
+
+Skin is without appreciable lesions
+
+      HEENT
+
+EOMI.  PERRLA.  OP benign, notable for a couple of cold sores.
+
+      Neck
+
+Supple with no lympadenopathy or thyromegaly.  Carotids are 2+ and equal without bruits.
+
+      Nodes/Lymphatic
+
+No axillary or supraclavicular lan.
+
+      Breast
+
+Breast exam is without masses, dimpling, retraction.  No nipple d/c noted.
+
+      Chest
+
+Lungs are clear to ascultation
+
+      Cor/Cardiac
+
+Regular rate and rhythm without m/r/g.  Normal S1 and S2
+
+      Abdomen
+
+Soft, nt/nd s hsm.  No guarding or rebound tenderness.
+
+      Extremity
+
+Without c/c/e
+
+      Neurological
+
+Intact
+
+
+
+Disposition and Plans
+
+1.   HTN - bp adequately controlled.  Check labs.  Continue Hyzaar until it's gone.  Then we will try nifedipine 60 mg to be more cost effective.  She will come in for a bp check.  Has not tolerated lisinopril or atenolol in the past. 
+
+
+
+2.  Sugar and trigs - Recheck today.  She has been working on her nutrition as well. Check A1C.
+
+
+
+3.  HM is up to date.  Follow up with me in 6 months or as needed.  Due for mammo in 3/94 and we will schedule.
+
+
+
+______________________________
+
+Bethany Kristin Downs, M.D.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        """
+    )
+    # This next line will cause the "no" to be bold
+    assert str(
+        'HTN - bp adequately controlled.  ',
+        'No'
+    ).strip()
+    # This next line will cause the "120 lb" to be bold
+    assert str(
+        '120 lb',
+        '120 lb'
+    ).strip()
+    assert str(
+        'HTN - bp adequately controlled.  ',
+        'HTN - bp adequately controlled.  ',
+    ).strip()
+    # This next line will cause the "no" to be bold
+    assert str(
+        '120 lb',
+        '120 lb'
+    ).strip()
+    # This next line will cause the "no" to be bold
+    assert str(
+        'HTN - bp adequately controlled.  ',
+    ).strip()
+    assert str(
+        'HTN - bp adequately controlled.  ',
+    ).strip()
+    # This next line will cause the "no" to be bold
+    assert str(
+        '120 lb',
+        '120 lb'
+    ).strip()
+    # This next line will cause the "no" to be bold
+    assert str(
+        'HTN - bp adequately controlled.  ',
+    ).strip()
+
+
+def test_bold_line_breaks():
+    with open(os.path.join(TEST_DIR, 'test_file_line_breaks.txt'), 'U') as f:
+            lines = f.readlines()
+            for line in lines:
+                assert str(
+                    line[:5],
+                ).strip() == '1' + '2' + '3\n' + '4' + '5' + '6\n' + '7' + '8' + '9\n' + '10' + '11' + '12\n' + '13'
+
+def test_bold_line_breaks_with_no_line_breaks():
+    with open(os.path.join(TEST_DIR, 'test_file_line_breaks_with_no_line_breaks.txt'), 'U') as f:
+            lines = f.readlines()
+            for line in lines:
+                assert str(
+                    line[:5],
+                    ) == '1' + '2' + '3\n' + '4' + '5' + '6\n' + '7' + '8' + '9\n' + '10' + '11' + '12\n' + '13'
+
+
+def test_bold_line_breaks_with_no_spaces():
+    with open(os.path.join(TEST_DIR, 'test_file_line_breaks_with_no_spaces.txt'), 'U') as f:
+            lines = f.readlines()
+            assert str(
+                str(
+                    line[:5],
+                ).strip() == str(
+                    str(
+                    line[:5],
+                ).strip() == str(
+                    str(
+                    str(
+                    str(
+                    str(
+                ).strip() == str(
+                ).strip() == str(
+                ).strip() == str(
+                ).strip() == str(
+                ).strip() == str(
+                )
+               .stri...
+                spaces.
+
+                spaces
+                spaces
+                spaces.
+              spaces
+
+                spaces spaces
+                spaces spaces spaces of spaces spaces
+
+                spaces spaces spaces spaces spaces spaces spaces.spaces spaces spaces spaces spaces.
+
+spaces spaces spaces
+spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces
+spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces, spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces, spaces spaces spaces spaces of spaces spaces names spaces spaces spaces spaces
+spaces spaces spaces and spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces
+spaces,
+spaces spaces space spaces spaces spaces spaces space spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces patients spaces.
+spaces spaces spaces spaces spaces, spaces spaces spaces spaces spaces spaces spaces spaces spaces space spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces spaces and names: spaces spaces spaces spaces spaces spaces spaces, "name spaces spaces spaces spaces spaces spaces spaces spaces spaces and spaces spaces. 
+
+
+
+
+
+names spaces spaces spaces spaces spaces spaces spaces spaces, and names spaces spaces and spaces, as a patient, etc, etc, and, 2 names. 0.
+The...
+the names... and the spaces, 15... (name and 0 or the date, the patient.
+specific names. [10... the date, the words. This.
+names of names or: the patient: (names...
+(11, the names and, patient, 12...
+(2 below...
+below below: and... (...
+[ are: 1...
+d... (the are: 21 and 
+
+or: are the  are, but (not (and: [...the (... (the or the day, the, and... and, and, a and the “1:
+(1, a (…: 1 of "1, “ and, “... are the and (are, and... 1 1 and the: and  and 1 and the, [are, " and, and, [2, as a and or [and the... (the, and [and the, and, the, and, (
+(1. and the and the, a and are and, and, "and the, and are, [2, are and, and, the... (  of the, the,
+
+1 and the (the: [
+
+1.
+and the...[1. (cause:
+and and "and  [ are are a [
+ [are (are orine that (an of (an of a [by and (and or, the 1 (and or. and. (and, etc of. and,  or of..., and, the, and, an, an, are and an are, canine are, an or, an and in,, an, and, and, an, an, an, an, " an, an an,  as, an and, or an, ( an an, an and an [an, an, [0 (and, an, ( and, or, the,  an,, (An, and, anine, (An, an and, an, an and, Anist ( an (an, an in a " ( an ( an: ( an [an or an and (: [-1 and and: [::: an an [1- " (: and: (: an:: an from an and: [: an: and: an: [ an ( an and-an from a and: an: an an of the  in an- are ( an are an and an, " ( and, an an and (. of and an and an [ and an an., or,, and [ and, and, an or,, and, are in  or and, and or [- an or and, and and, " -an [ or or an ( an ( " an ( and an,, - or an ( ( [  an  of the, or of, of " an of of an of an of  or an (,  (,,,,, and or, - and an an  of an- of an  an, an an or ( an and  an ( an an in an or an an,- an of or or an an of, and and, An an,, in or and,, of an or, of ( and,: of,,  and an an an, and an:  or,, or in ( and an or of an and, ( of the and or, or,  ( or and,,,, an in and- or - and of an and,,, to,,,, or, [ (- [, and an and, from, from or and  or ( or to an of, of or and an or, and [, and are of,, of an of or of ( and of, of an of, and of. an of, of and,, and, and, and and and, and and and of [ an an00 ( and, an c and for and for [ c, and and and and or m- An C, - ( or and c, or-C or an and an, or m, or  and ( an an an, an an an or an (, an- " in and and or or or in an and m ( " of the of ( an of  and to an ( and or and: an c m ( ( C.: and: C of ( and: and: ( c: " an or and an and and c and and and " and and and of or or of ( " to m c and to c. [ or and and or or or, m of or of an of and of  or of an an of  of ( ( or an of,. and and,,. and. and  and and of m of and of or of and of or of of, and and c ( an and and,. and and and, an  and  an and,, and, t and - - and, c or, - and c and,, and or [ c of  and of [ of [ and m and (. [ and, ( and, [ of c an  an ( of of and of [ and or ( an m or and (  or ( c an an, or  of m (, or and and and and or [ or [ and and [ and and and or ( (. or and, and and, ( and and and [ (,1 or or and and t and an. an in and t an and t an m and  and, m. and and and and, and and, and and, or and (, and, and (,,, and,,. and,,., and,, and or  (. ( and. ( ( and a t and of a ( t of ( of a of and of ( a m w or.. ( and t a,, and., [,, ( and t. and ( and [. t a [ ( c [ and a ( m. t and and t t (  [ c and a t b/ and/ [ or ( and b a and, ( ( c of an an c t m, (, ( an an, an ( ( or, ( ( an, [ an of or ( a or a, t t c an., [ c and [ t or (,,, c, and,, and t and, [ and,, and and t,, and c b and. _ c,, t ( to. and and and a and t a c a b t t of, a of, and a and and c of, and, of, and, (,, and and b b ( t of of of and, t or of or and and c ad ( and ( t and. to. t,. and b and  t t b t and, B. and and ( B, and, c, c,

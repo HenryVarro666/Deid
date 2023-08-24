@@ -1,0 +1,973 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2089-05-11
+
+                                                       Patient Name: JARVIS,AMADOR [ MRN: 0907307PCC ]
+
+                                                         Date of Visit: 05/11/2089
+
+
+
+
+
+REASON FOR VISIT:  Mr. Jarvis comes for a regular 6-month followup 
+visit.
+
+HISTORY OF PRESENT ILLNESS:  He has been feeling extremely well without 
+any illness or any unpleasant symptoms.  He is working hard as a production manager, and he will have some time off this spring.  He and his wife are 
+planning a trip to Italy and Greece, and following this, they will spend mostly 
+long weekends in New Mexico.
+
+He has not had shortness of breath, orthopnea, or edema.  The pains in his hips 
+and legs have not been bothering him.  When he tests his blood glucose level, he 
+gets results that range between 170 and 120.  He has not been specifically 
+exercising, but does try to park his car at some distance from shops and stores 
+and walk the intervening distance.  He continues on 1/2 tablet of atenolol 50 mg 
+per day along with 1 Hyzaar tablet per day.  Otherwise, the review of systems is 
+unremarkable.
+
+PHYSICAL EXAMINATION:  He looks cheerful and fit.  Blood pressure in the 
+right arm, sitting 140/86 with regular pulse 64.  Chest is clear to P&A.  Heart 
+sounds are very faint, but appear normal with normal rate and rhythm.  Neck 
+veins are not distended.  Abdomen is nontender.  Extremities have good dorsalis 
+pedis pulses.  Sensation in feet is intact to light touch and vibration.
+
+IMPRESSION:  Very stable with regards to hypertension.  He remains 
+moderately hyperglycemic.  He has an appointment to be followed by the 
+urologist, Dr. Jose Quirk, in the next month for his elevated prostatic-
+specific antigen (the prostate biopsy showed intraepithelial neoplasia   
+considered only a risk factor).
+
+PLAN:  We will check the usual laboratory work, and we will let him know when 
+the results are available.  He should return in 6 months.
+
+
+
+
+Orvell Oliver, M.D.
+
+
+Test Description        Result    Abnormal Flag  Ref. Range     Ref. Units
+
+
+
+Plasma Sodium           140                      135-145        mmol/L
+
+Plasma Potassium        4.7                      3.4-4.8        mmol/L
+
+Plasma Chloride         103                      100-108        mmol/L
+
+Plasma Carbon Dioxide   25.0                     24.0-30.0      mmol/L
+
+Calcium                 9.0                      8.5-10.5       mg/dl
+
+Plasma Urea Nitrogen    39        H              8-25           mg/dl
+
+Plasma Creatinine       2.4       H              0.6-1.5        mg/dl
+
+Plasma Glucose          244       H              70-110         mg/dl
+
+Cholesterol             245                                     mg/dl
+
+
+
+Test Description        Result    Abnormal Flag  Ref. Range     Ref. Units
+
+
+
+Hemoglobin A1C          7.70      H              3.80-6.40      %
+
+Calc Mean Bld Glucose   171                                     mg%
+
+
+
+Mr Jarvis: The glucose when you were here was 244 and the average calclated from the HbA1c is 171; despite your efforts and exercise and diet.  I think it would be wise to start on a low dose of a glucose-lowering medicine, glipizide (Glucotrol).  I would start on 1/2 of a 5 mg pill twice a day and continue checking your blood sugar levels from time to time.  If they stay a bit up, then increase to one whole pill (5 mg) twice a day.  Then we will see how that effects the blood sugar.  I don't think this will interfere with your trip.  Call me in a week to tell me how it is going.
+
+
+
+Best wishes,
+
+O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    </body>
+</html>
+
+
+
+<html>
+    <body>
+
+    <h2>July 6, 2021</h2>
+    <p>
+        Mr. Jarvis comes for a regular 6-month followup visit.
+    </p>
+    <p>
+        He has been feeling extremely well without any illness or any unpleasant symptoms. He is working hard as a production manager, and he will have some time off this summer. He and his wife are planning a trip to Italy and Greece, and following this, they will spend mostly long weekends in New Mexico.
+    </p>
+    <p>
+        He has not had shortness of breath, orthpnea, or edema. The pains in his hips and legs have not been bothering him.  When he tests his blood glucose level, he gets results that range between 170 and 120. He has not been specifically exercising, but does try to park his car at some distance from shops and stores and walk the intervening distance. He continues on 1/2 tablet of atenolol 50 mg per day along with 1 Hyzaar tablet per day.  Otherwise, the review of systems is unremarkable.
+    </p>
+    <p>
+        Plasma Sodium = 140
+        Plasma Potassium = 4.7
+        Plasma Chloride = 103
+        Calcium = 9
+        Plasma Urea Nitrogen = 39
+        Plasma Creatinine = 245
+    </p>
+    <p>
+        Plasma Glucose = 244
+        Plasma A1C = 7.70
+        Calcular Mean Bld Glucose = 171
+    </p>
+    <p>
+        Hemoglobin A1c = 18.5
+        HbGlucose = 171
+        HbA1c
+        Cholesterol = 169
+    </p>
+        Mr Jarvis
+        Cholesterol
+
+
+        Mr. Jarvis
+        Cholesterol
+
+
+        Calendol
+
+        Cholesterol
+        HB. Cholerol
+       
+        Jarvis
+        Horm
+
+        Cholesterol
+        HB. Cholol
+
+
+        Mr.
+
+        Cholesterol, 
+        Jarvis
+        HOL
+
+        HOS
+
+Mr.
+        Chol
+       
+
+
+        Chol.
+        HOL
+Chol
+        Horm. Chol
+        Chol
+                
+       
+
+
+       
+        Mr.
+        HB. Chol
+        Chol
+        Chol.
+
+
+
+        Chol.
+        Chol.
+                  Chol
+        Chol
+            Chol.   
+
+        CH
+        A.
+Chol   
+
+
+
+
+M,  
+               . 
+Chol Chol
+            Ch and the
+        Chol
+19/20102. 
+            Ch
+[ 2
+for
+for
+
+for JAMA
+
+J
+       
+
+M
+
+
+J
+                    J
+
+The patient
+The 3
+
+
+
+A.
+April
+20
+  
+
+[1
+                 
+AN
+
+
+ 
+A
+AN
+DOR
+
+
+
+
+A
+[
+[
+A:
+  and a...
+
+
+It
+[
+Date:
+The date, as  and the following date and the date (the,  (A  A and 139. The day
+
+ 
+
+
+                 and an AURS.
+Mine
+The, the
+16889290, which date: 4. 0
+(
+                    (1915708999501
+(
+[A for: 220193120019
+
+A (1.1  [
+[2:                 ( [ 116
+ 998 An: 99
+A MIN A MO P10 An 0 Anistic Anition
+CURE: A
+99-69 and [...]
+...  80999 An An An19011020000 [260 [ 10 Anific and Anual An [10 and a and  and the1-and a and -1, the...2099990-11909-9 An An  An An,
+ and a but  An An C MA RE MO AN MA M CA MAN-110 (1 An An-1 Anive An Anual Anistic An An An An Anition An00 An2000-200-d, anist and An An An An An An An An An An. 0000 to the-10- 10 An An An An. An Ancial Aniz and An19111 An1  and-dition and a-1 and or 9 oristic. An An100010 and to  and to-  and  and  An 1  month -in for [ [  1 -1-to,  and-9 3 [8- [[,  [[0 and a00 1 of  of  of  of [ and  [ [ [. [ and [ [[ in [ to  [ - 0- - - : - [, an- 1-  [00-10100-  [: An0-0 [ [- : [[ [ and (  [[-                  [  - ,  and,  at the  and-  [ and- -  An [ [ An [ [ [ and, An An -  An to for a,  to the and to ( [ [  [ to the (-an-  - [- [- and [ for [-  - [-  An to  and [ and- [ An An-  [[-  [ to [- An for [[- and- [[ a- [- [[ -1-[- 2-    - an  w to the- [- [.- [.-  to [ Anistic- [ for and- [[- an- a- - and and- one- [[. wish 0.- 0 0, 0-00  in the- [ - [- or for a.,-  or,-	  or  to  and- to  to  at  and at the- [ it are ( to or to and to  and to to to  to to  to to and- and or and at the  [ to the to in to-  to in [ to to of a of the in- to-  and [[ to with to [[ and to  on to to of to to  to the [- and-   to and a- a. and or. or [ (.- ( or or, ( - and of [- ( and.   (. up. for the.  to or.  and or   to [[ and to  to - [[ wird in or [[ wend- (.  in 0-  to  -  of [[ of a for in to to for [ and ( and  to. for and for ( and- to  to  " and  or and  and and  (- ( and or/ and or or/ (./. of of of ( or  of  of  or. b m c c m (- [[- and of B and H   H "  b- and-  for  for  B and ( or  to  B with to and (  and  and - - b to- mine- H c or ( m b in: (- H- (  [ B or - B to for ( for ( [[ for [[ and and [./ . [  or [[ and and for for [ to for [ for [ and for  ( and- and or  to or  [[-[ and. [ and  [ or [ ( or- H. B to  or and [ or-. H  to  ( in-  to- and ( to (-
+.
+.- [ - H for [ and- up  and up  . - (. and and ( and-  and	- (.-.  ( or. [.  (  or and and [ and and-  and to  and- H and  or and.  (  or to  to B-/ and  and to to ( or and or. to-	 a to to,- to - and b of and of and and and of of and and of [. of or of. of ( of of a b of [[ of the [[ or [ b to  [ to and ( or. and..- or and. b a-	 of a of of of of of /  or- or- and c- b and. (- c- (0-. [[ w ( - [[ ( and- (-	 or ( a and and to to to  to to to and  and and- or a c and or ( l- and  and- c b. c a d ( of of of of and- l of and (- and- a c and or and to- a or  a to  or a  (  (  and and  and  and  c
+  or  c and c and and c and and and d of of (
+ of n- or and n a  to (  c co and c and 1  (  and a-  to c- a a l or a or c-
+ m c and and di d- ( of of  of  of. of d and.- or. to or a and to to or to to a to to

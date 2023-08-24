@@ -1,0 +1,267 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2097-06-09
+
+
+ 
+
+
+Renal Consult Note
+Quinton Delong,M.D.
+
+
+
+
+CC/ID: Asked to assit in the mangement of Lori Stevens with hypertension, nausea and vomiting.
+
+
+
+
+HISTORY OF PRESENT ILLNESS:
+
+
+
+She is a 62 year old lady with ESRD who has been admitted in the past with nausea, vomiting and severe hypertension. She was treated with BP medications. She has had a CT scan and is seen in dialysis. She is stable on dialysis currently.
+
+
+
+
+
+
+PAST MEDICAL HISTORY:
+
+1.       Diabetes Mellitus x many years.
+2.       History of hypertension x many years.
+3.       History of GI bleeding.
+4.       ESRD secondary to DM on HD x years. On HD Mon/Wed/Fri.
+5.       CAD s/p NSTEMI.
+6.       Meningitis in the past. ( Viral)
+      
+
+
+MEDICATIONS
+
+Unavailable
+
+
+SOCIAL HISTORY:
+
+
+Lives in Nursing Home.
+
+
+
+
+PHYSICAL EXAMINATION:
+
+
+
+
+BP: 159/70  P:  72   R:  16    T=97
+
+
+SKIN:  No rash
+HEENT: Anicteric
+NECK:  Supple. JVP= 6 cm
+CHEST: Left base crackles&gt; right
+COR:   S1 S2 
+ABD:   Benign. No HSM
+EXT: No edema
+
+
+
+
+Labs:
+
+
+Plasma Sodium                    136                       (135-145)      mmol/LPlasma Potassium                 3.9                       (3.4-4.8)      mmol/LPlasma Chloride                  91               L        (100-108)      mmol/LPlasma Carbon Dioxide            29.1                      (23.0-31.9)    mmol/LPlasma Anion GAP                 16               H        (3-15)         mmol/LCalcium                          10.0                      (8.5-10.5)     mg/dlPhosphorus                       4.6              H        (2.6-4.5)      mg/dlMagnesium                        2.0                       (1.4-2.0)      meq/LPlasma Urea Nitrogen             50               H        (8-25)         mg/dlPlasma Creatinine                3.93             H        (0.60-1.50)    mg/dleGFR                             12                                       mL/min/1.73m2Plasma Glucose                   132              H        (70-110)       mg/dlTotal Protein                    8.0                       (6.0-8.3)      g/dlAlbumin                          3.6                       (3.3-5.0)      g/dlGlobulin                         4.4              H        (2.6-4.1)      g/dlDirect Bilirubin                 0.2                       (0-0.4)        mg/dlTotal Bilirubin                  0.4                       (0.0-1.0)      mg/dlAlkaline Phosphatase             345              H        (30-100)       U/LTransaminase-SGPT                9                         (7-30)         U/LAmylase                          54                        (3-100)        units/LTransaminase-SGOT                19                        (9-32)         U/LLipase                           18                        (13-60)        U/L
+
+
+WBC                              15.9             H        (4.5-11.0)     th/cmmHCT                              39.0                      (36.0-46.0)    %HGB                              12.4                      (12.0-16.0)    gm/dlRBC                              4.39                      (4.00-5.20)    mil/cmmPLT                              558              H        (150-400)      th/cummMCV                              89                        (80-100)       flMCH                              28.2                      (26.0-34.0)    pg/rbcMCHC                             31.9                      (31.0-37.0)    g/dlRDW                              20.9             H        (11.5-14.5)    %Poly                             82               H        (40-70)        %Lymphs                           8                L        (22-44)        %Monos                            4                         (4-11)         %EOS                              6                         (0-8)          %Basos                            0                         (0-3)          %Absolute Neuts                   13.18            H        (1.8-7.7)      th/cmmAbsolute Lymphs                  1.20                      (1.0-4.8)      th/cmmAbsolute Monos                   0.58                      (0.2-1.2)      th/mm3Absolute EOS                     0.88             H        (0.1-0.3)      th/cmmAbsolute Basos                   0.02                      (0.0-0.3)      th/cmmAniso                            2+               H        (None)Hypo                             3+               H        (None)Macrocytes                       None                      (None)Microcytes                       1+               H        (None)
+     
+IMPRESSION:
+
+Ms. Stevens is a 64 year old lady with ESRD admitted with hypertension and nausea as well as vomiting. She was quite hypertensive and I would wonder about the effect of BP. She also looks fluid overloaded.
+
+
+PLAN:
+
+
+HD x 3 1/4 hours, 2 K, 2.5 Ca
+Negative 3 liters
+Needs Medication clarification and good BP control.      
+
+
+ Quinton Delong,M.D.
+
+
+
+
+
+
+
+
+    </pre>
+
+
+    <example>
+      <file name="HelloWorld.ftl">
+        <macro name="test">
+          <argument name="args" layout="csv"/>
+        </macro>
+
+        <macro name="test2">
+          <argument name="args" layout="csv"/>
+        </macro>
+
+        <macro name="test3">
+          <argument name="args" layout="csv"/>
+        </macro>
+
+        <macro name="test_test2">
+          <argument name="args" layout="csv"/>
+        </macro>
+
+        <macro name="test_test3">
+          <argument name="args" layout="csv"/>
+        </macro>
+      </file>
+
+      <file name="test1.ftl">
+        <test args="{{ args }}"/>
+      </file>
+
+      <file name="test2.ftl">
+        <test2 args="{{ args}}"/>
+      </file>
+
+      <file name="test3.ftl">
+        <test3 args="{{ args}}"/>
+      </file>
+
+      <file name="test_test2.ftl">
+        <test_test2 args="{{ args }}" />
+      </file>
+
+      <file name="test_test3.ftl">
+        <test_test3 args="{{ args} }"/>
+      </file>
+
+      <file name="HelloWorld.ftl">
+        <macro argument="args" macro="test1">
+          ${args}
+        </macro>
+
+        <macro argument="args" macro="test2">
+          ${args}
+        </macro>
+
+        <macro argument="args" macro="test3">
+          ${args}
+        </macro>
+
+        <macro argument="args" macro="test2">
+          ${args}
+        </macro>
+
+        <macro argument="args" macro="test3">
+          ${args}
+        </macro>
+
+        <macro argument="args" macro="test_test3">
+          ${args}
+        </macro>
+
+        <macro argument="args" macro="test_test2">
+          ${args}
+        </macro>
+      </file>
+
+      <file name="HelloWorld.ftl">
+        <macro argument="args"/></file>
+
+      <file name="Hello.ftl">
+        <macro argument="args"/></file>
+      <file>
+        <macro argument="args"/></file>
+        <argument="args"/></file>
+         <argument>
+
+
+
+
+        <argument>
+        <argument>
+        <argument>
+        <argument>
+        <argument<argument.
+        <argument>
+        <argument>
+        <argument>
+        <argument, > <argument>
+
+
+<argument<argument, or <argument
+    argument
+        argument,
+argument> argument
+argument argument
+argument argument
+argument <argument argument
+argument <argument
+argument argument <argument argument argument
+argument and argument
+argument argument argument, etc argumentation argument, argument. 
+argument argument and
+
+argument argument
+argument
+argument argument or argument
+argument patient argument,argument, argument argument.
+argument argument argument argument. The argument, argument (and argument argument
+argument.argument-15, argument argument argument. argument argument, argument argument argument, argument argument, argument argument argument, 
+
+argument argument or argument. In order
+argument argument argument.
+argument argument argument. argument argument 
+argument...
+argument...
+
+
+names and the 140 with the patient and patient's argument patient'
+
+
+Patient
+1520... the date and the date. (or, or the patient or date, or, and the date, and the name. If the patient specific date, or names, and name and the names, date, and name, and the...
+and, and...
+...and the...
+are and the past...
+
+are and are, and the past, orative, any.
+
+
+name 4...the patient names and the name. and remove of the patient and the past patient: [patient names...
+
+
+you (the patient patient... 2 and: and name: [1...
+le of...,
+[1......
+ 1... are a,... of [the, 0 11 or are 
+... and are the......the, 
+(and or the 
+(orized:
+
+... the:
+
+
+ 0 orise, “...
+and or (
+1 (0:1 (1, and are 5 1...
+are (... 0 are (2, "and (0, and, 0 (
+and, and, 1, 1, (and 4 of the [and of the [, and, 3, a 1. and, the, or, etc. [and of the, and, and the, and, are, 0 and are, and and and [and, (3 of the or, the, a... (make, 1 and [
+: a... anine and with the [2: andist...: 1 5 and 1-2 [1,  are are a 2 and of 1, 1 by the "and, 1, or and the... [cades, 5, an of the. (C of a of:,,  ( 2-le 1, and are 3, an would or are, the, the and, 2 and, the [an and a, a, and an (an,  an an.
+. an, An 1 of and, 1, an and [ an, an an an [an or (c of 1, 0, (P and 3 of, and, and, and,  and, 6, and, An. An.
+, 2 An. (PRA 2-1, 1 An An An-le an of your and ( : An: : 0- : : 0:  (:  and: an:  with the [:: an an: : An:  an: and [- an:  or an an an- -  are " " An An An (-, [ an-  an - an of ( of the of an of and and an. An and [ [ (,  and, [ ( in,, [ are [ ( [ ( (, [ [  (  or,
+ in - or  - -  " an and,  are an  and 0 and  - An  or- -1-, -,  and of  ( and of an,, an an  or ( (- and - an or  and and, an, - an of the and of the or ( and an. or (  an and  an  an,  or  of  of  ( (  an or  An C or an, [ -  (  of a of  of or - of of  with  with  and and, [ : - or ( (- and, - - and an of  or-  and or  An for an - -1- or, or and an and of  or and and or or-  or.  or and ( (, and (,. (  ( (  (- An An and for, or ( and, and an  of but, 2 ( and and are ( or, of  of  of of  of an of and of of An ( and,  or,,,, ( and., an ( An C and an-  and and [ An-  An and  and,  ( [,, ( and (  An  [0 An An An ( ( or, - or- an and and - or and ( ( and and or  ( or or [ or ( ( ( and  or ( and  or ( ( or and of or and of  and of the [ ( or ( and (. [ ( ( (: C.- and:  C-. An: ( An C. [ ( and and:. (- C- and and-C- or and " and (-  ( C ( (  ( ( - ( and or or  and [ of, and of-1 of or  and,( or or( ( -, or.  C., and, - and and ( or of and  of of, (, C of  ( ( ( and and,,, ( (, ( and, and ( and -( ( or or (  and ( (  and -  ( C, and,  [ - or- and and - and or and of ( of ( ( (  and  (  ( ( ( and [ (  ( -, ( and and, and,  ( or  C- and. and (    and or ( C  and ( and ( and and ( and and- and and, and [ ( - - and ( ( ( and , and and, and, and, ( or, (, and - and- and,, and- and and and - or and,  and- and ( - and - and and  (,, ( (  ( and (,  and, , and and, (, and, and, (  C,, and, [,,, ( and, ( and and ( ( (  and  and , [  (  and  ( and  (,, ( (, L- L, and,,, L L,  ( and.  ( ( and ( and- ( ( and and and [,, ( (  (.  ( ( and and  C C -  ( and L ( (, ( and-, and, and ( - (- and- and, ( ( and & C- C,  ( ( and , and (  and  C L, and, and ( and and [ ( and and and, and ( ( & and,  (, and, and and ( and and and, ( and and (,, C  and- ( ( - or- [,,,, ( and of,, C and , L and and and, and, L ( and, and,, and  and, a and - [[ and-1  C- ( ( ( and [ and [ or,,  [ or,  (,  ( D ( ( and and and L (, and L (, L, (,, and,, D D D

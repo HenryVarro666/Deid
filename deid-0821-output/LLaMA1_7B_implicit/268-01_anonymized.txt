@@ -1,0 +1,397 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2089-02-20
+
+
+
+Vi K. Xayarath, M.D., Ph.D.
+
+Resident, Phoenix Neurology
+
+Neurology ED Consult
+
+
+
+
+
+   
+
+
+
+
+
+Date:	Thursday, February 20, 2089    21:42	
+
+PCP:	Rhonda Riddle; (called by Valerie Xian)	
+
+Patient:	Garrison Sexton	
+
+HDH Record #	4210443	
+
+
+
+	
+
+Chief  Complaint:  "dizzy, slurred speech" 		
+
+History of Present Illness:  65 year old RH gentleman with Hx notable for HTN and CASHD, was working on taxes and making barbecued chicken this afternoon, when at 1am he had the sudden onset of feeling "dizzy, disoriented" and having "slurred speech". He reports that he "couldn't remember what I was trying to say", and that his words both sounded "like [I] was drunk". He also stated that at times, when he would try to talk, nothing would come out. He walked downstairs, with difficulty, and his wife noticed that in the hallway he was bumping into items on (falling to) his right. Denies weakness, paresthesias, pain.  EMTs report that when asked the President's name, pt responded "Chrysler Dodge". Brought initially to OSH, symptoms mostly resolved within 20 minutes. I- CT at OSH negative. Pt transferred to HDH ED at suggestion of covering PCP.  		
+
+Past Medical Hx:  HTN, Coronary artery disease (s/p angioplasty and atherectomy; s/p CABG x 5 in 2081), diabetes mellitus, prostate ca (s/p radical retropubic prostatectomy 4/0, negative nodes and margins), obesity. Bladder suspension.  Baseline bradycardia (40s average).  		
+
+Allergies:   Hydrochlorothiazide, furosemide, gemfibrozil, amoxicillin, hydrocodone, oxycodone 		
+
+Medicines: Isosorbide 20 qid Cardizem  HCM 180 qD Atenolol 25 qD ECASA 325 qD Atorvastatin 10 qD Glucophage 500 bid Avapro 150 qD Bumetanide 1 qD Claritin 1 qD 		
+
+Family History:  Mom with stroke in her 80s 		
+
+Social History:  Married 41 years. Pastor (still practicing). No cigarettes. EtOH < 1 glass wine/month.   		
+
+Review of Systems:  Mild frontal HA, no tinnitus, no CP/SOB/abdom pain. + diplopia occasionally this AM (horizontal), no dysuria. 		
+
+Examination:	 
+
+Gen:  Pleasant 65 yo RH gentleman, NAD 148/67 P44-48  R16 RRR No carotid/occipital bruits.  
+
+Neurologic exam 
+
+MS: Alert, interactive, NAD. Fully oriented. Accurate describes stroke card scene.  
+
+Speech: Articulate, appropriate. Reading and repetition intact. Naming all items on stroke card ("couch"; when asked for alternative, "chair"). Several hesitancies of speech, occasional phonemic paraphasic error (recognized).  
+
+CN: PERRL 4  2 bilaterally, EOMI, VFFtC, facial sensation intact, eyes shut tight, smile symmetric, hearing intact, palate elevates symmetrically, shoulder shrug strong, tongue midline.  
+
+Motor: 5/5 strength UE/LE bilaterally proximally and distally. Normal tone/bulk. No fasciculations noted. No drift. Rapid finger movements slightly slower on R (dominant side) than L.  
+
+Sensory: Pinprick, temperature, light touch, vibration, proprioception intact.  
+
+Reflexes: 2+ B/T bilaterally. 21+ patellar, 1+ ankle reflexes. R toe up, L toe down (could not repeat 1 hour later).   Coordination: F-N-F intact. Rapid alternating movements intact.  
+
+Gait: Normal. Tandems well. Romberg negative.              
+
+  CXR: pending 
+
+CT: from OSH, mild cortical atrophy with mild hydrocephalus ex vacuo. Basilar artery is prominent, though not severely hyperdense.   	
+
+
+
+ 
+
+
+
+
+
+
+
+Labs:  
+
+NA        	142       	          	          	          	          
+
+ K         	4.0       	          	          	          	         
+
+  CL        	102       	          	          	          	           
+
+CO2       26.2      	          	          	          	           
+
+BUN       34   	          	          	          	           
+
+CRE       1.6   	          	          	          	           
+
+GLU       106    	          	          	          	         
+
+CA        	8.7       	          	          	          	           
+
+PHOS      3.3       	          	          	          	           
+
+MG        1.6       	          	          	          	            
+
+WBC       	9.4       	          	          	          	           
+
+HCT       	37.1(L)   	          	          	          	         
+
+  HGB       	13.3(L)   	          	          	          	          	          	          	          	          
+
+ PLT         	152       	          	          	          	           
+
+MCV       	80        	          	          	          	          	          	          	          
+
+ RDW       	13.0      	          	          	          	          	          	           
+
+%NEUT     	58        	          	          	          	           
+
+%LYMPH    	32        	          	          	          	         
+
+  %MONO     	6         	          	          	          	          
+
+ %EOS      	3         	          	          	          	           
+
+%BASO     	1         	          	          	          	           	          	          	          
+
+ PT        	12.8      	          	          	          	         
+
+ PTT       	25.8      	          	          
+
+	          	          		
+
+ Impression: 65 year old gentleman with multiple stroke risk factors, onset of dysarthria, aphasia, dizziness, ataxia at 13:00 today. Symptoms improving over first 30-60 minutes, but residual RUE drift, dysarthria, and (initally) upgoing R toe. Suspicious for L MCA cortical event. L ICA stenosis and/or embolic event +/- fetal left PCA possible concerns (?cortical vs v-b etiology of dizziness). Cannot obtain CTA secondary to elevated creatinine.  
+
+
+
+Plan:  
+
+1.	Admit to RDA 
+
+2.	MRI/MRA. MR Perfusion study if L ICA stenosis or suggestion of intracranial stenosis. 
+
+3.	As event occurred on ASA, provide heparin PTT 60-80, continue ASA at decreased dose (81 qD). Watch platelets, as pt starting with platelets =  150
+
+4.	Hold antihypertensive, but continue isosorbide for known cardiac ischemic history. 
+
+5.	Echo, Holter (for known bradycardia; eval for events with HR <<40. 
+
+6.	PT/speech therapy. 
+
+7.	Careful glycemic control (holding metformin).    		
+
+	 	
+
+  
+
+Vi K. Xayarath, M.D., Ph.D. 
+
+Resident, Phoenix Neurology	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Date: 2089-02-20
+
+
+
+Vi K. Xayarath, M.D., Ph.D.	
+
+Resident, Phoenix Neurology		
+
+
+
+Date: 2089-02-20
+
+
+
+Vi K. Xayarath, M.D., Ph.D.	
+
+Resident, Phoenix Neurology	
+
+
+
+Date: 2089-02-20	
+
+
+
+
+Vi K. Xayarath, M.D., Ph.D.	
+
+Resident, Phoenix Neurology	
+
+
+
+
+
+Date: 2089-02-20	
+
+
+
+
+
+Vi K. Xayarath, M.D., Ph.D.	
+
+Resident, Phoenix Neurology	
+
+
+ 
+
+
+
+
+Vi K. Xayarath. M.D.
+
+Resident. Phoenix Neurology. Vi K. 
+
+
+
+
+
+
+
+
+
+
+
+
+Resident, Phoenix
+
+
+
+
+Resident.
+
+
+
+Vi, K. Vi
+
+
+
+
+
+
+   	
+
+Vi
+
+
+
+
+Via.  K.  Vi
+Vi
+
+
+
+
+Vi, K
+V Vi
+
+
+
+
+
+
+
+  V
+Vi
+
+
+
+Vi is
+
+
+
+
+
+Vi
+V
+V:Vi: K.
+Vi
+
+
+
+
+
+
+
+Vi
+V 
+V  V
+
+ViVi 
+
+
+
+
+  
+Vi
+Vi
+ViVi
+Vi
+Vi 
+Vi V.  V11.  1.
+
+
+
+V.
+V (5
+V.
+.V	V (
+  
+V
+V.
+V
+V, 
+V
+I.V. 
+V.V, V202201
+
+	V
+A
+ 	day 1 
+
+2000,	
+  	D
+	Due	23
+
+1
+A, the 	
+
+
+1
+	D
+	DY	
+  	 	  
+	 		
+Date
+A
+
+
+Date
+	
+	15
+D
+23. 	A (D. The, 
+
+	95960009981 and
+102. 	20:10410.
+		 		A, 775120, a: 9, 4161512910114
+ 
+1020.
+10
+C, 1,
+61. 1908.17
+[	
+
+969: 9980.20. 13. 8403438, 6.0000009230929 D..
+8.1. An.	:1.989, An.0D, 1 D. A D. 28, An - An An -2, Aniff An Diff (29 D. D An An. An. An. An. An.1.9.9.291.11. 	. (D. An1110191, a20069.30000. An [10189 D.0,. D.2.00. D. D. D.Dist, a. 9 (9 -  An Ance. 3 An. An An (210 (  An1 An.	11 An An0 - 129.90.16.0.0.1.0 An.0. An 1.5 Anni. An [5, 129 (20.9. An.Day An.200.01.2.6.1.1. An. An. (D. 1. An.01. An (10 An1 and 1.9 and an (19, 9, 9 9 An.9, 9 ([0.0, kine-999 and and (1: 9 9 (9. [9 [91, [D "D D. D. D D: D D. [D: D. [:. An. An. D.:.: " a. and, a.: An.. " ([. [. An. " " and and and. ":. D. “. " "1. ( it,  "0 " ( "[ ". [:. to:. to.: [.. (, ":: ": (::  ". " " - [ D [. D [k "A. An (C "c ( " ( ( " ( ( " ( to the ". to " ". [: " - " (C.1. (0 [.0. k (1 “ "-0-to ( " k "0 “ H. " " ( Haj " to “, " [ “. “ " " " " [, " ",  ": P: Hager H-P- k k ": [1/2 and [1 ( [4116.1 (1820-1 (21 [ "101 “2 " " -  "-M " " -. (. to " [O [C " and "1-C "- [, [ " (  " [ [ ( he,,  ( to,  to "-0 in to,, he [, [. x " V, [ he ",,, [ it to,,, " to [ to, ( (: a ", a - " " ": k, " - " to the " -0 and (0, the. V ": ": x - " he,  (,: " "1 V, " " [ to the in, [, x he [c (: (: " " " - [ " to [ to " " " " - " V - to " to: Th to X to [: [ to " ": -: (1.0:, ::: ":: " and, to: to, (1 " to: to-th,:: ":: V: " V: V ": V. k,  -:2:1: and: - ":::-C-c - " " - of " and and [ to [ " to -, to, C ",: [: " R (: H " to to [ to to-H to to " " to [0 [3 to "00 (0-O to to to 0 (to " to "0 and to (2 H to: [1 to "0 H C1 (, ( (:: [C to to to " to: to:1 to:0.11:10.1 to to to to to to to to to to H0 C: O At C1 " At "00 to to "0 to - " to to to " to to to- to to to "2 "2 " (1 ":: 1 (1 (2 to "::0: " "10.  x0 of " "0  " of 1. to “ to, to X to to to to " ". and to. At to [ " - H to to to to to to X to to X and, " " and and and " H- [1 [ " ( " “ [ to " " " to " to " [ to " and to to to to to " [ "1 " and ", " " “ ( ( " H H to " " H ", to " " " " "2 " and " "- and M  H, " C,,, C, "- M - (, ( M-1 to (, " -  H to- to to to to to to to to to to to to and, to to to ( to " -1 to to to, and " ( " " " to H,, H - H and ( and " H. H.. ": H ( to. " to " ( to. to to " ( to and: " - " ( ": H -  “  “ " " - H -. 2. 2. 1 " (- "-	- - " " to to to to to “ to  ( " "  ( to (- " and  and " and  " C. "- " C " to ( "- to- "  "  " ".  and- (  [ "  to.- C to to to  to to- and ".-.   " ( (  -	 to

@@ -1,0 +1,429 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2096-12-13
+
+
+
+
+
+
+
+Trinity Regional Medical Center
+
+1190 Mill Street              MARSH, CARL
+
+Albertville, RI  87193                    39955317
+
+(906) 517-8625                     12/13/2096
+
+
+
+
+
+HISTORY OF PRESENT ILLNESS:  Mr. Marsh is a 75-year-old male who comes for comprehensive exam and follow up medical problems.
+
+1.  Chronic renal failure.  He is on chronic dialysis twice a week.
+
+2.  Hyperlipidemia.  Fasting lipid analysis 18 months ago showed total cholesterol 221, triglycerides 192, LDL 136, and HDL 47.
+
+3.  Cataracts.  He is about to undergo cataract removal.  Comes as well today for clearance.
+
+
+
+MEDICATIONS:  Nephrocaps 1 p.o. daily, Phoslo 670 mg tablets 3 p.o. t.i.d., and senna two tablets b.i.d. p.r.n.
+
+
+
+ALLERGIES:  No known allergies to any medications.
+
+
+
+HABITS:  He smokes one pack per week.  Denies alcohol or drug use.
+
+
+
+FAMILY HISTORY:  Unchanged.
+
+
+
+SOCIAL HISTORY:  He lives with wife and daughter.  He is retired.
+
+
+
+REVIEW OF SYMPTOMS:  No significant weight change, febrile signs or symptoms, headache, blurred vision, tinnitus, chest pain, cough, shortness of breath, nausea, abdominal pain, nightsweats, diarrhea, dysuria, polyuria, skin rash, bruising, joint pain, or focal weakness.  
+
+
+
+PHYSICAL EXAMINATION:  The patient is in no acute distress.  Blood pressure 125/82, weight 138 pounds, and temperature 97.3.  BMI 19.8.  Skin exam:  No rash.  Head and neck exam:  Patient has bilateral arcus senilis.  He is edentulous.  Chest:  Clear to percussion and auscultation.  Cardiovascular exam:  No extra sounds or murmurs.  Pedal pulses are trace posterior tibial bilaterally.  Abdominal exam:  No masses, tenderness, or organomegaly.  Stool guaiac negative.  GU exam:  Both testes descended.  Testes were soft.  Prostate 2+ enlarged without masses or tenderness.  Lymph exam:  No axillary or cervical lymphadenopathy.  Musculoskeletal exam:  Grossly intact.  Neuro exam:  Grossly intact.
+
+
+
+ASSESSMENT AND PLAN:
+
+1.  Chronic renal failure.  Appears to be stable on routine dialysis.  Will check screening blood work.
+
+2.  Hyperlipidemia.  His LDL goal is less than 130.  He is slightly above that.  Encouraged careful attention to nutrition.
+
+3.  Cataract.  EKG and other preop testing were requested.
+
+4.  Adult health maintenance.  Tetanus and Pneumovax given last year.  He reports influenza vaccine was given elsewhere.  A colonoscopy has not been done according to our records.  Colonoscopy requested today.  Home guaiac cards given as well.
+
+
+
+
+
+______________________________
+
+Xavier T Mccoy, M.D., M.Sc.
+
+
+
+
+
+
+
+
+
+
+
+eScription document:6-2359741 EMSSten Tel
+
+
+
+
+
+
+
+DD: 12/14/96
+
+DT: 12/15/96
+
+DV: 12/13/96
+
+
+
+
+
+
+S:1190 Mill Street              MARSH, CARL
+
+Albertville, RI  87193  
+
+
+
+
+
+S:906 517 8625                     12/13/96
+
+
+
+
+
+
+S:39955317                      12/13/96
+
+
+
+
+
+
+
+
+
+
+
+
+T:3523508400                     03:25 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+T:7781178632                     01:17 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T:9065163412                      11:31 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T:2454198400                     11:15 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T:8380244581                     08:52 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T1:39597347542                    03:36 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T1:2862871933                         08:48 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T1:9062522641                  06:02 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T1:8373175345                         11:12 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T1:8396581187                         08:33 PM
+
+
+
+
+
+
+
+
+
+
+
+\end{code}
+
+The problem is I am getting this error:
+
+\begin{code}
+Unclosed token 'T:' detected at line 19, column 102.
+\end{code}
+
+I'm using the following code:
+
+\begin{code}
+public static void main(String[] args)
+{
+   String[] doc = new String[] { "doc1.txt", "doc2.txt" };
+   for(int i = 0; i < doc.length; i++)
+      System.out.println(parseDoc(doc[i]));
+}
+
+public static String parseDoc(String doc)
+{
+   String docLine = doc; //doc is a path to the text file, this is the only way to read the file.
+   try
+   {
+      StringTokenizer st = new StringTokenizer(docLine);
+      String line = st.nextToken();
+      line = st.nextToken();
+      String[] docArray = line.split("T: ");
+      return docArray[1];
+   //System.out.println(parseDoc(doc));
+   }
+   catch(Exception ex)
+   {
+      ex.printStackTrace();
+   }
+   return null;
+}
+\end{code}
+
+Comment: This is a simple tokenizer. You're using it wrong.
+
+Comment: Can you please give me a simple example of how I would do this?
+
+Comment: The tokenizer is fine, it can be used to read the file in. But the line you are trying to tokenize doesn't make sense (at least to me). You need to split the string into two: one part with the T: and a second one without it, then parse the second part as an `Integer.parseInt`.
+
+Comment: I have no problem tokenizing the string, it works fine, but I cannot parse that string to an integer.
+
+Answer: I'd recommend to use an HTML parser (like [JSoup](http://jsoup.org/) for example). It's a bit more work, but much more robust than parsing raw text by hand.
+
+For example you could parse the HTML and split on \begin{code}
+<tr>
+\end{code} tags. Then each of the `td` tags will be the patient information. You'll have to split again on \begin{code}
+\end{code} (the line break is \begin{code}
+\end{code}).
+
+\begin{code}
+<tr>
+  <td>...</td><td>
+ ...
+</td><td>
+\end{code}
+
+Answer: You will have to split on T:, and then you have to parse each of the lines and get the second half.
+
+This will give u what's after the first half of the string, the patient number.  Then you will get the patient name and number.
+
+Then you will get the first half of the string, the name and age and then you will get the first half of the name and the first half of the age and the name and the first names.
+the patient numbers.
+
+
+the first half of the patient number.
+
+
+the patient number.
+
+the number.
+number and.
+the numbers
+the patient name.
+the number. the first name.
+the age.
+name the name of the patient number.
+the patient name the patient name.
+the number.
+patients,
+the patient name, number of patient.
+number of the patient.  the number. the patient number.
+patients.
+number names, the letters, the number names.
+the names.the number of names,
+patient.
+the names. 
+name, number of numbers, 
+name. 
+names or name,
+names. the patient number. The names and names.
+names, names
+names.
+names and names of names: the names the patients.  the patient name and names.
+names and the name and names.
+Names.
+
+The letter.
+1...
+
+... the letter number names, names.  the patient, names, names and the names: names. The names the names
+(patients.
+12 names (names
+
+or names, names
+The letter.
+the...
+or names names, names, the name and... or... or 9, the patient names.
+the names, and
+the,
+the, a, a...
+
+
+are... (or, but [
+1... (
+(12, and, the patient names.
+... [patients, 41: and: patient names, the patient.
+names, as...
+name of a:
+patianist patient-15. (or and…......: or: [1-
+1...
+[ are... are (1, [1,... 1 [... 1: and the names, and the or or the, the or, or...and of a few and,
+, the or, 
+(1 are [
+(
+
+[
+make, and [
+in and the and... and a... [1- 2 are the 1 1, 1 (and and 1...  “, (
+ and, or and and, and 5 and, 1, 0, and, the, ([the and, an, the, the, 
+1.,
+1, and, a, are and and, and, and and ( and, and, and, and include, are, and canine are a, (the " of... and the, the, the [cub-the, the with the... : 1-
+: “:  “... 3 (
+ (le, an (make-inine would, 1-the
+0 in the and by “ ([,, and [and, the [[1.
+. [. of the " of the (an of a and a. and, 3, an, anine- are a and are a or and, (make, an,  or (an, an  (1, and, (an,  - and,
+. 1, an, and, the an and, and of 2 and and (an, and (3 or of the [0 of, an, and and, " (0,  orine and, and,, an, and,  and, An, and and, (d, An An An: (make,,, "make and (An An: a-0-le and an [: and: and: ": ":::::: [-and:,:-  and: and “ and: " " and or (: an and: : an-an  or an with or- (-an ( an ", are an [ an are an or or,  in the [ an an (. of the an of,, and in the and or,, and (,,,,, [ and, and ( or and are ( or (, [, [ or- an- and or (- are an, [ ( are (- an, ( an  - An - an  or an [,, an an - an or ( are,-an of  an of or of a or an and and,- ( an ( and, ( or “,,, an " of of the of our of an of [ (,, an for an for " an an or an ( are, or  an in an or of an- ( an or ( ( an or  - and and an and  an- or  ( or of, of the - of " of an  an ( or.- by- and. an an or " and, " for  for for,  for and an or, or of an ( An An An- and by for for an,,,, or or of the or and, and,, or for and for an for, or for for the or for or of  for of, ( ( for or an ( for, for or, for for and  and  and ( an,,, of, of our of of an of and, of, and of and. of (, and,,, and for (,, and and and an for. and, for, and, or- and, for [, for,. ( for - an and and for  for for for for for to, and ( and and for or an or an for, or for and, [ or ( for ( for or to ( for in for and for and an to an ( and for the for and for and or and of and ( c for m c and for - and and and for for "- and ( ( for " and of ( to: an  for and for  and- and (.: : c. ( al and and an " and a c c for or and to c and - and and or ( and or, an or ( and, or of  of or of [ or or or and an. and and and, and and or and, or,. or, or, and  of of of and of the and ( or and  and and an and and ( or  and, and, an  an, and,, or (  an or,,, and,  al or or, or, and [,,. and, and al of and of or  and ( and and to  and for (, for  and to,, ( of, of ( and, and ( and  and,, and and an ( or. and and  ( and and  and, ( ( and [ in and and and and and and and [ and in and al, or and ( (,,, ( and.,  ( and to and. ( to in  ( al, and and ( and ( a ( (, and and (  and,, [ and and ( and ( and, and and, or and t t,, and, and, and,, ( [,,, and  [, [,,,,,,  and,  and  a of  and.  and. ( and  [ [ h al h m. and., ( of,,, (,, and,,, ( [ d ( and and. [ t al.,. or,. [, ( t al.. [  to [ d h- [- al- H ( [ and [ H [ and ( [ and and, and, and., and ( [ H ( ( ( in, ( and in and or ( in c of to [ of of of  t of t ( h t and t and ( and ( or, h and, h -, [ ( c and and and [ to al al and ( and, al and ( and or to and or. to ( [ to al to to and, to (, (,, to,., and c, al and or, to,.. -. and and and, ( and,1, ( and al, and  al, and,,, and or and or and and ( al or to, or [. to, to to to and t or and (,., and. or [ and,

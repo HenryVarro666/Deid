@@ -1,0 +1,234 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2079-06-18
+
+Pt is a pleasant obese 70yo South Korean woman presenting for f/u DM, HTN. She is a poor historian, accompanied by family members who interpret, both in Korean and English. Also spoke w/ daughter by phone during the visit to help clarify med regimen.
+Problems
+Hypertension 
+Elevated cholesterol 
+Cervical polyp 
+endometrial polyp 
+osteoarthritis 
+Sleep apnea 
+diastolic heart failure 
+Restrictive pulmonary disease 
+Diabetes mellitus type 2 
+FH Uncoded Information:
+	 Comments: Denies family h/o ovarian, endometrial, breast or GI cancer. Reports mother and older sister with endometrial ca.
+ 
+Medications
+Colace (DOCUSATE SODIUM) 100MG TABLET take 1 Tablet(s) PO TID 
+Caltrate and D 2 TABS PO qd , keep md appt for 11/15/77
+Lopressor (METOPROLOL TARTRATE) 12.5MG TABLET take 1 Tablet(s) PO BID 
+Zantac (RANITIDINE HCL) 150MG TABLET take 1 Tablet(s) PO BID 
+Estrace (ESTRADIOL) 1 GM PV BIW , keep md appt for 11/15/77
+Neurontin (GABAPENTIN) 300 MG (300MG CAPSULE take 1) PO TID
+Loratadine 10 MG (10MG TABLET take 1) PO QD 
+Diazepam 5 MG (5MG TABLET take 1) PO QHS x 30 days
+Nexium (ESOMEPRAZOLE) 40 MG (40MG CAPSULE DR take 1) PO QD x 30 days
+Lasix (FUROSEMIDE) 20 MG (20MG TABLET take 1) PO QD x 30 days
+Hydrochlorothiazide 25 MG (25MG TABLET take 1) PO QD 
+Levothyroxine SODIUM 100MCG TABLET PO QD 
+Fosamax (ALENDRONATE) 70 MG (70MG TABLET take 1) PO QWEEK 
+Diovan (VALSARTAN) 160 MG (160MG TABLET take 1) PO QD 
+Plavix (CLOPIDOGREL) 75 MG (75MG TABLET take 1) PO QD 
+Metformin 500 MG (500MG TABLET take 1) PO BID 
+Percocet (OXYCODONE+APAP) 325-5 TABLET take 1 Tablet(s) PO TID x 30 days
+Zocor (SIMVASTATIN) 20 MG (20MG TABLET take 1) PO QHS , to replace lipitor 
+
+Last seen by PCP approx 3 wks ago. Pt was having sxs dyastolic dysfunction, asked to take Lasix 20mg qd. Bp meds include Diovan 160mg, HCTZ 25mg and Bisoprolol 5mg qd, which replaced Lopressor at some point. Unclear from pt/family when this was changed. 
+Patient denies CP, increased SOB or edema. Sleeps on 2 pillows. Adds salt to food and is sedentary. Has gained an additional #2 since last visit.
+According to her daughter, she eats sweets every day and complains of feeling dizzy if she does not eat sweets. Also eats mod amts starches. Takes Metformin 500mg bid w/ recent A1c 6.7. She uses a glucometer to test fingersticks, though inconsistently. Family reports typical fasting results 110-130, randoms 150-170's; no 200's. She is a former smoker. No alcohol or OTC meds.
+Followed by multiple disciplines including cards, neuro, ortho and pain mgmt. Also has upcoming appt w/ nutrition.
+Exam: pleasant obese 70yo woman NAD
+Bp 144/64 in triage,  140/70 rechecked by me  HR 64reg  Wt #220
+Random fingerstick 137   
+Neck: obese, supple; no JVD
+Lungs: clear; no rales, ronchi, wheezes
+Cor: RRR; no r/m/g
+Extrems: (+)1 ptiting edema bilat 1/3 up legs; pulses intact, no lesions
+A/P: 70yo woman w/ multiple medical problems, overall poor understanding of meds and problems. Pt counselled regarding importance of no sweets or added salt in her diet. She needs to lose wt for both her medical and subjectvie well being. Encouraged to walk as tolerated, elevate feet when seated. Asked to bring all meds plus glucometer to next PCP appt in 2 wks for full clarification. Cont current regimen for now until completely sure of her regimen. Asked to check fingersticks when feeling dizzy. If < 80, treat w/ 4oz orange juice and healthy snack. Sent to lab to check basic panel on Lasix, also for urine malb/creat for hx DM, f/u as needed. RTC to PCP, other appts as scheduled, prn.
+
+
+_____________________________________________
+Virginia M Townsend,N.P.,M.S.
+  
+
+
+
+
+
+
+
+
+This is a simple example of a structured clinical documentation. 
+
+
+
+						<P>Record date: 2015-07-06</P>
+
+
+
+						<P>Problems</P>
+
+
+
+						<P>Diabetes</P>
+
+
+
+						<P>Diagnosed 2010</P>
+
+
+
+						<P>Blood glucose level 170 - 200 in morning</P>
+
+
+
+						<P>A1c: 7.5-8.0%</P>
+
+
+
+						<P>Fasting blood glucose: 85-120</P>
+
+
+
+						<P>Postprandial blood glucose:<P>
+
+						<P>1. A: 90 - 100, B: 100 - 120, 
+						C: 120 - 150, D: 150 or higher</P>
+						<P>2. A: 0 - 2 hours, B: 2 - 4 hours, 
+						C: 4 - 6 hours, D: > 6 hours</P>
+						<P>3. 1 - 2 units insulin (or 20 - 30 grams 
+						carbohydrate), 3 units insulin (or 30-40 
+						grams carbohydrate). 
+					</p>
+
+
+
+						<P>FHDM</P>
+
+
+
+						<P>Hypertension</P>
+
+
+
+						<P>BP: 140-149/60-79, 150-159/80-89, 
+						> 160/90</P>
+
+
+
+						<P>Diagnosed 2015</P>
+
+
+
+						<P>Lisinopril 10 mg BID</P>
+
+
+
+						<P>Cause: HTN 1st degree family history of DM</P>
+
+
+
+						<P>Effect: Risk of CVA, heart failure, stroke, kidney problems</P>
+
+
+
+						<P>Hypercholesterolemia</P>
+
+
+
+
+						<P>FH DM 1st degree, 
+						FH HDL 45, LDL 110,
+						Total 281, 319
+
+
+
+
+
+
+						<P>Treated with Crestor 40 mg qd</P>
+
+
+
+
+
+
+
+
+
+				
+
+
+						<P>
+
+
+
+
+				<P>
+
+					<P>
+
+							<P>
+
+
+
+
+							 201950120 					1950 30
+
+	 		20
+			40m 19, who was 
+				 
+
+			 
+		.
+		1912	 		2019,	0.
+		20	40,
+
+
+	50.		20	20	20
+	20, 7
+	20 010	 
+	201
+1220
+	20,
+	180 patient 0.
+10 3 year 2 year patient21
+21 patient
+1 patient 20 and 9 18.
+20 20
+
+2002
+and 4.
+40
+year-20.
+year: patient (3
+ 23
+12. 3, patient 3 patient medic patient.
+The.
+A.
+
+20209
+2
+The
+
+M2013, and 12. A male age.
+age, with age
+10 3. The 
+and, with,
+
+and 2
+
+P
+and 3.
+3. 1 and 1. 2, and M. 20. 5. and.
+Medic 1 and 1. 6:1 (3
+
+11 2122
+
+and.
+and with 12: and: The: :2 and a:1,2 and:0828 day 20. It with 2  and M (2, and the patient: F 11 year,6 and a in with with the, and the, and and a and, but:  and by the, but (1. 132.  and day,1 day.. a and a.  and are the.1,2-12. 5,1: and  and a...: and:. An. are, F.5 and 89 and  are, a and  (c, and, (c: (f, are and and and [to and the and. and. to 5,0 and in and but, and:., and, and (1 (, [1 and. and (. and,., m.,  and a and and and: and: with in::, and:  and.:., (10 are, An are, 0 An2 An An F4, An An An in A An, a and,,  a ( a and year with old  with old with a, to an for.1,,. at, and a,.  in and in. and, are, are at the.. and in 0 day (an. and. An. and  and and0 and.1 and9019 An 90 and are,1 and An Anist and a-per: An C a, are and are are and An89242 An and An and a [ a and a in ( An An F and and and and and and a ( and, (1 (1,0 An Anic and, and by.. and  and, An in [, in in  and and. [, and. and. An. An and [, a and an [ and wistic, and An An w1 and119 ( and An: and An An: wistic and: An:: An An w in An An: An in: An: An An An: Anist An and and and: An P and An for in An in in and in an w1 and and,, in: An, and [ w in [ w in and w w are are are in and are are and and1 [ and.. and.,. in, and [.. and., w m and. in. and [. and ( C and. and and and. C and w [ in and in in in. An An An An An and An. C An. C, in N An in N and N and and F H and, An and (/ AN, and and and P/ L N P An An Ne An An An and F An C0 An An An N An I AN An An An C and in F An An and, and N I H, An R F, C [ F N and and N and and H and ( F in H C and and and in. An C/ F C H N and H in H F An in H An An R An and An C An An H C An and H An CF in An I An F in H An H I H and An C An N An and. F F and C C C [ and H in An C. An F C and F A T An T F and. An. T L C T F T in. T F T in. S I P C T C H A F in S C in F. C T T S Am F in C L C H. F. L. F L L in H P T An L and H0 S. [0. An F T0 F Am F C0101 An2 Am T An T H S F C for C for for C for L C T C C L An T F C C C C An L C and C C P L C P F C S CF T S T An H C L T A. P C L S S F PO Am F C T F P C C T C C T F.  S/ F L T C F L C C H C F F Am C C F F L S L C C C L C C C H A F T F F L T P F L F C C H C T C C C PO F F H C C S C C C A C C F C and. F T F C PO L F C C L T C T L S T. and M C F and F T and PO C and C Am C L T. C F C F ( F L F T and F T L F T ( C F C F C F T F C F F T C F C F and C C CC [ C C C F C T P T C C C P F T T L T1 C and C- and F G C C PO T L CI P C C T C F C F C C H T. and C T C I C and C C C C and C T L F C F and S C C L C C F F H. T F. F C F C F F B C C P C C T. F. C F F H F C C and and M B C C and C C F C H in C F C L F C B H C F C C P C C F C M MC and M T T F and and F C C T C F Cl C Cl C Cl and and C/ H/ M M M C m M T B F C M M F CH F and F  C M M C H M and C T C T C C F C C H T M CA M M C M M C P PO C MC S M C F M S H C M P C C C F F A B C CA CA C C P PO C S C A C C H B C M A F C C M and MC MC C MD and M M P C CA M in M MC and M M M and C PO C C M M M C M H M C C MC F C P and  c M C M P B. c m m m m C m- M M C F C C C and M H. C C M c M M C/ m t- M P C C M. c C C F and M Cl C C C C M F P C  H C. C H C F. C C C. C T C. C F C C/ C M C T C/ C and C C C C. M F c / P C and and/ C/ P H C C A M C/ I C- C M. C C./ C C F M M M M M and. C.

@@ -1,0 +1,401 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2088-03-06
+
+                     RHINELAND EMERGENCY DEPT VISIT
+
+ 
+
+PIERRE,EDEN   241-52-56-3                      VISIT DATE: 03/06/88
+
+The patient was evaluated by me with a resident.  The resident's 
+
+history was reviewed and the patient interviewed and examined.  
+
+Briefly, history is as follows.    
+
+HISTORY OF PRESENTING COMPLAINT:  This patient is a 72 year-old 
+
+female complaining of chest tightness lasting approximately 30 
+
+minutes after climbing stairs at home.  She reports she has been 
+
+having increasing bouts of shortness of breath over the preceding 
+
+week.  She denies diaphoresis, palpitations or radiations.  
+
+REVIEW OF SYSTEMS:  There is chest pain, as noted above, and 
+
+shortness of breath, as noted above.  All other systems are 
+
+negative except as noted. 
+
+PAST MEDICAL HISTORY:  Previous myocardial infarction and 
+
+hypothyroidism.
+
+MEDICATIONS:  See nursing note.
+
+ALLERGIES:  Morphine sulfate. 
+
+SOCIAL HISTORY AND FAMILY HISTORY:  The patient is a past smoker 
+
+and a nondrinker who lives alone.  Family history is 
+
+noncontributory.
+
+PHYSICAL EXAMINATION:  GENERAL:  Awake, alert and in no acute 
+
+distress.  VITAL SIGNS:  Stable and normal.  HEENT:  Benign.  NECK: 
+
+Supple.  LUNGS:  Breath sounds showed left lower lobar rales and 
+
+rhonchi.  HEART:  Regular rate and rhythm.  ABDOMEN:  Soft and 
+
+non-tender. 
+
+LABORATORY EVALUATION:  Electrolytes were normal.  Cardiac enzymes 
+
+were negative.  CBC was normal.  EKG showed sinus rhythm with 
+
+nonspecific ST-T wave changes.  Chest x-ray showed mild 
+
+cardiomegaly without other abnormality.  
+
+THERAPY RENDERED/COURSE IN ED:  The patient was treated with 
+
+aspirin, beta blockers, and oxygen.  Ultimately she was admitted to 
+
+the hospital for definitive evaluation and further care following 
+
+consultation with the DHD cardiologist.  See resident's note for 
+
+further details. 
+
+DISPOSITION (including condition upon discharge):  Admitted in 
+
+stable condition.
+
+___________________________________                    FT188/35814 
+
+ORLANDO R. PIERRE, M.D.   OP63                            D:03/07/88 
+
+                                                       T:03/07/88 
+
+Dictated by:  ORLANDO R. PIERRE, M.D.   OP63 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+"""
+
+#import time
+import logging
+import re
+import sys
+
+from collections import namedtuple
+from functools import wraps
+
+from django.conf import settings
+from django.contrib import admin
+from django.contrib.admin import AdminSite
+from django.core.management import call_command
+from django.db.models import Q
+from django.template.loaders import app_directories
+from django.template.defaultfilters import filesizeformat
+from django.template.loader import get_template
+from django.utils import six
+
+
+log = logging.getLogger('django_ckan')
+
+from.utils import get_default_template
+from.utils import get_site_config
+from.utils import is_cannot_view_exception
+from.utils import is_not_modified_exception
+from.utils import is_not_modified_view_exception
+from.utils import is_not_modified_view_exception_2
+from.views import (
+    AdminIndexView, AdminLoginView, AdminLogoutView,
+    AdminLoginView, AdminLogoutView)
+from.views import (
+    AdminLoginView, AdminLogoutView)
+from.views import (
+    AdminLoginView, AdminLogoutView)
+from.views import (
+    AdminIndexView, AdminLoginView, AdminLogoutView)
+from.views import (
+    AdminIndexView, AdminLoginView, AdminLogoutView)
+
+
+class CKANError(Exception):
+    pass
+
+
+class CKANException(Exception):
+    pass
+
+
+class NotModified(CKANException):
+    pass
+
+
+class NotAuthenticated(CKANException):
+    pass
+
+
+class NotAllowed(CKANException):
+    pass
+
+
+class NotFound(CKANException):
+    pass
+
+
+def _is_not_modified_exception(exc_type, message=None):
+
+    if not message and hasattr(exc_type,'message'):
+        message = exc_type.message
+
+    if message == 'NotModified':
+        return is_not_modified_exception(exc_type)
+    else:
+        return not (
+            is_not_modified_exception(exc_type) or
+            is_not_modified_view_exception_2(exc_type)
+        )
+
+
+class AdminConfig(NamedTuple(
+        'AdminConfig',
+        ('name', 'url', 'description', 'template_set'))):
+
+    name = property(
+        functools.partial(get_default_template, 'ckan/admin/'))
+    url = property(
+        functools.partial(get_default_template, 'ckan/admin/'))
+    description = property()
+    template_set = property()
+
+    def __repr__(self):
+        return '<AdminConfig %s %s>' % (self.name, self.description)
+
+
+class AdminSite(AdminSite):
+
+    def __init__(self, name=None, admin_url=None, **options):
+        super(AdminSite, self).__init__('CKAN', name, admin_url)
+
+        self.registration_enabled = \
+            options.pop('registration_enabled', True)
+        self.site_title = \
+            options.pop('site_title', 'CKAN - Administration')
+        self.template_set = options.pop('template_set',
+                                         app_directories.get_template_set())
+
+        # Load the admin's views into the application for the
+        # admin site
+        if self.registration_enabled:
+            self.add_view(
+                ('/admin/registration/new/', self.new_registration))
+            self.add_view(
+                ('/admin/registration/', self.register))
+            self.add_view(
+                ('/admin/registration/', self.logout))
+
+        for name, config in self.site_config.items():
+            if config['template_set']:
+                template_set = config['template_set']
+            else:
+                template_set = app_directories.get_template_set()
+            self.add_view(
+                (name,
+                 self.login_view(
+                     template_set=template_set,
+                     template_name=config['template_name'])
+                 ),
+                template_name=config['template_name'])
+            self.add_view(
+                (name,
+                 self.change_password_view(
+                     template_set=template_set,
+                     template_name=config['template_name'])
+                 ),
+                template_name=config['template_name'])
+            if config.get('template_name_register','register'):
+                self.add_view(
+                    (name, self.register_view(
+                        template_set=template_set,
+                        template_name=config['template_name_register'])),
+                    template_name=config['template_name_register'])
+
+        # Load the admin's login and registration pages
+        from.views import AdminLoginView
+        for name, config in self.site_config.items():
+            if config['template_name'] =='registration':
+                self.add_view(
+                    name=name,
+                    template_name=config['template_name'],
+                    login_view=AdminLoginView.as_view(
+                        template_set=self.template_set).as_view())
+        self.add_view(
+            ('/admin/login/', self.login_view(
+                template_set=self.template_set)),
+            template_name='admin/registration')
+
+
+class AdminSiteConfig(object):
+
+    @classmethod
+    def get_admin(cls, site_config, site_name):
+
+        admin = AdminConfig(
+            name=site_name,
+            url=site_config['admin_url'],
+            template_set=site_config['template_set'],
+            description=site_config['description'],
+            )
+
+        return admin
+
+    @classmethod
+    def _get_admin_view_config(site_config,
+                template_set=site_config['template_set'],
+                template_name=site_config['template_name']
+
+        return admin_name
+
+    @classmethod
+
+    @classmethod
+        return admin_description
+
+    template_set
+    template
+    @class
+
+    template
+    template
+    admin
+
+    template_name
+    return
+    template
+    template
+
+    template
+    template_name
+    name. 003
+    template_date_00
+ 0
+    template_0000
+
+    template
+ 003
+    template
+
+    template
+   000
+   
+    admin_template
+   
+    template_000
+
+   
+11
+   000
+
+    template_
+00
+   
+   15  
+1
+11:_00
+
+
+
+
+10
+
+1
+003
+                000
+1
+14 13
+and 10
+20
+
+
+
+08
+1
+
+0
+
+0: 0
+100
+0, 0
+023
+00
+
+
+1:
+
+The_2413 0
+1
+201092
+14
+
+120400
+A  
+1010
+2
+DAY
+1
+20
+
+20 11
+  20
+14
+A
+
+
+
+14 20
+March
+1
+2001020
+10
+
+   2
+
+191
+
+   00, but 020, a: 91. 01249
+The date date.
+
+
+date:  and 1 and the: 
+(07.
+Oct: October 121 year
+The.    12
+
+The, 100012301
+2 MINAL M: 102, 20, 10.
+ ,  80102186,122121,02018103:18 date
+1 date
+2101 and:10: and the [a: 322.
+A. 34/the:
+
+0
+1: 20320, 605 AN RE: ROL RE DIOR RE3022 date with R of a0. 4. Anient and a week. Anoc An. An [4800000
+000000 (8: and a.10301 and a:6291, :10-1908-1 and day. An.9/2 An An An An99:2010 and (2A AN DI CH AN WENAL SOL RE CIF and [131912.. Anductive An An An An An An An An Anoc Ancer and a0100003100011-5 1. 20 0-2 (2. 1. 1 and, the-and (with at an.. (an in An An An0 (3. A CO:1.
+ IN CON EN REN CO A AN SEN AN ENIST AN CH-000 W3.0-20 in a and, an [ [1,. and and and. and and a. and a.. and and a. and the.. and a [6 [2.88-132368 [25:1 W and. [: [ W. wine [ ( W W W: W W W W W W W: (9::01585-1 [.:.  [-17 and:-0- [20-3 in. and [1. AN and:, [ [.- and,  0-0-10 [ [00 [0 ( [: an:  (:                : :12-9:1:  and: [:1 and.:
+ and [:., [:  and.-11 and [1- 0- 0 in:   and an and. ( and, [.: : [ [.: and [ by the [ [ and by in and in and by the (00 and and-00-9-2-0-0 [-2 and --1 and RE and and [-1 and [ (0 and and [ and and.-1 and by:-1, ( by and, [ [1, and and, and -00-0002- 0 and in  and (. [ by, in, in ( and and.  and and W and by and,- ~ and. [. ( and and and, and,. [. ( and- [-1..0 and-3. A A A IN CO. C A.- w r. (- and-0- and < and [ [- and [ and by (, and. and and and. [ (. (-t and and and (1-. and and and and. and a, of the. and - and ( [ [00 [0 of and [ of.- and (. by or by. [, and/ and- by (. [ and and- by and and (-               . R. Mient-1 by and and c-g and to or-to ( of  an and.  -t- [-  a-c-d, [1-t and by (1-1-111 and-1-0 and and10 and and - ##/ and ~-1: [: [-0-1:  ( and-t and (: (/  to (: [- -b- ( ( ~ ( ( [1 and-1 and ( ( (-  - C [ [1 ( and (-                - 0 (0 ( ( of and w ( c m and and (. _ c- (-c 0  and. [ and and- and- [ and-and - and and w. and. and. w. and and and. w. and-d. and-1-c and and [1 of. (: [2 by:  and.: [0-80: and-1 of: [0-1 to and. C: and-c-g-r- and- c- r-1- and- w. and, and and and- and and and and and and and and. w and and and and and and. and and and and or. and and- and c. and and-c- and- and- an- r- and r.- or- r. and and.. to to [: [- to- rine [0- to to to to to and to or to [ to or ( to and to an and. [ r and and and r of [0 of ( and to.	 of n [ and of r to [ and c [ or [	 an w m m r m and- an an.- [ and an. or ( of w and [ of w of of c- r of a w0 and t c of a and w of of [ of of w or of		 and [ of c of of. of of. of.. w0..-0-0-0-// and	 (0 of- and of. R. C a and. ( a,- w-	. to-to to to- and a- and an- to an- to (- and-. C-c-[ or [. or	.-0-3-	0-0-1-0 and A. C r.- c r r: an r: r and [: r and and- ( [. C. [_1 [1 [:. [: [:::
+:: [: [: [: [.                - (.- [ (::-	 [.::0 r: [ [ [[ [:- [- ( and-[, and,: ( and::: of::

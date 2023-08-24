@@ -1,0 +1,510 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2129-08-20
+
+						July 06, 2129
+
+
+
+
+
+
+
+
+
+Robert Trejo, M.D.
+
+17 Unicorn Way
+
+Suite 353
+
+Chickasha, NC 75156
+
+
+
+						RE:  Tyler Pearson
+
+					                    WMC#727-19-02
+
+
+
+Dear Doctor Trejo:
+
+
+
+I had the pleasure of seeing our mutual patient, Mr. Tyler Pearson, in follow up evaluation in our vascular surgery clinic here today.  As you will remember he recently underwent right carotid endarterectomy with Dacron patch angioplasty after treatment of a severe underlying pneumonia.  He returns today reporting that he is doing well from a neurologic standpoint.  He has had no focal, motor, sensory deficits, and no amaurosis fugax.  A follow up duplex examination performed in our vascular laboratory reveals mild right ICA disease after his carotid endarterectomy with moderate left ICA stenosis which should be followed over time.  
+
+
+
+Assessment and plan:  Overall, I am extremely pleased with Mr. Pearson's outcome given his high risk pulmonary status.  It would be prudent to see him again in follow up evaluation in six months' time with a repeat carotid duplex examination.  I would be happy to assist in the management of this or any of your other patients as you deem necessary in the future.  Thank you again for allowing me to assist in his care.  If I can be of any further assistance, please feel free to contact either myself or one of my partners directly.
+
+
+
+						Sincerely,
+
+
+
+
+
+
+
+						Steven E. Land, M.D.
+
+
+
+SEL:kerns
+
+
+
+
+
+
+
+
+------------------------------------
+
+
+
+
+
+
+
+1920-09-27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1920-09-22
+
+
+
+
+						July 08, 2129
+
+
+
+
+						Robert Trejo, M.D.
+
+
+
+
+					17 Unicorn Way
+
+
+
+					Suite 353
+
+
+
+
+					Chickasha, NC 75156
+
+
+
+					Record date: 2129-09-22
+
+
+
+					Robert Trejo, M.D.
+
+
+
+
+					Chickasha, NC 75315
+
+
+
+					Record date: 2129-09-22
+
+
+
+								Robert Trejo, M.D.
+
+
+
+
+					17 Unicorn Way
+
+
+
+
+					Suite 353
+
+
+
+					Chickasha, NC 75156
+
+
+
+					Record date: 2129-09-09
+
+
+
+								Robert Trejo, M.D.
+
+
+
+
+					17 Unicorn Way
+
+
+
+
+					Suite 353
+
+
+
+					Chickasha, NC 74156
+
+
+
+					Record date: 2129-09-09
+
+
+
+								Robert Trejo, M.D.
+
+
+
+
+					17 Unicorn Way
+
+
+
+
+					Suite 353
+
+
+
+					Chickasha, NC 74156
+
+
+
+					Record date: 2129-09-02
+
+
+
+					Record date: 2129-08-27
+
+
+
+								Robert Trejo, M.D.
+
+
+
+
+					17 Unicorn Way
+
+
+
+
+					Suite 353
+
+
+
+					Chickasha, NC 74156
+
+
+
+					Record date: 2129-08-27
+
+
+
+					Record date: 2129-08-20
+
+
+
+								Robert Trejo, M.D.
+
+
+
+
+					17 Unicorn Way
+
+
+
+
+					Suite 353
+
+
+
+					Chickasha, NC 74156
+
+
+
+					Record date: 2129-08-20
+
+
+
+					Record date: 2129-08-13
+
+
+
+								Robert Trejo, M.D.
+
+
+
+
+					17 Unicorn Way
+
+
+
+
+					Suite 353
+
+
+
+					Chickasha, NC 74156
+
+
+
+					Record date: 2129-08-13
+
+
+
+					Record date: 2129-07-30
+
+
+
+								Robert Trejo, M.D.
+
+
+
+
+					17 Unicorn Way
+
+
+
+
+					Suite 353
+
+
+
+					Chickasha, NC 74156
+
+
+
+					Record date: 2129-07-30
+
+
+
+					Record date: 2129-07-23
+
+
+
+								Robert Trejo, M.D.
+
+
+
+
+					17 Unicorn Way
+
+
+
+
+					Suite 353
+
+
+
+					Chickasha, NC 74156
+
+
+
+					Record date: 2129-07-23
+
+
+
+					Record date: 2129-07-16
+
+
+
+								Robert Trejo, M.D.
+
+
+
+
+					17 Unicorn Way
+
+
+
+
+					Suite 353
+
+
+
+					Chickasha, NC 74156
+
+
+
+					Record date: 2129-07-16
+
+
+
+					Record date: 2129-07-09
+
+
+
+								Robert Trejo, M.D.
+
+
+
+
+					17 Unicorn Way
+
+
+
+
+					Suite 353
+
+
+
+					Chickasha, NC 74156
+
+
+
+					Record date: 2129-07-09
+
+
+
+					Record date: 2129-07-02
+
+
+
+								Robert Trejo, M.D.
+
+
+
+
+					17 Unicorn Way
+
+
+
+
+					Suite 353
+
+
+
+					Chickasha, NC 74156
+
+
+
+					Record date: 2129-07-02
+
+
+
+					Record date: 2129-06-25
+
+
+
+
+								Robert Trejo, M.D.
+
+
+
+
+						17 Unicorn Way
+
+
+
+
+						Suite 353
+
+
+
+
+
+						Chickasha, NC 74156
+
+
+
+
+
+						Record date: 2129-06-13
+
+
+
+
+
+
+				Record date: 2129-05-14
+
+
+
+			Record date: 2129-03-8
+
+
+		Record date: 2129-6-5
+
+
+
+	Record date: 2129-2129-date: 2129-2129-date: 45 
+
+
+
+
+		date: 	2129-29-29-129-129-date
+	19-19-date: date 129-1-12-21-1-date: 1-date: date:19-19-date,9-19-9 9-9-date:1-9-date:19-date-date 9-date-1-date.
+
+19-date
+1-19-date
+Date:1-date:date 19-date:11200, 1 date. The date 11-1 1-dates 
+1-date 1, 1-1 date, date1-date:19:19-date-date-date 	12. 10, 1-01-1-date 
+
+(1150 names and 	let, and date:1 	, and date and date 10, or 10 and the date 3. In the date.
+
+(1 or the 35, the date names, 31, 5, and 1, and... and, 10,...the 1-1 or 0, or are (name, name and 1.
+
+and 1.
+1-1.
+
+
+names.
+names, names, but 5. and name...
+name: the:
+[name: 1.
+you (...
+1: (
+(name and name, or:
+le, and:
+le: 20, orate-120 (10, and... by the name:  or and the are (are 9-and names, 10. In the patient, or:  or:
+le-11, or the and 0: 3 of " 3, but (and-
+… are…
+
+ 
+(
+are... 1  and the and, 1...
+and and and or [1...
+1-1, the... 12, a and [1, or, and, and, “, the, a (
+1...
+.
+and, [1, and a few, and are (1 or (are and, 4, 6, the are, [20 0, a, 3 and, [and, the ([
+
+: (
+: 1. 10. 
+1.10...2. 0-30 are...12 90 are [0, the [0 and or (1 or or [[2, a... (11, anis, (le, 1. of the. 2. 2 and, and, and, an, 3, an, an have a or or, [are or an (an, or an, ( an [an or, an, an, and, an, an, an, 2, a (an and an, and, 1, 1, an an (and, an (00, or, 2 or of, an 0 or, and (in and, 10 and, a are " 1, the, the, a and the 1, 0, the, the [30 or, an, an (make-1-20 and ( [: 00-0-3-le-1 or [(0 in the or " and [ [( or-  and 4-1-  ( an [ an (0 (an: the: 0-2 or [00-0 or-2 or-2- 1 [. and or in [ of the- or an of. [.  (  [[ in [ and ( and [, and [ and at the [ and are, ( and and and by [0 or by our [an-d- ( [, and, ( an [ ( and [ in and an and or, [ an- an ( [ and - or 0 or 0 or  of an of a in an in and or and and and, or and and and and in and an ( an of [ an of the [ of the [ and of " an-an ( [ in an in- an in, in in of an and of  an an or or or 0 or 2,  or or [ ( or or an, of the of the of the of  of an of,  and in an  an an [.  and 0 or [ or and and-  or of and ( ( 1- 0 an [2- [ an or- or or - [ and, an and ( [, and  or and an, or and ( of a of [ ( an, 0 in (. of the and 0 or. [ (0 of, ( or for, or ( and- an (0 and and, an, an of, [ of the of ( of of, of, and, of, of an of the or ( for, an ( for, or [. ( [ [ and and. and ( and  and in an or ( ( and (-0 in ( ( [ ( [ and  ( ( [- or or, ( 1- or. an-0 (- ( ( ( " [ ( [  or [ ( or, or  ( t in - or and for and and- for  for  of ( or of the [ ( - (- ( ( ( or c. c. ( ( (. 0 ( ( c. [:  ( C. and:  ( [.  ( ( [ or- or and-  of [ (- or 0 or ( or 1- or in and or or or ( or ( ( of an of  of ( of, of [ of the (  (. ( to  (,, to to, or t ( of or of,0 of of and of of. of  of of (  of ( for (. for  (. ( t (  to ( [ ( to and to [ to, to  to ( t ( to. ( to to and, ( and,. and ( -  of, of, t (., ( ( (. ( ( ( t (. ( or to of [0 to. of  t ( t, [ [ [.  ( ( and [ t ( and for, t of, 0  [ ( c0,. [ [ and or (, ( [. ( ( to, [, [ ( ( and ( ( (, and, ( ( and. (, ( and. ( ( and,, and ( ( t and or and in. ( (, ( and,. ( and, and,, to ( to ( to, to ( ( and ( ( ( (. or of,,  of of, ( w ( or,  and, and ( t and t t, ( of a ( of, of  of  and and and (, ( ( ( and ( to ( [ - t to [ t, and to, (, and ( ( ( ( t in and, and or and ( [ of and of and (, [0 and of [0 t ( w or ( and ( ( ( - ( ( [ ( (. [ ( ( [ ( C ( (, ( (,, ( ( ( [ C ( and, - [ and, ( and, or  ( W - of [ of, and ( [ of, C ( ( t ( ( [ ( ( [ and, and ( ( [ (, (, ( ( of (, ( (,,, ( (, and and in in as and ( or ( (, ( ( of, of, ( ( of t ( of [ [ of, and to of ( of of of and of of of of of of of of of of of and of  and to to ( to (  and to, to to, and  of to of of of ( ( ( and ( ( ( ( ( and, and and, and [, [ of. of

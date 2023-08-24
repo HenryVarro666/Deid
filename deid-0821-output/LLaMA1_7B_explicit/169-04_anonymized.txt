@@ -1,0 +1,253 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2081-09-15
+
+
+
+	CARDIOLOGY
+
+	
+
+	FORT WASHINGTON HOSPITAL
+
+	
+
+
+
+	Reason for visit:
+
+   consulted by Dr Dunham for continuity of care s/p cabg
+
+
+
+	Interval History:
+
+   This 53 yo male was referred with DM and CAD who today underwent CABG and CEA with Dr Dunham. Specifically he had: CABG x 3;  LIMA: Pedicle (IMA) to LAD-Mid Saphenous Vein: Ascending Aorta to Diagonal-2nd Saphenous Vein: Ascending Aorta to Diagonal-3rd; Coronary Endarterectomy.
+
+
+
+He was in his USOH until several months ago when he first noticed lower extremity edema and activity intolerance. Symptoms waxed and waned, but eventually progressed so he was experiencing daily SOB and fatigue with usual daily activities such as walking or working around his home, and worsening LE edema up to his knees. He sought evaluation from his PCP 3 weeks ago was and found to have severe cardiomyopathy with LVEF of 25% on stress-MIBI. There was global hypokinesis. Perfusion images suggest a small distal anteroapical scar and moderately dilated LV (both new since 2076). There was no definite evidence of ischemia, although it is noted the patient was unable to achieve 85% MPHR due to poor activity tolerance. 
+
+
+
+He was started on Coreg, as well as Lasix which has been uptitrated from 20 to 60mg qd, with subsequent 12-14 lbs weight loss. His lower extremity edema is markedly improved, and activity tolerance is moderately improved. He can perform basic ADLs such as dressing and bathing without difficulty. Walking, especially inclines, climbing stairs, and carrying parcels will cause SOB. He still feels fatigued throughout the day. He has no orthopnea, PND, abdominal distension, early satiety, abdominal pain or anorexia. He reports BPs are much improved with the addition of Coreg, even as they are running 130-150s/80-100. 
+
+
+
+	Past medical history:
+
+   1. DCM, diagnosed 7/81. 
+
+2. HTN, long standing, poorly controlled. 
+
+3. DM, onset ~2074. became insulin dependent several months ago. 
+
+a. Retinopathy and cotton wool spot. 
+
+b. No peripheral neuropathy. 
+
+4. Renal insufficiency, creatinine 1.6. 
+
+5. S/P CVA, L putamen, ? cocaine related. 
+
+6. History of cocaine abuse, last reported use 2078. 
+
+7. Obesity. 
+
+8. Sleep apnea, untreated. 
+
+9. Hyperlipidemia. On low dose statin. 
+
+
+
+	Family history:
+
+   Father had HTN, stroke age 45. 
+
+Mother had HTN. 
+
+No known coronary artery disease, arrhythmias, SCD, heart failure, cardiomyopathy in immediate family members.
+
+
+
+	Social history:
+
+   He is married, with 3 young adult children who are A+W. He was formerly self-employed as a CPA and would often travel worldwide. He stopped doing so after 2075 so has no recent travel out of the country. He is now employed by Applied Industrial Technologies as an accountant. 
+
+
+
+Habits: Denies any history of tobacco use. Although he denied illicit drug use, his chart review revealed above noted history of cocaine abuse. He subsequently admitted to prior use, i.e. at parties while traveling. He denies related excessive ETOH use, use of other illicit drugs, or high risk sexual behaviors. He admits to 3 drinks per week currently. 
+
+
+
+	Review of systems:
+
+   As detailed in HPI. He has never had chest pain or pressure, palpitations, irregular heartbeat, presyncope, or syncope. He denies having had fever, chills, or acute viral illness preceding onset of symptoms, recent travel out of the country or history of tick bites, hepatitis, or TB. He has no known thyroid problems. Remaining ROS noncontributory. 
+
+
+
+Physical examination:
+
+	
+
+-General:   Obese WM, somewhat anxious appearing in NAD. Intubated/sedated
+
+-Skin:   No rashes, nonicteric.
+
+-HEENT:   NC.  No scleral icterus.  MMM.
+
+-Neck:   Short neck.  Carotids +2 bilaterally, no bruits.  JVP assessment difficult due to body habitus, ~ 8-9cm H20. 
+
+-Chest:   Clear to percussion and ausculation. median sternotomy bandaged.
+
+-Cardiac:   RRR; no rub
+
+-Abdomen:   Obese, soft, NTND, no fluid wave.  Unable to appreciate liver edge.  No palpable masses.
+
+-Extremities:   Somewhat cool distal to lower shins, with trace pretibial edema bilaterally. Good femoral pulses, no bruit.  PT pulses intact.  
+
+-Neuro:   sedated
+
+
+
+	Assessment and plan:
+
+   53 yom with DM and CAD now immediatey s/p CABG.
+
+
+
+At this point routing CABG post-op care; will follow with you. 
+
+
+
+As he weans off support would resume his usual regimen of meds. 
+
+	
+
+Sherrill Gaines, MD pager #36466
+
+	
+
+Signed electronically by  Sherrill Gaines, MD
+
+Document Status: Final
+
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+2223806271025007308011981189122400558205946284109894651093038572578247023243586216973796933048184486287516022842892129380024716041673973821504839992451148102670933615210557264452318701848179813114205128918329926394867209553901679278557581728009188034052191382197863912003228577158116132406871663605871591845719014430926747960330271595003923123880308303734845039548484020488372869335727579721376477333433670093216534977874968106532017093890327591781619735749217748372964173057261236881098681052892819202149018874563110470960413528664564517703231321943213223221323232222222222222223222222322222222222222220222122222422221222222242022222242222222222222225622222222222222 1914 222231222 
+
+
+
+
+22222222312222 11222 222221222222 patients 1222222 patient names, or patients. 2 patients. 222222 patient and the name (date 2222, or a 1.
+
+
+patient 
+1 or 1, 1 patient.
+
+12 patient. 1.10, 2 patients, and a patient specific, or a, including 5
+or...1, 12, as the patient names and the 1 or... or name, and 22 1 and 8, and, and 1 and a, or a... 8 or 5, and a few, and 15 or the 40 (2, as the patient names, 15, and:
+...
+...the...
+... and remove the patient names of your name of:
+you, you, including and the following (...: 00...
+
+are: 0: [[
+[… 
+
+
+12 or the 10 are the "1 or the 0: the are (not names in order, the or, 
+follows and 1 (1, the: 1 or ( 
+(1, “the… 1, a... of 12 (are of the, and 1... 
+are, as 20, 
+(
+... The and and a, 0. An, 1. An, and, or and, and, or, the, 2, 1, [1, the 0, by... and 0 and the, and and and 2 and 0, (1, and, and 2, and are, 
+, and 0- of  of 1, 1: 3 and: 4-
+an-the,... 1: 3 "1 and “...an 3... an 1... 	 are-name are in a 1 that 11, a or by " 1, 1... an 2, 1, and, 2 of the [. of 1, 2 an, or 1, an 2 are, 1 or are, an an would... 2 or an ( 1-1, 2, 0- 2, 6, an an 1. an, 1, and, and the or an, an an and or an, an an, the an 0 of [0 and, of the an, an an 2,  and, an are or, and, an (pat an,  and, 1, (an, 0, an in ( an, an, 1, an (an: an and and: An: an: and: the 1 in the and: 1: an and [ and ( an: ( an: ( 1 " an in [1 or an: by the an in an by an ( by a- an an: in an in a ( an are (  are in- [  and and [ an, 1 ( of the of " of  and of.. or an and [[ [ [ or 1,  and [ and an [ an [ an or are- or or and  and and  or, an [ 0 [ and an of ( an  are (  An An An An An  and  an -  or of  or,  and an,  of the of, of [ of  of the of,,  by  in  and and, with the [ of an of an of an of the of an or of [, or or are,, or- and  or and or an of  of  of the (  ( ( or and or an [ an [  and of and,  of an of the of  of  of (  of an an  or  and, in,  of,  in or  or in and  an of  of the for-  and an in or x-  of - and - and an of or, and and or or ( [ [,, and and or- or- and (, or, an or in ( for or ( of an or ( of, an of  and for of, or, ( ( ( an- ( and, of of of, of of  of, and of and of and. and and  and, and  ( and, or c, and [, [  and, [  and. an. and and and  [ an  ( and of  of x - an [-  (  ( or [ x [ or an or- and (- [ or " or (, or an or and and or- and- c in or  or c in- and and in and of the, or of  and of of  and ( -  and and and. c- [ and- or- and "- :: C- and,:  and.  and. or or... and.- ad- of " of and of  - or of-  " ( or- [ (- an or or,, of an of or of of an of of (  to or. to or  C.- or and- to, C (. or, (, of to of and of of of to of an to of to (- and- and ( and- as C,  and and and and and or ( and, and- C- or -  and ( or and and C and c, c or or of and of  of and of c C  of c- and and and c, or C C or and and c- C-  c of of or- an- or or- or and, A- an- (  c- C or and and and ( and and,- and or,, and c and, and and C. - and or t,, or or-ac an or,, or in,, ( C and, c and and- and a and and a ( a, C., and c,.,,.,- C- C or-,, C,,, or c c, (. and and (., and, and and (, (,, ( c,, (, (,, / of C of an of, C of  A C H.  of of A for,.. and C, as and,, C, C, ( C S or or or A- in.,,  in, ( C ( (, C A or ( C/ and. or A C C C ( C ( b and c (, and of (- A (. and and and - and and C and and and, and- and ( in [, and and C- [, and ( - or, C, (0 -, C and, and, and and and, and, and ( and, and -, and, ( (,, (, (, ( C, (.,- and ( and, and and or as C (, an,, and, - [,-  as..,, or ( and [ and and and, and, and, ( and., and of and, and, and. and - (, and,  and or C,/ or and C,. and or or C ( and ( of and and - c,- and, -, and or, and, 

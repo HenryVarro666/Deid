@@ -1,0 +1,464 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2070-11-04
+
+Neurology EW Resident Consult
+
+
+
+ID/CC: 59 RHF decreasing visual acuity
+
+
+
+
+
+HPI: Ms Uher was doing well until 8/70 when she she was noted to have several "staring spells." At the same time she had increased gait instability leading to admission to SLMC. A head MRI was reportedly normal. She improved and was discharged without treatment or diagnosis. At that time she also noticed subtle decline in visual acuity and eye exam confirmed this. She was told that this was caused by her diabetes. Her vision continued to worsen and she was treated with laser OS. Over the past month her balance has worsened nad her vision has continued to deteriorate. She reports severe HA in 8/70 but none recently. She was seen by ophtalmology at SGAH and noted to have optic disc swelling, cotton wool spots and hemorrhages. She was sent to CCH EW for evaluation.
+
+
+
+
+
+ROS:She c/o painful dysesthesia and weakness BLE (lonstanding). She denies HA, tinnitus, vertigo, numbness, fever, chills, cough, nausea, vomiting, chest pain, palpitations, shortness of breath, heartburn, constipation, diarrhea, dysuria, incontinence, or rash.
+
+
+
+
+
+PMH:
+
+ear infection spring 2069 requiring IV abx (?mastoiditis)
+
+type 1 DM x 38 year {retinopathy, nephropathy, neuropathy
+
+arthritis, tendonitis, capsulitis
+
+hypothyroidism
+
+hypercholesterolemia
+
+
+
+MED:
+
+Insulin NPH 12U qam and 9U qpm
+
+Insulin Reg SS
+
+levothyroxine 200 mcg qd
+
+Epogen 3x/wk
+
+
+
+ALL: NKDA
+
+
+
+
+
+SH: Retired, lives alone in Cape Cod, denies tobacco and alcohol
+
+
+
+
+
+FH: type 1 DM
+
+
+
+
+
+VS: T 98.8  HR 86  BP 157/94  RR 16
+
+
+
+
+
+PE:  Genl 	WD WN WF mildly agitated NAD
+
+HEENT 	AT/NC, MMM no lesions
+
+Neck 	Supple, no thyromegaly, no LAN, no bruits
+
+Chest 	CTA B
+
+CVS 	RRR no MGR
+
+ABD 	ND, +BS, NT, no masses, no hepatosplenomegaly
+
+EXT 	b/l olecranon nodules, swollen fingers, no edema, distal pulses full, no rashes or petechiae
+
+Rectal 	deferred
+
+       Neuro
+
+  MS:	disorganized thought (s/p ativan), speech fluent, flat affect
+
+  CN: 	I--not tested; II,III--pupils pharmacologically dilated right sluggishly reactive and left non-reactive, VFF by confrontation, b/l optic disc swelling with small hemorrhages and cotton wool spots; III,IV,VI--EOMI, no ptosis; V--sensation intact to LT/PP, masseters strong symmetrically; VII--face symmetric without weakness; VIII--hears finger rub; IX,X--voice normal, palate elevates symmetrically; XI--SCM/trapezii 5/5; XII--tongue protrudes midline, no atrophy or fasciculations
+
+  Motor:	normal bulk and tone, no tremor, rigidity or bradykinesia, no pronator drift.strength:
+
+                  Sh abd
+
+
+
+
+  SX:  Dysarthria, dysphagia
+
+  RX: 	Betahistine 12mg qd +/- Nuedexta 50/12.5mg q6h prn
+
+
+
+
+  OTH: 	No
+
+
+
+
+  DX: 	CCH EW for evaluation
+
+
+
+
+  IMP: 	CCH EW for eval
+
+
+
+
+  H&P: 	CCH EW for eval.
+
+
+
+        Labs: 	WBC 10.3  RBC 3.57  Hg 12.5  Ht 35.7  CR 10.6
+
+
+
+
+       Rad:
+
+  CTA B
+
+  CTAB
+
+  CTMA
+
+  CTR 2x
+
+  DWI 3x
+
+  MRA 2x
+
+  PERC 5x
+
+  PET 2x
+
+
+
+       Mnemonics: 
+
+  MMM
+
+  MMM
+
+  MMM
+
+  MMM
+
+  MMM
+
+  MMM
+
+
+
+
+     Dx: 	CCH EW for eval
+
+
+
+
+       Diag: 	CCH EW for eval 
+
+
+
+
+       Plan: 	CCH EW for eval
+
+
+
+
+  Mgt: 	CCH EW for eval
+
+
+
+
+       Notes: 	CCH EW for eval
+
+
+
+
+       H&P: 	CCH EW for eval 
+
+                  EOMI, no ptosis; V--hears finger rub
+
+                  Dysarthria, dysphagia
+
+                  Sh abd
+
+                  CCH EW for eval
+
+                  Lumbar puncture 15mL clear, WBC 8,000 (68%) RBC 380,000 (40%)
+
+                  MRI CTA B
+
+                  MRI CTMA (Mildly hyperintense)
+
+                  MRI CTR 2x
+
+                  MRI MRA 2x
+
+                  MRI PET 2x (Normal)
+
+                  MRI PERC 2x
+
+                  MRI PET 2x (Normal)
+
+                  MRI CTA B
+
+                  MRI DWI 3x (Mildly hyperintense)
+
+                  MRI PET 2x
+
+                  MRI PET 2x
+
+                  MRI DWI 3x
+
+                  DWI 3x (Mildly hyperintense)
+
+                  DWI 3x (Mildly hyperintense)
+
+                  MRI PET 2x
+
+                  Lumbar puncture 20mL clear, WBC 680 (40%) RBC 72,000 (57%) 
+
+                  MRI PET 2x
+
+                  MRI DWI 3x (Mildly hyperintense)
+
+                  MRI DWI 3x (Mildly hyperintense)
+
+                  MRI DWI 3x (Mildly hyperintense)
+
+                  MRI CT2 2x
+
+                  MRI CTR 2x
+
+                  MRI CT2 2x
+
+                  MRI CTA B
+
+                  MRI DWI 3x (Mildly hyperintense)
+
+                  MRI CTR 2x
+
+                  MRI CTMA (Mildly hyperintense)
+
+                  MRI PET 2x
+
+                  CTA B
+
+                  MRI CTMA (Mildly hyperintense)
+
+                  MRI CTR 2x
+
+                  MRI CT2 2x
+
+                  MRI CTR 2x
+
+                  MRI CTA B
+
+                  MRI CTR 2x
+
+                  MRI CT2 2x
+
+                  MRI CTA B
+
+                  MRI PET 2x
+
+                  CTA B
+
+                  MRI CTR 2x
+
+                  MRI CTR 2x
+
+                  MRI CTR 2x
+
+                  MRI CTA B
+
+                  MRI CTR 2x
+
+                  MRI CT2 2x
+
+                  MRI CT2 2x 
+
+
+
+                  MRI CTA B
+
+                  MRI DWI 3x (Mildly hyperintense)
+
+                  MRI RNA 2x
+
+                  MRI CTA B
+
+                  MRI CTR 2x
+
+                  MRI CTA B
+
+
+                  MRI CTA B
+
+                  MRI CTA B
+
+                MRI DWI 3x [3]
+
+                  MRI CTA 2x
+
+                  CTABs. 
+
+
+                   
+                ALT
+                  MRIFy 
+
+                 names, etc...
+
+                 and...
+                 and
+
+                
+                
+               ...
+                 or
+
+                  and
+
+                   
+
+
+                
+                
+
+                 
+                
+
+
+                
+...
+
+                
+\begin...
+
+ 501
+                
+
+
+1
+
+... 
+1220, 
+
+ 3D
+
+
+
+
+
+                 or
+...
+
+...
+
+
+
+
+
+names.
+words.
+
+
+
+
+
+
+
+
+
+
+
+
+11,2-3
+
+
+
+
+
+
+
+The 
+and, or...
+or.
+...15523...
+
+...
+
+letters, names of...
+
+...
+1
+names...
+1 patient informationally.
+date...or...
+
+
+
+
+
+
+[12 or 
+
+[10 lines 2.
+
+deline... names, please and the doctor's names, patient and the name and names  and the names...
+the...
+or and names, and the patient names
+or of the... 
+
+(
+... 1...
+(name and date and name, but the... or [the date, or the names (10... (...
+[the, and 10...
+are and [... or the date...
+or names, oratory.
+[0.
+
+name 
+patient (name or name (d, or [10: the day 4 (2 and names of 8 names, patient-names with names below, 12:
+The...: the...:…
+patient of... are...
+are are [... are (… and, and name and are:…  or... and are [are the [[
+remove or the... and 
+(follow the (…, orific, and... [
+
+the, 
+make a "
+the, “the... 1 of the 1 (1 and... the and... are are,
+... [name-1, and 
+... and the… (and, or [, and or the [1, but, and, 
+...
+, or, the [, 1, the,. 1 in the, and, and, and the 
+, 0, but 1, 1 (0, 4, are and, and include, as a of the are the of the,
+...
+(12-11:
+[:...with (make the...with: 11 [2 "… an 3:0 [are 11...2-re are are are, are of a... 0 or and " [or or, 2, the, the, "des or, and, 2 [. of the. ( and of and, an, and, and and 4, but by a are 1 are or might, are, an (and, ( and the [2 or, an, anine, an or, 1, an and, 9, an, 1,  and (c, an and, an, and or or, and,, 2, of the,,,, an and the or or and 1, an, and, and, the, an, an and, (, or and the, (an and,, " (and, " (1: (and and, or and (: an of " [: and, :: an-1 ( and [: the: the an: " or and in: 1 (::: an:::  and ( " an or and: an with an ( an and " or an of the and or " are and "-  are in or an and ( and (. of an of of " of the and and the [ in,,, and, and,,, [, [ [ or or, in and [ in [ and [ or,- (, or an (, are- and in  ( and and- an and ( and are an, and, and  and and ( and, or- an of or of or, ( of ( of a of the of  of, of " or of a - and an,, an- and and- an of the of our ( of of of “ of the  and ( and  (,  or ( or an or, are of, in  of the of,,  or, or,, - an or and or- in of or- of  of  of the of and of the of, an, - or an or and in, in in the " in  of or or, or of,, ( and, an- (, of the-2- to (- or or or of,, ( or, and and and and or ( in in  in, or, or, - or, an or of, of, and and, ( or of,  ( that " that, that 0 and " and to or of or and of or, of and of of  of ( of of  and of the..  and,, and or, or to and and, and to and  and to -1 of an ", -c in- ( - and and, and- to- to,  to    and- " and or- E or " to to - and and, ( and to in ( and and or - e- or or,- and- or, (,  of  or to to ( and, to and to and and ( to and or in to ( (: and to - " and and ( c and to to or as to to and to  and and and: - ( ( c - and-1- and " of or of and and ( to-0 or- and an and- and- that or and of, of to of, to or and and or and of to and- E- to and and or ( or in or, ( of  and or of of of of of of- of of or of. E- B and,- ( C - and E- and ( and and in and ( or in, - and or  and and ( or and, and- ( E- [ or ( of of (- of of-  " ( or- and and C and and and and or or, ( or, and of,, or of or of, - or and,, or [ and - E ( ( [ ( or and,, or and and ( and, and ( and- and- and E/ and and,, and or or ( (, -, and or and, and. ( ( E (,  and, or. and,- (, -. and, and,, and - ( W, and,,  and (,,, and,,, [, (, -,,, W, -  ( and [, of-,. [, and  and [, or. ( and, and,, [1 -  to and  and,,- and,, ( and, ( to, and,,, -, to,, N, and to,, and in and in,,. and and-M and and, [- and to and. to  ( or. to ( C- and C and- ( and- or, - (, and- to (, and or, and C- - P- - and, and [ and " (  - (  (,  P to "0- to - N C. ( and -, or and ( ( to and to and.,, - ( and. and, and to and and, or,, (, or or to, ( C- to, to to to,  of,- of c, or, (, (,  ( ( - and, and.  or - to c  and in of, P or and C or,, and ( C,,. to  and to to to ( 0 and (,, C M C and C or and and,,, to, to, to to

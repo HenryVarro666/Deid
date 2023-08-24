@@ -1,0 +1,489 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2084-12-27
+
+ 
+
+
+
+JAR Night-float Admission Note
+
+Internal Medicine
+
+
+
+Patient: 			Mae Paul	
+
+MRN: 			1005708
+
+Date of admission:	12/27/2084
+
+Renal Attending:		Dr. John
+
+
+
+Cc: cough, SOB, failed Z-pk x2
+
+
+
+HPI: 
+
+Pt is a 73yo female with ESRD on HS s/p kidney transplant x2.  She has had a cough for over the past week.  No fever; no sputum production. Also reports 1 day of sore throat, now resolved and nasal congestion forh te past week.  Her grandson (age 4) has had a cough/head cold.  Her daughter is a surgeon and has prescribed her a Z-pk x 2 which she has failed and yesterday gave her a dose of levaquin 500mg on 12/26/2084. Last HD on 12/22; missed on 12/25.
+
+	On presentation to the ED her Vs were: T=97.9 P=118 BP=173/93 sat=91%RA. Saturations decreased to 91%on 4L in setting of SBP to 221/119.  She was treated with IV lopressor 2.5 x2 and lopressor 12.5 po. Saturation improved to 95%4L. Renal team evaluated her and she will have dialysis this am. She was admitted to floor for further evaluation.
+
+
+
+ROS: as above. No chest pain.? Wheezing today. + SOB. No N/V/D. No rashes. No HA, muscle aches. + fatigue/generalized weakness.
+
+
+
+PMH:	
+
+1.	ESRD 2/2 GN on HD; Status post left and right kidney transplants 2078 and 2075, which have failed. Off immunosuppressive for the past 4 years.
+
+2.	Htn
+
+3.	PVD: Lower extremity PVD.  This was shown on angio 9/83 (Dr. Xayasane), but she denies claudication.  
+
+4.	R foot drop  due to shingles
+
+5.	hemorrhoids: Five- to six-year history constant anal protrusion and bloody discharge and mucus nearly constantly (wears a pad).  No anal pain. No rectal surgeries.
+
+6.	Status post supracervical hysterectomy (no BSO) for benign disease. 4/82 underwent left salpingo-oophorectomy for serous cyst (Dr. Sutton).
+
+7.	Status post appendectomy.  
+
+8.	8/81 she was treated for CMV colitis.
+
+9.	Spinal stenosis and sciatica.  
+
+
+
+Current Meds: daughter not present; need to verigy meds/doses
+
+  	Pravachol
+
+  	Norvasc
+
+  	Phoslo
+
+  	Nephrocaps
+
+  	Neurontin
+
+
+
+Allergies:
+
+Vasotec
+
+tape
+
+
+
+Fam Hx:
+
+NC
+
+
+
+Social History:
+
+Retired Mathematician at Vassar.  Widow.  Lives alone.  Has daughter in the area (a surgeon).
+
+No smoking.
+
+
+
+Physical Examination:
+
+Exam:  	VS:	T=99.7	HR=101 	BP=159/88	RR=22	SaO2= 92%6LRA
+
+General:  
+
+HEENT: NC/AT,  PERRL, anicteric. OP w/ DMM, no erythema or injection.
+
+Skin:	No rashes
+
+Neck:  	Supple, 2+ carotids w/o bruits, no thyromegaly or nodules, no nodes
+
+Chest: 	inspiratory crackles in right lower and mid lung fields, left side clear, no wheezing
+
+CVS:  	RRR nl S1 S2, no m/r/g
+
+Abd:  	nl BS, soft, non-tender
+
+Extr:  	no c/c/e 2+ DP's bilaterally
+
+Neuro:  AAOX3, MS nl  
+
+
+
+Data:
+
+Chemistries:
+
+          	12/27/84  	12/26/84  
+
+          	00:46     	16:08     
+
+NA        	139       	138       	          	          	          
+
+K         	4.9(H)    	5.6(H)    	          	          	          
+
+CL        	100       	95(L)     	          	          	          
+
+CO2       	24.4      	21.8(L)   	          	          	          
+
+BUN       	122(H)    	110(H)    	          	          	          
+
+CRE       	12.7(H)   	11.7(H)   	          	          	          
+
+GLU       	100       	109       	
+
+
+
+          	12/26/84  
+
+          	16:08     
+
+CA        	10.1      	          	          	          	          
+
+PHOS      4.0       	          	          	          	          
+
+MG        	2.1(H)    	          	          	          	          
+
+TBILI     	0.3       	          	          	          	          
+
+DBILI     	0.1       	          	          	          	          
+
+TP        	8.1       	          	          	          	          
+
+ALB       	3.7       	          	          	          	          
+
+GLOB      	4.4(H)    	          	          	          	          
+
+AMY       	114(H)    	          	          	          	          
+
+LIPS      	3.9       
+
+
+
+          	12/26/84  
+
+          	16:08     
+
+ALT/SGPT  	12        	          	          	          	          
+
+AST/SGOT  	21        	          	          	          	          
+
+ALKP      	221(H)    	          	          	          	          
+
+TBILI     	0.3       	          	          	          	          
+
+DBILI     	0.1      
+
+
+
+          	12/26/84  
+
+          	16:08     
+
+CHOL      189(T)    	          	          	          	          
+
+TRIG      	224(H)    	          	          	          	          
+
+HDL       	65        	          	          	          	          
+
+
+
+Heme:
+
+          	12/26/84  
+
+          	15:52     
+
+WBC       	8.1       	          	          	          	          
+
+HCT       	37.7      	          	          	          	          
+
+MCV       	81        	          	          	          	          
+
+PLT       	326       	          	          	          	          
+
+METHOD    	Auto      	          	          	          	          
+
+%NEUT     	81(H)     	          	          	          	          
+
+
+
+Studies:
+
+CXR: PA and lateral chest 12/26/2084
+
+Comparison: 6/15/84.
+
+There are small bilateral pleural effusions.  There is a new right  lower the lobe opacity which appears to the heart border.  This likely represents a right middle lobe pneumonia. There is atherosclerotic calcification of a tortuous aorta.  The heart is enlarged.  The mediastinal flow is unremarkable.  There is stable mild wedge compression deformity and sclerosis of the thoracic spine.
+
+
+
+EKG: NSR, nl interval, nl axis, resolved TWI isolated to III
+
+
+
+Assessment/Plan: 73yo female with ESRD presents with SB/ cough and RML pna on CXR.
+
+1)	PNA: levo 250 qod; RML lobe on CXR. Check sputum/blood Cx. Rapid flu neg; on precautions until final.
+
+2)	ESRD: Renal aware; HD in am 12/27; CA-phos product<50; cont phoslo.
+
+3)	CV:
+
+Ischemia: ? dynamic TWI: cycle enzymes, asa/ lopressor/ pravachol
+
+Pump: EF=66%; HD in am; lopressor/ norvac for BP
+
+4)	FEN: s/p kayexcelate in ed; watch K
+
+5)	Proph: Nexium, heparin
+
+6)	CODE: full
+
+
+
+
+
+
+
+_____________________________
+
+Elinor Keenan #10985
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Date: 43
+
+
+
+
+
+
+
+
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Date
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+December 8
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+  
+
+
+
+
+A
+
+
+
+
+
+
+
+
+
+
+
+
+ 	
+P
+
+
+2.
+1
+Day
+
+
+
+
+
+
+
+
+
+
+
+day
+
+
+
+
+
+12 days of 00
+   
+
+
+
+
+
+  
+
+Janu
+	20
+
+	
+  
+
+	
+ 		
+	
+	
+ 
+
+	
+10
+
+day
+20100:
+
+  
+ 
+
+
+.	
+0 2
+15 	
+		
+		Date	
+			
+		
+
+
+
+
+
+		day
+1 day 11
+
+	day
+
+	date
+A-
+
+
+0
+0 (1. A
+220
+45. 1, date date:3
+, but and an 325 and 3 day,20A25 	 0	A (11.
+:	
+
+
+: 121
+
+, 121
+
+.  : An:11
+: 1:
+2:	A: An. 63:	 	 19-31 date (1: [121011011, 119, 23: [11:
+: [ 
+:220-0, C An 	9. 	
+ - 2-1 - : An:	 5: 6
+10: An Anific - [ An. Anific
+ 24.1 1 day,03 44 1			 An An 0 0
+ 10, 100.30.  (10..1 (1,, the 2., 0,.0 and [8 An. 6, 0 and An An 1,10 10 (20- 11: 1-M: Anist An1-0/ 2. 12, anny [10/13 B0068366 An. An 5,63-0006000
+6 a -1. An.
+. An. 0. An 2-B a.0,1. 6 An C a. An (4 An (2 An, a - 8 Anian-10-2 (1, [.21 1-1  An a. An An. An. (8 and  a week a week, M week [1 m1-10-6.1 w.1 3 a-. (20-13-8-21.1., 2, 2: and::. ( 1 [ M month, an and...1,  : an : :.-2 An: -2 a - : An: an: An: a. An An C An An An: a [ 0. : 0::  a1. B. An : I: R-2 An 1 An1-1. 1 [0- -1:-11-1 ( [ ( - ( 1 - I- C- [1 a-B An W - I-0-M-B. W.-1 I 000 W -0 I1- 0 an --B. An1 An [0-P a M I C C C-0 C0 I C-0 I An-M - C --1- -  I-1-00-12- 2 week a- a. [- I and a- I a [ R- H1- I- W [1 I. - B-2-0- 2-0-c-  I [-1 [-1- [2 -2 a- is-1- I and- I. [ and. ( a- - a and-0-M- w-R.- C- P -1- -2 [-1 0 R on- -  - [- I-  -1 --3-1-  on and-30. --  - a-m week- - -c-0-M a in- m.- - H - on- m m- I- -0- - and - and of (- a-1- m-1 (1 and. a n,.  and and a m- H R- - a [- and [.- a. to. m to. I- C. a-1-  I R C. C- R - a-0 H-1 - -0 H C0- and -1-1 and:  [1.-11-10 [311 R a -1- H-  a  -0- P and.. -1. I H. C: H C a H C. - H1 R C P. L C1 H. C- 201 H- C L C C W- I L c a c-1- C L C- C R0 C- 2 C1 c1 C- H C R C H a C0- C1  [- H1 R a- H2 R-  a. C a-2 a [1.-0 on.-2 a-0- C on10 C. H-11 I1 and a1 and. and and [2-1 C. a c c. C3 W3 H 1 a and  and on- and H and-1..1 C C H4 a-1. C1 and H. F1 R C. C1 H. and. of. of a of.. R. C. C of  C. O R a and C. R. P11.01. I42. H. P and [ C- R. C- I [ C H I a C. R C01 H R1 40 [ C [ C01 R0 [. C- H (1 1  [1   C R and -. C. [1 [ C [ C R ( C (. R.2 C. and R ( C2.. [.  R C C. R1 R..- ( per. O1 R20 1 C. C ( a ( R F C. C C.  and. R. R C. R C. H  a ( R R R R ( C C...-1 (.. (  C  R1 . R R - R F- C. a -  R 22.2 ( C R4 a2. C C.1-2 F- H1 1- R C1 - C ( C - a R a2 0 1 R11 C11 C21 C H (2 C2 0. - C1 ( R1.2 -1 C0 H - (.11 - or R1 - C ( R - - 2 H - c ( ( C. C -1 C-2 C C C C -. ( C1 C -2  ( C 1- C. -1 - 1  C11

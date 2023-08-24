@@ -1,0 +1,362 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2087-12-05
+
+
+
+
+
+
+
+Beckley Appalachian Regional Hospital
+
+040 Townsend West              MOSS, DEREK
+
+Espanola, WI  85976                    59624156
+
+895-239-5445, 302-843-7619                     12/05/2087
+
+
+
+
+
+History of the Present Illness/Chief Complaint:  The patient is a 77-year-old man who is here with his son and daughter today, acutely ill with multiple acute medical problems.
+
+
+
+Medications:  Per the list entered on the computer today, a total of 28 medications and accessories.
+
+
+
+Allergies:  None.
+
+
+
+Past Medical History
+
+	Surgeries
+
+       1.  Hip surgery.
+
+       2.  Cholecystectomy.
+
+       3.  Lumbar laminectomy.
+
+       4.  Left leg surgery.
+
+       5.  Bilateral cataract extraction.
+
+       6.  Prostate biopsy 2086, Gleason grade 6/10.
+
+       7.  Left skin cancer removal.
+
+
+
+	Medical Problems
+
+       1.  Septic arthritis of the left shoulder.
+
+       2.  Dislocated left shoulder.
+
+       3.  CHF with dilated cardiomyopathy.
+
+       4.  Atrial fibrillation.
+
+       5.  Insulin-dependent diabetes.
+
+       6.  Parkinson's disease.
+
+       7.  GI bleed.
+
+       8.  Diffuse arthritis.
+
+       9.  Prostatic cancer.
+
+       10.  Prostatic obstruction.
+
+       11.  Microcytic anemia.
+
+
+
+Family History
+
+	Family history was reviewed and is notable for:
+
+	CVD:  Positive.
+
+
+
+Social History
+
+Living arrangements:  He has recently moved from Ouagadougou.  He is living with his son and daughter-in-law in Harrisburg.  He has mostly been in the hospital over the last several months.
+
+Work:  He is a retired vocational instructor.  He had been with the city of Cadiz for 32 years.
+
+	Smoking:  None.
+
+	ETOH:  None.
+
+	Exercise:  None.
+
+	Diet:  Minimal, poor appetite.
+
+	Domestic Violence:  None.
+
+	
+
+Health Maintenance
+
+	Seat belts:  Always.
+
+Colonoscopy:  Has had but there are no records (may have been indadequate exam).  Endoscopy in 2087 showed gastritis.
+
+	
+
+	Immunization
+
+		Td:  Up-to-date.
+
+	
+
+
+
+
+
+
+
+
+
+
+
+Review of Systems
+
+       ROS reviewed in detail.
+
+General: Good mood.  No F/S/C.  Depressed with chronic illness, extremely fatigued.
+
+       Skin:  Multiple ecchymoses, extremely dry skin.
+
+       HEENT: no sore throat; no change in vision or blurring;
+
+       No change in hearing, ear pain, or  tinnitus
+
+Cardiovascular:  History of substernal chest pain, on longacting nitroglycerin, dyspnea on exertion, sleeps with the bed propped up and one pillow, chronic ankle edema, chronic AF.
+
+       Respiratory:  Dyspnea on exertion.
+
+GI:  Loose bowel movements multiple times a day.  Over the last week he has been having bright red blood.  He has had melena in the past, most recently grape jelly like clots of blood.  He has had anorexia.  No abdominal pain, no vomiting.
+
+Extrem:  Left shoulder pain, history of significant infection in the left shoulder, torn rotator cuff so that he is essentially unable to use the left arm.
+
+       Endocrine: no polyuria or polydipsia; one episode of sig hypoglycemia
+
+       Neurologic: no HA, visual change, seizure, or acute neurologic sxs
+
+       Psychiatric: depression; acutely ill
+
+       Hematologic:  Significant bruising and bleeding.
+
+       GU:  Urinary hesitancy, prostatic obstruction, prostatic cancer.
+
+
+
+Physical Examination
+
+General/constitutional:  Pleasant, alert, oriented, in acute distress, weak, has difficulty moving; nl affect
+
+Vital signs:  Ht 67 inches Wt (lbs) 154 BMI
+
+	BP 128/68 Heart rate 84, irregularly irregular RR12 and comfortable  w/out accessory muscles         Temp 96.3.
+
+Skin:  Dry skin, sallow pale, multiple ecchymoses, significant ulcer on the left shoulder in the subdeltoid bursa area with pus in the center and erythema surrounding it.
+
+Lymph nodes: no cervical, supraclavicular, axillary, inguinal lymphadenopathy
+
+Neck: supple; carotid upstroke good w/out bruit; no thyromegaly or tenderness
+
+HEENT: pharynx with nl mucosa w/out exudates; good dental care; conjunctivae noninjected; no scleralicterus; PERRLA; EOMI w/out nystagmus; pupils pinpoint, discs not visualized; hearing significantly reduced; TM nl; sinuses non-tender
+
+Chest: w/out chest wall tenderness; clear P&A w/out rales, rhonchi, or wheeze
+
+Cardiac:  In AF, rate of 80, palpable, PMI laterally displaced, soft S2, S4, 2/6 apical systolic murmur radiating to the left sternal border and to the axilla.
+
+Breast:  No gynecomastia.
+
+Abdomen: nl BS, no hepatomegaly/splenomegaly or mass; no tenderness/G/R;
+
+           abd aorta w/out bruit or palpable enlargement
+
+Extremities:  1+ pretibial edema.  No motion of the left shoulder ulcer as noted above.
+
+Neurologic: A&O; nl affect; nl speech; weakened left arm;
+
+	reflexes symmetric; plantars flexor
+
+Rectal: Copious amounts of blood in the rectal exam, loose sphincter, no prostatic mass.
+
+
+
+
+
+Laboratory data and Old record reviewed extensive records.
+
+
+
+
+
+Impression: Acutely ill gentleman w/
+
+GI Bleed
+
+CHF
+
+Hz L shoulder infection; currently w/ infected ulcer and limited ROM due to rotator tear
+
+DM out of control
+
+Multiple problems as above.  Long discussion with the family regarding previous care.  Acute problem today is massive GI bleed without clear etiology.  History of heart failure with significant weakness, shortness of breath, recent chest pain, nonhealing ulcer on his left shoulder, all requiring emergency hospitalization, and he will be sent to the BARH ER at once.  Long discussion with the family about this and his other chronic problems including diabetes and episodes of hypoglycemia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Plan
+
+Health Maintenance
+
+Diet and exercise counseling
+
+Further evaluation 
+
+Medications
+
+FU
+
+
+
+
+
+______________________________
+
+Ursula Yawn, MD
+
+
+
+
+
+
+
+
+
+
+
+eScription document:7-3720969 HFFocus
+
+
+
+
+
+
+
+DD: 12/05/87
+
+DT: 12/05/87
+
+DV: 12/05/87
+
+
+
+
+
+
+
+
+
+DX: 12/05/87
+
+
+DR: 12/05/87
+
+DG: 12/05/87
+
+DT: 12/05/87
+
+DGI: 12/05/87
+
+DY: 12/05/87
+
+DY: 12/05/87
+
+DO: 12/05/87
+
+
+DO: 12/05/87
+
+
+
+DY: 12/05/05/05/87
+
+
+DY: 05/05/05/05/05/05/05/05/050/05/05/05/45/05/05/5/045
+
+
+5/5/5/5/5, 0/0/5 and/5/5/0/05/0/0/10/0/0/0/0/0/0/0/0/0/0 s/0/0/0s/0 s/1/0/0/0.
+
+0
+
+0, 
+0 0/0/00 0/0 and/0 s/0 data. 0/0 names and s/20 s/name s/ s/s.
+
+1. This patient/0/0 or 19 and s
+
+The s/00 or s/
+or and
+names, or date s
+names, surning numbers, names with the 8 surning names
+s patient, but...
+
+
+
+The s the name of s, but the name (...
+name...the, the [… or the line, the line, but...
+The 
+[
+
+and the names.
+[1...
+1
+
+and... the [name, or the names, but the following, as...
+or name and a or the text.
+and a...
+
+d...
+patise...
+
+121... and:1:
+: [and the patient.
+
+name, and patient, as you: the [[name names of 1 (11 (1…: 3 (are the:
+ 0:1 orifiable-11 and: the... (the are the or (1:
+
+
+make the (not and a or, 1 of, or of [: or, or, “[the the, "0 and 1, " 0 and (the:...
+(1:1...
+1, a are... 1 [the [1... the (1 and, the, the... [ 1, and are, 5, “
+(1 orices, but, and...
+, a... and, 3, “[the, and...
+1.
+[12, and 0 and, the and the and, (2, but, and, the 1 are and, are the, and, the, and, and, [, 2, a (1 (1 and-and-an: and [1...: 0 "1: anist: and:
+ (1- are a are [re are " are in-are, are a-2 or, a... and or
+, the 11... or,
+, 3, an, of the of the. (. and, 2, an, a, 0 (are, and are the are 2-are- are a-1-3, an [1-an-an and (an, an, and-1, an an [and, an, an (an, 3, an and, 1 an 0, and, an or, 3, an-1, [, an, (an (2, the, and, "An, and, An, an, An, An (P An: An, Cite, an, 0: (1-2-1-An C: 1 an: [2 ([: An: 1,-an-d: (an ":-[: ( an-le: " [: an: an “(: an and an and: ( [: : " An: An " " An An and- [- (- [ [ are, [- an are and are- [ of the and of the of the,.... (. in [ in the (, and, [ and [ [ and,, An, [ [ and [ [ and " ( (- an an, ( [ in the and and "- or of the an- - - - and- an (,, and " [ " and and [ are-an or  and or an or an are of of an of and of and an " and in an,,, and  or, - an, of  of a, an of an- [ and of the (, [ an and,,, or from,, for- for an for an from or an and an an or, An  and, or an [, [ an an of the of the, of " of " of and an ( and and and [-, an an an,-  and  and  in and of the- or or- and,, 2- or or " ( - an, an an- for and, and,,,, or or,, an, and and, and  (, or, an or, an  or. of, or or  and for or of an of and for and 0,  and and and for and ( an an, of or of of, and of and of, of,, of of, an ( ( and an,,,, and,  (, 1,  and and and- W [1 or, or 1, and-0  or of (, or ( C [ C.  ( - An C and [ An An An An  an and  " [  ( An An An or  ( an (  an An in- or in  An  an  or or or- [ of of  ( of W.  c ( and and C. [ c. C in [ with: W of:  with : and ( [ C-  and ( C or- [ [: or and W-  and and W or C of [ of  ( and  and 0 [ and ( W [ and ( or or or- of [ of and of or of or and ( ( or [1- and W, and ( or [ and  and W in, ( or of of or or of of of, of-1 W. or,, and W (- W- or (, and [ and or, [ W or  or W W-  W- [ [ or- W ( and  (  or ( W W, of of  of and ( of ( W [1 and  ( or [ and W- W,, an of, w of W W of W and W ( ( and in, or and and- and  W and,  ( and,,, and 0,, and C and C and ( and for for W (,, ( or ( or, W and and or ( [ and- and C and and [  W- and  and- and, and in,, C (, W. [ and,- W and,  and  W W- W W W- W,, W, and,,,, and and, and and C., and. and (,  W W- W,,, C C of of, W W, w  (,, ( w, W or, and, W or- ( W-C,, W- and,, W [ W, W W W and W (. W in-b,  and or or and or W ( [ C W W [ W W. C ( or or- or,, C C C W or,. W ( [ and- [ - or and [ and- H- M or,., [, (,, C,. and " ( [- C and or, (- and, - C- and,- and and and of ( and, and,, -, and and, and, and (, (, [ - and ( or ( M _, C, of, and of and and C, (0 in C and and, -, and,, C and ( (, and - and, and, C and and, and, and and and and - ( or (,. and and ( M or and or ( and ( C,, [ C1, or,,,,, and, (,,0,, and,, and and

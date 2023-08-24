@@ -1,0 +1,332 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2080-02-18
+
+ 
+
+SDU JAR Admission Note
+
+Name: 	 Yosef Villegas
+MR:	8249813
+DOA:  	2/17/80
+PCP:  Gilbert Perez
+Attending: YBARRA
+CODE: FULL
+
+HPI:  70 yo M with NIDDM admitted for cath after positive MIBI. Pt has had increasing CP and SOB on exertion for past two months, seen at PCP on 2/03 with EKG showing RBBB. Pt was scheduled for stress MIBI today to eval for cardiac ischemia. MIBI was reportedly stopped 2/2 to chest pain, though pt denies having pain during procedure. MIBI was read as positive for moderate to severe inferior ischemia and pt was referred to the ED for admission and catheterization.
+
+
+PMH: 
+Seronegative Rheumatoid Arthritis 
+HTN
+Right Carotid Artery Dz 
+Obesity 
+Hyperlipidemia 
+Diabetes mellitus type 2
+
+Home Medications: 
+
+Acetylsalicylic Acid (Aspirin)  PO 81 MG QD
+Xanax (Alprazolam)  PO  BID
+Atenolol  PO 50 MG QD
+Enalapril Maleate  PO 10 MG QD
+Hctz (Hydrochlorothiazide)  PO  QD
+Metformin  PO 850 MG BID
+
+
+Allergies: NKDA
+
+
+Social History:  Smokes 2 packs per month, drinks 1 case of beer per month
+
+
+Exam:  	
+VS: T: 98.1  HR: 59  BP: 158/72  RR: 20  Sat:  97% RA
+General: Obese gentleman lying comfortably in bed
+HEENT: Pupils equal, round, and reactive to light, extra ocular muscles intact, pharynx clear
+Pulmonary: Clear to auscultation bilaterally, no wheezes, rubs or rales 
+Cardiac:  Irregular, no m/r/g, no jugular venous distension
+Abdomen: soft, nt, nd, normal bowl sounds
+Extr: Positive pedal pulses bilaterally, no cyanosis, clubbing, or edema  
+Neuro: Alert and oriented to person place and time. No focal weakness or paresthesias.
+
+
+DATA: 
+
+NA        	138       	          	          	          
+K         	3.9      	          	          	          
+CL        	99(L)     		          	          	          
+CO2       	27.8      		          	          	          
+BUN       	16        	          	          	          
+CRE       	0.9       		          	          	          
+GLU       	95                  	          	           
+
+WBC       	9.9       	          	          	          	          
+RBC       	5.14      	          	          	          	          
+HGB       	15.7      	          	          	          	          
+HCT       	44.5      	          	          	          	          
+MCV       	87        	          	          	          	          
+MCH       	30.6      	          	          	          	          
+MCHC      35.4      	          	          	          	          
+PLT       	243       	          	          	          	          
+RDW       	13.4      
+
+PT        	12.2      	          	          	          	          
+PT-INR    	1.1       	          	          	          	          
+PTT       	24.8      	          	          	          	          
+
+MIBI: The patient has reduced exercise capacity (5 METS).  The ECG is positive for ischemia.  LV contractile function is normal. Findings are consistent with moderate to severe ischemia in the inferior and inferolateral ischemia at low work load (1.5 min EX). The LVEF is 52%.
+
+EKG: Sinus arrhythmia with RBBB
+
+ASSESSMENT AND PLAN: 
+
+70 yo M with multiple cardiac risk factors and 2 mo escalating angina sx presents with MIBI positive for interior and inferiolateral ischemia.
+
+CV:
+	Ischemia: Hx angina, MIBI positive for inferior and inferiolateral ischemia. 
+Cycle enzymes, plan for cath 2/18 to eval for reversible coronary defect. ASA.
+	Pump: EF estimated at 52%
+Cont enalapril, hctz
+Rhythm: Sinus arrythmia and RBBB
+Hold atenolol for bradycardia
+DM
+RISS
+Prophy:
+DVT prophylaxis: ambulatory
+GI prophylaxis: Zantac
+
+
+_______________________
+Mike Ivan, MD, EHMS pager 84710
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_______________________
+Mike Ivan, MD, EHMS
+
+
+
+
+
+
+
+
+
+_______________________
+M Mike Ivan, MD, EHMS
+
+
+
+
+
+
+
+
+
+
+
+
+________________________
+Michael Ivan, MD, EHMS
+
+
+
+
+
+
+
+
+______________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+________________________
+Michael Ivan, MD, EHMS
+\end{dummyverbatim}
+
+
+\subsection{Data and code} \label{datcode} The original text of the dataset is presented here for reference, together with its corresponding Python code and output. The original data was collected by a non-expert user in a real-world setting; the code here was written by the original author, who also verified the code's accuracy. In addition to the original dataset, we use the following dataset for experimentation, which we collected with the exact same procedure as for the original dataset, and which we also verified as being accurately written by the original author.
+
+\begin{dummyverbatim}
+
+HPI: 	70 yo M with RR-RBBB presents to PCP with 5 METS angina and new onset dyspnea.
+
+HPI: 		70 yo M with MRI-proven DVT.
+
+HPI: DVT:
+	Hx: MVA 3 mos back
+	S/S
+	Limb swelling
+	Edema
+	Tenderness
+	Bleeding
+	RR
+	Clinically
+	Hx: MVA 3 mos back
+	S/S
+	MRI-proven DVT
+	Hx: MVA 3 mos back
+	S/S
+	Limb swelling
+	Edema
+	Tenderness
+	Bleeding
+	RR
+	Clinically
+		Hx: MVA 3 mos back
+	S/S
+		MRI-proven DVT
+			Hx: MVA 3 mos back
+			S/S
+				Limb swelling
+				Edema
+				Tenderness
+				Bleeding
+					RR
+					Clinically
+							Hx: MVA 3 mos back
+				S/S
+				Limb swelling
+			Edema
+		Tenderness
+			Bleeding
+		RR
+		Clinically
+		Hx: MVA 3 mos back
+			S/S/s: 		Hx: 
+		Hx: “x. xxxxx,
+	xx: or dash, or space, or dash or 	dash, 
+	or dashes.	dash
+12
+
+or dash.
+
+dash
+or dash
+dash, etc.
+
+
+dash
+or dash, dash or dash
+or dash 1-dash, dash
+dash or dash,
+or dash or dash, dashes 
+or, dash
+or dash, and dash and dashes 10 and dashes, dash, or dash, etc,
+d. The patient 1 1,2 dash,
+or dashes
+112 dash, dash and 120-date and the date or dashes and dash.
+dash 
+patients, and dashes, and dashes 3, dash names
+or, dash names 2
+
+
+patients.
+The patient names.
+patient
+
+
+and dashes
+
+and identities
+name, date and 
+names. The words and name 1 and,
+name or patient names
+name and name. The words, or
+
+
+
+
+and the... or names. 
+
+
+or or the
+or, a or the past, or name and name, name
+and...and and name, and, or
+(... and or the following and or 
+
+
+….
+or, and the following, and name or,
+or...  and 5 or 12 and 3
+and...
+
+the names and names, and the last... 1, a patient, and:
+[ 8: [1, 11, 
+
+in (name, the following patient.
+
+(1 (le… 1: 10...
+...
+ 
+…, [[10... are (
+
+and and [112, removeable,
+The, and the or the... and,  or... the, and: or and the... 0 are the, 
+0, " 1... of the or [the or are [are,  are [are of are the and the, and the ( 
+10, the, or 2, the... (1, 0, 2, or, and, and, or, and (the [,
+and, 2, and... (1, 0 and and,
+are are, the, ( and, 4, and and. 1, and, and, 3,  of  and 2 and, [1, the, the...: 0 (1 and the 1...: : [ 0  and “  (1, [1 are,  are, are 8 andine of the in the... 2 of a-2,,, the [, and 3
+, 6, the [. 1, 5 and and, 1. and, an, an, are the, are in or can an 0 and are or (and, [, 2,  and, 1, 1,s, 0, 0, a, (an and, and, an,  and [ 3, and, an or and and 2 and, an of the, and and, 3, 1, An and, and, 6, and, 1, 0 1,  and or,
+,  and, the, "1, An, "1, 2 Anine "18 of 1 of " (9: " 0: 2-1-  " 1: [-2: and: [: : Animate: Anine 2, (0 an with with [ 0: or " ::  ": or "  are, are 0 are are -0 are  and,. of the  of the, and and and and  and,  and and,, [,  and in and and,, are [  [ and [ and, or and, and:  [2 2 [ are "  ( an an  an, (  or an  and, or or - 0  "  or  are in,  and  of an of  " an and an an  and   and and and and and and,,, " of ( of the and of the " of an,, and,.  are " (- " and, are    and in    or 0   or or  and,,  (  "  or, and  of  (: of an  an , :  or  or, -   to or  to  to to 0 or- and of-  and or   and  and, or,, and  of the or and and and, and,, and ( C for, "  and and, - or for, ( for for of for for,0 or  for 0 for for for an to, for or  and for, and (,  of the of, " of ( and of  of and of, of an and and,,,  and, for and and,,, [ to to  and (  to  and to to for and to for to  [ and for to  for ( to and for  to for and to " A C to C  for and for to to and for to to for " to  and or ( or for for or to or c  c and and - and in  and, c m- or 0 of, C-  C " and- and and and c n and " ( C, " ( and ( and and : (  and " and: - and: C- and so: as and and and and of and of the of " of   C  c  and and [ or c and m m,, and of, of of  of of,, and- of ( ( C as of,,,. or and.  or (,  or of of  of or of and, of, 1 C  C M- m- - or- and - or,  and and M C and or to,  M, m and or and and-  (, and, - and, M or and of  of  M or  M or and  and- m- M or and and  and,  m  and and  M  and  M C and   M and m or m and  and ( and and and c m or M or  and or and  m and m and  M M ( and [ and- and c and and and and,  and [ m and , M ( and ( m and  or  m  or, or c and or - or,  and  m  m,, m, or [ M and M and, and,,, m,, m and, (, M to and or, and  to  m for,, M, [. M and M. of M M M,  ( M  M M M M M. M M ( M for M (, and,,, and,, M M m m m and to and. ( to and to  m and (  ( to ( to and m M m M  M M " M C M M and M M and m M M and M  M and m m or M ( M M M M M  A M M, C M M and M, M C M, M, [0 M M m M  and  A A M C and M (, and A and M H and [ M C, and A  and M. M and M and and m and and  (, and A, and A B M M, and C C M and ( c and c c m M M M  C and  m M  m and c and and ( and M M and M ( M and C to, M for to for M M M and M M/ P A  M/ M M M M M1 M M, M M A. M, P. N I. A D C,, D M1 C

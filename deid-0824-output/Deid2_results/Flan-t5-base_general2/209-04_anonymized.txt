@@ -1,0 +1,310 @@
+
+
+
+Record date: 2[redacted]94-[redacted]5-24
+
+ 
+
+[redacted] Admit Note
+
+Patient Name: [redacted], [redacted]
+
+[redacted]
+
+Date of Admission: 5/24/94
+
+Attending: Dr. Li
+
+PCP: Dr. Li
+
+
+
+CC/ID:	foot redness / swelling
+
+
+
+HPI: 	The patient is a [redacted] year old male with a past medical history significant for diabetes, peripheral vascular disease and stroke who was in his usual state of health until two weeks prior to admission when he developed a blister on his left foot where his shoe meets his brace. The patient reportedly noticed a blister under the toes of his left foot and so he presented to his primary care physician's office who determined that the patient had developed a foot ulcer. During the course of the last two weeks, the foot became red and swollen. The patient however denied having any fevers or chills. Notably, the patient developed staph septicemia from an infected ulcer in 2[redacted]91. 
+
+
+
+	In the ER, the patient received iv unasyn and was then admitted to the medical service.
+
+
+
+PMH: 	Hypertension 
+
+	Peripheral vascular disease
+
+	Stroke in 2[redacted]88 - has left sided paralysis, but mobile in a wheelchair
+
+	Left sided foot contracture
+
+	CAD s/p 4v CABG
+
+	CHF - ischemic cardiomyopathy, EF 18%
+
+	Chronic renal failure - baseline Cr 1.8 - 2.5
+
+	Asbesosis 
+
+Impotence
+
+Peripheral Neuropathy 
+
+Diabetes mellitus 
+
+Hyperlipidemia
+
+Foot ulcers
+
+
+
+Medications: 	NPH 21 U qam / 11 U qpm 
+
+ASA-EC 325 mg po qd 
+
+Neurontin 6[redacted][redacted] mg po bid prn pain
+
+Hydralazine 25 mg po tid 
+
+Nexium 2[redacted] mg po qd 
+
+Toprol XL 1[redacted][redacted] mg po qd 
+
+Albuterol neb prn 
+
+Zoloft 1[redacted][redacted] mg po qd
+
+Combivent 2 puff qid
+
+Imdur 3[redacted] mg po qd 
+
+Lasix 6[redacted] / 4[redacted] mg po qam/qpm
+
+Lipitor 2[redacted] mg po qhs 
+
+Plavix 75 mg po qd 
+
+Advair 1[redacted][redacted]/5[redacted] bid
+
+
+
+Allergies:  	Sulfa - rash
+
+
+
+SH:  	Patient lives in [redacted] with his friend Epstein. He has 3 children. He used to work in banking.
+
+
+
+	Tob:		Denies
+
+	EtOH:  		Denies
+
+	Illicits: 	Denies
+
+
+
+FH:	Cardiac disease in family.
+
+
+
+Exam:  	VS:  T=97.4       HR=76	   BP=134/68	RR=2[redacted]	SaO2=1[redacted][redacted]% on RA
+
+
+
+General:  	no acute distress, calm, resting in bed.
+
+HEENT: 	pupils equal and reactive to light, anicteric sclera, extraocular movements intact.
+
+Neck:  		supple, no jugular venous distention.
+
+Chest: 		clear to auscultation bilaterally.
+
+CVS:  		regular rate & rhythm, II/VI systolic murmur.
+
+Abd:  		soft, non-distended, non-tender to palpation, normoactive bowel sounds.
+
+Extr:  		ulcer over plantar aspect of left foot close to 5th toe (2x2 cm)
+
+erythema over left foot extending from plantar surface to top surface
+
+no fluctulance, no drainage, outlined with marker
+
+Neuro: 	CN II through XII intact, unable to move left arm or foot, markedly decreased sensation in stocking-glove distribution
+
+
+
+DATA
+
+
+
+Test Description       Result Ref. Range/Units Date/Time          Last Abnormal
+
+
+
+Chemistry
+
+  Lytes/Renal/Glucose
+
+    Sodium                 142   135-145 mmol/L     [redacted]5/24/94 15:[redacted]2     146(H) [redacted]5/24/93 
+
+    Potassium              4.6   3.4-4.8 mmol/L     [redacted]5/24/94 15:[redacted]2     5.7(H) 12/[redacted]8/91 
+
+    Chloride               1[redacted]9H  1[redacted][redacted]-1[redacted]8 mmol/L     [redacted]5/24/94 15:[redacted]2     1[redacted]9(H) [redacted]5/24/94 
+
+    Carbon Dioxide        28.[redacted]   23.[redacted]-31.9 mmol/L   [redacted]5/24/94 15:[redacted]2    22.2(L) 12/15/93 
+
+    BUN                     67H  8-25 mg/dl         [redacted]5/24/94 15:[redacted]2      67(H) [redacted]5/24/94 
+
+    Creatinine             2.6H  [redacted].6-1.5 mg/dl      [redacted]5/24/94 15:[redacted]2     2.6(H) [redacted]5/24/94 
+
+    Glucose                124H  7[redacted]-11[redacted] mg/dl       [redacted]5/24/94 15:[redacted]2     124(H) [redacted]5/24/94 
+
+  General Chemistries
+
+    Calcium                8.6   8.5-1[redacted].5 mg/dl     [redacted]5/24/94 15:51     8.2(L) [redacted]5/16/94 
+
+    Phosphorus             4.2   2.6-4.5 mg/dl      [redacted]5/24/94 15:51     4.7(H) 1[redacted]/18/93 
+
+    Magnesium              2.[redacted]   1.4-2.[redacted] meq/L      [redacted]5/24/94 15:51     2.1(H) 12/29/88 
+
+  Cardiac Tests
+
+    CRP, High Sen...      PEND   mg/L               [redacted]5/24/94 14:54
+
+
+
+Hematology
+
+    WBC                    7.6   4.5-11.[redacted] th/cmm    [redacted]5/24/94 15:31    14.6(H) 12/11/91 
+
+    RBC                   4.57   4.5[redacted]-5.9[redacted] mil/cm   [redacted]5/24/94 15:31    4.38(L) 12/15/93 
+
+    Hgb                   12.7L  13.5-17.5 gm/dl    [redacted]5/24/94 15:31    12.7(L) [redacted]5/24/94 
+
+    HCT                   38.7L  41.[redacted]-53.[redacted] %        [redacted]5/24/94 15:31    38.7(L) [redacted]5/24/94 
+
+    MCV                     85   8[redacted]-1[redacted][redacted] fl          [redacted]5/24/94 15:31      85(L) [redacted]6/[redacted]1/83 
+
+    MCH                   27.8   26.[redacted]-34.[redacted] pg/rbc   [redacted]5/24/94 15:31    27.6(L) [redacted]5/16/94 
+
+    MCHC                  32.8   31.[redacted]-37.[redacted] g/dl     [redacted]5/24/94 15:31
+
+    PLT                    183   15[redacted]-35[redacted] th/cumm    [redacted]5/24/94 15:31     387(H) [redacted]1/17/91 
+
+    RDW                   16.3H  11.5-14.5 %        [redacted]5/24/94 15:31    16.3(H) [redacted]5/24/94 
+
+  Blood Differential %
+
+    Neutrophils             75H  4[redacted]-7[redacted] %            [redacted]5/24/94 15:31      75(H) [redacted]5/24/94 
+
+    Lymphs                  18L  22-44 %            [redacted]5/24/94 15:31      18(L) [redacted]5/24/94 
+
+    Monos                    4   4-11 %             [redacted]5/24/94 15:31       2(L) 12/11/91 
+
+    Eos                      2   [redacted]-8 %              [redacted]5/24/94 15:31
+
+    Basos                    1   [redacted]-3 %              [redacted]5/24/94 15:31
+
+
+
+  Other Hematology
+
+    ESR                     24H  [redacted]-17 mm/hr         [redacted]5/24/94 16:49      24(H) [redacted]5/24/94 
+
+
+
+Urinalysis
+
+    GLUC - UA         NEGATIVE   NEG                [redacted]5/24/94 13:[redacted]8
+
+    Ketones           NEGATIVE   NEG                [redacted]5/24/94 13:[redacted]8
+
+    Specific Gravity     1.[redacted]1[redacted]   1.[redacted][redacted]1-1.[redacted]35        [redacted]5/24/94 13:[redacted]8
+
+    Blood - UA        NEGATIVE   NEG                [redacted]5/24/94 13:[redacted]8
+
+    pH                     5.[redacted]   5.[redacted]-9.[redacted]            [redacted]5/24/94 13:[redacted]8
+
+    Protein - UA      NEGATIVE   NEG                [redacted]5/24/94 13:[redacted]8
+
+    Nitrites          NEGATIVE   NEG                [redacted]5/24/94 13:[redacted]8
+
+    WBC Screen        NEGATIVE   NEG                [redacted]5/24/94 13:[redacted]8
+
+
+
+Impression: 	[redacted] year old male with diabetes, s/p CVA & peripheral neuropathy presents with left lower extremity ulcer, swelling and erythema.
+
+
+
+Non-healing left plantar foot ulcer / lower extremity swelling / erythema
+
+   	DDx:	Cellulitis / Fascitis / DVT
+
+   	Most likely cellulitis given erythema, skin induration, swelling
+
+   	Will initiate empiric antibiotic therapy with unasyn 3 gm iv q 6 hr
+
+(need to cover for beta-hemolytic streptococci, staphylococcus aureus, aerobic gram negative bacilli, and anaerobes given history diabetes)
+
+   	Will keep leg elevated
+
+   	Will obtain serial WBC to evaluate for signs of systemic infection
+
+   	Will follow serial examinations after marking area of erythema
+
+   	Will obtain wound care consult
+
+   	Will obtain vascular surgery consult to Dr. Locklear to determine whether the patient would benefit from debridement
+
+
+
+Cardiac (Hypertension / PVD / CHF)
+
+   	Appears euvolemic at the moment
+
+   	Will continue ASA / hydralazine / toprol xl / lasix / lipitor / plavix
+
+   	Will use isordil 1[redacted] mg po tid while inpatient
+
+
+
+Chronic renal failure
+
+   	Cr nearly at baseline
+
+   	Will monitor serially while inpatient
+
+   	Will initiate low salt / low potassium diet
+
+
+
+Prophylaxis
+
+   	DVT prophylaxis: will initiate heparin sc
+
+   	GI prophylaxis: will initiate nexium & colace & senna
+
+
+
+Dispo
+
+   	The patient will likely return home after stabilization of his acute medical illness
+
+   	Full Code
+
+
+
+
+
+_________________________________
+
+[redacted], MD
+
+Pager #[redacted][redacted]311
+
+
+
+

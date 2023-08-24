@@ -1,0 +1,164 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2083-07-21
+
+
+
+
+
+CCU Admission Note
+
+
+
+PATIENT: Brandon Xayavong
+
+MRN: 7826250
+
+DATE: 7/21/83
+
+TIME: 4:00pm
+
+PCP: Ernest Edge, MD
+
+ATTENDING PHYSICIAN: Ashlei Tyson, MD
+
+CONTACT INFO: Elisha (wife) - 968-774-6381 
+
+
+
+REASON FOR ADMISSION
+
+Tailored therapy
+
+
+
+HISTORY OF THE PRESENT ILLNESS
+
+Mr. Xayavong is a 62 year old man with a history of CAD (s/p STEMI and multiple stents), CHF (s/p BiV ICD, class D and stage III), DM, and CRI who was admitted for tailored therapy after a routine RHC demonstrated elevated filling pressures.
+
+
+
+Mr. Xayavong has a primary cardiologist (Dr. Marshall) in Gloucester and has received much medical care at Oregon City Hospital.  He has been followed by Dr. Ashlei Tyson for the possibility of cardiac transplantation and has intermittently been admitted to GNC.  He was admitted to GNC from 6/13/82 to 6/19/82 after being found to be in atrial fibrillation with hypotension, fatigue, and nausea; this was 2 weeks after the placement of his BiV ICD.  He converted to sinus rhythm after amiodarone was administered, but developed a marked transaminitis.  Due to elevated filling pressures (PCWP 23), he required IV Lasix for diuresis.  He was felt to be a poor candidate for CABG given the degree of heart failure, so transplantation was instead pursued.  He was also admitted to GNC from 11/10/82 through 11/13/82 after again being found with elevated filling pressures after complaining of fatigue (PCWP 37); he received a PA line and required a Lasix drip and IV nitroprusside.  At the time of discharge, his reported dry weight was 206 lbs.
+
+
+
+He came for a scheduled right-sided heart catheterization today as he has had increasing complaint of fatigue.  He reports that he has been feeling &#8220;lousy,&#8221; that his appetite has been &#8220;crummy,&#8221; and that he is &#8220;feeling real tired.&#8221;  He feels that these symptoms have been relatively severe but unchanged for the past 2 years.  He denies overt shortness of breath, but essentially fatigues very easily with physical exertion, and has been requiring multiple naps a day.  He states that he has been careful with his diet (both fluid and salt intake) without any changes, and that he has been entirely compliant with his medications.  Of note, his cardiologist attempted to change him from Toprol XL to Coreg several months ago, and that seems to have made him feel worse.  He continues to urinate to his home Lasix dosing.  He denies any sensation of chest pain or chest pressure, and denies chest palpitations or sensation of fluttering; he states clearly that he could tell when his heart was in an abnormal rhythm in 6/72.  He says that his pacemaker was &#8220;checked&#8221; last week and that he was told he didn&#8217;t have any &#8220;episodes.&#8221;  He believes that he has been putting on weight recently, and reports that his baseline weight is ~225 lbs.  He denies recent fevers or chills.  He has no complaint of leg swelling.
+
+
+
+PAST MEDICAL/SURGICAL HISTORY
+
+CAD
+
+
+STEMI 2077 s/p 2 stents to the LAD (done at GNC)
+ 
+Reports 2 other MI&#8217;s (2079 and 2080, treated at OCH)
+ 
+Reportedly s/p ~8 stents in total after various interventions
+ 
+Per report, multi-vessel disease &#8220;difficult for CABG&#8221; 5/82
+
+CHF
+
+
+
+BiV ICD placement DDD 5/13/2082
+ 
+Class D, Stage III
+
+Diabetes
+
+
+Chronic Renal Insufficiency
+
+
+
+h/o Latent Tuberculosis
+
+
+
+s/p Toe Amputation x2
+
+
+Last one was taken off several months ago secondary to infection
+
+s/p Fused L Ankle
+
+
+
+RECENT DIAGNOSTIC STUDIES
+
+Cardiac Catheterization (10/30/77)
+
+Dominance: Right
+
+
+
+Left Main: The left main coronary artery is of moderate length, intermediate
+
+sized vessel. It bifurcates into the LAD and LCX coronary arteries. Left main coronary artery is normal.
+
+
+
+LAD: The Proximal LAD has a diffuse, irregular, and thrombotic 90 % stenosis in its proximal third.  D1 has a focal 90 % stenosis in its ostium.  The Ramus has a focal 95 % stenosis in its ostium. Both the D1 and Ramus side branches arise from the thrombotic proximal LAD segment.
+
+
+
+Left Circumflex: The left circumflex coronary artery is moderate sized vessel, which gives origin to two obtuse marginal arteries. The artery contains only minimal irregularities.
+
+
+
+RCA: The right coronary artery is a large vessel. The artery contains only
+
+minimal irregularities.
+
+
+
+TTE (6/15/82)
+
+Moderate MR with e/o elevated LA pressure.  Dilated LV with severe diffuse hypokinesis (with some preservation of mid-septal, inferior, and lateral segments).  EF 19%.  Moderate TR.  RVSP 64 mmHg.  Dilated RV with diffuse hypokinesis.
+
+
+
+Thallium Myocardial Imaging (6/17/82)
+
+       The myocardial scans show apical and distal inferior infarction. The
+
+       remainder of the myocardium is viable. Distal anterior ischemia was
+
+       present at rest.
+
+
+
+RHC (11/10/82)
+
+      RA 9, RV 68/7, PA 70/38, PCWP 37, CO 4.9
+
+
+
+RHC (6/9/83)
+
+RA 10, RV 55/15, PA 52/23, PCWP 23, CO 5.8 (Thermo), CI 2.62
+
+
+
+RHC (7/21/83)
+
+      Baseline:
+
+RA 8, RV 68/8, PA 68/33 (44), PCWP 27 (prominent V waves to 43)
+
+CO 4.7, CI 2.07
+
+s/p Nitro 100mcg IV:
+
+      PA 53/20 (34), PCWP 16
+
+
+
+MEDICATIONS ON ADMISSION
+
+  1. Acetylsalicylic Acid (Aspirin) 81 MG

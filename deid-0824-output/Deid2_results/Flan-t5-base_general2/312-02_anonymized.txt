@@ -1,0 +1,310 @@
+
+
+
+Record date: 2[redacted]64-[redacted]1-[redacted]8
+
+ 
+
+[redacted] Admit Note
+
+
+
+Patient Name: 	[redacted], [redacted]
+
+Medical Record #: 	[redacted]
+
+Date of Admission: 	[redacted]1/[redacted]8/64
+Attending: 		Dr. Burton
+
+
+
+CC/ID:	[redacted]
+
+
+
+HPI: 	The patient is a 55 year old male with a past medical history significant for chronic renal failure (secondary to diabetes & hypertension) and gastrointestinal mucormycosis who underwent an arteriovenous graft placement ten days prior to admission. The patient was doing well until a few days prior to admission when he noticed a swelling in his new graft and a decrease in the degree of its pulse. Then on the morning of admission when he noticed his graft was without a palpable pulse or thrill. The patient then presented to the EDUCARE-PULLMAN ER for evaluation and treatment. 
+
+
+
+	In the ER, the patient was found to have an engorged AV graft without dopplerable pulse or bruit. The patient was seen by surgery and an ultrasound of the upper extremity revealed a clotted graft and so the patient was admitted to the medical service for further evaluation and treatment.
+
+
+
+Of note, the patient denies any pain  / numbness / coolness in his hand. He further denies any shortness of breath, increased swelling in his legs, or changes in his weight. He does indicate that he has suffered from decreased oral intake lately secondary to feeling tired and having a decreased appetite.
+
+
+
+PMH: 	Diabetes mellitus
+
+Diabetic neuropathy
+
+Hypertension		
+
+Chronic renal disease		- secondary to diabetes & hypertension, baseline Cr 4
+
+Anemia				- baseline hematocrit mid 3[redacted]s
+
+Gastrointestinal mucormycosis	- s/p GI surgery (see below)
+
+
+
+PSH: 	Hip replacement
+
+Total gastrectomy, gastroesophagojejunostomy, distal pancreatectomy, transverse colectomy
+
+Splenectomy
+
+Left total hip replacement
+
+
+
+Allergies:  	Nafcillin - rash
+
+
+
+SH:  	Patient lives in [redacted]. He is from Kazakhstan originally, has no family nearby and works as a [redacted]. 
+
+
+
+	Tob:		Denies
+
+	EtOH:  		Denies
+
+	Illicits: 	Denies
+
+
+
+FH:	Non-contributory.
+
+
+
+
+
+Medications: 	procrit 1[redacted],[redacted][redacted][redacted] U qthursday
+
+catapres tts-3 qwednesday
+
+oscal po tid
+
+hydralazine 5[redacted] mg po tid
+
+remeron 15 mg po qhs
+
+colace 1[redacted][redacted] mg po bid
+
+neurontin 1[redacted][redacted] mg po qd
+
+folate 1 mg po qd
+
+norvasc 1[redacted] mg po qd
+
+trazadone 5[redacted] mg po qhs
+
+nephrocaps daily
+
+bumetanide [redacted].5 mg po qd
+
+niferex 15[redacted] mg po qd
+
+calcitrol [redacted].25 mg po qd
+
+
+
+enulose prn
+
+tramadol prn
+
+nitroglycerin ointment prn
+
+milk of magnesia prn
+
+maalox prn
+
+zofran prn
+
+lopermide prn
+
+tylenol prn
+
+
+
+Exam:  	VS:  T=96.6       HR=62  	BP=125/61	RR=18	SaO2=99% on RA
+
+General:  	no acute distress, calm, resting comfortably.
+
+HEENT: 	pupils equal and reactive to light, anicteric sclera, extraocular movements intact.
+
+Skin:		no rashes.
+
+Neck:  		supple.
+
+Chest: 		clear to auscultation bilaterally.
+
+CVS:  		regular rate & rhythm, III/VI holosystolic murmurs, no rubs.
+
+Abd:  		soft, non-distended, non-tender to palpation, normoactive bowel sounds.
+
+Extr:  		+1 edema, no papable thrill or auscultatable bruit in AV graft.
+
+MSK:		no joint swelling, no erythema, full range of motion.
+
+Neuro: 	CN II through XII intact, motor strength 5/5 UE and LE, sensory intact.
+
+
+
+DATA
+
+Test Description       Result Ref. Range/Units Date/Time          Last Abnormal
+
+Chemistry
+
+  Lytes/Renal/Glucose
+
+    Sodium                 136   135-145 mmol/L     [redacted]1/[redacted]8/64 13:51     133(L) [redacted]8/28/62 
+
+    Potassium              4.9H  3.4-4.8 mmol/L     [redacted]1/[redacted]8/64 13:51     4.9(H) [redacted]1/[redacted]8/64 
+
+    Chloride               111H  1[redacted][redacted]-1[redacted]8 mmol/L     [redacted]1/[redacted]8/64 13:51     111(H) [redacted]1/[redacted]8/64 
+
+    Carbon Dioxide        18.6L  23.[redacted]-31.9 mmol/L   [redacted]1/[redacted]8/64 13:51    18.6(L) [redacted]1/[redacted]8/64 
+
+    BUN                     82H  8-25 mg/dl         [redacted]1/[redacted]8/64 13:51      82(H) [redacted]1/[redacted]8/64 
+
+    Creatinine             5.9H  [redacted].6-1.5 mg/dl      [redacted]1/[redacted]8/64 13:51     5.9(H) [redacted]1/[redacted]8/64 
+
+    Glucose                133H  7[redacted]-1[redacted][redacted] mg/dl       [redacted]1/[redacted]8/64 17:54     133(H) [redacted]1/[redacted]8/64 
+
+[redacted]
+
+  Complete Blood Count
+
+    WBC                    5.1   4.5-11.[redacted] th/cmm    [redacted]1/[redacted]8/64 13:44     4.3(L) [redacted]4/29/63 
+
+    RBC                   3.12L  4.5[redacted]-5.9[redacted] mil/cm   [redacted]1/[redacted]8/64 13:44    3.12(L) [redacted]1/[redacted]8/64 
+
+    Hgb                   1[redacted].1L  13.5-17.5 gm/dl    [redacted]1/[redacted]8/64 13:44    1[redacted].1(L) [redacted]1/[redacted]8/64 
+
+    HCT                   31.1L  41.[redacted]-53.[redacted] %        [redacted]1/[redacted]8/64 13:44    31.1(L) [redacted]1/[redacted]8/64 
+
+    MCV                    1[redacted][redacted]   8[redacted]-1[redacted][redacted] fl          [redacted]1/[redacted]8/64 13:44     1[redacted]1(H) 12/22/63 
+
+    MCH                   32.5   26.[redacted]-34.[redacted] pg/rbc   [redacted]1/[redacted]8/64 13:44
+
+    MCHC                  32.6   31.[redacted]-37.[redacted] g/dl     [redacted]1/[redacted]8/64 13:44    3[redacted].1(L) [redacted]7/[redacted]9/62 
+
+    PLT                    179   15[redacted]-35[redacted] th/cumm    [redacted]1/[redacted]8/64 13:44     37[redacted](H) [redacted]8/27/62 
+
+    RDW                   15.[redacted]H  11.5-14.5 %        [redacted]1/[redacted]8/64 13:44    15.[redacted](H) [redacted]1/[redacted]8/64 
+
+  Blood Differential %
+
+    Neutrophils             43   4[redacted]-7[redacted] %            [redacted]1/[redacted]8/64 13:44      77(H) [redacted]8/27/62 
+
+    Lymphs                  46H  22-44 %            [redacted]1/[redacted]8/64 13:44      46(H) [redacted]1/[redacted]8/64 
+
+    Monos                    5   4-11 %             [redacted]1/[redacted]8/64 13:44       2(L) [redacted]8/27/62 
+
+    Eos                      5   [redacted]-8 %              [redacted]1/[redacted]8/64 13:44
+
+    Basos                    1   [redacted]-3 %              [redacted]1/[redacted]8/64 13:44
+
+
+
+Urinalysis
+
+    GLUC - UA            Trace   NEG                [redacted]1/[redacted]8/64 15:2[redacted]
+
+    Ketones           NEGATIVE   NEG                [redacted]1/[redacted]8/64 15:2[redacted]
+
+    Specific Gravity     1.[redacted]15   1.[redacted][redacted]1-1.[redacted]35        [redacted]1/[redacted]8/64 15:2[redacted]   1.[redacted]37(H) [redacted]7/16/59 
+
+    Blood - UA        NEGATIVE   NEG                [redacted]1/[redacted]8/64 15:2[redacted]
+
+    pH                     5.[redacted]   5.[redacted]-9.[redacted]            [redacted]1/[redacted]8/64 15:2[redacted]
+
+    Nitrites          NEGATIVE   NEG                [redacted]1/[redacted]8/64 15:2[redacted]
+
+    WBC Screen        NEGATIVE   NEG                [redacted]1/[redacted]8/64 15:2[redacted]
+
+    Hyaline Cast          None   [redacted]-5 /lpf           [redacted]1/[redacted]8/64 16:19
+
+    RBC - UA               3-5   [redacted]-2 /hpf           [redacted]1/[redacted]8/64 16:19
+
+    WBC - UA               [redacted]-2   [redacted]-2 /hpf           [redacted]1/[redacted]8/64 16:19
+
+    Bacteria          NEGATIVE   NEG /hpf           [redacted]1/[redacted]8/64 16:19
+
+    Squamous Cells    NEGATIVE   NEG /hpf           [redacted]1/[redacted]8/64 16:19
+
+
+
+Micro:		Blood & urine cultures pending
+
+
+
+UpperExt U/S:	Clotted right upper extremity arteriovenous graft.
+
+
+
+Impression:  	55 year old male with chronic renal failure, hypertension, diabetes and gastrointestinal mucormycosis who is s/p AV graft placement presents with clotted AV graft & renal failure.
+
+
+
+AV Graft
+
+   	Patient will undergo IR intervention on [redacted]1/[redacted]9 in an attempt to restore flow to the AV graft
+
+   	Will keep patient NPO after midnight
+
+   	Will avoid systemic anticoagulants
+
+   	Will obtain hypercoagulable labs
+
+
+
+Renal Failure
+
+   	Patient has chronic renal failure, secondary to diabetes and hypertension
+
+   	Will need dialysis soon
+
+   	Will continue nephrocaps, calcitrol, procrit
+
+
+
+Hypertension
+
+   	Will continue outpatient regimen
+
+
+
+Anemia
+
+   	Will continue iron supplementation / procrit weekly injections
+
+
+
+Prophylaxis
+
+   	DVT prophylaxis: 	will encourage ambulation 
+
+   	GI prophylaxis: 	will initiate nexium & colace
+
+
+
+Dispo
+
+   	Patient will likely return to Chestnut Lodge Sanitarium on discharge
+
+
+
+
+
+_________________________________
+
+[redacted] Q. Yarbrough, MD
+
+Pager #[redacted]
+
+
+

@@ -1,0 +1,178 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2093-05-23
+
+Internal Medicine ADMISSION NOTE
+
+
+
+Patient Name: 	SHERMAN, ANDREW
+
+Medical Record #: 	149-05-69
+
+Date of Admission: 	04/01/2091
+
+Attending: Younce
+
+PCP: Sacred Heart
+Cardiologist: None
+
+
+
+ID/CC:  60yoM w/ PMH CAD, 2vCABG, s/p AICD placement, CHF, DM, CVA p/w syncopal event.
+
+
+
+HPI:  Mr. Sherman is a 60yoM with MMP who was traveling in his wheelchair when he states that he lost consciousness and fell out of his wheelchair.  Prior to this event, he states that he had been experiencing shortness of breathe and constant substernal chest pressure 9/10 x 1 hour.  He states that at baseline he experiences substernal chest pressure 6-7/10 through each and every day.  There is nothing in particular that brings on his pain or relieves it.  He states that he sleeps on one pillow at night and is short of breathe when flat.  He at baseline has swelling in his legs and states that it is not worse.  He also states that he has gained 35 pounds in the past 2 weeks. 
+
+
+
+Mr. Sherman notes that he lost continence during his fall today but states that he frequently has loss of bladder and bowel incontinence. He denied any N/V today. Of note, Mr. Sherman was discharged yesterday from the Sacred Heart Hospital where he was discharged from after a 2 week stay.  He was admitted there after a syncopal event with head trauma ensuing as well as suicidal ideation.  He denies any SI at this time. He states that he syncopizes fairly frequently, approximately > 1x per week.  He does not recall his AICD having fired in the past 3 years.
+
+
+
+ED Course:  ASA, RISS, head CT; seem by plastics regarding facial fractures
+
+
+
+PMH: 	1. CAD - proximal LAD stent placed in 2091, then AICD at OSH (reasons not specified).  
+
+He subsequently underwent 2V-CABG on 3/15/91 with LIMA  LAD and LSVG  DIAG.  
+
+-Adenosine-MIBI at Bristol in 6/92
+
+	2. CHF - EF 20% by TTE 3/20/91
+
+	3. HTN
+
+	4. T2DM
+
+	5. Embolic stroke (March 2088) with residual R sided weakness/uncooridiation and resolved 
+
+dysarthria.
+
+	6. Depression with h/o suicidal ideation/attempts(x2) in past
+
+	7. PTSD
+
+	8. OA
+
+	9. OSA
+
+	10. h/o Dengue fever
+
+	11. s/p open cholecystectomy
+
+               12. s/p head wound from schrapnel during Venezuela Conflict
+
+
+
+ALLERGIES / REACTIONS:  Procardia (rash, angioedema)
+
+
+
+MEDICATIONS:
+
+	ASA 325
+
+	Digoxin 0.125mg QD
+
+	Lisinopril 20mg QD
+
+	Celexa 20mg QD
+
+	Zocor 40mg QD
+
+	Lasix 40mg QAM
+
+	Atrovent inhaler, 2 puffs QID
+
+	Atenolol 50mg QD
+
+	Rabeprazole 20mg QD
+
+	KCl 8meq QAM
+
+	Metformin 1000mg BID
+
+	Colace 100mg BID
+
+	TNG SL prn
+
+
+
+SH:  Married and lives with his wife. Appears to be homeless right now and between shelters due to anger management issues. Formerly in the marines. Had lived in Poland. Never smoked. Past alcohol abuse history but sober after detoxing many years ago.  
+
+
+
+FH:  CAD
+
+
+
+ROS:  As per HPI.  Otherwise negative in detail.
+
+
+
+P.E.:
+
+Vitals: 96.4 95 137/92 20 99%
+
+GEN: NAD
+
+HEENT: eomi
+
+NECK: cannot assess JVP
+
+PULM: clear
+
+COR: regular, distant
+
+ABD: benign
+
+EXT: 1+ edema b/l
+
+NEURO: right upper/lower 4/5 cn 2-12 intact. Light touch in tact. No clonus. 
+
+
+
+LABS:
+
+Chemistry
+
+  Lytes/Renal/Glucose
+
+    Sodium                 134L  135-145 mmol/L     05/22/93 23:49     134(L) 05/22/93 23:49
+
+    Potassium              3.6   3.4-4.8 mmol/L     05/22/93 23:49     4.9(H) 05/22/93 17:58
+
+    Chloride                95L  100-108 mmol/L     05/22/93 23:49      95(L) 05/22/93 23:49
+
+    Carbon Dioxide        30.3   23.0-31.9 mmol/L   05/22/93 23:49    36.5(H) 04/09/91 06:47
+
+    BUN                     34H  8-25 mg/dl         05/22/93 23:49      34(H) 05/22/93 23:49
+
+    Creatinine             1.7H  0.6-1.5 mg/dl      05/22/93 23:49     1.7(H) 05/22/93 23:49
+
+    Glucose                424H  70-110 mg/dl       05/22/93 23:49     424(H) 05/22/93 23:49
+
+  General Chemistries
+
+    Calcium               10.0   8.5-10.5 mg/dl     05/22/93 04:02     8.3(L) 03/04/87 11:42
+
+    Phosphorus             3.2   2.6-4.5 mg/dl      05/22/93 04:02     2.3(L) 03/05/87 18:18
+
+    Magnesium              1.4   1.4-2.0 meq/L      05/22/93 04:02     1.3(L) 10/16/91 06:03
+
+    Uric acid              4.2   3.6-8.5 mg/dl      03/03/87 17:45
+
+ Cardiac Tests
+
+    CK                     221   60-400 U/L         05/22/93 04:02      30(L) 04/03/91 06:31
+
+    CK-MB             NEGATIVE   NEG                05/22/93 13:13
+
+    CK-MB Index            2.6   0.0-3.5 %          05/22/93 04:31
+
+    LDH                    192

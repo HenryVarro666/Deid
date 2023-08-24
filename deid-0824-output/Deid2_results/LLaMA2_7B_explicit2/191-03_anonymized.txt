@@ -1,0 +1,187 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2094-10-29
+
+MICU Intern Admission Note
+
+Faulkner, Yandel
+
+MR#5075561
+
+Date of Admission: October 28, 2094
+
+PCP: Lord, Dana  
+
+
+
+ID/CC:	GI Bleed
+
+
+
+HPI:  	 69 yo man w/ h/o AAA, PVD, CAD, AF w/ tracheostomy and G-tube in place, on coumadin for PVD, HIT +,  and DVT w/ INR yesterday of 5.3.  Noticed black stools x 1 day, and blood suctioned form G-tube.  Came to ED and while in ED waiting for a room had an episode of  near syncope. In ED 97.6, Pulse 82, BP 110/62 RR 20. In ED received 4 units FFP, 2 uPRBCs, and Zantac.  GI saw him then and EGD showed large clot in fundus of stomach, but unable to find source of active bleeding.  Duodenum was visualized up to the 3rd portion was normal.
+
+	Shortly after transfer to floor he  was noted to have hematemesis, then became pulseless and went into Vfib arrest.  Pt trached and was bagged.  After cardioversion x 2, he reverted to sinus rhythm which again returned to asystole.  After 1 mg of epinephrine he regained pulse and rhythm was sinus tachycardia.  Triple lumen placed in R groin and Cordis in L groin.  EKG w/ ST depressions in lateral leads.  
+
+	Repeat EGD in MICU showed ulcer 2 cm from GE junction w/ protrusion and question of visible vessel.  Angioectasia / active oozing.  Both tx'd c/ bipolar resulting in good hemostasis.
+
+
+
+PMH:
+
+1.	Atrial fibrillation
+
+2.	PVD - emergent thrmobectomy, femoral-femoral bypass in 1/92PG
+
+3.	AAA repair in 2091 - endovascular repair of his abdominal aortic and bilateral iliac artery aneurysms with an aortoiliac bifurcated modular endograft, bilateral femoral artery repair.
+
+4.	CAD
+
+5.	Typ II diabetes
+
+6.	HTN
+
+7.	CVA s/p L CEA in January 2091
+
+8.	PUD
+
+9.	septic PE
+
+10.	multiple aspiration pneumonias
+
+11.	tracheostomy
+
+12.	G-tube
+
+13.	HIT +
+
+
+
+Medications:
+
+1.	ASA 325 mg QD
+
+2.	Coumadin
+
+3.	Amlodipine 10 mg QD
+
+4.	FeSo4 325 mg QD
+
+5.	KCL 20 meq QD
+
+6.	Lopressor 150 mg BID
+
+7.	rifampin
+
+8.	doxycycline 100 mg BID
+
+9.	protonix 40 mg TID
+
+10.	reglan 5 mg AID
+
+
+
+Allergies:  	NKDA
+
+
+
+SH:  	
+
+	Tob:		Negative
+
+	EtOH:  		Negative
+
+	Illicits: 	Negative
+
+
+
+FH:	
+
+  
+
+Exam:  	VS:	T=98.1	HR=100	BP=138/50 RR=14 100% fiO2 997 8/5 SaO2 100% 
+
+General:  Pt confused w/ poor memory.  lying comfortably in bed in NAD; 
+
+HEENT: NC/AT,  PERRL, anicteric. EOMI.  OP MMM w/,no  erythema or injection.
+
+Skin:	No rashes. 
+
+Neck:  	Supple, full ROM, JVP=flat , 2+ carotids w/o bruits, no thyromegaly or nodules, no nodes
+
+Chest: 	Coarse BS anteriorly.
+
+CVS:  	distant heart sounds  Nl rate nl S1 S2, no m/r/g
+
+Abd:  	soft, NT, ND BS + no HSM 
+
+GU:	melenic stool
+
+Extr:  	no c/c/e 2+ DP's bilaterally
+
+Neuro: Oriented to name and place.   Motor 5/5 UE and LE.   DTR's 2+ and symmetric in bilat LE and UE. Toes down bilaterally.  
+
+
+
+DATA:
+
+Chemistry Detail for FAULKNER, YANDEL B
+
+
+
+   DCGH  BLOOD          28-Oct-2094 13:45  Accession# 8175S66443
+
+
+
+Test Description        Result   Flags           Ref. Range     Ref. Units
+
+
+
+Sodium (Stat Lab)      139                       135-145        mmol/L
+
+Potassium (Stat Lab)   4.8                       3.4-4.8        mmol/L
+
+Chloride (Stat Lab)    108                       100-108        mmol/L
+
+CO2 (Stat Lab)         21.6       L              23.0-31.9      mmol/L
+
+BUN (Stat Lab)         105        H              8-25           mg/dl
+
+Creatinine (Stat Lab)  1.9        H              0.6-1.5        mg/dl
+
+Glucose (Stat Lab)     154        H              70-110         mg/dl
+
+Calcium                9.0                       8.5-10.5       mg/dl
+
+Phosphorus             3.6                       2.6-4.5        mg/dl
+
+Magnesium              2.0                       1.4-2.0        meq/L
+
+Total Protein          6.6                       6.0-8.3        g/dl
+
+Albumin                3.4                       3.3-5.0        g/dl
+
+Globulin               3.2                       2.6-4.1        g/dl
+
+Direct Bilirubin       0.1                       0-0.4          mg/dl
+
+Total Bilirubin        0.3                       0-1.0          mg/dl
+
+Alkaline Phosphatase   75                        45-115         U/L
+
+Transaminase-SGPT      32                        10-55          U/L
+
+Amylase                56                        3-100          units/L
+
+Lipase                 1.5                       1.3-6.0        U/dl
+
+Transaminase-SGOT      25                        10-40          U/L
+
+FIO2/Flow              UNSPEC.                                  FIO2/L
+
+Temp                   37.0                                     deg C
+
+Unspecified pH         7.33                      7.32-7.45
+
+Unspecified PCO2       27         L              2

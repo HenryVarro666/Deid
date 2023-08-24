@@ -1,0 +1,56 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2064-04-20
+
+                             OFFICE NOTE
+ 
+Uher, Olga
+258-16-49-2
+04/20/64
+ 
+She returns to clinic for follow up. Unfortunately she missed her
+entire appointment and did not bring her blood glucose log with
+her. She reports that at 4 a.m. last Thursday she woke up and felt
+disoriented with sweats. She checked her blood glucose, it was 50,
+and she treated herself by eating. This led to resolution of her
+symptoms, although she said that she overshoots. She has developed
+a foot infection, has been seen by a podiatrist and started on
+antibiotics. She has also been taking a thyroid hormone but she
+still feels that it is making her tired. She just in general has
+not been feeling as well as she had been previously.
+ 
+Past Medical History:
+ 
+1.   IDDM.
+ 
+Medications: See previous notes.
+ 
+Allergies:  Same.
+ 
+Physical Examination:  Not performed. The patient had a  special
+orthopedic shoe on, her foot was wrapped.
+ 
+Impression:  Patient with IDDM with usual blood glucoses in the
+200's and an elevated A1C. Discussed the need for consistent meals
+and exercise and need for more control. Will increase day time
+insulin to 17 units of Lente and evening will stay at 10. She will
+follow up in one month. Will check a TSH today.
+ 
+ 
+ 
+Phyllis Jacobson, M.D.
+ 
+/lott
+ 
+DD: 04/20/64
+DT: 04/22/64
+DV: 04/20/64
+ 
+ 
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+

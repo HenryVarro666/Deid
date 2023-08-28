@@ -1,0 +1,200 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2097-06-03
+
+ Time of visit: 6/03/2097, 1330 hours
+Time of note: 1630 hours
+
+Patient seen and examined with the team.  Note of Dr. Ellis reviewed, findings confirmed.  Available electronic notes reviewed, X-rays reviewed, labs reviewed.  
+
+73 y. o. woman who has worked as a nurse at TLC for 40 years.  Nonsmoker.  History of hypertension treated with Hyzaar.  Current illness began 5-6 months ago with fatigue, dyspnea on exertion that has progressed to the point that she has to stop to catch her breath after walking up only 4-5 steps in a stairwell.  She finds it difficult to get started on her work because of fatigue.  She has had a cough that initially produced yellowish, "slimy" sputum, but more recently has been dry.  She notes occasional wheezing.  She also noted muscle and joint pain involving the shoulders and lower extremities over the past 5-6 months that she attributed to "arthritis".  No polyuria, but has noted nocturia X2 for the past 5-6 months. During the same period of time, has noted very dry mouth. No abdominal pain, but some difficulty with constipation for the past two weeks.
+
+Appetite diminished and she lost about 30 pounds.  She noted a nodule on the extensor surface of the left elbow that her PCP "cut into" recently.  She has also noted a nodule on the dorsal surface of the right foot that seems to "get larger".  
+
+She experienced substernal chest pain with radiation to the back that lasted several hours, prompting her to come to the ER.  No associated diaphoresis, nausea.  Pain somewhat better with sitting up.  
+
+Of note, she has known of having a cardiac murmur for many years.  
+
+Exam:  Pleasant black woman in no distress.  BP 158/79, Pulse 80, regular; O2 sat 98% on room air.  Afebrile.  Skin darkly pigmented nodule left elbow extensor surface, similar nodule right dorsal foot just proximal to 4th/5th toe.  No other rashes.  HEENT:  pale conjunctivae, anicteric.  No nasal findings, no facial skin findings (specifically, no lupus pernio).  Dry mucous membranes.  Neck: small, soft, mobile 0.5 cm node left anterior cervical chain.  Chest:  inspiratory crackles at both bases.  Cardiac: No JVD.  Regular rhythm.  III/VI (I do not feel a thrill) harsh nearly holosystolic murmur heard throughout the precordium, but especially prominent at the RUSB with radiation to the clavicles, neck.  Also heard at the apex and radiates to the left mid-back (?same murmur).  The murmur intensifies when she stands.  No gallops.  No rub.  Abdomen soft and nontender.  No spleen tip.  Liver edge not palpable.  
+Lymph nodes:  fullness below the left axilla, although not confident of discrete nodes.  
+
+Data:  There is considerable testing available to us from her recent visits to the Walk-In Clinic and to Dr. Utter.  
+
+A CXR from 5/2097 shows bilateral hilar adenopathy, mediastinal adenopathy, and interstitial infiltrates.  
+
+Creatinine 1.7
+
+Date/Time         CA             ALB            
+06/03/2097        12.3 (H)       3.4            
+06/02/2097        12.8 (H)       3.5            
+05/28/2097        11.8 (H)       3.5            
+
+Date/Time         ALT/SGPT       AST/SGOT       ALKP           TBILI          
+06/03/2097        41 (H)         41 (H)         67             0.7            
+
+Date/Time         NT-BNP         CK             CK-MB          CKMBRI         
+06/03/2097                       135            9.6 (H)                       
+06/03/2097                       126            8.6 (H)        6.8 (H)        
+E                      
+06/02/2097        4285 (H)[1]                                                 
+06/02/2097                                      NEGATIVE                      
+
+Date/Time         TROP-I         TROP-T         
+06/03/2097                       0.12 (H)       
+06/03/2097                       0.12 (H)       
+06/02/2097        NEGATIVE                      
+06/02/2097        NEGATIVE                      
+
+Date/Time         FE             TIBC           FER                         
+05/28/2097        33             237            130                           
+Date/Time         WBC            RBC            HGB            HCT            
+06/03/2097        6.4            3.98 (L)       10.2 (L)       30.4 (L)       
+
+Date/Time         MCV            MCH            MCHC           PLT            
+06/03/2097        76 (L)         25.5 (L)       33.5           198                  
+
+Date/Time         DIFFR          METHOD         %NEUT          %LYMPH         
+06/03/2097        RECEIVED       Auto           71 (H)         20 (L)         
+
+Date/Time         %MONO          %EOS           %BASO          
+06/03/2097        6              3              0              
+
+Date/Time         RETIC          
+06/03/2097        1.7            
+
+
+Serum angiotensin converting enzyme 68 (7-46 U/L)
+LDH 354
+
+EKG:  ST elevations V1-3.
+
+Problems:
+
+1.  Dyspnea on exertion, progressive.
+2.  Interstitial lung disease.
+3.  Bilateral hilar adenopathy
+4.  Weight loss
+5.  Symptomatic hypercalcemia
+		Nocturia
+		Arthralgias
+		Constipation
+		Fatigue
+6.  Prominent systolic murmur(s?). Changes with maneuvers suggest this may be secondary to hypertrophic obstructive cardiomyopathy.  There was evidence to suggest this on an echo from 2085, but obviously, need more recent data.
+7.  Minimally elevated troponins.  Uncertain significance.
+8.  Anemia, mildly microcytic.
+9.  Elevated LDH.
+10.  Renal insufficiency, likely secondary to uncontrolled hypercalcemia.
+11.  History of hypertension.
+
+Discussion:
+
+Sarcoidosis, until proven otherwise.  She is obviously older than typical presentation of sarcoidosis, but she had previous lymphadenopathy that may have been a first presentation of the illness with spontaneous remission.  The lung findings, systemic symptoms, hypercalcemia, anemia, abnormal serum ACE level are all suggestive of this diagnosis.  
+
+Her hypercalcemia is symptomatic and should be treated with volume repletion.  She should not receive diuretics at present.  Long term treatment will be dependent on the underlying diagnosis and its treatment.  I think she will need corticosteroids for her sarcoidosis and I expect this will improve the hypercalcemia, but we need definitive diagnosis first.  
+
+The cardiac murmur is impressive, but likely unrelated to the pulmonary disease.  We need echocardiogram to better define valvular function.  The minimally elevated troponins are likely related to the exertional dyspnea and are not diagnostic of a myocardial infarction.  The elevated LDH may be related to the pulmonary disease, but is likely not specific.  The anemia is likely related to the pulmonary disease and is not related to the hypercalcemia. 
+
+Differential diagnosis:
+
+1.  Sarcoidosis
+2.  Myocarditis
+3.  Hypertrophic obstructive cardiomyopathy
+4.  Interstitial lung disease
+5.  Pulmonary embolus
+6.  Aortic stenosis
+7.  Other causes of hypercalcemia
+
+Clinical plan:
+
+1.  Volume repletion, fluid restriction.
+2.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+3.  Treatment of anemia with iron supplementation.
+4.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+5.  Treatment of anemia with iron supplementation.
+6.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+7.  Treatment of anemia with iron supplementation.
+8.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+9.  Treatment of anemia with iron supplementation.
+10.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+11.  Treatment of anemia with iron supplementation.
+12.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+13.  Treatment of anemia with iron supplementation.
+14.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+15.  Treatment of anemia with iron supplementation.
+16.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+17.  Treatment of anemia with iron supplementation.
+18.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+19.  Treatment of anemia with iron supplementation.
+20.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+21.  Treatment of anemia with iron supplementation.
+22.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+23.  Treatment of anemia with iron supplementation.
+24.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+25.  Treatment of anemia with iron supplementation.
+26.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+27.  Treatment of anemia with iron supplementation.
+28.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+29.  Treatment of anemia with iron supplementation.
+30.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+31.  Treatment of anemia with iron supplementation.
+32.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+33.  Treatment of anemia with iron supplementation.
+34.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+35.  Treatment of anemia with iron supplementation.
+36.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+37.  Treatment of anemia with iron supplementation.
+38.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+39.  Treatment of anemia with iron supplementation.
+40.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+41.  Treatment of anemia with iron supplementation.
+42.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+43.  Treatment of anemia with iron supplementation.
+44.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+45.  Treatment of anemia with iron supplementation.
+46.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+47.  Treatment of anemia with iron supplementation.
+48.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+49.  Treatment of anemia with iron supplementation.
+50.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+51.  Treatment of anemia with iron supplementation.
+52.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+53.  Treatment of anemia with iron supplementation.
+54.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+55.  Treatment of anemia with iron supplementation.
+56.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+57.  Treatment of anemia with iron supplementation.
+58.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+59.  Treatment of anemia with iron supplementation.
+60.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+61.  Treatment of anemia with iron supplementation.
+62.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+63.  Treatment of anemia with iron supplementation.
+64.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+65.  Treatment of anemia with iron supplementation.
+66.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+67.  Treatment of anemia with iron supplementation.
+68.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+69.  Treatment of anemia with iron supplementation.
+70.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+71.  Treatment of anemia with iron supplementation.
+72.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+73.  Treatment of anemia with iron supplementation.
+74.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+75.  Treatment of anemia with iron supplementation.
+76.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+77.  Treatment of anemia with iron supplementation.
+78.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+79.  Treatment of anemia with iron supplementation.
+80.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+81.  Treatment of anemia with iron supplementation.
+82.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+83.  Treatment of anemia with iron supplementation.
+84.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+85.  Treatment of anemia with iron supplementation.
+86.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+87.  Treatment of anemia with iron supplementation.
+88.  Treatment of hypercalcemia with calcitonin and bisphosphonates.
+89.  Treatment of anemia with iron supplementation.
+90.  Treatment of hypercalcemia with calcitonin and bisphosphonates

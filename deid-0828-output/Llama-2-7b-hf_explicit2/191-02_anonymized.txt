@@ -1,0 +1,433 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2094-03-19
+
+GSH Internal Medicine Admit Note
+
+
+
+Patient's name: Faulkner, Yandel
+
+MRN: 507-55-61
+
+Date of Admission:  3/18/94
+
+ATTG: Yazzie
+
+CONTACT: Carlos Faulkner (son) 441-626-7981; 278-032-7163
+
+
+
+ID/CC:   69 yo M with complicated medical history presents from rehab with likely aspiration event.  Most of the data herein is from the medical record.
+
+
+
+HPI:   Patient is a 66 yo M with a complicated medical history.  Recent medical events summarized below:
+
+
+
+1/22/94: presented to Vanderbilt University Hospital on 1/22/94, notable for the following:
+
+-	hyperosmolar nonketotic hyperglycemia (BS>1400)
+
+-	LLE was noted to be cool and ischemic, CPKs > 1300
+
+
+
+1/24/94:  transferred to DCGH for revascularization.  Hospital course notable for the following:
+
+-	ruled in for MI with peak Tn=0.96
+
+-	LLE thrombectomy
+
+-	Right to left femoral PTFE graft
+
+-	Discovery of possible embolization from the left endograft limb
+
+-	Development of postoperative compartment syndrome, requiring fasciotomies of all 4 compartments
+
+-	HIT positivity
+
+-	DM management by Dr. Phelps
+
+-	Extubation postoperatively, with reintubation POD #3 2/2 inability to protect airway
+
+-	Aspiration events, PNA
+
+-	Sepsis, requiring pressors    MRSA
+
+-	Septic emboli in L lung
+
+-	Pneumonia     Pseudomonas, Klebsiella
+
+-	Difficult vent weaning
+
+-	Tracheostomy placement, eventual decanulation
+
+-	Failure of multiple swallowing trials
+
+-	G-tube placement
+
+-	Renal failure, improved when decreased diuresis
+
+-	Conjunctivitis, bacterial endophthalmitis
+
+-	Wound Care for chronic LLE wounds
+
+-	Likely graft infection with the decision to treat with Rifampin and Bactrim for 2 months
+
+
+
+3/15/94:  transferred to KH
+
+-	multiple episodes of TF emesis, cough, gagging, O2 sat 80% RA     rx'd with sxn, O2, Zofran
+
+-	3/18/94 patient developed severe hypoxia O2 sat 70% RA.  ABG on 50% TM:  46/43/7.47, oximetry 90%
+
+
+
+3/18/94: DCGH ED
+
+-	SaO2=90% on 100% NRB, rx'd with vanco, clinda, NS, combivent
+
+
+
+ROS:  +cougn, no CP/SOB, no abdominal pain, no nausea, no fever/chills
+
+
+
+PMHx:  (as above, also)
+
+1.	Hypertension.  
+
+2.	Hyperlipidemia.  
+
+3.	Peripheral vascular disease
+
+4.	Cataracts.
+
+5.	Status post cerebrovascular accident
+
+6.	peptic ulcer disease status post a bleeding duodenal ulcer
+
+7.	status post left carotid endarterectomy in January 2091.
+
+8.	DM
+
+9.	PVD
+
+10.	chronic LLE wounds
+
+11.	renal failure
+
+
+
+Medications on Transfer:
+
+NPH 12 U Q12H
+
+Tube Feeds osmolite @ 95 (stopped)
+
+Nystatin S/spit
+
+Atrovent/Albuterol Nebs
+
+Asa 81
+
+Lopressor 50 Q6H
+
+Erythromycin Ophthalmologic Ointment DS Q12H
+
+Lasix 40 BID
+
+Colace 100 TID
+
+Zaroxyln 5 QD
+
+Coumadin
+
+Regland 10 BID
+
+Protonix 40 QD
+
+Epo 10,000 U TIW
+
+Rifampin 600 QD
+
+Bactrim DS BID
+
+Zofran
+
+Silvidine
+
+Bacitracin
+
+
+
+Allergies:  heparin     HIT
+
+
+
+FHx:  noncontributory
+
+
+
+SHx:  Patient lives in Old River.  He has a 100 pack-year smoking hx.  He quit drinking EtOH 30 years ago.
+
+
+
+Physical Exam:
+
+VS: BP=90/50; HR=94; RR=20; SaO2=90-94% 4L; T=98    
+
+General: uncomfortable, chronically ill-appearing, speech breathy
+
+HEENT: NC/AT, PERRL, EOMI, sclera anicteric, MM dry, tongue cracked
+
+Neck:  plethoric, JVP @ 8 cm, trach site well-healed  
+
+Chest: coarse rhonchi throughout, scattered wheezes
+
+Cor: faint HS, regular S1/S2, no murmurs
+
+Abdomen: soft, NT/ND, no masses
+
+Ext:  bilateral clubbing; LLE with multiple shallow ulcers, toes black
+
+Neuro: sleepy, arouses easily to voice, follows commands
+
+
+
+Labs: 
+
+
+
+DCGH  BLOOD          18-Mar-2094 15:59  Accession# 9027U41613
+
+
+
+Sodium (Stat Lab)       137                      135-145        mmol/L
+
+Potassium (Stat Lab)    4.3                      3.4-4.8        mmol/L
+
+Chloride (Stat Lab)     98        L              100-108        mmol/L
+
+CO2 (Stat Lab)          31.8      H              24.0-30.0      mmol/L
+
+BUN (Stat Lab)          82        H              8-25           mg/dl
+
+Creatinine (Stat Lab)   3.8       H              0.6-1.5        mg/dl
+
+Glucose (Stat Lab)      128       H              70-110         mg/dl
+
+
+
+DCGH  BLOOD          18-Mar-2094 15:57  Accession# 8663L14453
+
+
+
+Calcium                 8.6                      8.5-10.5       mg/dl
+
+Phosphorus              5.3       H              2.6-4.5        mg/dl
+
+Magnesium               1.9                      1.4-2.0        meq/L
+
+Total Protein           7.3                      6.0-8.0        g/dl
+
+Albumin                 2.1       L              3.1-4.3        g/dl
+
+Globulin                5.2       L              1.5-4.0        g/dl
+
+
+
+DCGH  BLOOD          18-Mar-2094 15:57  Accession# 8663L14453
+
+
+
+Hematocrit (Stat Lab)    30.8       H              35-45         %
+
+WBC (Stat Lab)          13.5       H              4.5-12.5        K/mm3
+
+RBC (Stat Lab)          4.06       H              4.0-5.0        M/mm3
+
+Hemoglobin (Stat Lab)   10.7       H              11.5-15.5       g/dl
+
+MCV                     66.0       H              72-100         fL
+
+MCH                     24.4       H              27-33         pg
+
+MCHC                    328.0       H              320-360        g/dl
+
+
+
+DCGH  BLOOD          18-Mar-2094 15:57  Accession# 8663L14453
+
+
+
+Platelets (Stat Lab)     106       H              150-400        K/mm3
+
+
+
+DCGH  BLOOD          18-Mar-2094 15:57  Accession# 8663L14453
+
+
+
+BUN/Creatinine Ratio  17.5       H              6-20           mg/g
+
+
+
+DCGH  BLOOD          18-Mar-2094 15:57  Accession# 8663L14453
+
+
+
+Glucose Tolerance      3 hr. 128       H              70-110         mg/dl
+
+
+
+DCGH  BLOOD          18-Mar-2094 15:57  Accession# 8663L14453
+
+
+
+TSH (Stat Lab)          1.05       H              0.5-4.0        mIU/L
+
+
+
+DCGH  BLOOD          18-Mar-2094 15:57  Accession# 8663L14453
+
+
+
+Glycosylated Hb        10.7       H              6-10           %
+
+
+
+DCGH  BLOOD          18-Mar-2094 15:57  Accession# 8663L14453
+
+
+
+SGPT (Stat Lab)         222       H              12-60          IU/L
+
+SGOT (Stat Lab)         156       H              10-40          IU/L
+
+ALT (Stat Lab)          222       H              12-60          IU/L
+
+ALP (Stat Lab)          204       H              20-140         IU/L
+
+
+
+DCGH  BLOOD          18-Mar-2094 15:57  Accession# 8663L14453
+
+
+
+T4 Free (Stat Lab)     0.79       H              0.6-1.5        mcg/dl
+
+T4 Total (Stat Lab)   0.79       H              0.6-1.5        mcg/dl
+
+T3 Free (Stat Lab)     2.61       H              0.8-2.0         mcg/dl
+
+T3 Total (Stat Lab)   2.61       H              0.8-2.0         mcg/dl
+
+
+
+DCGH  BLOOD          18-Mar-2094 15:57  Accession# 8663L14453
+
+
+
+TSH (Stat Lab)          1.05       H              0.5-4.0        mIU/L
+
+
+
+DCGH  BLOOD          18-Mar-2094 15:57  Accession# 8663L14453
+
+
+
+HDL Cholesterol (Stat Lab) 37.0       H              35-55         mg/dl
+
+
+
+DCGH  BLOOD          18-Mar-2094 15:57  Accession# 8663L14453
+
+
+
+T4 Free (Stat Lab)     0.79       H              0.6-1.5        mcg/dl
+
+T4 Total (Stat Lab)   0.79       H              0.6-1.5        mcg/dl
+
+T3 Free (Stat Lab)     2.61       H              0.8-2.0         mcg/dl
+
+T3 Total (Stat Lab)   2.61       H              0.8-2.0         mcg/dl
+
+
+
+DCGH  BLOOD          18-Mar-2094 15:57  Accession# 8663L14453
+
+
+
+CMP (Stat Lab)          135       H              80-100         mg/dl
+
+
+
+DCGH  BLOOD          18-Mar-2094 15:57  Accession# 8663L14453
+
+
+
+T4 Free (Stat Lab)     0.79       H              0.6-1.5        mcg/dl
+
+T4 Total (Stat Lab)   0.79       H              0.6-1.5        mcg/dl
+
+T3 Free (Stat Lab)     2.61       H              0.8-2.0         mcg/dl
+
+T3 Total (Stat Lab)   2.61       H              0.8-2.0         mcg/dl
+
+
+
+DCGH  BLOOD          18-Mar-2094 15:57  Accession# 8663L14453
+
+
+
+T4 Free (Stat Lab)     0.79       H              0.6-1.5        mcg/dl
+
+T4 Total (Stat Lab)   0.79       H              0.6-1.5        mcg/dl
+
+T3 Free (Stat Lab)     2.61       H              0.8-2.0         mcg/dl
+
+T3 Total (Stat Lab)   2.61       H              0.8-2.0         mcg/dl
+
+
+
+DCGH  BLOOD          18-Mar-2094 15:57  Accession# 8663L14453
+
+
+
+T4 Free (Stat Lab)     0.79       H              0.6-1.5        mcg/dl
+
+T4 Total (Stat Lab)   0.79       H              0.6-1.5        mcg/dl
+
+T3 Free (Stat Lab)     2.61       H              0.8-2.0         mcg/dl
+
+T3 Total (Stat Lab)   2.61       H              0.8-2.0         mcg/dl
+
+
+
+DCGH  BLOOD          18-Mar-2094 15:57  Accession# 8663L14453
+
+
+
+T4 Free (Stat Lab)     0.79       H              0.6-1.5        mcg/dl
+
+T4 Total (Stat Lab)   0.79       H              0.6-1.5        mcg/dl
+
+T3 Free (Stat Lab)     2.61       H              0.8-2.0         mcg/dl
+
+T3 Total (Stat Lab)   2.61       H              0.8-2.0         mcg/dl
+
+
+
+DCGH  BLOOD          18-Mar-2094 15:57  Accession# 8663L14453
+
+
+
+T4 Free (Stat Lab)     0.79       H              0.6-1.5        mcg/dl
+
+T4 Total (Stat Lab)   0.79       H              0.6-1.5        mcg/dl

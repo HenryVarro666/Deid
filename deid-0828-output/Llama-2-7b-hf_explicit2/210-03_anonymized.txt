@@ -1,0 +1,176 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2070-03-11
+
+Reason for Visit Followup History of Present Illness S/p Cath with stents, no pain since per pt, but wife says he does have pain sometimes which is relieved by resting.  He denies any significant pain and denies any associated sx.  He attributes the sensation to anxiety. He has a stress test next week.  Dicsused potential hazards of ignoring pain, which could be a sign of blockage in one of the stents.  
+ 
+Trying hard to change lifestyle though wife reports little physical activity.  Diet not as good as it was prior. 
+ 
+Pt reports increased feelings depression recently.  Continues meds, continues with psych.  - Dr Godwin @  Whitney St; counselling w/ Vaughn.  Sober x 5 years. 
+ 
+DM:
+HbA1c  11/18/2069 6.00  Home glucose monitoring     Hypoglycemia Assessment/Counseling     M-alb/creat ratio  07/14/2069 4.1  Microalbumin  07/14/2069 0.6  Nutrition Referral     Ophthal Exam  12/17/2069 Appointment scheduled   Podiatry exam   
+HTN - Tols meds wellHepC - stable labs.  Abd u/s notable for enlarged spleen in April -- repeat ordered last visit but not yet scheduled.  Plt count slightly low.  Discussed with pt, q6 month checks necessary.
+Labs Tuesday
+U/s
+ 
+ Stable persistant LE edema  better with the Lasix. 
+Continued pain L shoulder, still wrosening for about a year.  Has ortho appt  - has missed prior apps because he is afraid.  narcotic refills planned.  Agree to methadone this time in light of Percocet shortage and possible preferability of methadone rx. 
+Addictions:  Has fol at HMI where he gets his methadone (90mg)
+ Review of Systems HEENT no sore throat, dysphagia, odynophagia, trouble hearing or seeing, rhinitis, or sinus painCV no  palpitations, orthopnea, PND, claudication sx.RESP negative for SOB, wheeze, coughGI negative for abd pain, diarrhea, heartburn, dyspepsia, anorexiaMUSCULOSKEL as aboveSKIN negativeNEURO negative for numbness, tingling, weakness, fallsPSYCH + depression and anxietyALLERGIC negative
+ Problems  EtOH  : last drink 4/27/63Hepatitis C  Htn  H/O hepatitis B  : 15 years ago after episode of jaundice with HCV two years agoH/O drug abuse  : IV drug user stopped heroin 2 years ago-methadone maintenence 95 mg qdfracture  : thumb age 47Hernia repair  : bilateral inguinal hernia repair Obesity  abnormal SPEP  : could be from Hep C but needs fol esp in light of periph neuropathy - repeat in 4 mos (1/67)Coronary artery disease  : 2 stents rcaDiabetes mellitus type 2  : insulinMedications  Aspirin (ACETYLSALICYLIC Acid) 325 MG (325MG TABLET Take 1) PO QD , per cards enteric coatedLISINOPRIL 5 MG (5MG TABLET Take 1) PO QD , per cards #30 Tablet(s)Lopressor (METOPROLOL Tartrate) 50 MG (50MG TABLET Take 1) PO BID  #60 Tablet(s)Neurontin (GABAPENTIN) 600 MG (300MG CAPSULE Take 2) PO QID x 30 days #1 Month(s) SupplyPlavix (CLOPIDOGREL) 75 MG (75MG TABLET Take 1) PO QD , per cards #30 Tablet(s)Risperdal (RISPERIDONE) 2 MG (2MG TABLET Take 1) PO QHS , via psychSIMVASTATIN 40 MG (40MG TABLET Take 1) PO QHS x 30 days #30 Tablet(s)Allergies  Sulfa  - Rash, Codeine  - Rash, Family History See LMR Social History NonSmokerHealth Maintenance  Cholesterol-HDL 12/27/2068 25   Cholesterol-LDL 12/27/2068 71  DESIRABLE: Cholesterol 12/17/2069  Appointment scheduled  Complete Physical Exam 06/11/2067    GFR (estimated) 11/21/2069 >60  Abnormal if HbA1c 11/18/2069 6.00   HBsAB 04/04/2063 NEG   HBsAG 04/04/2063 NEG   Hct (Hematocrit) 11/21/2069 38.4   Hep A Vaccine 11/13/2063   
+ Hep B Vaccine 11/13/2063   
+ Hgb (Hemoglobin) 11/21/2069 13.3   Influenza Vaccine 09/30/2069    M-alb/creat ratio 07/14/2069 4.1   Microalbumin 07/14/2069 0.6   Ophthal Exam 12/17/2069  Appointment scheduled  PPD 09/20/2066   Negative 0mm induration  Smoking status 05/08/2068  Current smoker  Td Booster 01/07/2062    Triglycerides 12/27/2068 181   TSH 12/27/2068 1.67   UA-Protein 11/18/2069 NEGATIVE   Vital Signs  BLOOD PRESSURE 128/68 WEIGHT 210 lbAGE 56y0.5mPhysical Exam Stable fatigued appearance NAD
+Good eye contact, still slightly pressured.HEENT: EOMI, PERRL.  O/p clear no erythema, no exudate. Dentures. Tonsils not enlarged.Neck supple FROM, no cervical LAD. Thyroid nontender, nonpalpable.TMs clear bilat without effusion or erythema. CV: RRR nl s1s2 no MRG. LUNGS:  CTA bilat with good air movement, no wheeze, rhonchi, crackles.  Normal PMIGI: Abd soft + BS nontender, obese, no masses, no HSMSKIN: Mild pretibial discoloration without woody induration. no bruising.  Trace peripheral edema. Plan 1. Counselling as above: calcium, diet and exercise, seatbelts2. DM: Doing much better, repeat labs Tuesday.
+3. Cirrhosis, Hep C, labs in 3 months.
+4. Continue methadone, review 1/67.
+5. Continue aspirin, lisinopril, metoprolol, gabapentin, simvastatin, risperdal, and plavix.
+6. No alcohol, no tobacco.
+7. Review of psychiatry with Dr. Godwin.
+8. Review of foot care with Dr. Wong.
+9. Continue to try to get him to see ortho.
+10. Continue with HMI.
+11. Review of labs and foot care.
+12. Review of medications.
+13. Review of diet, exercise, seatbelts.
+14. Review of psychiatry with Dr. Godwin.
+15. Review of foot care with Dr. Wong.
+16. Review of medications.
+17. Review of diet, exercise, seatbelts.
+18. Review of psychiatry with Dr. Godwin.
+19. Review of foot care with Dr. Wong.
+20. Review of medications.
+21. Review of diet, exercise, seatbelts.
+22. Review of psychiatry with Dr. Godwin.
+23. Review of foot care with Dr. Wong.
+24. Review of medications.
+25. Review of diet, exercise, seatbelts.
+26. Review of psychiatry with Dr. Godwin.
+27. Review of foot care with Dr. Wong.
+28. Review of medications.
+29. Review of diet, exercise, seatbelts.
+30. Review of psychiatry with Dr. Godwin.
+31. Review of foot care with Dr. Wong.
+32. Review of medications.
+33. Review of diet, exercise, seatbelts.
+34. Review of psychiatry with Dr. Godwin.
+35. Review of foot care with Dr. Wong.
+36. Review of medications.
+37. Review of diet, exercise, seatbelts.
+38. Review of psychiatry with Dr. Godwin.
+39. Review of foot care with Dr. Wong.
+40. Review of medications.
+41. Review of diet, exercise, seatbelts.
+42. Review of psychiatry with Dr. Godwin.
+43. Review of foot care with Dr. Wong.
+44. Review of medications.
+45. Review of diet, exercise, seatbelts.
+46. Review of psychiatry with Dr. Godwin.
+47. Review of foot care with Dr. Wong.
+48. Review of medications.
+49. Review of diet, exercise, seatbelts.
+50. Review of psychiatry with Dr. Godwin.
+51. Review of foot care with Dr. Wong.
+52. Review of medications.
+53. Review of diet, exercise, seatbelts.
+54. Review of psychiatry with Dr. Godwin.
+55. Review of foot care with Dr. Wong.
+56. Review of medications.
+57. Review of diet, exercise, seatbelts.
+58. Review of psychiatry with Dr. Godwin.
+59. Review of foot care with Dr. Wong.
+60. Review of medications.
+61. Review of diet, exercise, seatbelts.
+62. Review of psychiatry with Dr. Godwin.
+63. Review of foot care with Dr. Wong.
+64. Review of medications.
+65. Review of diet, exercise, seatbelts.
+66. Review of psychiatry with Dr. Godwin.
+67. Review of foot care with Dr. Wong.
+68. Review of medications.
+69. Review of diet, exercise, seatbelts.
+70. Review of psychiatry with Dr. Godwin.
+71. Review of foot care with Dr. Wong.
+72. Review of medications.
+73. Review of diet, exercise, seatbelts.
+74. Review of psychiatry with Dr. Godwin.
+75. Review of foot care with Dr. Wong.
+76. Review of medications.
+77. Review of diet, exercise, seatbelts.
+78. Review of psychiatry with Dr. Godwin.
+79. Review of foot care with Dr. Wong.
+80. Review of medications.
+81. Review of diet, exercise, seatbelts.
+82. Review of psychiatry with Dr. Godwin.
+83. Review of foot care with Dr. Wong.
+84. Review of medications.
+85. Review of diet, exercise, seatbelts.
+86. Review of psychiatry with Dr. Godwin.
+87. Review of foot care with Dr. Wong.
+88. Review of medications.
+89. Review of diet, exercise, seatbelts.
+90. Review of psychiatry with Dr. Godwin.
+91. Review of foot care with Dr. Wong.
+92. Review of medications.
+93. Review of diet, exercise, seatbelts.
+94. Review of psychiatry with Dr. Godwin.
+95. Review of foot care with Dr. Wong.
+96. Review of medications.
+97. Review of diet, exercise, seatbelts.
+98. Review of psychiatry with Dr. Godwin.
+99. Review of foot care with Dr. Wong.
+100. Review of medications.
+101. Review of diet, exercise, seatbelts.
+102. Review of psychiatry with Dr. Godwin.
+103. Review of foot care with Dr. Wong.
+104. Review of medications.
+105. Review of diet, exercise, seatbelts.
+106. Review of psychiatry with Dr. Godwin.
+107. Review of foot care with Dr. Wong.
+108. Review of medications.
+109. Review of diet, exercise, seatbelts.
+110. Review of psychiatry with Dr. Godwin.
+111. Review of foot care with Dr. Wong.
+112. Review of medications.
+113. Review of diet, exercise, seatbelts.
+114. Review of psychiatry with Dr. Godwin.
+115. Review of foot care with Dr. Wong.
+116. Review of medications.
+117. Review of diet, exercise, seatbelts.
+118. Review of psychiatry with Dr. Godwin.
+119. Review of foot care with Dr. Wong.
+120. Review of medications.
+121. Review of diet, exercise, seatbelts.
+122. Review of psychiatry with Dr. Godwin.
+123. Review of foot care with Dr. Wong.
+124. Review of medications.
+125. Review of diet, exercise, seatbelts.
+126. Review of psychiatry with Dr. Godwin.
+127. Review of foot care with Dr. Wong.
+128. Review of medications.
+129. Review of diet, exercise, seatbelts.
+130. Review of psychiatry with Dr. Godwin.
+131. Review of foot care with Dr. Wong.
+132. Review of medications.
+133. Review of diet, exercise, seatbelts.
+134. Review of psychiatry with Dr. Godwin.
+135. Review of foot care with Dr. Wong.
+136. Review of medications.
+137. Review of diet, exercise, seatbelts.
+138. Review of psychiatry with Dr. Godwin.
+139. Review of foot care with Dr. Wong.
+140. Review of medications.
+141. Review of diet, exercise, seatbelts.
+142. Review of psychiatry with Dr. Godwin.
+143. Review of foot care with Dr. Wong.
+144. Review of medications.
+145. Review of diet, exercise, seatbelts.
+146. Review of psychiatry with Dr. Godwin.
+147. Review of foot care with Dr. Wong.
+148. Review of medications.
+149. Review of diet, exercise, seatbelts.
+150. Review of psychiatry with Dr. Godwin.
+151. Review of foot care with Dr. Wong.
+152

@@ -1,0 +1,440 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2073-09-22
+
+ 
+
+SMH Junior Neurology Consult Note
+
+9/22/73
+
+
+
+
+ID/CC: 55 yo male presents from rehab facility with shaking activity.
+
+
+
+HPI:	 He has a h/o frozen shoulder and is s/p left shoulder arthroscopy, capsular release,
+
+09/03/2073. He was discharged on OxyContin 20 mg p.o. b.i.d. x4 days, oxycodone 5-10 mg
+
+p.o. q.3h. p.r.n. pain. He returned to the SMH ED on Mon 9/17 with shaking activity that was episodic but not rhythmic. He was given Narcan and the shaking subsided. He was sent back to rehab off opiates. He returns today from the rehab facility with recurrence of shaking activity
+
+He was given Ativan 1mg at rehab today. 
+
+In the ED he was given Ativan 2mg, Haldol 5mg, Narcan 0.4 mg (after which he was more awake) and Lopressor 5 mg iv
+
+
+
+
+
+
+
+
+
+PMH:
+
+1.	diabetes retinopathy, neuropathy,nephropathy, 
+
+2.	coronary artery disease, 
+
+3.	hyperhomocysteinemia, 
+
+4.	hypertension
+
+5.	end-stage renal disease on hemodialysis,
+
+6.	hyperlipidemia, 
+
+7.	hypothyroidism,
+
+8.	asthma, 
+
+9.	gastroesophageal reflux disease 
+
+10.	positive PPD on rifampin.
+
+
+
+
+
+Medications:
+
+Lisinopril, Norvasc, Nephrocaps, Nexium,
+
+Humulin, Neurontin, ketoconazole, Lac-Hydrin, Pulmicort, Bupropion, Epogen,
+
+albuterol inhaler, Synthroid, quinine, folate, rifampin.
+
+
+
+
+
+Allergies:  
+
+Potassium Iod (OBSOLETE) - Unknown : Allergy entered as IODINE SOLN
+
+Iv Contrast - Unknown
+
+METFORMIN - diarrhea, 
+
+ISONIAZID - Hepatitis, : LFTs returned to normal after INH d/c'd.
+
+
+
+FH:
+
+Not obtained
+
+
+
+SH:  
+
+Not obtained
+
+		
+
+
+
+ROS:  Not obtained
+
+
+
+ED: Vitals 1538: T: p70  BP 190/80 up to 265/108 rr  22  O2 
+
+
+
+General:	eyes fixed shut, NAD 
+
+HEENT:	Anicteric, MMM without lesions, 
+
+Neck:    	Supple 
+
+CV:		Reg rhythm, normal s1s2, no m/r/g, no carotid bruits, 2+ radial pulses
+
+Resp:	CTAB  and and lat  no  wheeze
+
+Abd:		Soft/NT/ND
+
+Ext:		No C/C/E
+
+
+
+MS:	Responds by grunting "Ouch" to sternal rub, does not follow simple commands, does not answer y/n questions, mute, 
+
+
+
+	
+
+CN:	I - not tested; II,III - pupils round reactive to light bilaterally 4->3mm, VFF by confrontation,; III,IV,VI - no gaze preference, no nystagmus;  V-unable to assess VII - no facial asymmetries, y, VIII - hears finger rub 2 feet away B; IX,X - voice normal, palate elevates symmetrically, gag intact; XI - SCM/Trapezii 5/5 B; XII - tongue protrudes midline.
+
+
+
+Motor:	normal bulk and tone. His arms and legs occasionally flail about in the bed in a nonrhythmic fashion.When he is agitated by being examined the adventitious movements are more pronounced. Occasionally he is coaxed into relaxing his legs and they shake minimally to none
+
+
+
+                     Strength: He has good antigravity strength in all ext
+
+  
+
+Reflexes:	
+
+Jaw Jerk:
+
+Crossed hip adduction: none
+
+ 
+
+unable to assess patellar reflexes secondary to patient moving in bed.
+
+
+
+
+
+Sensory:	withdraws purposefully in all ext
+
+Coord:	unable to assess    
+
+Gait:	           unable to assess    
+
+
+
+Labs:
+
+
+
+   SMH  BLOOD          22-Sep-2073 00:48  Accession# 4981N91964
+
+
+
+Sodium (Stat Lab)                142                       (135-145)        mmol/L
+
+Potassium (Stat Lab)             5.0              H        (3.4-4.8)        mmol/L
+
+Chloride (Stat Lab)              110              H        (100-108)        mmol/L
+
+CO2 (Stat Lab)                   25.1                      (23.0-31.9)      mmol/L
+
+BUN (Stat Lab)                   18                        (8-25)           mg/dl
+
+Creatinine (Stat Lab)            4.2              H        (0.6-1.5)        mg/dl
+
+Glucose (Stat Lab)               302              H        (70-110)         mg/dl
+
+
+
+Chemistry Detail for LUJAN, VICTOR 
+
+
+
+   SMH  RANDOM         22-Sep-2073 00:02  Accession# 0389R30883
+
+
+
+Urine Phencyclidine              NEGATIVE
+
+Urine Barbiturates               NEGATIVE
+
+Urine Cannabinoids               NEGATIVE
+
+Urine Amphetamines               NEGATIVE
+
+Urine Benzodiazepines            NEGATIVE
+
+Urine Opiates                    POSITIVE
+
+     This assay is very sensitive to morphine and codeine. The assay is less
+
+     sensitive to oxycodone. Large quantities of oxymorphone and/or meperidine
+
+     can also cause positive results.
+
+Urine Cocaine Metabolites        NEGATIVE
+
+
+
+
+
+   SMH  ED LAB         21-Sep-2073 16:33  Accession# 0646L21612
+
+
+
+
+
+Creatine Kinase Isoenzymes       NEGATIVE                  (NEG)
+
+Troponin-I                       NEGATIVE                  (NEG)
+
+
+
+
+
+
+
+   SMH  BLOOD          21-Sep-2073 16:10  Accession# 1993W67007
+
+
+
+Calcium                          9.6                       (8.5-10.5)       mg/dl
+
+Phosphorus                       2.4              L        (2.6-4.5)        mg/dl
+
+Magnesium                        1.5                       (1.5-2.5)        mg/dl
+
+Potassium                         4.1              H        (3.4-4.8)        mmol/L
+
+Sodium                           138                       (135-145)        mmol/L
+
+Chloride                          108                       (100-108)        mmol/L
+
+CO2                              25.2                      (23.0-31.9)      mmol/L
+
+BUN                              18                        (8-25)           mg/dl
+
+Creatinine                       4.2              H        (0.6-1.5)        mg/dl
+
+Glucose                          302              H        (70-110)         mg/dl
+
+
+
+
+
+   SMH  BLOOD          21-Sep-2073 15:36  Accession# 3647X21627
+
+
+
+Albumin                          4.5                       (3.5-5.0)        g/dl
+
+Bilirubin Total                  0.2              N        (0.1-1.0)        mg/dl
+
+Alkaline Phosphatase              42              H        (35-105)        U/L
+
+Alanine Aminotransferase        147              H        (10-50)         U/L
+
+Aspartate Aminotransferase       109              H        (10-40)         U/L
+
+Alanine Aminotransferase        132              H        (10-50)         U/L
+
+Glucose                          302              H        (70-110)         mg/dl
+
+
+
+
+
+   SMH  BLOOD          21-Sep-2073 15:29  Accession# 2505Y65976
+
+
+
+Urea Nitrogen                    18                        (6-20)           mg/dl
+
+Creatinine                       4.2              H        (0.6-1.5)        mg/dl
+
+Glucose                          302              H        (70-110)         mg/dl
+
+
+
+
+
+   SMH  BLOOD          21-Sep-2073 15:16  Accession# 3345S51972
+
+
+
+Calcium                          9.6                       (8.5-10.5)       mg/dl
+
+Phosphorus                       2.4              L        (2.6-4.5)        mg/dl
+
+Magnesium                        1.5                       (1.5-2.5)        mg/dl
+
+Potassium                         4.1              H        (3.4-4.8)        mmol/L
+
+Sodium                           138                       (135-145)        mmol/L
+
+Chloride                          108                       (100-108)        mmol/L
+
+CO2                              25.2                      (23.0-31.9)      mmol/L
+
+BUN                              18                        (8-25)           mg/dl
+
+Creatinine                       4.2              H        (0.6-1.5)        mg/dl
+
+Glucose                          302              H        (70-110)         mg/dl
+
+
+
+
+
+   SMH  BLOOD          21-Sep-2073 15:14  Accession# 2163X21640
+
+
+
+Urea Nitrogen                    18                        (6-20)           mg/dl
+
+Creatinine                       4.2              H        (0.6-1.5)        mg/dl
+
+Glucose                          302              H        (70-110)         mg/dl
+
+
+
+
+
+   SMH  BLOOD          21-Sep-2073 15:11  Accession# 0893U51955
+
+
+
+Calcium                          9.6                       (8.5-10.5)       mg/dl
+
+Phosphorus                       2.4              L        (2.6-4.5)        mg/dl
+
+Magnesium                        1.5                       (1.5-2.5)        mg/dl
+
+Potassium                         4.1              H        (3.4-4.8)        mmol/L
+
+Sodium                           138                       (135-145)        mmol/L
+
+Chloride                          108                       (100-108)        mmol/L
+
+CO2                              25.2                      (23.0-31.9)      mmol/L
+
+BUN                              18                        (8-25)           mg/dl
+
+Creatinine                       4.2              H        (0.6-1.5)        mg/dl
+
+Glucose                          302              H        (70-110)         mg/dl
+
+
+
+
+
+   SMH  BLOOD          21-Sep-2073 15:09  Accession# 0104Z21641
+
+
+
+Urea Nitrogen                    18                        (6-20)           mg/dl
+
+Creatinine                       4.2              H        (0.6-1.5)        mg/dl
+
+Glucose                          302              H        (70-110)         mg/dl
+
+
+
+
+
+   SMH  BLOOD          21-Sep-2073 15:08  Accession# 1575W61977
+
+
+
+Calcium                          9.6                       (8.5-10.5)       mg/dl
+
+Phosphorus                       2.4              L        (2.6-4.5)        mg/dl
+
+Magnesium                        1.5                       (1.5-2.5)        mg/dl
+
+Potassium                         4.1              H        (3.4-4.8)        mmol/L
+
+Sodium                           138                       (135-145)        mmol/L
+
+Chloride                          108                       (100-108)        mmol/L
+
+CO2                              25.2                      (23.0-31.9)      mmol/L
+
+BUN                              18                        (8-25)           mg/dl
+
+Creatinine                       4.2              H        (0.6-1.5)        mg/dl
+
+Glucose                          302              H        (70-110)         mg/dl
+
+
+
+
+
+   SMH  BLOOD          21-Sep-2073 15:07  Accession# 0982K21658
+
+
+
+Urea Nitrogen                    18                        (6-20)           mg/dl
+
+Creatinine                       4.2              H        (0.6-1.5)        mg/dl
+
+Glucose                          302              H        (70-110)         mg/dl
+
+
+
+
+
+   SMH  BLOOD          21-Sep-2073 15:06  Accession# 2795X21645
+
+
+
+Calcium                          9.6                       (8.5-10.5)       mg/dl
+
+Phosphorus                       2.4              L        (2.6-4.5)        mg/dl
+
+Magnesium                        1.5                       (1.5-2.5)        mg/dl
+
+Potassium                         4.1              H        (3.4-4.8)        mmol/L
+
+Sodium                           138                       (135

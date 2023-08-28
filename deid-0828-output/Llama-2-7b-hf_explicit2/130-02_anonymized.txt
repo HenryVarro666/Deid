@@ -1,0 +1,459 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2084-12-27
+
+ 
+
+
+
+JAR Night-float Admission Note
+
+Internal Medicine
+
+
+
+Patient: 			Mae Paul	
+
+MRN: 			1005708
+
+Date of admission:	12/27/2084
+
+Renal Attending:		Dr. John
+
+
+
+Cc: cough, SOB, failed Z-pk x2
+
+
+
+HPI: 
+
+Pt is a 73yo female with ESRD on HS s/p kidney transplant x2.  She has had a cough for over the past week.  No fever; no sputum production. Also reports 1 day of sore throat, now resolved and nasal congestion forh te past week.  Her grandson (age 4) has had a cough/head cold.  Her daughter is a surgeon and has prescribed her a Z-pk x 2 which she has failed and yesterday gave her a dose of levaquin 500mg on 12/26/2084. Last HD on 12/22; missed on 12/25.
+
+	On presentation to the ED her Vs were: T=97.9 P=118 BP=173/93 sat=91%RA. Saturations decreased to 91%on 4L in setting of SBP to 221/119.  She was treated with IV lopressor 2.5 x2 and lopressor 12.5 po. Saturation improved to 95%4L. Renal team evaluated her and she will have dialysis this am. She was admitted to floor for further evaluation.
+
+
+
+ROS: as above. No chest pain.? Wheezing today. + SOB. No N/V/D. No rashes. No HA, muscle aches. + fatigue/generalized weakness.
+
+
+
+PMH:	
+
+1.	ESRD 2/2 GN on HD; Status post left and right kidney transplants 2078 and 2075, which have failed. Off immunosuppressive for the past 4 years.
+
+2.	Htn
+
+3.	PVD: Lower extremity PVD.  This was shown on angio 9/83 (Dr. Xayasane), but she denies claudication.  
+
+4.	R foot drop  due to shingles
+
+5.	hemorrhoids: Five- to six-year history constant anal protrusion and bloody discharge and mucus nearly constantly (wears a pad).  No anal pain. No rectal surgeries.
+
+6.	Status post supracervical hysterectomy (no BSO) for benign disease. 4/82 underwent left salpingo-oophorectomy for serous cyst (Dr. Sutton).
+
+7.	Status post appendectomy.  
+
+8.	8/81 she was treated for CMV colitis.
+
+9.	Spinal stenosis and sciatica.  
+
+
+
+Current Meds: daughter not present; need to verigy meds/doses
+
+  	Pravachol
+
+  	Norvasc
+
+  	Phoslo
+
+  	Nephrocaps
+
+  	Neurontin
+
+
+
+Allergies:
+
+Vasotec
+
+tape
+
+
+
+Fam Hx:
+
+NC
+
+
+
+Social History:
+
+Retired Mathematician at Vassar.  Widow.  Lives alone.  Has daughter in the area (a surgeon).
+
+No smoking.
+
+
+
+Physical Examination:
+
+Exam:  	VS:	T=99.7	HR=101 	BP=159/88	RR=22	SaO2= 92%6LRA
+
+General:  
+
+HEENT: NC/AT,  PERRL, anicteric. OP w/ DMM, no erythema or injection.
+
+Skin:	No rashes
+
+Neck:  	Supple, 2+ carotids w/o bruits, no thyromegaly or nodules, no nodes
+
+Chest: 	inspiratory crackles in right lower and mid lung fields, left side clear, no wheezing
+
+CVS:  	RRR nl S1 S2, no m/r/g
+
+Abd:  	nl BS, soft, non-tender
+
+Extr:  	no c/c/e 2+ DP's bilaterally
+
+Neuro:  AAOX3, MS nl  
+
+
+
+Data:
+
+Chemistries:
+
+          	12/27/84  	12/26/84  
+
+          	00:46     	16:08     
+
+NA        	139       	138       	          	          	          
+
+K         	4.9(H)    	5.6(H)    	          	          	          
+
+CL        	100       	95(L)     	          	          	          
+
+CO2       	24.4      	21.8(L)   	          	          	          
+
+BUN       	122(H)    	110(H)    	          	          	          
+
+CRE       	12.7(H)   	11.7(H)   	          	          	          
+
+GLU       	100       	109       	
+
+
+
+          	12/26/84  
+
+          	16:08     
+
+CA        	10.1      	          	          	          	          
+
+PHOS      4.0       	          	          	          	          
+
+MG        	2.1(H)    	          	          	          	          
+
+TBILI     	0.3       	          	          	          	          
+
+DBILI     	0.1       	          	          	          	          
+
+TP        	8.1       	          	          	          	          
+
+ALB       	3.7       	          	          	          	          
+
+GLOB      	4.4(H)    	          	          	          	          
+
+AMY       	114(H)    	          	          	          	          
+
+LIPS      	3.9       
+
+
+
+          	12/26/84  
+
+          	16:08     
+
+ALT/SGPT  	12        	          	          	          	          
+
+AST/SGOT  	21        	          	          	          	          
+
+ALKP      	221(H)    	          	          	          	          
+
+TBILI     	0.3       	          	          	          	          
+
+DBILI     	0.1      
+
+
+
+          	12/26/84  
+
+          	16:08     
+
+CHOL      189(T)    	          	          	          	          
+
+TRIG      	224(H)    	          	          	          	          
+
+HDL       	65        	          	          	          	          
+
+
+
+Heme:
+
+          	12/26/84  
+
+          	15:52     
+
+WBC       	8.1       	          	          	          	          
+
+HCT       	37.7      	          	          	          	          
+
+MCV       	81        	          	          	          	          
+
+PLT       	326       	          	          	          	          
+
+METHOD    	Auto      	          	          	          	          
+
+%NEUT     	69        	          	          	          	          
+
+%LYMPH   	16        	          	          	          	          
+
+%MONO    	15        	          	          	          	          
+
+%EOS     	0        	          	          	          	          
+
+%BASOPH  	0        	          	          	          	          
+
+%EOSINOPH	0        	          	          	          	          
+
+%NORMOPH	0        	          	          	          	          
+
+%LGLPH   	0        	          	          	          	          
+
+%MONOGLY	0        	          	          	          	          
+
+%EOSGLY	0        	          	          	          	          
+
+%BASOPHGL	0        	          	          	          	          
+
+%EOSINOPHGL	0        	          	          	          	          
+
+
+
+Urine:
+
+          	12/27/84  
+
+          	16:08     
+
+C/S       	4+ 		          	          	          	          
+
+B/S       	4+ 		          	          	          	          
+
+S/S       	cloudy 		          	          	          	          
+
+N/V       	no 		          	          	          	          
+
+RBC       	10-15 hpf 		          	          	          	          
+
+WBC       	10-15 hpf 		          	          	          	          
+
+RBC/WBC	1:10-15 		          	          	          	          
+
+KETONES  	no 		          	          	          	          
+
+Urobilinogen	no 		          	          	          	          
+
+Leukocytes	no 		          	          	          	          
+
+
+
+Micro:
+
+          	12/26/84  
+
+          	16:08     
+
+Microscopic Urine:
+
+Candida albicans (100,000)
+
+Candida tropicalis (100,000)
+
+Candida parapsilosis (100,000)
+
+Candida glabrata (100,000)
+
+Candida guilliermondii (100,000)
+
+Candida krusei (100,000)
+
+Candida tropicalis (100,000)
+
+Candida albicans (100,000)
+
+Candida parapsilosis (100,000)
+
+Candida glabrata (100,000)
+
+Candida guilliermondii (100,000)
+
+Candida krusei (100,000)
+
+Candida tropicalis (100,000)
+
+Candida albicans (100,000)
+
+Candida parapsilosis (100,000)
+
+Candida glabrata (100,000)
+
+Candida guilliermondii (100,000)
+
+Candida krusei (100,000)
+
+Candida tropicalis (100,000)
+
+Candida albicans (100,000)
+
+Candida parapsilosis (100,000)
+
+Candida glabrata (100,000)
+
+Candida guilliermondii (100,000)
+
+Candida krusei (100,000)
+
+Candida tropicalis (100,000)
+
+Candida albicans (100,000)
+
+Candida parapsilosis (100,000)
+
+Candida glabrata (100,000)
+
+Candida guilliermondii (100,000)
+
+Candida krusei (100,000)
+
+Candida tropicalis (100,000)
+
+Candida albicans (100,000)
+
+Candida parapsilosis (100,000)
+
+Candida glabrata (100,000)
+
+Candida guilliermondii (100,000)
+
+Candida krusei (100,000)
+
+Candida tropicalis (100,000)
+
+Candida albicans (100,000)
+
+Candida parapsilosis (100,000)
+
+Candida glabrata (100,000)
+
+Candida guilliermondii (100,000)
+
+Candida krusei (100,000)
+
+Candida tropicalis (100,000)
+
+Candida albicans (100,000)
+
+Candida parapsilosis (100,000)
+
+Candida glabrata (100,000)
+
+Candida guilliermondii (100,000)
+
+Candida krusei (100,000)
+
+Candida tropicalis (100,000)
+
+Candida albicans (100,000)
+
+Candida parapsilosis (100,000)
+
+Candida glabrata (100,000)
+
+Candida guilliermondii (100,000)
+
+Candida krusei (100,000)
+
+Candida tropicalis (100,000)
+
+Candida albicans (100,000)
+
+Candida parapsilosis (100,000)
+
+Candida glabrata (100,000)
+
+Candida guilliermondii (100,000)
+
+Candida krusei (100,000)
+
+Candida tropicalis (100,000)
+
+Candida albicans (100,000)
+
+Candida parapsilosis (100,000)
+
+Candida glabrata (100,000)
+
+Candida guilliermondii (100,000)
+
+Candida krusei (100,000)
+
+Candida tropicalis (100,000)
+
+Candida albicans (100,000)
+
+Candida parapsilosis (100,000)
+
+Candida glabrata (100,000)
+
+Candida guilliermondii (100,000)
+
+Candida krusei (100,000)
+
+Candida tropicalis (100,000)
+
+Candida albicans (100,000)
+
+Candida parapsilosis (100,000)
+
+Candida glabrata (100,000)
+
+Candida guilliermondii (100,000)
+
+Candida krusei (100,000)
+
+Candida tropicalis (100,000)
+
+Candida albicans (100,000)
+
+Candida parapsilosis (100,000)
+
+Candida glabrata (100,000)
+
+Candida guilliermondii (100,000)
+
+Candida krusei (100,000)
+
+Candida tropicalis (100,000)
+
+Candida albicans (100,000)
+
+Candida parapsilosis (100,000)
+
+Candida glabrata (100,000)
+
+Candida guilliermondii (100,000)
+
+Candida

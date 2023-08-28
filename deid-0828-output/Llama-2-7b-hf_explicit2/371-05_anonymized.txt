@@ -1,0 +1,287 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2080-05-27
+
+ 71F w/ MMPs returns to clinic for a routine f/u visit.
+
+Since I last saw her, she has made some nice strides.  Her breathing and ability to exert herself is significantly better w/ BP control, diuretics, control of gerd, and mild weight loss.
+She had a sling placed for incontinence which has helped. She also has some improved back pain w/ lidoderm patches and prn oxycodone.
+
+She had a sleep study recently confirming the presence of sleep apnea.
+
+
+Problems
+Hypertension 
+Elevated cholesterol 
+Cervical polyp 
+endometrial polyp 
+osteoarthritis 
+Sleep apnea 
+diastolic heart failure 
+Restrictive pulmonary disease 
+Diabetes mellitus type 2 
+
+Medications
+Calcium + D (500 ELEM. CA) (CALCIUM CARBONATE 1250 MG (500MG ELEM CA)/ VIT D 200 IU)) 2 TAB (500MG-200 TABLET ) PO Q12H 
+Carvedilol 6.25 MG (6.25MG TABLET take 1) PO BID 
+Celebrex (CELECOXIB) 100 MG (100MG CAPSULE take 1) PO BID 
+Diovan (VALSARTAN) 160 MG (160MG TABLET take 1) PO QD 
+Fosamax (ALENDRONATE) 70 MG (70MG TABLET take 1) PO QWEEK 
+Hydrochlorothiazide 25 MG (25MG TABLET take 1) PO QD 
+Lasix (FUROSEMIDE) 20 MG (20MG TABLET take 1) PO QD 
+Levothyroxine SODIUM 100MCG TABLET PO QD 
+Lidoderm 5% PATCH (LIDOCAINE 5% PATCH) 1 PATCH (5% ADH. PATCH ) TRANSDERMAL QD , Patch should be applied to intact skin only, covering the most painful area(s). Remove release liner and apply up to 3 patches at one time, for up to 12 hours within a 24-hour period. Patches may be cut into smaller sizes with scissors prior to removal of the release liner. 
+Loratadine 10 MG (10MG TABLET take 1) PO QD 
+Metformin Variable (500MG/5ML SOLUTION take 1 ML) PO 
+Neurontin (GABAPENTIN) 300 MG (300MG CAPSULE take 1) PO TID x 30 days
+Percocet (OXYCODONE+APAP) 325-5 TABLET take 1 Tablet(s) PO TID x 30 days
+Plavix (CLOPIDOGREL) 75 MG (75MG TABLET take 1) PO QD 
+Prilosec (OMEPRAZOLE) 20 MG (20MG CAPSULE DR take 1) PO QD 
+Senna TABLETS (SENNOSIDES) 2 TAB (187MG TABLET ) PO BID 
+Zantac (RANITIDINE HCL) 150MG TABLET take 1 Tablet(s) PO BID , keep md appt for oct 12
+Zocor (SIMVASTATIN) 20 MG (20MG TABLET take 1) PO QHS , to replace lipitor 
+
+Allergies
+Penicillins - rash, 
+Gadolinium Chelates - Itching, Hives, Bronchospasm or Wheezing : 8/03/76 Patient developed a moderate ( grade II) reaction to Gadolinuim. Based on this even, recommendations for future studies include pre-treatment with corticosteroids followed by Gadolinium chealtes. 
+
+PE:
+PULSE 67 
+BLOOD PRESSURE 124/62 
+WEIGHT 202 lb
+FINGER BLOOD GLUCOSE 103 
+well appearing, nad, JVP 7
+lungs clear, rrr s1 s2 soft sys murmur
+abd soft nt/nd +bs
+legs w/ essentially no edema
+
+
+A/P: 71F w/ MMPs including CAD w/ recent normal MIBI, diastolic CHF, restrictive lung disease, osteoarthritis returns to clinic doing better than before.
+
+1)CV: Pt has diastolic CHF, w/ vol status cont to be improved on exam w/ almost no le edema on lasix (minimal hjr). She still c/o doe but even this is much improved. Etiology is likely multifactorial (restrictive lung, diastolic chf, obesity/OSA/deconditioning). Recent echo w/ EF 65% and DD. Recent MIBI wnl--no ischemia. BP well controlled and HR 60s. Cont to eat salt.  
+-cont diovan 160, hctz 25, lasix 20, carvedilol, plavix (per family doc), lipitor.
+-Close monitoring of electrolytes. Re-check today.
+-low fat, low Na diet
+-Check lytes, LFTs today.
+-F/U with cardiology in clinic
+
+2)Pulm: Shortness of breath likely multifactorial.  Recent PFTs reveal presence of restrictive lung disease with impaired diffusion. However, effort was sub-optimal and patient volume overloaded.  Also w/ significant obesity. Pt had recent sleep study confirming OSA. CT chest w/ non-specific findings and an "indeterminate" nodule.
+-Am not opposed to cardiopulmonary testing per pulmonary, though sxs are slowly improving.
+-Had + sleep study and have provided Rx for cpap to begin next month.
+-Repeat CT chest regarding pulm nodule--likely benign
+-F/u in pulm dept
+
+3)Endocrine: Pt w/ recently diagnosed diabetes w/ hba1c about 6.8. FS log reveals good AM glycemic control. Also w/ a hx of hypothyroidism.  Feeling cold recently, needs more test strips.
+-Cont metfromin 500 BID.
+-Check Hba1c.
+-Cont Home glucometer. Refills given.
+-Re-check TSH today for complaints of feeling cold.
+-Re-emphasized need for continued weight loss and congratulated patient on recent efforts.
+
+4)OB/GYN: Hx of thickened endometrial stripe, but normal endometrial bipsy. Also hx of atrophic vaginitis prescribed topical estrogen cream. Not currently sexually active. Also w/ urinary incontinence s/p sling w/ improvement.
+-cont topical estradiol
+-f/u in ob/gyn clinic
+
+5)GI: Patient c/o sensation of fullness in throat, occasional dysphagia w/ regurgitation now improved on increased dose of nexium. Barium swallow wnl. Has abd scar w/ mild drainage tract. Per surgery, correction only needed for cosmetic purposes. +gallstones on CT.
+-Cont Nexium 40 mg BID.
+-F/U in GI clinic
+
+6)Neuro: Patient w/ complaints of headaches and dizziness. Hx of mild cervical polyp.
+-Cont celebrex
+-F/U in neuro clinic
+
+7)Psych: Patient w/ complaints of anxiety and depression.
+-Cont Zoloft
+-F/U in psych clinic
+
+8)Dermatology: Patient w/ complaints of itching, hives, and bronchospasm after gadolinium.
+-Cont zantac
+-F/U in derm clinic
+
+9)Hematology: Patient w/ complaints of fatigue.
+-Cont zocor
+-F/U in hematology clinic
+
+10)Pain: Patient w/ complaints of back pain.
+-Cont lidoderm patches
+-F/U in pain clinic
+
+11)PCP: Patient w/ complaints of itching, hives, and bronchospasm after gadolinium.
+-Cont zantac
+-F/U in pcp clinic
+
+12)Dentistry: Patient w/ complaints of pain in teeth.
+-Cont senna
+-F/U in dentistry clinic
+
+13)OT: Patient w/ complaints of difficulty sleeping.
+-Cont zaleplon
+-F/U in OT clinic
+
+14)Rheumatology: Patient w/ complaints of joint pain.
+-Cont methotrexate
+-F/U in rheumatology clinic
+
+15)Urology: Patient w/ complaints of urinary incontinence.
+-Cont oxycodone
+-F/U in urology clinic
+
+16)Geriatrics: Patient w/ complaints of weakness.
+-Cont levothyroxine
+-F/U in geriatrics clinic
+
+17)Psychiatry: Patient w/ complaints of anxiety and depression.
+-Cont zoloft
+-F/U in psychiatry clinic
+
+18)Dermatology: Patient w/ complaints of itching, hives, and bronchospasm after gadolinium.
+-Cont zantac
+-F/U in derm clinic
+
+19)Neurology: Patient w/ complaints of headaches and dizziness.
+-Cont celebrex
+-F/U in neurology clinic
+
+20)Pain: Patient w/ complaints of back pain.
+-Cont lidoderm patches
+-F/U in pain clinic
+
+21)PCP: Patient w/ complaints of itching, hives, and bronchospasm after gadolinium.
+-Cont zantac
+-F/U in pcp clinic
+
+22)Dentistry: Patient w/ complaints of pain in teeth.
+-Cont senna
+-F/U in dentistry clinic
+
+23)OT: Patient w/ complaints of difficulty sleeping.
+-Cont zaleplon
+-F/U in OT clinic
+
+24)Rheumatology: Patient w/ complaints of joint pain.
+-Cont methotrexate
+-F/U in rheumatology clinic
+
+25)Urology: Patient w/ complaints of urinary incontinence.
+-Cont oxycodone
+-F/U in urology clinic
+
+26)Geriatrics: Patient w/ complaints of weakness.
+-Cont levothyroxine
+-F/U in geriatrics clinic
+
+27)Psychiatry: Patient w/ complaints of anxiety and depression.
+-Cont zoloft
+-F/U in psychiatry clinic
+
+28)Dermatology: Patient w/ complaints of itching, hives, and bronchospasm after gadolinium.
+-Cont zantac
+-F/U in derm clinic
+
+29)Neurology: Patient w/ complaints of headaches and dizziness.
+-Cont celebrex
+-F/U in neurology clinic
+
+30)Pain: Patient w/ complaints of back pain.
+-Cont lidoderm patches
+-F/U in pain clinic
+
+31)PCP: Patient w/ complaints of itching, hives, and bronchospasm after gadolinium.
+-Cont zantac
+-F/U in pcp clinic
+
+32)Dentistry: Patient w/ complaints of pain in teeth.
+-Cont senna
+-F/U in dentistry clinic
+
+33)OT: Patient w/ complaints of difficulty sleeping.
+-Cont zaleplon
+-F/U in OT clinic
+
+34)Rheumatology: Patient w/ complaints of joint pain.
+-Cont methotrexate
+-F/U in rheumatology clinic
+
+35)Urology: Patient w/ complaints of urinary incontinence.
+-Cont oxycodone
+-F/U in urology clinic
+
+36)Geriatrics: Patient w/ complaints of weakness.
+-Cont levothyroxine
+-F/U in geriatrics clinic
+
+37)Psychiatry: Patient w/ complaints of anxiety and depression.
+-Cont zoloft
+-F/U in psychiatry clinic
+
+38)Dermatology: Patient w/ complaints of itching, hives, and bronchospasm after gadolinium.
+-Cont zantac
+-F/U in derm clinic
+
+39)Neurology: Patient w/ complaints of headaches and dizziness.
+-Cont celebrex
+-F/U in neurology clinic
+
+40)Pain: Patient w/ complaints of back pain.
+-Cont lidoderm patches
+-F/U in pain clinic
+
+41)PCP: Patient w/ complaints of itching, hives, and bronchospasm after gadolinium.
+-Cont zantac
+-F/U in pcp clinic
+
+42)Dentistry: Patient w/ complaints of pain in teeth.
+-Cont senna
+-F/U in dentistry clinic
+
+43)OT: Patient w/ complaints of difficulty sleeping.
+-Cont zaleplon
+-F/U in OT clinic
+
+44)Rheumatology: Patient w/ complaints of joint pain.
+-Cont methotrexate
+-F/U in rheumatology clinic
+
+45)Urology: Patient w/ complaints of urinary incontinence.
+-Cont oxycodone
+-F/U in urology clinic
+
+46)Geriatrics: Patient w/ complaints of weakness.
+-Cont levothyroxine
+-F/U in geriatrics clinic
+
+47)Psychiatry: Patient w/ complaints of anxiety and depression.
+-Cont zoloft
+-F/U in psychiatry clinic
+
+48)Dermatology: Patient w/ complaints of itching, hives, and bronchospasm after gadolinium.
+-Cont zantac
+-F/U in derm clinic
+
+49)Neurology: Patient w/ complaints of headaches and dizziness.
+-Cont celebrex
+-F/U in neurology clinic
+
+50)Pain: Patient w/ complaints of back pain.
+-Cont lidoderm patches
+-F/U in pain clinic
+
+51)PCP: Patient w/ complaints of itching, hives, and bronchospasm after gadolinium.
+-Cont zantac
+-F/U in pcp clinic
+
+52)Dentistry: Patient w/ complaints of pain in teeth.
+-Cont senna
+-F/U in dentistry clinic
+
+53)OT: Patient w/ complaints of difficulty sleeping.
+-Cont zaleplon
+-F/U in OT clinic
+
+54)Rheumatology: Patient w/ complaints of joint pain.
+-Cont methotrexate
+-F/U in rheumatology clinic
+
+55)Uro

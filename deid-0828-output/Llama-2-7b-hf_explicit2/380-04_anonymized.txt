@@ -1,0 +1,537 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2072-03-01
+
+EDVISIT^91156456^HEATH, HANNAH^03/01/72^YEAGER, CHRISTOPHER
+
+I saw this patient with Dr. Rosalia West.  I confirm that I have
+
+interviewed and examined the patient, reviewed the resident's
+
+documentation on the patient's chart, and discussed the
+
+evaluation, plan of care, and disposition with the patient. 
+
+Please see the resident's note for further details.
+
+CHIEF COMPLAINT:  Altered mental status.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 76-year-old female
+
+with history of prior strokes, hypertension, diabetes, and
+
+paroxysmal atrial fibrillation, who presents with altered mental
+
+status.  As per report, the patient has not been acting like
+
+herself and not communicating or speaking like herself.  The
+
+patient was in her usual state of health until a few days ago
+
+where she started to develop a cough as well as some chills.  The
+
+patient's family members state that the patient has not been out
+
+of bed and has been unwilling to eat.  The patient's family
+
+members state that the patient is not acting like her usual self.
+
+ The patient's family members deny noting the patient complaining
+
+of any nausea, vomiting, chest pain or shortness of breath.  The
+
+patient was actually taken to clinic yesterday because the
+
+patient was starting to speak less.  The patient was seen clinic
+
+and was thought to be depressed.  The patient has a known history
+
+of a facial droop.  The patient was incontinent of urine today.
+
+PHYSICAL EXAMINATION:  The patient's vital signs reveal the
+
+following:  Temperature was 102.8, heart rate 110-160 beats per
+
+minute, respiratory rate 20, blood pressure is 144/110, and
+
+oxygen saturation was 95% on room air.  The patient's oxygen
+
+saturation was interpreted as borderline low.  General:  No acute
+
+distress, multiple family members at bedside.  HEENT:  The
+
+patient's head was normocephalic and atraumatic, no scalp
+
+hematomas.  Pupils were equal, round, and reactive to light. 
+
+Mucous membranes were somewhat dry, right facial droop noted, no
+
+drooling.  Neck:  Supple, no JVD, no carotid bruits appreciated. 
+
+There was no meningismus.  Respiratory:  Poor cooperation with
+
+exam.  Fair aeration, no focal rhonchi, rales, or wheezes, no
+
+increased work of breathing or use of accessory muscles was
+
+noted.  Cardiovascular:  Irregularly irregular, tachycardic,
+
+unable to appreciate any gross murmurs, rubs, or gallops.  GI: 
+
+Abdomen:  Soft, no rebound or guarding, prior well-healed prior
+
+G-tube scar noted.  Rectal exam deferred.  GU exam:  The patient
+
+was incontinent of urine.  Skin:  Warm and dry.  No rash or
+
+lesions were noted.  Back:  The patient did not have any
+
+costovertebral angle tenderness.  There is no midline thoracic,
+
+lumbar, or sacral spine tenderness to palpation.  Extremities: 
+
+Warm and well perfused, no clubbing, cyanosis or asymmetrical
+
+lower extremity edema was noted.  There were no palpable cords. 
+
+Neuro:  The patient was alert, the patient was a verbal.  The
+
+patient grossly moved all 4 extremities with fair strength.  The
+
+patient responded to touch appropriately.  The patient was unable
+
+to cooperate with cranial nerve examination.
+
+INITIAL IMPRESSION AND PLAN:  The patient is a 76-year-old female
+
+with history of prior stroke, hypertension, diabetes, and
+
+paroxysmal atrial fibrillation, who presents with altered mental
+
+status and urinary incontinence.  Differential diagnosis at this
+
+time includes infectious versus a metabolic abnormality.  The
+
+patient has no new deficits on neuro exam as per the family and
+
+as per review of prior notes.  Repeat stroke is certainly on the
+
+differential, however, I have a lower suspicion then for a
+
+metabolic or infectious etiology.  The patient will need to have
+
+a large workup including laboratory studies, urine studies, Foley
+
+catheter, portable chest x-ray, and repeat noncontrast head CT
+
+scan.
+
+EMERGENCY DEPARTMENT COURSE:  Upon arrival to the Emergency
+
+Department, the patient had history and physical exam performed. 
+
+The patient was noted to be in atrial fibrillation with rapid
+
+ventricular response.  The patient's 12-lead EKG revealed a rate
+
+of 166 beats per minute, atrial fibrillation with rapid
+
+ventricular response, stable T-wave inversions noted over the
+
+lateral leads as well as over the precordial leads.  No definite
+
+ST segment abnormalities were noted.  The patient then had a
+
+portable chest x-ray and as per report, the patient's portable
+
+chest x-ray did not reveal any acute cardiopulmonary process or
+
+findings.  The patient did have a noncontrast head CT scan and
+
+the patient's noncontrast head CT scan was notable for some
+
+right-sided edema.  The patient will have this followed up with
+
+an MRI of the brain.  The patient's laboratory studies were
+
+notable for sodium of 131 and potassium of 5.2.  The patient's
+
+lactic acid was 1.7.  The patient's white blood cell count was
+
+not elevated.  The patient was not anemic.  The patient's
+
+urinalysis was consistent with infection.  The patient's first
+
+set of cardiac markers were negative.  The patient's coagulation
+
+studies were normal.  The patient was treated with ceftriaxone
+
+for her urinary tract infection.  The patient could possibly have
+
+urosepsis given her fever and tachycardia.  Urine sepsis is my
+
+leading diagnosis at this time.  The patient's right-sided edema
+
+is certainly concerning, however, I do not feel that the patient
+
+will need to be admitted to Neurology at this time.  The patient
+
+will be admitted to medicine for presumed urosepsis.  The patient
+
+will need to be admitted to a monitor bed.  The patient's blood
+
+pressure is normal, and as such, I do not feel that the patient
+
+needs an intensive care unit bed.  In terms the patient's atrial
+
+fibrillation with rapid ventricular response, the patient was
+
+given metoprolol IV.  The patient was not given any oral
+
+medications secondary to her possible stroke.  The patient was
+
+given rectal Tylenol as well as rectal Kayexalate for her
+
+elevated potassium at 5.2.
+
+PRIMARY DIAGNOSES:
+
+1.  Urosepsis.
+
+2.  Atrial fibrillation with rapid ventricular response.
+
+3.  Right-sided edema.
+
+4.  Potassium of 5.2.
+
+5.  Urine infection.
+
+SECONDARY DIAGNOSES:
+
+1.  Cognitive impairment.
+
+2.  Fever.
+
+3.  Tachycardia.
+
+4.  Anemia.
+
+5.  Altered mental status.
+
+6.  Urinary incontinence.
+
+7.  Right-sided edema.
+
+8.  Sodium of 131.
+
+9.  Potassium of 5.2.
+
+10.  Lactic acid of 1.7.
+
+11.  Urine infection.
+
+12.  Fever.
+
+13.  Tachycardia.
+
+14.  Anemia.
+
+15.  Altered mental status.
+
+16.  Urinary incontinence.
+
+17.  Right-sided edema.
+
+18.  Sodium of 131.
+
+19.  Potassium of 5.2.
+
+20.  Lactic acid of 1.7.
+
+21.  Urine infection.
+
+22.  Fever.
+
+23.  Tachycardia.
+
+24.  Anemia.
+
+25.  Altered mental status.
+
+26.  Urinary incontinence.
+
+27.  Right-sided edema.
+
+28.  Sodium of 131.
+
+29.  Potassium of 5.2.
+
+30.  Lactic acid of 1.7.
+
+31.  Urine infection.
+
+32.  Fever.
+
+33.  Tachycardia.
+
+34.  Anemia.
+
+35.  Altered mental status.
+
+36.  Urinary incontinence.
+
+37.  Right-sided edema.
+
+38.  Sodium of 131.
+
+39.  Potassium of 5.2.
+
+40.  Lactic acid of 1.7.
+
+41.  Urine infection.
+
+42.  Fever.
+
+43.  Tachycardia.
+
+44.  Anemia.
+
+45.  Altered mental status.
+
+46.  Urinary incontinence.
+
+47.  Right-sided edema.
+
+48.  Sodium of 131.
+
+49.  Potassium of 5.2.
+
+50.  Lactic acid of 1.7.
+
+51.  Urine infection.
+
+52.  Fever.
+
+53.  Tachycardia.
+
+54.  Anemia.
+
+55.  Altered mental status.
+
+56.  Urinary incontinence.
+
+57.  Right-sided edema.
+
+58.  Sodium of 131.
+
+59.  Potassium of 5.2.
+
+60.  Lactic acid of 1.7.
+
+61.  Urine infection.
+
+62.  Fever.
+
+63.  Tachycardia.
+
+64.  Anemia.
+
+65.  Altered mental status.
+
+66.  Urinary incontinence.
+
+67.  Right-sided edema.
+
+68.  Sodium of 131.
+
+69.  Potassium of 5.2.
+
+70.  Lactic acid of 1.7.
+
+71.  Urine infection.
+
+72.  Fever.
+
+73.  Tachycardia.
+
+74.  Anemia.
+
+75.  Altered mental status.
+
+76.  Urinary incontinence.
+
+77.  Right-sided edema.
+
+78.  Sodium of 131.
+
+79.  Potassium of 5.2.
+
+80.  Lactic acid of 1.7.
+
+81.  Urine infection.
+
+82.  Fever.
+
+83.  Tachycardia.
+
+84.  Anemia.
+
+85.  Altered mental status.
+
+86.  Urinary incontinence.
+
+87.  Right-sided edema.
+
+88.  Sodium of 131.
+
+89.  Potassium of 5.2.
+
+90.  Lactic acid of 1.7.
+
+91.  Urine infection.
+
+92.  Fever.
+
+93.  Tachycardia.
+
+94.  Anemia.
+
+95.  Altered mental status.
+
+96.  Urinary incontinence.
+
+97.  Right-sided edema.
+
+98.  Sodium of 131.
+
+99.  Potassium of 5.2.
+
+100. Lactic acid of 1.7.
+
+101. Urine infection.
+
+102. Fever.
+
+103. Tachycardia.
+
+104. Anemia.
+
+105. Altered mental status.
+
+106. Urinary incontinence.
+
+107. Right-sided edema.
+
+108. Sodium of 131.
+
+109. Potassium of 5.2.
+
+110. Lactic acid of 1.7.
+
+111. Urine infection.
+
+112. Fever.
+
+113. Tachycardia.
+
+114. Anemia.
+
+115. Altered mental status.
+
+116. Urinary incontinence.
+
+117. Right-sided edema.
+
+118. Sodium of 131.
+
+119. Potassium of 5.2.
+
+120. Lactic acid of 1.7.
+
+121. Urine infection.
+
+122. Fever.
+
+123. Tachycardia.
+
+124. Anemia.
+
+125. Altered mental status.
+
+126. Urinary incontinence.
+
+127. Right-sided edema.
+
+128. Sodium of 131.
+
+129. Potassium of 5.2.
+
+130. Lactic acid of 1.7.
+
+131. Urine infection.
+
+132. Fever.
+
+133. Tachycardia.
+
+134. Anemia.
+
+135. Altered mental status.
+
+136. Urinary incontinence.
+
+137. Right-sided edema.
+
+138. Sodium of 131.
+
+139. Potassium of 5.2.
+
+140. Lactic acid of 1.7.
+
+141. Urine infection.
+
+142. Fever.
+
+143. Tachycardia.
+
+144. Anemia.
+
+145. Altered mental status.
+
+146. Urinary incontinence.
+
+147. Right-sided edema.
+
+148. Sodium of 131.
+
+149. Potassium of 5.2.
+
+150. Lactic acid of 1.7.
+
+151. Urine infection.
+
+152. Fever.
+
+153. Tachycardia.
+
+154. Anemia.
+
+155. Altered mental status.
+
+156. Urinary incontinence.
+
+157. Right-sided edema.
+
+158. Sodium of 131.
+
+159. Potassium of 5.2.
+
+160. Lactic acid of 1.7.
+
+161. Urine infection.
+
+162. Fever.
+
+163. T

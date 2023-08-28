@@ -1,0 +1,204 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2078-03-18
+
+
+
+Freeman Internal Medicine Intern Admission Note
+
+
+PATIENT:  Whitehead, Aidan D
+MRN:  9855218
+ADMIT DATE:  3/17/78
+ATTENDING:  Bell, Charley
+Source: Patient and chart
+
+
+CC:  Diarrhea
+HPI: 1M with DM, HTN, HL, and Parkinson's disease.  In 7/77, he had been treated at NAMG for a left lower lobe PNA with levofloxacin, and developed diarrhea while in the hospital.  After discharge, he continued to have profuse diarrhea, and was treated with IV hydration and metronidazole C. diff infection, first found to be positive on 7/31/77.  Since then he has had multiple episodes of recurrent C. diff.   Most recently, he was admitted to NAMG for treatment of recurrent C. diff in 1/77, with improvement after receiving inpatient vancomycin and flagyl, and discharged to NAMG, where he was for 3 weeks.  He received 21 days of flagyl.  After about two weeks, he noticed a gradual increase in his stool frequency.  Three weeks prior to admission, he began taking 500 mg PO Flagyl q8h, which he had at home.  He felt that his symptoms were improved somewhat on the flagyl.  One week ago, he saw his PCP, where a C. diff stool toxin was negative.   At that point, he stopped the PO flagyl, and shortly afterward his diarrhea again progressively worsened.  Currently he is having 10 BM per day, and he states that they are similar to odor, color, and frequency to his prior C. diff episodes.  He has also had a few days of lower abdominal pain, 2-3/10, with no clear pattern, and noticed a few flecks of blood in his stool 2 days ago on one occasion.   He denies other symptoms including fever/chills, n/v, cp, sob, and dizziness. He reports that when he had taken PO vancomycin in the past, it cost $40 per tablet.
+
+
+ED:  Afebrile, HR 70s.  Hypertensive to 189/82. He was given 1000 cc NS, 5 mg PO amlodipine, 20 mg PO lisinopril, 500 mg IV flagyl. 
+
+
+ROS: Otherwise negative in detail. 
+PMHx:
+Lower back pain
+Hypertension
+Hyperlipidemia
+Elevated blood sugar
+Parkinson&#8217;s disease
+C. difficile colitis
+ALLERGIES: NKDA
+
+
+MEDICATIONS:
+
+
+  1. Acetylsalicylic Acid (Aspirin)   81 MG PO QD
+  2. Amlodipine (Norvasc)   5 MG PO QD
+  3. Atenolol  100 MG PO QD
+  4. Atorvastatin (Lipitor)   20 MG PO QD
+  5. Carbidopa/Levodopa 25/100  (Sinemet 25/100 )   1.5 TAB PO TID
+  6. Citalopram (Celexa)   20 MG PO QD
+  7. Insulin Nph Human  10 UNITS SC QPM BEFORE SUPPER
+  8. Insulin Nph Human  5 UNITS SC QAM BEFORE BREAKFAST
+  9. Lactobacillus   PO BID
+            unit strength:  form: CAPSULE
+10. Lisinopril  20 MG PO QD
+11. Lorazepam (Ativan)  1 MG PO as directed
+            one to two tablets 1-2 hours under tongue prior to MRI and/or injection
+12. Omeprazole  20 MG PO QD
+            GENERIC OK
+13. Tamsulosin (Flomax)   0.4 MG PO QHS
+
+
+FAMILY HISTORY:  Noncontributory
+
+
+SOCIAL HISTORY:  Lives with his wife.  Has 2 adult stepchildren, 1 a Web Technician in the area.
+Tob: Denies
+EtOH: Denies
+Drug use: Denies
+
+
+PHYSICAL EXAM
+VITALS:  T 97.9 HR 77 BP 164/70  RR   SpO2 100    
+GEN&#8217;L :              Alert, well appearing, NAD.
+HEENT:  AT / NC.  EOMI, no nystagmus.  PERRL 6mm -&gt; 4mm bilaterally.  MMM.  2+ carotids without bruits.  No lympadenopathy.
+Heart:  RRR, no MRG
+LUNG:  CTAB
+ABD:  Soft, NT/ND, NABS.  No organomegaly.
+EXT: WWP.  2+ L lower extremity edema.  2+ DP PT pulses.
+NEURO: A+Ox3.  CN II-XII, speech, language, strength, and sensation intact.
+CHEMISTRIES
+
+
+Chemistry Detail for WHITEHEAD, AIDAN D
+
+
+Plasma Sodium                    140                       (135-145)      mmol/L
+Plasma Potassium                 3.1              L        (3.4-4.8)      mmol/L
+Plasma Chloride                  102                       (100-108)      mmol/L
+Plasma Carbon Dioxide            30.5                      (23.0-31.9)    mmol/L
+Plasma Anion GAP                 8                         (3-15)         mmol/L
+Calcium                          8.8                       (8.5-10.5)     mg/dl
+Phosphorus                       2.4              L        (2.6-4.5)      mg/dl
+Magnesium                        1.6                       (1.4-2.0)      meq/L
+Plasma Urea Nitrogen             16                        (8-25)         mg/dl
+Plasma Creatinine                1.11                      (0.60-1.50)    mg/dl
+eGFR                             &gt;60                                      mL/min/1.73m2
+     Abnormal if &lt;60 mL/min/1.73m2. If patient is African-American, multiply the
+     result by 1.21.
+     
+Plasma Glucose                   135              H        (70-110)       mg/dl
+Total Protein                    7.1                       (6.0-8.3)      g/dl
+Albumin                          3.8                       (3.3-5.0)      g/dl
+Globulin                         3.3                       (2.6-4.1)      g/dl
+Direct Bilirubin                 0.1                       (0-0.4)        mg/dl
+Total Bilirubin                  0.5                       (0.0-1.0)      mg/dl
+Alkaline Phosphatase             94                        (45-115)       U/L
+Transaminase-SGPT                19                        (10-55)        U/L
+Amylase                          32                        (3-100)        units/L
+Transaminase-SGOT                12                        (10-40)        U/L
+Lipase                           12               L        (13-60)        U/L
+
+
+WBC                              10.8                      (4.5-11.0)     th/cmm
+HCT                              36.9             L        (41.0-53.0)    %
+HGB                              12.9             L        (13.5-17.5)    g/dL
+MCV                              80.4              L        (75-95)        fL
+RDW                             12.3              L        (12.0-14.5)    %
+Platelets                        140                       (150-400)      th/cmm
+
+
+Prothrombin Time                  12.0                      (10.0-13.0)     sec
+Partial Thromboplastin Time        29.0                      (20.0-30.0)     sec
+
+
+BUN                              8.0                        (5.0-20.0)      mg/dl
+BUN/Cr Ratio                      1.3                        (1.0-2.0)     
+
+
+Blood Urea Nitrogen              16                        (8-25)         mg/dl
+
+
+Urine Protein                     1.0                        (0-0.5)        g/24 hr
+
+
+Serum Chloride                    102                       (100-108)      mmol/L
+Serum Bicarbonate                  21                        (23-31)        mmol/L
+Serum Sodium                      140                       (135-145)      mmol/L
+Serum Potassium                   3.1              L        (3.4-4.8)      mmol/L
+Serum Chloride                    102                       (100-108)      mmol/L
+Serum Bicarbonate                  21                        (23-31)        mmol/L
+Serum Sodium                      140                       (135-145)      mmol/L
+Serum Potassium                   3.1              L        (3.4-4.8)      mmol/L
+Serum Calcium                     8.8                       (8.5-10.5)     mg/dl
+Serum Magnesium                   1.6                       (1.4-2.0)      meq/L
+Serum Phosphorus                   2.4              L        (2.6-4.5)      mg/dl
+Serum Urea Nitrogen              16                        (8-25)         mg/dl
+Serum Creatinine                  1.11                      (0.60-1.50)    mg/dl
+Serum Glucose                     135              H        (70-110)       mg/dl
+Serum Total Protein                7.1                       (6.0-8.3)      g/dl
+Serum Albumin                     3.8                       (3.3-5.0)      g/dl
+Serum Globulin                    3.3                       (2.6-4.1)      g/dl
+Serum Direct Bilirubin             0.1                       (0-0.4)        mg/dl
+Serum Total Bilirubin              0.5                       (0.0-1.0)      mg/dl
+Serum Alkaline Phosphatase        94                        (45-115)       U/L
+Serum Transaminase-SGPT           19                        (10-55)        U/L
+Serum Amylase                     32                        (3-100)        units/L
+Serum Transaminase-SGOT          12                        (10-40)        U/L
+Serum Lipase                      12               L        (13-60)        U/L
+Serum BUN                         8.0                        (5.0-20.0)      mg/dl
+Serum BUN/Cr Ratio                1.3                        (1.0-2.0)     
+
+
+Urine Protein                     1.0                        (0-0.5)        g/24 hr
+
+
+Serum Chloride                    102                       (100-108)      mmol/L
+Serum Bicarbonate                  21                        (23-31)        mmol/L
+Serum Sodium                      140                       (135-145)      mmol/L
+Serum Potassium                   3.1              L        (3.4-4.8)      mmol/L
+Serum Chloride                    102                       (100-108)      mmol/L
+Serum Bicarbonate                  21                        (23-31)        mmol/L
+Serum Sodium                      140                       (135-145)      mmol/L
+Serum Potassium                   3.1              L        (3.4-4.8)      mmol/L
+Serum Calcium                     8.8                       (8.5-10.5)     mg/dl
+Serum Magnesium                   1.6                       (1.4-2.0)      meq/L
+Serum Phosphorus                   2.4              L        (2.6-4.5)      mg/dl
+Serum Urea Nitrogen              16                        (8-25)         mg/dl
+Serum Creatinine                  1.11                      (0.60-1.50)    mg/dl
+Serum Glucose                     135              H        (70-110)       mg/dl
+Serum Total Protein                7.1                       (6.0-8.3)      g/dl
+Serum Albumin                     3.8                       (3.3-5.0)      g/dl
+Serum Globulin                    3.3                       (2.6-4.1)      g/dl
+Serum Direct Bilirubin             0.1                       (0-0.4)        mg/dl
+Serum Total Bilirubin              0.5                       (0.0-1.0)      mg/dl
+Serum Alkaline Phosphatase        94                        (45-115)       U/L
+Serum Transaminase-SGPT           19                        (10-55)        U/L
+Serum Amylase                     32                        (3-100)        units/L
+Serum Transaminase-SGOT          12                        (10-40)        U/L
+Serum Lipase                      12               L        (13-60)        U/L
+Serum BUN                         8.0                        (5.0-20.0)      mg/dl
+Serum BUN/Cr Ratio                1.3                        (1.0-2.0)     
+
+
+Serum Chloride                    102                       (100-108)      mmol/L
+Serum Bicarbonate                  21                        (23-31)        mmol/L
+Serum Sodium                      140                       (135-145)      mmol/L
+Serum Potassium                   3.1              L        (3.4-4.8)      mmol/L
+Serum Chloride                    102                       (100-108)      mmol/L
+Serum Bicarbonate                  21                        (23-31)        mmol/L
+Serum Sodium                      140                       (135-145)      mmol/L
+Serum Potassium                   3.1              L        (3.4-4.8)      mmol/L
+Serum Calcium                     8.8                       (8.5-10.5)     mg/dl
+Serum Magnesium                   1.6                       (1.4-2.0)      meq/L
+Serum Phosphorus                   2.4              L        (2.6-4.5)      mg/dl
+Serum Urea Nitrogen              16                        (8-25)         mg/dl
+Serum Creatinine                  1.11                      (0.60-1.50)    mg/dl
+Serum Glucose                     135              H        (70-110)       mg/dl
+Serum Total Protein                7.1                       (6

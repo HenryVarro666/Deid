@@ -1,0 +1,207 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2120-01-18
+
+January 18, 2120
+
+Freeman Faust, M.D.            
+Evergreen Court Hospital
+97 Factory Street
+Haleyville, MN 78826   
+
+RE: Jacob Rodriquez, M.D.
+    MR #863-35-65-5
+
+Dear Dr. Faust: 
+
+Thank you for kindly referring your patient, Jacob Rodriquez, to the
+Internal Medicine for evaluation of pulmonary hypertension.
+Although I'm sure you are familiar with his history, I will review
+it now for our records. Dr. Rodriquez is a 77-year-old retired Electrician
+at Wells Fargo who by his report has enjoyed excellent
+health until the past year. He denies any prior history of
+hypertension, coronary artery disease, chest pains, significant
+childhood illnesses or malignancy. He describes his usual baseline
+health as excellent. He is a religious walker, walking multiple
+times each week as well as a woodwind and singing enthusiast. Dr.
+Rodriquez states that in approximately April or Mayof the past year he
+was first diagnosed with hyperglycemia. This was treated with
+Metformin. Subsequently Hydrochlorothiazide and Zestril were added
+apparently for hypertension (although the patient does not believe
+he has been diagnosed with hypertension). He subsequently developed
+diarrhea which he felt was related to Glucophage which was
+subsequently reduced in dose. In June of the past year the patient
+was noted to be anemic which was felt to be related to sulfa in his
+Hydrochlorothiazide. At that time he also was found to have lower
+extremity edema which worsened with the discontinuation of the
+Hydrochlorothiazide. The patient states in September of 2119 he
+traveled to trinidad and tobago. While in trinidad and tobago he had a
+marked increase in his lower extremity edema to the point that he
+found it difficult to ambulate. He denied any difficulty with chest
+pains or shortness of breath. He had no hemoptysis and no focal
+unilateral leg swelling despite the long period of immobility
+during the trip. He was seen by a Trinidad physician who prescribed an
+ethacrynic acid which reduced his lower extremity edema
+significantly. However, he subsequently developed diarrhea to this
+medication and it was stopped. Subsequently his lower extremity has
+once again worsened and has been treated with increasing doses of
+Lasix and with the recent addition of Zaroxolyn. At the present
+time Dr. Rodriquez states that he has no overt shortness of breath. He
+still able to sing vigorously and to play woodwinds without any 
+
+Page 2
+Freeman Faust, M.D. 
+RE: Jacob Rodriquez, M.D. 
+January 18, 2120
+
+
+limitation. He does find ambulating difficult due to the swelling
+in his lower extremities. He has no chest pain, has no cough, no
+sputum production, no hemoptysis. He has no fevers or chills. He
+believes his weight is increased by 35 pounds in the past several
+months. He believes this is entirely due to edema accumulation. He
+denies any difficulties with disrupted sleep although he does note
+that he's becoming increasingly fatigued during the day and is
+often napping in the reclining chair which is new for him. He
+denies any history of snoring. He has noted no new joint complaints
+although he has had a pruritic eruption on the anterior surface of
+his right lower extremity as well as on his left arm. This has been
+present for approximately two or three months. Other than that he
+believes his bowel and bladder function is normal. Review of
+systems is otherwise unremarkable. 
+
+His past medical history is significant for:
+     1. Type II diabetes as above. 
+     2. An apparent diagnosis of labile hypertension noted in his 
+        chart. 
+     3. Anemia thought secondary to Hydrochlorothiazide. 
+     4. Past history of right bundle branch block. He has no      
+        history of rheumatic fever. 
+
+Current medications include Atenolol 25mg daily, folic acid,
+Glucophage 850mg bid, Lasix 120mg daily, Lisinopril 15mg daily,
+compression stockings, Metolazone 2.5mg daily was added recently. 
+
+Drug allergies include possible hemolytic anemia due to
+Hydrochlorothiazide. 
+
+Family history is significant for diabetes mellitus. 
+
+Social history is assuming for the fact that the patient is an
+immigrant from trinidad and tobago. He has been living in Haleyville
+since the early 2059's. He is a Electrician at Wells Fargo. He
+has minimal exposure to chemicals in his research towards his
+bachelor's degree but none since then. He is a non tobacco user. He
+uses alcohol minimally. He's never had any blood transfusions. He
+lives with his wife. They have no pets. He does not enjoy any
+unusual hobbies not noted above. He has been exposed to
+tuberculosis in the past and has a history of a positive PPD. 
+
+On physical examination today Dr. Rodriquez weighs 193 pounds. Blood
+pressure is 136/90. Pulse 83 and regular. Respiratory rate is 20.
+Temperature is 96.8. Resting oxygen saturation is 98-99% with
+ambulation in the hallway. This fell to a minimum of 97% with an
+increase in his heart rate to 100. HEENT exam is significant for a
+clear oropharynx. Sclera are white. Conjunctiva are minimally pale.
+Page 3
+Freeman Faust, M.D. 
+RE: Jacob Rodriquez, M.D. 
+January 18, 2120
+
+
+The thyroid gland is normal. Jugular venous distention to
+approximately 10 cm. was noted. Neck was supple. Examination of the
+chest revealed diminished breath sounds bilaterally with dullness
+at both bases. There was no egophony and no wheezes. Otherwise the
+lungs were clear. Cardiac exam with a regular rate in rhythm,
+normal S1 and S2, an intermittent S4 was appreciated. No RV heave
+or lift was appreciated. No pulmonary artery tap was appreciated.
+The pontic component of S2 was moderately enhanced. No appreciable
+murmurs were detected. The point of maximum impulse was in the
+anterior axillary line. Examination of the abdomen revealed a
+nontender abdomen with a palpable liver edge, three fingerbreadths
+below the right costal margin. This was nontender and smooth.
+Minimal splenomegaly was also appreciated as well. Normal bowel
+sounds were present. Examination of the extremities reveal three
+plus symmetric edema to the top of the thigh in the lower
+extremities, one plus edema was also present in both upper
+extremities. No clubbing was noted. There were no skin changes
+consistent with collagen vascular disease. Multiple follicular
+lesions were noted on the anterior aspect of the right thigh as
+well as on the left arm. Neurological exam was grossly nonfocal. 
+
+Objective data include a CBC which most recently demonstrated a
+white count of 13.5, hemoglobin 12.1, hematocrit 36.8, MCV 97, MCH
+33.1, MCHC 33.6, platelets 344,000. The coagulation profile was
+normal. The BUN and creatinine were both normal. The LDH was 325.
+The BUN/creatinine ratio was 17. The potassium was 5.1, the
+sodium was 135, the calcium was 8.9, the magnesium was 1.6, the
+phosphorus was 3.4, the chloride was 107, the CO2 was 21, the
+alkaline phosphatase was 61, the glucose was 116, the TSH was 0.7,
+the T3 was 128, the T4 was 1.4, the T4 free was 0.9, the T3
+free was 3.3, the T3 uptake was 50, the TSH receptor was 44, the
+TSH receptor was 44. The prolactin was 18. The follicle stimulating
+hormone was 2.6. The LH was 2.3. The testosterone was 565. The
+estrogen was 116. The cortisol was 14. The DHEA was 25. The
+prolactin/cortisol ratio was 0.04. The insulin was 12. The
+glucose tolerance test demonstrated a fasting glucose of 115. The
+two hour glucose was 184. The insulin was 23. The C-peptide was 0.
+The growth hormone was 1.1. The thyrotropin releasing hormone was
+0.06. The cortisol was 12. The ACTH was 45. The thyrotropin was 0.
+The thyroglobulin was 32. The thyroid peroxidase antibody was 0.
+The antithyroid antibody was 0. The antinuclear antibody was 0. The
+antimitochondrial antibody was 0. The rheumatoid factor was 0. The
+ANA was 0. The CK was 114. The LDH was 325. The alkaline phosphatase
+was 61. The amylase was 146. The lipase was 57. The lactate dehydrogenase
+was 21. The amylase/lipase ratio was 3. The amylase/lipase ratio was
+3. The urinalysis was normal. The urine toxicology screen was
+negative. The complete blood count was normal. The sed rate was
+15. The erythrocyte sedimentation rate was 15. The platelet count
+was normal. The AST was 125. The ALT was 166. The total bilirubin
+was 0.2. The direct bilirubin was 0.1. The alkaline phosphatase was
+61. The alkaline phosphatase was 61. The B12 was 150. The folate was
+13. The vitamin D was 31. The vitamin D binding protein was 58. The
+25-hydroxyvitamin D was 27. The vitamin D binding protein was 58.
+The TSH receptor was 44. The TSH receptor was 44. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin
+D was 27. The vitamin D binding protein was 58. The 25-hydroxyvitamin

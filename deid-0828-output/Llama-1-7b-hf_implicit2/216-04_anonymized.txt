@@ -1,0 +1,103 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2103-07-29
+
+ 
+Internal Medicine Admission Note
+
+PATIENT: 	Grace Marvin Yandell
+MRN:  		8099832
+ADMIT DATE:  7/28/03
+ATTENDING:	WINTERS
+PCP:   		Dr. Patricia Mcfarland (MEDIQUIK) 127-319-4834
+CONTACT:  	Daughter: Penelope Yandell 761-259-5716
+Code status: 	Full
+Source:		
+
+CC:  
+Syncope
+
+HPI: 
+Ms. Yandell is a delightful 81 year old female with an extensive PMH including HTN, Sz d/o vs TIAs, dyslipidemia, breast cancer, and DVTs who presents following a syncopal episode on the day of admission.
+
+Per a note from her neurologist, Dr. Gary Keyes, Ms. Yandell has a history of transient neurologic events, consisting of right hand numbness and weakness, in 2098 and 2099. She had an extensive workup in which it was unclear whether these represented a transient ischemic attack or partial seizures. She was started on Depakote for this. Between March and April of 2102 her Depakote was weaned because of a lack of interval seizures. EEG in January 2102 showed no evidence of epileptiform activity.   In July 2102 she had several episodes of loss of consciousness which ultimately were diagnosed as syncope. Dr. Keyes witnessed one of these events in his office in 7/02 and it was associated with hypotension.  
+
+Ms. Yandell   s family describes her syncopal events differently, stating that she will stare into space for 5-8 minutes, during which time she is unresponsive.  When she    wakes up,    she is confused and sleepy for ~ 20 minutes and will often have nausea and vomiting.  These episodes are associated with jaw-clenching, but no tonic-clonic movements.  Ms. Yandell does state that she feels    dizzy and lightheaded    before these events, and reports that her family says she looks pale and clammy.  She does not recall the events herself.  The family does not report loss of bowel or bladder incontinence, although the patient did apparently lose continence of bowel shortly after being admitted (unclear circumstances surrounding this).  The family reports that EMS checked her blood sugar on the scene     it was normal.
+
+In the emergency department, Ms. Yandell   s was afebrile,  82  158/70  18   95% on 2L.  She received zofran for nausea, ASA, and IVF, and was transferred up to the floor for further management. 
+
+The patient denies that the episodes occur after she rises from a sitting position.  Do not occur when    bearing down,    or when she is exerting herself.  The episodes are not sudden     she appears to have some warning before one occurs.  She denies fevers/chills.  No chest pain, palpitations.  Some shortness of breath when walking, which sounds like it is unchanged.  Has had a cough for a few months and it is occasionally productive of ?color mucus.  She takes antihypertensive medications, but takes them as directed and by report does not group them together.  
+
+
+PAST MEDICAL HISTORY:
+1. Hypertension
+2. History of supraventricular tachycardia
+3. Dyslipidemia
+4. Chronic dyspnea
+5. Inappropriate sinus tachycardia 
+6. Seizure disorder
+7. TIA/stroke, 09/13/98, on Plavix subsequently
+8. Migraine headaches
+9. Type II diabetes mellitus since 2084
+10. Multiple syncopal episodes
+11. History of hysterectomy 
+12. History of cervical spine surgery in 2065
+13. Bilateral cataract surgeries
+14. Breast cancer in the early 70's with positive lymph nodes, treated with radiation therapy 
+15. History of esophageal stricture requiring dilatation in November 2095
+16. Pancreatitis in 2096, admitted to San Rafael
+17. Abnormal pulmonary function studies with moderate restriction and normal DLCO in 2092
+18. Esophageal diverticulum on barium swallow
+19. History of cellulitis/DVT of the right arm in 8/92
+20. Carotid stenosis left 50%
+21.  Two admissions to San Rafael February and March, 2102 for syncopal episodes.
+22.  DVT 10/02, left upper extremity - prior right upper extremity (post compression fracture of T4)
+23. Increased LFTs, Lipitor was stopped
+24. Slip and fall fracturing T4 with vertebroplasty 7/02
+
+ALLERGIES:  
+Penicillins cause rash
+Cephalosporins cause rash
+Percocet causes unknown reaction
+Codeine - vomiting
+Acetaminophen - Unknown: Allergy entered as TYLENOL 
+IV Contrast causes unknown reaction
+Lisinopril causes edema, ?anaphylaxis, 
+Sulfa causes rash
+
+MEDICATIONS ON ADMISSION:
+Albuterol inhaler
+Coumadin 7.5 MG (5 MG TABLET take 1.5) PO QPM 
+Ery-tab (ERYTHROMYCIN) 250 MG (250 MG TABLET take 1) PO BID , Take with food.
+Glipizide 2.5 MG (2.5 MG TAB OSM 24 take 1) PO Q
+Nitrostat 1/150 (NITROGLYCERIN 1/150 (0.4 MG)) 1 TAB (0.4MG TAB SUBL ) SL  prn
+Norvasc (AMLODIPINE) 10 MG (10MG TABLET take 1) PO QD 
+Plavix 75 MG (75 MG TABLET take 1) PO QD  
+Synthroid 50 MCG TABLET PO QD , No Substitutes 
+Ultram (TRAMADOL) 50 MG (50MG TABLET take 1) PO Q6H PRN 
+Motillium 10 mg Q6hours
+Labetalol 200 mg BID
+
+FAMILY HISTORY:
+Notable for brother, sister, and children with CAD, HTN; Mother with history of cancer; Sisters and brothers with DM; Sister and brother-in-law with TB.
+
+SOCIAL HISTORY:
+Lives with daughter and other family members.  Denies tobacco/EtOH.  No illicits.
+
+PHYSICAL EXAM:
+VITALS:  Afebrile  86  161/69   20   100% on RA
+
+Orthostatics: 	Recumbent  	125/70   	82
+		Seated		128/70	88
+		Standing		125/75	102
+
+GEN   L 	NAD, Non-toxic appearing, AO x 3
+HEENT 	MMM, no scleral icterus, no pale conjunctiva 
+NECK	supple, no thyromegaly, no LAD. JVP<5 cm, no carotid bruits appreciated
+Heart: 	RRR, normal S1, S2 ; II/VI systolic murmur
+LUNG:  	CTA bilaterally with no c/r/w; no increased work of breathing
+ABD: 	Soft, non-tender, non-distended, NABS. No HSM. No masses, rebound.
+EXT: 	wwp, no edema
+NEURO: 

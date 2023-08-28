@@ -1,0 +1,199 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2078-07-01
+
+
+
+	CARDIOLOGY
+
+	
+
+	OAKLAND ASSOCIATES CENTER
+
+	
+
+
+
+	Interval History:
+
+   This 63 y/o male patient with a h/o HTN, HLP, non-revascularized 4-vessel CAD, preserved LV systolic function, PAD with past PTA and stenting to the R EIA and distal L SFA, tobacco abuse, type 2 DM, peripheral neuropathy, L ulnar nerve compression, ulcerative colitis, GERD, depressive disorder, anxiety disorder, and gouty arthritis presents to the OAC Cath Lab this morning for a scheduled elective peripheral arterial catheterization procedure.  The patient was last seen in outpatient vascular medicine follow-up by Dr. Levi Barton at the OAC 04/09/2078, at which time he reported recurrent and persistent BLE claudication symptoms, RLE > LLE, with pain in his buttocks, thighs, and calves with ambulation.  He reports that these symptoms, coupled with his peripheral neuropathy symptoms, have become quite debilitating and lifestyle-limiting.  The patient denies any chronic or poorly-healing ulcers or sores on his feet or lower extremities.  Given his history and symptomatic complaints, Dr. Barton recommended that the patient be scheduled to undergo an elective peripheral arteriogram to re-assess his PAD and, if indicated and feasible, to pursue percutaneous revascularization.  The patient had previously undergone a peripheral angiogram at the OAC on 11/21/2077, performed by Dr. Barton, which culminated in PTA and stenting to the R EIA and the distal L SFA, the former with a balloon-expandable biliary stent and the latter with a self-expanding biliary stent.  Follow-up lower extremity non-invasive studies performed at the OAC in 01/2078 revealed a depressed resting ABI of 0.70 in the RLE, which dropped to 0.24 following exercise (as well as a resting ABI of 1.00 in the LLE which decreased to 0.50 post-exercise).  The patient has not been treated with Pletal in the past.  An important side note is the fact that the patient's diagnostic LHC procedure at the OAC in 10/2077 revealed significant 4-vessel CAD, which for some reason was treated medically rather than surgically or percutaneously.  The patient has expressed a desire to have his coronary arteries re-assessed by angiography during today's peripheral catheterization procedure, not particularly because of any recurrent CP but mostly out of concern that his CAD may have worsened and because he may undergo surgery for his L ulnar nerve compression in the relatively near future. 
+
+
+
+	Past medical history:
+
+   1.   Hypertension (managed with chronic beta-blocker and ACE-inhibitor medications).
+
+2.   Hyperlipidemia (managed with a chronic "statin" medication).
+
+3.   Coronary Artery Disease (4-vessel disease noted during the 10/2077 LHC procedure, with no past percutaneous or surgical revascularization procedures).
+
+4.   Preserved Left Ventricular Systolic Function (EF estimated at 65% by LV-gram during the LHC at the OAC in 10/2077).
+
+5.   Peripheral Artery Disease (involving the BLEs, with PTA and stenting to both the distal L SFA and the R EIA at the OAC in 11/2077).
+
+6.   Type 2 Diabetes Mellitus (HgbA1c 8.2% on 06/27/2078;  treated with OHAs).
+
+7.   Peripheral Neuropathy (per the patient;  being treated with Neurontin).
+
+8.   Left Ulnar Nerve Compression (seen by Dr. Ryan and considering surgical treatment).
+
+9.   Ulcerative Colitis (treated effectively with Prednisone during exacerbations).
+
+10.   Gastro-Esophageal Reflux Disease (treated with a chronic PPI medication).
+
+11.   Gouty Arthritis (infrequent exacerbations;  no chronic uricosuric pharmacotherapy).
+
+12.   Depressive Disorder (treated with chronic pharmacotherapy).
+
+13.   Anxiety Disorder (treated with benzodiazepine pharmacotherapy).
+
+14.   Tobacco Abuse (35 pack-year history, with cessation 5 months ago).
+
+
+
+Past Surgical History:
+
+1.   S/p Tonsillectomy and Adenoidectomy.
+
+2.   S/p Resection of Peri-Rectal Abscess.
+
+3.   S/p Laparoscopic Cholecystectomy.
+
+4.   S/p Bilateral Cataract Surgeries.
+
+
+
+Medications Prior to Admission:
+
+1.   Aspirin 325 mg p.o. daily  (most recent dose taken this morning).
+
+2.   Plavix 75 mg p.o. daily  (most recent dose taken this morning).
+
+3.   Toprol-XL 25 mg p.o. daily.
+
+4.   Lisinopril 2.5 mg p.o. daily.
+
+5.   Zocor 20 mg p.o. daily.
+
+6.   Nitroglycerin 0.4 mg sub-lingual q.5 mins. x 3 p.r.n. chest pain.
+
+7.   Metformin 1,000 mg p.o. b.i.d. with meals  (most recent dose on 06/30/2078).
+
+8.   Glipizide 1.25 mg p.o. a.c. q.a.m.
+
+9.   Protonix 40 mg p.o. daily.
+
+10.   Effexor-XR 225 mg p.o. daily.
+
+11.   Neurontin 300 mg p.o. b.i.d.
+
+12.   Ibuprofen 800 mg p.o. daily p.r.n. pain.
+
+13.   Chantix 1 mg p.o. b.i.d.
+
+14.   Vitamin-B12 1,000 mcg (1 mg) p.o. b.i.d.
+
+15.   Hytrin 1 mg p.o. q.a.m. and 2 mg p.o. q.p.m.
+
+
+
+Allergies:
+
+	
+
+Drug allergy   PERCOCET causes pruritis.   
+
+Drug reaction   CODEINE causes GI upset.
+
+No known contrast allergy   
+
+
+
+	Family history:
+
+   Positive for CAD (paternal uncle had MI, but not premature-onset).
+
+Positive for DM (father).
+
+Negative for any known family h/o CVD or PVD.
+
+
+
+	Social history:
+
+   The patient is married and lives in a private residence in Oakland with his wife.  He is a self-employed, well-educated, 63-year-old male who enjoys reading, working on home improvement projects, and playing golf.  He is a nonsmoker.  The patient's wife works full-time and is 65 years old.  The patient has 1 child (a son, 37 years old) and 2 grandchildren (ages 17 and 15).  He has a sister, who is 67 years old and also a smoker, and a brother, who is 69 years old and a nonsmoker.  The patient has no history of alcohol abuse.
+
+
+
+	Occupational history:
+
+   The patient is a self-employed consultant and businessman, who is currently working full-time.  He is not currently working on any projects that are particularly strenuous.
+
+
+
+	Drug use:
+
+   The patient is a nonsmoker.  He drinks alcohol infrequently and in moderation.  He has not used any illicit drugs in the past.
+
+
+
+	Vital signs:
+
+   BP 140/70 mmHg;  P 64;  RR 16;  T 97.0°F;  O2 98% RA.
+
+
+
+	Physical examination:
+
+   General:  A well-developed, well-nourished, well-built, 63-year-old, Caucasian male with a full, healthy-appearing head of hair.  His weight is 170 lb, and he is 5'9" tall.  The patient's BMI is 24.3 kg/m2.  The patient is in no acute distress and is alert and oriented x 3.  His skin is warm and dry and his extremities are not cyanotic.  The patient's lungs are clear to auscultation bilaterally and his heart rate is regular and his rhythm is sinus.  His abdomen is soft and non-tender.  His neurologic examination is normal.
+
+   Cardiovascular:  The patient's heart rate is 64 bpm and his blood pressure is 140/70 mmHg.  The patient's heart sounds are normal, and his peripheral pulses are 2+ bilaterally.  His jugular venous pressure is normal.  The patient's carotid arteries are normotensive and non-threatening.  The patient's aortic and femoral pulses are 2+ bilaterally.
+
+   Respiratory:  The patient's respirations are regular and his breath sounds are clear.  His chest is clear to auscultation.
+
+   Neurologic:  The patient's cranial nerves are intact.  His motor strength is 5/5 bilaterally, and his sensation is intact.  His reflexes are normal.  His gait is normal.
+
+   Musculoskeletal:  The patient's muscles are normal in tone and strength.  His extremities are not cyanotic.  His reflexes are normal.  His joints are not tender.  His spine is normal.
+
+   Skin:  The patient's skin is warm and dry.  His hair is normal.  His nails are normal.  His skin is intact.
+
+   Hematologic:  The patient's hematocrit is 46%, and his platelets are 220,000.  His WBC is 5,500, and his RBC is 4.04.
+
+   Endocrine:  The patient's thyroid is normal.  The patient's BUN is 18 mg/dL and his creatinine is 0.9 mg/dL.  The patient's electrolytes are normal.  The patient's glucose is 89 mg/dL.  The patient's calcium is 9.0 mg/dL.  The patient's liver enzymes are normal.  The patient's TSH is 2.0.  The patient's PTH is 4.8.
+
+   Gastrointestinal:  The patient's abdomen is soft and non-tender.  His bowel sounds are normal.  His stools are normal.  His rectal examination is normal.
+
+   Genitourinary:  The patient's urine is normal in appearance.  His prostate is normal.  His testicles are normal.  The patient's urine output is normal.  The patient's catheter is normal.  The patient's urine dipstick is normal.
+
+   Musculoskeletal:  The patient's extremities are not cyanotic.  His joints are not tender.  His spine is normal.  His muscles are normal in tone and strength.  The patient's reflexes are normal.  His gait is normal.
+
+   Neurologic:  The patient's cranial nerves are intact.  His motor strength is 5/5 bilaterally, and his sensation is intact.  His reflexes are normal.  His gait is normal.
+
+   Respiratory:  The patient's respirations are normal.  His breath sounds are clear.  His chest is clear to auscultation.
+
+   Psychiatric:  The patient is alert and oriented x 3.  He is not depressed or anxious.  His affect is normal.  His thought processes are logical and goal-directed.  His judgment is intact.
+
+   Cardiovascular:  The patient's heart rate is 64 bpm and his blood pressure is 140/70 mmHg.  The patient's heart sounds are normal, and his peripheral pulses are 2+ bilaterally.  His jugular venous pressure is normal.  The patient's carotid arteries are normotensive and non-threatening.  The patient's aortic and femoral pulses are 2+ bilaterally.
+
+   Pulmonary:  The patient's respirations are regular and his breath sounds are clear.  His chest is clear to auscultation.
+
+   Renal:  The patient's urine is normal in appearance.  His prostate is normal.  His testicles are normal.  The patient's urine output is normal.  The patient's catheter is normal.  The patient's urine dipstick is normal.
+
+   Skin:  The patient's skin is warm and dry.  His hair is normal.  His nails are normal.  His skin is intact.
+
+   Hematologic:  The patient's hematocrit is 46%, and his platelets are 220,000.  His WBC is 5,500, and his RBC is 4.04.
+
+   Endocrine:  The patient's thyroid is normal.  The patient's BUN is 18 mg/dL and his creatinine is 0.9 mg/dL.  The patient's electrolytes are normal.  The patient's glucose is 89 mg/dL.  The patient's calcium is 9.0 mg/dL.  The patient's liver enzymes are normal.  The patient's TSH is 2.0.  The patient's PTH is 4.8.
+
+   Gastrointestinal:  The patient's abdomen is soft and non-tender.  His bowel sounds are normal.  His stools are normal.  His rectal examination is normal.
+
+   Genitourinary:  The patient's urine is normal in appearance.  His prostate is normal.  His testicles are normal.  The patient's urine output is normal.  The patient's catheter is normal.  The patient's urine dipstick is normal.
+
+   Musculoskeletal:  The patient's extremities are not cyanotic.  His joints are not tender.  His spine is normal.  His muscles are normal in tone and strength.  The patient's reflexes are normal.  His gait is normal.
+
+   Neurologic:  The patient's cranial nerves are intact.  His motor strength is 5/5 bilaterally, and his sensation is intact.  His reflexes are normal.  His gait is normal.
+
+   Respiratory:  The patient's resp

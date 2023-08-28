@@ -1,0 +1,401 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2123-05-01
+
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+PENDER CARE CENTER
+
+
+
+Personal data and overall health
+
+			
+
+  A 75-year-old married woman with two adult sons, three granddaughers. Was a Personnel Officer. Primary care physician in Polson, VA is Dr. David Mccall at 207-155-2827.
+
+
+
+Reason for visit
+
+			
+
+  Extended followup, multiple medical problems.
+
+
+
+Problem List (reviewed)
+
+
+
+Diabetes mellitus MAJOR 
+
+Squamous cell carcinoma of skin MAJOR 
+
+Atrial fibrillation MAJOR 
+
+Restless leg syndrome MAJOR 
+
+Family history risk factors MAJOR 
+
+Hyperuricemia MAJOR 
+
+Hyperlipidemia MAJOR 
+
+Anemia MAJOR 
+
+Hypertension MAJOR 
+
+Dysthymia MAJOR 
+
+Coronary artery disease MAJOR 
+
+Hyperhomocysteinemia MAJOR 
+
+Permanent pacemaker MAJOR 
+
+Health maintenance 
+
+
+
+Major Problems
+
+
+
+
+
+Diabetes mellitus
+
+/insulin dependent.  Saw Dr. Miles today. DM is under excellent control. He lowered Lantus by 5 units.
+
+
+
+Squamous cell carcinoma of skin
+
+/status post foot.  The patient had to have skin grafting following Kohs surgery for severe extensive squamous cell carcinoma on the dorsum of her right foot in 2118. Is followed by Dr. Colleen Quinonez in Milliken for skin exams.
+
+
+
+Atrial fibrillation
+
+tachy brady syndrome now with pacemaker and beta blockade.
+
+
+
+Restless leg syndrome
+
+Is dependent on daily narcotics for pain control, but has not escalated dose.
+
+
+
+Family history risk factors
+
+/high risk colon carcinoma.  Is up to date on screening.
+
+
+
+Hyperuricemia
+
+No symptoms of gout on allopurinol 200 mg daily.
+
+
+
+Hyperlipidemia
+
+Dr. Whiteman left meds the same last week, and told her that he was very pleased with her lipids control.
+
+
+
+Anemia
+
+CBC ordered today.
+
+
+
+Hypertension
+
+BP has been well-controlled in VA, usually in the 128 systolic range.
+
+
+
+Dysthymia
+
+/posttraumatic stress disorder. Much better after 6 months on the ocean in Virginia. I suspect she is feeling better with rate control on meds + pacemaker.
+
+
+
+Coronary artery disease
+
+No angina or SOB. After exam last November, I asked Dr. Nielson to see her regarding her rapid VR. He increased beta blocker and she developed what sounds like heart block in VA. Had a pacemaker placed and has been asymptomatic since then.
+
+
+
+Hyperhomocysteinemia
+
+Taking folic acid and b vitamins.
+
+
+
+Permanent pacemaker
+
+Dual Chamber Pacemaker placed 3/23 for bradycardia. P/G model # 5435, serial # 4712198, implanted 12/27/22. RAL 5167DH/20 Serial # SQ462162. RVL 0049EO/46. Serial # LX39426. Placed in Polson, VA 3/23 for bradycardia. Cardiologist there Dr. Quenton Qiu, 203-942-9207.
+
+
+
+Other Problems
+
+
+
+
+
+Pneumonia - Inactivated
+
+
+
+
+
+Menopausal syndrome - Inactivated
+
+
+
+
+
+Abnormal mammogram - Inactivated
+
+
+
+
+
+Health maintenance
+
+Pap due in August. Mamm resulted in benign bx 11/22. Normal DEXA 11/22. Next colonoscopy due in 4/25. Regular dental and eye exams. Close skin surveillance.
+
+
+
+Active Medications
+
+
+
+allopurinol 100 mg 2 tab PO qd
+
+amitriptyline 10 mg  po qhs increase gradually to 3 at bedtime
+
+aspirin 81 mg 1 tab PO QD
+
+Coumadin 2.5 mg po qpm adjust  per inr
+
+Demadex 20 mg  PO qd
+
+digoxin 0.125 mg po qd
+
+Diovan 160mg po qd
+
+fenofibrate 145mg po qd
+
+Fish oil 1000mg po 5 times per day
+
+folic acid 1 mg po qd
+
+glucagon 1 mg PRN for hypoglycemia
+
+Humalog sliding scale sc tid
+
+Imdur 30 mg po 1bid
+
+Lantus 55 units sc qhs do not mix with other insulins in same syringe
+
+Mirapex 0.125 mg po bid take at 5 pm and at bedtime
+
+multivitamins 1 tab PO QD
+
+omeprazole 20mg po qd take before meals
+
+percocet 7.5/500mg po 1 tab.qhs.prn
+
+potassium chloride 20 mg 1/2 PO three times weekly
+
+pravastatin 80mg po qd take with evening meal
+
+Toprol XL 100 mg po qd
+
+Zetia 10mg po qd
+
+
+
+Change in therapies and Renewals
+
+
+
+potassium chloride 20 mg 1/2 PO three times weekly QTY:45 Refills:3 Start: 9/23/2120
+
+Demadex 20 mg  PO qd QTY:135 Refills:3 Start: 9/23/2120
+
+percocet 7.5/500mg po 1 tab.qhs.prn QTY:90 Refills:0 Start: 9/23/2120
+
+Mirapex 0.125 mg po bid take at 5 pm and at bedtime QTY:60 Refills:3 Start: 05/01/2123
+
+Fish oil 1000mg po 5 times per day Start: 05/01/2123
+
+Humalog sliding scale sc tid Start: 6/28/2122
+
+Lantus 55 units sc qhs do not mix with other insulins in same syringe QTY:3-month supply Refills:3 Start: 6/28/2122
+
+Toprol XL 100 mg po qd Start: 05/01/2123
+
+omeprazole 20mg po qd take before meals Start: 05/01/2123
+
+
+
+Past medical history
+
+			
+
+  Hospitalized 2115 TCH for ROMI
+
+2120 TCH new onset A Fib with CHF
+
+2120 PCC for atypical pneumonia 
+
+Surgery: Appendectomy 1989, Tonsillectomy 1996, 
+
+2122 PCC for Squamous cell carcinoma of skin on dorsum of right foot.
+
+
+
+Medications
+
+			
+
+  Allopurinol 100 mg 2 tab PO qd
+
+Amitriptyline 10 mg  po qhs increase gradually to 3 at bedtime
+
+Aspirin 81 mg 1 tab PO QD
+
+Coumadin 2.5 mg po qpm adjust  per inr
+
+Demadex 20 mg  PO qd
+
+Digoxin 0.125 mg po qd
+
+Diovan 160mg po qd
+
+Fenofibrate 145mg po qd
+
+Fish oil 1000mg po 5 times per day
+
+Folic acid 1 mg po qd
+
+Glucagon 1 mg PRN for hypoglycemia
+
+Humalog sliding scale sc tid
+
+Imdur 30 mg po 1bid
+
+Lantus 55 units sc qhs do not mix with other insulins in same syringe
+
+Mirapex 0.125 mg po bid take at 5 pm and at bedtime
+
+Multivitamins 1 tab PO QD
+
+Omeprazole 20mg po qd take before meals
+
+Percocet 7.5/500mg po 1 tab.qhs.prn
+
+Potassium chloride 20 mg 1/2 PO three times weekly
+
+Pravastatin 80mg po qd take with evening meal
+
+Toprol XL 100 mg po qd
+
+Zetia 10mg po qd
+
+
+
+Past surgical history
+
+			
+
+  Appendectomy 1989
+
+Tonsillectomy 1996
+
+2122 PCC for Squamous cell carcinoma of skin on dorsum of right foot.
+
+
+
+Past illnesses
+
+			
+
+  Hospitalized 2115 TCH for ROMI
+
+2120 TCH new onset A Fib with CHF
+
+2120 PCC for atypical pneumonia 
+
+
+
+Past allergies
+
+			
+
+  none
+
+
+
+Past immunizations
+
+			
+
+  Pneumovax 23
+
+
+
+Family history
+
+			
+
+  father died of lung cancer
+
+  father had heart attack at age 64
+
+  mother died of breast cancer
+
+  mother died of stroke at age 76
+
+
+
+Social history
+
+			
+
+  Married 50 years
+
+  two adult sons
+
+  three granddaughters
+
+  Personnel Officer
+
+  retired 2015
+
+  primary care physician in Polson, VA is Dr. David Mccall at 207-155-2827.
+
+
+
+Review of Systems
+
+
+
+Head
+
+			
+
+  No headache, no tinnitus, no vertigo, no visual disturbances, no dizziness, no visual disturbances, no diplopia, no blurred vision, no double vision, no ophthalmoplegia, no visual field defects, no nystagmus, no ataxia, no gait disturbance, no tremor, no dysarthria, no dysphagia, no hoarseness, no stridor, no sore throat, no otalgia, no nasal congestion, no nasal discharge, no rhinorrhea, no nasal itching, no nasal obstruction, no sinusitis, no otitis media, no otitis externa, no otitis media, no otorrhea, no hearing loss, no tinnitus, no ear pain, no tinnitus, no ear pain, no ear fullness, no otalgia, no sore throat, no tonsillitis, no hoarseness, no stridor, no sore throat, no otalgia, no nasal congestion, no nasal discharge, no rhinorrhea, no nasal itching, no nasal obstruction, no sinusitis, no otitis media, no otitis externa, no otitis media, no otorrhea, no hearing loss, no tinnitus, no ear pain, no tinnitus, no ear pain, no ear fullness, no otalgia, no sore throat, no tonsillitis, no hoarseness, no stridor, no sore throat, no otalgia, no nasal congestion, no nasal discharge, no rhinorrhea, no nasal itching, no nasal obstruction, no sinusitis, no otitis media, no otitis externa, no otitis media, no otorrhea, no hearing loss, no tinnitus, no ear pain, no tinnitus, no ear pain, no ear fullness, no otalgia, no sore throat, no tonsillitis, no hoarseness, no stridor, no sore throat, no otalgia, no nasal congestion, no nasal discharge, no rhinorrhea, no nasal itching, no nasal obstruction, no sinusitis, no otitis media, no otitis externa, no otitis media, no otorrhea, no hearing loss, no tinnitus, no ear pain, no tinnitus, no ear pain, no ear fullness, no otalgia, no sore throat, no tonsillitis, no hoarseness, no stridor, no sore throat, no otalgia, no nasal congestion, no nasal discharge, no rhinorrhea, no nasal itching, no nasal obstruction, no sinusitis, no otitis media, no otitis externa, no otitis media, no otorrhea, no hearing loss, no tinnitus, no ear pain, no tinnitus, no ear pain, no ear fullness, no otalgia, no sore throat, no tonsillitis, no hoarseness, no stridor, no sore throat, no otalgia, no nasal congestion, no nasal discharge, no rhinorrhea, no nasal itching, no nasal obstruction, no sinusitis, no otitis media, no otitis externa, no otitis media, no otorrhea, no hearing loss, no tinnitus, no ear pain, no tinnitus, no ear pain, no ear fullness, no otalgia, no sore throat, no tonsillitis, no hoarseness, no stridor, no sore throat, no otalgia, no nasal congestion, no nasal discharge, no rhinorrhea, no nasal itching, no nasal obstruction, no sinusitis, no otitis media, no otitis externa, no otitis media, no otorrhea, no hearing loss, no tinnitus, no ear pain, no tinnitus, no ear pain, no ear fullness, no otalgia, no sore throat, no tonsillitis, no hoarseness, no stridor, no sore throat, no otalgia, no nasal congestion, no nasal discharge, no rhinorrhea, no nasal itching, no nasal obstruction, no sinusitis, no otitis media, no otitis externa, no otitis media, no otorrhea, no hearing loss, no tinnitus, no ear pain, no tinnitus, no ear pain, no ear fullness, no otalgia, no sore throat, no tonsillitis, no hoarseness, no stridor, no sore throat, no otalgia, no nasal congestion, no nasal discharge, no rhinorrhea, no nasal itching, no nasal obstruction, no sinusitis, no otitis media, no otitis externa, no otitis media, no otorrhea, no hearing loss, no tinnitus, no ear pain, no tinnitus, no ear pain, no ear fullness, no otalgia, no sore throat, no tonsillitis, no hoarseness, no stridor, no sore throat, no otalgia, no nasal congestion, no nasal discharge, no rhinorrhea, no nasal itching, no nasal obst

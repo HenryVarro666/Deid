@@ -1,0 +1,105 @@
+Please anonymize the following text: 
+
+
+
+Record date: 2079-09-01
+
+ 
+
+Rheumatology Consult Note
+
+Name: Mullins, Dolores U
+MRN: 72841920
+DOB: 06/06/02
+Location: 78Q-47-4
+Consult date: 09/01/79
+Referring Physician: Gay Langley
+Source of history: patient interview, medical records
+Code status: Full
+
+Reason for Consult: bilateral LE pain up to knees
+HPI:
+77 yo F w/h/o type I DM and HTN.  At the beginning of this year, she began to have intermittent    burning    pain of her feet and sometimes her lower legs/feet.  This pain typically occurred on one leg more than the other, without an overall predominance of one side.  In the past month, she has had continuous, bilateral    burning    pain that began in both feet.  Several weeks ago, her pain worsened considerably such that she was having difficulty shopping.  Around this time, the pain spread up her legs to above her knees.  She also noted having difficulty putting on shoes and was told by a friend that her feet were swollen (she is unable to see her feet due to blindness).  Her pain continued to worsen until the night prior to admission, when she was in her bathroom and found herself in such pain that she was unable to get up to leave the bathroom.  A friend found her after 8 hours and EMS was called.  In the ED, she was found to have BP elevated to 190, Cr elevated to 2.8, FSG down to 51, and R-sided hydronephrosis.  Labetolol/diltiazem were given for HTN with good response, IV hydration was given with subsequent decline in Cr, and Foley was placed with resolution of hydronephrosis on subsequent MRI.   
+
+She has never had    burning    pain of the kind that she presented with prior to this year.  Of note, she has had    years    of tingling without numbness in her lower extremities bilaterally extending to above her knees.  She also notes numbness of the tips of her R 2nd-4th digits.  ROS positive for subjective decline in urine output and constipation (1 BM/2days).  She denies fever/chills/sweats, recent weight loss, fatigue, hypoglycemic episodes, cough/rhinorrhea/sore throat, SOB, orthpnea, CP, palpitations, abdominal pain, diarrhea, dysuria, polyuria/polydipsia.  
+
+PMH: 
+1) DM     type 1, since 2060, c/b retinopathy, nephropathy
+2) HTN
+3) Hypercholesterolemia
+4) L internal capsule CVA 11/72
+5) L eye legally blind 2/2 open angle glaucoma
+6) thyroid nodule 7/78        benign    per patient
+7) CRI     per HHMR, Cr 1.4 (4/78, 1/79) and 1.84 on 6/29/79
+
+PSH:
+1) bilateral cataracts
+2) L eye    glaucoma    surgery
+3) L eye    pressure shunt   
+4) TAH at age 25
+
+
+
+
+Admission Meds:
+1) Labetalol 200 mg bid
+2) HCTZ 25 mg qd
+3) Lovastatin 20 mg qd
+4) Enalapril 20 mg qd
+5) Diltiazem 120 mg bid
+6) ASA 81 mg qd
+7) Novolin 10 U qam
+8) NPH 70 U qam, 40 U qpm
+
+Inpatient Meds: 
+1) Ferrous sulphate 325 po tid
+2) Enoxaparin 30 sc qd
+3) Simvastatin 40 po qhs
+4) Diltiazem SR 120 po bid
+5) Labetolol 200 mg bid
+6) Novolog SS ac, RISS qhs
+7) NPH 70 U qam, 30 U qpm
+8) Regular Insulin 10 U qam
+9) Colchicine 0.6 mg qd (2 doses given)
+10) Lumigan ou 1 drop qd
+11) Prednisolone 1% 1 drop au bid
+12) Colace 100 mg po bid
+13) ASA 81 mg po qd
+14) Oxycodone 10 mg po q6h prn
+Gabapentin 100 mg tid     5 doses given before being discontinued
+
+Allergies: NKDA
+
+SH: Never smoked, does not currently drink ETOH, no h/o substance abuse, lives on the 2nd floor of an apartment (15 steps) and has neighbors who check in on her.  She is widowed with closest family being a cousin in Alaska.  She has been able to meet her needs of daily living independently. 
+
+FH: Mother with fatal MI at 65, no family h/o rheumatic disease or cancer.  
+
+PE: 
+Tm 99.5, Tc 97.3, HR 51 (46-72), BP 126/50 (120-154/50-70), RR 18 (16-18), O2 sat 96% (94-98) RA
+Gen     NAD when immobile, but great pain with minimal movement or contact with lower extremities
+HEENT     2 mm pupils, EOM intact, no scleral icterus, oropharnyx nl, no gouty tophi on pinna
+Neck     Supple, no lymphadenopathy, no JVD
+CV     RRR, nl S1 S2, 2/6 SEM best heard in RUSB
+Chest     Late inspiratory crackles at bases bilaterally
+Abd     +BS, soft, NT, ND, liver edge above chostochondral margin, no palpable splenomegaly, no masses
+Back     R CVA and flank tenderness
+MSK     Heberdin and Bouchard   s nodes of PIPs/DIPs bilaterally, varus deformity of R 2nd-4th DIPs, no joint tenderness or reduced ROM of upper extremities; visible knee effusions bilaterally without erythema or warmth; exquisite tenderness to minimal motion or palpation of knees, tibio-talars, tarsals, and MTPs; no effusions palpable or visible in tibio-talars, tarsals, and MTPs
+Ext     WWP, 1+ pedal edema bilaterally
+Pulses     2+ DP bilaterally
+Skin     no rashes, dry skin covering LEs greatest on medial aspect
+Neuro    no focal upper extremity motor deficits, 5/5 finger grip
+
+
+
+
+Labs:
+Na 139, K 4.2, Cl 106, CO2 23, BUN 61, Cr 1.79 (1.69 yesterday), Glu 141, Ca 8.9, P 3.8, Mg 2.1
+TP 6.9, Alb 3.0, Glob 3.9
+ALT 14, AST 12, ALKP 76, TBILI 0.4
+FE 12, TIBC 205, B12 303, Folate 12.7
+HGBA1C 6.1
+Uric acid 11.5
+ESR 101, CRP 141.6
+WBC 12.51 (N76 L14 M8 E2), Hct 28.8, Plt 398
+Beta-hydroxybutyrate 0.41
+UA sg 1.018, pH 5.0, protein 2+, 6 WBC/

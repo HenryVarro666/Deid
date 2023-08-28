@@ -1,0 +1,163 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2091-07-28
+
+Intern Transfer Note
+
+Mitchell, Katie 
+
+MR# 6146161
+
+Date of Admission: July 24, 2091
+
+Date of Transfer: Jul 28, 2091
+
+Pulm:  Geoffrey Lucas
+
+PCP:  Evelyn Conway (Raymond)
+
+Cards:  Janssen
+
+
+
+ID/CC: SOB
+
+
+
+HPI:   Ms. Mitchell is a 75 yo woman w/ a PMH notable for COPD w/ FEV1/FVC=63%, HOCM s/p MVR and septal myomectomy in 2085 who presents with increasing SOB and DOE for the past 4 days.  Of note, her and her son note increasing DOE for the past 4 months and she was scheduled for outpatient TTE today.  She also reports DOE and productive cough with green- yellow sputum that has been blood tinged ever since her EGD on 7/10/91.  She also notes recent URI symptoms especially runny nose as well as diarrhea the day PTA with 6 loose BMs.  On the day prior to admission, she had drenching sweats but didn't take her temperature.  She has also had decreased po intake (though improved w/ treatment for her trigeminal neuralgia) but denies F/C/CP/abd pain/dysuria.  Her symptoms acutely worsened today such that she was in acute respiratory distress and EMS was called..	
+
+	EMS was called and the patient was noted to initially be speaking in full sentences but became more acutely SOB in the ambulance.  In the ED, she was afebrile but tachycardic to 120 and hypertensive at 180/80.  She initially required bipap with O2 sats of 93%.  She was given prednisone, Levaquin and nebulizers with mild improvement in her symptoms.  Of note, she was also noted to have mild ST changes on her EKG while she was tachycardic to the 120s.  She received ASA, Lopressor and Ativan and cardiac enzymes showed an elevated CK and CK-MB but negative troponin at 0.03.  Her EKG improved with rate control w/ IV Lopressor.  She was also given 30mg IV Lasix given some mild LE edema to which she put out 200cc urine.  She is now admitted to the floor for further management of her SOB.
+
+
+
+ROS:   No F/C, + NS.  Improving appetite. No CP/Palpitations/Orthopnea/PND/Claudication, + LE edema for the past 1-2 months.  No N/V/D/hematochezia/melena. No delta MS/LOC. No slurring of speech, unilateral weakness. No dysuria.
+
+
+
+Hospital Course: Patient had TTE performed on 7/24/91 which showed increase trans-mitral valve gradient. Given patient's history of MVR, TEE was recommended. On the night of 7/24/91, patient (who was known to sundown) tried to attack her roommate and fell on the floor hitting her head. No change in MS. In the setting of being on coumadin, patient had a stat CT of the head done which was negative for bleeds. On 7/25/91, patient went down for a TEE but desated to 80s and the procedure was aborted. Dr. Janssen then decided to perform cardiac cath on the patient Saturday 7/28/91. On 7/26/91, decision was made to put her on BIPAP for the night, and the patient did well and felt rested the next morning. On 7/27/91, because patient looked so well, she was not put on BIPAP but rather only on O2NC for the night. This AM, patient's respiratory status declined satting in the low 90s while on O2 6LNC. ABG was performed which showed 7.48/52/50. After speaking to cardiology, decision was made to transfer the patient to the CCU for intubation prior to cardiac cath this PM. A TEE will be performed while patient is intubated. Patient is currently NPO ready for cath this PM.
+
+
+
+PMH:
+
+1.	COPD- PFTs on 7/17/91 w/ FEV1=32%, FEV1/FVC=63%
+
+2.	MVR- St. Jude's valve, 2085
+
+3.	HOCM- s/p myomectomy in 2085, TTE in 2090 showed EF=75%, no segmental wall motion abnormalities, dilated LA, mild AI; cardiac cath in 5/85 w/ only mild plaques
+
+4.	L CEA- 10/89
+
+5.	GI bleed- secondary to angiodysplasia, EGD/colonoscopy on 7/10/91 showed hiatal hernia and diverticulosis respectively
+
+6.	Trigeminal neuralgia 
+
+
+
+Medications on Admission:
+
+Foradil inhaler
+
+Metoprolol 50mg bid
+
+Flovent 110mcg 4 puffs bid
+
+Nexium 40mg qd
+
+Verapamil SR 120mg qd
+
+MVI
+
+Atrovent inhaler
+
+Coumadin 2.5mg qd
+
+Serevent 1 puff bid
+
+Fosamax 70mg qweek
+
+Lescol 20mg qd
+
+Zyrtec 10mg qd prn
+
+Tums qd
+
+Albuterol inhaler
+
+Tegretol XR 400mg qd
+
+Iron 325mg qd
+
+Metamucil 1 tsp qd
+
+Enemas prn
+
+Baclofen 5mg tid
+
+Ultram 50mg prn
+
+Tylenol prn
+
+Neurontin 600mg tid
+
+Zithromax prior to dental work
+
+
+
+Medication on Transfer
+
+Heparin 1000U/hr IV in premixed continuous
+
+Laxis 20mg IV bid
+
+Prednisone 40mg po qam
+
+Carbamazepin 200mg po bid
+
+ASA 325mg po qd
+
+Atrovent 0.5mg neb qid
+
+Levofloxacin 500mg po qd
+
+Iron 325mg po qd
+
+Baclofen 5mg po tid
+
+Fosamax 70mg po qweek
+
+Lescol 20mg po qd
+
+Nexium 40mg po qd
+
+Verapamil sr 120mg po qd
+
+MVI 1tab po qd
+
+Serevent 1puff inh bid
+
+Lopressor 50mg po bid
+
+Flovent 110mcg inh bid
+
+Colace 100mg po tid
+
+
+
+Allergies:  	 Amoxicillin, penicillin, Compazine, Bactrim, Sudafed, and Percodan.
+
+
+
+SH:  	Lives alone, son lives in NM, come up to help out
+
+	Tob:		No
+
+	Alc:		No
+
+	Drugs:	No
+
+
+
+Family History:  																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																					

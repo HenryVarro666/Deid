@@ -1,0 +1,47 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2073-09-28
+
+59 y/o male for f/u:
+
+   1) BP - No CP, SOB, pedal edema
+
+   2) low HDL - walking daily
+
+   3) ED - Viagra working well at 50 mg 
+
+   4) hi LDL - continues Lipitor w/o muscle pain
+
+
+
+O/E Looks well. BLOOD PRESSURE   120/70  wt 218 HR 68 reg
+
+  chest - CTA
+
+  ext - no edema
+
+
+
+A/P 1) BP - good control
+
+    2) low HDL - much time spent discussing lifestyle treatment. Has increased exercise to walking but wght unchanged > will increase exercise
+
+    3) ED - no change
+
+    4) hi LDL - good control. No change
+
+
+
+
+
+
+
+
+
+
+
+
+
+

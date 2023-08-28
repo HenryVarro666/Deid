@@ -1,0 +1,449 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2089-02-20
+
+
+
+Vi K. Xayarath, M.D., Ph.D.
+
+Resident, Phoenix Neurology
+
+Neurology ED Consult
+
+
+
+
+
+   
+
+
+
+
+
+Date:	Thursday, February 20, 2089    21:42	
+
+PCP:	Rhonda Riddle; (called by Valerie Xian)	
+
+Patient:	Garrison Sexton	
+
+HDH Record #	4210443	
+
+
+
+	
+
+Chief  Complaint:  "dizzy, slurred speech" 		
+
+History of Present Illness:  65 year old RH gentleman with Hx notable for HTN and CASHD, was working on taxes and making barbecued chicken this afternoon, when at 1am he had the sudden onset of feeling "dizzy, disoriented" and having "slurred speech". He reports that he "couldn't remember what I was trying to say", and that his words both sounded "like [I] was drunk". He also stated that at times, when he would try to talk, nothing would come out. He walked downstairs, with difficulty, and his wife noticed that in the hallway he was bumping into items on (falling to) his right. Denies weakness, paresthesias, pain.  EMTs report that when asked the President's name, pt responded "Chrysler Dodge". Brought initially to OSH, symptoms mostly resolved within 20 minutes. I- CT at OSH negative. Pt transferred to HDH ED at suggestion of covering PCP.  		
+
+Past Medical Hx:  HTN, Coronary artery disease (s/p angioplasty and atherectomy; s/p CABG x 5 in 2081), diabetes mellitus, prostate ca (s/p radical retropubic prostatectomy 4/0, negative nodes and margins), obesity. Bladder suspension.  Baseline bradycardia (40s average).  		
+
+Allergies:   Hydrochlorothiazide, furosemide, gemfibrozil, amoxicillin, hydrocodone, oxycodone 		
+
+Medicines: Isosorbide 20 qid Cardizem  HCM 180 qD Atenolol 25 qD ECASA 325 qD Atorvastatin 10 qD Glucophage 500 bid Avapro 150 qD Bumetanide 1 qD Claritin 1 qD 		
+
+Family History:  Mom with stroke in her 80s 		
+
+Social History:  Married 41 years. Pastor (still practicing). No cigarettes. EtOH < 1 glass wine/month.   		
+
+Review of Systems:  Mild frontal HA, no tinnitus, no CP/SOB/abdom pain. + diplopia occasionally this AM (horizontal), no dysuria. 		
+
+Examination:	 
+
+Gen:  Pleasant 65 yo RH gentleman, NAD 148/67 P44-48  R16 RRR No carotid/occipital bruits.  
+
+Neurologic exam 
+
+MS: Alert, interactive, NAD. Fully oriented. Accurate describes stroke card scene.  
+
+Speech: Articulate, appropriate. Reading and repetition intact. Naming all items on stroke card ("couch"; when asked for alternative, "chair"). Several hesitancies of speech, occasional phonemic paraphasic error (recognized).  
+
+CN: PERRL 4  2 bilaterally, EOMI, VFFtC, facial sensation intact, eyes shut tight, smile symmetric, hearing intact, palate elevates symmetrically, shoulder shrug strong, tongue midline.  
+
+Motor: 5/5 strength UE/LE bilaterally proximally and distally. Normal tone/bulk. No fasciculations noted. No drift. Rapid finger movements slightly slower on R (dominant side) than L.  
+
+Sensory: Pinprick, temperature, light touch, vibration, proprioception intact.  
+
+Reflexes: 2+ B/T bilaterally. 21+ patellar, 1+ ankle reflexes. R toe up, L toe down (could not repeat 1 hour later).   Coordination: F-N-F intact. Rapid alternating movements intact.  
+
+Gait: Normal. Tandems well. Romberg negative.              
+
+  CXR: pending 
+
+CT: from OSH, mild cortical atrophy with mild hydrocephalus ex vacuo. Basilar artery is prominent, though not severely hyperdense.   	
+
+
+
+ 
+
+
+
+
+
+
+
+Labs:  
+
+NA        	142       	          	          	          	          
+
+ K         	4.0       	          	          	          	         
+
+  CL        	102       	          	          	          	           
+
+CO2       26.2      	          	          	          	           
+
+BUN       34   	          	          	          	           
+
+CRE       1.6   	          	          	          	           
+
+GLU       106    	          	          	          	         
+
+CA        	8.7       	          	          	          	           
+
+PHOS      3.3       	          	          	          	           
+
+MG        1.6       	          	          	          	            
+
+WBC       	9.4       	          	          	          	           
+
+HCT       	37.1(L)   	          	          	          	         
+
+  HGB       	13.3(L)   	          	          	          	          	          	          	          	          
+
+ PLT         	152       	          	          	          	           
+
+MCV       	80        	          	          	          	          	          	          	          
+
+ RDW       	13.0      	          	          	          	          	          	           
+
+%NEUT     	58        	          	          	          	           
+
+%LYMPH    	32        	          	          	          	         
+
+  %MONO     	6         	          	          	          	          
+
+ %EOS      	3         	          	          	          	           
+
+%BASO     	1         	          	          	          	           	          	          	          
+
+ PT        	12.8      	          	          	          	         
+
+ PTT       	25.8      	          	          
+
+	          	          		
+
+ Impression: 65 year old gentleman with multiple stroke risk factors, onset of dysarthria, aphasia, dizziness, ataxia at 13:00 today. Symptoms improving over first 30-60 minutes, but residual RUE drift, dysarthria, and (initally) upgoing R toe. Suspicious for L MCA cortical event. L ICA stenosis and/or embolic event +/- fetal left PCA possible concerns (?cortical vs v-b etiology of dizziness). Cannot obtain CTA secondary to elevated creatinine.  
+
+
+
+Plan:  
+
+1.	Admit to RDA 
+
+2.	MRI/MRA. MR Perfusion study if L ICA stenosis or suggestion of intracranial stenosis. 
+
+3.	As event occurred on ASA, provide heparin PTT 60-80, continue ASA at decreased dose (81 qD). Watch platelets, as pt on ASA. 
+
+4.	Monitor L ICA with MRI/MRA. 
+
+5.	Watch for signs of L PCA stenosis (RUE drift, dysarthria). 
+
+6.	Watch for signs of intracranial stenosis. 
+
+7.	Follow up with PCP. 
+
+8.	Watch for signs of seizure. 
+
+9.	Continue aspirin (81 qD). 
+
+10.	Watch for signs of hypertension. 
+
+11.	Watch for signs of COPD. 
+
+12.	Watch for signs of CVA. 
+
+13.	Watch for signs of stroke. 
+
+14.	Watch for signs of stroke. 
+
+15.	Watch for signs of stroke. 
+
+16.	Watch for signs of stroke. 
+
+17.	Watch for signs of stroke. 
+
+18.	Watch for signs of stroke. 
+
+19.	Watch for signs of stroke. 
+
+20.	Watch for signs of stroke. 
+
+21.	Watch for signs of stroke. 
+
+22.	Watch for signs of stroke. 
+
+23.	Watch for signs of stroke. 
+
+24.	Watch for signs of stroke. 
+
+25.	Watch for signs of stroke. 
+
+26.	Watch for signs of stroke. 
+
+27.	Watch for signs of stroke. 
+
+28.	Watch for signs of stroke. 
+
+29.	Watch for signs of stroke. 
+
+30.	Watch for signs of stroke. 
+
+31.	Watch for signs of stroke. 
+
+32.	Watch for signs of stroke. 
+
+33.	Watch for signs of stroke. 
+
+34.	Watch for signs of stroke. 
+
+35.	Watch for signs of stroke. 
+
+36.	Watch for signs of stroke. 
+
+37.	Watch for signs of stroke. 
+
+38.	Watch for signs of stroke. 
+
+39.	Watch for signs of stroke. 
+
+40.	Watch for signs of stroke. 
+
+41.	Watch for signs of stroke. 
+
+42.	Watch for signs of stroke. 
+
+43.	Watch for signs of stroke. 
+
+44.	Watch for signs of stroke. 
+
+45.	Watch for signs of stroke. 
+
+46.	Watch for signs of stroke. 
+
+47.	Watch for signs of stroke. 
+
+48.	Watch for signs of stroke. 
+
+49.	Watch for signs of stroke. 
+
+50.	Watch for signs of stroke. 
+
+51.	Watch for signs of stroke. 
+
+52.	Watch for signs of stroke. 
+
+53.	Watch for signs of stroke. 
+
+54.	Watch for signs of stroke. 
+
+55.	Watch for signs of stroke. 
+
+56.	Watch for signs of stroke. 
+
+57.	Watch for signs of stroke. 
+
+58.	Watch for signs of stroke. 
+
+59.	Watch for signs of stroke. 
+
+60.	Watch for signs of stroke. 
+
+61.	Watch for signs of stroke. 
+
+62.	Watch for signs of stroke. 
+
+63.	Watch for signs of stroke. 
+
+64.	Watch for signs of stroke. 
+
+65.	Watch for signs of stroke. 
+
+66.	Watch for signs of stroke. 
+
+67.	Watch for signs of stroke. 
+
+68.	Watch for signs of stroke. 
+
+69.	Watch for signs of stroke. 
+
+70.	Watch for signs of stroke. 
+
+71.	Watch for signs of stroke. 
+
+72.	Watch for signs of stroke. 
+
+73.	Watch for signs of stroke. 
+
+74.	Watch for signs of stroke. 
+
+75.	Watch for signs of stroke. 
+
+76.	Watch for signs of stroke. 
+
+77.	Watch for signs of stroke. 
+
+78.	Watch for signs of stroke. 
+
+79.	Watch for signs of stroke. 
+
+80.	Watch for signs of stroke. 
+
+81.	Watch for signs of stroke. 
+
+82.	Watch for signs of stroke. 
+
+83.	Watch for signs of stroke. 
+
+84.	Watch for signs of stroke. 
+
+85.	Watch for signs of stroke. 
+
+86.	Watch for signs of stroke. 
+
+87.	Watch for signs of stroke. 
+
+88.	Watch for signs of stroke. 
+
+89.	Watch for signs of stroke. 
+
+90.	Watch for signs of stroke. 
+
+91.	Watch for signs of stroke. 
+
+92.	Watch for signs of stroke. 
+
+93.	Watch for signs of stroke. 
+
+94.	Watch for signs of stroke. 
+
+95.	Watch for signs of stroke. 
+
+96.	Watch for signs of stroke. 
+
+97.	Watch for signs of stroke. 
+
+98.	Watch for signs of stroke. 
+
+99.	Watch for signs of stroke. 
+
+100.	Watch for signs of stroke. 
+
+101.	Watch for signs of stroke. 
+
+102.	Watch for signs of stroke. 
+
+103.	Watch for signs of stroke. 
+
+104.	Watch for signs of stroke. 
+
+105.	Watch for signs of stroke. 
+
+106.	Watch for signs of stroke. 
+
+107.	Watch for signs of stroke. 
+
+108.	Watch for signs of stroke. 
+
+109.	Watch for signs of stroke. 
+
+110.	Watch for signs of stroke. 
+
+111.	Watch for signs of stroke. 
+
+112.	Watch for signs of stroke. 
+
+113.	Watch for signs of stroke. 
+
+114.	Watch for signs of stroke. 
+
+115.	Watch for signs of stroke. 
+
+116.	Watch for signs of stroke. 
+
+117.	Watch for signs of stroke. 
+
+118.	Watch for signs of stroke. 
+
+119.	Watch for signs of stroke. 
+
+120.	Watch for signs of stroke. 
+
+121.	Watch for signs of stroke. 
+
+122.	Watch for signs of stroke. 
+
+123.	Watch for signs of stroke. 
+
+124.	Watch for signs of stroke. 
+
+125.	Watch for signs of stroke. 
+
+126.	Watch for signs of stroke. 
+
+127.	Watch for signs of stroke. 
+
+128.	Watch for signs of stroke. 
+
+129.	Watch for signs of stroke. 
+
+130.	Watch for signs of stroke. 
+
+131.	Watch for signs of stroke. 
+
+132.	Watch for signs of stroke. 
+
+133.	Watch for signs of stroke. 
+
+134.	Watch for signs of stroke. 
+
+135.	Watch for signs of stroke. 
+
+136.	Watch for signs of stroke. 
+
+137.	Watch for signs of stroke. 
+
+138.	Watch for signs of stroke. 
+
+139.	Watch for signs of stroke. 
+
+140.	Watch for signs of stroke. 
+
+141.	Watch for signs of stroke. 
+
+142.	Watch for signs of stroke. 
+
+143.	Watch for signs of stroke. 
+
+144.	Watch for signs of stroke. 
+
+145.	Watch for signs of stroke. 
+
+146.	Watch for signs of stroke. 
+
+147.	Watch for signs of stroke. 
+
+148.	Watch for signs of stroke. 
+
+149.	Watch for signs of stroke. 
+
+150.	Watch for signs of stroke. 
+
+151.	Watch for signs of stroke. 
+
+152.	Watch for signs of stroke. 
+
+153.	Watch for signs of stroke. 
+
+154

@@ -1,0 +1,231 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2073-09-20
+
+ MANAMANA nfectious Disease Consultation Note
+
+Patient: Vincent Ware (71417347     2Y)
+Student:  Casey Best, MS-4
+ID Fellow: Tina Isaiah-Villagomez MD
+ID Attending: Alexander Y Xian MD
+Referring Physician: Webster MD
+Date of Consult: September 20, 2073
+
+Reason for consult:  cough, nightsweats and weightloss, two days prior to transplant
+
+HPI: 66 yo M with h/o IDDM, large cell lymphoma in 2066, and now with myelodysplastic syndrome.  He was treated with CHOP in 2066 followed by radiotherapy, completed in Nov 2066.  He was free of disease since then until May 2073.  He sought primary care for a URI and was noted to be anemic (HCT 31).  His counts were followed and when his HCT dropped as low as 22 a Bone Marrow was done and showed myelodysplastic syndrome.  He was considered for a allogenic stem-cell transplant.  His major complaint is a dry cough that he has had since May 2073.   It is provoked by eating, drinking and lying down.  And only occasionally does he produce any sputum.  He has been on numerous antibiotics in the past four months for the cough and he also developed a periorbital cellulitis for which he was hospitalized at Educare-Fargo for which he received a 3 week course of Ceftriaxone, Nafcillin and flagyl (finished at the end of July).  In retrospect, he recognizes sinus pressure/congestion associated with periorbital cellulitis.  In August 2073 he had a questionable LLL PNA and was treated with cipro.  On pre-transplant work-up, CXR revealed increase    conspicuity of ill-defined LL zone opacity.      CT chest reviewed today revealed mutlifocal pneumonia with associated radiation-related changes.  
+
+Throughout this time period he has only had a few days of fever for which he was at KCGH and given abx and defervesced.  He recalls    nightsweats    as the fevers broke.  He does admit to maybe a 10 lb weight loss in the past 4 months.  He denies SOB (unless he   s severely anemic), orthopnea, sore throat, dysphagia, odynophagia, CP, palpitations, angina-like symptoms, acid-reflux, nausea, vomiting, diarrhea, constipation, BRBPR, dysuria, frequency, nocturia, joint or muscle pain.  He does have mild peripheral neuropathy in his feet bilaterally.
+
+PMH:  
+MDS
+Peri-Orbital cellulitis, recent
+Insulin dependent diabetes mellitus
+Hypercholesterolemia
+Non-hodgkin   s lymphoma (2066; tx w/ CHOP and radiation)
+Pt:  RPR neg, CMV neg, HSV pos, TOXO pos, EBV pos, VZV pos, Hep Panel neg, HTLV neg and HIV neg, PPD neg 9/20/73 and 8/7/73
+Donor:  RPR neg, CMV neg, Hep Panel neg, HIV neg, HTLV neg, PPD neg (traveled to Saudi Arabia, Cartersville, Newport)
+
+Medications on admission:
+Cipro (last dose 9/18/73)
+Lantus and novolog
+Procrit
+Zetia, ASA, VitB/MVI
+
+Inpatient medication:
+Antimicrobials/immune booster:
+Acyclovir
+Bactrim (to d/c day 0)
+Levaquin (to start day    1)
+GCSF (start d+1)
+Immunosuppressants:
+Fludarabine, 
+Vusulfan
+Tacrolimus (start day    3)
+Rapamycin (start day    3)
+Other:  zoran, ativan/compazine, mvi/folate, ompeprazole, lantus, novolog, metformin, Demerol, oxycodone
+
+Allergies: NKDA
+
+Social History:  He is a programmer and works as a Industrial Engineering and Manufacturing Technologist at Activision Blizzard.  NO occupational exposures.  He is married with three children and 4 grandchildren.  He does not smoke or drink.  He has remote travel hx to the Rockefeller Centre, more recent global travel (Fernley, Cartersville, Iceland), and frequent travel to Muscat area.  He recently gave his indoor cat away as he hypothesized that she had something to do with his cough/MDS.  He does not recall tick bites and has infrequently visited Storting and Capitol.
+
+Family hx:  Sister died of metastatic cancer     likely lung.  Father died of diabetes, Mother died at age 90.
+
+ROS:  negative in detail except as outlined above in HPI
+
+Physical Exam:
+VS:  T 97.3 Tm 98.6  HR 88 BP 120/70 R 20 O2sat 98% RA
+Gen:  WDWN male in NAD, AAOx3 doing extremely complex math at presentation
+HEENT:  EOMI, conjunctiva pink, PERRLA, no oropharyngeal erythema, thrush or exudate
+CV: S1 S2 nl, RRR, no M/R/G
+Lungs:  mild coarse crackles at L base; R clear
+Abd: soft, NT, ND, no organomegaly
+Ext:  no C/C/E
+Lines:  hickman, L subclavian, no erythema, warmth
+
+Relevant Labs:  
+09/20/2073 CRE 1.13
+09/20/2073 LDH 113
+09/20/2073 ALT/SGPT 15,  AST/SGOT 13,  ALKP 65,  TBILI 0.5,  DBILI 0.2
+09/20/2073 1-3BGLUC PEND
+09/20/2073 WBC 2.25 (*),  HGB 8.5 (*),  HCT 24.7 (*),  PLT 118 (*)
+09/20/2073 %POLY-M 70,  %BAND-M 1,  %LYMPH-M 18,  %ATYPS 0,  %MONO-M 10 (*),  %EOS-M 0,  %BASO-M 1
+09/20/2073 GALACT-AG 0.14 [1]
+
+Microbiology
+
+09/19/2073 Microbiology URINE:  Total Colony Count 100:  PROBABLE STAPHYLOCOCCI 
+09/18/2073 NASAL (ASPERGILLUS SCREEN):  FUNGUS CULTURE: NO REPORT SO FAR 
+
+Radiology
+
+09/19/2073 CT SCAN CHEST W/O CONTRAST
+REPORT NOT FINALIZED 
+
+09/19/2073 CT SCAN CHEST W/ CONTRAST
+REPORT NOT FINALIZED 
+
+09/19/2073 CT SCAN ABDOMEN
+REPORT NOT FINALIZED 
+
+09/19/2073 CT SCAN BRAIN
+REPORT NOT FINALIZED 
+
+09/19/2073 CT SCAN SPINE
+REPORT NOT FINALIZED 
+
+09/19/2073 CT SCAN BONE MARROW
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW BIOPSY
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU HYBRIDIZATION
+REPORT NOT FINALIZED 
+
+09/19/2073 BONE MARROW FLUORESCENCE IN SITU

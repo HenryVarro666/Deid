@@ -1,0 +1,73 @@
+Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: 
+
+
+
+Record date: 2081-03-02
+
+EDVISIT^35093053^Dodd, Steven^03/02/81^CHURCH, XION
+
+I interviewed and examined the patient, reviewed the resident's
+
+documentation on the patient's chart, and discussed the
+
+evaluation, plan of care, and disposition with the patient.  The
+
+Medical Intensive Care Unit team, the senior admitting resident,
+
+and other members of the medical staff.  Please refer to the
+
+resident's chart for details.
+
+HISTORY OF PRESENT ILLNESS:  Briefly, Mr. Dodd is a 65-year-old
+
+man with congestive heart failure and multiple other medical
+
+problems, who was brought in by ambulance in respiratory
+
+distress.  We found him to be in near respiratory failure.  He
+
+was treated with bilevel positive airway pressure ventilation as
+
+well as morphine, aspirin, Lasix, and nitroglycerin.  He had a
+
+dramatic improvement.  Further details are in the resident's
+
+chart.
+
+PRIMARY DIAGNOSIS:  Congestive heart failure exacerbation with
+
+incipient respiratory failure.
+
+SECONDARY DIAGNOSIS:  Acute on chronic renal insufficiency.
+
+THIRD DIAGNOSIS:  Urinary tract infection.
+
+PLAN:  Antibiotic treatment.  Continued bilevel positive airway
+
+pressure ventilation, admission to the Medical Intensive Care
+
+Unit.
+
+CRITICAL CARE TIME:  35 minutes.
+
+CONDITION:  Fair.
+
+______________________________
+
+CHURCH, XION M.D.
+
+D: 03/02/81
+
+T: 03/02/81
+
+Dictated By: CHURCH, XION
+
+eScription document:6-1192641 BFFocus
+
+******** Not reviewed by Attending Physician ********
+
+
+
+
+
+

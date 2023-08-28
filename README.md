@@ -239,4 +239,5 @@ print(tokenizer.batch_decode(outputs, skip_special_tokens=True))
 Flan-t5-base在explicit和implicit表现不佳
 
 # To Do
-LLaMA模型需要进行验证 -0824
+- [x] LLaMA模型需要进行验证 -0824
+- [ ] LLaMA1和2在deid方面的表现差异很小

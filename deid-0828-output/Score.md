@@ -27,3 +27,9 @@ Average Recall = 0.612
 Average accuracy = 0.609
 Average Precision = 0
 Average Recall = 0.609
+
+## rewrite_directory = './Llama-2-7b-hf_genral2'
+514
+Average accuracy = 0.597
+Average Precision = 0
+Average Recall = 0.597

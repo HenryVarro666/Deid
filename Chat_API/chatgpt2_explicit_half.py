@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import pprint
 import tiktoken
 
-openai.api_key = "sk-REDACTED"
+openai.api_key = "..."
 rewrite_path = "/Users/caochao/Downloads/acc1/rewrite2"
 
 # import required module

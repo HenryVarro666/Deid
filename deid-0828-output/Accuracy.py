@@ -16,7 +16,8 @@ original_directory = './testing-PHI-Gold-fixed'
 # rewrite_directory = './Llama-1-7b-hf_general2'
 # rewrite_directory = './Llama-1-7b-hf_implicit2'
 # rewrite_directory = './Llama-2-7b-hf_explicit2'
-rewrite_directory = './Llama-2-7b-hf_implicit2'
+# rewrite_directory = './Llama-2-7b-hf_implicit2'
+rewrite_directory = './Llama-2-7b-hf_genral2'
 #
 #
 

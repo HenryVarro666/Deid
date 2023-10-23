@@ -1,7 +1,12 @@
+
+
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import transformers
 import torch
 import os
+# # Set the CUDA devices you want to use (0 and 1)
+# os.environ['CUDA_VISIBLE_DEVICES'] = '0,1'
+
 from bs4 import BeautifulSoup
 import time
 from tqdm import tqdm
@@ -15,8 +20,9 @@ from tqdm import tqdm
 
 
 
+
 input_directory = './testing-PHI-Gold-fixed'
-model = "LLaMA1_7B"
+model = "Llama-2-7b-chat-hf"
 # model = "LLaMA2_7B"
 model_name_part = model
 output_path = "./rewrite_{}_explicit2".format(model_name_part)
@@ -50,7 +56,7 @@ for filename in os.listdir(directory):
 
 for i in tqdm(range(len(list_of_text_contents)), desc="Processing files"):
     prompt = Explicit_prompt + list_of_text_contents[i]
-    inputs = tokenizer.encode(prompt, return_tensors='pt', truncation=True, max_length=2048)
+    inputs = tokenizer.encode(prompt, return_tensors='pt', truncation=True, max_length=2048).to("cuda")
 
 
         # Run the model

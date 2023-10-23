@@ -19,13 +19,16 @@ from tqdm import tqdm
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-input_directory = './testing-PHI-Gold-fixed'
+# input_directory = './testing-PHI-Gold-fixed'
+input_directory = './Understand_Test'
+
 model = "Llama-2-7b-chat-hf"
 # model = "LLaMA2_7B"
 model_name_part = model
 output_path = "./rewrite_{}_explicit2".format(model_name_part)
 
-Explicit_prompt= "Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: \n"
+# Explicit_prompt= "Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: \n"
+Explicit_prompt= ''
 
 rewrite_path = output_path
 directory = input_directory

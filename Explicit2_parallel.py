@@ -1,33 +1,19 @@
-
-
 from transformers import AutoTokenizer, AutoModelForCausalLM
-import transformers
 import torch
 import os
-# # Set the CUDA devices you want to use (0 and 1)
-# os.environ['CUDA_VISIBLE_DEVICES'] = '0,1'
-
 from bs4 import BeautifulSoup
 import time
 from tqdm import tqdm
 
-
-# input_directory = './testing-PHI-Gold-fixed'
-# model = "tiiuae/falcon-7b"
-# model_name_part = model.split("/")[-1]
-# output_path = "./rewrite_{}_explicit2".format(model_name_part)
-
-
-
-
+# Set the CUDA devices you want to use (0 and 1)
+os.environ["CUDA_VISIBLE_DEVICES"] = "0,1"
 
 input_directory = './testing-PHI-Gold-fixed'
 model = "Llama-2-7b-chat-hf"
-# model = "LLaMA2_7B"
 model_name_part = model
 output_path = "./rewrite_{}_explicit2".format(model_name_part)
 
-Explicit_prompt= "Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: \n"
+Explicit_prompt = "Please anonymize the following clinical note. Specifically, replace all the following information with the term “[redacted]”: redact any strings that might be a name or acronym or initial, redact any strings separated by the \/ symbol, redact patients' names, doctors' names and the strings in front of M.D. or after Dr., redact pager names and medical staff names, redact any strings that look like something years old or age 37, redact any dates and IDs and numbers and record dates, redact locations and addresses and clinic names, redact professions and ages and contacts, redact any acronyms and initials.: \n"
 
 rewrite_path = output_path
 directory = input_directory
@@ -36,7 +22,9 @@ if not os.path.exists(rewrite_path):
     os.makedirs(rewrite_path)
 
 tokenizer = AutoTokenizer.from_pretrained(model)
-model = AutoModelForCausalLM.from_pretrained(model,trust_remote_code=True).to("cuda")
+# Load the model and move it to CUDA devices
+model = AutoModelForCausalLM.from_pretrained(model, trust_remote_code=True)
+model = torch.nn.DataParallel(model).to("cuda")
 
 list_of_text_contents = []
 list_of_files = []
@@ -58,9 +46,9 @@ for i in tqdm(range(len(list_of_text_contents)), desc="Processing files"):
     prompt = Explicit_prompt + list_of_text_contents[i]
     inputs = tokenizer.encode(prompt, return_tensors='pt', truncation=True, max_length=2048).to("cuda")
 
-
-        # Run the model
-    output = model.generate(inputs)
+    # Run the model on the underlying model, not DataParallel
+    with torch.no_grad():
+        output = model.module.generate(inputs)  # Use model.module to access the underlying model
     rewrite_finding = tokenizer.decode(output[0], skip_special_tokens=True)
     rewrite_file = os.path.join(rewrite_path, list_of_files[i] + "_anonymized.txt")
 
@@ -69,4 +57,3 @@ for i in tqdm(range(len(list_of_text_contents)), desc="Processing files"):
 
     print("-----------Anonymized " + "\n-----------")
     print(output)
-

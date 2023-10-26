@@ -9,7 +9,13 @@ from tqdm import tqdm
 
 accelerator = Accelerator()  # 初始化 Accelerator
 
-print(accelerator.device)
+# print(accelerator.device)
+print(accelerator.state)
+
+num_gpus = torch.cuda.device_count()
+print(f'Number of GPUs available: {num_gpus}')
+for i in range(num_gpus):
+    print(f"Device {i}: {torch.cuda.get_device_name(i)}")
 
 
 # input_directory = './testing-PHI-Gold-fixed'

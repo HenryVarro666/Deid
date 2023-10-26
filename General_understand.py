@@ -80,7 +80,7 @@ for filename in tqdm(sorted(os.listdir(source_dir))):
     if os.path.isfile(os.path.join(source_dir, filename)):
         print("Processing file:", filename)
         # load the XML file
-        with open(os.path.join(source_dir, filename), 'r') as f:
+        with open(os.path.join(source_dir, filename), 'r', encoding='utf-8') as f:
             soup = BeautifulSoup(f, features="xml")
             # extract the text content
             text = soup.find('TEXT').text

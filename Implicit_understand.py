@@ -47,7 +47,7 @@ for filename in os.listdir(directory):
     if os.path.isfile(f):
         print(os.path.basename(os.path.normpath(f))[:-4])
         list_of_files.append(os.path.basename(os.path.normpath(f))[:-4])
-        with open(f) as fp:
+        with open(f, encoding='utf-8') as fp:
             soup = BeautifulSoup(fp, features="xml")
             text = soup.find('TEXT')
             text_content = text.contents[0]

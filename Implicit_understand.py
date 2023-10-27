@@ -6,7 +6,6 @@ from bs4 import BeautifulSoup
 import time
 from tqdm import tqdm
 
-
 # input_directory = './testing-PHI-Gold-fixed'
 # model = "tiiuae/falcon-7b"
 # model_name_part = model.split("/")[-1]
@@ -20,21 +19,14 @@ output_path = "./rewrite_{}_implicit_understand".format(model_name_part)
 
 Implicit_prompt = "Please anonymize the following text: \n"
 
-
-
 rewrite_path = output_path
 directory = input_directory
 
 if not os.path.exists(rewrite_path):
     os.makedirs(rewrite_path)
 
-
-
 tokenizer = AutoTokenizer.from_pretrained(model)
 model = AutoModelForCausalLM.from_pretrained(model,trust_remote_code=True).to("cuda")
-
-
-
 
 list_of_text_contents = []
 list_of_files = []
@@ -55,7 +47,7 @@ for filename in os.listdir(directory):
 
 for i in tqdm(range(len(list_of_text_contents)), desc="Processing files"):
     prompt = Implicit_prompt + list_of_text_contents[i]  
-    inputs = tokenizer.encode(prompt, return_tensors='pt', truncation=True, max_length=2048)
+    inputs = tokenizer.encode(prompt, return_tensors='pt', truncation=True, max_length=2048).to('cuda')
 
     # Run the model
     output = model.generate(inputs)
@@ -64,10 +56,3 @@ for i in tqdm(range(len(list_of_text_contents)), desc="Processing files"):
 
     with open(rewrite_file, "w") as f:
         f.write(rewrite_finding)
-
-    # print("-----------第" + str(i + 1) + "个\n-----------")
-    # # print("-----------My prompt " + "\n-----------")
-    # # print(prompt)
-    # print("-----------Anonymized " + "\n-----------")
-    # print(rewrite_finding)
-

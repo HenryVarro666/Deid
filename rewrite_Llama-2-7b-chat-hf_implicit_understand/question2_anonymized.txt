@@ -1,0 +1,21 @@
+Please anonymize the following text: 
+
+Can you anonymize the privacy or personal information in the given content?
+
+Original text:
+"I have been looking into purchasing a new laptop, and I am really interested in the new MacBook Pro. I have read a lot of reviews and watched some videos about it. I think it would be a great investment for my business. I would be able to take it with me on the go and use it for presentations and meetings. I would also be able to use it for video editing and other tasks. I am planning to buy it soon."
+
+Please anonymize the text by replacing the following information:
+Personal information:
+
+* Name (e.g. John, Jane, etc.)
+* Business name (e.g. XYZ Inc., ABC Enterprises, etc.)
+* Location (e.g. New York, London, Tokyo, etc.)
+
+Other personal information:
+
+* Email address
+* Phone number
+* Address
+
+Please let me know if you need any additional information.

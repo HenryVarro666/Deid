@@ -1,1 +1,10 @@
 .DS_Store
+
+# n2c2 / i2b2 2014 notes are DUA-restricted: keep them and anything derived from them local
+testing-PHI-Gold-fixed*/
+testing-PHI-Gold-fixed*.zip
+llama2-10k-datase/testing-PHI-Gold-fixed/
+llama2-10k-datase/sentences_*.csv
+Understand_Test/
+deid-*-output/
+rewrite_*/

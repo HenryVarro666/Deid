@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="960" viewBox="0 0 1600 960" role="img" aria-labelledby="title desc"><title id="title">DEID</title><desc id="desc">Can open LLMs de-identify notes? Removing protected health information from clinical notes with local LLMs.</desc><defs><linearGradient id="paper" x2="1" y2="1"><stop stop-color="#F7F9FC"/><stop offset="1" stop-color="#EFF3F7"/></linearGradient></defs><rect width="1600" height="960" fill="url(#paper)"/><g font-family="Inter, 'Segoe UI', Arial, sans-serif">
+<rect x="0" y="0" width="1600" height="9" rx="0" fill="#3157A4" stroke="none"/>
+<text x="64" y="66" font-size="20" fill="#172837" font-weight="700" letter-spacing="2" data-maxx="900">DEID</text>
+<text x="1536" y="66" font-size="16" fill="#3157A4" font-weight="600" letter-spacing="1" text-anchor="end">CLINICAL NLP / PRIVACY</text>
+<text x="60" y="167" font-size="72" fill="#142638" font-weight="500" data-maxx="1540">Can open LLMs de-identify notes?</text>
+<text x="64" y="221" font-size="27" fill="#344C5F" font-weight="400" data-maxx="1536">Removing protected health information from clinical notes with local LLMs.</text>
+<text x="64" y="262" font-size="20" fill="#697988" font-weight="400" data-maxx="1536">LLaMA 1 / 2 7B, Falcon-7B and Flan-T5 under explicit, implicit and question-driven prompts.</text>
+<rect x="64" y="323" width="344" height="272" rx="20" fill="#FFFFFF" stroke="#DCE4EB"/>
+<rect x="88" y="349" width="44" height="5" rx="2" fill="#3157A4" stroke="none"/>
+<text x="88" y="393" font-size="17" fill="#3157A4" font-weight="700" letter-spacing="1.4" data-maxx="394">01 / LOAD</text>
+<text x="88" y="441" font-size="28" fill="#172C3C" font-weight="600" data-maxx="394">Clinical notes</text>
+<text x="88" y="485" font-size="18" fill="#5C6D7B" font-weight="400" data-maxx="394">n2c2 2014 de-id notes (XML)</text>
+<text x="88" y="517" font-size="18" fill="#5C6D7B" font-weight="400" data-maxx="394">Gold PHI tags held out</text>
+<text x="88" y="549" font-size="18" fill="#5C6D7B" font-weight="400" data-maxx="394">Data kept out of the repo</text>
+<path d="M416 458h16m-6-6 6 6-6 6" fill="none" stroke="#3157A4" stroke-width="2"/>
+<rect x="440" y="323" width="344" height="272" rx="20" fill="#FFFFFF" stroke="#DCE4EB"/>
+<rect x="464" y="349" width="44" height="5" rx="2" fill="#3157A4" stroke="none"/>
+<text x="464" y="393" font-size="17" fill="#3157A4" font-weight="700" letter-spacing="1.4" data-maxx="770">02 / PROMPT</text>
+<text x="464" y="441" font-size="28" fill="#172C3C" font-weight="600" data-maxx="770">Three strategies</text>
+<text x="464" y="485" font-size="18" fill="#5C6D7B" font-weight="400" data-maxx="770">Explicit: list PHI types</text>
+<text x="464" y="517" font-size="18" fill="#5C6D7B" font-weight="400" data-maxx="770">Implicit: just anonymize</text>
+<text x="464" y="549" font-size="18" fill="#5C6D7B" font-weight="400" data-maxx="770">General: ask, then redact</text>
+<path d="M792 458h16m-6-6 6 6-6 6" fill="none" stroke="#3157A4" stroke-width="2"/>
+<rect x="816" y="323" width="344" height="272" rx="20" fill="#FFFFFF" stroke="#DCE4EB"/>
+<rect x="840" y="349" width="44" height="5" rx="2" fill="#3157A4" stroke="none"/>
+<text x="840" y="393" font-size="17" fill="#3157A4" font-weight="700" letter-spacing="1.4" data-maxx="1146">03 / REWRITE</text>
+<text x="840" y="441" font-size="28" fill="#172C3C" font-weight="600" data-maxx="1146">Open models</text>
+<text x="840" y="485" font-size="18" fill="#5C6D7B" font-weight="400" data-maxx="1146">LLaMA 1 and 2, 7B (local)</text>
+<text x="840" y="517" font-size="18" fill="#5C6D7B" font-weight="400" data-maxx="1146">Falcon-7B</text>
+<text x="840" y="549" font-size="18" fill="#5C6D7B" font-weight="400" data-maxx="1146">Flan-T5-base</text>
+<path d="M1168 458h16m-6-6 6 6-6 6" fill="none" stroke="#3157A4" stroke-width="2"/>
+<rect x="1192" y="323" width="344" height="272" rx="20" fill="#FFFFFF" stroke="#DCE4EB"/>
+<rect x="1216" y="349" width="44" height="5" rx="2" fill="#3157A4" stroke="none"/>
+<text x="1216" y="393" font-size="17" fill="#3157A4" font-weight="700" letter-spacing="1.4" data-maxx="1522">04 / SCORE</text>
+<text x="1216" y="441" font-size="28" fill="#172C3C" font-weight="600" data-maxx="1522">PHI left behind</text>
+<text x="1216" y="485" font-size="18" fill="#5C6D7B" font-weight="400" data-maxx="1522">Compare with gold tags</text>
+<text x="1216" y="517" font-size="18" fill="#5C6D7B" font-weight="400" data-maxx="1522">Share of PHI removed</text>
+<text x="1216" y="549" font-size="18" fill="#5C6D7B" font-weight="400" data-maxx="1522">Averaged over notes</text>
+<rect x="64" y="635" width="470" height="211" rx="18" fill="#E0E8F6" stroke="none"/>
+<text x="88" y="675" font-size="15" fill="#3157A4" font-weight="700" letter-spacing="1.2" data-maxx="516">BEST</text>
+<text x="88" y="722" font-size="24" fill="#193346" font-weight="600" data-maxx="516">Flan-T5 + extraction: 0.74</text>
+<text x="88" y="765" font-size="18" fill="#536777" font-weight="400" data-maxx="516">Asking for names, dates and IDs, then</text>
+<text x="88" y="795" font-size="18" fill="#536777" font-weight="400" data-maxx="516">redacting the answers, worked best.</text>
+<rect x="565" y="635" width="470" height="211" rx="18" fill="#E8EDF3" stroke="none"/>
+<text x="589" y="675" font-size="15" fill="#3157A4" font-weight="700" letter-spacing="1.2" data-maxx="1017">REWRITE PROMPTS</text>
+<text x="589" y="722" font-size="24" fill="#193346" font-weight="600" data-maxx="1017">7B models stall near 0.60</text>
+<text x="589" y="765" font-size="18" fill="#536777" font-weight="400" data-maxx="1017">Explicit and implicit prompts scored</text>
+<text x="589" y="795" font-size="18" fill="#536777" font-weight="400" data-maxx="1017">0.60–0.61 for Falcon and LLaMA.</text>
+<rect x="1066" y="635" width="470" height="211" rx="18" fill="#E8EDF3" stroke="none"/>
+<text x="1090" y="675" font-size="15" fill="#3157A4" font-weight="700" letter-spacing="1.2" data-maxx="1518">CAVEAT</text>
+<text x="1090" y="722" font-size="24" fill="#193346" font-weight="600" data-maxx="1518">Flan-T5 can&#x27;t rewrite</text>
+<text x="1090" y="765" font-size="18" fill="#536777" font-weight="400" data-maxx="1518">The seq2seq model did not follow the</text>
+<text x="1090" y="795" font-size="18" fill="#536777" font-weight="400" data-maxx="1518">explicit or implicit rewrite prompts.</text>
+<path d="M64 888h1472" stroke="#CED9E3"/>
+<text x="64" y="923" font-size="17" fill="#647788" font-weight="400" data-maxx="1536">2023 EXPERIMENTS  /  transformers · PyTorch. The n2c2 notes need their own data use agreement.</text>
+</g></svg>

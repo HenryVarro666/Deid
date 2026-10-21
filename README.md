@@ -1,5 +1,52 @@
-# Deid
+<div align="center">
 
+# De-identification with Open LLMs
+
+**Can open, locally run LLMs remove protected health information from clinical notes?**
+
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
+![transformers](https://img.shields.io/badge/transformers-LLaMA%20·%20Falcon%20·%20Flan--T5-FFD21E?logo=huggingface&logoColor=white)
+[![homepage](https://img.shields.io/badge/homepage-ccao2679.com-555555)](https://www.ccao2679.com/research/#deid)
+
+<img src="docs/figures/overview.png" alt="Overview poster: clinical notes, three prompt strategies, open 7B models and Flan-T5, scored by the share of gold PHI removed" width="100%">
+
+</div>
+
+> **Data is not included.** The experiments use the n2c2 (i2b2) 2014 de-identification notes, which are
+> available only under the n2c2 data use agreement. Request them from the
+> [DBMI Data Portal](https://portal.dbmi.hms.harvard.edu/) and place the XML files in `testing-PHI-Gold-fixed/`.
+
+## Highlights
+
+- **Question:** how much protected health information (PHI) do open 7B LLMs leave behind when asked to anonymize a clinical note?
+- **Three prompt strategies:** *explicit* (list every PHI type to redact), *implicit* ("anonymize the following text") and *general* (ask an extraction model for names, dates, IDs and so on, then redact the answers).
+- **Result:** rewrite prompts remove about 60% of gold PHI strings for every 7B model; question-driven extraction with Flan-T5 reaches 0.74.
+
+## Results
+
+Share of gold PHI strings removed, averaged over notes (`Accuracy.py`):
+
+| Prompt | Falcon-7B | Flan-T5-base | LLaMA 1 7B | LLaMA 2 7B |
+|---|---|---|---|---|
+| Explicit | 0.605 | n/a | 0.612 | 0.612 |
+| Implicit | 0.603 | n/a | 0.609 | 0.609 |
+| General (QA extraction) | 0.597 | **0.737** | 0.597 | — |
+
+Flan-T5 is a sequence-to-sequence model and could not follow the explicit and implicit rewrite prompts.
+
+## Repository layout
+
+| Path | Purpose |
+|---|---|
+| `Explicit*.py`, `Implicit*.py`, `General*.py` | Rewrite or extract-and-redact runs for one model and prompt |
+| `*_understand.py`, `Understand_Test/` | Probes of whether a model follows the instruction at all |
+| `Experiment1/`, `flan/`, `Chat_API/` | Per-model variants (Falcon, LLaMA 2, Flan-T5, ChatGPT API) |
+| `Accuracy.py` | Scores a rewrite folder against the gold PHI tags |
+| `llama2-10k-datase/` | Tools for name-swapped fine-tuning data |
+| `models.md` | How each model is loaded |
+
+<details>
+<summary>原始笔记（中文）</summary>
 
 ## Models
  
@@ -241,3 +288,5 @@ Flan-t5-base在explicit和implicit表现不佳
 # To Do
 - [x] LLaMA模型需要进行验证 -0824
 - [ ] LLaMA1和2在deid方面的表现差异很小
+
+</details>

@@ -10,7 +10,7 @@
 [![related](https://img.shields.io/badge/related-DeID--GPT%20·%20arXiv%202303.11032-B31B1B)](https://arxiv.org/abs/2303.11032)
 [![homepage](https://img.shields.io/badge/homepage-ccao2679.com-555555)](https://www.ccao2679.com/research/#deid)
 
-<img src="docs/figures/overview.png" alt="Overview poster: 514 n2c2 test notes, three prompt styles, four open models, scored by the share of gold PHI removed; 7B rewrites score about the same as an untouched note" width="100%">
+<img src="docs/figures/overview.png" alt="Overview poster: 514 n2c2 test notes, three prompt styles, four open models, scored by the share of gold PHI removed; the 2023 rewrite scores sit at the floor of an untouched note" width="100%">
 
 </div>
 
@@ -30,26 +30,26 @@
 
 ## Findings
 
-- **Setting.** The 514 notes of the 2014 i2b2/UTHealth (n2c2) de-identification test set, with 11,462 gold PHI mentions (names, professions, locations, ages, dates, contacts, IDs). The open models ran on local GPUs.
-- **7B rewrites barely touched the PHI.** Asked to rewrite a note without PHI, LLaMA 1 7B, LLaMA 2 7B and Falcon-7B scored 0.597–0.612. Returning the note unchanged scores **0.597** under the same metric, so these runs removed almost nothing.
-- **Asking, then deleting, worked better.** Asking Flan-T5-base for the names, dates and IDs in a note and deleting its answers from the text scored **0.737**, the only clear gain that also keeps the note intact.
-- **A high score is not a good rewrite.** Flan-T5's rewrite runs scored 0.97, but the 2023 log marks them as failed runs: the metric counts PHI left behind, not text kept, so over-deletion looks like success. [PROBLEM.md](PROBLEM.md) sets out the evaluation that would settle this.
+- **Setting.** The 514 notes of the 2014 i2b2/UTHealth (n2c2) de-identification test set, with 11,462 gold PHI mentions (names, professions, locations, ages, dates, contacts, IDs). The open models ran on local GPUs. A synthetic note in [`examples/`](examples/) shows every step without the restricted data.
+- **The 2023 rewrite scores measure the pipeline, not the models.** The generators save `tokenizer.decode(output[0])`. For LLaMA and Falcon that sequence starts with the prompt, which contains the whole note, so every PHI string is still in the saved file and the scores (0.597–0.612) sit on the floor of an untouched note (0.597). Flan-T5 is sequence-to-sequence and returns only new text, but `generate()` runs without a length setting, so it stops at the library default of 20 tokens and a fragment of the note scores 0.97.
+- **The one usable number: ask, then delete.** Asking Flan-T5-base one question per PHI type and replacing its answers in the original note scored **0.737** against the 0.597 floor, with the rest of the note left intact.
+- **What a rerun needs.** Save only the new tokens (`output[0][inputs.shape[1]:]`), set `max_new_tokens` to cover the note, use the chat template for chat models, and score over-deletion and text fidelity next to PHI removal, as [PROBLEM.md](PROBLEM.md) sets out.
 
 ## Results
 
-Share of gold PHI mentions no longer present in the output, averaged over the 514 notes (scripts: `Accuracy.py`).
+Share of gold PHI mentions no longer present in the saved output, averaged over the 514 notes (`Accuracy.py`).
 
 | Model | Explicit prompt | Implicit prompt | General (ask, then delete) |
 |---|---:|---:|---:|
-| LLaMA 1 7B | 0.612 | 0.609 | 0.597 |
-| LLaMA 2 7B | 0.612 | 0.609 | 0.597 |
-| Falcon-7B | 0.605 | 0.603 | 0.597 |
+| LLaMA 1 7B | 0.612\* | 0.609\* | 0.597\* |
+| LLaMA 2 7B | 0.612\* | 0.609\* | 0.597\* |
+| Falcon-7B | 0.605\* | 0.603\* | 0.597\* |
 | Flan-T5-base | 0.974† | 0.966† | **0.737** |
 | *Note returned unchanged* | *0.597* | | |
 
-† Logged as failed rewrites in the 2023 notes; the score does not check that the text survived.
+\* The decoded output begins with the prompt, which contains the note: rewrite files hold the whole note, and in the general runs the "answers" never match the note, so nothing is replaced. † Output cut at the default 20 tokens; a fragment scores as removal.
 
-**Reading the metric.** A PHI string counts as leaked when it appears as a whole word in the output, and each distinct string counts once however often it recurs, while the denominator counts every mention. Multi-word PHI such as an address never matches a single word. Together these let an untouched note score 0.597, so read every number against that floor. Precision values printed by the scripts are not meaningful and are left out.
+**Reading the metric.** A PHI string counts as leaked when it appears as a whole word in the output, and each distinct string counts once however often it recurs, while the denominator counts every mention. Multi-word PHI such as an address never matches a single word. Together these let an untouched note score 0.597, so read every number against that floor; [`examples/score_example.py`](examples/score_example.py) shows the same effect on the synthetic note. Precision values printed by the scripts are not meaningful and are left out.
 
 ## How it works
 
@@ -73,13 +73,14 @@ Share of gold PHI mentions no longer present in the output, averaged over the 51
 
 ## Data and privacy
 
-This repository holds **no clinical text**. The n2c2 notes, every model rewrite of them and the sentence files extracted from them were removed from the whole git history in October 2026, and `.gitignore` keeps such files out. The n2c2 data use agreement does not allow redistribution, so bring your own licensed copy. The Kaggle Reddit/Twitter comment files under `llama2-10k-datase/kaggle_data/` are public data kept from the planned fine-tuning set.
+This repository holds **no clinical text**; the note in `examples/` is synthetic. The n2c2 notes, every model rewrite of them and the sentence files extracted from them were removed from the whole git history in October 2026, and `.gitignore` keeps such files out. The n2c2 data use agreement does not allow redistribution, so bring your own licensed copy. The Kaggle Reddit/Twitter comment files under `llama2-10k-datase/kaggle_data/` are public data kept from the planned fine-tuning set.
 
 ## Repository layout
 
 | Path | Purpose |
 |---|---|
 | `Explicit*.py`, `Implicit*.py`, `General*.py` | One generator per prompt style (local 🤗 models) |
+| `examples/` | A synthetic note in the n2c2 format, the input for each prompt, the expected outputs and a scorer you can run |
 | `*_understand.py`, `Understand_Test/` | Probe whether a model understands the instruction itself |
 | `Experiment1/` | First runs with the `transformers` pipeline (Falcon, LLaMA 2, mT0 zero-shot NER) |
 | `flan/` | Flan-T5 variants (sequence-to-sequence) |

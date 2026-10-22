@@ -11,7 +11,7 @@
 <text x="88" y="441" font-size="28" fill="#172C3C" font-weight="600" data-maxx="394">514 test notes</text>
 <text x="88" y="485" font-size="18" fill="#5C6D7B" font-weight="400" data-maxx="394">n2c2 2014 de-id test set (XML)</text>
 <text x="88" y="517" font-size="18" fill="#5C6D7B" font-weight="400" data-maxx="394">11,462 gold PHI mentions</text>
-<text x="88" y="549" font-size="18" fill="#5C6D7B" font-weight="400" data-maxx="394">Not included in this repo</text>
+<text x="88" y="549" font-size="18" fill="#5C6D7B" font-weight="400" data-maxx="394">Synthetic example in examples/</text>
 <path d="M416 458h16m-6-6 6 6-6 6" fill="none" stroke="#3157A4" stroke-width="2"/>
 <rect x="440" y="323" width="344" height="272" rx="20" fill="#FFFFFF" stroke="#DCE4EB"/>
 <rect x="464" y="349" width="44" height="5" rx="2" fill="#3157A4" stroke="none"/>
@@ -38,19 +38,19 @@
 <text x="1216" y="549" font-size="18" fill="#5C6D7B" font-weight="400" data-maxx="1522">Untouched note = 0.597</text>
 <rect x="64" y="635" width="470" height="211" rx="18" fill="#E0E8F6" stroke="none"/>
 <text x="88" y="675" font-size="15" fill="#3157A4" font-weight="700" letter-spacing="1.2" data-maxx="516">FINDING</text>
-<text x="88" y="722" font-size="24" fill="#193346" font-weight="600" data-maxx="516">7B rewrites ≈ no edit</text>
-<text x="88" y="765" font-size="18" fill="#536777" font-weight="400" data-maxx="516">LLaMA 1/2 and Falcon scored 0.597–0.612;</text>
-<text x="88" y="795" font-size="18" fill="#536777" font-weight="400" data-maxx="516">returning the note unchanged scores 0.597.</text>
+<text x="88" y="722" font-size="24" fill="#193346" font-weight="600" data-maxx="516">Rewrite scores = pipeline</text>
+<text x="88" y="765" font-size="18" fill="#536777" font-weight="400" data-maxx="516">Saved outputs start with the prompt, so</text>
+<text x="88" y="795" font-size="18" fill="#536777" font-weight="400" data-maxx="516">LLaMA and Falcon sit at the 0.597 floor.</text>
 <rect x="565" y="635" width="470" height="211" rx="18" fill="#E8EDF3" stroke="none"/>
 <text x="589" y="675" font-size="15" fill="#3157A4" font-weight="700" letter-spacing="1.2" data-maxx="1017">ONLY REAL GAIN</text>
 <text x="589" y="722" font-size="24" fill="#193346" font-weight="600" data-maxx="1017">Ask, then delete: 0.737</text>
-<text x="589" y="765" font-size="18" fill="#536777" font-weight="400" data-maxx="1017">Asking Flan-T5 for the PHI and deleting</text>
-<text x="589" y="795" font-size="18" fill="#536777" font-weight="400" data-maxx="1017">its answers kept the text and helped.</text>
+<text x="589" y="765" font-size="18" fill="#536777" font-weight="400" data-maxx="1017">Asking Flan-T5 for the PHI and replacing</text>
+<text x="589" y="795" font-size="18" fill="#536777" font-weight="400" data-maxx="1017">its answers kept the note and helped.</text>
 <rect x="1066" y="635" width="470" height="211" rx="18" fill="#E8EDF3" stroke="none"/>
 <text x="1090" y="675" font-size="15" fill="#3157A4" font-weight="700" letter-spacing="1.2" data-maxx="1518">CAVEAT</text>
 <text x="1090" y="722" font-size="24" fill="#193346" font-weight="600" data-maxx="1518">Flan-T5 rewrites: 0.97</text>
-<text x="1090" y="765" font-size="18" fill="#536777" font-weight="400" data-maxx="1518">Logged as failed runs in 2023: the score</text>
-<text x="1090" y="795" font-size="18" fill="#536777" font-weight="400" data-maxx="1518">counts PHI left, not text kept.</text>
+<text x="1090" y="765" font-size="18" fill="#536777" font-weight="400" data-maxx="1518">Cut at the default 20 tokens: a fragment</text>
+<text x="1090" y="795" font-size="18" fill="#536777" font-weight="400" data-maxx="1518">of the note scores as removal.</text>
 <path d="M64 888h1472" stroke="#CED9E3"/>
 <text x="64" y="923" font-size="17" fill="#647788" font-weight="400" data-maxx="1536">2023 EXPERIMENTS  /  transformers · PyTorch  /  The n2c2 2014 notes need their own data use agreement.</text>
 </g></svg>

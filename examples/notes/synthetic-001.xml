@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- SYNTHETIC EXAMPLE. Every name, date, place and number below was invented for this repository; it is not an n2c2 note. Format follows the 2014 i2b2/UTHealth de-identification XML. -->
+<deIdi2b2>
+<TEXT><![CDATA[Record date: 2091-03-14
+
+NORTH HARBOR MEDICAL CENTER
+Internal Medicine Clinic
+
+Patient: Delia Moreno    MRN: 4471-882
+Age: 58
+
+Ms. Moreno returns for follow-up of type 2 diabetes and hypertension. She works as a school librarian and reports more fatigue since her last visit on 01/09/2091. Home glucose readings run 140-180 in the morning. She stopped lisinopril two weeks ago because of a dry cough.
+
+Plan: start losartan 25 mg daily, repeat A1c in three months, and call the clinic at (555) 013-2847 with any dizziness.
+
+Owen Prasad, M.D.
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="13" end="23" text="2091-03-14" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="25" end="52" text="NORTH HARBOR MEDICAL CENTER" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="88" end="100" text="Delia Moreno" TYPE="PATIENT" comment="" />
+<ID id="P3" start="109" end="117" text="4471-882" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P4" start="123" end="125" text="58" TYPE="AGE" comment="" />
+<NAME id="P5" start="131" end="137" text="Moreno" TYPE="PATIENT" comment="" />
+<PROFESSION id="P6" start="212" end="228" text="school librarian" TYPE="PROFESSION" comment="" />
+<DATE id="P7" start="278" end="288" text="01/09/2091" TYPE="DATE" comment="" />
+<CONTACT id="P8" start="487" end="501" text="(555) 013-2847" TYPE="PHONE" comment="" />
+<NAME id="P9" start="523" end="534" text="Owen Prasad" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

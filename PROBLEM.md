@@ -1,13 +1,15 @@
-# 研究问题
+# Research question
 
-> **在相同临床文本与模型预算下，显式脱敏指令是否比泛化指令更少遗漏敏感实体，同时保留非敏感内容？**
+> **With the same clinical text and model budget, do explicit de-identification instructions miss fewer sensitive entities than general instructions, while keeping non-sensitive content intact?**
 
-**为什么值得解决：** 漏删可能暴露个人信息，过度删除则损害文本研究价值。仅报告一个总体分数无法说明两种错误的代价。
+**Why it matters:** A missed entity can expose personal information, while over-deletion destroys the text's research value. A single overall score cannot show the cost of either error.
 
-**核心矛盾：** 更详细的规则可能提高覆盖，也可能误删普通词语或改写原意；少见姓名和上下文歧义会使平均表现掩盖薄弱点。
+**Central tension:** More detailed rules may raise coverage, but they may also delete ordinary words or change the meaning; rare names and contextual ambiguity let an average hide the weak spots.
 
-**已有证据与缺口：** [README.md](README.md) 列出 explicit、implicit、general 提示及多个模型的历史比较，但需要统一实体定义、数据划分和计分口径后才能解释差异。
+**Current evidence and gap:** [README.md](README.md) lists the explicit, implicit and general prompts and the 2023 comparison across several models, but entity definitions, data splits and scoring need to be unified before the differences can be interpreted.
 
-**最小决定性实验：** 在有使用许可的标注文本上冻结文档级划分、模型 revision 与生成参数；比较规则基线及各提示。分别报告实体级召回、误删、文本保真与失败，检查姓名替换等受控扰动。避免将同一原文的变体分散到训练与测试。若增益来自过删或数据泄漏，应否定原假设。
+**Smallest decisive experiment:** On annotated text whose use is licensed, freeze a document-level split, the model revisions and the generation settings, and compare a rule-based baseline with each prompt. Report entity-level recall, over-deletion, text fidelity and failures separately, and test controlled perturbations such as name substitution. Never spread variants of the same source text across training and test. If a gain comes from over-deletion or data leakage, reject the hypothesis.
 
-这是拟议评测，不构成匿名化保证；不复制原始敏感文本。
+This is a proposed evaluation, not an anonymisation guarantee; no original sensitive text is reproduced.
+
+中文版：[PROBLEM.zh.md](PROBLEM.zh.md)

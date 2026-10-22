@@ -1,1 +1,12 @@
 .DS_Store
+__pycache__/
+
+# n2c2 2014 notes and anything derived from them stay out of git (data use agreement)
+testing-PHI-Gold-fixed/
+testing-PHI-Gold-fixed*.zip
+rewrite_*/
+deid-08*-output/*/
+!deid-0824-output/Deid2_results/
+deid-0824-output/Deid2_results/*/
+*_anonymized.txt
+llama2-10k-datase/sentences_*.csv

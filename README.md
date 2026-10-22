@@ -2,6 +2,8 @@
 
 # Open-LLM De-identification
 
+**English** · [简体中文](README.zh-CN.md)
+
 **Can open 7B language models strip protected health information from clinical notes, zero-shot?**
 
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
@@ -50,6 +52,46 @@ Share of gold PHI mentions no longer present in the saved output, averaged over 
 \* The decoded output begins with the prompt, which contains the note: rewrite files hold the whole note, and in the general runs the "answers" never match the note, so nothing is replaced. † Output cut at the default 20 tokens; a fragment scores as removal.
 
 **Reading the metric.** A PHI string counts as leaked when it appears as a whole word in the output, and each distinct string counts once however often it recurs, while the denominator counts every mention. Multi-word PHI such as an address never matches a single word. Together these let an untouched note score 0.597, so read every number against that floor; [`examples/score_example.py`](examples/score_example.py) shows the same effect on the synthetic note. Precision values printed by the scripts are not meaningful and are left out.
+
+## Architecture
+
+```mermaid
+flowchart LR
+    XML["n2c2 XML note<br/>TEXT + TAGS"]
+
+    subgraph GEN["Generators, one per prompt"]
+        direction TB
+        EX["Explicit2.py<br/>lists every PHI type"]
+        IM["Implicit2.py<br/>anonymize, no rules"]
+        GE["General2.py<br/>8 PHI questions"]
+    end
+
+    LM["model.generate()<br/>LLaMA · Falcon · Flan-T5"]
+    DEC["decode(output[0])<br/>prompt echoed<br/>for LLaMA, Falcon"]
+    DEL["replace answers<br/>in original note"]
+    OUT["rewrite_*/<br/>*_anonymized.txt"]
+
+    subgraph SCORE["Scoring"]
+        ACC["Accuracy.py<br/>whole-word match"]
+        RES["mean share removed<br/>over 514 notes"]
+    end
+
+    XML -->|TEXT| EX
+    XML -->|TEXT| IM
+    XML -->|TEXT| GE
+    EX -->|"prompt + note"| LM
+    IM -->|"prompt + note"| LM
+    GE -->|"question + note"| LM
+    LM --> DEC
+    DEC -->|"explicit, implicit"| OUT
+    DEC -->|"general: answers"| DEL
+    DEL --> OUT
+    OUT --> ACC
+    XML -.->|"gold TAGS"| ACC
+    ACC --> RES
+```
+
+Read left to right: each generator wraps the note in its prompt, and the text `decode(output[0])` returns is either saved as is (explicit, implicit) or split into answers that are then replaced in the note (general). For LLaMA and Falcon that decoded text starts with the prompt, so every saved file still holds every PHI string; the copies in `flan/` run the same three paths with Flan-T5.
 
 ## How it works
 

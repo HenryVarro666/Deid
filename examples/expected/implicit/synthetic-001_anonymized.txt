@@ -1,0 +1,13 @@
+Record date: [DATE]
+
+[HOSPITAL]
+Internal Medicine Clinic
+
+Patient: [PATIENT]    MRN: [MRN]
+Age: [AGE]
+
+Ms. [PATIENT] returns for follow-up of type 2 diabetes and hypertension. She works as a [PROFESSION] and reports more fatigue since her last visit on [DATE]. Home glucose readings run 140-180 in the morning. She stopped lisinopril two weeks ago because of a dry cough.
+
+Plan: start losartan 25 mg daily, repeat A1c in three months, and call the clinic at [PHONE] with any dizziness.
+
+[DOCTOR], M.D.

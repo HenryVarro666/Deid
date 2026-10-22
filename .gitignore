@@ -10,3 +10,6 @@ deid-08*-output/*/
 deid-0824-output/Deid2_results/*/
 *_anonymized.txt
 llama2-10k-datase/sentences_*.csv
+
+# the synthetic worked example is meant to be tracked
+!examples/expected/*/*_anonymized.txt
